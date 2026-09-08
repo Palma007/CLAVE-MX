@@ -115,15 +115,20 @@
             70% { box-shadow: 0 0 0 8px rgba(220, 38, 38, 0); }
             100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
         }
-        /* Burbujas de perfiles políticos */
+        /* Burbujas de perfiles políticos (paleta sobria: gris / azul marino / rojo editorial) */
         .perfil-bubble-ring {
-            background: conic-gradient(from 45deg, #dc2626, #f59e0b, #dc2626);
-            padding: 3px;
+            background: #64748b;
+            padding: 2.5px;
             border-radius: 9999px;
             flex-shrink: 0;
+            transition: background 0.2s ease;
+        }
+        .group:hover .perfil-bubble-ring {
+            background: #0f172a;
         }
         .perfil-bubble-ring.is-featured {
-            background: conic-gradient(from 45deg, #0f172a, #dc2626, #0f172a);
+            background: #dc2626;
+            padding: 3px;
         }
         .perfil-bubble-img {
             width: 100%;
@@ -141,6 +146,23 @@
         .scrollbar-thin::-webkit-scrollbar { height: 6px; }
         .scrollbar-thin::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
         .dark .scrollbar-thin::-webkit-scrollbar-thumb { background: #334155; }
+        /* Ticker superior en rojo (BBC-style breaking bar) */
+        #top-ticker-track {
+            animation: ticker-scroll 40s linear infinite;
+        }
+        #top-ticker-track:hover {
+            animation-play-state: paused;
+        }
+        /* Carrusel de perfiles con scroll-snap */
+        #perfiles-bubbles {
+            scroll-snap-type: x proximity;
+        }
+        #perfiles-bubbles > button {
+            scroll-snap-align: start;
+        }
+        .perfil-tag-featured {
+            background: linear-gradient(90deg, #7f1d1d, #dc2626);
+        }
     </style>
 </head>
 <body class="bg-slate-100 dark:bg-slate-900 text-slate-800 dark:text-slate-100 min-h-screen transition-colors duration-200">
@@ -148,6 +170,18 @@
     <!-- Reading Progress Bar -->
     <div class="fixed top-0 left-0 w-full h-1 bg-slate-200 z-50">
         <div id="progress-bar" class="h-full bg-brand-600"></div>
+    </div>
+
+    <!-- Barra Roja de Última Hora (ticker en vivo) -->
+    <div class="bg-brand-700 text-white border-b border-brand-900/60">
+        <div class="max-w-7xl mx-auto flex items-stretch h-9">
+            <span class="flex-shrink-0 bg-brand-900/40 text-[11px] font-black uppercase tracking-wider pl-4 pr-3 flex items-center gap-1.5 whitespace-nowrap">
+                <span class="w-1.5 h-1.5 rounded-full bg-white animate-pulse"></span> Última Hora
+            </span>
+            <div class="overflow-hidden flex-1">
+                <div id="top-ticker-track" class="flex whitespace-nowrap gap-10 w-max text-xs sm:text-[13px] font-medium h-9 items-center pl-4"></div>
+            </div>
+        </div>
     </div>
 
     <!-- Top Bar Header -->
@@ -178,10 +212,18 @@
 
     <!-- Main Header -->
     <header class="bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-40 shadow-sm">
-        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-            
-            <!-- Logo -->
-            <div class="flex items-center space-x-3">
+        <div class="max-w-7xl mx-auto px-4 py-4 grid grid-cols-2 lg:grid-cols-[1fr_auto_1fr] items-center gap-4">
+
+            <!-- Menú izquierdo: Edición Nacional -->
+            <nav class="hidden lg:flex items-center gap-6 text-xs font-bold uppercase tracking-wider text-slate-600 dark:text-slate-300">
+                <a href="#noticias-vivo" onclick="setNewsTab('nacional')" class="hover:text-brand-600 transition py-1 flex items-center gap-1.5">
+                    <span class="w-1 h-1 rounded-full bg-brand-600"></span> Edición Nacional
+                </a>
+                <a href="#mapa-interactivo" class="hover:text-brand-600 transition py-1">Regional</a>
+            </nav>
+
+            <!-- Logo centrado -->
+            <div class="flex flex-col items-center justify-self-start lg:justify-self-center order-first lg:order-none">
                 <a href="#" class="flex items-center space-x-2 group">
                     <div class="bg-brand-600 text-white font-black text-2xl px-3 py-1 rounded tracking-tighter group-hover:bg-brand-700 transition">
                         CLAVE
@@ -190,20 +232,19 @@
                         MX
                     </div>
                 </a>
-                <span class="hidden md:inline-block border-l border-slate-300 dark:border-slate-700 pl-3 text-xs uppercase tracking-wider text-slate-500 font-medium">
+                <span class="hidden sm:inline-block mt-1 text-[10px] uppercase tracking-[0.2em] text-slate-500 font-semibold">
                     Periodismo Digital e Investigación
                 </span>
             </div>
 
-            <!-- Navigation Links -->
-            <nav class="hidden lg:flex items-center space-x-6 text-sm font-semibold text-slate-700 dark:text-slate-300">
-                <a href="#noticias-vivo" class="hover:text-brand-600 transition py-1">NACIONAL</a>
-                <a href="#mapa-interactivo" class="hover:text-brand-600 transition py-1">REGIONAL</a>
-                <a href="#economia-vivo" class="hover:text-brand-600 transition py-1">ECONOMÍA</a>
-            </nav>
-
-            <!-- Actions -->
-            <div class="flex items-center space-x-3">
+            <!-- Menú derecho: Internacional + Acciones -->
+            <div class="flex items-center justify-end gap-3 sm:gap-5">
+                <nav class="hidden lg:flex items-center gap-6 text-xs font-bold uppercase tracking-wider text-slate-600 dark:text-slate-300">
+                    <a href="#noticias-vivo" onclick="setNewsTab('internacional')" class="hover:text-brand-600 transition py-1 flex items-center gap-1.5">
+                        <span class="w-1 h-1 rounded-full bg-navy-800 dark:bg-slate-400"></span> Internacional
+                    </a>
+                    <a href="#economia-vivo" class="hover:text-brand-600 transition py-1">Economía</a>
+                </nav>
                 <button onclick="toggleSearchModal()" class="p-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-full transition" title="Buscar">
                     <i class="fas fa-search text-lg"></i>
                 </button>
@@ -796,7 +837,7 @@
                 <div>
                     <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Legal</h4>
                     <ul class="space-y-2 text-xs">
-                        <li><a href="#" class="hover:text-white transition">Aviso de Privacidad</a></li>
+                        <li><a href="#" onclick="event.preventDefault(); togglePrivacyModal();" class="hover:text-white transition">Aviso de Privacidad</a></li>
                     </ul>
                 </div>
 
@@ -862,6 +903,85 @@
                 <div id="perfil-modal-news" class="space-y-3 max-h-72 overflow-y-auto pr-1">
                     <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Aviso de Privacidad -->
+    <div id="privacy-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-start sm:items-center justify-center p-4 overflow-y-auto hidden" onclick="if(event.target===this) togglePrivacyModal()">
+        <div class="bg-white dark:bg-slate-900 w-full max-w-3xl rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 my-8 overflow-hidden">
+            <div class="flex items-center justify-between p-6 border-b border-slate-200 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900 z-10">
+                <h3 class="font-black text-slate-900 dark:text-white text-lg flex items-center gap-2">
+                    <i class="fas fa-shield-halved text-brand-600"></i> Aviso de Privacidad Integral
+                </h3>
+                <button onclick="togglePrivacyModal()" class="text-slate-400 hover:text-slate-600 dark:hover:text-white">
+                    <i class="fas fa-times text-lg"></i>
+                </button>
+            </div>
+            <div class="p-6 sm:p-8 text-sm text-slate-700 dark:text-slate-300 leading-relaxed space-y-5 max-h-[70vh] overflow-y-auto">
+
+                <p class="text-xs text-slate-400">Última actualización: Agosto 2026</p>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">1. Identidad y Domicilio del Responsable</h4>
+                    <p>El titular y responsable del tratamiento de sus datos personales recopilados a través de este sitio web y sus plataformas digitales es <strong>CLAVE MX</strong>, con domicilio en Ciudad de México &amp; Puebla, México, y portal web <strong id="privacy-site-url">clave.mx</strong>.</p>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">2. Datos Personales que Recopilamos</h4>
+                    <p class="mb-2">Para llevar a cabo las finalidades descritas en el presente aviso, podemos recabar los siguientes datos personales:</p>
+                    <ul class="list-disc pl-5 space-y-1">
+                        <li><strong>Suscriptores o Lectores:</strong> Nombre completo, correo electrónico, país/ciudad de residencia, dirección IP e historial de navegación mediante cookies.</li>
+                        <li><strong>Denuncias Ciudadanas o Notas de Opinión:</strong> Nombre, datos de contacto y documentación o evidencias proporcionadas voluntariamente.</li>
+                        <li><strong>Contacto Comercial o Anunciantes:</strong> Nombre del representante, empresa, teléfono y RFC.</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">3. Finalidades del Tratamiento de Datos</h4>
+                    <p class="font-semibold text-slate-800 dark:text-slate-200 mb-1">Finalidades Primarias (necesarias para el servicio):</p>
+                    <ul class="list-disc pl-5 space-y-1 mb-3">
+                        <li>Enviar boletines informativos (newsletters) o alertas de noticias requeridas por el usuario.</li>
+                        <li>Gestionar y verificar la autenticidad de denuncias ciudadanas, cartas al editor o comentarios.</li>
+                        <li>Dar seguimiento a solicitudes de contacto, contratación de espacios publicitarios o soporte técnico.</li>
+                    </ul>
+                    <p class="font-semibold text-slate-800 dark:text-slate-200 mb-1">Finalidades Secundarias (opcionales):</p>
+                    <ul class="list-disc pl-5 space-y-1 mb-2">
+                        <li>Realizar encuestas de satisfacción o estudios sobre hábitos de consumo de noticias.</li>
+                        <li>Enviar campañas publicitarias o promociones de aliados comerciales.</li>
+                    </ul>
+                    <p>Si no desea que sus datos personales sean tratados para las finalidades secundarias, puede enviar un correo a <a href="mailto:redaccion@clave.mx" class="text-brand-600 hover:underline">redaccion@clave.mx</a> manifestando su negativa.</p>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">4. Uso de Cookies y Tecnologías de Rastreo</h4>
+                    <p>Le informamos que en nuestras páginas de internet utilizamos cookies y web beacons para monitorear su comportamiento como usuario de internet, brindarle un mejor servicio y experiencia al navegar en nuestra página, así como ofrecerle publicidad relevante. Los datos que obtenemos incluyen: tipo de navegador, sistema operativo, páginas web visitadas y dirección IP.</p>
+                    <p class="mt-2">Puede desactivar o administrar el uso de cookies en cualquier momento ajustando la configuración de su navegador web.</p>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">5. Transferencia de Datos</h4>
+                    <p>Sus datos personales no serán vendidos ni compartidos con terceros sin su consentimiento previo, salvo las excepciones previstas en el Artículo 37 de la LFPDPPP, o cuando sea requerido por mandato judicial o de autoridades competentes.</p>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">6. Derechos ARCO (Acceso, Rectificación, Cancelación y Oposición)</h4>
+                    <p class="mb-2">Usted tiene derecho a conocer qué datos personales tenemos de usted, para qué los utilizamos y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada adecuadamente (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición).</p>
+                    <p class="mb-2">Para el ejercicio de cualquiera de los derechos ARCO, deberá enviar una solicitud formal al correo electrónico: <a href="mailto:Clave@mx.com" class="text-brand-600 hover:underline">Clave@mx.com</a>.</p>
+                    <p class="mb-1">La solicitud deberá contener:</p>
+                    <ol class="list-decimal pl-5 space-y-1">
+                        <li>Nombre del titular y correo para comunicarle la respuesta.</li>
+                        <li>Documento que acredite su identidad (copia de identificación oficial).</li>
+                        <li>Descripción clara de los datos respecto de los que busca ejercer alguno de los derechos ARCO.</li>
+                    </ol>
+                </div>
+
+                <div>
+                    <h4 class="font-bold text-slate-900 dark:text-white mb-1.5">7. Cambios al Aviso de Privacidad</h4>
+                    <p>El presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales, de nuestras propias necesidades por los servicios que ofrecemos o de nuestras prácticas de privacidad.</p>
+                    <p class="mt-2">Cualquier modificación será notificada a través de nuestro sitio web en esta misma sección.</p>
+                </div>
+
             </div>
         </div>
     </div>
@@ -1009,6 +1129,16 @@
             modal.classList.toggle('hidden');
         }
 
+        function togglePrivacyModal() {
+            const modal = document.getElementById('privacy-modal');
+            const urlSpan = document.getElementById('privacy-site-url');
+            if (urlSpan && modal.classList.contains('hidden')) {
+                urlSpan.innerText = window.location.origin + window.location.pathname;
+            }
+            modal.classList.toggle('hidden');
+            document.body.style.overflow = modal.classList.contains('hidden') ? '' : 'hidden';
+        }
+
         // Helper Toast Function
         function showToast(message) {
             const toast = document.getElementById('toast');
@@ -1124,11 +1254,24 @@
         }
 
         function renderTicker() {
-            const track = document.getElementById('ticker-track');
             const pool = [...(blockData.nacional?.items || []), ...(blockData.internacional?.items || [])].slice(0, 14);
-            if (!pool.length) { track.innerHTML = '<span class="text-slate-400">Sin noticias disponibles todavía.</span>'; return; }
-            const headlines = pool.map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)} <span class="text-slate-500">· ${escapeHtml(n.outlet || n.source || '')}</span></span>`);
-            track.innerHTML = headlines.concat(headlines).join('<span class="mx-2 text-slate-600">•</span>');
+
+            const track = document.getElementById('ticker-track');
+            if (!pool.length) { track.innerHTML = '<span class="text-slate-400">Sin noticias disponibles todavía.</span>'; }
+            else {
+                const headlines = pool.map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)} <span class="text-slate-500">· ${escapeHtml(n.outlet || n.source || '')}</span></span>`);
+                track.innerHTML = headlines.concat(headlines).join('<span class="mx-2 text-slate-600">•</span>');
+            }
+
+            // Barra roja superior (BBC-style breaking bar): mismo contenido, tono compacto
+            const topTrack = document.getElementById('top-ticker-track');
+            if (topTrack) {
+                if (!pool.length) { topTrack.innerHTML = '<span class="text-white/70">Sin noticias disponibles todavía.</span>'; }
+                else {
+                    const topHeadlines = pool.map(n => `<span>${escapeHtml(n.title)}</span>`);
+                    topTrack.innerHTML = topHeadlines.concat(topHeadlines).join('<span class="mx-6 text-white/50">•</span>');
+                }
+            }
         }
 
         function newsCard(n) {
@@ -1335,6 +1478,7 @@
                 isFeatured: true,
                 anchor: '#perfil-carlos-palma',
                 name: 'Dr. Carlos Palma Marín',
+                tag: 'Liderazgo Civil e Institucional',
                 photo: 'https://i.imgur.com/icvA6LI.jpg',
                 photoFallback: 'image.png'
             },
@@ -1393,11 +1537,12 @@
         function renderPerfilesBubbles() {
             const box = document.getElementById('perfiles-bubbles');
             box.innerHTML = PERFILES_CONFIG.map(p => `
-                <button onclick="${p.isFeatured ? `document.querySelector('${p.anchor}').scrollIntoView({behavior:'smooth'})` : `openPerfilModal('${p.id}')`}" class="flex flex-col items-center gap-1.5 w-20 flex-shrink-0 group">
+                <button onclick="${p.isFeatured ? `document.querySelector('${p.anchor}').scrollIntoView({behavior:'smooth'})` : `openPerfilModal('${p.id}')`}" class="flex flex-col items-center gap-1.5 ${p.tag ? 'w-24' : 'w-20'} flex-shrink-0 group">
                     <span class="perfil-bubble-ring w-16 h-16 ${p.isFeatured ? 'is-featured' : ''} group-hover:scale-105 transition">
                         <img src="${p.photo}" ${p.photoFallback ? `onerror="this.onerror=null; this.src='${p.photoFallback}';"` : `onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(p.name)}&background=0f172a&color=fff&bold=true';"`} alt="${escapeHtml(p.name)}" class="perfil-bubble-img">
                     </span>
                     <span class="text-[10px] font-semibold text-slate-700 dark:text-slate-300 text-center leading-tight line-clamp-2">${escapeHtml(p.name)}</span>
+                    ${p.tag ? `<span class="perfil-tag-featured text-white text-[8px] font-bold uppercase tracking-wide px-1.5 py-0.5 rounded text-center leading-tight">${escapeHtml(p.tag)}</span>` : ''}
                 </button>
             `).join('');
         }
