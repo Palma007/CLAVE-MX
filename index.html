@@ -43,6 +43,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
+    <!-- Leaflet (mapa interactivo) -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -72,6 +76,44 @@
         #progress-bar {
             width: 0%;
             transition: width 0.1s ease-out;
+        }
+        /* Live news ticker */
+        @keyframes ticker-scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+        #ticker-track {
+            animation: ticker-scroll 45s linear infinite;
+        }
+        #ticker-track:hover {
+            animation-play-state: paused;
+        }
+        /* Interactive map */
+        #mx-map {
+            height: 560px;
+            width: 100%;
+            border-radius: 1rem;
+            background: #e2e8f0;
+            z-index: 0;
+        }
+        .dark #mx-map {
+            background: #1e293b;
+        }
+        .mx-state-path {
+            transition: fill 0.15s ease, opacity 0.15s ease;
+            cursor: pointer;
+        }
+        .leaflet-popup-content-wrapper {
+            border-radius: 0.75rem;
+        }
+        .live-dot {
+            box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.7);
+            animation: live-pulse 1.8s infinite;
+        }
+        @keyframes live-pulse {
+            0% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.6); }
+            70% { box-shadow: 0 0 0 8px rgba(220, 38, 38, 0); }
+            100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
         }
     </style>
 </head>
@@ -129,12 +171,9 @@
 
             <!-- Navigation Links -->
             <nav class="hidden lg:flex items-center space-x-6 text-sm font-semibold text-slate-700 dark:text-slate-300">
-                <a href="#" class="text-brand-600 dark:text-brand-500 border-b-2 border-brand-600 py-1">POLÍTICA</a>
-                <a href="#" class="hover:text-brand-600 transition py-1">NACIONAL</a>
-                <a href="#" class="hover:text-brand-600 transition py-1">PUEBLA</a>
-                <a href="#" class="hover:text-brand-600 transition py-1">ECONOMÍA</a>
-                <a href="#" class="hover:text-brand-600 transition py-1">OPINIÓN</a>
-                <a href="#" class="hover:text-brand-600 transition py-1">REGIONAL</a>
+                <a href="#noticias-vivo" class="hover:text-brand-600 transition py-1">NACIONAL</a>
+                <a href="#mapa-interactivo" class="hover:text-brand-600 transition py-1">REGIONAL</a>
+                <a href="#economia-vivo" class="hover:text-brand-600 transition py-1">ECONOMÍA</a>
             </nav>
 
             <!-- Actions -->
@@ -498,6 +537,160 @@
 
             </aside>
         </div>
+
+        <!-- ================= SECCIÓN 1: NACIONAL — NOTICIAS EN VIVO ================= -->
+        <section id="noticias-vivo" class="mt-16 scroll-mt-24">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-6">
+                <h2 class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white flex items-center gap-3">
+                    <span class="live-dot w-3 h-3 rounded-full bg-brand-600 inline-block"></span>
+                    Nacional · Noticias en Vivo
+                </h2>
+                <div class="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2">
+                    <i class="fas fa-satellite-dish text-brand-600"></i>
+                    <span>Actualizado: <span id="news-updated-at">cargando…</span></span>
+                    <button onclick="loadNoticias(true)" class="ml-2 px-2 py-1 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 transition" title="Actualizar ahora">
+                        <i class="fas fa-rotate"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Ticker -->
+            <div class="relative overflow-hidden bg-navy-950 text-white rounded-xl mb-6 py-2.5 border border-slate-800">
+                <div class="flex items-center">
+                    <span class="flex-shrink-0 bg-brand-600 text-[11px] font-bold uppercase tracking-wider px-3 py-1 ml-1 rounded z-10">En Vivo</span>
+                    <div class="overflow-hidden flex-1 ml-3">
+                        <div id="ticker-track" class="flex whitespace-nowrap gap-10 w-max text-xs sm:text-sm text-slate-200"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Category filters -->
+            <div id="news-filters" class="flex flex-wrap gap-2 mb-6"></div>
+
+            <!-- News grid -->
+            <div id="news-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+                <div class="col-span-full text-center py-10 text-slate-400 text-sm">
+                    <i class="fas fa-circle-notch fa-spin mr-2"></i> Cargando noticias…
+                </div>
+            </div>
+        </section>
+
+        <!-- ================= SECCIÓN 2: REGIONAL — MAPA INTERACTIVO ================= -->
+        <section id="mapa-interactivo" class="mt-16 scroll-mt-24">
+            <div class="mb-6">
+                <h2 class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white flex items-center gap-3">
+                    <i class="fas fa-map-location-dot text-brand-600"></i>
+                    Regional · Mapa Interactivo de México
+                </h2>
+                <p class="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-3xl">
+                    Explora las 32 entidades federativas y sus capitales. Selecciona un estado en el mapa o en la lista para ver noticias relacionadas y buscar cobertura regional.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
+                <div class="lg:col-span-8 bg-white dark:bg-slate-950 p-3 sm:p-4 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800">
+                    <div id="mx-map"></div>
+                    <p class="text-[11px] text-slate-400 mt-2 px-1">
+                        <i class="fas fa-circle-info mr-1"></i> Cobertura: 32 estados, sus capitales y principales zonas metropolitanas de México.
+                    </p>
+                </div>
+
+                <div class="lg:col-span-4 space-y-4">
+                    <div id="state-detail" class="bg-white dark:bg-slate-950 p-5 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 min-h-[140px]">
+                        <h3 class="font-bold text-slate-900 dark:text-white text-sm uppercase tracking-wider mb-2 flex items-center gap-2">
+                            <i class="fas fa-location-dot text-brand-600"></i> Selecciona un estado
+                        </h3>
+                        <p class="text-xs text-slate-500 dark:text-slate-400">Haz clic en cualquier estado o ciudad del mapa para ver su información y noticias asociadas.</p>
+                    </div>
+
+                    <div class="bg-white dark:bg-slate-950 p-5 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 max-h-72 overflow-y-auto">
+                        <h3 class="font-bold text-slate-900 dark:text-white text-xs uppercase tracking-wider mb-3 flex items-center gap-2">
+                            <i class="fas fa-list mr-0.5"></i> Entidades federativas
+                        </h3>
+                        <div id="state-list" class="grid grid-cols-2 gap-1.5 text-xs"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ================= SECCIÓN 3: ECONOMÍA EN VIVO ================= -->
+        <section id="economia-vivo" class="mt-16 mb-4 scroll-mt-24">
+            <div class="mb-6">
+                <h2 class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white flex items-center gap-3">
+                    <span class="live-dot w-3 h-3 rounded-full bg-emerald-500 inline-block"></span>
+                    Economía en Vivo
+                </h2>
+                <p class="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-3xl">
+                    Indicadores, calendario económico y datos oficiales de México, vinculados en tiempo real a fuentes especializadas.
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-6">
+                <!-- TradingView Economic Calendar Widget -->
+                <div class="bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 overflow-hidden">
+                    <div class="p-4 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between">
+                        <h3 class="font-bold text-slate-900 dark:text-white text-sm flex items-center gap-2">
+                            <i class="fas fa-chart-line text-brand-600"></i> Calendario Económico — TradingView
+                        </h3>
+                        <a href="https://es.tradingview.com/markets/world-economy/" target="_blank" rel="noopener noreferrer" class="text-[11px] text-brand-600 hover:underline flex items-center gap-1">
+                            Ver completo <i class="fas fa-arrow-up-right-from-square"></i>
+                        </a>
+                    </div>
+                    <div class="tradingview-widget-container" style="height:460px">
+                        <div class="tradingview-widget-container__widget" style="height:100%"></div>
+                        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+                        {
+                          "colorTheme": "light",
+                          "isTransparent": false,
+                          "width": "100%",
+                          "height": "460",
+                          "locale": "es",
+                          "importanceFilter": "-1,0,1",
+                          "countryFilter": "mx"
+                        }
+                        </script>
+                    </div>
+                </div>
+
+                <!-- Investing.com Economic Calendar -->
+                <div class="bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 overflow-hidden">
+                    <div class="p-4 border-b border-slate-100 dark:border-slate-800 flex items-center justify-between">
+                        <h3 class="font-bold text-slate-900 dark:text-white text-sm flex items-center gap-2">
+                            <i class="fas fa-calendar-days text-brand-600"></i> Calendario Económico — Investing.com
+                        </h3>
+                        <a href="https://mx.investing.com/economic-calendar/" target="_blank" rel="noopener noreferrer" class="text-[11px] text-brand-600 hover:underline flex items-center gap-1">
+                            Ver completo <i class="fas fa-arrow-up-right-from-square"></i>
+                        </a>
+                    </div>
+                    <iframe
+                        src="https://sslecal2.investing.com/?ecoDayBackground=%23fff&columns=exc_flag,exc_currency,exc_importance,exc_actual,exc_forecast,exc_previous&countries=25,32&calType=week&timeZone=15&lang=4"
+                        width="100%" height="460" frameborder="0" loading="lazy"
+                        title="Calendario económico Investing.com"
+                        class="block"
+                    ></iframe>
+                </div>
+            </div>
+
+            <!-- DataMéxico card -->
+            <a href="https://www.gob.mx/datamexico" target="_blank" rel="noopener noreferrer"
+               class="group flex flex-col sm:flex-row items-center gap-6 bg-gradient-to-br from-navy-900 to-slate-950 text-white p-6 sm:p-8 rounded-2xl shadow-xl border border-slate-800 hover:border-brand-600 transition">
+                <div class="w-16 h-16 rounded-xl bg-brand-600 flex items-center justify-center text-2xl flex-shrink-0 shadow-lg group-hover:scale-105 transition">
+                    <i class="fas fa-database"></i>
+                </div>
+                <div class="flex-1">
+                    <h3 class="font-bold text-lg mb-1 flex items-center gap-2">
+                        DataMéxico — gob.mx
+                        <i class="fas fa-arrow-up-right-from-square text-xs text-slate-400"></i>
+                    </h3>
+                    <p class="text-sm text-slate-300">
+                        Plataforma oficial del Gobierno de México con datos abiertos de economía, comercio exterior, empleo y desarrollo regional por estado y municipio.
+                    </p>
+                </div>
+                <span class="flex-shrink-0 bg-white/10 group-hover:bg-brand-600 border border-white/20 text-xs font-bold uppercase tracking-wider px-4 py-2.5 rounded-lg transition">
+                    Consultar datos
+                </span>
+            </a>
+        </section>
     </main>
 
     <!-- Main Footer -->
@@ -524,21 +717,16 @@
                 <div>
                     <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Secciones</h4>
                     <ul class="space-y-2 text-xs">
-                        <li><a href="#" class="hover:text-white transition">Política Federal</a></li>
-                        <li><a href="#" class="hover:text-white transition">Estado de Puebla</a></li>
-                        <li><a href="#" class="hover:text-white transition">Análisis Económico</a></li>
-                        <li><a href="#" class="hover:text-white transition">Columnas y Opinión</a></li>
-                        <li><a href="#" class="hover:text-white transition">Transparencia</a></li>
+                        <li><a href="#noticias-vivo" class="hover:text-white transition">Nacional</a></li>
+                        <li><a href="#mapa-interactivo" class="hover:text-white transition">Regional</a></li>
+                        <li><a href="#economia-vivo" class="hover:text-white transition">Economía</a></li>
                     </ul>
                 </div>
 
                 <div>
-                    <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Institucional</h4>
+                    <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Legal</h4>
                     <ul class="space-y-2 text-xs">
-                        <li><a href="#" class="hover:text-white transition">Directorio Editorial</a></li>
-                        <li><a href="#" class="hover:text-white transition">Código de Ética</a></li>
                         <li><a href="#" class="hover:text-white transition">Aviso de Privacidad</a></li>
-                        <li><a href="#" class="hover:text-white transition">Contacto de Prensa</a></li>
                     </ul>
                 </div>
 
@@ -734,139 +922,261 @@
 
         function escapeHtml(text) {
             return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-        } {
-    "status": "ok",
-    "feed": {
-        "url": "https://heraldodemexico.com.mx/rss/un_foto.html",
-        "title": "El Heraldo de México",
-        "link": "",
-        "author": "",
-        "description": "",
-        "image": ""
-    },
-    "items": [
-        {
-            "title": "Chedraui lanza la mejor oferta de 30% o 20% de descuento bafles, bocinas y más por tiempo limitado: validez hasta el 16 de septiembre",
-            "pubDate": "2026-09-07 22:00:01",
-            "link": "https://heraldodemexico.com.mx/economia/2026/9/7/chedraui-lanza-la-mejor-oferta-de-30-20-de-descuento-bafles-bocinas-mas-por-tiempo-limitado-validez-hasta-el-16-de-septiembre-883892.html",
-            "guid": "https://heraldodemexico.com.mx/economia/2026/9/7/chedraui-lanza-la-mejor-oferta-de-30-20-de-descuento-bafles-bocinas-mas-por-tiempo-limitado-validez-hasta-el-16-de-septiembre-883892.html",
-            "author": "Matías Torino",
-            "thumbnail": "",
-            "description": "Chedraui lanza una promoción imperdible en sistemas de audio y auriculares. Más en la nota.<br>\n",
-            "content": "Chedraui lanza una promoción imperdible en sistemas de audio y auriculares. Más en la nota.<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Estados Unidos reconoce labor de México y Omar García Harfuch en destrucción de 3 narcolaboratorios en Guerrero",
-            "pubDate": "2026-09-07 21:57:02",
-            "link": "https://heraldodemexico.com.mx/nacional/2026/9/7/estados-unidos-reconoce-labor-de-mexico-omar-garcia-harfuch-en-destruccion-de-narcolaboratorios-en-guerrero-883891.html",
-            "guid": "https://heraldodemexico.com.mx/nacional/2026/9/7/estados-unidos-reconoce-labor-de-mexico-omar-garcia-harfuch-en-destruccion-de-narcolaboratorios-en-guerrero-883891.html",
-            "author": "Noemí Gutiérrez",
-            "thumbnail": "",
-            "description": "Autoridades mexicanas decomisaron en los tres laboratorios clandestinos de metanfetamina en Guerrero 3.4 toneladas métricas de sustancias químicas y precursores químicos<br>\n",
-            "content": "Autoridades mexicanas decomisaron en los tres laboratorios clandestinos de metanfetamina en Guerrero 3.4 toneladas métricas de sustancias químicas y precursores químicos<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Con 10 capítulos en Netflix: la serie de la creadora de &quot;Girls&quot; que retrata el amor y las crisis de los treintañeros",
-            "pubDate": "2026-09-07 21:56:03",
-            "link": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/con-10-capitulos-en-netflix-la-serie-de-la-creadora-de-girls-que-retrata-el-amor-las-crisis-de-los-treintaneros-883910.html",
-            "guid": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/con-10-capitulos-en-netflix-la-serie-de-la-creadora-de-girls-que-retrata-el-amor-las-crisis-de-los-treintaneros-883910.html",
-            "author": "Nicolás Salas",
-            "thumbnail": "",
-            "description": "La ficción explora la vida de los treintañeros en Londres de la mano de un elenco de estrellas con figuras como Andrew Scott, Jessica Alba o Rita Wilson.<br>\n",
-            "content": "La ficción explora la vida de los treintañeros en Londres de la mano de un elenco de estrellas con figuras como Andrew Scott, Jessica Alba o Rita Wilson.<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "¿Cuáles son las dinámicas semanales que habrá en La Granja VIP 2?",
-            "pubDate": "2026-09-07 21:52:04",
-            "link": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/cuales-son-las-dinamicas-semanales-que-habra-en-la-granja-vip-2-883903.html",
-            "guid": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/cuales-son-las-dinamicas-semanales-que-habra-en-la-granja-vip-2-883903.html",
-            "author": "Gladis Balbastro",
-            "thumbnail": "",
-            "description": "Los participantes tendrán que superar distintas pruebas y tomar decisiones que podrían cambiar por completo el rumbo de la competencia para ganarse su lugar<br>\n",
-            "content": "Los participantes tendrán que superar distintas pruebas y tomar decisiones que podrían cambiar por completo el rumbo de la competencia para ganarse su lugar<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Maru Campos destaca detección y aseguramiento de narcolaboratorio en Parral en colaboración con Defensa",
-            "pubDate": "2026-09-07 21:50:05",
-            "link": "https://heraldodemexico.com.mx/nacional/2026/9/7/maru-campos-destaca-deteccion-aseguramiento-de-narcolaboratorio-en-parral-en-colaboracion-con-defensa-883912.html",
-            "guid": "https://heraldodemexico.com.mx/nacional/2026/9/7/maru-campos-destaca-deteccion-aseguramiento-de-narcolaboratorio-en-parral-en-colaboracion-con-defensa-883912.html",
-            "author": "Hanzel Forteza",
-            "thumbnail": "",
-            "description": "La gobernadora de Chihuahua reconoció el trabajo coordinado entre las corporaciones estatales y federales en la lucha contra el crimen y las drogas<br>\n",
-            "content": "La gobernadora de Chihuahua reconoció el trabajo coordinado entre las corporaciones estatales y federales en la lucha contra el crimen y las drogas<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Luz María Hernández: Morena en Edomex garantizará piso parejo en la selección de candidaturas",
-            "pubDate": "2026-09-07 21:43:06",
-            "link": "https://heraldodemexico.com.mx/nacional/2026/9/7/luz-maria-hernandez-morena-en-edomex-garantizara-piso-parejo-en-la-seleccion-de-candidaturas-883908.html",
-            "guid": "https://heraldodemexico.com.mx/nacional/2026/9/7/luz-maria-hernandez-morena-en-edomex-garantizara-piso-parejo-en-la-seleccion-de-candidaturas-883908.html",
-            "author": "Hanzel Forteza",
-            "thumbnail": "",
-            "description": "La presidenta de Morena en el Estado de México destacó que el trabajo del partido en la entidad se fundamenta en una red de comunicación consolidada<br>\n",
-            "content": "La presidenta de Morena en el Estado de México destacó que el trabajo del partido en la entidad se fundamenta en una red de comunicación consolidada<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Rocían vinagre en las ruedas para ahuyentar perros: el popular truco que puede dañar los neumáticos",
-            "pubDate": "2026-09-07 21:33:07",
-            "link": "https://heraldodemexico.com.mx/estilo-de-vida/2026/9/7/rocian-vinagre-en-las-ruedas-para-ahuyentar-perros-el-popular-truco-que-puede-danar-los-neumaticos-883907.html",
-            "guid": "https://heraldodemexico.com.mx/estilo-de-vida/2026/9/7/rocian-vinagre-en-las-ruedas-para-ahuyentar-perros-el-popular-truco-que-puede-danar-los-neumaticos-883907.html",
-            "author": "Nicolás Salas",
-            "thumbnail": "",
-            "description": "La Universidad de Minnesota advierte que los animales se acostumbran a este olor desagradable y que la exposición prolongada a la sustancia deteriora el caucho.<br>\n",
-            "content": "La Universidad de Minnesota advierte que los animales se acostumbran a este olor desagradable y que la exposición prolongada a la sustancia deteriora el caucho.<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Esposa de Einar Méndez rompe el silencio tras la muerte del entrenador fitness: &quot;nos volveremos a encontrar&quot; | VIDEO",
-            "pubDate": "2026-09-07 21:15:08",
-            "link": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/esposa-de-einar-mendez-rompe-el-silencio-tras-la-muerte-del-entrenador-fitness-nos-volveremos-encontrar-video-883894.html",
-            "guid": "https://heraldodemexico.com.mx/espectaculos/2026/9/7/esposa-de-einar-mendez-rompe-el-silencio-tras-la-muerte-del-entrenador-fitness-nos-volveremos-encontrar-video-883894.html",
-            "author": "Alfonso Sotelo",
-            "thumbnail": "",
-            "description": "Yan Méndez reapareció en un nuevo video donde agradece las muestras de apoyo que ha recibido a través de redes sociales<br>\n",
-            "content": "Yan Méndez reapareció en un nuevo video donde agradece las muestras de apoyo que ha recibido a través de redes sociales<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Ya entró en vigor la Ley de Bienestar Animal que prohíbe dejar perros y gatos solos dentro del auto",
-            "pubDate": "2026-09-07 21:15:09",
-            "link": "https://heraldodemexico.com.mx/mundo/2026/9/7/ya-entro-en-vigor-la-ley-de-bienestar-animal-que-prohibe-dejar-perros-gatos-solos-dentro-del-auto-883893.html",
-            "guid": "https://heraldodemexico.com.mx/mundo/2026/9/7/ya-entro-en-vigor-la-ley-de-bienestar-animal-que-prohibe-dejar-perros-gatos-solos-dentro-del-auto-883893.html",
-            "author": "Nicolás Salas",
-            "thumbnail": "",
-            "description": "La norma rige a nivel nacional y fija pautas estrictas de convivencia, obligando a los propietarios a garantizar atención médica y geolocalización constante.<br>\n",
-            "content": "La norma rige a nivel nacional y fija pautas estrictas de convivencia, obligando a los propietarios a garantizar atención médica y geolocalización constante.<br>\n",
-            "enclosure": {},
-            "categories": []
-        },
-        {
-            "title": "Detienen a hombre que presuntamente amarró y arrastró a un perrito desde una motocicleta en Sonora",
-            "pubDate": "2026-09-07 21:14:10",
-            "link": "https://heraldodemexico.com.mx/nacional/2026/9/7/detienen-hombre-que-presuntamente-amarro-arrastro-un-perrito-desde-una-motocicleta-en-sonora-883886.html",
-            "guid": "https://heraldodemexico.com.mx/nacional/2026/9/7/detienen-hombre-que-presuntamente-amarro-arrastro-un-perrito-desde-una-motocicleta-en-sonora-883886.html",
-            "author": "Gerardo Moreno Valenzuela",
-            "thumbnail": "",
-            "description": "Sergio “N” fue vinculado a proceso y quedó en prisión preventiva por presuntamente arrastrar a un perro amarrado del cuello en Agua Prieta.<br>\n",
-            "content": "Sergio “N” fue vinculado a proceso y quedó en prisión preventiva por presuntamente arrastrar a un perro amarrado del cuello en Agua Prieta.<br>\n",
-            "enclosure": {},
-            "categories": []
         }
-    ]
-}
+
+        /* =====================================================================
+           SECCIÓN NACIONAL — NOTICIAS EN VIVO (fuente: noticias.json)
+           ===================================================================== */
+        const NOTICIAS_URL = 'noticias.json';
+        let allNoticias = [];
+        let activeCategory = 'todas';
+        let newsTimer = null;
+
+        const CATEGORY_LABELS = {
+            'nacional': 'Nacional',
+            'economia': 'Economía',
+            'espectaculos': 'Espectáculos',
+            'mundo': 'Mundo',
+            'estilo-de-vida': 'Estilo de Vida',
+            'deportes': 'Deportes',
+            'otras': 'Otras'
+        };
+
+        function categoryFromLink(link) {
+            try {
+                const path = new URL(link).pathname.split('/').filter(Boolean);
+                const slug = path[0] || 'otras';
+                return CATEGORY_LABELS[slug] ? slug : 'otras';
+            } catch (e) {
+                return 'otras';
+            }
+        }
+
+        function timeAgo(pubDate) {
+            const then = new Date(pubDate.replace(' ', 'T') + '-06:00').getTime();
+            if (isNaN(then)) return '';
+            const diffMin = Math.max(0, Math.round((Date.now() - then) / 60000));
+            if (diffMin < 1) return 'justo ahora';
+            if (diffMin < 60) return `hace ${diffMin} min`;
+            const diffH = Math.round(diffMin / 60);
+            if (diffH < 24) return `hace ${diffH} h`;
+            return `hace ${Math.round(diffH / 24)} d`;
+        }
+
+        async function loadNoticias(force) {
+            try {
+                const res = await fetch(NOTICIAS_URL + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
+                const data = await res.json();
+                allNoticias = (data.items || []).map(item => ({
+                    ...item,
+                    _category: categoryFromLink(item.link)
+                }));
+                document.getElementById('news-updated-at').innerText = new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' });
+                renderFilters();
+                renderTicker();
+                renderNewsGrid();
+                refreshStateNews();
+            } catch (err) {
+                document.getElementById('news-grid').innerHTML = `
+                    <div class="col-span-full text-center py-10 text-slate-400 text-sm">
+                        <i class="fas fa-triangle-exclamation mr-2 text-brand-600"></i> No se pudieron cargar las noticias en este momento.
+                    </div>`;
+            }
+        }
+
+        function renderFilters() {
+            const cats = ['todas', ...new Set(allNoticias.map(n => n._category))];
+            const box = document.getElementById('news-filters');
+            box.innerHTML = cats.map(cat => {
+                const label = cat === 'todas' ? 'Todas' : (CATEGORY_LABELS[cat] || 'Otras');
+                const active = cat === activeCategory;
+                return `<button onclick="setCategory('${cat}')" class="px-3 py-1.5 rounded-full text-xs font-semibold border transition ${active ? 'bg-brand-600 border-brand-600 text-white' : 'bg-white dark:bg-slate-950 border-slate-300 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-600'}">${label}</button>`;
+            }).join('');
+        }
+
+        function setCategory(cat) {
+            activeCategory = cat;
+            renderFilters();
+            renderNewsGrid();
+        }
+
+        function renderTicker() {
+            const track = document.getElementById('ticker-track');
+            const headlines = allNoticias.slice(0, 12).map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)}</span>`);
+            track.innerHTML = headlines.concat(headlines).join('<span class="mx-2 text-slate-600">•</span>');
+        }
+
+        function renderNewsGrid() {
+            const grid = document.getElementById('news-grid');
+            const items = activeCategory === 'todas' ? allNoticias : allNoticias.filter(n => n._category === activeCategory);
+            if (!items.length) {
+                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm">Sin noticias para esta categoría.</div>`;
+                return;
+            }
+            grid.innerHTML = items.map(n => `
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-brand-600 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${CATEGORY_LABELS[n._category] || 'Otras'}</span>
+                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug group-hover:text-brand-600 transition mb-2">${escapeHtml(n.title)}</h4>
+                    <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2">${escapeHtml((n.description || '').replace(/<br\s*\/?>/gi, ' '))}</p>
+                    ${n.author ? `<p class="text-[10px] text-slate-400 mt-2"><i class="far fa-user mr-1"></i>${escapeHtml(n.author)}</p>` : ''}
+                </a>
+            `).join('');
+        }
+
+        /* =====================================================================
+           SECCIÓN REGIONAL — MAPA INTERACTIVO DE MÉXICO
+           ===================================================================== */
+        const MX_STATES = [
+            { name: 'Aguascalientes', capital: 'Aguascalientes', lat: 21.8853, lng: -102.2916 },
+            { name: 'Baja California', capital: 'Mexicali', lat: 32.6245, lng: -115.4523 },
+            { name: 'Baja California Sur', capital: 'La Paz', lat: 24.1426, lng: -110.3128 },
+            { name: 'Campeche', capital: 'San Francisco de Campeche', lat: 19.8301, lng: -90.5349 },
+            { name: 'Chiapas', capital: 'Tuxtla Gutiérrez', lat: 16.7516, lng: -93.1029 },
+            { name: 'Chihuahua', capital: 'Chihuahua', lat: 28.6353, lng: -106.0889 },
+            { name: 'Ciudad de México', capital: 'Ciudad de México', lat: 19.4326, lng: -99.1332, aliases: ['cdmx', 'distrito federal'] },
+            { name: 'Coahuila', capital: 'Saltillo', lat: 25.4260, lng: -101.0053, aliases: ['coahuila de zaragoza'] },
+            { name: 'Colima', capital: 'Colima', lat: 19.2433, lng: -103.7250 },
+            { name: 'Durango', capital: 'Durango', lat: 24.0277, lng: -104.6532 },
+            { name: 'Guanajuato', capital: 'Guanajuato', lat: 21.0190, lng: -101.2574 },
+            { name: 'Guerrero', capital: 'Chilpancingo', lat: 17.5506, lng: -99.5024 },
+            { name: 'Hidalgo', capital: 'Pachuca', lat: 20.1011, lng: -98.7591 },
+            { name: 'Jalisco', capital: 'Guadalajara', lat: 20.6597, lng: -103.3496 },
+            { name: 'Estado de México', capital: 'Toluca', lat: 19.2925, lng: -99.6569, aliases: ['edomex', 'méxico'] },
+            { name: 'Michoacán', capital: 'Morelia', lat: 19.7008, lng: -101.1844 },
+            { name: 'Morelos', capital: 'Cuernavaca', lat: 18.9242, lng: -99.2216 },
+            { name: 'Nayarit', capital: 'Tepic', lat: 21.5041, lng: -104.8942 },
+            { name: 'Nuevo León', capital: 'Monterrey', lat: 25.6866, lng: -100.3161 },
+            { name: 'Oaxaca', capital: 'Oaxaca de Juárez', lat: 17.0732, lng: -96.7266 },
+            { name: 'Puebla', capital: 'Puebla', lat: 19.0414, lng: -98.2063 },
+            { name: 'Querétaro', capital: 'Santiago de Querétaro', lat: 20.5888, lng: -100.3899 },
+            { name: 'Quintana Roo', capital: 'Chetumal', lat: 18.5001, lng: -88.2960 },
+            { name: 'San Luis Potosí', capital: 'San Luis Potosí', lat: 22.1565, lng: -100.9855 },
+            { name: 'Sinaloa', capital: 'Culiacán', lat: 24.8091, lng: -107.3940 },
+            { name: 'Sonora', capital: 'Hermosillo', lat: 29.0729, lng: -110.9559 },
+            { name: 'Tabasco', capital: 'Villahermosa', lat: 17.9895, lng: -92.9475 },
+            { name: 'Tamaulipas', capital: 'Ciudad Victoria', lat: 23.7369, lng: -99.1411 },
+            { name: 'Tlaxcala', capital: 'Tlaxcala', lat: 19.3182, lng: -98.2375 },
+            { name: 'Veracruz', capital: 'Xalapa', lat: 19.5438, lng: -96.9102 },
+            { name: 'Yucatán', capital: 'Mérida', lat: 20.9674, lng: -89.5926 },
+            { name: 'Zacatecas', capital: 'Zacatecas', lat: 22.7709, lng: -102.5832 }
+        ];
+
+        const MX_CITIES = [
+            { name: 'Tijuana', state: 'Baja California', lat: 32.5149, lng: -117.0382 },
+            { name: 'Ciudad Juárez', state: 'Chihuahua', lat: 31.6904, lng: -106.4245 },
+            { name: 'Ecatepec', state: 'Estado de México', lat: 19.6018, lng: -99.0500 },
+            { name: 'León', state: 'Guanajuato', lat: 21.1250, lng: -101.6860 },
+            { name: 'Puerto Vallarta', state: 'Jalisco', lat: 20.6534, lng: -105.2253 },
+            { name: 'Acapulco', state: 'Guerrero', lat: 16.8531, lng: -99.8237 },
+            { name: 'Cancún', state: 'Quintana Roo', lat: 21.1619, lng: -86.8515 },
+            { name: 'Torreón', state: 'Coahuila', lat: 25.5428, lng: -103.4068 },
+            { name: 'Mazatlán', state: 'Sinaloa', lat: 23.2494, lng: -106.4111 },
+            { name: 'Veracruz (puerto)', state: 'Veracruz', lat: 19.1738, lng: -96.1342 }
+        ];
+
+        function normalize(str) {
+            return str.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+        }
+
+        let mxMap, mapMarkers = {};
+
+        function initMap() {
+            if (typeof L === 'undefined') return;
+            mxMap = L.map('mx-map', { scrollWheelZoom: false }).setView([23.6345, -102.5528], 5);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; OpenStreetMap contributors',
+                maxZoom: 18
+            }).addTo(mxMap);
+
+            MX_STATES.forEach(state => {
+                const marker = L.circleMarker([state.lat, state.lng], {
+                    radius: 9,
+                    color: '#dc2626',
+                    weight: 2,
+                    fillColor: '#ef4444',
+                    fillOpacity: 0.65,
+                    className: 'mx-state-path'
+                }).addTo(mxMap);
+                marker.bindTooltip(state.name, { direction: 'top', offset: [0, -6] });
+                marker.on('click', () => selectState(state));
+                mapMarkers[state.name] = marker;
+            });
+
+            MX_CITIES.forEach(city => {
+                const marker = L.circleMarker([city.lat, city.lng], {
+                    radius: 5,
+                    color: '#0f172a',
+                    weight: 1.5,
+                    fillColor: '#64748b',
+                    fillOpacity: 0.8
+                }).addTo(mxMap);
+                marker.bindTooltip(city.name, { direction: 'top', offset: [0, -4] });
+                marker.on('click', () => selectState(MX_STATES.find(s => s.name === city.state) || { name: city.state }, city.name));
+            });
+
+            renderStateList();
+        }
+
+        function renderStateList() {
+            const box = document.getElementById('state-list');
+            box.innerHTML = MX_STATES.map(s => `
+                <button onclick='selectState(${JSON.stringify(s)})' class="text-left px-2 py-1.5 rounded-lg hover:bg-brand-50 dark:hover:bg-slate-800 hover:text-brand-600 text-slate-600 dark:text-slate-300 transition truncate" title="${s.name}">
+                    ${s.name}
+                </button>
+            `).join('');
+        }
+
+        function matchNewsForState(state) {
+            const needles = [normalize(state.name), normalize(state.capital || ''), ...((state.aliases || []).map(normalize))];
+            return allNoticias.filter(n => {
+                const haystack = normalize(n.title + ' ' + (n.description || ''));
+                return needles.some(needle => needle.length > 3 && haystack.includes(needle));
+            });
+        }
+
+        let lastSelectedState = null;
+        function selectState(state, cityLabel) {
+            lastSelectedState = state;
+            if (mxMap) mxMap.flyTo([state.lat, state.lng], 7, { duration: 0.6 });
+            refreshStateNews(cityLabel);
+        }
+
+        function refreshStateNews(cityLabel) {
+            if (!lastSelectedState) return;
+            const state = lastSelectedState;
+            const matches = matchNewsForState(state);
+            const searchQuery = encodeURIComponent(`${cityLabel || state.name} noticias`);
+            const box = document.getElementById('state-detail');
+            box.innerHTML = `
+                <h3 class="font-bold text-slate-900 dark:text-white text-sm uppercase tracking-wider mb-1 flex items-center gap-2">
+                    <i class="fas fa-location-dot text-brand-600"></i> ${escapeHtml(cityLabel || state.name)}
+                </h3>
+                <p class="text-[11px] text-slate-400 mb-3">Capital: ${escapeHtml(state.capital || state.name)}</p>
+                ${matches.length ? `
+                    <ul class="space-y-2 mb-3">
+                        ${matches.slice(0, 4).map(n => `
+                            <li>
+                                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="text-xs font-semibold text-slate-700 dark:text-slate-300 hover:text-brand-600 leading-snug block">
+                                    ${escapeHtml(n.title)}
+                                </a>
+                            </li>`).join('')}
+                    </ul>
+                ` : `<p class="text-xs text-slate-500 dark:text-slate-400 mb-3">No hay noticias recientes de esta entidad en el feed actual.</p>`}
+                <a href="https://news.google.com/search?q=${searchQuery}&hl=es-419&gl=MX" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 text-xs font-bold text-brand-600 hover:underline">
+                    Buscar más cobertura <i class="fas fa-arrow-up-right-from-square text-[10px]"></i>
+                </a>
+            `;
+        }
+
+        // Init on load
+        document.addEventListener('DOMContentLoaded', () => {
+            initMap();
+            loadNoticias(false);
+            newsTimer = setInterval(() => loadNoticias(true), 5 * 60 * 1000);
+        });
     </script>
 </body>
 </html>
