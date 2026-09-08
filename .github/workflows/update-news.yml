@@ -28,6 +28,9 @@ jobs:
       - name: Recolectar noticias
         run: node scripts/fetch-news.mjs
 
+      - name: Recolectar noticias de perfiles políticos
+        run: node scripts/fetch-perfiles.mjs
+
       - name: Commit y push si hay cambios
         run: |
           git config user.name "clave-mx-news-bot"

@@ -115,6 +115,32 @@
             70% { box-shadow: 0 0 0 8px rgba(220, 38, 38, 0); }
             100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
         }
+        /* Burbujas de perfiles políticos */
+        .perfil-bubble-ring {
+            background: conic-gradient(from 45deg, #dc2626, #f59e0b, #dc2626);
+            padding: 3px;
+            border-radius: 9999px;
+            flex-shrink: 0;
+        }
+        .perfil-bubble-ring.is-featured {
+            background: conic-gradient(from 45deg, #0f172a, #dc2626, #0f172a);
+        }
+        .perfil-bubble-img {
+            width: 100%;
+            height: 100%;
+            border-radius: 9999px;
+            object-fit: cover;
+            border: 2px solid white;
+            display: block;
+            background: #e2e8f0;
+        }
+        .dark .perfil-bubble-img {
+            border-color: #020617;
+            background: #1e293b;
+        }
+        .scrollbar-thin::-webkit-scrollbar { height: 6px; }
+        .scrollbar-thin::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
+        .dark .scrollbar-thin::-webkit-scrollbar-thumb { background: #334155; }
     </style>
 </head>
 <body class="bg-slate-100 dark:bg-slate-900 text-slate-800 dark:text-slate-100 min-h-screen transition-colors duration-200">
@@ -203,11 +229,21 @@
             <span class="text-slate-800 dark:text-slate-200 font-medium">Nota Especial</span>
         </nav>
 
+        <!-- Perfiles Políticos: burbujas interactivas -->
+        <section class="mb-8">
+            <h2 class="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider mb-3 flex items-center gap-2">
+                <i class="fas fa-star text-brand-600"></i> Perfiles Políticos
+            </h2>
+            <div id="perfiles-bubbles" class="flex items-start gap-4 sm:gap-5 overflow-x-auto pb-2 -mx-1 px-1 scrollbar-thin">
+                <!-- generado por JS: renderPerfilesBubbles() -->
+            </div>
+        </section>
+
         <!-- Main Content Grid -->
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
             
             <!-- Left Main Column (Article) -->
-            <article class="lg:col-span-8 bg-white dark:bg-slate-950 p-6 sm:p-10 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800">
+            <article id="perfil-carlos-palma" class="lg:col-span-8 bg-white dark:bg-slate-950 p-6 sm:p-10 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800 scroll-mt-28">
                 
                 <!-- Article Header -->
                 <header class="mb-8">
@@ -799,6 +835,37 @@
         </div>
     </div>
 
+    <!-- Modal de Perfil Político -->
+    <div id="perfil-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-start sm:items-center justify-center p-4 overflow-y-auto hidden" onclick="if(event.target===this) closePerfilModal()">
+        <div class="bg-white dark:bg-slate-900 w-full max-w-2xl rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 my-8 overflow-hidden">
+            <div class="relative bg-gradient-to-br from-navy-900 to-slate-950 p-6 sm:p-8 text-white">
+                <button onclick="closePerfilModal()" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition">
+                    <i class="fas fa-times"></i>
+                </button>
+                <div class="flex items-center gap-4">
+                    <img id="perfil-modal-photo" src="" alt="" class="w-20 h-20 rounded-full object-cover border-2 border-white/40 shadow-lg flex-shrink-0">
+                    <div>
+                        <span id="perfil-modal-country" class="text-[10px] font-bold text-brand-400 uppercase tracking-wider"></span>
+                        <h3 id="perfil-modal-name" class="text-xl sm:text-2xl font-black leading-tight"></h3>
+                        <p id="perfil-modal-role" class="text-xs sm:text-sm text-slate-300 mt-1"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-6 sm:p-8">
+                <p id="perfil-modal-bio" class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-6"></p>
+                <div class="flex items-center justify-between mb-4">
+                    <h4 class="text-xs font-bold text-slate-900 dark:text-white uppercase tracking-wider flex items-center gap-2">
+                        <i class="fas fa-newspaper text-brand-600"></i> Noticias recientes
+                    </h4>
+                    <span id="perfil-modal-updated" class="text-[11px] text-slate-400"></span>
+                </div>
+                <div id="perfil-modal-news" class="space-y-3 max-h-72 overflow-y-auto pr-1">
+                    <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         // Reading Progress Bar
         window.onscroll = function() {
@@ -1256,11 +1323,138 @@
             `;
         }
 
+        /* =====================================================================
+           PERFILES POLÍTICOS — burbujas interactivas
+           El Dr. Carlos Palma Marín se incluye únicamente como acceso directo
+           a su perfil ya existente en esta misma página: no se genera, edita
+           ni sustituye ningún texto, foto o dato suyo.
+           ===================================================================== */
+        const PERFILES_CONFIG = [
+            {
+                id: 'carlos-palma-marin',
+                isFeatured: true,
+                anchor: '#perfil-carlos-palma',
+                name: 'Dr. Carlos Palma Marín',
+                photo: 'https://i.imgur.com/icvA6LI.jpg',
+                photoFallback: 'image.png'
+            },
+            {
+                id: 'claudia-sheinbaum',
+                country: 'México',
+                name: 'Claudia Sheinbaum',
+                role: 'Presidenta de México',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Presidenta_Claudia_Sheinbaum.jpg?width=300',
+                bio: 'Física y doctora en Ingeniería Energética por la UNAM, Claudia Sheinbaum asumió la Presidencia de México el 1 de octubre de 2024 como la primera mujer en ocupar el cargo, tras encabezar el Gobierno de la Ciudad de México entre 2018 y 2023. Su administración concentra la agenda nacional en materia de seguridad, energía y continuidad del proyecto de la 4T.'
+            },
+            {
+                id: 'omar-garcia-harfuch',
+                country: 'México',
+                name: 'Omar García Harfuch',
+                role: 'Secretario de Seguridad y Protección Ciudadana',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Omar_Garc%C3%ADa_Harfuch.jpg?width=300',
+                bio: 'Titular de la Secretaría de Seguridad y Protección Ciudadana desde octubre de 2024, Omar García Harfuch encabeza la estrategia federal contra el crimen organizado tras haber dirigido la seguridad de la Ciudad de México de 2019 a 2023. Su gestión es referencia obligada en la cobertura de seguridad nacional.'
+            },
+            {
+                id: 'ricardo-salinas-pliego',
+                country: 'México',
+                name: 'Ricardo Salinas Pliego',
+                role: 'Empresario, presidente de Grupo Salinas',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Salinas_Pliego.jpg?width=300',
+                bio: 'Presidente de Grupo Salinas —conglomerado que integra TV Azteca, Banco Azteca, Elektra e Italika—, Ricardo Salinas Pliego es una de las voces empresariales más influyentes y polémicas de México, con frecuente presencia en el debate público por sus disputas fiscales y sus posturas críticas frente al gobierno federal.'
+            },
+            {
+                id: 'hugo-eric-flores',
+                country: 'México',
+                name: 'Hugo Eric Flores Cervantes',
+                role: 'Dirigente nacional del Partido PAZ',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Eric_Flores.jpg?width=300',
+                bio: 'Fundador de los extintos PES y Encuentro Solidario, Hugo Eric Flores Cervantes se separó en septiembre de 2026 de su curul como diputado federal de Morena para encabezar la dirigencia nacional del nuevo Partido PAZ, formación de corte conservador que ha marcado distancia de una alianza formal con el oficialismo.'
+            },
+            {
+                id: 'donald-trump',
+                country: 'Estados Unidos',
+                name: 'Donald Trump',
+                role: 'Presidente de Estados Unidos',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?width=300',
+                bio: '47° presidente de Estados Unidos desde el 20 de enero de 2025, Donald Trump inicia su segundo mandato con una agenda que impacta directamente a México en materia comercial, migratoria y de seguridad fronteriza, ejes que marcan buena parte de la relación bilateral vigente.'
+            },
+            {
+                id: 'marco-rubio',
+                country: 'Estados Unidos',
+                name: 'Marco Rubio',
+                role: 'Secretario de Estado de EE. UU.',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Secretary_Marco_Rubio_%283x4_cropped%29.jpg?width=300',
+                bio: 'Secretario de Estado de Estados Unidos desde enero de 2025 y asesor de Seguridad Nacional interino desde mayo de ese año, Marco Rubio es el funcionario estadounidense con mayor peso directo en la agenda diplomática hacia México y América Latina.'
+            }
+        ];
+
+        let perfilesNewsData = null;
+
+        function renderPerfilesBubbles() {
+            const box = document.getElementById('perfiles-bubbles');
+            box.innerHTML = PERFILES_CONFIG.map(p => `
+                <button onclick="${p.isFeatured ? `document.querySelector('${p.anchor}').scrollIntoView({behavior:'smooth'})` : `openPerfilModal('${p.id}')`}" class="flex flex-col items-center gap-1.5 w-20 flex-shrink-0 group">
+                    <span class="perfil-bubble-ring w-16 h-16 ${p.isFeatured ? 'is-featured' : ''} group-hover:scale-105 transition">
+                        <img src="${p.photo}" ${p.photoFallback ? `onerror="this.onerror=null; this.src='${p.photoFallback}';"` : `onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(p.name)}&background=0f172a&color=fff&bold=true';"`} alt="${escapeHtml(p.name)}" class="perfil-bubble-img">
+                    </span>
+                    <span class="text-[10px] font-semibold text-slate-700 dark:text-slate-300 text-center leading-tight line-clamp-2">${escapeHtml(p.name)}</span>
+                </button>
+            `).join('');
+        }
+
+        async function loadPerfilesNews(force) {
+            try {
+                const res = await fetch('data/perfiles-politicos.json' + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                perfilesNewsData = await res.json();
+            } catch (err) {
+                perfilesNewsData = perfilesNewsData || { updatedAt: null, perfiles: {} };
+            }
+        }
+
+        function openPerfilModal(id) {
+            const perfil = PERFILES_CONFIG.find(p => p.id === id);
+            if (!perfil) return;
+            document.getElementById('perfil-modal-photo').src = perfil.photo;
+            document.getElementById('perfil-modal-photo').onerror = function () {
+                this.onerror = null;
+                this.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(perfil.name)}&background=0f172a&color=fff&bold=true`;
+            };
+            document.getElementById('perfil-modal-country').innerText = perfil.country || '';
+            document.getElementById('perfil-modal-name').innerText = perfil.name;
+            document.getElementById('perfil-modal-role').innerText = perfil.role || '';
+            document.getElementById('perfil-modal-bio').innerText = perfil.bio || '';
+
+            const entry = perfilesNewsData?.perfiles?.[id];
+            document.getElementById('perfil-modal-updated').innerText = entry?.updatedAt ? formatUpdated(entry.updatedAt) : '';
+            const newsBox = document.getElementById('perfil-modal-news');
+            const items = entry?.items || [];
+            newsBox.innerHTML = items.length ? items.map(n => `
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block p-3 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-brand-600 transition">
+                    <div class="flex items-center justify-between mb-1">
+                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${escapeHtml(n.source || '')}</span>
+                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
+                    </div>
+                    <p class="text-xs font-semibold text-slate-800 dark:text-slate-200 group-hover:text-brand-600 transition leading-snug">${escapeHtml(n.title)}</p>
+                </a>
+            `).join('') : `<p class="text-xs text-slate-400">Aún no hay noticias recolectadas para este perfil. La primera recolección automática está en curso.</p>`;
+
+            document.getElementById('perfil-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePerfilModal() {
+            document.getElementById('perfil-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
+
         // Init on load
         document.addEventListener('DOMContentLoaded', () => {
             initMap();
+            renderPerfilesBubbles();
             loadAllNoticias(false);
-            newsTimer = setInterval(() => loadAllNoticias(true), 5 * 60 * 1000);
+            loadPerfilesNews(false);
+            newsTimer = setInterval(() => { loadAllNoticias(true); loadPerfilesNews(true); }, 5 * 60 * 1000);
         });
     </script>
 </body>
