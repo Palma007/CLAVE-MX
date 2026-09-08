@@ -115,6 +115,32 @@
             70% { box-shadow: 0 0 0 8px rgba(220, 38, 38, 0); }
             100% { box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
         }
+        /* Burbujas de perfiles políticos */
+        .perfil-bubble-ring {
+            background: conic-gradient(from 45deg, #dc2626, #f59e0b, #dc2626);
+            padding: 3px;
+            border-radius: 9999px;
+            flex-shrink: 0;
+        }
+        .perfil-bubble-ring.is-featured {
+            background: conic-gradient(from 45deg, #0f172a, #dc2626, #0f172a);
+        }
+        .perfil-bubble-img {
+            width: 100%;
+            height: 100%;
+            border-radius: 9999px;
+            object-fit: cover;
+            border: 2px solid white;
+            display: block;
+            background: #e2e8f0;
+        }
+        .dark .perfil-bubble-img {
+            border-color: #020617;
+            background: #1e293b;
+        }
+        .scrollbar-thin::-webkit-scrollbar { height: 6px; }
+        .scrollbar-thin::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
+        .dark .scrollbar-thin::-webkit-scrollbar-thumb { background: #334155; }
     </style>
 </head>
 <body class="bg-slate-100 dark:bg-slate-900 text-slate-800 dark:text-slate-100 min-h-screen transition-colors duration-200">
@@ -203,11 +229,21 @@
             <span class="text-slate-800 dark:text-slate-200 font-medium">Nota Especial</span>
         </nav>
 
+        <!-- Perfiles Políticos: burbujas interactivas -->
+        <section class="mb-8">
+            <h2 class="text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider mb-3 flex items-center gap-2">
+                <i class="fas fa-star text-brand-600"></i> Perfiles Políticos
+            </h2>
+            <div id="perfiles-bubbles" class="flex items-start gap-4 sm:gap-5 overflow-x-auto pb-2 -mx-1 px-1 scrollbar-thin">
+                <!-- generado por JS: renderPerfilesBubbles() -->
+            </div>
+        </section>
+
         <!-- Main Content Grid -->
         <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
             
             <!-- Left Main Column (Article) -->
-            <article class="lg:col-span-8 bg-white dark:bg-slate-950 p-6 sm:p-10 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800">
+            <article id="perfil-carlos-palma" class="lg:col-span-8 bg-white dark:bg-slate-950 p-6 sm:p-10 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800 scroll-mt-28">
                 
                 <!-- Article Header -->
                 <header class="mb-8">
@@ -540,19 +576,18 @@
 
         <!-- ================= SECCIÓN 1: NACIONAL — NOTICIAS EN VIVO ================= -->
         <section id="noticias-vivo" class="mt-16 scroll-mt-24">
-            <div class="flex flex-wrap items-center justify-between gap-3 mb-6">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
                 <h2 class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white flex items-center gap-3">
                     <span class="live-dot w-3 h-3 rounded-full bg-brand-600 inline-block"></span>
-                    Nacional · Noticias en Vivo
+                    Noticias en Vivo
                 </h2>
-                <div class="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2">
-                    <i class="fas fa-satellite-dish text-brand-600"></i>
-                    <span>Actualizado: <span id="news-updated-at">cargando…</span></span>
-                    <button onclick="loadNoticias(true)" class="ml-2 px-2 py-1 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 transition" title="Actualizar ahora">
-                        <i class="fas fa-rotate"></i>
-                    </button>
-                </div>
+                <button onclick="loadAllNoticias(true)" class="text-xs px-2 py-1 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 transition flex items-center gap-1.5 text-slate-500 dark:text-slate-400" title="Actualizar ahora">
+                    <i class="fas fa-rotate"></i> Actualizar
+                </button>
             </div>
+            <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 max-w-3xl">
+                Recolección automática desde 19 medios nacionales e internacionales, actualizada varias veces al día.
+            </p>
 
             <!-- Ticker -->
             <div class="relative overflow-hidden bg-navy-950 text-white rounded-xl mb-6 py-2.5 border border-slate-800">
@@ -564,7 +599,16 @@
                 </div>
             </div>
 
-            <!-- Category filters -->
+            <!-- Tabs: México / Internacional -->
+            <div class="flex items-center gap-2 mb-4 border-b border-slate-200 dark:border-slate-800">
+                <button id="tab-btn-nacional" onclick="setNewsTab('nacional')" class="px-4 py-2.5 text-sm font-bold border-b-2 transition"></button>
+                <button id="tab-btn-internacional" onclick="setNewsTab('internacional')" class="px-4 py-2.5 text-sm font-bold border-b-2 transition"></button>
+                <span class="ml-auto text-[11px] text-slate-400 flex items-center gap-1.5 pb-2">
+                    <i class="far fa-clock"></i> <span id="news-updated-at">cargando…</span>
+                </span>
+            </div>
+
+            <!-- Source filters -->
             <div id="news-filters" class="flex flex-wrap gap-2 mb-6"></div>
 
             <!-- News grid -->
@@ -585,6 +629,32 @@
                 <p class="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-3xl">
                     Explora las 32 entidades federativas y sus capitales. Selecciona un estado en el mapa o en la lista para ver noticias relacionadas y buscar cobertura regional.
                 </p>
+            </div>
+
+            <!-- Puebla y Tehuacán: noticias locales y estatales -->
+            <div class="bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 p-5 sm:p-6 mb-6">
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-5">
+                    <h3 class="font-bold text-slate-900 dark:text-white text-base flex items-center gap-2">
+                        <i class="fas fa-newspaper text-brand-600"></i> Puebla y Tehuacán
+                    </h3>
+                    <span class="text-[11px] text-slate-400 flex items-center gap-1.5">
+                        <i class="far fa-clock"></i> <span id="regional-updated-at">cargando…</span>
+                    </span>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <h4 class="text-[11px] font-bold text-brand-600 uppercase tracking-wider mb-3">Local · Tehuacán</h4>
+                        <div id="regional-local-list" class="space-y-3">
+                            <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="text-[11px] font-bold text-brand-600 uppercase tracking-wider mb-3">Estatal · Puebla</h4>
+                        <div id="regional-estatal-list" class="space-y-3">
+                            <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
@@ -765,6 +835,37 @@
         </div>
     </div>
 
+    <!-- Modal de Perfil Político -->
+    <div id="perfil-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-start sm:items-center justify-center p-4 overflow-y-auto hidden" onclick="if(event.target===this) closePerfilModal()">
+        <div class="bg-white dark:bg-slate-900 w-full max-w-2xl rounded-2xl shadow-2xl border border-slate-200 dark:border-slate-800 my-8 overflow-hidden">
+            <div class="relative bg-gradient-to-br from-navy-900 to-slate-950 p-6 sm:p-8 text-white">
+                <button onclick="closePerfilModal()" class="absolute top-4 right-4 w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 flex items-center justify-center transition">
+                    <i class="fas fa-times"></i>
+                </button>
+                <div class="flex items-center gap-4">
+                    <img id="perfil-modal-photo" src="" alt="" class="w-20 h-20 rounded-full object-cover border-2 border-white/40 shadow-lg flex-shrink-0">
+                    <div>
+                        <span id="perfil-modal-country" class="text-[10px] font-bold text-brand-400 uppercase tracking-wider"></span>
+                        <h3 id="perfil-modal-name" class="text-xl sm:text-2xl font-black leading-tight"></h3>
+                        <p id="perfil-modal-role" class="text-xs sm:text-sm text-slate-300 mt-1"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="p-6 sm:p-8">
+                <p id="perfil-modal-bio" class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed mb-6"></p>
+                <div class="flex items-center justify-between mb-4">
+                    <h4 class="text-xs font-bold text-slate-900 dark:text-white uppercase tracking-wider flex items-center gap-2">
+                        <i class="fas fa-newspaper text-brand-600"></i> Noticias recientes
+                    </h4>
+                    <span id="perfil-modal-updated" class="text-[11px] text-slate-400"></span>
+                </div>
+                <div id="perfil-modal-news" class="space-y-3 max-h-72 overflow-y-auto pr-1">
+                    <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script>
         // Reading Progress Bar
         window.onscroll = function() {
@@ -925,35 +1026,22 @@
         }
 
         /* =====================================================================
-           SECCIÓN NACIONAL — NOTICIAS EN VIVO (fuente: noticias.json)
+           NOTICIAS EN VIVO — recolección automática (ver /data/*.json,
+           generados por scripts/fetch-news.mjs vía GitHub Actions)
            ===================================================================== */
-        const NOTICIAS_URL = 'noticias.json';
-        let allNoticias = [];
-        let activeCategory = 'todas';
-        let newsTimer = null;
-
-        const CATEGORY_LABELS = {
-            'nacional': 'Nacional',
-            'economia': 'Economía',
-            'espectaculos': 'Espectáculos',
-            'mundo': 'Mundo',
-            'estilo-de-vida': 'Estilo de Vida',
-            'deportes': 'Deportes',
-            'otras': 'Otras'
+        const NEWS_BLOCKS = {
+            nacional: { url: 'data/noticias-nacional.json', label: 'México' },
+            internacional: { url: 'data/noticias-internacional.json', label: 'Internacional' },
+            regional: { url: 'data/noticias-regional.json', label: 'Puebla y Tehuacán' }
         };
-
-        function categoryFromLink(link) {
-            try {
-                const path = new URL(link).pathname.split('/').filter(Boolean);
-                const slug = path[0] || 'otras';
-                return CATEGORY_LABELS[slug] ? slug : 'otras';
-            } catch (e) {
-                return 'otras';
-            }
-        }
+        let blockData = { nacional: null, internacional: null, regional: null };
+        let activeTab = 'nacional';
+        let activeSource = 'todas';
+        let newsTimer = null;
+        let allNoticiasForMap = [];
 
         function timeAgo(pubDate) {
-            const then = new Date(pubDate.replace(' ', 'T') + '-06:00').getTime();
+            const then = new Date(pubDate).getTime();
             if (isNaN(then)) return '';
             const diffMin = Math.max(0, Math.round((Date.now() - then) / 60000));
             if (diffMin < 1) return 'justo ahora';
@@ -963,67 +1051,131 @@
             return `hace ${Math.round(diffH / 24)} d`;
         }
 
-        async function loadNoticias(force) {
+        function formatUpdated(iso) {
+            if (!iso) return 'pendiente de primera recolección';
+            const d = new Date(iso);
+            if (isNaN(d.getTime())) return 'pendiente de primera recolección';
+            return d.toLocaleString('es-MX', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+        }
+
+        async function fetchBlock(key, force) {
+            const cfg = NEWS_BLOCKS[key];
             try {
-                const res = await fetch(NOTICIAS_URL + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
-                const data = await res.json();
-                allNoticias = (data.items || []).map(item => ({
-                    ...item,
-                    _category: categoryFromLink(item.link)
-                }));
-                document.getElementById('news-updated-at').innerText = new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' });
-                renderFilters();
-                renderTicker();
-                renderNewsGrid();
-                refreshStateNews();
+                const res = await fetch(cfg.url + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                blockData[key] = await res.json();
             } catch (err) {
-                document.getElementById('news-grid').innerHTML = `
-                    <div class="col-span-full text-center py-10 text-slate-400 text-sm">
-                        <i class="fas fa-triangle-exclamation mr-2 text-brand-600"></i> No se pudieron cargar las noticias en este momento.
-                    </div>`;
+                blockData[key] = blockData[key] || { updatedAt: null, sources: [], items: [] };
             }
         }
 
+        async function loadAllNoticias(force) {
+            await Promise.all(Object.keys(NEWS_BLOCKS).map(key => fetchBlock(key, force)));
+
+            allNoticiasForMap = [
+                ...(blockData.nacional?.items || []),
+                ...(blockData.internacional?.items || []),
+                ...(blockData.regional?.items || [])
+            ];
+
+            renderTabButtons();
+            renderFilters();
+            renderNewsGrid();
+            renderTicker();
+            renderRegionalBlock();
+            refreshStateNews();
+        }
+
+        function renderTabButtons() {
+            Object.keys({ nacional: 1, internacional: 1 }).forEach(key => {
+                const btn = document.getElementById(`tab-btn-${key}`);
+                const active = activeTab === key;
+                btn.textContent = NEWS_BLOCKS[key].label;
+                btn.className = `px-4 py-2.5 text-sm font-bold border-b-2 transition ${active ? 'border-brand-600 text-brand-600' : 'border-transparent text-slate-500 dark:text-slate-400 hover:text-brand-600'}`;
+            });
+            const updated = blockData[activeTab]?.updatedAt;
+            document.getElementById('news-updated-at').innerText = formatUpdated(updated);
+        }
+
+        function setNewsTab(tab) {
+            activeTab = tab;
+            activeSource = 'todas';
+            renderTabButtons();
+            renderFilters();
+            renderNewsGrid();
+        }
+
         function renderFilters() {
-            const cats = ['todas', ...new Set(allNoticias.map(n => n._category))];
+            const data = blockData[activeTab];
             const box = document.getElementById('news-filters');
-            box.innerHTML = cats.map(cat => {
-                const label = cat === 'todas' ? 'Todas' : (CATEGORY_LABELS[cat] || 'Otras');
-                const active = cat === activeCategory;
-                return `<button onclick="setCategory('${cat}')" class="px-3 py-1.5 rounded-full text-xs font-semibold border transition ${active ? 'bg-brand-600 border-brand-600 text-white' : 'bg-white dark:bg-slate-950 border-slate-300 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-600'}">${label}</button>`;
+            if (!data || !data.sources?.length) { box.innerHTML = ''; return; }
+            const names = ['todas', ...data.sources.map(s => s.name)];
+            box.innerHTML = names.map(name => {
+                const active = name === activeSource;
+                const label = name === 'todas' ? 'Todas' : name;
+                return `<button onclick="setSourceFilter('${escapeHtml(name).replace(/'/g, "\\'")}')" class="px-3 py-1.5 rounded-full text-xs font-semibold border transition ${active ? 'bg-brand-600 border-brand-600 text-white' : 'bg-white dark:bg-slate-950 border-slate-300 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-600'}">${escapeHtml(label)}</button>`;
             }).join('');
         }
 
-        function setCategory(cat) {
-            activeCategory = cat;
+        function setSourceFilter(name) {
+            activeSource = name;
             renderFilters();
             renderNewsGrid();
         }
 
         function renderTicker() {
             const track = document.getElementById('ticker-track');
-            const headlines = allNoticias.slice(0, 12).map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)}</span>`);
+            const pool = [...(blockData.nacional?.items || []), ...(blockData.internacional?.items || [])].slice(0, 14);
+            if (!pool.length) { track.innerHTML = '<span class="text-slate-400">Sin noticias disponibles todavía.</span>'; return; }
+            const headlines = pool.map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)} <span class="text-slate-500">· ${escapeHtml(n.outlet || n.source || '')}</span></span>`);
             track.innerHTML = headlines.concat(headlines).join('<span class="mx-2 text-slate-600">•</span>');
+        }
+
+        function newsCard(n) {
+            return `
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-brand-600 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${escapeHtml(n.outlet || n.source || '')}</span>
+                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug group-hover:text-brand-600 transition">${escapeHtml(n.title)}</h4>
+                </a>`;
         }
 
         function renderNewsGrid() {
             const grid = document.getElementById('news-grid');
-            const items = activeCategory === 'todas' ? allNoticias : allNoticias.filter(n => n._category === activeCategory);
-            if (!items.length) {
-                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm">Sin noticias para esta categoría.</div>`;
+            const data = blockData[activeTab];
+            if (!data || !data.items?.length) {
+                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm"><i class="fas fa-circle-notch fa-spin mr-2"></i> Aún no hay noticias recolectadas para este bloque. La primera recolección automática está en curso.</div>`;
                 return;
             }
-            grid.innerHTML = items.map(n => `
-                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-brand-600 hover:shadow-md transition">
-                    <div class="flex items-center justify-between mb-2">
-                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${CATEGORY_LABELS[n._category] || 'Otras'}</span>
-                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
-                    </div>
-                    <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug group-hover:text-brand-600 transition mb-2">${escapeHtml(n.title)}</h4>
-                    <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2">${escapeHtml((n.description || '').replace(/<br\s*\/?>/gi, ' '))}</p>
-                    ${n.author ? `<p class="text-[10px] text-slate-400 mt-2"><i class="far fa-user mr-1"></i>${escapeHtml(n.author)}</p>` : ''}
-                </a>
-            `).join('');
+            const items = activeSource === 'todas' ? data.items : data.items.filter(n => (n.outlet || n.source) === activeSource);
+            if (!items.length) {
+                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm">Sin noticias de esta fuente por el momento.</div>`;
+                return;
+            }
+            grid.innerHTML = items.map(newsCard).join('');
+        }
+
+        function renderRegionalBlock() {
+            const data = blockData.regional;
+            document.getElementById('regional-updated-at').innerText = formatUpdated(data?.updatedAt);
+            const localBox = document.getElementById('regional-local-list');
+            const estatalBox = document.getElementById('regional-estatal-list');
+            const items = data?.items || [];
+            const local = items.filter(n => n.group === 'local');
+            const estatal = items.filter(n => n.group === 'estatal');
+
+            const renderList = (list) => list.length
+                ? list.slice(0, 8).map(n => `
+                    <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block">
+                        <p class="text-xs font-semibold text-slate-700 dark:text-slate-300 group-hover:text-brand-600 transition leading-snug">${escapeHtml(n.title)}</p>
+                        <p class="text-[10px] text-slate-400 mt-0.5">${escapeHtml(n.outlet || n.source || '')} · ${timeAgo(n.pubDate)}</p>
+                    </a>`).join('')
+                : `<p class="text-xs text-slate-400">Aún no hay noticias recolectadas.</p>`;
+
+            localBox.innerHTML = renderList(local);
+            estatalBox.innerHTML = renderList(estatal);
         }
 
         /* =====================================================================
@@ -1131,7 +1283,7 @@
 
         function matchNewsForState(state) {
             const needles = [normalize(state.name), normalize(state.capital || ''), ...((state.aliases || []).map(normalize))];
-            return allNoticias.filter(n => {
+            return allNoticiasForMap.filter(n => {
                 const haystack = normalize(n.title + ' ' + (n.description || ''));
                 return needles.some(needle => needle.length > 3 && haystack.includes(needle));
             });
@@ -1171,11 +1323,138 @@
             `;
         }
 
+        /* =====================================================================
+           PERFILES POLÍTICOS — burbujas interactivas
+           El Dr. Carlos Palma Marín se incluye únicamente como acceso directo
+           a su perfil ya existente en esta misma página: no se genera, edita
+           ni sustituye ningún texto, foto o dato suyo.
+           ===================================================================== */
+        const PERFILES_CONFIG = [
+            {
+                id: 'carlos-palma-marin',
+                isFeatured: true,
+                anchor: '#perfil-carlos-palma',
+                name: 'Dr. Carlos Palma Marín',
+                photo: 'https://i.imgur.com/icvA6LI.jpg',
+                photoFallback: 'image.png'
+            },
+            {
+                id: 'claudia-sheinbaum',
+                country: 'México',
+                name: 'Claudia Sheinbaum',
+                role: 'Presidenta de México',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Presidenta_Claudia_Sheinbaum.jpg?width=300',
+                bio: 'Física y doctora en Ingeniería Energética por la UNAM, Claudia Sheinbaum asumió la Presidencia de México el 1 de octubre de 2024 como la primera mujer en ocupar el cargo, tras encabezar el Gobierno de la Ciudad de México entre 2018 y 2023. Su administración concentra la agenda nacional en materia de seguridad, energía y continuidad del proyecto de la 4T.'
+            },
+            {
+                id: 'omar-garcia-harfuch',
+                country: 'México',
+                name: 'Omar García Harfuch',
+                role: 'Secretario de Seguridad y Protección Ciudadana',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Omar_Garc%C3%ADa_Harfuch.jpg?width=300',
+                bio: 'Titular de la Secretaría de Seguridad y Protección Ciudadana desde octubre de 2024, Omar García Harfuch encabeza la estrategia federal contra el crimen organizado tras haber dirigido la seguridad de la Ciudad de México de 2019 a 2023. Su gestión es referencia obligada en la cobertura de seguridad nacional.'
+            },
+            {
+                id: 'ricardo-salinas-pliego',
+                country: 'México',
+                name: 'Ricardo Salinas Pliego',
+                role: 'Empresario, presidente de Grupo Salinas',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Ricardo_Salinas_Pliego.jpg?width=300',
+                bio: 'Presidente de Grupo Salinas —conglomerado que integra TV Azteca, Banco Azteca, Elektra e Italika—, Ricardo Salinas Pliego es una de las voces empresariales más influyentes y polémicas de México, con frecuente presencia en el debate público por sus disputas fiscales y sus posturas críticas frente al gobierno federal.'
+            },
+            {
+                id: 'hugo-eric-flores',
+                country: 'México',
+                name: 'Hugo Eric Flores Cervantes',
+                role: 'Dirigente nacional del Partido PAZ',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Hugo_Eric_Flores.jpg?width=300',
+                bio: 'Fundador de los extintos PES y Encuentro Solidario, Hugo Eric Flores Cervantes se separó en septiembre de 2026 de su curul como diputado federal de Morena para encabezar la dirigencia nacional del nuevo Partido PAZ, formación de corte conservador que ha marcado distancia de una alianza formal con el oficialismo.'
+            },
+            {
+                id: 'donald-trump',
+                country: 'Estados Unidos',
+                name: 'Donald Trump',
+                role: 'Presidente de Estados Unidos',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?width=300',
+                bio: '47° presidente de Estados Unidos desde el 20 de enero de 2025, Donald Trump inicia su segundo mandato con una agenda que impacta directamente a México en materia comercial, migratoria y de seguridad fronteriza, ejes que marcan buena parte de la relación bilateral vigente.'
+            },
+            {
+                id: 'marco-rubio',
+                country: 'Estados Unidos',
+                name: 'Marco Rubio',
+                role: 'Secretario de Estado de EE. UU.',
+                photo: 'https://commons.wikimedia.org/wiki/Special:FilePath/Official_portrait_of_Secretary_Marco_Rubio_%283x4_cropped%29.jpg?width=300',
+                bio: 'Secretario de Estado de Estados Unidos desde enero de 2025 y asesor de Seguridad Nacional interino desde mayo de ese año, Marco Rubio es el funcionario estadounidense con mayor peso directo en la agenda diplomática hacia México y América Latina.'
+            }
+        ];
+
+        let perfilesNewsData = null;
+
+        function renderPerfilesBubbles() {
+            const box = document.getElementById('perfiles-bubbles');
+            box.innerHTML = PERFILES_CONFIG.map(p => `
+                <button onclick="${p.isFeatured ? `document.querySelector('${p.anchor}').scrollIntoView({behavior:'smooth'})` : `openPerfilModal('${p.id}')`}" class="flex flex-col items-center gap-1.5 w-20 flex-shrink-0 group">
+                    <span class="perfil-bubble-ring w-16 h-16 ${p.isFeatured ? 'is-featured' : ''} group-hover:scale-105 transition">
+                        <img src="${p.photo}" ${p.photoFallback ? `onerror="this.onerror=null; this.src='${p.photoFallback}';"` : `onerror="this.onerror=null; this.src='https://ui-avatars.com/api/?name=${encodeURIComponent(p.name)}&background=0f172a&color=fff&bold=true';"`} alt="${escapeHtml(p.name)}" class="perfil-bubble-img">
+                    </span>
+                    <span class="text-[10px] font-semibold text-slate-700 dark:text-slate-300 text-center leading-tight line-clamp-2">${escapeHtml(p.name)}</span>
+                </button>
+            `).join('');
+        }
+
+        async function loadPerfilesNews(force) {
+            try {
+                const res = await fetch('data/perfiles-politicos.json' + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                perfilesNewsData = await res.json();
+            } catch (err) {
+                perfilesNewsData = perfilesNewsData || { updatedAt: null, perfiles: {} };
+            }
+        }
+
+        function openPerfilModal(id) {
+            const perfil = PERFILES_CONFIG.find(p => p.id === id);
+            if (!perfil) return;
+            document.getElementById('perfil-modal-photo').src = perfil.photo;
+            document.getElementById('perfil-modal-photo').onerror = function () {
+                this.onerror = null;
+                this.src = `https://ui-avatars.com/api/?name=${encodeURIComponent(perfil.name)}&background=0f172a&color=fff&bold=true`;
+            };
+            document.getElementById('perfil-modal-country').innerText = perfil.country || '';
+            document.getElementById('perfil-modal-name').innerText = perfil.name;
+            document.getElementById('perfil-modal-role').innerText = perfil.role || '';
+            document.getElementById('perfil-modal-bio').innerText = perfil.bio || '';
+
+            const entry = perfilesNewsData?.perfiles?.[id];
+            document.getElementById('perfil-modal-updated').innerText = entry?.updatedAt ? formatUpdated(entry.updatedAt) : '';
+            const newsBox = document.getElementById('perfil-modal-news');
+            const items = entry?.items || [];
+            newsBox.innerHTML = items.length ? items.map(n => `
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block p-3 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-brand-600 transition">
+                    <div class="flex items-center justify-between mb-1">
+                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${escapeHtml(n.source || '')}</span>
+                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
+                    </div>
+                    <p class="text-xs font-semibold text-slate-800 dark:text-slate-200 group-hover:text-brand-600 transition leading-snug">${escapeHtml(n.title)}</p>
+                </a>
+            `).join('') : `<p class="text-xs text-slate-400">Aún no hay noticias recolectadas para este perfil. La primera recolección automática está en curso.</p>`;
+
+            document.getElementById('perfil-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePerfilModal() {
+            document.getElementById('perfil-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
+
         // Init on load
         document.addEventListener('DOMContentLoaded', () => {
             initMap();
-            loadNoticias(false);
-            newsTimer = setInterval(() => loadNoticias(true), 5 * 60 * 1000);
+            renderPerfilesBubbles();
+            loadAllNoticias(false);
+            loadPerfilesNews(false);
+            newsTimer = setInterval(() => { loadAllNoticias(true); loadPerfilesNews(true); }, 5 * 60 * 1000);
         });
     </script>
 </body>

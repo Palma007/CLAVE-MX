@@ -1,0 +1,90 @@
+{
+  "updatedAt": null,
+  "sources": [
+    {
+      "name": "Primera Línea",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "local"
+    },
+    {
+      "name": "Noticias Tehuacán",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "local"
+    },
+    {
+      "name": "El Uno",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "local"
+    },
+    {
+      "name": "Municipios Puebla (Tehuacán)",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "local"
+    },
+    {
+      "name": "El Sol de Puebla",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "Diario Cambio",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "E-consulta",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "La Jornada de Oriente",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "Intolerancia Diario",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "Periódico Central",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "Ambas Manos",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    },
+    {
+      "name": "24 Horas Puebla",
+      "domain": "",
+      "status": "pending",
+      "count": 0,
+      "group": "estatal"
+    }
+  ],
+  "items": []
+}
