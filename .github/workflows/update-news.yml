@@ -1,0 +1,41 @@
+name: Actualizar noticias
+
+on:
+  schedule:
+    # Cada 3 horas (UTC) => varias actualizaciones al día
+    - cron: '0 */3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Recolectar noticias
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "clave-mx-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/; then
+            echo "Sin cambios en las noticias."
+            exit 0
+          fi
+          git add data/
+          git commit -m "Actualización automática de noticias [skip ci]"
+          git push

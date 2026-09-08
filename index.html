@@ -540,19 +540,18 @@
 
         <!-- ================= SECCIÓN 1: NACIONAL — NOTICIAS EN VIVO ================= -->
         <section id="noticias-vivo" class="mt-16 scroll-mt-24">
-            <div class="flex flex-wrap items-center justify-between gap-3 mb-6">
+            <div class="flex flex-wrap items-center justify-between gap-3 mb-4">
                 <h2 class="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white flex items-center gap-3">
                     <span class="live-dot w-3 h-3 rounded-full bg-brand-600 inline-block"></span>
-                    Nacional · Noticias en Vivo
+                    Noticias en Vivo
                 </h2>
-                <div class="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-2">
-                    <i class="fas fa-satellite-dish text-brand-600"></i>
-                    <span>Actualizado: <span id="news-updated-at">cargando…</span></span>
-                    <button onclick="loadNoticias(true)" class="ml-2 px-2 py-1 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 transition" title="Actualizar ahora">
-                        <i class="fas fa-rotate"></i>
-                    </button>
-                </div>
+                <button onclick="loadAllNoticias(true)" class="text-xs px-2 py-1 rounded-lg border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 transition flex items-center gap-1.5 text-slate-500 dark:text-slate-400" title="Actualizar ahora">
+                    <i class="fas fa-rotate"></i> Actualizar
+                </button>
             </div>
+            <p class="text-sm text-slate-500 dark:text-slate-400 mb-6 max-w-3xl">
+                Recolección automática desde 19 medios nacionales e internacionales, actualizada varias veces al día.
+            </p>
 
             <!-- Ticker -->
             <div class="relative overflow-hidden bg-navy-950 text-white rounded-xl mb-6 py-2.5 border border-slate-800">
@@ -564,7 +563,16 @@
                 </div>
             </div>
 
-            <!-- Category filters -->
+            <!-- Tabs: México / Internacional -->
+            <div class="flex items-center gap-2 mb-4 border-b border-slate-200 dark:border-slate-800">
+                <button id="tab-btn-nacional" onclick="setNewsTab('nacional')" class="px-4 py-2.5 text-sm font-bold border-b-2 transition"></button>
+                <button id="tab-btn-internacional" onclick="setNewsTab('internacional')" class="px-4 py-2.5 text-sm font-bold border-b-2 transition"></button>
+                <span class="ml-auto text-[11px] text-slate-400 flex items-center gap-1.5 pb-2">
+                    <i class="far fa-clock"></i> <span id="news-updated-at">cargando…</span>
+                </span>
+            </div>
+
+            <!-- Source filters -->
             <div id="news-filters" class="flex flex-wrap gap-2 mb-6"></div>
 
             <!-- News grid -->
@@ -585,6 +593,32 @@
                 <p class="text-sm text-slate-500 dark:text-slate-400 mt-2 max-w-3xl">
                     Explora las 32 entidades federativas y sus capitales. Selecciona un estado en el mapa o en la lista para ver noticias relacionadas y buscar cobertura regional.
                 </p>
+            </div>
+
+            <!-- Puebla y Tehuacán: noticias locales y estatales -->
+            <div class="bg-white dark:bg-slate-950 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800 p-5 sm:p-6 mb-6">
+                <div class="flex flex-wrap items-center justify-between gap-2 mb-5">
+                    <h3 class="font-bold text-slate-900 dark:text-white text-base flex items-center gap-2">
+                        <i class="fas fa-newspaper text-brand-600"></i> Puebla y Tehuacán
+                    </h3>
+                    <span class="text-[11px] text-slate-400 flex items-center gap-1.5">
+                        <i class="far fa-clock"></i> <span id="regional-updated-at">cargando…</span>
+                    </span>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <h4 class="text-[11px] font-bold text-brand-600 uppercase tracking-wider mb-3">Local · Tehuacán</h4>
+                        <div id="regional-local-list" class="space-y-3">
+                            <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                        </div>
+                    </div>
+                    <div>
+                        <h4 class="text-[11px] font-bold text-brand-600 uppercase tracking-wider mb-3">Estatal · Puebla</h4>
+                        <div id="regional-estatal-list" class="space-y-3">
+                            <p class="text-xs text-slate-400"><i class="fas fa-circle-notch fa-spin mr-1"></i> Cargando…</p>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-6">
@@ -925,35 +959,22 @@
         }
 
         /* =====================================================================
-           SECCIÓN NACIONAL — NOTICIAS EN VIVO (fuente: noticias.json)
+           NOTICIAS EN VIVO — recolección automática (ver /data/*.json,
+           generados por scripts/fetch-news.mjs vía GitHub Actions)
            ===================================================================== */
-        const NOTICIAS_URL = 'noticias.json';
-        let allNoticias = [];
-        let activeCategory = 'todas';
-        let newsTimer = null;
-
-        const CATEGORY_LABELS = {
-            'nacional': 'Nacional',
-            'economia': 'Economía',
-            'espectaculos': 'Espectáculos',
-            'mundo': 'Mundo',
-            'estilo-de-vida': 'Estilo de Vida',
-            'deportes': 'Deportes',
-            'otras': 'Otras'
+        const NEWS_BLOCKS = {
+            nacional: { url: 'data/noticias-nacional.json', label: 'México' },
+            internacional: { url: 'data/noticias-internacional.json', label: 'Internacional' },
+            regional: { url: 'data/noticias-regional.json', label: 'Puebla y Tehuacán' }
         };
-
-        function categoryFromLink(link) {
-            try {
-                const path = new URL(link).pathname.split('/').filter(Boolean);
-                const slug = path[0] || 'otras';
-                return CATEGORY_LABELS[slug] ? slug : 'otras';
-            } catch (e) {
-                return 'otras';
-            }
-        }
+        let blockData = { nacional: null, internacional: null, regional: null };
+        let activeTab = 'nacional';
+        let activeSource = 'todas';
+        let newsTimer = null;
+        let allNoticiasForMap = [];
 
         function timeAgo(pubDate) {
-            const then = new Date(pubDate.replace(' ', 'T') + '-06:00').getTime();
+            const then = new Date(pubDate).getTime();
             if (isNaN(then)) return '';
             const diffMin = Math.max(0, Math.round((Date.now() - then) / 60000));
             if (diffMin < 1) return 'justo ahora';
@@ -963,67 +984,131 @@
             return `hace ${Math.round(diffH / 24)} d`;
         }
 
-        async function loadNoticias(force) {
+        function formatUpdated(iso) {
+            if (!iso) return 'pendiente de primera recolección';
+            const d = new Date(iso);
+            if (isNaN(d.getTime())) return 'pendiente de primera recolección';
+            return d.toLocaleString('es-MX', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+        }
+
+        async function fetchBlock(key, force) {
+            const cfg = NEWS_BLOCKS[key];
             try {
-                const res = await fetch(NOTICIAS_URL + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
-                const data = await res.json();
-                allNoticias = (data.items || []).map(item => ({
-                    ...item,
-                    _category: categoryFromLink(item.link)
-                }));
-                document.getElementById('news-updated-at').innerText = new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' });
-                renderFilters();
-                renderTicker();
-                renderNewsGrid();
-                refreshStateNews();
+                const res = await fetch(cfg.url + (force ? ('?_=' + Date.now()) : ''), { cache: force ? 'no-store' : 'default' });
+                if (!res.ok) throw new Error('HTTP ' + res.status);
+                blockData[key] = await res.json();
             } catch (err) {
-                document.getElementById('news-grid').innerHTML = `
-                    <div class="col-span-full text-center py-10 text-slate-400 text-sm">
-                        <i class="fas fa-triangle-exclamation mr-2 text-brand-600"></i> No se pudieron cargar las noticias en este momento.
-                    </div>`;
+                blockData[key] = blockData[key] || { updatedAt: null, sources: [], items: [] };
             }
         }
 
+        async function loadAllNoticias(force) {
+            await Promise.all(Object.keys(NEWS_BLOCKS).map(key => fetchBlock(key, force)));
+
+            allNoticiasForMap = [
+                ...(blockData.nacional?.items || []),
+                ...(blockData.internacional?.items || []),
+                ...(blockData.regional?.items || [])
+            ];
+
+            renderTabButtons();
+            renderFilters();
+            renderNewsGrid();
+            renderTicker();
+            renderRegionalBlock();
+            refreshStateNews();
+        }
+
+        function renderTabButtons() {
+            Object.keys({ nacional: 1, internacional: 1 }).forEach(key => {
+                const btn = document.getElementById(`tab-btn-${key}`);
+                const active = activeTab === key;
+                btn.textContent = NEWS_BLOCKS[key].label;
+                btn.className = `px-4 py-2.5 text-sm font-bold border-b-2 transition ${active ? 'border-brand-600 text-brand-600' : 'border-transparent text-slate-500 dark:text-slate-400 hover:text-brand-600'}`;
+            });
+            const updated = blockData[activeTab]?.updatedAt;
+            document.getElementById('news-updated-at').innerText = formatUpdated(updated);
+        }
+
+        function setNewsTab(tab) {
+            activeTab = tab;
+            activeSource = 'todas';
+            renderTabButtons();
+            renderFilters();
+            renderNewsGrid();
+        }
+
         function renderFilters() {
-            const cats = ['todas', ...new Set(allNoticias.map(n => n._category))];
+            const data = blockData[activeTab];
             const box = document.getElementById('news-filters');
-            box.innerHTML = cats.map(cat => {
-                const label = cat === 'todas' ? 'Todas' : (CATEGORY_LABELS[cat] || 'Otras');
-                const active = cat === activeCategory;
-                return `<button onclick="setCategory('${cat}')" class="px-3 py-1.5 rounded-full text-xs font-semibold border transition ${active ? 'bg-brand-600 border-brand-600 text-white' : 'bg-white dark:bg-slate-950 border-slate-300 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-600'}">${label}</button>`;
+            if (!data || !data.sources?.length) { box.innerHTML = ''; return; }
+            const names = ['todas', ...data.sources.map(s => s.name)];
+            box.innerHTML = names.map(name => {
+                const active = name === activeSource;
+                const label = name === 'todas' ? 'Todas' : name;
+                return `<button onclick="setSourceFilter('${escapeHtml(name).replace(/'/g, "\\'")}')" class="px-3 py-1.5 rounded-full text-xs font-semibold border transition ${active ? 'bg-brand-600 border-brand-600 text-white' : 'bg-white dark:bg-slate-950 border-slate-300 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-600'}">${escapeHtml(label)}</button>`;
             }).join('');
         }
 
-        function setCategory(cat) {
-            activeCategory = cat;
+        function setSourceFilter(name) {
+            activeSource = name;
             renderFilters();
             renderNewsGrid();
         }
 
         function renderTicker() {
             const track = document.getElementById('ticker-track');
-            const headlines = allNoticias.slice(0, 12).map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)}</span>`);
+            const pool = [...(blockData.nacional?.items || []), ...(blockData.internacional?.items || [])].slice(0, 14);
+            if (!pool.length) { track.innerHTML = '<span class="text-slate-400">Sin noticias disponibles todavía.</span>'; return; }
+            const headlines = pool.map(n => `<span class="inline-flex items-center gap-2"><i class="fas fa-circle text-[4px] text-brand-500"></i>${escapeHtml(n.title)} <span class="text-slate-500">· ${escapeHtml(n.outlet || n.source || '')}</span></span>`);
             track.innerHTML = headlines.concat(headlines).join('<span class="mx-2 text-slate-600">•</span>');
+        }
+
+        function newsCard(n) {
+            return `
+                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-brand-600 hover:shadow-md transition">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${escapeHtml(n.outlet || n.source || '')}</span>
+                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
+                    </div>
+                    <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug group-hover:text-brand-600 transition">${escapeHtml(n.title)}</h4>
+                </a>`;
         }
 
         function renderNewsGrid() {
             const grid = document.getElementById('news-grid');
-            const items = activeCategory === 'todas' ? allNoticias : allNoticias.filter(n => n._category === activeCategory);
-            if (!items.length) {
-                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm">Sin noticias para esta categoría.</div>`;
+            const data = blockData[activeTab];
+            if (!data || !data.items?.length) {
+                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm"><i class="fas fa-circle-notch fa-spin mr-2"></i> Aún no hay noticias recolectadas para este bloque. La primera recolección automática está en curso.</div>`;
                 return;
             }
-            grid.innerHTML = items.map(n => `
-                <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block bg-white dark:bg-slate-950 rounded-xl border border-slate-200 dark:border-slate-800 p-4 hover:border-brand-600 hover:shadow-md transition">
-                    <div class="flex items-center justify-between mb-2">
-                        <span class="text-[10px] font-bold text-brand-600 uppercase tracking-wide">${CATEGORY_LABELS[n._category] || 'Otras'}</span>
-                        <span class="text-[10px] text-slate-400">${timeAgo(n.pubDate)}</span>
-                    </div>
-                    <h4 class="text-sm font-bold text-slate-900 dark:text-white leading-snug group-hover:text-brand-600 transition mb-2">${escapeHtml(n.title)}</h4>
-                    <p class="text-xs text-slate-500 dark:text-slate-400 line-clamp-2">${escapeHtml((n.description || '').replace(/<br\s*\/?>/gi, ' '))}</p>
-                    ${n.author ? `<p class="text-[10px] text-slate-400 mt-2"><i class="far fa-user mr-1"></i>${escapeHtml(n.author)}</p>` : ''}
-                </a>
-            `).join('');
+            const items = activeSource === 'todas' ? data.items : data.items.filter(n => (n.outlet || n.source) === activeSource);
+            if (!items.length) {
+                grid.innerHTML = `<div class="col-span-full text-center py-10 text-slate-400 text-sm">Sin noticias de esta fuente por el momento.</div>`;
+                return;
+            }
+            grid.innerHTML = items.map(newsCard).join('');
+        }
+
+        function renderRegionalBlock() {
+            const data = blockData.regional;
+            document.getElementById('regional-updated-at').innerText = formatUpdated(data?.updatedAt);
+            const localBox = document.getElementById('regional-local-list');
+            const estatalBox = document.getElementById('regional-estatal-list');
+            const items = data?.items || [];
+            const local = items.filter(n => n.group === 'local');
+            const estatal = items.filter(n => n.group === 'estatal');
+
+            const renderList = (list) => list.length
+                ? list.slice(0, 8).map(n => `
+                    <a href="${n.link}" target="_blank" rel="noopener noreferrer" class="group block">
+                        <p class="text-xs font-semibold text-slate-700 dark:text-slate-300 group-hover:text-brand-600 transition leading-snug">${escapeHtml(n.title)}</p>
+                        <p class="text-[10px] text-slate-400 mt-0.5">${escapeHtml(n.outlet || n.source || '')} · ${timeAgo(n.pubDate)}</p>
+                    </a>`).join('')
+                : `<p class="text-xs text-slate-400">Aún no hay noticias recolectadas.</p>`;
+
+            localBox.innerHTML = renderList(local);
+            estatalBox.innerHTML = renderList(estatal);
         }
 
         /* =====================================================================
@@ -1131,7 +1216,7 @@
 
         function matchNewsForState(state) {
             const needles = [normalize(state.name), normalize(state.capital || ''), ...((state.aliases || []).map(normalize))];
-            return allNoticias.filter(n => {
+            return allNoticiasForMap.filter(n => {
                 const haystack = normalize(n.title + ' ' + (n.description || ''));
                 return needles.some(needle => needle.length > 3 && haystack.includes(needle));
             });
@@ -1174,8 +1259,8 @@
         // Init on load
         document.addEventListener('DOMContentLoaded', () => {
             initMap();
-            loadNoticias(false);
-            newsTimer = setInterval(() => loadNoticias(true), 5 * 60 * 1000);
+            loadAllNoticias(false);
+            newsTimer = setInterval(() => loadAllNoticias(true), 5 * 60 * 1000);
         });
     </script>
 </body>

@@ -1,0 +1,66 @@
+{
+  "updatedAt": null,
+  "sources": [
+    {
+      "name": "BBC Mundo",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "CNN en Español",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "Reuters",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "Associated Press",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "The New York Times",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "The Washington Post",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "The Guardian",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "El País",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "France 24",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    },
+    {
+      "name": "Deutsche Welle",
+      "domain": "",
+      "status": "pending",
+      "count": 0
+    }
+  ],
+  "items": []
+}
