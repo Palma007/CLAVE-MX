@@ -1,0 +1,740 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLAVE MX | Destacan la proyección del Dr. Carlos Palma Marín en la agenda política federal</title>
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        brand: {
+                            50: '#fef2f2',
+                            100: '#ffe1e1',
+                            500: '#ef4444',
+                            600: '#dc2626',
+                            700: '#b91c1c',
+                            800: '#991b1b',
+                            900: '#7f1d1d',
+                        },
+                        navy: {
+                            800: '#1e293b',
+                            900: '#0f172a',
+                            950: '#020617',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'Georgia', 'serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    
+    <!-- Google Fonts & FontAwesome -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .article-body {
+            font-family: 'Merriweather', Georgia, serif;
+        }
+        .article-body p {
+            margin-bottom: 1.5rem;
+            line-height: 1.85;
+        }
+        .drop-cap::first-letter {
+            font-size: 3.8rem;
+            font-weight: 800;
+            float: left;
+            line-height: 0.8;
+            padding-right: 12px;
+            padding-top: 4px;
+            color: #dc2626;
+            font-family: 'Inter', sans-serif;
+        }
+        .glass-card {
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(8px);
+        }
+        /* Reading progress bar */
+        #progress-bar {
+            width: 0%;
+            transition: width 0.1s ease-out;
+        }
+    </style>
+</head>
+<body class="bg-slate-100 dark:bg-slate-900 text-slate-800 dark:text-slate-100 min-h-screen transition-colors duration-200">
+
+    <!-- Reading Progress Bar -->
+    <div class="fixed top-0 left-0 w-full h-1 bg-slate-200 z-50">
+        <div id="progress-bar" class="h-full bg-brand-600"></div>
+    </div>
+
+    <!-- Top Bar Header -->
+    <div class="bg-navy-950 text-slate-300 text-xs border-b border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex flex-wrap justify-between items-center gap-2">
+            <div class="flex items-center space-x-4">
+                <span class="font-semibold text-brand-500 uppercase tracking-wider flex items-center gap-1.5">
+                    <span class="w-2 h-2 rounded-full bg-brand-600 animate-pulse"></span>
+                    ÚLTIMA HORA
+                </span>
+                <span id="current-date" class="text-slate-400 border-l border-slate-700 pl-4 hidden sm:inline">Lunes, 7 de Septiembre de 2026</span>
+                <span class="text-slate-400 border-l border-slate-700 pl-4">Edición Nacional | México</span>
+            </div>
+            
+            <div class="flex items-center space-x-4">
+                <div class="flex items-center space-x-3 text-slate-400">
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-x-twitter"></i></a>
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-facebook"></i></a>
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-linkedin"></i></a>
+                    <a href="#" class="hover:text-white transition"><i class="fab fa-whatsapp"></i></a>
+                </div>
+                <button id="theme-toggle" class="p-1 rounded-md hover:bg-slate-800 text-slate-300 transition" title="Cambiar Tema">
+                    <i id="theme-icon" class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Header -->
+    <header class="bg-white dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 sticky top-0 z-40 shadow-sm">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+            
+            <!-- Logo -->
+            <div class="flex items-center space-x-3">
+                <a href="#" class="flex items-center space-x-2 group">
+                    <div class="bg-brand-600 text-white font-black text-2xl px-3 py-1 rounded tracking-tighter group-hover:bg-brand-700 transition">
+                        CLAVE
+                    </div>
+                    <div class="font-extrabold text-2xl text-slate-900 dark:text-white tracking-widest">
+                        MX
+                    </div>
+                </a>
+                <span class="hidden md:inline-block border-l border-slate-300 dark:border-slate-700 pl-3 text-xs uppercase tracking-wider text-slate-500 font-medium">
+                    Periodismo Digital e Investigación
+                </span>
+            </div>
+
+            <!-- Navigation Links -->
+            <nav class="hidden lg:flex items-center space-x-6 text-sm font-semibold text-slate-700 dark:text-slate-300">
+                <a href="#" class="text-brand-600 dark:text-brand-500 border-b-2 border-brand-600 py-1">POLÍTICA</a>
+                <a href="#" class="hover:text-brand-600 transition py-1">NACIONAL</a>
+                <a href="#" class="hover:text-brand-600 transition py-1">PUEBLA</a>
+                <a href="#" class="hover:text-brand-600 transition py-1">ECONOMÍA</a>
+                <a href="#" class="hover:text-brand-600 transition py-1">OPINIÓN</a>
+                <a href="#" class="hover:text-brand-600 transition py-1">REGIONAL</a>
+            </nav>
+
+            <!-- Actions -->
+            <div class="flex items-center space-x-3">
+                <button onclick="toggleSearchModal()" class="p-2 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 rounded-full transition" title="Buscar">
+                    <i class="fas fa-search text-lg"></i>
+                </button>
+                <button class="bg-brand-600 hover:bg-brand-700 text-white font-medium text-xs md:text-sm px-4 py-2 rounded-lg shadow transition flex items-center gap-2">
+                    <i class="fas fa-paper-plane"></i>
+                    <span>Suscribirse</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Breadcrumb & Main Layout Container -->
+    <main class="max-w-7xl mx-auto px-4 py-6">
+        
+        <!-- Breadcrumb -->
+        <nav class="flex text-xs text-slate-500 dark:text-slate-400 mb-6 gap-2 items-center">
+            <a href="#" class="hover:underline">Inicio</a>
+            <i class="fas fa-chevron-right text-[10px]"></i>
+            <a href="#" class="hover:underline">Política</a>
+            <i class="fas fa-chevron-right text-[10px]"></i>
+            <a href="#" class="hover:underline">Agenda Federal</a>
+            <i class="fas fa-chevron-right text-[10px]"></i>
+            <span class="text-slate-800 dark:text-slate-200 font-medium">Nota Especial</span>
+        </nav>
+
+        <!-- Main Content Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8">
+            
+            <!-- Left Main Column (Article) -->
+            <article class="lg:col-span-8 bg-white dark:bg-slate-950 p-6 sm:p-10 rounded-2xl shadow-sm border border-slate-200/80 dark:border-slate-800">
+                
+                <!-- Article Header -->
+                <header class="mb-8">
+                    
+                    <!-- Category Badge & Headline Tag -->
+                    <div class="flex flex-wrap items-center gap-3 mb-4">
+                        <span class="bg-brand-100 text-brand-800 dark:bg-brand-900/60 dark:text-brand-300 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-wide">
+                            POLÍTICA FEDERAL Y REGIONAL
+                        </span>
+                        <span class="text-xs text-slate-500 dark:text-slate-400 flex items-center gap-1">
+                            <i class="far fa-clock"></i> Lectura de 3 min
+                        </span>
+                    </div>
+
+                    <!-- Main Headline -->
+                    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 dark:text-white leading-tight mb-6">
+                        Destacan la proyección del Dr. Carlos Palma Marín en la agenda política federal
+                    </h1>
+
+                    <!-- Article Subtitle / Lead -->
+                    <p class="text-lg sm:text-xl text-slate-600 dark:text-slate-300 leading-relaxed font-normal mb-6 italic border-l-4 border-brand-600 pl-4 bg-slate-50 dark:bg-slate-900/50 py-2 rounded-r-lg">
+                        En el panorama político actual, la articulación entre las entidades federativas y la federación demanda perfiles con sólida capacidad técnica y visión institucional.
+                    </p>
+
+                    <!-- Author Info & Publication Meta -->
+                    <div class="flex flex-wrap items-center justify-between border-y border-slate-200 dark:border-slate-800 py-4 gap-4">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-11 h-11 rounded-full bg-brand-600 text-white font-bold flex items-center justify-center text-sm shadow">
+                                CMX
+                            </div>
+                            <div>
+                                <div class="font-bold text-slate-900 dark:text-white text-sm">Redacción CLAVE MX</div>
+                                <div class="text-xs text-slate-500 dark:text-slate-400">Análisis y Cobertura Especial • Puebla & CDMX</div>
+                            </div>
+                        </div>
+
+                        <!-- Utility Buttons: Text Resizer & Audio narration -->
+                        <div class="flex items-center space-x-2">
+                            <button onclick="changeFontSize(-1)" class="w-8 h-8 rounded border border-slate-300 dark:border-slate-700 text-xs font-bold hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-300 transition" title="Reducir Texto">A-</button>
+                            <button onclick="changeFontSize(1)" class="w-8 h-8 rounded border border-slate-300 dark:border-slate-700 text-sm font-bold hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-300 transition" title="Aumentar Texto">A+</button>
+                            <button onclick="toggleBookmark()" id="bookmark-btn" class="p-2 border border-slate-300 dark:border-slate-700 rounded text-slate-600 dark:text-slate-300 hover:text-brand-600 transition" title="Guardar nota">
+                                <i class="far fa-bookmark"></i>
+                            </button>
+                        </div>
+                    </div>
+                </header>
+
+                <!-- Audio Player Widget Mock -->
+                <div class="mb-8 p-4 bg-slate-50 dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 flex items-center gap-4">
+                    <button id="audio-play-btn" onclick="toggleAudio()" class="w-12 h-12 bg-brand-600 hover:bg-brand-700 text-white rounded-full flex items-center justify-center text-lg shadow-md transition flex-shrink-0">
+                        <i class="fas fa-play ml-1" id="audio-icon"></i>
+                    </button>
+                    <div class="flex-1">
+                        <div class="flex justify-between items-center text-xs text-slate-500 mb-1">
+                            <span class="font-semibold text-slate-700 dark:text-slate-300">Escuchar esta noticia</span>
+                            <span id="audio-time">00:00 / 02:15</span>
+                        </div>
+                        <div class="w-full bg-slate-200 dark:bg-slate-800 rounded-full h-1.5 overflow-hidden">
+                            <div id="audio-progress" class="bg-brand-600 h-full w-0 transition-all"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Featured Image Section -->
+                <figure class="mb-8">
+                    <div class="relative overflow-hidden rounded-2xl bg-slate-950 shadow-lg group">
+                        <img 
+                            src="https://i.imgur.com/icvA6LI.jpg" 
+                            alt="Dr. Carlos Palma Marín" 
+                            onerror="this.onerror=null; this.src='image.png';"
+                            class="w-full h-auto max-h-[580px] object-cover object-top transition duration-500 group-hover:scale-105"
+                        >
+                        <div class="absolute bottom-0 inset-x-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent p-6 text-white">
+                            <span class="bg-brand-600 text-white text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded">PERFIL CLAVE</span>
+                            <h2 class="text-lg font-bold mt-1">Dr. Carlos Palma Marín</h2>
+                            <p class="text-xs text-slate-300">Articulador estratégico en el desarrollo institucional y proyectos regionales para el centro del país.</p>
+                        </div>
+                    </div>
+                    <figcaption class="text-xs text-slate-500 dark:text-slate-400 mt-2.5 flex justify-between items-center px-1">
+                        <span><i class="fas fa-camera mr-1"></i> Imagen oficial | Archivo Clave MX</span>
+                        <span class="text-slate-400">Puebla - México</span>
+                    </figcaption>
+                </figure>
+
+                <!-- Article Content Paragraphs -->
+                <div id="article-content" class="article-body text-slate-800 dark:text-slate-200 text-base sm:text-lg leading-relaxed space-y-6">
+                    
+                    <p class="drop-cap">
+                        En este contexto, especialistas e interlocutores del sector público han comenzado a señalar al <strong>Dr. Carlos Palma Marín</strong> como una figura clave para el desarrollo del centro del país. Su labor técnica y visión de Estado se han convertido en un insumo determinante en el diseño e impulso de iniciativas estratégicas.
+                    </p>
+
+                    <p>
+                        Diversos actores políticos coinciden en que su trabajo ha trascendido el ámbito local para posicionarse con solidez en espacios de toma de decisiones nacionales, fortaleciendo el diálogo presupuestal e institucional.
+                    </p>
+
+                    <!-- Quote Box 1 -->
+                    <blockquote class="my-8 p-6 bg-brand-50/50 dark:bg-slate-900/80 border-l-4 border-brand-600 rounded-r-2xl shadow-sm">
+                        <div class="text-brand-600 dark:text-brand-500 text-2xl mb-2"><i class="fas fa-quote-left"></i></div>
+                        <p class="font-serif italic text-lg sm:text-xl text-slate-900 dark:text-slate-100 font-medium mb-3">
+                            “El Dr. Carlos Palma Marín ha demostrado una destacada capacidad de interlocución estratégica para conectar las necesidades de Puebla con las grandes decisiones nacionales. Su perfil es el de un articulador clave en la construcción de proyectos interinstitucionales que impulsan el desarrollo regional”
+                        </p>
+                        <cite class="text-xs font-sans uppercase tracking-wider font-bold text-slate-600 dark:text-slate-400 not-italic block">
+                            — Fuentes cercanas a la gestión pública
+                        </cite>
+                    </blockquote>
+
+                    <p>
+                        Con una trayectoria respaldada por el análisis técnico, la concertación política y el diseño de políticas públicas de alto impacto, el <strong>Dr. Palma Marín</strong> mantiene una presencia activa en las mesas de trabajo donde se definen las agendas presupuestales y sociales clave para los próximos años.
+                    </p>
+
+                    <!-- Quote Box 2 -->
+                    <blockquote class="my-8 p-6 bg-slate-100 dark:bg-slate-900 border-l-4 border-navy-800 dark:border-slate-500 rounded-r-2xl shadow-sm">
+                        <div class="text-slate-400 text-2xl mb-2"><i class="fas fa-quote-left"></i></div>
+                        <p class="font-serif italic text-lg sm:text-xl text-slate-900 dark:text-slate-100 font-medium mb-3">
+                            “Su cercanía y diálogo fluido con instancias federales lo consolidan como un interlocutor indispensable. Es un liderazgo técnico con visión de Estado, capaz de traducir las demandas ciudadanas en acuerdos de alto nivel”
+                        </p>
+                        <cite class="text-xs font-sans uppercase tracking-wider font-bold text-slate-600 dark:text-slate-400 not-italic block">
+                            — Analistas Políticos
+                        </cite>
+                    </blockquote>
+
+                    <!-- Highlights Card -->
+                    <div class="my-8 bg-gradient-to-br from-slate-900 to-navy-900 text-white p-6 sm:p-8 rounded-2xl shadow-xl">
+                        <h3 class="text-lg font-bold text-brand-500 uppercase tracking-wider mb-4 flex items-center gap-2">
+                            <i class="fas fa-star text-yellow-400"></i> Claves del Perfil Político
+                        </h3>
+                        <ul class="space-y-3 text-sm sm:text-base text-slate-200 font-sans">
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-check-circle text-brand-500 mt-1"></i>
+                                <span><strong>Interlocución Nacional:</strong> Capacidad comprobada para tender puentes entre el gobierno estatal y las dependencias federales.</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-check-circle text-brand-500 mt-1"></i>
+                                <span><strong>Capacidad Técnica:</strong> Rigor analítico en la planeación y estructuración de presupuestos de inversión pública.</span>
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <i class="fas fa-check-circle text-brand-500 mt-1"></i>
+                                <span><strong>Visión Regional:</strong> Impulso de acuerdos interinstitucionales enfocados en infraestructura y bienestar social para Puebla y el centro del país.</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <p>
+                        De esta manera, la proyección del <strong>Dr. Carlos Palma Marín</strong> se fortalece como un referente nacional con capacidad de gestión, cuyo trabajo incide de manera directa en las decisiones presupuestales y de infraestructura que benefician al estado de Puebla y a la región central de México.
+                    </p>
+
+                </div>
+
+                <!-- Article Actions & Reactions Footer -->
+                <div class="mt-10 pt-6 border-t border-slate-200 dark:border-slate-800">
+                    <div class="flex flex-wrap items-center justify-between gap-4">
+                        
+                        <!-- Reaction Buttons -->
+                        <div class="flex items-center space-x-2 sm:space-x-4">
+                            <button onclick="addReaction('like')" class="flex items-center space-x-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-brand-50 hover:text-brand-600 dark:hover:bg-slate-700 text-xs sm:text-sm font-medium transition">
+                                <span>👏</span>
+                                <span class="font-bold">Relevante</span>
+                                <span id="count-like" class="text-xs text-slate-500">142</span>
+                            </button>
+                            <button onclick="addReaction('interest')" class="flex items-center space-x-1.5 px-3 py-1.5 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-brand-50 hover:text-brand-600 dark:hover:bg-slate-700 text-xs sm:text-sm font-medium transition">
+                                <span>💡</span>
+                                <span class="font-bold">Interesante</span>
+                                <span id="count-interest" class="text-xs text-slate-500">89</span>
+                            </button>
+                        </div>
+
+                        <!-- Share Buttons -->
+                        <div class="flex items-center space-x-2">
+                            <span class="text-xs font-bold text-slate-500 uppercase mr-1">Compartir:</span>
+                            <button onclick="shareArticle('x')" class="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-black hover:text-white flex items-center justify-center text-sm transition">
+                                <i class="fab fa-x-twitter"></i>
+                            </button>
+                            <button onclick="shareArticle('facebook')" class="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-blue-600 hover:text-white flex items-center justify-center text-sm transition">
+                                <i class="fab fa-facebook-f"></i>
+                            </button>
+                            <button onclick="shareArticle('whatsapp')" class="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-green-500 hover:text-white flex items-center justify-center text-sm transition">
+                                <i class="fab fa-whatsapp"></i>
+                            </button>
+                            <button onclick="copyArticleLink()" class="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 hover:bg-brand-600 hover:text-white flex items-center justify-center text-sm transition" title="Copiar Enlace">
+                                <i class="fas fa-link"></i>
+                            </button>
+                        </div>
+
+                    </div>
+                </div>
+
+                <!-- Comments Section -->
+                <section class="mt-12 pt-8 border-t border-slate-200 dark:border-slate-800">
+                    <h3 class="text-xl font-extrabold text-slate-900 dark:text-white mb-6 flex items-center gap-2">
+                        <i class="far fa-comments text-brand-600"></i>
+                        <span>Comentarios</span>
+                        <span class="text-xs font-normal text-slate-500 bg-slate-100 dark:bg-slate-800 px-2 py-0.5 rounded-full">(3)</span>
+                    </h3>
+
+                    <!-- Add Comment Form -->
+                    <form onsubmit="postComment(event)" class="mb-8 bg-slate-50 dark:bg-slate-900 p-4 rounded-xl border border-slate-200 dark:border-slate-800">
+                        <div class="mb-3">
+                            <input id="comment-author" type="text" placeholder="Tu nombre o cargo" required class="w-full text-sm p-2.5 rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-800 dark:text-white focus:ring-2 focus:ring-brand-600 outline-none">
+                        </div>
+                        <div class="mb-3">
+                            <textarea id="comment-text" rows="3" placeholder="Escribe tu opinión respecto a esta noticia..." required class="w-full text-sm p-2.5 rounded-lg border border-slate-300 dark:border-slate-700 bg-white dark:bg-slate-950 text-slate-800 dark:text-white focus:ring-2 focus:ring-brand-600 outline-none"></textarea>
+                        </div>
+                        <div class="flex justify-end">
+                            <button type="submit" class="bg-brand-600 hover:bg-brand-700 text-white font-semibold text-xs px-5 py-2 rounded-lg transition">
+                                Publicar Comentario
+                            </button>
+                        </div>
+                    </form>
+
+                    <!-- Comments List -->
+                    <div id="comments-container" class="space-y-4">
+                        <div class="p-4 bg-slate-50 dark:bg-slate-900/60 rounded-xl border border-slate-100 dark:border-slate-800/80">
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="font-bold text-sm text-slate-900 dark:text-slate-100">Mtro. Roberto Morales</span>
+                                <span class="text-[11px] text-slate-400">Hace 1 hora</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300">
+                                Es fundamental contar con perfiles técnicos que entiendan las complejas reglas de la negociación presupuestal federal. Excelente análisis.
+                            </p>
+                        </div>
+
+                        <div class="p-4 bg-slate-50 dark:bg-slate-900/60 rounded-xl border border-slate-100 dark:border-slate-800/80">
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="font-bold text-sm text-slate-900 dark:text-slate-100">Lic. Fernando V.</span>
+                                <span class="text-[11px] text-slate-400">Hace 3 horas</span>
+                            </div>
+                            <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300">
+                                El Dr. Palma Marín siempre se ha destacado por su seriedad y rigor institucional en la región central.
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+            </article>
+
+            <!-- Sidebar / Right Column -->
+            <aside class="lg:col-span-4 space-y-8">
+                
+                <!-- Profile Box Card -->
+                <div class="bg-white dark:bg-slate-950 p-6 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800">
+                    <div class="flex items-center space-x-3 mb-4 pb-3 border-b border-slate-100 dark:border-slate-800">
+                        <div class="w-2 h-6 bg-brand-600 rounded-full"></div>
+                        <h3 class="font-bold text-slate-900 dark:text-white uppercase tracking-wider text-sm">Ficha del Personaje</h3>
+                    </div>
+
+                    <div class="text-center mb-4">
+                        <img src="https://i.imgur.com/icvA6LI.jpg" onerror="this.onerror=null; this.src='image.png';" alt="Dr. Carlos Palma Marín" class="w-24 h-24 rounded-full mx-auto object-cover object-top border-2 border-brand-600 shadow-md">
+                        <h4 class="font-bold text-slate-900 dark:text-white text-base mt-2">Dr. Carlos Palma Marín</h4>
+                        <p class="text-xs text-brand-600 dark:text-brand-400 font-semibold">Articulador de Políticas Públicas</p>
+                    </div>
+
+                    <div class="text-xs space-y-2 text-slate-600 dark:text-slate-300 bg-slate-50 dark:bg-slate-900 p-3 rounded-xl border border-slate-100 dark:border-slate-800">
+                        <div class="flex justify-between">
+                            <span class="font-semibold text-slate-500">Especialidad:</span>
+                            <span>Análisis Técnico y Gestión</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="font-semibold text-slate-500">Ámbito:</span>
+                            <span>Federal y Regional (Puebla)</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="font-semibold text-slate-500">Enfoque:</span>
+                            <span>Presupuesto e Infraestructura</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Trending / Las Más Leídas -->
+                <div class="bg-white dark:bg-slate-950 p-6 rounded-2xl shadow-sm border border-slate-200 dark:border-slate-800">
+                    <div class="flex items-center justify-between mb-6 pb-2 border-b border-slate-100 dark:border-slate-800">
+                        <h3 class="font-bold text-slate-900 dark:text-white text-base flex items-center gap-2">
+                            <i class="fas fa-fire text-brand-600"></i>
+                            Las Más Leídas
+                        </h3>
+                        <span class="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Hoy</span>
+                    </div>
+
+                    <div class="space-y-4">
+                        <a href="#" class="group flex items-start gap-3">
+                            <span class="text-2xl font-black text-slate-300 dark:text-slate-700 group-hover:text-brand-600 transition">01</span>
+                            <div>
+                                <span class="text-[10px] font-bold text-brand-600 uppercase">Política Nacional</span>
+                                <h4 class="text-xs font-bold text-slate-800 dark:text-slate-200 group-hover:text-brand-600 transition leading-snug">
+                                    Definen prioridades presupuestales para los proyectos carreteros de la región centro.
+                                </h4>
+                            </div>
+                        </a>
+
+                        <a href="#" class="group flex items-start gap-3">
+                            <span class="text-2xl font-black text-slate-300 dark:text-slate-700 group-hover:text-brand-600 transition">02</span>
+                            <div>
+                                <span class="text-[10px] font-bold text-brand-600 uppercase">Puebla</span>
+                                <h4 class="text-xs font-bold text-slate-800 dark:text-slate-200 group-hover:text-brand-600 transition leading-snug">
+                                    Consolidan mesas de trabajo entre municipios y dependencias federales.
+                                </h4>
+                            </div>
+                        </a>
+
+                        <a href="#" class="group flex items-start gap-3">
+                            <span class="text-2xl font-black text-slate-300 dark:text-slate-700 group-hover:text-brand-600 transition">03</span>
+                            <div>
+                                <span class="text-[10px] font-bold text-brand-600 uppercase">Economía</span>
+                                <h4 class="text-xs font-bold text-slate-800 dark:text-slate-200 group-hover:text-brand-600 transition leading-snug">
+                                    Proyecciones de crecimiento e inversión pública regional para el segundo semestre.
+                                </h4>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Newsletter Card -->
+                <div class="bg-gradient-to-br from-brand-600 to-brand-800 text-white p-6 rounded-2xl shadow-lg relative overflow-hidden">
+                    <div class="absolute -right-6 -bottom-6 text-white/10 text-8xl">
+                        <i class="fas fa-envelope-open-text"></i>
+                    </div>
+                    <h3 class="text-lg font-bold mb-2">Clave Político Express</h3>
+                    <p class="text-xs text-slate-100 mb-4 leading-relaxed">
+                        Recibe cada mañana en tu correo el análisis de coyuntura y las decisiones clave del país.
+                    </p>
+                    <form onsubmit="subscribeNewsletter(event)" class="space-y-2">
+                        <input type="email" placeholder="correo@ejemplo.com" required class="w-full text-xs p-2.5 rounded-lg bg-white/10 backdrop-blur border border-white/30 text-white placeholder-slate-200 focus:outline-none focus:ring-2 focus:ring-white">
+                        <button type="submit" class="w-full bg-white text-brand-800 font-bold text-xs py-2.5 rounded-lg shadow hover:bg-slate-100 transition">
+                            Suscribirme Gratis
+                        </button>
+                    </form>
+                </div>
+
+            </aside>
+        </div>
+    </main>
+
+    <!-- Main Footer -->
+    <footer class="bg-navy-950 text-slate-400 mt-16 border-t border-slate-800 text-sm">
+        <div class="max-w-7xl mx-auto px-4 py-12">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+                
+                <div>
+                    <div class="flex items-center space-x-2 mb-4">
+                        <div class="bg-brand-600 text-white font-black text-xl px-2.5 py-0.5 rounded">CLAVE</div>
+                        <div class="font-extrabold text-xl text-white tracking-widest">MX</div>
+                    </div>
+                    <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                        Medio de comunicación independiente especializado en análisis político, políticas públicas y cobertura de coyuntura nacional y regional.
+                    </p>
+                    <div class="flex space-x-3 text-slate-400 text-base">
+                        <a href="#" class="hover:text-white"><i class="fab fa-x-twitter"></i></a>
+                        <a href="#" class="hover:text-white"><i class="fab fa-facebook"></i></a>
+                        <a href="#" class="hover:text-white"><i class="fab fa-youtube"></i></a>
+                        <a href="#" class="hover:text-white"><i class="fab fa-telegram"></i></a>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Secciones</h4>
+                    <ul class="space-y-2 text-xs">
+                        <li><a href="#" class="hover:text-white transition">Política Federal</a></li>
+                        <li><a href="#" class="hover:text-white transition">Estado de Puebla</a></li>
+                        <li><a href="#" class="hover:text-white transition">Análisis Económico</a></li>
+                        <li><a href="#" class="hover:text-white transition">Columnas y Opinión</a></li>
+                        <li><a href="#" class="hover:text-white transition">Transparencia</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Institucional</h4>
+                    <ul class="space-y-2 text-xs">
+                        <li><a href="#" class="hover:text-white transition">Directorio Editorial</a></li>
+                        <li><a href="#" class="hover:text-white transition">Código de Ética</a></li>
+                        <li><a href="#" class="hover:text-white transition">Aviso de Privacidad</a></li>
+                        <li><a href="#" class="hover:text-white transition">Contacto de Prensa</a></li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="text-white font-bold text-xs uppercase tracking-wider mb-4 border-l-2 border-brand-600 pl-2">Contacto</h4>
+                    <p class="text-xs text-slate-400 mb-2"><i class="fas fa-envelope mr-2"></i> redaccion@clave.mx</p>
+                    <p class="text-xs text-slate-400 mb-2"><i class="fas fa-map-marker-alt mr-2"></i> Ciudad de México & Puebla, México</p>
+                    <p class="text-xs text-slate-400"><i class="fas fa-phone mr-2"></i> +52 (55) 5000-0000</p>
+                </div>
+
+            </div>
+
+            <div class="border-t border-slate-800 pt-6 text-center text-xs text-slate-500">
+                <p>&copy; 2026 CLAVE MX. Todos los derechos reservados. El contenido de esta nota web está protegido por las leyes internacionales de propiedad intelectual.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Toast Notification Element -->
+    <div id="toast" class="fixed bottom-5 right-5 bg-slate-900 text-white px-4 py-3 rounded-xl shadow-2xl z-50 transform translate-y-20 opacity-0 transition-all duration-300 flex items-center gap-3 border border-slate-700">
+        <i id="toast-icon" class="fas fa-check-circle text-emerald-400"></i>
+        <span id="toast-msg" class="text-xs font-medium">Acción realizada exitosamente.</span>
+    </div>
+
+    <!-- Search Modal -->
+    <div id="search-modal" class="fixed inset-0 bg-slate-950/80 backdrop-blur-sm z-50 flex items-start justify-center pt-20 hidden">
+        <div class="bg-white dark:bg-slate-900 w-full max-w-xl mx-4 rounded-2xl shadow-2xl p-6 border border-slate-200 dark:border-slate-800">
+            <div class="flex justify-between items-center mb-4">
+                <h3 class="font-bold text-slate-900 dark:text-white text-sm uppercase tracking-wider">Buscar en Clave MX</h3>
+                <button onclick="toggleSearchModal()" class="text-slate-400 hover:text-slate-600"><i class="fas fa-times text-lg"></i></button>
+            </div>
+            <div class="relative">
+                <input type="text" placeholder="Escribe tu búsqueda (ej. Carlos Palma Marín, Puebla, Presupuesto)..." class="w-full text-sm p-3 pl-10 rounded-xl border border-slate-300 dark:border-slate-700 bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-brand-600">
+                <i class="fas fa-search absolute left-3.5 top-3.5 text-slate-400 text-sm"></i>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Reading Progress Bar
+        window.onscroll = function() {
+            let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+            let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            let scrolled = (winScroll / height) * 100;
+            document.getElementById("progress-bar").style.width = scrolled + "%";
+        };
+
+        // Dark / Light Theme Toggle
+        const themeToggleBtn = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+
+        themeToggleBtn.addEventListener('click', () => {
+            document.documentElement.classList.toggle('dark');
+            if (document.documentElement.classList.contains('dark')) {
+                themeIcon.className = 'fas fa-sun';
+                showToast('Modo Oscuro activado');
+            } else {
+                themeIcon.className = 'fas fa-moon';
+                showToast('Modo Claro activado');
+            }
+        });
+
+        // Font Resizer
+        let currentFontSize = 18; // base size in px for body
+        function changeFontSize(delta) {
+            currentFontSize = Math.max(14, Math.min(24, currentFontSize + delta));
+            const content = document.getElementById('article-content');
+            content.style.fontSize = currentFontSize + 'px';
+            showToast(`Tamaño de letra: ${currentFontSize}px`);
+        }
+
+        // Bookmark Toggle
+        let isBookmarked = false;
+        function toggleBookmark() {
+            isBookmarked = !isBookmarked;
+            const btn = document.getElementById('bookmark-btn');
+            if (isBookmarked) {
+                btn.innerHTML = '<i class="fas fa-bookmark text-brand-600"></i>';
+                showToast('Nota guardada en tus marcadores');
+            } else {
+                btn.innerHTML = '<i class="far fa-bookmark"></i>';
+                showToast('Nota eliminada de marcadores');
+            }
+        }
+
+        // Mock Audio Player
+        let isPlaying = false;
+        let audioProgressVal = 0;
+        let audioTimer = null;
+
+        function toggleAudio() {
+            const playBtnIcon = document.getElementById('audio-icon');
+            const progress = document.getElementById('audio-progress');
+            const timeDisplay = document.getElementById('audio-time');
+
+            if (!isPlaying) {
+                isPlaying = true;
+                playBtnIcon.className = 'fas fa-pause ml-0';
+                showToast('Reproduciendo nota con voz sintética');
+
+                audioTimer = setInterval(() => {
+                    if (audioProgressVal < 100) {
+                        audioProgressVal += 2;
+                        progress.style.width = audioProgressVal + '%';
+                        
+                        let currentSecs = Math.floor((audioProgressVal / 100) * 135);
+                        let mins = Math.floor(currentSecs / 60);
+                        let secs = currentSecs % 60;
+                        let formattedSecs = secs < 10 ? '0' + secs : secs;
+                        timeDisplay.innerText = `0${mins}:${formattedSecs} / 02:15`;
+                    } else {
+                        clearInterval(audioTimer);
+                        isPlaying = false;
+                        audioProgressVal = 0;
+                        playBtnIcon.className = 'fas fa-play ml-1';
+                        timeDisplay.innerText = `00:00 / 02:15`;
+                        progress.style.width = '0%';
+                        showToast('Reproducción finalizada');
+                    }
+                }, 400);
+            } else {
+                isPlaying = false;
+                clearInterval(audioTimer);
+                playBtnIcon.className = 'fas fa-play ml-1';
+                showToast('Audio pausado');
+            }
+        }
+
+        // Reactions Counter
+        function addReaction(type) {
+            const countElem = document.getElementById(`count-${type}`);
+            let current = parseInt(countElem.innerText);
+            countElem.innerText = current + 1;
+            showToast('¡Gracias por tu reacción!');
+        }
+
+        // Share Functions
+        function shareArticle(platform) {
+            showToast(`Compartiendo en ${platform.toUpperCase()}...`);
+        }
+
+        function copyArticleLink() {
+            document.execCommand('copy');
+            showToast('Enlace copiado al portapapeles');
+        }
+
+        // Comment Submission
+        function postComment(e) {
+            e.preventDefault();
+            const author = document.getElementById('comment-author').value;
+            const text = document.getElementById('comment-text').value;
+
+            const container = document.getElementById('comments-container');
+            const newComment = document.createElement('div');
+            newComment.className = 'p-4 bg-slate-50 dark:bg-slate-900/60 rounded-xl border border-slate-100 dark:border-slate-800/80 animate-fade-in';
+            newComment.innerHTML = `
+                <div class="flex justify-between items-center mb-1">
+                    <span class="font-bold text-sm text-slate-900 dark:text-slate-100">${escapeHtml(author)}</span>
+                    <span class="text-[11px] text-slate-400">Hace un momento</span>
+                </div>
+                <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-300">${escapeHtml(text)}</p>
+            `;
+            container.prepend(newComment);
+
+            document.getElementById('comment-author').value = '';
+            document.getElementById('comment-text').value = '';
+            showToast('Comentario publicado exitosamente');
+        }
+
+        function subscribeNewsletter(e) {
+            e.preventDefault();
+            showToast('¡Gracias por suscribirte a Clave MX!');
+            e.target.reset();
+        }
+
+        // Modal Search
+        function toggleSearchModal() {
+            const modal = document.getElementById('search-modal');
+            modal.classList.toggle('hidden');
+        }
+
+        // Helper Toast Function
+        function showToast(message) {
+            const toast = document.getElementById('toast');
+            const toastMsg = document.getElementById('toast-msg');
+            toastMsg.innerText = message;
+            toast.classList.remove('translate-y-20', 'opacity-0');
+            
+            setTimeout(() => {
+                toast.classList.add('translate-y-20', 'opacity-0');
+            }, 3000);
+        }
+
+        function escapeHtml(text) {
+            return text.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+    </script>
+</body>
+</html>
