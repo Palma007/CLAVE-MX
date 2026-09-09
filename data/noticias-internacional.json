@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T23:01:59.975Z",
+  "updatedAt": "2026-09-09T01:48:04.905Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,31 +64,58 @@
   ],
   "items": [
     {
-      "title": "Mexican border shelters empty as Trump crackdown deters migrants heading north",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQREdnVzd3UlRYX3lWX09TTG1yLXJ4ai1wNHpRdTRrNzJXaVZEcXBmS1k3cnVTOHNSb2lZc2tRZ1cwUHMyazkxMjhxU1JPV19sZWNqWi1iMWdlcFNsdHlHanFsMjc5RUh3Vk9POFEyeThEbWNOUTM2WWNUWWFKUHJOa3dpYjRSSjFJVEdneFFsYVFxT0Rvek11eVVwbUJqOWJSbXdFYkd6OGpjWVpNZjJjLThHcjlhX1hzWUdFNWJiQ3l4YkFjdXk4?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 20:53:49 GMT",
-      "description": "Mexican border shelters empty as Trump crackdown deters migrants heading north Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "Cuba, México e Islandia responden a mapa publicado por Trump",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGFMZHB1amVBdXhwdFU2TTlkekNBNTBiNDlIY0VBc0ljQmdySkJUbGJwSy10cU44Y3psWHltanVFb1JOdnAtdmtOT2l4dFIwZlhtc1RQenQ3WHdINk9DVEpVc1FOeVRtV3F2ZVRBZTRvSHlFU1lSa1pUWnUyNlJEbFVKLWVfa25EVDh2RmVlR1duSkNWTmZFVENWNUFZZDTSAZ8BQVVfeXFMUEFpNFhrNlB3eUE3XzVqQndLNTRWdHU2bWhSYy15dG5kMmhqdnBFbFF3MllJZ1V2ZTVhNUVMck9pa0cySC1saUlfNG1hdVpBWVNQYl9UWkhJWWFkNkZjUE9vODVlOFJ0TmFTSjVGRnl2Qy1YSWNaWWxIS3hqTXNJd3hHdlRDNjYwdzQ1YUx3MWhPWmVJRVpiTEZKZ3UwVVpZ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:24:42 GMT",
+      "description": "Cuba, México e Islandia responden a mapa publicado por Trump dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
-      "title": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de \"limpieza étnica\"",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LM0xWLUM1dlhTcFdzYmg5Zk1UdXdSY0JPWFY2aFBMQVpZT2xfR01SaW5zVjBhUHlTbTF4TjlsbjBSZFhtTUxZdTZaVDlRekxEVGZRWUtiMkVfRzDSAWBBVV95cUxNeDNjeFlreGFmUm9iOWlUVWdpUkhmX2JsaEo3YU9Md2M0Z2pNVjNMb01pQ01VZk51dEZCVXV6LUhYSEdTYVdicGdSUzlRMW5qVWltTkpzTC1WYWRUOEZSQWw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:18:50 GMT",
-      "description": "Reino Unido anuncia sanciones contra los colonos israelíes en Cisjordania y los acusa de \"limpieza étnica\" BBC",
-      "source": "BBC",
+      "title": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GSG1VOUVZa3l5VFZzWmR6SmJjZ2pjejV6VnhDeElpakJ2WnhoYi1EYTdHc2RDQlRLZ0l1TnU5b0lDWHllWFVfN2NKc1JsZWkyWHB3OGgwNGJVcWfSAWBBVV95cUxPMktZdV9WUUEtdGVWUGsyQjJ0TGtPUjRYZDJ3ZFBaTzc4M2F2SXFSc2hZOWhkX1ROLWxCUjdPQ0ZSSGN3SjNhUExBZ2hzSFBLZHJFZkxETVU5dkJ6N0tEQTk?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:12:35 GMT",
+      "description": "Quién es el líder político mejor pagado del mundo y por qué le subirán el salario US$1 millón bbc.com",
+      "source": "bbc.com",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La defensa de los Farías Laguna desmiente a la Fiscalía sobre el hallazgo de armas y papeles confidenciales en una bodega",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOWdvRmV1ZVNiNm9EZ3lXekZVbHlCb1ptbDQ2aW5pajhSZGdBUWZKbnUxWTBsNVZ3MDlXRDVmQnA5NlU4NTVRN182TU8wbEwtbm5hc1ZUaGc4N21CNW1ZRm81UGl3XzMxMlp6eDI0czdETWtZTXdvSkRGQ0YyejZSTGpmczc5SVRoMnliSFhOdlduVGp0em5oU2RYb2p4VDM2YTZiT285TXlhVHNzZm56c2N6eExpSVpZbWx0ZnQ3UlNELU5qOVN2elJKaUJhYmVnNkcwdTBRS1BkX3QtM0FUcW1QWU5NNlJkT09XRGZ2UkxEa1ZzSlHSAYoCQVVfeXFMT2FZMzNyQy1nZi1pR1hnN1N3bTJTVWdYRWtoYXFUTGpKdG8tRWtWX0Foa25KdWk3bVlqNTRfNXQ3SldKc0t4SzhBa1ZPMVgyaUtXcWZsRE9DVjFHb0RBaWpHWDFEb1dLN1lWZHBqZG1XenYyQ2lvQWRHejBsZmpPTXV2QjhzaU9VOEV0dzlydE9GQi1qVEgxUW9hblhTSC1SU1ZydzI5VUxGSnhzMUNEUFZ1YS0yN3dHOW0tRWM1cmN4dm9TR1RfcXVWZE5GSUI1bEsxa3k1Mm5uY1FxTmVuMlZobTdVbVR5QnoyUFhyTTNZcFZ1ZkZZMU5tRUp6cEh2ekdLRWJ4RXRaS2c?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 20:07:17 GMT",
+      "description": "La defensa de los Farías Laguna desmiente a la Fiscalía sobre el hallazgo de armas y papeles confidenciales en una bodega EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El Gobierno rebate a PISA y los padres de familia cuestionan la Nueva Escuela Mexicana por los malos resultados",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTUFZR08wcUJDRUE0aEJlY1NOSmYtS2xMb3g3aHFKTHRTVDJ1eGNjak1xNnlBci1SbVp0UmppRHBrRnBlNmxGSWVORGZzOEl1N3lrTFZyOTA1cEx2QlBibFc0dW44OTZjUHZGZ21VNEV3XzBHNHRlaldFWmZRWjZJYi1zQm1BYWlNbG5XNHZpbXY0OWhfVWZSaTFDblpNdjZ1VUtVWmlKa3lwZmtyNl9LYTgyZE9qbE1WakkyRFRaTnEzYlM0cEtTTmtZbGd1RlQ2T0FFNVhIZmxWQkR5WUM1X3FUXzl1b1lW0gH8AUFVX3lxTFBTREJ0R0ZhbjZQakFSUk45NVQ0M2Radnl1XzlOTnowQ3V1OHVfMmoyc2N4a0c0OUxzVGVFdWFRaDBBTVlpQ1BpRGJRdno5VS0yT0FjV20xM1JMYmRTQUZHMjZpTEhBMjMtS2xHREstZUlyX2FmZzdLQk9GTGotbUFlbHBkVjNRZndtUHE1TVpoWm04Z0FrYk1WYXFnYjVNZlJjdU45c25xdjFheDFPR2xxSHNVZTl5Mk1obklkSEdQd3BuLWhYLUhUX3RkdmttWV9lb3lLSnRkeklQRFVXWHItRXhKTW1WeDZibGM0T3gzdVpzczBCdlh6V2FFYw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 20:01:06 GMT",
+      "description": "El Gobierno rebate a PISA y los padres de familia cuestionan la Nueva Escuela Mexicana por los malos resultados EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83Qm5xSE5vbDZiRHVGS0FXM1EtMV8yR0Z1cGNNRk4xai1kZjhUMmluYURLU1ltNUFZeFFZTXYtaHhLMlFPbEZPOXJFS1FwMVFrb3ZMVzZYXzVYWk3SAWBBVV95cUxOMFFOUVRvWDJJYmtvcmtGOU5VZ0lpc2M0X29NN1A0UGU5cG00MEpfQmFfajRoRVBSRnY1NkEzQ0prT0lld1RFRWlzNzlDaEExTUJuYWxwVDFuTjExa3FoOTM?oc=5",
       "pubDate": "Tue, 08 Sep 2026 16:42:24 GMT",
-      "description": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa BBC",
-      "source": "BBC",
+      "description": "Abren una investigación después de que el personal femenino de la Torre Eiffel fuera sustituido por hombres durante una visita religiosa bbc.com",
+      "source": "bbc.com",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Trump habla por teléfono con Putin y pide fin de la guerra",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2owWGY1eEpCWFdVY0pnQWJaTXNvaGdDSlZJNXZXNk9id1ZaZEJBVENnMFlRaW5iOWhVZVhBRVh2alVzNVFfZ1I0eENtV2JlejZ4UmgwYjU4VXdDUVRXZ3E5dGZ1bVBzd1czV19ZQlpvN0xkaHd3SHZob3ZLMFFDQ1BRM1BodllBdmJzYnloMGx6XzkyLThBc2hPYThZV2dCQTY4Q9IBpAFBVV95cUxPRzBaZEhFV2RlLUxpVktTZE41MWEwREdmNFpQSjEtSFdYNDN0T1hZWWw3bjBfcm9Dczh6Z056TWlnak50cTAwVWdRQ2pRZFFPa1dobTVUOFpJSThUb0M5TUYwdElPd014dFlWT1ZUdENVeHBscUIyUDBxNHdMb2lSN0MycVVCT3hkU1NpWGpldGx0eUJFWHhRUi1WWUJ6Sl9CUUd2Mw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 16:40:11 GMT",
+      "description": "Trump habla por teléfono con Putin y pide fin de la guerra dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Una avería en el sistema de control aéreo provoca la cancelación de más de 600 vuelos en el Reino Unido",
@@ -109,15 +136,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Trump habla por teléfono con Putin y pide fin de la guerra",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2owWGY1eEpCWFdVY0pnQWJaTXNvaGdDSlZJNXZXNk9id1ZaZEJBVENnMFlRaW5iOWhVZVhBRVh2alVzNVFfZ1I0eENtV2JlejZ4UmgwYjU4VXdDUVRXZ3E5dGZ1bVBzd1czV19ZQlpvN0xkaHd3SHZob3ZLMFFDQ1BRM1BodllBdmJzYnloMGx6XzkyLThBc2hPYThZV2dCQTY4Q9IBpAFBVV95cUxPRzBaZEhFV2RlLUxpVktTZE41MWEwREdmNFpQSjEtSFdYNDN0T1hZWWw3bjBfcm9Dczh6Z056TWlnak50cTAwVWdRQ2pRZFFPa1dobTVUOFpJSThUb0M5TUYwdElPd014dFlWT1ZUdENVeHBscUIyUDBxNHdMb2lSN0MycVVCT3hkU1NpWGpldGx0eUJFWHhRUi1WWUJ6Sl9CUUd2Mw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 16:02:09 GMT",
-      "description": "Trump habla por teléfono con Putin y pide fin de la guerra dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "US seeks more access to Venezuela's mineral wealth after tapping its oil, sources say",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTV9HYUdSSlNYVFMwd3dUdUpFamtYakxkTEhMM09TS282djJLOTlTQTdaMGZzb19UdnlQeXc0RmQ3MzhDNFBNY0dBSEZwaHNUckprd1dabm1kdGhjNDlQVTNSYnFuREw5YzZpcVlGeTdjTG91S2cyQXdYS04tOElVNlV5OXZaTU1TM1FzN3FUREtvaUJVUHlJRTJVSkU5RE5RRVFiLUpVcFRITmVCcVo5OWNzUTBLZ0NTd2RnR3Fjd1pTRUhXbzd2Qk9RWQ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 15:46:14 GMT",
@@ -125,15 +143,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Los 10 candidatos a ganar el Balón de Oro 2026 y todos los nominados por France Football",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTTF1bHF5VE5oVFBIZTk2WVQwM3RYVjFCdGpDSk1xSzRKUExhV2ZTUEhOcWcwMC1rUzRhN0tEZ1B3N2dSWGlVWHVDMzlnSFlMYXVGUUY5WFNRa3JuMmh5djVDTkYwamVpVjdSbTVYUnhwWEcyWEFVeGdNeHdPVEgwS3lmQ1BsX0FVY0hqY3hBMjM?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 14:52:00 GMT",
-      "description": "Los 10 candidatos a ganar el Balón de Oro 2026 y todos los nominados por France Football CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "La senadora morenista Julieta Ramírez niega tener un acuerdo de colaboración con EE UU: “Es una farsa”",
@@ -147,7 +156,7 @@
     {
       "title": "Arrestado el sospechoso de sabotear la red eléctrica alemana",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTzJXSnhNT0dKNDRHbEh5eXpEeXdCVVNLemF1eHR4b3VSejhheUJSaDE3bVhiWE9kZnZpaUVvYmRsUE5MalRpNXVhckxUSWJUanpTaWxFWWxkUXZmazZDWVJzaUMzVTI3LWYtUXRsbTVmWmxiMVk0SVI2aXRUam1KekE2a0VqV0JDX0lVWkE2ZGRSb1Q4Z3JiSlVORXhvemIzbWFrZlU5V2duZ3k2YnAyeURmVE9KbFZVWE50a9IBvAFBVV95cUxQeUNQUEEwUXpZM01hOUVMSVpXVVpEVElScnUxd1JGVE9lVFlLeWM0c2NSUnFrRXV3eHNMR1pnRldHVjlCY2dpQlZoZ0owLWdmak53ZnpJVk5ZUVVJMHc5VFN2ZmllYU5jSmY2dGQyVEtpdF9rU2RYODJJR0t3SzI2ZGg2eUVmVDRKTDJ4WWZobHEybHY5ektoWG9vWXk5RzVXVVdockxYazEyRG9RZndHOXNuckx5Y3hhWnVVcw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 14:30:43 GMT",
+      "pubDate": "Tue, 08 Sep 2026 13:51:19 GMT",
       "description": "Arrestado el sospechoso de sabotear la red eléctrica alemana dw.com",
       "source": "dw.com",
       "outlet": "Deutsche Welle",
@@ -163,11 +172,20 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Así llegó el príncipe Jorge al internado de élite Eton College que cuesta US$ 80.000 al año",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMTJqYmFBS1VHTEdESWQxUE5mcUVyd0M4anFCMnEtNUJuZmlYYzBUS3Y3cFdwTFUzWWk5YzE2MkNKd3RBN3FaMThVUDl4d2FvVGpZNWpYaF93VlNMSEtvTXNYSk5KZHRtMnkzOHJFVVJRRlE0ci1OXy1ZeE1DQkI1a0pqX2lmLXoxQ1hHclNLWFRmX0M0WUpzYg?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 13:24:16 GMT",
+      "description": "Así llegó el príncipe Jorge al internado de élite Eton College que cuesta US$ 80.000 al año CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EYTR4VDFqWFZjQmVUV29SOFlWX3hwT2dSbXhoeGZqXy1ZX2YwN0QyOVU1dVpYMWdPTlM2bTZSWVhrVm92Y0FsckJpRjNNN01oWHo4S1J5d2ExS1HSAWBBVV95cUxNOGtBZU1yQUFOMDBNMEVmQnUySFA4UWtYYlVZY1J3YmlNV1JXYlhuaGJMNmctTWZyV3pXV01XQjBveGYwRWhzVmxKWkhtSWhjUGV2aDhENExGQ1d2U0dxZnE?oc=5",
       "pubDate": "Tue, 08 Sep 2026 12:51:34 GMT",
-      "description": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos BBC",
-      "source": "BBC",
+      "description": "Pruebas PISA: España obtiene los peores resultados educativos de su historia mientras la mayoría de los países de América Latina sufre retrocesos bbc.com",
+      "source": "bbc.com",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -181,37 +199,28 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Roban del Museo Renoir en Francia varias obras valoradas en más de US$10 millones",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Z2VqX3hzdUhFX3IyQ0FRWEwtaVZ0R3BGRlJWZHZGeDFMVEJWUFFGSzA3R1NXazJRcS1wN0xUYUpJYVJnT2tCTFg3OG9YVXZpdGVyVlNNemNLUWfSAWBBVV95cUxPc2dJSFlueWtROFFFdkdZV09GcjZfM0ZqUnBJQnktVTFqczVmcFl4VGN4RTZ1enVkeXFtRmxrWlE2aFpDRktJS0NuSk5zTUowMmtzNnQ2ZlFlRDVsYWFTZ1Q?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 12:01:33 GMT",
-      "description": "Roban del Museo Renoir en Francia varias obras valoradas en más de US$10 millones BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "EAU habría avisado a Netanyahu de ataques del 7 de octubre",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0FZM196dHQ2aE1XdUdwTVF1X29vQ01PQ3Q2QXdjQTFaTzNQVktVZnNYcVoxRVlMS2F3QWtibkFoVWkzZU1zTmEwTFZKekxYNFlJTXp2V2RfeFBnRTlidnlBeUxRZlBJeHViWEhUVnNtY1J1bW5KSXJYZW1TZk0zdzBBSVpqcTVyYXpVYW42ckYyLVF1a2xOTHNaVVlCY1F0cUJLSkk0WFpWMmQzZ215NGUzNUN0YlNzRm5EMm9vSDJXWXlIUkHSAcYBQVVfeXFMTWFuVnJfb1VwWVJDbVR1a1JDMmZvUEg4ZmxhUUFCa19VREc4eDBSaUNWcy1Cc251enUzOVpPaU9waUk0UE4yenVobjNHN1RPZHp2cG45U2RmZXNxX3M4ejdabEZ5VktZVURkd3Q1Tl8yWDhxR0ZLUE1RVXd0cUE0TFZiZ2p0a3dmWU1WMnFKZEV4WTRnd2JvM24xWnhsa1FsOEZsTml2cEc1MkkzaEUzbVh2QlFIbFJyMWExak1yX2lZQm1aXzRn?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:44:53 GMT",
+      "pubDate": "Tue, 08 Sep 2026 12:06:42 GMT",
       "description": "EAU habría avisado a Netanyahu de ataques del 7 de octubre dw.com",
       "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "PISA: caída histórica del rendimiento escolar internacional",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORVhHX21VZVZjcXZneE5pQnJnaEpmLVhRWGUzQXNTd0RwckdfQ1p3X3U4UUk5c01pZk1jV2xscUl5VFRJRnhJVXNrcDJ5aVFPN3dmdEc4RS1NclF2akZIcmdtMlpidHJMVzZmUkF1aTg3b004MFdyZ0NUVjE5Vm9zZWFWS0p5NHRMOEJGUHZyWEpTOW9FSkJQZ3E0ZVhTcmlOTkpqWDViN1FsOUo5bnpVa2JYOEtpMjBDOUpvTlphSkLSAcABQVVfeXFMTmhyNXBaYllKT21mdWJNb1ZCV2JGOVN0VlhHMXMzMUxsNXNJa0dYeXVBQXlBZmZtTmFSVEdHTlZFMmRsY3llZnhvUm5HcXZtUzFGU2pDcVNmeFR0cXFQc3RPMENXcXVicE50V1hsQVYxZTJPMTJnMVpzV0tQQUhSY2k2RmZ0bGRRY1RNMFZlTmNsR3NVczlMWUV5ZnZUaEpjTW5aY2U0VUFrd3VCTlEyM0FjVmhDOEVyTXpRcEFRZ3JL?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:13:46 GMT",
-      "description": "PISA: caída histórica del rendimiento escolar internacional dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Roban del Museo Renoir en Francia varias obras valoradas en más de US$10 millones",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95Z2VqX3hzdUhFX3IyQ0FRWEwtaVZ0R3BGRlJWZHZGeDFMVEJWUFFGSzA3R1NXazJRcS1wN0xUYUpJYVJnT2tCTFg3OG9YVXZpdGVyVlNNemNLUWfSAWBBVV95cUxPc2dJSFlueWtROFFFdkdZV09GcjZfM0ZqUnBJQnktVTFqczVmcFl4VGN4RTZ1enVkeXFtRmxrWlE2aFpDRktJS0NuSk5zTUowMmtzNnQ2ZlFlRDVsYWFTZ1Q?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 12:01:33 GMT",
+      "description": "Roban del Museo Renoir en Francia varias obras valoradas en más de US$10 millones bbc.com",
+      "source": "bbc.com",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
-      "title": "Harry y Meghan, \"sorprendidos\" por la carta del rey Carlos que reitera que no son miembros activos de la realeza",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclMwVy1sbi1Jc3V3WXVpMHhNRWh0V0syT3FUczNTYjFUSlEyMHYzRGlnbVhZLVpreUMyc3g4bjlSWk9uN1dMNllfa24yQWlsdXV5dXdYSmNqdWZfTElmNkwyMVpQRkdBRW1DNWRBVWhaVnhLS0tzUHJTWlUyWkZ2Nmk0TUt5OFIwNkQ2QUYweWVkZzFYOWxUOTIwTTkwUQ?oc=5",
+      "title": "Empresa afirma que puede ayudar a enfriar el planeta por US$ 10.000 millones al año. Los científicos dan la voz de alarma",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcjUwX3pzVm9FRkdDQWF6dWVlbnlMTm5PM05xS0thU05XTHFIRVVDYjl5U1IzaWQ1a0xBQ0NmdXRjeGVXeldnaDdGbjY1N1VYbGtSd2ZpSWZIYW5Ndk9zU0ctUHAwZkY1TjM3a3kySUFGY05oU0tVRGZrRjE4d0gtYkVjMWZxa0hrQm5udVZ1MGRKRHNhRy1uNQ?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:12:00 GMT",
-      "description": "Harry y Meghan, \"sorprendidos\" por la carta del rey Carlos que reitera que no son miembros activos de la realeza CNN en Español",
+      "description": "Empresa afirma que puede ayudar a enfriar el planeta por US$ 10.000 millones al año. Los científicos dan la voz de alarma CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -229,8 +238,8 @@
       "title": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJN1lPeFJRcUpfMVBjZ3BmSzFtaU9iSFlkQ1dtZ0ZaRld0MjJ2V2hHbTI2WE5SQ2trLU85Y3phX1k2d1F3T2gyajZRS1Bna2RKRU9yaTdzekZZQjTSAWBBVV95cUxPaHVmMTBBd0NpTVA0bmIySk1EM201Z3RBbGdBQU9MN0YzdS0zNFE1SnBVLVdYenBLX2dFRDVYVVZmcUFuUHYxYldoUHlmNFJ3NHRIUDR1cGd6MEZaVmVSOEM?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:01:48 GMT",
-      "description": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo BBC",
-      "source": "BBC",
+      "description": "Perdí mis ahorros tras caer en una estafa de entrevistas de trabajo bbc.com",
+      "source": "bbc.com",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -238,10 +247,19 @@
       "title": "Qué debes comer para proteger a las bacterias beneficiosas de tu boca",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZzJuWElZQWU1QzRoa2ZwWXZ6b0tJUzZEZmp5MmVLb0lWZVJ2aXVKQ1VMS3UtY0JiX1ZrQmdlTmo0WFNKelZyRlJKa0pET3pTRXVrc1lBTGV2S3fSAWBBVV95cUxNOWNyWmhrTUxBX1E1TGFKQThPMXZVeUNVbnQ5cEVnM3FjVDZvWmZQZ1NLNmRFRWhmdWZIQ1BzcWFaYzYxeW92c0J4WVY0LUxlOEN5VHlVVTBxQ2xIVUlVMUc?oc=5",
       "pubDate": "Tue, 08 Sep 2026 09:56:48 GMT",
-      "description": "Qué debes comer para proteger a las bacterias beneficiosas de tu boca BBC",
-      "source": "BBC",
+      "description": "Qué debes comer para proteger a las bacterias beneficiosas de tu boca bbc.com",
+      "source": "bbc.com",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Andy López Beltrán, la piedra en el zapato de Sheinbaum",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTzlUeFRkZFJ4V3VoNUxzcDNGT2JpU19sQUl5d2lyRVZ2NXRUSW92UFZxVmlwMVNwWDlFTHVaLTEzY1F2NnkyWUUzTWNHVnM2cWI1Tld2UDl6T09HUmRrZWItS1hVaXZudVZFa2tVd1pSMGpuaElkTWlHQ0U0OVhhSHRDcGo0d0JZYmVsUXlLVW9iTkFKZXk3QXpaZVbSAbABQVVfeXFMT3NiRDJsLW9QVkd3V3pCbktrdGQyYU1PSkVVSjNhUUpiWi1Rcll4T0U5dzJwNFRoTHlzTUd5bE4yV2NaeXpwSmtQZ3U0Z0FUcGp3ZWtITUw1ankyQTBsMTJKcmY0TmVkOVVLSTZITWxlQ1ZqckZRV1hRUlJHTWNBVllUWjlod0Nkcm9aTGlCSDFGam1wQnRxREU4OXlkMmJzR2ItWDN5X3dpZ2VuYVlBcHc?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:30:00 GMT",
+      "description": "Andy López Beltrán, la piedra en el zapato de Sheinbaum EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Una granja de criptomonedas clandestina roba luz a una presa: el inusual hallazgo en una comunidad remota de Puebla",
@@ -253,13 +271,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Robados dos valiosos cuadros del Museo Renoir en Francia",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLU56WWo0bm1vWWRfR0hld0tUcGNVQ0lPazFZdlA1XzE0cXFPWVl6Y280V2c1akd0YUxveC1tX0YxVmZoVkRPcEdsd1NsTHZKUi1kVFpwRmU3MU5mcVNUbzMyUlR2Y0NqalZLX1g0aU1EZDFyYmNBc0JTNzBlT2IxM3hUSDU1bEdDYWJfUnBtRVFNZ1dEQ3h0OHh2dDc0em9pSjlkQXZZMk5vN213VVExRGhUOE5DWXV6ZTA3Nmh6MXU1UjlUODRr0gHbAUFVX3lxTE1fdHQ2SExQNXRyV1o4cm5zMWg1OHRvcFlPSk14M3dRbUlqMUNpcUEwZkZvVmtSTDF3TmtaQzhoQWUzYzRVNXlkNEVOVDl3c0paOWxWTWdBaFBBS3MwSncwLXRaQkQ1UVJfSUlnM3hjRWs1al9VR3VXSHFZRXlGRjNCYTltcGNTanBUM3hLWVpla1hramNiVy13MjJpSExBQmVyaGRKeFVWT2pNeXZtRzBQUkRzV205R0p4WXJvUnlvaHRSVHhHOTdiTXMwNlNxamloaUxPbGdBU1RvOA?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 09:04:33 GMT",
-      "description": "Robados dos valiosos cuadros del Museo Renoir en Francia EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "La victoria de la ultraderecha en Alemania está causando inquietud entre la clase política europea",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUUFvMjZrY285amxsdkdRRlZEbDZRQmJQeXBxTnVjNXFfRmFWVEpwZGxlQWxQTDl3ZjMzTkVsUlY1NWF4M0w3QWYxUjduNUhaZVVHVVJ3bWlVSk4xWk84Qm00cE9KTE95LWRSQURnM252YmlGQ09UZ2t3WmxxeE1oUzlNVTZzY3FJWFpTYjBGLUQ1V1U?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 09:22:00 GMT",
+      "description": "La victoria de la ultraderecha en Alemania está causando inquietud entre la clase política europea CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Venezuela no ha sido salvada, ha sido vendida",
@@ -289,15 +307,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Un soldado denunció corrupción de las autoridades en Guerrero. El domingo apareció descuartizado",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXBxdDhZaml5YlRCM3lEbEdGSklsZUZGX2xhWFphSVlsVENiQ2JGRFJpUkNxYUFnNlU2RkQ1dlNsNVExdHV4Y04xS2lZeGQtMjNROTAyQktEMHVlaE1TMk9BRDhtbmhwWVNxYUFNTl94RXdIcjlCcGc5SnhSSlZrMVBLMkV1a0VYckZUUmxkVVVlWFF3OHl4b3VVcjBjN0Jzd29QWFI1elN0LUtHQUNJOXIzRktzZ1BmQXc2SGgtMlFjTHFtMTJlXzdtRDlFZmU2Q0Rn0gHnAUFVX3lxTE02dGsweTFXNGdCTDM3TjB0YkdKRUVhZWQyZUJMTHVzRHZmWllqZzNQSktfVjZiUUxfcnlLWVZhSE53RXZNR1hWaThRT3BvZDZMbTNkWlFWbDFqMGhLWWdkNU5Da0N2dlh6MGVJR2NYaVVLRE51dzRwUEdHcHM4MHZGcHY5eDFFTkhGcnYxT3VZZ1ZZNTlRT0tDajdvNnluWUxvaEF3Y1AtNHVqanpiNlRPZGdqa0dwQVY5VHpTeFh2LXktZ0x1YWl2YzEwT0NGcnlrWjhXMHJPejNrY2k5aDZ5NGdGSkRBSQ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 20:48:16 GMT",
-      "description": "Un soldado denunció corrupción de las autoridades en Guerrero. El domingo apareció descuartizado EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Trump publica imagen sobre la extensión de EE.UU. y Sheinbaum responde: “México no es ni será colonia ni protectorado”",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbl9LWTcwaXc2LTdfcHFzeEt1U2JfYVBvemZaTENBcUo1NEYwejFGNWZ4bnVZRUhzaS1zRWFsVnJsa1VUMGhPaGFUSG9FX211QkhYNUd3Tll2VFV3TS10RDJILXJLYUFYYS0tcmFWbmJNYmR4Uk0zT1I4b1VZWmtsS002cHd2WHV4TWVrLXlJOENDSGx6S09vN1l2M09UNVhQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 19:37:00 GMT",
@@ -314,15 +323,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Video de dron muestra la destrucción tras la explosión de juegos pirotécnicos en unas fiestas en México",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUJWMmc3V05JQUVCbWRIbzhTd0RDeUlFQVBLNEFvVDhfcEVPUmxLRmZIdmN0S2dOcWRYalQyZFFkME8zWDFqZFNWQmktTTUwSERydHdMNzcyS0l5WGJIdUVqeFAwZkhRWVp3eUZyUlRBN3I3SmhaUTRFemNuMHExWS1RMFFjcTdURmxaQWoxRU9mNUVOVm1RcUNyMDlmLXF2Wmg4UUN6X1c5UmdlSEo3VjZtT2drWU0?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 16:16:10 GMT",
-      "description": "Video de dron muestra la destrucción tras la explosión de juegos pirotécnicos en unas fiestas en México CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Trump presenta un uniforme espacial y las redes ven a las SS",
@@ -350,15 +350,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "La incansable búsqueda de Héctor Márquez, el pescador de Oaxaca a la deriva desde hace una semana",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzJETklQQWk0UkdXRFBNSnJHbkttNkFvZDZ0LWpsSmN3d0FVVWhuOWRVZUhmVFhSZjVDRFhGdHZzRGhTVDJUVUNhdjlCVElKWnJuenJBNi1ZVXpkWjF5V2hFYkVISEw2Sl8wcmtBZTRFZk5IR2NHX1BYZkRzQjN6VDd0dUhWN2FnQkVneWtPcFU4RFVSbWVWRll1U1YxbzRqdXdPOUhaa2hHRkdVTHZaS0duV1BiaEhGMl83OXJEV2JTejQ2d0JzaHFrQXlPNFpuVmE5WNIB6AFBVV95cUxQaktBRW9lRG00MlVrWU5Yb0ZZR2ZYNjk2WlBwRml6TllHMkRWbk15RjhCckdoaTBXVy13cDVQTnhJckFvcWdNV3pmcFlsWjMxbDU4dDZhZTFXMHhrWU9xSW02eTJ0bWlpNDRfZnp2aUh5TjhKX1l0cVZFUTl4RVBoSVQ5cWpGdWg1WlluaHFkN3J3ZkFsdU96OTZ1UWtoVlZBbzVIWGxDck00WW5WSDBYTHF6LUEwUG5McW9udUwtUU1YSGp0WU5XbkkyMGNTeUZMdHRrclBuWmdLUFlwMHU5R2d4am9sWFFi?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 02:26:32 GMT",
-      "description": "La incansable búsqueda de Héctor Márquez, el pescador de Oaxaca a la deriva desde hace una semana EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Al menos cinco muertos deja el accidente de un avión de Amazon en Miami",
@@ -458,6 +449,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Trump says he is reviewing US position on Falkland Islands",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa09CNDNpMTJhUzZ2MHl4X3lyeWxLLUQ1dTlLVlRUeDcxX0hKMnVJc2NsMGVNU2Q1dnk0SzVsSVF2bDZLQnhuSFVncDlQWWlTU0RFZ3YxUzVZRHFxSHJ1WWVHZHpjaHBUclpyd29CQWQ4Ujd4WG1HS2VYN0NjRk5wdlMydm91LVRRSkhzcVlFZ1Y1NldsR1NEQzI5MzFSYWg0MHc?oc=5",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "description": "Trump says he is reviewing US position on Falkland Islands Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Terremoto frente a Indonesia deja al menos 47 muertos y edificios derrumbados",
