@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T20:20:22.408Z",
+  "updatedAt": "2026-09-11T22:50:57.624Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,6 +76,16 @@
   ],
   "items": [
     {
+      "title": "Ampliación llevaría al Aeropuerto de Puebla al top 10 nacional con más usuarios",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOHl0MFhLbFJHZC1TSDdLTkFRaGRsMGlKSDZVc2tROWxyUVVmM0VyVGxZWWlhMTlJbmdLbU1wdFBnYUNVcDI2TTE3bTU1Y1NTbU44dTJLaXFXU3JWdWIxZlZOWTFkcWFCVVFlRHhBRFcyYUE5SVdJb3l6WHRNazk3M2gxbmZYdTJsYWJmbmt5UU10eElBRXJiQkUwZXNWRU1wNlBnVFZzZmFET2lIMXYxMG9lSnJMMWo4U0ZyUmpFTQ?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 20:58:48 GMT",
+      "description": "Ampliación llevaría al Aeropuerto de Puebla al top 10 nacional con más usuarios e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
       "title": "Reserva Tehuacán-Cuicatlán resguarda 448 especies de hongos",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcE5nczFDVWZDVGc1dWJVUUxzOUE1MnluQTd5andVZHJCWHJZZ3RUQy1kaklkRTZGdzVsOHVfWW8yTHFuZmlfMGhFYS1lQ2VBNDlBeW1aLXR3Z0FJVVZ3YTEwWVhIVHlnaWxCaWt1QlhleURpMVJJQmI5bEMtRmNLUTBNSk95M1B2a3ZoQW9qZFBBSFExNUpkbl92aVdDSWdaQ0g4?oc=5",
       "pubDate": "Fri, 11 Sep 2026 14:53:00 GMT",
@@ -84,16 +94,6 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Bandas criminales tocan las puertas de los ayuntamientos en Puebla y apuntan a sus ediles",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYkJISmJEOG5KQTEyRVFoVW9oNFlONmgxTFZjcTRJVGIzNzBzNUxhbzNmMndiaUJseTNrMnRGUDlQeUJZOVgyRlNyVzZHLTh0elZhcTgzemRCdWFacG5uYmtPQzF0ZVNjeW5tcFJTNlJzSi1tbmtyY3Jla3Q1d3M4dXJlV2poR3o2ZGoxdFZYMEFqV2JpeWtJNmJtOUpOMkdtUko2WkhIUGVfeGNCVTFTU0ItLU5NSW5wOFBILUhBMmhEQkpEQ1FPWGsyV0JGMFNLY25B?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 12:30:47 GMT",
-      "description": "Bandas criminales tocan las puertas de los ayuntamientos en Puebla y apuntan a sus ediles oem.com.mx",
-      "source": "oem.com.mx",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
     },
     {
       "title": "Migrantes encuentran en Tehuacán una pausa en su camino y, para algunos, un nuevo hogar",
@@ -239,20 +239,10 @@
       "title": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3lNMHVpV1E4WGViaGNzYkgyVzFHbm1aQWlRYVJWUUtzVG00SlJuVzlHb2lPb1VxeUdFRzFFdExBb0ducTY4WmpyZmhKUEI5ZkROREJlSjBCTDZib29RVF8yYjBKUXBiRlBCTGpyMU1BOFNKS3RYVHJPZm5laGtLS2hYSGlYOWE0SDVVdDRmbDVRellNcG9PUVBoM28xcS1YMlNBV0o3ZUJtejBfMXVDLTdmQlUyN0dSUmdBa3lzUGQ?oc=5",
       "pubDate": "Thu, 10 Sep 2026 18:52:06 GMT",
-      "description": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "description": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Trabajadores de Volkswagen deben aceptar aumento contractual del 10.04 % ante crisis industrial: especialistas",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkhnYXAtNXBuSWkzNk5uSml4dVJVZUdfb0FIcjROaUV0MXQ2cmxZckFiNWdLRWQtd2Fjamg2d1U5OHRkOTBibThkeTlBTmQxazlneFRRVl82cGlwa0c0TDV5RTZrLVRsTWoyWHZ3cGV4Mjl0VUkwMXdwemJhelo3ZTBkMlhxVjJKSFgzM01BaHptS1Q2cmNCZjhiVTJuMlZfUDdMNmZFaU42a3ZpUkVnaF9ESnF2bjdFeUdob2g2S2pEeW5NOUZubFdJUmRtRnk1VUdiU1FDR2JFVXF6V2kzbXVTbWJYR2xRdzl6eG5jTQ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:34:56 GMT",
-      "description": "Trabajadores de Volkswagen deben aceptar aumento contractual del 10.04 % ante crisis industrial: especialistas oem.com.mx",
-      "source": "oem.com.mx",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -263,6 +253,16 @@
       "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Trabajadores de Volkswagen deben aceptar aumento contractual del 10.04 % ante crisis industrial: especialistas",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSkhnYXAtNXBuSWkzNk5uSml4dVJVZUdfb0FIcjROaUV0MXQ2cmxZckFiNWdLRWQtd2Fjamg2d1U5OHRkOTBibThkeTlBTmQxazlneFRRVl82cGlwa0c0TDV5RTZrLVRsTWoyWHZ3cGV4Mjl0VUkwMXdwemJhelo3ZTBkMlhxVjJKSFgzM01BaHptS1Q2cmNCZjhiVTJuMlZfUDdMNmZFaU42a3ZpUkVnaF9ESnF2bjdFeUdob2g2S2pEeW5NOUZubFdJUmRtRnk1VUdiU1FDR2JFVXF6V2kzbXVTbWJYR2xRdzl6eG5jTQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 12:45:50 GMT",
+      "description": "Trabajadores de Volkswagen deben aceptar aumento contractual del 10.04 % ante crisis industrial: especialistas El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -349,8 +349,8 @@
       "title": "Volkswagen sostiene a más de 61 mil personas: así impacta a trabajadores, familias y proveedoras",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWoyN3ExUnpiUnU4Nzc0YTRVNjdudXQ4elA3eTFROExPN1phbEY3d3RVYjRwbE9aSE1XUklfbmxuZXpERmZkaHhpWndwcXltMS1GLTRQMXNtV1VfWG9MQWpNUnItc1JMVTVfTEJaZ1p0VE5JbWdHRkt5bnJCenNpeWdwRE9Kcnh2bU9ncC1qTHZaZ1liWlNBdkpJeUYtcTdSQXdnN2J0UGF5Y3RhN0hSZGlsS0Q2dWV5amJqWG94ZEx6QUxKSHlTQXJ4YUVWYThLRkNuR0NiV2hzLVVzS2c?oc=5",
       "pubDate": "Wed, 09 Sep 2026 19:38:56 GMT",
-      "description": "Volkswagen sostiene a más de 61 mil personas: así impacta a trabajadores, familias y proveedoras oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Volkswagen sostiene a más de 61 mil personas: así impacta a trabajadores, familias y proveedoras El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -359,8 +359,8 @@
       "title": "Ayuntamientos de la 4T que dan convenios a TV Azteca son desleales con la presidenta: García Parra",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb055d1dFQldEdGtubHpjdDRkRkM3V3FYV3h1cW1KeG95VV9LRDJaenZTeGtnN0lnUU4wTS1TQ2JyX012QnNQS0EtaEJKSDltZ1k4b2UwSDdOV2V5ZFBVQjY1NGdRMzA0b2N3UHRLamJXei1KeGViQ0wyMkR3YkxPTzJKUVhWVWlIMVdtMEdnRkQ2dnRKRld4bnc3Uk9PSkhOM1prSTUyZjRIZlBiWm40ZjJFU2RGWlZwMGdxMkVJUUhxc3Fuc0pyN00wMXBmTEl2aG1Tbw?oc=5",
       "pubDate": "Wed, 09 Sep 2026 18:54:36 GMT",
-      "description": "Ayuntamientos de la 4T que dan convenios a TV Azteca son desleales con la presidenta: García Parra ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "description": "Ayuntamientos de la 4T que dan convenios a TV Azteca son desleales con la presidenta: García Parra Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
       "group": "estatal"
@@ -373,16 +373,6 @@
       "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "¿Y si dejamos de juzgar a los jóvenes?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDFNdFBBTHhaYU52Q1dSMlh1Z3A5ZTZqTGNPTmVROFVNdTJ3aU9idjRPcDZudGNYRUltbUt1SkVYdVk2dHozZ0xlMUo1M3JmUUdwTVhqblFtbExiYnJTZk5BNTBWdms2U1J1cVpXeFRpWUlNNXBva0Z1X0J2WnJsNENsTkNCNjg?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 11:41:04 GMT",
-      "description": "¿Y si dejamos de juzgar a los jóvenes? e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
       "group": "estatal"
     },
     {
@@ -416,11 +406,11 @@
       "group": "local"
     },
     {
-      "title": "Identifican en Puebla a 372 bebés, niños y adolescentes en situación de calle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWFMUUc4Zk9FeEo3LU9tSThkV1A3UDJWUFBBeUlWRklPQzZpcGQwNXI2eVA4cnFIcDU0YXRicEdaTWlfUENOY1hxQlJTZGkwTXdid3JIZlBCWENXYzZ0aUl2cVpzN25keXlka3lqRVJTZl96WTgzbU1CVjBBU3hWaElsdjVqUjZNMzYzN3lSQjBJLXVycE5ZNnE1cm1SSTBQbjdYOHVzVER0M05RMGNNbDVLOTJJZ0NB?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:35:46 GMT",
-      "description": "Identifican en Puebla a 372 bebés, niños y adolescentes en situación de calle ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "title": "Desaparece Hugo Alejandro, estudiante de Administración de la BUAP",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3dpOWx2QW4wUnFhMzY4YWZnRDA4Z2JpUlFGVHFoUXlhczJsU2hWWE84c0R1M183Q2hvWE85RWhCdGgxX3BmVllPZWZZZ3gyaVBuUWdHSUVkRzNUcDNKRWVLSkt1N2pVWF9oa1ZZYi1iVS0tTGRPTTdINmFLNHpEbWd5blE4SnlXVlVRV1I4Si1Ua3lnbmhNRDZHZ3VyMmZBVGdNaDlMNjF2RThPZlE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 19:12:34 GMT",
+      "description": "Desaparece Hugo Alejandro, estudiante de Administración de la BUAP Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
       "group": "estatal"
@@ -459,8 +449,8 @@
       "title": "Detienen a Isaac N, presidente municipal de Esperanza, Puebla, vinculado con robo de transporte de carga",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbElWTzJZY2YyU3RoTmRSbThqM2hwdVdjMU0zOHNUOTBXbkRwUWVZLWhLV0p0VzY5U2N1Y3cxUU9UYlg4aHU3SGZmSUxoc1M1aFdwblBoNFNLTHB5WDVzQ2RaSERFQmRiUTVFbDZ3U2JUWWZTa2IzYmpLdUpjUUlWUUVhZXdsR1hCWGFLNjc3N0k2VWNqZHl6V0JlbFVWWnpjd0JYNEVFSU8?oc=5",
       "pubDate": "Tue, 08 Sep 2026 08:24:41 GMT",
-      "description": "Detienen a Isaac N, presidente municipal de Esperanza, Puebla, vinculado con robo de transporte de carga oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Detienen a Isaac N, presidente municipal de Esperanza, Puebla, vinculado con robo de transporte de carga El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -489,8 +479,8 @@
       "title": "Detienen al alcalde de Esperanza en medio de un megaoperativo federal",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWVuZnRXeWlqVmRUN0taS2RnQW5JMS1WVV9GRVhSVFJqNXRpZHRaUlJGOEY2eXR6YlAwMGwzbTRKNW9udUJXRnZxWlVnd2hSZ2F4Nng1ZllRd29PdV9Qa19Jck5lWVFRcmdyREJBTXc3aW1IYmRiTk9OZVNYWjYwb2pxTTdoNlZkN1FzWG5vS3NaaENsWDdtQURRQnhtV0kxMFBmOWdyZVJXSmU0MXMzSGlLQQ?oc=5",
       "pubDate": "Mon, 07 Sep 2026 15:44:36 GMT",
-      "description": "Detienen al alcalde de Esperanza en medio de un megaoperativo federal ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "description": "Detienen al alcalde de Esperanza en medio de un megaoperativo federal Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
       "group": "estatal"
@@ -519,10 +509,20 @@
       "title": "El regreso de Tony Gali a la conversación digital, según Vexhora",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQWtrTmVLTzlIT0UxWFV1dUlVT0tYVXFzVXZNNERxd29SS2xBbjVueExJV0VzRW1qYkhKT0xkTlpzellyRE5VRzdzcnRrOVdRWG84ZEh0ZHBHSlZKbVB1c3JzSUN2YXN4T05Fb1pWYjBvdXhlX21XYzhuZEdsRFVVdk5KaENJaVRNVThSWW9VM0JaWFZJSFhLTTNZTVdma2ZvUENPenc0VXktUDh0ZWpWU2l1ZDRIT1VXdk9tUV9wZlJvZw?oc=5",
       "pubDate": "Mon, 07 Sep 2026 00:13:40 GMT",
-      "description": "El regreso de Tony Gali a la conversación digital, según Vexhora ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "description": "El regreso de Tony Gali a la conversación digital, según Vexhora Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Bloquean pobladores de Zacatlán la carretera federal 119 y la autopista Tlaxco-Tejocotal; exigen liberación de detenido",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbDJFcVVRQ09VSF9nUmxpc2Q0OEU2QWVfMEJac21CV2VHUHpTcTJrbWxScGw4VFFRdHJCcWMtUzgzRWZJZVZEU0NQd25RRHoxaEtsMld5b3B6OEk2YTJmT1VuRVdEaENJLW9GRjR5a0xWdDBfRlh6RnZGb1lWVU04MFJuVTlHOV8tMEVVdEh6eUtBcG5lNXNKV2pQdWNiV2U2RVBfLXNkaDVzMXdSR0lBRTZ1MTNPcEdCYjRub3VZTmZSVmxRMkhVX0RQSU9JY1VFcGhydGFoLWd0ZGotVkVQMVkwd1ZRLWZ4YUxfRTFNRmgzLXVXRkFHVEl3?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 18:30:29 GMT",
+      "description": "Bloquean pobladores de Zacatlán la carretera federal 119 y la autopista Tlaxco-Tejocotal; exigen liberación de detenido El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -544,6 +544,16 @@
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
       "group": "estatal"
+    },
+    {
+      "title": "Con patriotismo y amor por Puebla, inicia conmemoración del 216 aniversario de la Independencia de México",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFBIM2J4aVFvcHYwcTJjZGxUVzl0VnhwV3RqZ2pUb3JZVWY1dXM4emdmVzczWE0ySUNqNWJqbG5CdFNqU2wtWU10YktaVFVXaXhEdkRHdXJaWlFiZ2w2S0RkazRienB5WlBkVUNqVnVBY0J0b0RlSTIyRXYwR2lvYVI1R0xSajl2LTktOWsyRXl5X3d1M0hKUGxJSWE2dDBwTUJQWjd1V2tkX3k3dTJCV25MNDJBQjJlRktEZF8wV1NVZHI1alpaWTl6dHpKRDlYcjZyUk1vbmxLWnRRX01hSVdBa00?oc=5",
+      "pubDate": "Wed, 02 Sep 2026 02:55:53 GMT",
+      "description": "Con patriotismo y amor por Puebla, inicia conmemoración del 216 aniversario de la Independencia de México diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
     },
     {
       "title": "Choqu€ de dos vehículos deja 2 her1d0s",
@@ -589,8 +599,8 @@
       "title": "Tres nuevos vuelos despegarán desde Huejotzingo",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUYtVVJQNG1fZURmRTc2MHd6RWJqYXhzX2FMVGJuUTFhWl95aXhXQmptbzE5REdOTkYtVlNoem4wWFZIWVliUW04ZENJSUV6YlJfbUlkMWVnV0RFOVA5a2dNaG5aeXl3clFHZ0w2UUw3WThITU1CcjFqRXVQeGhzSUl4YmtyNlE0bmc?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "description": "Tres nuevos vuelos despegarán desde Huejotzingo Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "Tres nuevos vuelos despegarán desde Huejotzingo 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -599,8 +609,8 @@
       "title": "¿Será?",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oaDl5ZzJUUm1mSFBWb1A4eGg2MGJvRFZkbDhnZTdmSTkzYVRpaTdhQXBVNGstRXBXTjRNR1Q0cTNfVFpBNGQyaXVnS01yS0x1MmRrWk1kTQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "description": "¿Será? Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "¿Será? 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -609,8 +619,8 @@
       "title": "Ley Salvatori podría ser inconstitucional: Pável Gaspar",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1ROXzZ3V19zNnZTMVBRUGdTemctdkpwSjFLWEJVaXJ0ZG9sa0p6cW1aeXZWc3I2bGR6VjlocFBnQXA5U3FjUDdOb19KYUFESDRyTjBiN1dWd0U2NktSOUhqaUZja0tkdElObU16TEcydmJvbDYyMi14aWFDTm94SURJWjZrd3JPZ1Nyc2ZncnVTWTQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "description": "Ley Salvatori podría ser inconstitucional: Pável Gaspar Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "Ley Salvatori podría ser inconstitucional: Pável Gaspar 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -619,8 +629,8 @@
       "title": "Calor extremo y vejez: estudio advierte gran peligro",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMk1RMkRyYlRhOGU2XzV2ckRDUTBEOTdtSWUxbWhjVWItckliMmRmVjZQWFl2MGxLQ1RyTHd1enpXRElMcnpOU2F3NHV3Xy11UGx0bm92RFpvcDBzZDNPdkp1M0RKYkwtMlVabHhzY2twZzdVTENvMWxZcmtaUTFXY0Y2WHU0dEthX3VTRkVnVQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
-      "description": "Calor extremo y vejez: estudio advierte gran peligro Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "Calor extremo y vejez: estudio advierte gran peligro 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -629,8 +639,8 @@
       "title": "Investigadora de la BUAP recibe tres reconocimientos internacionales en Buenos Aires",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVlXNl9rRnBYeDFkSVljYzhGWFVlZzYwMGNaRy1ocGE2WGFWRTk3RVpQYWJXUEZPVnBRN1FXZVY0TXcxWng3a3pyQnotdW96cmY4dU1GVDRYNDhMZjFDZUR0Q0Y0WEdFSjI4UTh6Zjg2dlZEU0pOeWZrLUFRLXRhbngwQ0JuMm5xTzM4bjUyamhtRW5xenZVTGpxNGF1Z3h6c2kzZ2gxc2FzSDZONVlCRUJCS09Va3dCOXdB?oc=5",
       "pubDate": "Mon, 17 Aug 2026 16:19:22 GMT",
-      "description": "Investigadora de la BUAP recibe tres reconocimientos internacionales en Buenos Aires Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "Investigadora de la BUAP recibe tres reconocimientos internacionales en Buenos Aires 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -639,8 +649,8 @@
       "title": "Arrestan a Juan Pérez Moral, edil de Tianguismanalco",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjNuMTBIZHAtRnpDWGcycGhvMzVHeFl6WE1UeWVaTGIyMGhramdmRFVBMGtJUzFiNERBMk9fUUg0RlVySVJ1TDN5RG92VnJ2X2lzY2VnUElQTVItLXRTc1pkOENWeEVUOWI5bkNLdXVkelF1WGxQZFJmSzVyaHEtbWhkaFdUVHZTc1JIbEw5UQ?oc=5",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
-      "description": "Arrestan a Juan Pérez Moral, edil de Tianguismanalco Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
+      "description": "Arrestan a Juan Pérez Moral, edil de Tianguismanalco 24horaspuebla.com",
+      "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
       "group": "estatal"
@@ -649,8 +659,8 @@
       "title": "Noticias Puebla en Ambas Manos",
       "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1rLVo2Y0pzcE1OWDV6eTRoNEJWTU54d0JwbUtfeElLbVpLandwcnVBZG1EQmRVRGE0YXI0MEhONA?oc=5",
       "pubDate": "Fri, 12 Sep 2025 07:00:00 GMT",
-      "description": "Noticias Puebla en Ambas Manos ambasmanos.mx",
-      "source": "ambasmanos.mx",
+      "description": "Noticias Puebla en Ambas Manos Ambas Manos",
+      "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
       "group": "estatal"
@@ -659,8 +669,8 @@
       "title": "El Sol de Puebla - Noticias de Puebla hoy",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wMUJXRVg1T01nSmtxZW9TMW1udU5ZTDAyTFNXXzBncmFscFJtYXduajQ4NG1sZFdteGpvdWlFWkJOd1p6eUU4dQ?oc=5",
       "pubDate": "Wed, 11 Dec 2024 18:36:13 GMT",
-      "description": "El Sol de Puebla - Noticias de Puebla hoy oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "El Sol de Puebla - Noticias de Puebla hoy El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -669,8 +679,8 @@
       "title": "Noticias policiacas en Puebla - El Sol de Puebla",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tSXVzU2cyMEptbnEtaXJHVTZZeEFTRm8tWkdSLUNUMl80MElLVXV2U25Pc0U2cEhxcTBia1U4WW5ia253SGc1amtpalRQai1mNG1IRTVn?oc=5",
       "pubDate": "Wed, 11 Dec 2024 18:35:52 GMT",
-      "description": "Noticias policiacas en Puebla - El Sol de Puebla oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Noticias policiacas en Puebla - El Sol de Puebla El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -690,16 +700,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHdGSG5PNVpJak5nTXEyNTNzWVJWRFZoT3BnRS1HX05SZzEyalBLb0kyeFgxa0JURmxybmcwQXYtRUliUF8xQVRyMU1wQ0Npeld0cEVpa2YwQ3dQYUhkZ0VUUWJHb2dMMU9lbEh2N0VSVm01NEJjZXlNM244T3puQ18zbHBQM2VJSk0wZGp2SkVSaHN1M0tWeDBaOVVUT2lxN2RnSTZCUzhfeS1HU1d3Sks5SXY?oc=5",
       "pubDate": "Mon, 10 Jun 2024 07:00:00 GMT",
       "description": "Abre IEDEP convocatoria 2024 para licenciaturas en sistema mixto - diarioelunodetehuacan.com",
-      "source": "diarioelunodetehuacan.com",
-      "outlet": "El Uno",
-      "domain": "diarioelunodetehuacan.com",
-      "group": "local"
-    },
-    {
-      "title": "Para Tehuacán el primer lugar del Maratón Var-Mex 2022 -",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUFl6SlNmcEY1aUhxc0FZcXdjOUo4eW9ObjlBc1hxbVB1Wkpuamt0R3pKOUlYMDhIWnl2Wkk5TlJoLTd0WEh1WHF5U25TV3RPbFFfWEhfZDM4ZWkzSWJiNFhBWktjYi1aRWxqUnl1eWo0eURRN1g1ZmxNQlpNN0hVdUU3UjdNVW94VlpCQjIyODN1Si10RHdzc2pQZ01EM2o0MGU0?oc=5",
-      "pubDate": "Sun, 16 Oct 2022 07:00:00 GMT",
-      "description": "Para Tehuacán el primer lugar del Maratón Var-Mex 2022 - diarioelunodetehuacan.com",
       "source": "diarioelunodetehuacan.com",
       "outlet": "El Uno",
       "domain": "diarioelunodetehuacan.com",

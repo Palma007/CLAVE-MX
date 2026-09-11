@@ -1,98 +1,91 @@
 {
-  "updatedAt": "2026-09-11T20:20:23.927Z",
+  "updatedAt": "2026-09-11T22:50:58.822Z",
   "perfiles": {
     "claudia-sheinbaum": {
-      "updatedAt": "2026-09-11T20:20:23.863Z",
+      "updatedAt": "2026-09-11T22:50:58.461Z",
       "status": "ok",
       "items": [
         {
-          "title": "Destaca Sheinbaum reducción en percepción de inseguridad y presencia de armas",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12ZjB5d20wMDBOZ1FYVURhaE1kaklnSkdRRFhVa3l0VUJCLUR5anZXZE5NMVc3Q0F2TG9tNzd3Y1hHN1RPNk03alM4SW5KUDA?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:38:39 GMT",
-          "description": "Destaca Sheinbaum reducción en percepción de inseguridad y presencia de armas elcomentario.ucol.mx",
-          "source": "elcomentario.ucol.mx"
+          "title": "Lilly Téllez cuestiona actitud de Sheinbaum tras señalamientos de consumo de marihuana: “No se le ve bien a la presidenta”",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzA3eW9zMGVJNlNvYWtCQ3M3US00b3JMdURDb2NjenJicjU3SUNkM2hwVFRzc0ZuZHc4ZTVoWUJ4UWRlSDFTbjZNbFR5ZWdpR2t3d3dqdFgtZVRpRFRZMG40Mm9GQldnWkxjeEYwb1ZUNFhGSkFoQnVFbFg0MVVFLUJYTGR0cG1zS0xBMm9mWlZVYnY2SDBwM3RxTEotMWFrT2RZR2RfdV9MZ3JPY0Nzc0JHQTFWX0hfb1FjVHJtdXZDZ3ZqSlBOeEdQa2dSSGRPVHp4S3NLOHlyTTR6VU5BYVZ3QnRfRjlxM1g2TjUwelFnaUtP0gGPAkFVX3lxTE9mV01QRVBPMjByTU5uMGt6VzczX0pDTUM3NHhKZnVrUjZ0NmdEUkp6QXd1M3VNQUJwLVI1TUtuNnRVVExMYzhteUlTakp1cEU2aW03WXRLTkNSTHg2a0lDR1RkN3o5cmZaOHFvdmNMMXNUWW0yc0RRT2ZJSy1EWnBMcEUyeWxENW5VTUxQNmN2cEhuNWpBX1h5ZkJCeGlFMnBMNjRYT0xIM2JKSWVWcGVDbXdmOEZRM3RPblhqekdvaVVIak04bW1VM1lJN0RyZXZrNk1oRzZOVFZZN1ZiV25RX0pMd1ppTkVTdHRXMXJiaE5DWnNxdkI2eTFyTWFYZTZYVl8xLWJpM2UtY2VVYzg?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 20:07:39 GMT",
+          "description": "Lilly Téllez cuestiona actitud de Sheinbaum tras señalamientos de consumo de marihuana: “No se le ve bien a la presidenta” Infobae",
+          "source": "Infobae"
         },
         {
-          "title": "Claudia Sheinbaum vendrá al estado este viernes",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMGhjN0l0U1FDLXBiYmd2VlludVhrcUc1QmVsY2RtQTFrOU1WWHZaS0tNaFNUR2lKTFpLamFvRHRuQy1GZjJKN2VsZW0zd19kYnM2S19HalpjdkZ0LWxMVjdPQW96R2lYQjhrUnlrbkpVTks2QnRXLV80eDRTNUdaQWFVTFl5QUpSaFkyWHpPVzhXY0HSAZgBQVVfeXFMTTY4Y3pZS29yQzlYdTdiaHRhY21FdU84VVc2aXRpRFhYNVNVY2dEdnBZVngtT0RVQ2lvNkgwMlg0MFRFQ3Znem9hc0pHcWNIWVZFZnVvTEhVZ004UFRwbVNjVVZQWURCa1JNY3QyT1lZMVpGUDh3MUR1VVVfVmZHZ3RyVG5wZGJ0Zk9vVHNKQ05zM3EyOHVJWFQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 11:51:53 GMT",
-          "description": "Claudia Sheinbaum vendrá al estado este viernes Cuarto Poder Chiapas",
-          "source": "Cuarto Poder Chiapas"
-        },
-        {
-          "title": "En Chiapas, Sheinbaum ratifica que por México deciden los mexicanos; \"somos un país libre, independiente y soberano\"",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRkZRZEZTUVI2U19WY0puNTMyS0l6czJQVDdsRDcxdUtnOUtJYlJNTHNxb3FHaHRZNFZ1RDBxZUNzN3dYQlZiTjBWdzBESEVad2hzTkpiWGFNNVNTcml1eDVWU2IwZlBRcmJWaFdqUDYtTEktVVhrYjVlQmpLelBYaHBmamJFWEhZYkFPNmxJV2pyMGE0NUlrdERkeDh3TVpKa0M4WDZGcDJFMTd2S1BtWDRhYUpQN1lNZU1nbzc5V3hhT2RGc0c1TWY5MC1YYUNmNHJEMlF2dEJXYmRzcEUxeVlMQUJ5YnpTRGZF?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 19:39:00 GMT",
-          "description": "En Chiapas, Sheinbaum ratifica que por México deciden los mexicanos; \"somos un país libre, independiente y soberano\" La Jornada",
+          "title": "Sheinbaum cuestiona presupuesto del INE y su cambio de color institucional la víspera al inicio del proceso electoral",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSzRPRWFUd3VoVUhqY0YtSjRCY2FYeURHMEs4QVgxbFFoZ2JnSGE2RFF3YnBOTWpadllMckl1cUh5MWw0ZERNa2NBZzNpb1NLUTBzREdLLTRqeDJLLVNBUTJjdFdpY2R6VVoxQU9QcmdpaW9JY05oOFFmTlpZM1d3Ykt0LTB3Rm8zMFhNNUwyRFNVcFdDUXNKcDVkUExqcmtST253MVBncDNxcWtqcmd5NlVZZmhlclNTTWRiakF2MnFxTFhJdnh4YTRaVFZpZzdkMkdMWm1PNU9sd2RxVmtEVlJPdW5Ba0sxVUw5YW9DTkluVU9PN3NqbjdNdw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 15:19:00 GMT",
+          "description": "Sheinbaum cuestiona presupuesto del INE y su cambio de color institucional la víspera al inicio del proceso electoral La Jornada",
           "source": "La Jornada"
         },
         {
-          "title": "Ofrece Sheinbaum apoyo por sequía a productores de Chiapas",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUpCalo5LThXM0JYRkJEb0JsNDYzN2ZIenp4Zzhwb2llSEJIMHMxRnY5QzZ3NWRzS0tFN1RFVXg2aDhkUEp0RTh0VFE0aGNNUk4zSTJXRm84bjhwa3N2aGxJcFc1SnJfUXlvd3RySXVRTkRTME1BM3JRZ05qRzMwMzBpMTBXaERoakE?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 20:10:00 GMT",
-          "description": "Ofrece Sheinbaum apoyo por sequía a productores de Chiapas El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
-          "source": "El Sur Acapulco suracapulco I Noticias Acapulco Guerrero"
+          "title": "Sheinbaum cuestiona presupuesto del INE para 2027 y pide explicar cambios en boletas",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0ZqOF9EU1k4WGFRVHB0RDg3UHpwR1R4M3dXR2xlTmtrcGNBdG9kMnVqWk13cGt0SzdRcG9hRTBuQ0dETGx4bDFNdkpHcVhTWExxa3NTa1pCemc0S1lRSURvMG1uWVphM2FhdE5nYW9JZzN3NlZfNFc3cUNIT1N4bE9SaDNENDRFZXVkOTZHQ3VWcHM2bXpjbHdqaVBrYjQtV2NKRGRlVHJfanBfUjBkb3VIbEFXeWFpOGtNTFJXVTh6b2hmVkNzeDFELS3SAdIBQVVfeXFMTXRvTWR5cWw5a2lycUVZTjI4d3VuX183Tl9BbmVTb1Z6cEh1VXQxdlpmbGFSeTJSWjJPZUFVTEU0VWlHMThSaENGdWkzemRpcVR5ZnQyRjdjYnVlM240ck5veEVya21ycU9LcHVpYkxuTzAxVFo1amo3bm9DZTAycFdLc3FHRGlETUpwTUNCZVBndklhTDNBeWNRdTNLX3BxM1JSRElyamFfbHEybHZOYk5jc1c0cjBLX2FBR05XcHY0d05FQUlpQV8zVnFxQmMzNnh3?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 15:58:53 GMT",
+          "description": "Sheinbaum cuestiona presupuesto del INE para 2027 y pide explicar cambios en boletas El Economista",
+          "source": "El Economista"
         },
         {
-          "title": "Sheinbaum anuncia un libro “especial” de matemáticas para el próximo año tras los resultados de la prueba PISA",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN2FBbDA5MDNNbk5yZk94dm9KeTJiTUlCS3pFWElWTEcwdUFpRGc4c1Vfa3czSlRyTmtUQmVBMzdwYXB2WjJNUzNWelNSd0Zud0dBR0hWSXV6bkNOd3I1bzVaQkdSWmhpMnFuS011NEpWUXhnUHItbXVIOUpzOTItZ1RZbjgzdkJHT01pVGw0a3lpUlpZczlYc055RUkwaGVmSHdwc25HQXJUX3BqcDRUMFI5ODFCaHZHZ0FqRkxiM1NvNWQtbERNZXI3amdPdFlkM01yeW5SNVFBMklHV25xeGFvWVLSAfgBQVVfeXFMTzhORzhVV2NEcFE2NTdKYnVXR015WVNnWmt4UFNEajNfSEt0TGRmbmZ0SjZlazFGTEZVd3dyV0JscTRxUEZ4MndQSGE2NTVRZThnOGhVbXh2WlVDLWRMOEhPNU8wQm93UlFPejFjMnl0YjBDWFN5dWxIOGJDU2ZvR25aZ2Y1UGtWbk5DOXZxZlNVRFNyYkZ5dHhFMjdoX2ZXR2V4dlo5V3VtbGx5cl9MN0piN05aOVFfanhVajBqZTFoVHZVLWFGSmplWEtoOFRHT01YcGxmXzhGTnJhdkpWR2NxVlZKNkdRclN6RDByZi1TcVdGREJwWjk?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 17:06:46 GMT",
-          "description": "Sheinbaum anuncia un libro “especial” de matemáticas para el próximo año tras los resultados de la prueba PISA EL PAÍS",
-          "source": "EL PAÍS"
+          "title": "Presupuesto que solicita el INE para el 2027 es \"exagerado\", señala Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeXhWd0VmS21yOHJYSHNDeU1OWmFMZF9XTzJ5cEpnMzRmcVBvUkd5b0pXVEpnanFyeVA4cm9HRXp1WGV5S0dFZ3diWXJlbE9YQzFGLWxYUWxvX3FyVWFYM190ZHJsMnRKdUstNW90eW5SV1BLZ2F5Q1haek1ZeGJiazdNOUJsQzlkUnFLYW9TaFBHaWdUeUcxZjlnbVhvck1lNVRqS0hkQjdpdlpHTGNYMHZsaFJyeW9MYTRKOXBXMHk4cG0waEhHbEo3ZWV0M2NKVk96T29mWnpiRkNlbnE2M1lZdExyRDjSAfsBQVVfeXFMTng2ZVMxRGFHZU11cXVkbVBGak9xcHRFem81bHdDcTNfYVYwcnRqTEdhU3NJMnFSZHBwZGoxcUZjNFhvVnZhYUw3ejRIbEticllqMFcxdW93Qi1hcExVOWR4b1RBaVNMbzhabHNPSHdXeDhJOXVLSm5CZ1NPR2d4OTlwa2VuN01udEdUekdNOFFLSE9Oa3poSmNRTVhLdE5ZRGhDVmFDdGpVeUVIZlRGc3dmZEYxN0piUUZGRHlZUUFWYUFudENQX212Q09tbXJCVHY5bFJTQWx6d2hzQlpGVHU1VEhnQjktTEVpZlpZQlRXcFNxZVgwaU1Ga2c?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:22:00 GMT",
+          "description": "Presupuesto que solicita el INE para el 2027 es \"exagerado\", señala Sheinbaum El Universal",
+          "source": "El Universal"
         },
         {
-          "title": "Claudia Sheinbaum anuncia nuevos libros de texto para reforzar matemáticas y lectoescritura",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWUVDZjhlRi1wOXpKamRGYWRVVTZwSFVYZXMtam15dFlWZ3JXUUwtenNnbDZKVnF1V1RSSkFDMTRORGc4SXdWb21jMWZLVzdIZ3VhME5yTnoxYVJvVThyNmY2c1RuYllCZXg3cUgwOS1IbWgzZnM3OUlEWllCbmxMdndvU3BwcFNfNG9NRXJQX0ptYlZRRjR5bGNKRWJZYXNzRUlMampSVWlwbUVYWi1DQjJ1c0g0bjl5STRVN1g5UWxYRllEeldOUDZDRDdDZkVJbHhEUFNka0J2djM4VHFUc3dONNIB6AFBVV95cUxQVnJCM1R1ZkRmanhMUm5WVHNjYkIta19BMm5zS1lYYVNpcUdZWFBIeWtEa1QwdTJmTnR4cEZOTHZjdHFzaEY0blZhaGFzcHVBSmFWV21QejBxNWpMTjJjRkF5WE9MRkNFeU16LUZUdjJOV1B0eE9jYzFYd0tYbUNPaGlLbDJXUkJnNXktbUNwSkxQLXhrVHFjd21YQ01VLTNjMUcyQ3FycHNBZDFiTnBuN3dfam9oemVnYjAxekxRRXlwVkpQZmw2NTlzUm4ta2tzTlB1c1liSFZvSVUtMjFBNVlPVk1XaVU4?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 16:58:00 GMT",
-          "description": "Claudia Sheinbaum anuncia nuevos libros de texto para reforzar matemáticas y lectoescritura Reporte Indigo",
-          "source": "Reporte Indigo"
+          "title": "José Ramón Gómez Leal refrenda en Tamaulipas su respaldo a la presidenta Claudia Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRy1ZdkR5ZTU4TzVEN3AybERjWTRLQlpfek1rV0lVWFpMekJBWng0SlZSc2VaMDl0MnFIRjVjQzB4aWZ5WU52ZTJseW44SkEyRF81a3c5OUVRTDNteWFJWmtPMzdjU1ZmRkJjYmRaVmNTbnV4bVEzcnRtYkJEWGZRM3pBN1hFTThhYXlvTWdNNUFpNFp1ajI4ZF9hdE9UOVZuQVVWaEVZWUpmcm1tSGhnbklaUkZiQ3NnNFkzSw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 18:45:36 GMT",
+          "description": "José Ramón Gómez Leal refrenda en Tamaulipas su respaldo a la presidenta Claudia Sheinbaum morena.senado.gob.mx",
+          "source": "morena.senado.gob.mx"
         },
         {
-          "title": "Sheinbaum dice que reforzarán lectura y matemáticas en escuelas y restringirán celulares tras resultados de prueba PISA",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVlBWXRTNGFXT3Y3SWQtR2VSUHJGLWYzNjZpYmVfdzdHZnd2SHJiZWZqZ3RTcXRmSGZXeUhfQWdINFFUUzYzLXpIaEhLYWNYWmFJbU44U1hzWnlnQXZaa0syYTkxdGp5YnY2VkJuMEpkQUdRNkFseVZvVGpsYldoQVRkYTQ1Z0h2cTJWU3llcTJobGF4dEE5NWJTOTJOVHZ2c0luU2NjZ3hPeUNYc1c3RGJwN0lJSXowVVBpVy1SRkVvSFg4X3V0OG5vRDQ1M0p4SmwtYmxvQ3QtRjdm?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 18:39:00 GMT",
-          "description": "Sheinbaum dice que reforzarán lectura y matemáticas en escuelas y restringirán celulares tras resultados de prueba PISA forbes.com.mx",
-          "source": "forbes.com.mx"
+          "title": "Sheinbaum alista informe de injerencias de EU",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTM2bUZEOERZek4zVUFPeWRzTmJWbmpiQWFMMTlibDNocDdBSDRUbUtkcHFFS1dwU2YxUjdwbTR3WFFzOUZERWkwY2xJdFFnZWpZYUtGajNaN2dxU2NVWmRLTHZyQ3lXMjJrUG1tT0dSU284b2pXWXc4eHhRdThPNEhRY0dvcWxiNlU1Zl9qT3VtRnpWRlFIVUhXR3gwdw?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 12:44:00 GMT",
+          "description": "Sheinbaum alista informe de injerencias de EU El Universal",
+          "source": "El Universal"
         },
         {
-          "title": "La mañanera de Sheinbaum, 11 de septiembre, minuto a minuto",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd1NjTkxLZ250dUplcUJGWGpUY0VzMThCQ3RnZS1VSHBzTERnbUJoSVBBN1NmNTlvVDBTc3M3ZGZYbVM5THllUnJnd25jdVhrV01LVTNmQUhZZDNaTTdOOGJaX0VmWXJrTGNDQ29hT20xaUdSTE55M1V5RjlYVl81RGhnN0xacjZMRWt3cjB5NWlTenF0OHdKWHV0NHlIRlHSAbMBQVVfeXFMUHk2ZVlOMGlzNTFsMl9NRkZEMXktSktDVnhwRU5EX2ZnTUNIUy1TeHo5bUlvc09yUnZrNWxJaUVQS2pTbjFnaXVDYlFqcE9kUFFlOFpNRk5JbzBOS3lhX1FOQ2ZLQUQ2Y2JSTHhhbmw2MHlQNW14SElZdVdJMDZha3NwdnIzV0RMQ29VSWIwQmhObTdsUnYzbUdreXBFXzFScTBoNTJSWG5Md3RFLWY5ODg2TVU?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 15:47:00 GMT",
-          "description": "La mañanera de Sheinbaum, 11 de septiembre, minuto a minuto eluniversal.com.mx",
-          "source": "eluniversal.com.mx"
+          "title": "Facilidades, beneficios y simplificación de trámites para micro y pequeñas empresas fortalecen el bienestar: presidenta Claudia Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYl85S0JpdHFPSnQ2bDJLQkd3TzA1ckJhMDg4cW12dmtHMGxxb0FsMnBQSGpZRUxLeTNaSHJfMW90ekhDenB0aXdTMWV5S0FHWTlGTXhSVkt1dTBTZ2xvdkVFN1IySi1jVTRZcWJaLVdBQlNMOC1TenkzdHRLTHRlXzE4UXBDT3FSNW9PbXNXLTZMLUxpdUpab3U5U1ZhOHc4SFdMd2JVYm5xZlg2VFhqYWRISkFqenJBNzV2S0RHX1BsM21xMi14UUpzRjJwMW1XeW9fRG0wUzV5NjVoODZIZ0FYVGRjbmFfTmRIemtCMXZNSFFVTjZObE9USUM1ZEVpT2VF?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 23:13:24 GMT",
+          "description": "Facilidades, beneficios y simplificación de trámites para micro y pequeñas empresas fortalecen el bienestar: presidenta Claudia Sheinbaum Gob MX",
+          "source": "Gob MX"
+        },
+        {
+          "title": "Sheinbaum critica al PAN por viaje a Europa en arranque del proceso electoral 2027: ‘Tiene su simbolismo’",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVUZtMVRHY1dyMkhkT0ZhVWpuTW5fRjZiNS0tWVlfNUphUmtUZ2hDUWxjZjVhRGhnZXgwVHNFNllqZXc4TUV4cXAxTndMN3p6NW1XT3QtZXVyQXNCMnRqbTE4ZEdyZkZRX2MwbnI0VlZYb0VkQmhBZHppNGJvV1RzTnhsWUpkR0NPTWcxMXB6M0JGTngweEVxV0xHMWxDZkplTFdHd0xlaW9Oa21RMlV6QnNmbExMeXdsNEVZemJfSFkwcWZ6WEcwQ1NDMVJ1Zkw0Yno4c2g1UGRob1VNdU85RGdCUFBmVzUyLW5r?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:48:09 GMT",
+          "description": "Sheinbaum critica al PAN por viaje a Europa en arranque del proceso electoral 2027: ‘Tiene su simbolismo’ El Financiero",
+          "source": "El Financiero"
         }
       ]
     },
     "omar-garcia-harfuch": {
-      "updatedAt": "2026-09-11T20:20:23.294Z",
+      "updatedAt": "2026-09-11T22:50:58.397Z",
       "status": "ok",
       "items": [
-        {
-          "title": "“Los Rusos” amenazan a Omar García Harfuch con cartulinas en Guerrero tras captura de “El Amarillo”",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUDViaWFtbnJpdDhuenRaQkdxSDg3cXRoV2k1TEdJN0Y1eHNkcTFPRkNwU1ljSkEwR3RoemRSR0tPRDE2VE8zanc1YTJ2YzBPRElXb0lua1JUaXg3Q0wwTmlFVUZGWUNlMUFjcFJQbThsY1JCRlMtci1VdG82RXd2Z2ZVa1pnS0RCTy1iUEJWVXVDanpaLWY0Y2FzUElSdUU4TWRhNDU3akk0WjBTZzFKYmtNb05WU1Y0akkwazFFZ1Vhbmp5VmJ0VndVVjdWM1VrWlJ1cNIB7wFBVV95cUxQSlpQV3p5bl90dGd1alk1Z0JNMlRhTTNfdGpiNWh3RU5wRkM4OGNyZFFRY3A0azFDR1lpUlRKMWwwRFdsRG1GWWpLejNMRmtKbkE1NnBqUHhUak4tUWdkc01HakZlNk5XY3cyWUFaNUNqTElxdHIwREs3X19nSi1iTmU2Ym9KSFNQaGZkTTczbEQyWUJEVWtTanBuaFNWemNDVWZnRmFzQjd6TF9NcWhTM2Z0Zll0Q094WVdBVHFKcHdCLXh2eEMwTDA1aFpkSEZtOHJxSlo2dmxDYzJSYkVsUGZCLWRHUDFvV2VBazdjQQ?oc=5",
-          "pubDate": "Tue, 08 Sep 2026 10:26:00 GMT",
-          "description": "“Los Rusos” amenazan a Omar García Harfuch con cartulinas en Guerrero tras captura de “El Amarillo” Infobae",
-          "source": "Infobae"
-        },
         {
           "title": "\"Llevaban a heridos de la propia delincuencia organizada\", informa Harfuch sobre hospital del CJNG",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbEtJeTYydEJNeVZUY1VST2p5X2d3WW9DTXo5bFl4WnpTSzF3aHlfN2toR1VCZ0lUTFhDd1FVUWx0LXc1c0JWcjJBR1V2akxWR1dSNnppS0FWMXJ5NVNKb1RtVDRYRjl1VmdkNFcxUWhvb0RGeF9feEJBWlVpMHRIZVphLUttLUU0SHBSN0Z2bUJCVklzUkVyZmtCV053RXJCT0tNalZjWGZ3ZWpGQzRyN3N2WkhUSWZTbFZSMGtYWkxsclU3NDJSeGZYcllEUUd6Unp6MWk5MnJ2T2dTZnoxYkJhTWVvRlYxamfSAf4BQVVfeXFMT0lwQ05tLVBZTWFrdThqUlk4dFliaDFGb0JBVUpZZEFBQ1BlZzM0WFhXczRBNVNlczBPNVBPcVJCSExhUWxwSlpoNUo4UVZnT2hKdWM0OHlfaXFWTUlBNUdUcGFXVlB3M0M5aHJVQ2ZKa2ZzSUtWeDJqdFFoOE9Qd0NUZFh5c2ZBN2hTb0hLUU9wLS1Mbzh4VmNBa0ZOSzl1WUJyQzVTTnVoaG5qMlV6QVFOU3FfdnlFd2dSVkhxMjlndm9FVlFMU3V1ZUlydVB1dWFWdWtpd1V6OUZzZW82NjRxekI5Q0RJelQ2TTNrblpmRU5nVXllX2psNW45b3c?oc=5",
           "pubDate": "Fri, 11 Sep 2026 17:28:39 GMT",
-          "description": "\"Llevaban a heridos de la propia delincuencia organizada\", informa Harfuch sobre hospital del CJNG eluniversal.com.mx Omar Garcia Harfuch confirma clínica clandestina del CJNG Excélsior Harfuch confirma: hospital clandestino en Tecalitlán era usado por el CJNG para curar a sus heridos tras operativos contra el narco Infobae",
-          "source": "eluniversal.com.mx"
+          "description": "\"Llevaban a heridos de la propia delincuencia organizada\", informa Harfuch sobre hospital del CJNG El Universal Harfuch confirma el aseguramiento de un \"hospital\" clandestino para atender a integrantes del CJNG Expansión Política Omar Garcia Harfuch confirma clínica clandestina del CJNG Excélsior",
+          "source": "El Universal"
         },
         {
           "title": "Harfuch reporta casi 10 mil detenciones y megaaseguramientos de droga en Chiapas",
           "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYVRPOGFnZkNocXhfamlCYmVTc3dMMzR2Z1owQTZYQm1ZYzdTLXM3cHc0bzNBQTRXcVpybHdfMlNFeW05TnVoTXNnMUphcHZqZ2dKdng3Z1g0UTYtYWpIQlhDQVFHS0tsMFpVdDVwdWhTWnQtUkpTZy0wREg1Z3FuQmJMR2o4ZjR3WG0yRFhxY1FuSU9Iel9hVmhjbE5pNkJRUEJWUkpZVzhVZUhVVy02Nk02aWhTRXFFZmhwSldIbHRac2hOaEV2SjlhRTJteVhZSlBmUmhYalBLOUlEVWtVSUVOSW9zZGfSAewBQVVfeXFMUEpIQkRJbzNYckgteVdzdE56MUZ4U3dnZkRMTDJ3VU9YM2FrWUJyNWxTT1ZYcmoyVWc4SzAtQy1SNTBVUC1jS3F6YWdBUk9uSC1hdDB6bE9mZzhCcXAybGVBUk5TLXlIWGRrZ05iS3lUNlh4N3BrLWZlOGJsTTBLNGtQTzBraGJSSGhlVkFkRlhwWDNWNnF3YXJTTWJjVGtSdzJBN093WDFRaXJEQXpjeVREY1FVbU94b3k5YjQtODZUT0RLV1E0ekppNk80T2hwRTN0Rmx2TVpyR1hhOFc5X3dOZDRLdzgxcDZHV24?oc=5",
           "pubDate": "Fri, 11 Sep 2026 15:55:19 GMT",
-          "description": "Harfuch reporta casi 10 mil detenciones y megaaseguramientos de droga en Chiapas El Informador Harfuch reporta detención de más de 9 mil 900 personas en Chiapas eluniversal.com.mx Harfuch destaca aseguramiento de más de 18 toneladas de droga en Chiapas como parte de la Estrategia de Seguri MILENIO",
+          "description": "Harfuch reporta casi 10 mil detenciones y megaaseguramientos de droga en Chiapas El Informador Harfuch reporta detención de más de 9 mil 900 personas en Chiapas El Universal Harfuch destaca aseguramiento de más de 18 toneladas de droga en Chiapas como parte de la Estrategia de Seguri MILENIO",
           "source": "El Informador"
         },
         {
-          "title": "Suman 111 funcionarios arrestados en operación Enjambre : García Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Qd0NwM241WGFfZ3ZfM1hjeldDQ1hUa0pLMW5PRFZkMkFVM2p3ZDB0UUs3YjlUMVRabW4zWVNpNEprb0JBRGNiSlpkWFZlMHJuRHpOeEkxRmxpVlEwR2xUeVkwZzI?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 10:00:00 GMT",
-          "description": "Suman 111 funcionarios arrestados en operación Enjambre : García Harfuch La Jornada",
+          "title": "Suman 111 funcionarios arrestados en operación 'Enjambre': García Harfuch",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZ1NFZXdPTUU3aHpOdWlrVU1talkzVkVNQmkwaWpYWXpBMk1qYkNNRnBZVVM0NFpJcTc2ZjZ2dndCTGJIV3VXX0JBY2hxNkVydkduMWliZ1pRMW5RLVJuTTFLR3hkajdZbUJLLVpLeDhYLUVwZFoyWWg4V2dsWm5tc1ZiSDR2R1MxTjVqTEVrLVk0RXdQYnNTamRaZjZ3ZmZLTEtlSm5SSXNJMlZvcEVieEROZlpZVVJjQlctZFd5N19UZw?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 14:31:00 GMT",
+          "description": "Suman 111 funcionarios arrestados en operación 'Enjambre': García Harfuch La Jornada",
           "source": "La Jornada"
         },
         {
@@ -104,10 +97,10 @@
         },
         {
           "title": "Concentra Edomex 60% de capturas por Operación Enjambre, según Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVHBjZTRLR293eE80Yk1FSDdoTFhWM0xpbVdpRnNSblVWV28wXzFBZTlRcWF6eU5FWUxKRkhnN0g5WmtOd1dlQTZndUt3b2h4b2U3VmVoU0NZdWtSbVdrazAxdm0xbmNuWFQwZ1RsV2hvODY2bHJjWWN2ZjQ1SjVyVzlCMnpNYXBpVWtLbXdiTWU5aVR2cUU2dlVrekQ4alJnSmx3?oc=5",
-          "pubDate": "Fri, 11 Sep 2026 15:30:00 GMT",
-          "description": "Concentra Edomex 60% de capturas por Operación Enjambre, según Harfuch edomex.quadratin.com.mx",
-          "source": "edomex.quadratin.com.mx"
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHRMclJ2c0NCcEJvVi1mZ0Y5ZjRBT0pHOU5RV2lqT2t5OUZsYTAtbWZZUWZrQXBsUDBDZlVMWUlMRlJBY1RMYnpnT0tuRGZ3Q1VMdGhFakpyQVIydmVmUFcxNi1IRF81VzRiLWZTWmFuS01seVhZclh5VnVOemFCMnZCN0ZPYkRaUEZLdFhkaWt1S1l1YnJ2cTBCOHdBNGVjRHc?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 16:55:00 GMT",
+          "description": "Concentra Edomex 60% de capturas por Operación Enjambre, según Harfuch Quadratin Bajío",
+          "source": "Quadratin Bajío"
         },
         {
           "title": "García Harfuch confirma la detención de Alexis \"N\" por presunta relación con asesinato de Carlos Manzo",
@@ -122,11 +115,18 @@
           "pubDate": "Thu, 10 Sep 2026 20:56:00 GMT",
           "description": "Reconoce Harfuch trabajo y colaboración con Pablo Lemus tras detención de implicado en homicidio de Carlos Manzo Reporte Indigo",
           "source": "Reporte Indigo"
+        },
+        {
+          "title": "García Harfuch confirma captura de \"El Brilloso\", vinculado al homicidio de Carlos Manzo",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0s4MVBFMWRmdWZDN0J0c2IzSXIyanM0WFJ3RWhnVXNMUnZQQ2M4ak1FakU3ZkxObnJLV3hoX2Z4enc4Q0F6dDZTMFk5NnYyanFZa1J5aFZfV1VDeW50Z3FZVmNYUmc0akpaT2V3UFd5ODNQZXR2TGVRZjNWZ1FVamhyTG9peGREdlQ0VGJqblUteTZPb1dNVk1ocTEyWFpMNHZhYnpLazRZSHFIclFOYkFxRFU5LXhjNXF6MS1namtvQdIBxwFBVV95cUxPM2I3OG9kUExOS1RqZkRCdTFkUmcwZ2lxd2Q0TmFUaEI4M0Uxa1cyeUxfRDg3SmlURDg0cU1sb3NjZ3dHaWpfUUpOREVPRXkzYW01dUdWckVGUnlZYThzOFZoOV9Bd1dNX0NmdzljcWhMNWdpNHlkVVU2aEtLcmk5Vm1fa0xEdkhzdy1VMmwwcW13Q0h1NHNqMWFOZjBuOFlodmRNekFKN1djRjFNZ0wxVV8tcVotYmtBeVRScnZMNERZQ20xNXNn?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 23:18:19 GMT",
+          "description": "García Harfuch confirma captura de \"El Brilloso\", vinculado al homicidio de Carlos Manzo Excélsior",
+          "source": "Excélsior"
         }
       ]
     },
     "ricardo-salinas-pliego": {
-      "updatedAt": "2026-09-11T20:20:23.251Z",
+      "updatedAt": "2026-09-11T22:50:58.456Z",
       "status": "ok",
       "items": [
         {
@@ -147,8 +147,8 @@
           "title": "Sheinbaum asegura que Salinas Pliego paga cada mes lo que debía",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTjFNZ0hNREdpQXlBQlowQkRyVXpiNU5hWlhHTzhGcHhpUXRmdlRKMmRtaHNJd2t4ZDExVXJzMjN4ZmJtLWlkeExzUXh1eVlBSjlfVWdwbEN0ZmEyUF8wR0M0dWJFeWhQNWhqeklCTmVNU2N2UGJ1Wi1kaXVlMzNaRTBJZlVVMTcxV2JDYnN3dkdWdEpCdEd0R3VNUWxzdVlvMDU1Zk1kdUxTQTE5bXl4OW1fVWJDOVVWOTA1R0VHamdfR2xzNVlHR1lIWk1idTZlN1HSAeYBQVVfeXFMTjRiLUlqdHY2SXVKR1hBeER1RlROS1hRalMtUVhpUlA3aFRUa2FFTDB0ZGtwNFVEXzNNYjk4ekNKc2ktTkw5MjVVd29uR3BVbk1YQURSQjJ3b3dGRzhadmhpMUNnVHlJLU5xLWJCM3BOeFhXRW1DckNqN2dmcmhrWXdRejZFMzNfZkhqZHdCMXVsREtzUEQ1MEJvbm42UEl2X2RHME12blBMWG5RWDBjM05mVWxTYVM0eVQ0UVkyeEY3TS15YlN4dExfTlpsak5YdzFjd1hlY1VISTBxcjVqdEx5cmcxR2c?oc=5",
           "pubDate": "Wed, 09 Sep 2026 15:36:48 GMT",
-          "description": "Sheinbaum asegura que Salinas Pliego paga cada mes lo que debía eluniversal.com.mx",
-          "source": "eluniversal.com.mx"
+          "description": "Sheinbaum asegura que Salinas Pliego paga cada mes lo que debía El Universal",
+          "source": "El Universal"
         },
         {
           "title": "“Hemos pagado un montón de dinero”: Salinas Pliego responde a Sheinbaum",
@@ -161,15 +161,8 @@
           "title": "Ricardo Salinas Pliego revela cuánto pagan sus empresas en impuestos desde 2005",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDhUVDg1aUdTVV9makJEbHgzXzlHTEJybklMMXlKT2FCdHdLUTk5QnpyMjdISHFEaDJEQm5sWmE1eVpHZjNJQXR5RS1SOHpEeG5LSjJuYmdQR0tFR1phUUU5NFNiazBGS0t4RllyUGlzLXNEdWhyX3MzTG1CNF9JdjlJLV9UZ3VScU1ibzlTejZseUJUQXFzblNfaVpXSUR2aE5iNi1UcXI3QTZpRWRENDlUNnlsNVVib1RGWm5nQWs3OE3SAdABQVVfeXFMT2FBTDhueGotc194bVZIUGNULTgyS1QtLUZDUFdqblZ5U05iODBXT3hMelJyYmFOS2lYWlhrRHVoSmE5TDdoSWxRaXdQVWJqUkFETTlSWWlLUWhjZFpfYjA5cFV6NVlFbHhoUHlyYXR6T0laR2lGVE5fdGpRVVk2bUg2VThaZlVBRXJnajh5blhOdFFMeTFlWUJCT3R4WDZNZjNOcnpONnN0N0JlZlZXVmZRLW9fbHJtTWxPMzl2ZHRJTm8xWjluVnlXaldqT042eQ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 02:38:50 GMT",
-          "description": "Ricardo Salinas Pliego revela cuánto pagan sus empresas en impuestos desde 2005 tvazteca.com",
-          "source": "tvazteca.com"
-        },
-        {
-          "title": "Sheinbaum confirma que Ricardo Salinas Pliego sigue pagando su deuda fiscal al SAT",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemQwZ2lNR1pET2ZHU2dnZjBsdm9HSUszeXhBRUMzMEZPbTNOMnU4MnFSNm84UkI5RFlMOGFWQ0lJMmR0MTV6bWNPS1l5QUc0MVlPMDNkTlZKMWdNQk12Y2ZVR0NkQ2x1Vlp6dXZ2ZW5NSXl2bno2VW45SEtUMXNJMmxYa3lIOXR4Ylo3YkVuWXM3bUpKTEZBQmZBMXdLQy1vZU5ubk05RGotTFpUaHh4S0ZvNGJkeFVaOGJQU1Q0R1VVOUp4MWJsYzBUbk5BWFAxWl85WkIyREVtY0J2ZXhN0gHkAUFVX3lxTE82eWhUQ0xIaURUdkVEYm5IYl9od0lBVWs2XzZnVWx2RUJZbXN5N0lWLWJIbWpVaFBtcTI3MHE1ZVA4YWhMWDhVeU1maUNKc3UwaWdCblJjTW53TVQyMW5BNjVPU3U0VWx6ck9jRUVGNHZ3ckJiVVkyY1NQRTlyZkJEXy1VZy03YWxJb0lLVTdDU20wc0xWaEI2V1B0amY5bjdWMkRYaDRSSTdiZkJzYTVmT0NiWk9iZ3BMUmtBejhFZGNYOUstYlFieE9zSm1RNlZVX1JoR0tfYktZNFdkdFpnSzItYQ?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 23:53:57 GMT",
-          "description": "Sheinbaum confirma que Ricardo Salinas Pliego sigue pagando su deuda fiscal al SAT Periódico Correo",
-          "source": "Periódico Correo"
+          "description": "Ricardo Salinas Pliego revela cuánto pagan sus empresas en impuestos desde 2005 TV Azteca",
+          "source": "TV Azteca"
         },
         {
           "title": "Así respondió Salinas Pliego a Sheinbaum tras decir que está molesto por pagar sus impuestos",
@@ -184,11 +177,18 @@
           "pubDate": "Wed, 09 Sep 2026 16:16:40 GMT",
           "description": "“Está pagando el doble por no pagar”: Sheinbaum habla de la deuda de Salinas Pliego sdpnoticias",
           "source": "sdpnoticias"
+        },
+        {
+          "title": "Ricardo Salinas Pliego se une a la fiebre del iPhone Duo y regalará 20 teléfonos",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWhKcDhtV2p5OF9TeVpzRFEzV1JvZ1JTUE9ZVmZsdFo5N2hqSWxMZHVsaFR1ckg3LWxnSkNwLWNZTFVaOUtGUy1PTGczcWZiaEdoeUpyZjM2dEh6MUZPdHlmTkNDeWpIeEF2OTJSR0lFODZ5MjBkMlVwREJnNUlUVzF2N1F0amFHOFJNd1NaZEJDZ09nQ2lvN3FTcnNjTFl3SnEzYXlhUVFQdFFrVmduOGhXZ19od0U?oc=5",
+          "pubDate": "Fri, 11 Sep 2026 01:45:00 GMT",
+          "description": "Ricardo Salinas Pliego se une a la fiebre del iPhone Duo y regalará 20 teléfonos sdpnoticias",
+          "source": "sdpnoticias"
         }
       ]
     },
     "hugo-eric-flores": {
-      "updatedAt": "2026-09-11T20:20:23.619Z",
+      "updatedAt": "2026-09-11T22:50:58.240Z",
       "status": "ok",
       "items": [
         {
@@ -206,13 +206,6 @@
           "source": "facebook.com"
         },
         {
-          "title": "Comisión Permanente aprueba licencias de Hugo Eric Flores y Sergio Mayer",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmF1N2dHRHlEMWl1UmZQcWh0cDZSZnlZbjRKcjA4VGlfM1I1RUhjcVQyd3d4M25MYktmRUZIR2tBSURDUFNWQzlIY2pVV1pJb21vaXhpNnhDcnRheUJaOUpWSjJaR1VwUHlVWGZ4c2VBUERkY1lmbVo4UVNEU2dmNDFmQ0cwVkZqLWF4ek5xRTBrelQ0U0Y0SXVQLXlXclJzaTVGU0I5MENpTmMzT1RtSWQ3M2JreUJXWEZHd0hJTnhaSktRbmc?oc=5",
-          "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "description": "Comisión Permanente aprueba licencias de Hugo Eric Flores y Sergio Mayer La Jornada",
-          "source": "La Jornada"
-        },
-        {
           "title": "Hugo Eric Flores presumiría apoyo de Pedro Haces rumbo a las elecciones 2027",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOak5lZC0tNlJsVjVSdUZQa1U0WXh4NC1ZR1NBY0wwd0MzQzVBeUFLOFBnYkg4LTBmMkhwSTVMcnd5WkpuRG1BX3ZpejB4M0piR0RubFdqR0ZaLUFJd3dESm14MXJIVk1hVC1SNTZPTjVLT2FwSU1kanhlN29pTzZhMHgweTZXcURMMFRlQTBSb0ZQRVUwZk50MmdkMEhhQVlHUlFsUTNzcldKT1g1?oc=5",
           "pubDate": "Wed, 09 Sep 2026 23:20:00 GMT",
@@ -220,11 +213,18 @@
           "source": "PolíticoMX"
         },
         {
+          "title": "Hugo Eric Flores pide licencia y deja pendiente desafuero de 'Alito'; se va a dirigir el PAZ",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGowOTJ0WFg4RFpjeGVYbUJULWpYTVpUbThTdnZjbmdZNFNOWHdJZUM1WUV5WUwxWjhVa0Z2UnBVT3g5bHZuQ1Jyc0lvUE83SjFtQmp4U09HanRZS1lUcUxWS2RHbnpYYmd6WkxpSWlJa0hyMDB1U2lRdGR0ZFdmb0xtWWluRTc3VVlEVG83dG8xaUY3aVdXb1VWbW5UQ0l1RVNUb09NNXR0TUp2RXpwRHI3cE1zZ21IUkY4cGJ3SzVrWnppTk5YdWM4d05lakZTNkVSeTBlWWtHOWY2?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "description": "Hugo Eric Flores pide licencia y deja pendiente desafuero de 'Alito'; se va a dirigir el PAZ La Jornada",
+          "source": "La Jornada"
+        },
+        {
           "title": "Comisión Permanente del Congreso concede licencia indefinida a Sergio Mayer y Hugo Eric Flores",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOEZMbDBPYzZaU1JlRWYtRV9Ed2hFeHluYzJOWmtpWUNBUlpldG1hTm5GRTNwSHNBZDFDRTV2Rk5rVWl1T2QwR1FvS0N2UTZtWnRJWWMzamF4Q3BIbUlZRW5ablowT3dVMFoteG1LTUlHWGQ5Y2lldUNvYUlTelQ2SHFMUmk3SHNLNTNlN0xvUlZFQ2hwUm1BMHl6MDhPb3BfajMwSm5ZQmoyaXowTzh2S183VWY5Vm9DVzlDbV9JV2RPUnJWZzVPWEhHcy1aQWlFVGRjNFQ2b1hmVXBKMmphdFpzcm_SAfgBQVVfeXFMT3FKWXUtbXZWUVFwWmowa2pCa2lhQkpWN1ZOcUpCUmVNZlBLYjZ5VURXZkxUUmx6engwR1d6SzNTUHdUU2VRbUk4NmNjeDh2aTVuR1NVd1FUU0pSVWUwUUVWSEJqUXl2MHdMbUVtMWF6aG9JYndDRmU1SUp2cGJlRktpeHNHUFZDdGlKRlFtb2VVWlR6VG16WWdsUGpwemw0Y1drWUstMnRHV0ViVE1ERzdXUmQyWUFNb1NteGRGYkhZM3lJNTBZYWxJel9maUlnSlhNNnFvTHRSSTJjcHMxUmVoVnVqMURETngxbldoSnRac1otQV9sOGY?oc=5",
           "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT",
-          "description": "Comisión Permanente del Congreso concede licencia indefinida a Sergio Mayer y Hugo Eric Flores eluniversal.com.mx",
-          "source": "eluniversal.com.mx"
+          "description": "Comisión Permanente del Congreso concede licencia indefinida a Sergio Mayer y Hugo Eric Flores El Universal",
+          "source": "El Universal"
         },
         {
           "title": "Hugo Eric, el opositor que México esperaba",
@@ -250,15 +250,22 @@
       ]
     },
     "donald-trump": {
-      "updatedAt": "2026-09-11T20:20:23.606Z",
+      "updatedAt": "2026-09-11T22:50:58.476Z",
       "status": "ok",
       "items": [
         {
-          "title": "Trump alcanza cifra histórica: Precio del diésel en EU supera los 6 dólares, ¿es más barato en México?",
+          "title": "Trump alcanza cifra histórica y diésel en EU supera los 6 dólares: ¿Es más barato en México?",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmNsSUNUd0RmVDhwVzZDVVVfZVlxUk12NEJNNC00cHAzUTJ6aWZrNE5DRHNsZHhKdk1lRWd5Sk5KcVVnVFRQMTlwWF9fT0pjQ1hXemxPdnlROFhyZWdrMjFfWE1PeEVxTWgzTURwMUNSUDRZR1p6RzUxUklrUnlkc2h4NUhSMXBCZkc0MzQ3NGp6blhLem5xc2E1bVpvVFB4VHZoSlNXWThiZ2xUcU4w?oc=5",
           "pubDate": "Fri, 11 Sep 2026 19:27:26 GMT",
-          "description": "Trump alcanza cifra histórica: Precio del diésel en EU supera los 6 dólares, ¿es más barato en México? El Financiero",
+          "description": "Trump alcanza cifra histórica y diésel en EU supera los 6 dólares: ¿Es más barato en México? El Financiero",
           "source": "El Financiero"
+        },
+        {
+          "title": "¿Cuándo se apropió Estados Unidos del nombre \"América\"?",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGZLbkk2aFppd0dUVmtZbk5MenhaTHNhMUVhc2x5cTBLUkFjMGt4R25EVEx6TUFuaXpIcTZGclZCUGZpdGVISHpIekppV1ZremE1enp6SnEwZUhvY19ubDhKNzJYUDVzZ0tybW4zNXAyLVR0RTJFak9XRHYxdWh2N1kxejR4bjlPWTE1dWR3?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 23:32:00 GMT",
+          "description": "¿Cuándo se apropió Estados Unidos del nombre \"América\"? cnnespanol.cnn.com",
+          "source": "cnnespanol.cnn.com"
         },
         {
           "title": "Marco Rubio, sobre la lucha contra el narco: “Hay extensos territorios en México que están controlados por organizaciones criminales”",
@@ -278,8 +285,8 @@
           "title": "Cuba, México e Islandia responden a mapa publicado por Trump",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGFMZHB1amVBdXhwdFU2TTlkekNBNTBiNDlIY0VBc0ljQmdySkJUbGJwSy10cU44Y3psWHltanVFb1JOdnAtdmtOT2l4dFIwZlhtc1RQenQ3WHdINk9DVEpVc1FOeVRtV3F2ZVRBZTRvSHlFU1lSa1pUWnUyNlJEbFVKLWVfa25EVDh2RmVlR1duSkNWTmZFVENWNUFZZDTSAZ8BQVVfeXFMUEFpNFhrNlB3eUE3XzVqQndLNTRWdHU2bWhSYy15dG5kMmhqdnBFbFF3MllJZ1V2ZTVhNUVMck9pa0cySC1saUlfNG1hdVpBWVNQYl9UWkhJWWFkNkZjUE9vODVlOFJ0TmFTSjVGRnl2Qy1YSWNaWWxIS3hqTXNJd3hHdlRDNjYwdzQ1YUx3MWhPWmVJRVpiTEZKZ3UwVVpZ?oc=5",
           "pubDate": "Tue, 08 Sep 2026 21:07:08 GMT",
-          "description": "Cuba, México e Islandia responden a mapa publicado por Trump dw.com",
-          "source": "dw.com"
+          "description": "Cuba, México e Islandia responden a mapa publicado por Trump DW.com",
+          "source": "DW.com"
         },
         {
           "title": "Trump abre el camino para retirar al lobo gris y al lobo mexicano de la lista de especies protegidas | Mongabay Latam",
@@ -289,13 +296,6 @@
           "source": "Aristegui Noticias"
         },
         {
-          "title": "Trumpérica",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UR0hJbHQ3TnFVd0hqaktKQzFwOWVOTlhfN3Rnb3hYRTVGd1RJYV9Udmk2OGNoeTF6QWx0YURFV3BPVnhGZk1sOTZmOEhKaGc2ZHdnaHRrcXRrTHdwdkR0XzZvelZ2bVp5TkhZS1IzTlFENGtabnpkWFNqUdIBgAFBVV95cUxOY09FMUVXVUNoSFZLdENzTXhoby13NDd2OHdkOEZ5M2VOd1JEcmtDYUlCVmZqRzVtQUFtUm5TYVc1S2ZhQ3JIeWFSSzhKdnJxZkRvWnIyTExLYjNIdHhkWXRUaFY1eHYtSzZVY1pMczMwdi1OdFA1aVExMnBlb09xNQ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 07:08:14 GMT",
-          "description": "Trumpérica El Economista",
-          "source": "El Economista"
-        },
-        {
           "title": "Cae 60% el fentanilo desde México, afirma Trump; EU pide más acciones contra cárteles",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcnQydWp4Z1UyeGJBMDRPalM5ZzJzNGdOczJBclZTa09uM25ISlluZ0xrOFVLUEExRkRtZ19JcUw5eXloN3B1Tk5nU19lRk5UU2VrMGo0ZUJlWnBiVXNXa3Z3SW15ZFNMS3l6VlZSb2toQ3V0YUdDYnV4ODJZb1c5NkZ4dndYX1RHS0liaEhvWHNuQnByZEFZNm10clJxdHgyWWNQNk11QnlwbUZwblkwbWtVc0JrYzdkd1g4?oc=5",
           "pubDate": "Thu, 10 Sep 2026 19:29:00 GMT",
@@ -303,23 +303,23 @@
           "source": "La Silla Rota"
         },
         {
-          "title": "Ronald Johnson asegura que el gobierno de Trump ha entregado a más de 350 criminales buscados por México",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOa2dnekhJeC1zNU51cVplcjVvbGxpZmpTSHlDVlBBTTN5aWpSWm5PZDRGQnY4QTktZlJQT3hncDVMZndveWRLdDB5VVhQSVM1VGgzcDlFWlAweGlfd2J5ZkdIZ3Z5OVduZV9fSW16ei13UHV5SWFaZXJQbjh5ZmhhcHRkUDJhd0xUaUJVMHJpSC1ERkdoVnctenpWWjhweWxlQldxMGNpUFItd0RwRDlRRGo4VmJ0aXg4djIxSEN1My1iS0ItTEJvNDNwODJHRlBFamZqQzBtdDN6aFNvWC1jTNIB-wFBVV95cUxNVk1tZXRjaUYwNk9kNzlSUTcwaFdERVRYUngzMTFpcHZ3ODVQejdxYXRBQ00zQXczWVB5aHFnQ1RTZnYwc25uM3BqbzFMakR1NjJ2TjN0TkVVYXBRY0VoY2dxV1Y5R1RPSElaZXAtcEJEelFGSU1EU2ZON2p2WWZZUWRPajhKRFlSbjlfVzh2QlBWOUI2X2pFVG9QcnpOWm52RDJXTlhrLWM1RHgxd2NOQTFqdlg2OFhKQUM2a2V6VmVYMnRidmU4SnRhMVpkU2xTYnd5VHJwYVpEaUExYUlabHNPZS14akdDM21OdVAtZXl3N2ZSUG5EQ0VZYw?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 23:49:00 GMT",
-          "description": "Ronald Johnson asegura que el gobierno de Trump ha entregado a más de 350 criminales buscados por México Infobae",
-          "source": "Infobae"
+          "title": "Trumpérica",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UR0hJbHQ3TnFVd0hqaktKQzFwOWVOTlhfN3Rnb3hYRTVGd1RJYV9Udmk2OGNoeTF6QWx0YURFV3BPVnhGZk1sOTZmOEhKaGc2ZHdnaHRrcXRrTHdwdkR0XzZvelZ2bVp5TkhZS1IzTlFENGtabnpkWFNqUdIBgAFBVV95cUxOY09FMUVXVUNoSFZLdENzTXhoby13NDd2OHdkOEZ5M2VOd1JEcmtDYUlCVmZqRzVtQUFtUm5TYVc1S2ZhQ3JIeWFSSzhKdnJxZkRvWnIyTExLYjNIdHhkWXRUaFY1eHYtSzZVY1pMczMwdi1OdFA1aVExMnBlb09xNQ?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:08:14 GMT",
+          "description": "Trumpérica El Economista",
+          "source": "El Economista"
         }
       ]
     },
     "marco-rubio": {
-      "updatedAt": "2026-09-11T20:20:23.927Z",
+      "updatedAt": "2026-09-11T22:50:58.822Z",
       "status": "ok",
       "items": [
         {
           "title": "Marco Rubio, sobre la lucha contra el narco: “Hay extensos territorios en México que están controlados por organizaciones criminales”",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeTRUNUYxd2NkU3I5UnNPNTZmcWxKUTE3dGF6cHRJc090TlhRRnRlREFqSDhCSDRsQnlKZ1JNcHhaZDFTSXBmWlJCc3dldlItUm1JdUJUNDlfQWFaazIzSFA1X0tIYUFHNENWRHFRcmRZR0ZHdG5WZ2hIalk3Q0hOWEp3QXQwM2gwRWpRX0RyT1pXVjI0VXJjWDlkQWdFazFJdE9YQWp6eXRNZ3Y2NmI1enRGaWZsRW5EY200RVBTdGktQmtodEtJRV9pRnJ6QlhWZm5qQ3JDYlNORURHNk5QRnppcXR2QmtBNW5EQkZhMWJOd1lCWDA2c19oZ1JTNzZS0gGUAkFVX3lxTFA5U1VBNVM5Qnl4RWp1Qzd1X241dHZGdE9fYi14TDgydmpJQ2V1N0pOQ3dKbHVjNTZDSzA2djFuaWljUTRJdGdWV0ZVcGpvYzBZXzBOZTUyTTVWY3paMmZGQ29takFidGM3MzJTWkFrc2xKQXNva3RZQS1VT0N5aW9FOUJtS1hZbGJZajVDTjNfSlR2bXQxY1hoSDV5QnRPdUtkbkJQc1czRkZKSDlmaFE2TmNYVGdzdVJWVzlLSV9Pa3dHMHMxSVRYamVPMi1LQ3ltWXg1M2NUOVpRZ3ZzYS1MTWd2RnhxdW1FdXVfWUc5dVkxWTVUZmtRWW1aQS1qMmhLT0VFV29zd29TcTlTdXhOQkZzeQ?oc=5",
           "pubDate": "Wed, 09 Sep 2026 23:02:14 GMT",
-          "description": "Marco Rubio, sobre la lucha contra el narco: “Hay extensos territorios en México que están controlados por organizaciones criminales” EL PAÍS \"No usen a México en su campaña\", responde Sheinbaum a Marco Rubio por ver insuficiente lucha contra el narco eluniversal.com.mx Sheinbaum responde a Marco Rubio: \"no usen a México en su campaña\" es-us.noticias.yahoo.com “México no es piñata de nadie”: Sheinbaum le responde a Marco Rubio y exige respeto de Estados Unidos Expansión Política Sheinbaum responde a dichos de Marco Rubio sobre el combate a cárteles: \"No usen a México en su campaña electo MILENIO Marco Rubio advierte que EU enfrentará amenaza de cárteles mexicanos \"de una forma u otra\" Uniradio Informa Marco Rubio observa insuficiente lucha de México contra el crimen organizado El Informador ‘No usen a México en su campaña’, responde Claudia Sheinbaum a Marco Rubio Excélsior Sheinbaum acusa uso electoral de México tras nueva presión de Marco Rubio Publimetro México",
+          "description": "Marco Rubio, sobre la lucha contra el narco: “Hay extensos territorios en México que están controlados por organizaciones criminales” EL PAÍS \"No usen a México en su campaña\", responde Sheinbaum a Marco Rubio por ver insuficiente lucha contra el narco El Universal “México no es piñata de nadie”: Sheinbaum le responde a Marco Rubio y exige respeto de Estados Unidos Expansión Política Sheinbaum responde a dichos de Marco Rubio sobre el combate a cárteles: \"No usen a México en su campaña electo MILENIO Marco Rubio observa insuficiente lucha de México contra el crimen organizado El Informador ‘No usen a México en su campaña’, responde Claudia Sheinbaum a Marco Rubio Excélsior Sheinbaum defiende a México tras dichos de Marco Rubio 24-horas.mx Críticas de Marco Rubio a México por combate a narcotráfico son por elecciones en EU: Sheinbaum proceso.com.mx Marco Rubio advierte que el narco controla zonas de México vanguardia.com.mx",
           "source": "EL PAÍS"
         },
         {
@@ -354,8 +354,8 @@
           "title": "Rubio: México no hace lo \"suficiente\" frente a los cárteles",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUldsMEVjU0tHNk1wbzZnOTd2cjQ1enZUdFdFSVB3eGFiZGhMQzQyVmxxTlVIS0szZWhoZWI2VS1rZXhpQlROUC1WdWZMSkNlNTRDNzUyd2dJQkFQYzA1Tm5ULURPdUNVbUZrNGYwT3ZScC1IUjg2UVRDeHNLQzM2aGdTeWV6UXJzSGlLcDBzdHlPMm9RWFU2Qk9WZ3ByU19LNHFXNWJiU3Npd1nSAasBQVVfeXFMTlJXbDBFY1NLRzZNcG82Zzk3dnI0NXp2VHRXRUlQd3hhYmRoTEM0MlZscU5VSEtLM2VoaGViNlUta2V4aUJUTlAtVnVmTEpDZTU0Qzc1MndnSUJBUGMwNU5uVC1ET3VDVW1GazRmME92UnAtSFI4NlFUQ3hzS0MzNmhnU3llelFyc0hpS3Awc3R5TzJvUVhVNkJPVmdwclNfSzRxVzViYlNzaXdZ?oc=5",
           "pubDate": "Thu, 10 Sep 2026 00:07:34 GMT",
-          "description": "Rubio: México no hace lo \"suficiente\" frente a los cárteles dw.com",
-          "source": "dw.com"
+          "description": "Rubio: México no hace lo \"suficiente\" frente a los cárteles DW.com",
+          "source": "DW.com"
         },
         {
           "title": "Rubio afirma que el esfuerzo de México en la lucha contra el narco “no es suficiente”",
@@ -365,11 +365,11 @@
           "source": "Telemundo"
         },
         {
-          "title": "Sheinbaum defiende a México tras dichos de Marco Rubio",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjNjeGFRY1otV3FYeDR0bUVTV2U2UnA3WkRYVlhIS1FpZXhsU0JtTlp0cjc5M1dMMVpEWGQ2STUtTzd0cmNUSHZ1RGg0UzM0WGJOVE9tWUpZM3RGZHBCWE9fYmlhQnE4djBRME41dTY5V1ZhWTBiNXRGTnBsdEtTYlZDaWR3XzFSTlE?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 17:46:19 GMT",
-          "description": "Sheinbaum defiende a México tras dichos de Marco Rubio 24 HORAS | El Diario sin Límites",
-          "source": "24 HORAS | El Diario sin Límites"
+          "title": "MILENIO. . ▶️ “No se debe usar a México como campaña electoral en EU”, responde Sheinbaum ante los dichos de Marco Rubio 📺 #LaMañaneraDelPueblo por Milenio Televisión",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdXlRaERvUWNIWVdCUlBicHZzaGpSOHJpQXlrRlNJa0JKUVBRT1FXcnpRdHo2UENyOFdRWjJQVnhPTXItTGMyZ0g3R0cwTFlLYkhhNUliaFIta3RuN3RpenNVV25iVTFBY1V1U0RaVUl6VVdJNVVoRmJha1IyLVJZREtFLTU3bDBCM2UzM29uWFl1NVc4Z3kzQkkzS2MtOUk5clpVNmVvdDFZREZYNzhtenR5dXp0Q3NTR2lQOTBlejBrZExXdXFadXZVM1JaMlc0RE5kZWFzZXFTY3dyUWVSZGZCUTBrVlBzdEc3UmpzOXc0Vzhq?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 15:21:57 GMT",
+          "description": "MILENIO. . ▶️ “No se debe usar a México como campaña electoral en EU”, responde Sheinbaum ante los dichos de Marco Rubio 📺 #LaMañaneraDelPueblo por Milenio Televisión facebook.com",
+          "source": "facebook.com"
         }
       ]
     }
