@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T22:49:51.717Z",
+  "updatedAt": "2026-09-11T01:42:52.431Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,13 +76,33 @@
   ],
   "items": [
     {
+      "title": "Cinco lesionados tras choque en carretera Tehuacán-Huajuapan",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc2kxeDJ6Tnc0WU41dVdPYjVBNms4Rnp3OEZ5aXpoTl92SHF1VjhWaFdHYU9BYjRhOGhnTUlUNV9NNmZFdDRzY0F6eWlaZXFSdE4wUnJFTUI2TnduRVJ4Y0NkVWlCVC1rMTFvNVRoY21pSUpfRGF5dTZFYzNUeTJHeXZyMUgyZU5SWkxZeTVDdThpOWlEYWx0QUFERWFGZnMtRnRjNA?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 21:52:00 GMT",
+      "description": "Cinco lesionados tras choque en carretera Tehuacán-Huajuapan Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
       "title": "¡Inicia la era del \"Kaiser\"! Rafa Márquez debuta con la Selección Mexicana e impone condiciones",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUEpwWkMyNFFINmRqNFB3aVZ3c2NmenNScTZZeUZnYUdic18xUmdkYnBvU296d1pvM1Ayb1J2M0dlbUlPMGhEZ1pzRlRnMFpCQ1RvblVjU2hGQmt4dk1QaG5JRXdqNnBFa2VaWktuTW5IREJjQ29XeE53U3YzellPSGRucE5rbEQ1Wnp1WG03cVJ0aVZBWjd0UVBBRnJ5Z1dDeE1WTHdaaWVsRkxVTXY3M0R4Vzh5QXNWQ3hUUmsxb3dlMjlmblhuSGdRMUREY3Zzbmd4YlhXNHg?oc=5",
       "pubDate": "Thu, 10 Sep 2026 20:43:33 GMT",
-      "description": "¡Inicia la era del \"Kaiser\"! Rafa Márquez debuta con la Selección Mexicana e impone condiciones Periódico Central",
-      "source": "Periódico Central",
+      "description": "¡Inicia la era del \"Kaiser\"! Rafa Márquez debuta con la Selección Mexicana e impone condiciones periodicocentral.mx",
+      "source": "periodicocentral.mx",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3lNMHVpV1E4WGViaGNzYkgyVzFHbm1aQWlRYVJWUUtzVG00SlJuVzlHb2lPb1VxeUdFRzFFdExBb0ducTY4WmpyZmhKUEI5ZkROREJlSjBCTDZib29RVF8yYjBKUXBiRlBCTGpyMU1BOFNKS3RYVHJPZm5laGtLS2hYSGlYOWE0SDVVdDRmbDVRellNcG9PUVBoM28xcS1YMlNBV0o3ZUJtejBfMXVDLTdmQlUyN0dSUmdBa3lzUGQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:52:06 GMT",
+      "description": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
@@ -126,6 +146,16 @@
       "group": "local"
     },
     {
+      "title": "Filomeno Sarmiento, y la sombra de impunidad que se desmorona",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWUQ2c3Jmay1HX0dDVHNQRkNiek9FbGFUNHM1U0tEZjNrVTJlZTE2aWJNbVVaYlh3WGQ4U2kzNXRqdkhBWGUtRzdaT04zWV9ueFFtQ2RpV21tdTRPWUVJUmhmT3Ytc1dQamJDOFlBektRRkt6cnNKTjlyeGItVUJGeWcwaVA3MkprS0NXUVhINmtiSVJhTGVrckpjZXNoNUhuV2k1QThGclRYUQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 11:58:03 GMT",
+      "description": "Filomeno Sarmiento, y la sombra de impunidad que se desmorona e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
       "title": "Van contra dueños irresponsables de mascotas en Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWEzNGx2SVpnNm1rdDhCSzNJX3JSOWNfX0ppNldCVmFXb2VhVUFFRTd6SFdkd2dMX3EwLXpITlZmdy1TWEdDNXoxQl9xNElWc01FUFFWcklUa0dqS1FvQi05T1hHUmlUQk04d0IteWc2RUhsNTFfa0VkMnNjSHA3dDNKRlJINWV4VndWMlFPMWtnV05xMUpPbHB1dGFBZEk?oc=5",
       "pubDate": "Thu, 10 Sep 2026 11:30:00 GMT",
@@ -136,11 +166,21 @@
       "group": "local"
     },
     {
+      "title": "Aportar dinero a campañas permitió a alcaldes que han caído ser candidatos en 2024",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHhGeGlIRmpaaHd5WGIwM2dWeWRyZDJZb2dCUlI3VkVGN3ZWYTllUjRKOWlXTWJRMDNCQUJtWXNHcnVieXN2cTRKTjkyaVRFanEtWFNvVXJTQTkxTkRlZERMT0V1SDdmY1dpSGRRSVNDRW94aFNoeWhnTmZrLVdOSVZTTUpDcDYwRi1ZYVRtMXNSME13d1VvUEh6aUl5RUQ0cUhuSUxIb0c2bmtLMTBMQkFVS3ZSVXVLNVhGMWFyRGxIWWNYb3ZZ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 09:00:39 GMT",
+      "description": "Aportar dinero a campañas permitió a alcaldes que han caído ser candidatos en 2024 La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Diputados “olvidan” dinero para Puebla",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkZFeTJ0MFRJQThpQVJLSE9FQ1FQLTg3ZlkyZVNYQXVRX0ZCa2lPSzM3emk4THRrM2Y1eS1FWjJ6aWxXWWtHOXpLZGhBR0RQdzljbDNORWZmYjc4TWEtUTdCajFZMy0yYWhrZmVPMlAxU3NmaUNqRmk2cnUzQ2FSb09FekdFRV92c2UxbXgxNVBGWDV1S2loOUlEOTk?oc=5",
       "pubDate": "Thu, 10 Sep 2026 05:34:13 GMT",
-      "description": "Diputados “olvidan” dinero para Puebla Intolerancia Diario",
-      "source": "Intolerancia Diario",
+      "description": "Diputados “olvidan” dinero para Puebla intoleranciadiario.com",
+      "source": "intoleranciadiario.com",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
@@ -169,8 +209,8 @@
       "title": "Renuncia Guadalupe Bárcenas a la alcaldía de Acatlán; se desmantela mayoría del cabildo: Congreso de Puebla",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR3RxRTczS3BUeHlYa1h6b0M1UjM0cHFVQkI2ZzdheHR0SllDRHRoLXhUWXU2Y3lqVFR0OEVXV19PS0hlOWpELTY5Q2I2RWtiUkJyUHBfdUJ5QTNHZE5BcGgyZzZGVTJoaXRJc0hzdEtoMHZEbzJQNUpBMW5xRmRLdF9nLXpkUnFSdGctMkZ0dFBjS1VvY0N0bngza0ZHanBxdXZuWHJUMVBCOG1Pa01JWnU2ZFF3TnJkZzhldDdfd3lxa3VqaERxc0M1Mm83VXFWNUZjNHNTQThKcUc5Q1Fab0M1aVNxSlV2ekExRw?oc=5",
       "pubDate": "Wed, 09 Sep 2026 23:48:10 GMT",
-      "description": "Renuncia Guadalupe Bárcenas a la alcaldía de Acatlán; se desmantela mayoría del cabildo: Congreso de Puebla Periódico Central",
-      "source": "Periódico Central",
+      "description": "Renuncia Guadalupe Bárcenas a la alcaldía de Acatlán; se desmantela mayoría del cabildo: Congreso de Puebla periodicocentral.mx",
+      "source": "periodicocentral.mx",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
       "group": "estatal"
@@ -289,8 +329,8 @@
       "title": "FGR investiga a líderes del SME por lavado y robo de luz para minar criptomonedas en Puebla",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOT1g2VzZ5ZERaYVpmbWdHcXNDZXlUUzdzSTJoSFoyX3prN00wbFhacVZ6ZXVhU2JiNnpZYzMtem1INmk5bnZYSmFXa1JBM2hiTWVubjJiQmtsQi1nQVRSZkhkZjZIOUxGRThfSE41bmtkOHJkTkcyeEtwX2VqdXdNWlBab3o1eGZuWjFKMTFFWEthclFIOEpqVUZxd2JSQmU0cGE3RjlxbGN1UU5Eb2xvU2F1MkR4cHdsREo4WjlnWFdncGFmSk12eVJMSmFjSkZmM1I4cXhvWDhldUk5ZU5FV0tRdUx2SFdwZWZMdVAzLVM?oc=5",
       "pubDate": "Wed, 09 Sep 2026 10:00:00 GMT",
-      "description": "FGR investiga a líderes del SME por lavado y robo de luz para minar criptomonedas en Puebla Periódico Central",
-      "source": "Periódico Central",
+      "description": "FGR investiga a líderes del SME por lavado y robo de luz para minar criptomonedas en Puebla periodicocentral.mx",
+      "source": "periodicocentral.mx",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
       "group": "estatal"
@@ -300,16 +340,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUU9qenZaZGQyTjFGVUFtOGRsT01kdVA5YXBZT0dGUFFRWUVUenpYTEFiUjAyX0lidi14Q0x2YXNVdVhsaGQwaU5KbVFfMWhhYVozMmVqdkZVU2pQNHJHZDlqcWRHRWNBLTk1SzBJTWF1a3lYTXRkRE1KRi1hVW5zcUFVMm95elgtVlpUaE9FUk9sODVqckl1SmRkRWxpNFFZTkhIeDlDTQ?oc=5",
       "pubDate": "Wed, 09 Sep 2026 03:03:50 GMT",
       "description": "\"Renuncian\" regidores y síndico en Acatlán de Osorio e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Facultad de Ciencias de la Electrónica, un orgullo para la BUAP",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU1JR293d0hXdm9uY2g2ZFV1WkphaGNGTmhGMmRiQ3BVZnFVN0tVYXpPam1LOFpGenN0ekJwWFhmaWgteWhXOHJJZ3FwUEVmSFJlMGl0VFZXWkxNeFVCWDJLUjV2czBBMWlLbXhTSlFZUkxPMjVFcXl5OXlkaVU4U1Z1Ym5SYzR0RU1kZmExbkt1bWJIX2tEeWlEdE5kWVpfbXJfTzNjQVVXeXl3dmQ3Ml9KeTd2QQ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 00:48:55 GMT",
-      "description": "Facultad de Ciencias de la Electrónica, un orgullo para la BUAP e-consulta.com",
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
@@ -366,6 +396,16 @@
       "group": "estatal"
     },
     {
+      "title": "Tras detención de ediles, alistan Concejos Municipales en Esperanza y Tepeyahualco, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWXFpUlRSdjFyZHlVRTlYTFVVUUVnQmhITXVpblREdjh5RFdWZEMtSnFrSEV4aWU2ZTlnVEJfLVFPR1k5MEN3dFJNNzZiMmdPbi1zLTgyVTA4UnpXRFc3U2tadkZjZ0pqMFIwd1hWWFVZTGtXdW0tREhVdHFBSGRFSEY2VmZaeEhleWZrTTV5dmRPS2dmeGJ1N2haM3RyczI4cG5oS0lyaWZMZlp6SjlaMVk0LXVqcXJUWV9hZHlMNjAwZ0c3VnVsdkVPZGpTcmNHVUVqQnp3?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 19:30:58 GMT",
+      "description": "Tras detención de ediles, alistan Concejos Municipales en Esperanza y Tepeyahualco, Puebla periodicocentral.mx",
+      "source": "periodicocentral.mx",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Desaparece Hugo Alejandro, estudiante de Administración de la BUAP",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3dpOWx2QW4wUnFhMzY4YWZnRDA4Z2JpUlFGVHFoUXlhczJsU2hWWE84c0R1M183Q2hvWE85RWhCdGgxX3BmVllPZWZZZ3gyaVBuUWdHSUVkRzNUcDNKRWVLSkt1N2pVWF9oa1ZZYi1iVS0tTGRPTTdINmFLNHpEbWd5blE4SnlXVlVRV1I4Si1Ua3lnbmhNRDZHZ3VyMmZBVGdNaDlMNjF2RThPZlE?oc=5",
       "pubDate": "Tue, 08 Sep 2026 19:12:34 GMT",
@@ -396,21 +436,11 @@
       "group": "estatal"
     },
     {
-      "title": "Caltepec se prepara para su segunda Feria del Mezcal 2026",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmhmT0FWQTRxWEZFV1k4dzhGZFQtalFzU1JlZmotUmxkTlhCeUgxUEcxOG5TdS1DUmRuZVN1a1NSWU0wcGcyZjRyWnZUcnZpOWVpSU5XbFktNjJSb1VTZTFjQjZYaTNmbklIS0paU2lxOHFVTWI4aVVlX2pOVEt6U2o3MGJOODI5Nm9raDJYeTZYa2pOYzNkYndicjJyaGh5?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 11:28:00 GMT",
-      "description": "Caltepec se prepara para su segunda Feria del Mezcal 2026 Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
-    },
-    {
       "title": "Tony Gali; la confesión, el cónclave, la persecución, rupturas y la tentación del 2027",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWpWQVNScUR5Mnp0VFpvbnNKUzBCSEdfZU8zb3JoVWtXc1p6dml0eThuN2VZSk42elVNZEtKTTU4R2M0c0k0czJ4dUJsZ2NwYV8zeUhTSzc1c0FhcUNiZmhuUmdyTzk4NTFEOWVmOXdIRUd3ZFdOd3l4N0szVXliS256alNRRm1iOEFkTGVWREY0QXF2ZnpOdVM1Sk44ZnVqbXROc18wbXh3OElDMWlvMGZLZ1Q5UE5QY1VfSlJyZmk5akQ5QlNmSVpKbEZ3UmFhOGRoMzJ1Y3Bydw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:00:05 GMT",
-      "description": "Tony Gali; la confesión, el cónclave, la persecución, rupturas y la tentación del 2027 Intolerancia Diario",
-      "source": "Intolerancia Diario",
+      "description": "Tony Gali; la confesión, el cónclave, la persecución, rupturas y la tentación del 2027 intoleranciadiario.com",
+      "source": "intoleranciadiario.com",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
@@ -419,8 +449,8 @@
       "title": "Se requiere una política fiscal para el crecimiento y el empleo, no a favor del sector financiero",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZUpaako1YXhQbXFScUR4RjhaTDBVRHVIM0YwVEVWMEQ2THczbXZmWGVhVFFQM2M1U29TRXdtbFh1XzFxeDlFb21NRndxTDR2UFdBeWdxMy14M1lZYVpZWW0yV0RTM1VYbW11amd1cER3cVdVYWd4X2k1d19EOS1GX2dlblhnUVZaTFN4MmRLcjN1aUVueEtjMDFoc3Q0ZmdoN1BDUDEzdUNNRzZxTGhQQnVKTi1nM05jcmhVQm1VTmRaenNTXzJrdC0yeEhLVnVYcUhLV3l0WVFDdw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 09:00:25 GMT",
-      "description": "Se requiere una política fiscal para el crecimiento y el empleo, no a favor del sector financiero La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
+      "description": "Se requiere una política fiscal para el crecimiento y el empleo, no a favor del sector financiero La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -446,31 +476,11 @@
       "group": "estatal"
     },
     {
-      "title": "Alumnos BUAP desarrollan cortometraje “La otra pirámide de Cholula”; visibilizan lucha contra contaminación",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU2pVaEtRdi1uRXl3bVg4YmlvQWd5R1Y4MTZ4VVRwZU93bl9IbUxZd0tMdnlISldwbGJqWWJTYkJXanJ0WDhLV05OVldEVTliUms1UHZlcmxRdE9FM0Z3bldDaFRFV3FZNmJJa1Bjd29INU1Ub0pvYzJwMWQ0YmhxdFo4QzdiV2k4RnFKVjRyOUp0c1ctMmowNXAycE5yWm1Ic3dWZ2pjRDVXY1FiTnI0ajhOdkFGLVhtY2N2RDNQaG9MVkJpN3dYcUFXcmx3VTV1cVVJRDNndjhNd2ZCeVpZYll1R0tPNWVu?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 01:58:10 GMT",
-      "description": "Alumnos BUAP desarrollan cortometraje “La otra pirámide de Cholula”; visibilizan lucha contra contaminación Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "No solo fue detenido el alcalde de Esperanza, sino también la directora de Seguridad Pública: García Harfuch",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdTVSVmQzSXhVVk9SODFreTRhZXdhYVlxM21mTlZSN0hVVXdqOVFIYnBRRU1XSzNEOTRwcEdVLUtJOHBwcWtseEY0c0tiX0hlSVN5Ym1fMkZQeGx0SnFmWW81bS1DeWhUTjA0cWNYdUhRLVpBcDFUQTZNaWdqXzJYb3kyVnZyc0VRX2QxM1lUT0hNX19tZXBucmlKUkdwNjVzRGlXQ2docjVpRmJ4bndlZUNyYkdfLW1GaU9NWldLRVc?oc=5",
       "pubDate": "Mon, 07 Sep 2026 19:11:52 GMT",
-      "description": "No solo fue detenido el alcalde de Esperanza, sino también la directora de Seguridad Pública: García Harfuch La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Cae el octavo alcalde, ahora detienen al edil de Esperanza",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdWJVTC1tc0dhczVkLS0tV3BCYTF4dUhkNElEdVpCX0RuOHN2aTVIV3hGX1VsSThUZzAxRndiUUhNenFCM0hNY052ZU5RUGNCSVc2Y2lrTXB2ODVCN05aVHRwUDlLT1JvOXdYNzlUX2hqaGlTNTEwWk5mMDc3LXVlbW41aWpKNElLUUo2N0U3azU4UlZUM0RQVXJEYVRmdG9sRTh0Wk9B?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 16:50:20 GMT",
-      "description": "Cae el octavo alcalde, ahora detienen al edil de Esperanza La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
+      "description": "No solo fue detenido el alcalde de Esperanza, sino también la directora de Seguridad Pública: García Harfuch La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -489,8 +499,8 @@
       "title": "¡Buscan al héroe! Salva a niña de ser atropellada en la 11 Sur de Puebla",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWFpBYzN3a21hU3loTjhRakFyTWRvVWhjWm11TXo1OERTaUtVTWZhdE5NYndTbDd3a0R2ZjJva1pWZ1RDZTRYWUxKVXkwcTNlQk5JWkwwSHlSLVYxNkQyVmdVTjdGV0tBVzVwRnhRTTExY0lIcUFxM1p2SkQzM1A1Z1pONVFrQ0RlVjY1Q25oWE8tMGVRT2N3STZHdGI2dUpfdG9yNlIyZGJ0V3pZelpqM1lDNTNfTnZqVUtNZnhB?oc=5",
       "pubDate": "Mon, 07 Sep 2026 14:36:47 GMT",
-      "description": "¡Buscan al héroe! Salva a niña de ser atropellada en la 11 Sur de Puebla Periódico Central",
-      "source": "Periódico Central",
+      "description": "¡Buscan al héroe! Salva a niña de ser atropellada en la 11 Sur de Puebla periodicocentral.mx",
+      "source": "periodicocentral.mx",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
       "group": "estatal"
@@ -499,8 +509,8 @@
       "title": "Morena está perdiendo el voto de los movimientos sociales",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkhXSnJzdUYxYU5GWnc0V2JaWk8yMGhBaFFMT0hib3FmN243cjZIdFNENzZXM0dJOEJtX0p4VVBoMVBFd3kySnNNazJtMTVVM01XOXJ1eHJ5OVhJcW05VG83ZUJxSFgzMmVZYlRzRmNVZmk2eWlta2N4NXhCdE9wOTVsN0pQVU1Gc054TUlXNEZTRE16eGJxYUo5LTN0OFFoTkdlYWhB?oc=5",
       "pubDate": "Mon, 07 Sep 2026 09:00:01 GMT",
-      "description": "Morena está perdiendo el voto de los movimientos sociales La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
+      "description": "Morena está perdiendo el voto de los movimientos sociales La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -509,8 +519,8 @@
       "title": "Grandes pérdidas",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0swaDlaemUtQ0hjSXRFcW13cmI3U19CVWNFQ3l2aFZZQ09Rb1JWMXZGMWZUQVF0OFg1S2xEemZtZEx3dVB4RkpsYkVPanF1NzZoSWFqZ3RvTjNGeUdyYXoxTVNKX2xsd1R0ME52NlM1U1Q3empzbVNqVk9HVGhTYjdn?oc=5",
       "pubDate": "Mon, 07 Sep 2026 05:34:46 GMT",
-      "description": "Grandes pérdidas Intolerancia Diario",
-      "source": "Intolerancia Diario",
+      "description": "Grandes pérdidas intoleranciadiario.com",
+      "source": "intoleranciadiario.com",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
@@ -526,11 +536,11 @@
       "group": "estatal"
     },
     {
-      "title": "Indígenas rechazan a usurpadores que les han quitado espacios en el Senado",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX2tDTnRMZ1pvallsS01BZndwQ20tYzFoemJ5VWhhRGowTDZLVVRyNnQ1VW43VFVfcnNISHAtMmVlbmFoVl8yNFh1dmc3S2R4bG5qUTFwSGY0TnBCa1ZwX3dDWU03Q2F4M0duN1NfbE55Wk1NLWl1aDY3b3hPdUt3TGxIX0FXNklreXE4UTJNZ3c0XzZRdUtDeGNXZ1pvcGdqbUFqOV9GSXpKRnZveWFXZkZ0ZWxpb08xQTdOd2lNY2p6VUFodFRCQkRNTFh1aGk4MVdwNWRpLVRaOVlrRkYw?oc=5",
-      "pubDate": "Sun, 06 Sep 2026 22:08:19 GMT",
-      "description": "Indígenas rechazan a usurpadores que les han quitado espacios en el Senado Intolerancia Diario",
-      "source": "Intolerancia Diario",
+      "title": "Golf y Golf Estate, ruta para recuperar el empleo en VW",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pclRQd1FHaW90THRXc3p1c1Y2RWhHV3psNDJyQUY5S3o0ZFJEa3pGeGtzRWRncW5EcWpYd0N5WHhMcFZIeEwwZHNsY3NSb0xubmpXTFcteU16OVpEeHVWMEFSaVRsWFRWSlVmUk50UHVJYmJpWnEwVlJn?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 04:00:55 GMT",
+      "description": "Golf y Golf Estate, ruta para recuperar el empleo en VW assets.intoleranciadiario.com",
+      "source": "assets.intoleranciadiario.com",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
@@ -539,8 +549,8 @@
       "title": "¡Escándalo fosfo-fosfo! Tony Gali resulta dueño del predio de Dimont Motors, ligado a “El Amarillo”",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFRFLXljODFjZ3ZkRUdqMFZfbWV6WXUydXRhQVZ2WFFfMjAyaHlhU3c1Y1RtRDN6VjFYUmpMbU5weC1CajZyUnVBYmI1VnRBOWVZYzhETWZ2MGIzUUk1Zk1fZ2dEOTNJaFdfYzJXaDlvNVVOdHpnNGdsLWtRTVhoODNOYXZwUWRBbWFIOG82V3J4RGF6OE4teEpSQjBncjhSX0JEZUtRNHpZbkxRTFZ4LTBqdUxCOTN3OExnZ1lfbHFZMlN4MDFWaG1TRm9RQTlzTW53eWpXT3dFYjFCZUxN?oc=5",
       "pubDate": "Fri, 04 Sep 2026 10:00:00 GMT",
-      "description": "¡Escándalo fosfo-fosfo! Tony Gali resulta dueño del predio de Dimont Motors, ligado a “El Amarillo” Periódico Central",
-      "source": "Periódico Central",
+      "description": "¡Escándalo fosfo-fosfo! Tony Gali resulta dueño del predio de Dimont Motors, ligado a “El Amarillo” periodicocentral.mx",
+      "source": "periodicocentral.mx",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
       "group": "estatal"
@@ -559,8 +569,8 @@
       "title": "Inician en Puebla festejos del 216 Aniversario de la Independencia con Bando Solemne",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVRWQTdOaWhkYmFWRzZIYzItYXV4Mmc3VC01M2x5dEJaQ2NNOVhsS050OThjR1VCMTNJWWZyVDNJNlNLWWUtR3NoV0hYRmFBSmdVNURrM3NDRFh0SmlzZE8tUFFQWmItTFlUSG01VE1YVzNIVVEtb1hUWmZkSVJvZnloSkQ4Q04weE9IX0RwaXRsRHNqV3llVnVrVXQ3STg1NHVVUW4xMTZGLWVZcXg1TzRGUDBMSWRrMG4zeHR3U3J3YVk0WGFTbVJB?oc=5",
       "pubDate": "Wed, 02 Sep 2026 00:42:10 GMT",
-      "description": "Inician en Puebla festejos del 216 Aniversario de la Independencia con Bando Solemne La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
+      "description": "Inician en Puebla festejos del 216 Aniversario de la Independencia con Bando Solemne La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -596,6 +606,16 @@
       "group": "local"
     },
     {
+      "title": "Ponter al dia, ofrece descuentos históricos para regularizar vehículos en Puebla -",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHhYRm9pQnBFRTg4emtfbHVuMlZkcHd6Z1hhRTJDVk9pd3hFT2lKeW1yenExdXNsTjBOcnh5TGhKa1ZPMFk5Y0xxeUN3anFnazBHbHlDbDVvMTFzSnRYRTZVdUhrRk90U2tucFFlVkNteU5zaExYbDVlRzRWYjFONGZ4NjhVR3FQM0pZYktOMm0teVdnRlVVVEVDRGJUUDVOUGhPMS0wRXZpNTV6OVgxUEotV0VCZXMwSmZ3ZUtHVXlVT2c?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 02:30:22 GMT",
+      "description": "Ponter al dia, ofrece descuentos históricos para regularizar vehículos en Puebla - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
       "title": "Regresan a clases más de 100 mil estudiantes en Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTZkNvRnZ6X3RMQmZsUkJENld5SjM4aWgyelVLbWZuMG1PekYxV0x2X01lcnpvS0M0S3BZTTdtZFQ4QzgyMU5UT1JBX19hZDlET1YyWDVETXE?oc=5",
       "pubDate": "Mon, 31 Aug 2026 20:56:14 GMT",
@@ -604,16 +624,6 @@
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
       "group": "local"
-    },
-    {
-      "title": "Volkswagen México en crisis: aranceles, despidos y riesgo de huelga",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWVpURW9DTFlkd0RlZGJDRy1rc3Q4Qm9GQ2sxZG5aSDNjZ3ZlM2tFLVRwOUdEUUxMRW9LR2lZWFpMdExZTTRrVzJZZnZ4amNVRkJHcmRWTWN3bExRWElCNXR4MjJDaFFyWEo3RFByb05ZX3lmRlVhWVpsMmNfQ29ONWxZRXh2amxXSUdxb3h0VHJOLTk4NXpvcFBTT29uNHR5WC16OGdtVksxUQ?oc=5",
-      "pubDate": "Mon, 31 Aug 2026 01:53:08 GMT",
-      "description": "Volkswagen México en crisis: aranceles, despidos y riesgo de huelga Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
     },
     {
       "title": "Detienen a Yeudiel N. por el feminicidio de Karla Valeria en Puebla",
@@ -696,16 +706,6 @@
       "group": "local"
     },
     {
-      "title": "Abre IEDEP convocatoria 2024 para licenciaturas en sistema mixto -",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHdGSG5PNVpJak5nTXEyNTNzWVJWRFZoT3BnRS1HX05SZzEyalBLb0kyeFgxa0JURmxybmcwQXYtRUliUF8xQVRyMU1wQ0Npeld0cEVpa2YwQ3dQYUhkZ0VUUWJHb2dMMU9lbEh2N0VSVm01NEJjZXlNM244T3puQ18zbHBQM2VJSk0wZGp2SkVSaHN1M0tWeDBaOVVUT2lxN2RnSTZCUzhfeS1HU1d3Sks5SXY?oc=5",
-      "pubDate": "Mon, 10 Jun 2024 07:00:00 GMT",
-      "description": "Abre IEDEP convocatoria 2024 para licenciaturas en sistema mixto - diarioelunodetehuacan.com",
-      "source": "diarioelunodetehuacan.com",
-      "outlet": "El Uno",
-      "domain": "diarioelunodetehuacan.com",
-      "group": "local"
-    },
-    {
       "title": "SE TRABAJARÁ CON LOS DIFERENTES SECTORES PARA MEJORAR A SAN ANTONIO CAÑADA(video)",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWZOelpyMjZ0bkV1b2RMV3RvUHJ2NElHUGZVeVZTYzdKRzdKZFl1bjRnbFRNdEpCVXZPQWpCd21ORXJQaHZvM2hPQm1hUVZXa1ZydUhsTW1OalFuXzJfdzY4UzRHMDFocER6SGVOclZuZDhaNVo4UUM1dDlVdkZkbUR3NzZLMTREUGg4MV80NWdueEVmLUdjRFRGb3NKR01aUTcyc2lmMDlqd3cwbkHSAbMBQVVfeXFMTXpiM1dzOU5vRVdXVzE0Ym11cnZyRFFjTFA1dGVPS3VuZE91S0t2cFRlRE1PT2t0aldZWGpkSUJoaW9EMGQ0UWNHbDY4OThqMnZ5NXNwVTZ5b3NmRmNUTGQxR1ZLU0FJaGc1ZTViVk0ybWt4eGlDTzhEWFNPZy12b0VpNC0wR1RhT054LWp1N0xKUlVGY0Q3NFplVWlZOXZ6bVRhOWtZbDJHYjR3a3lOSndUa2M?oc=5",
       "pubDate": "Tue, 19 Oct 2021 07:00:00 GMT",
@@ -739,8 +739,8 @@
       "title": "La Jornada de Oriente - Puebla",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZHhfck41UWxfLWVldTdVRFhvc0ZOZWZQMElqSWIzaUNKLVUwU1F3RlVKZTVkWklzeDR4SFZsa0ZvXzdkU3JVYXZFbmNjUVE?oc=5",
       "pubDate": "Fri, 11 Oct 2019 20:52:50 GMT",
-      "description": "La Jornada de Oriente - Puebla La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
+      "description": "La Jornada de Oriente - Puebla La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
