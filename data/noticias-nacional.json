@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:23:32.760Z",
+  "updatedAt": "2026-09-12T12:27:30.499Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,22 +58,58 @@
   ],
   "items": [
     {
-      "title": "Miguel Inzunza, rumbo a “NocTournos” en el Cantoral",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb20xSGFPNnQ3eXBFd09oOS1HVllKaVUySFd5SUpRdjB6ZF9TMVpZZW9BVnQ4X1BTUzFtRXFwY245d2hDVTl3YWFsMjlNMnB5WE53NEo2SDRBUWhxU2w2ZUJkZjZwSGQ1SWpKTEY2ZVJlWTI2U1cwdktpVnBoVjd6dDJtZnBCcVB0QTFVVzlhX0oxSkZJZU9kNkNSd21UcG1LSEZfcVI5UFg?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 05:16:07 GMT",
-      "description": "Miguel Inzunza, rumbo a “NocTournos” en el Cantoral Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Frenan a SEMA por asumir atribuciones que le corresponden a la Federación | Grupo Animal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVJjU3lZRHFsYWtDNTZRTGFRSFpTZVNDekJMdmZOYXFfUFFFaUNBNWtuSVE0N29IMnpKQlpaSTdwanptSjEwdEdZVEVHcXJYZEt3d1pNSXBfcjdMcmxYUTBTMzk5YUJjZ3lXMzlBQnlRRGNaTy1ZV3BFeVpqRXh5RzIxdW1EVklhVzM3cVpFajZ6NGZ6VW4zbG1qbGdlblZ6QlE?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 11:02:43 GMT",
+      "description": "Frenan a SEMA por asumir atribuciones que le corresponden a la Federación | Grupo Animal Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Apoyan mexicanos política antinarco de Trump, según sondeo",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0ZzM0pnWm1Rc0I2Y01tbUE4XzVQLUR4b05xU1dMdnRnTVBoTFM2WjFMeGZZaE4zanhHZjBHdTRfVXo1Z1NIUUFzZm8tUlMxZFhsb0xFdU5vTGVnOUwwY3o1OUE2dlRuMnk1OUNGUzVtRlI1YlAxY2F3S3BpQlAzakNGQUxCeEdtRnNtSEVGQlJ3ZExyU3c?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 06:49:29 GMT",
+      "description": "Apoyan mexicanos política antinarco de Trump, según sondeo Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Carlos Ulloa asegura que “compra de inmuebles fue con recursos acreditados”",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGdndXMtd0ZOUi1yekRuVkRMNl9pU0JmSUhBbWlQWkRNRDlJaGlBbWVfd1BlZ3lwbHVnRUZRT1VhLVIxMHV6R3pjNDJvV1NoMEdvSVZxUGx4blh3cUpEa251d05Sd3pXNC1rVFEzQjk3bmppd1JMZFBwVElzTXd4NEFjYm9Rd2lPU0ExRV9hSGtnTHowWEpkaGszSUdnNVFWZGNDQlp2TmFWWmlRRXVyLVpNU3VuZ2wtYUl2ZjNHNXZ1ZTdMaGJsRko4RnQ4YW9obkhCRjVHREs5Uk1lamlvcXktYldaeHVHSVQ4ZtIBgAJBVV95cUxNYU9JT2tzdTZkX1hJNWZHNnFwdG9aVVpiLWZqUmJnV0tqTGM4ZjNBNkxtWk1CVTdiYjlnVTYxVHAwX3VHR21CUVZFbnluRnpQZDVxWGkzY2ozNzBSZ0EzLXV3SFFyZlRoNENINjZzckd6RUNTbG9SX3Rmdy1aVlBvMlNJbU00alVhQy1raFlJeU9qckhPLWI2bEdSWDVxMjRoUnpZNDdjVVdDcGpCUzc3U2VWQ2tDVHZ6Y3pmd0Rxa01rTnVJRzZSYWlIWDBDbnFWVV9BY3pVQ3ZzMGdndVFfaEo0RXpvcEtUOFc0RmltRWhvWkFQNUNaTThKMmRpZnE4?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 04:30:00 GMT",
+      "description": "Carlos Ulloa asegura que “compra de inmuebles fue con recursos acreditados” El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Reanuda operaciones el AICM luego de 3 horas",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnNUS0tzb1RGdEM0ZzV0ODlsLWtFVmVoRWpxZFJDUTBzbWpJUEhPQ0ZpQkZnQlF5MFRhQ2pCOWg0S0NLZXdhVEEyNkJGSlZYV1VMUm9ublltaE12czNvemZJckd2djJydUhGVUNNUEhnZklaZnhsbmw5NGF3TjZSNTRobUU?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 03:54:29 GMT",
+      "description": "Reanuda operaciones el AICM luego de 3 horas Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "Suspenden despegues y aterrizajes por tormenta eléctrica en el AICM",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQXY3czVkanYxSXJtRFZjRjBuLXVBSF9UZ01qbVdpYVF2eE16ZlRJUThyUl9jakdJRHdJR19SdVVsLVRfM0NIbnFkRjVjdWV2U3hvZzFBZjFnYjZ4MFNwT2pvRnFQVzR4ZjZFcDdueEpCQkZLdFgzaTdBNGtiaEctbUxSQmhVMHVJZVJjZlVZYkZsRmJUVktoQ2VMX1VfSThjbEVQeVlPSEpMNk5CZFIyQTRQX1AzQW85Uk90YS1xMVhUeHhxRVdKWjhn?oc=5",
       "pubDate": "Sat, 12 Sep 2026 01:21:55 GMT",
-      "description": "Suspenden despegues y aterrizajes por tormenta eléctrica en el AICM Proceso",
-      "source": "Proceso",
+      "description": "Suspenden despegues y aterrizajes por tormenta eléctrica en el AICM proceso.com.mx",
+      "source": "proceso.com.mx",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
+    },
+    {
+      "title": "EU levanta alerta de seguridad en Nogales, Sonora; pide reconsiderar viajes a la entidad",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcDg2SkdUYkIyRGIySG9ZNElWVE5ZRnFfblYwNTN2bEs3dGVBYUNIQXlCd2hLNXpYLVBHeDVLdVlRS1FZZVQta29lTXlsUFlicFlEREgxblQ3YTRuQ1VSWmVGZFFkZWlkaXVkcjl1M3FxQzVuMmJLN1E4aExFbk5Na0dfek1wbkRvODBfeFJ5VmNlQzNod1JrOFR3VFNieTFSV2lGaGhPc3oxU1FyWndmVmlGUkJtczJLTXFPUnlObkhQcHfSAdcBQVVfeXFMT2o1WFdpN0Z5ajNtMG93a05iNy1RcUgxZUtPVlNIOEMxSEppMkNNbWdiS0ZNZG9EY2MyeFdIS19qU3dxejBNZHRacDVyZ2xZR0E1X2twTmx6TTQxbkFZdUpxT3NGbFFmckRPUWdWbVBjaVQ4SWRyV2V0VWxRZHNPcm5OQ3V2RzFfcHpYMXdTakJZTEZwYUx4VWVGX3pGSFFqbS1uSDFLdF91VHFFaUNtbTdmaVh1YnhzYzBNbjhIanJMcUE5aS1yb3VLelFfb0NXMlVmMGJXR1k?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 01:10:44 GMT",
+      "description": "EU levanta alerta de seguridad en Nogales, Sonora; pide reconsiderar viajes a la entidad El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "¿Sin visa, pero con candidatura? Así revisarán a los ‘aspirantes de riesgo’ para 2027",
@@ -88,8 +124,8 @@
       "title": "La obra ‘Tonter I.A.’: ¿El clown como antídoto tecnológico?",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLXF6Wkx6dE9HTXpTNVhFOEFXVlM4aXB0MERqRnEzdmRfaUZqVXB0cnI0ZDlQcmtTZVZDSjZMRDhCa0FmeGt2NE51Z1JyRXE2ZHZHaFpnYkktNzZQX200d2M5NHFNeEdZSEZvU0wzRUhmY2hRRE9MTklFUXIxcFd0WnRqVzRyTUcyelItczhlVUQwNjZEQXoxTlJycmNUVjY0M1dLZWpZelNOeXNRTkE?oc=5",
       "pubDate": "Fri, 11 Sep 2026 23:04:40 GMT",
-      "description": "La obra ‘Tonter I.A.’: ¿El clown como antídoto tecnológico? Proceso",
-      "source": "Proceso",
+      "description": "La obra ‘Tonter I.A.’: ¿El clown como antídoto tecnológico? proceso.com.mx",
+      "source": "proceso.com.mx",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -119,6 +155,24 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Reportan otro derrame de petróleo en el Golfo de México",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVVlYm1vcXZwNmFLME5aTDFZWjRBZ0VsbzNtWExlZnBSeEpqYnVoaXNabHhGbzE0VnlUTERZci1JazFNOTMyeG0yZ3VoSE81V3dobHRtRE9RVTVTU1hUb3FnUlNyWngwVnI0MlBuajVmWVZmMHZJb25wRHlKSGlWakY2Z2dXdm54dE5YcnNlblhEVVU?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 21:17:51 GMT",
+      "description": "Reportan otro derrame de petróleo en el Golfo de México Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Sheinbaum critica presupuesto del INE para elecciones de 2027: 40 millones es \"exagerado\"",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUFMMjhBbzN3M2NXMWM4ZVJ5bG0wbmNNNTVRR3c0MVVIUFk4blBYRGZWbC1IREZGTEVEZ0tUM0N2ak84STdWMVdpWmhzcTVYN1RTZ3JMMXMwNXNBd0Q4U0Nzc0gwRU5Ocl9sTE1ScXJxNW0zUzI5b2tWX2xCWFNKdTdXNE5rSDNEQk9TMEwwWGhRRkdBZmtFUmtEenFHUnl1YkdVR0V1eFE1U25hLXRreU52ak1sMHpidy13SGVGRDYyTUdkalJVUE95WXVxM2p4NTI0Ym8tY1lzWTda?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 21:01:00 GMT",
+      "description": "Sheinbaum critica presupuesto del INE para elecciones de 2027: 40 millones es \"exagerado\" proceso.com.mx",
+      "source": "proceso.com.mx",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "Advierte Johnson amenaza de cárteles al recordar 9/11",
@@ -166,15 +220,6 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Cae Tri Femenil y queda fuera del Mundial Sub 20",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYmxTeGhBdkpqYzBWN3F1Y004Qzc0QmlRUVg3U2FSLWNXc3ZqTVdJQmhWTTEzc0thczEtbkY0ODNSN3BxWGdkQWZ5WmFfTzdMNHM3N2kwSFFzTEFBN2V4dnU1SmJSRmFvQWFSOWJhYVFxZ2pwNG9aajdNVV9QYmwxdW5BSWdraHFUenc?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 18:09:26 GMT",
-      "description": "Cae Tri Femenil y queda fuera del Mundial Sub 20 Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
       "title": "Sheinbaum presume reducción del 64% en homicidios dolosos en Chiapas",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRVJUQTg4a0YycDFXZjNscjB1cFExYlJnS1ZyUW5LQ1ZFTlcwdkdJMkh4SV8wUUxJalZqZmlVSlRNdmQwX2dQSTg4TTc4UktLMFlRMjBVOXVfQm9wTzltb3NzVFVlcGVkREppUGg0NXNxOE1jbHVDRjNLXzBuQ255Z2k0WGhBd2U2cExib1hoaG1VQWZ5aUp0TWRHUdIBoAFBVV95cUxObnNOc0EtMnR3dmotU0k1RUI4Njl5SnZSb3k2b29wSUxXQ1lhN0piUlVMaldmT1RXa2RxZmR5YWdQYmRiQlhwYVAzeTkzdVMwdUtzTlVzNnVIVXdiTngtUzM0aXpNTkFnbVBCT2VZbkRGZGxETUdyYmltYnlUUmtoZ3pWVHBIa09ZaGZaZ2dnUE1HeTJNS21Da1ZCMFFibTR3?oc=5",
       "pubDate": "Fri, 11 Sep 2026 18:05:51 GMT",
@@ -214,8 +259,8 @@
       "title": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTVlYY1EzN3c2LXdiLXI0RmpmMy1rYWlNeEN0bm8tX0lzSlNNc2pSODVIaVhDYVV2U2FDZnNyYm5ha3JEOHdJSWZOTi1YUzQ0NHFUZlcwNWZBNTFMdDk0WTR2RFpiZ25Bc0FxdF9RbW8xMjNxU3gtRDl3MlBDVERiRXNib0MzTFhOaUNjTTVjSTBJS0F0YW93LTJqTVN3Z0pDSzVFbEdGSmxwdlVxUVNfZWlpaS1Bc2JZTHhFS0NmdWltNDZ3ZU0ySUl4enE3S2JYUU5BWng3dmExN2hxM0NXQml1VzZTTFpwR2d2VzdVV1NSZw?oc=5",
       "pubDate": "Fri, 11 Sep 2026 16:13:29 GMT",
-      "description": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia Proceso",
-      "source": "Proceso",
+      "description": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia proceso.com.mx",
+      "source": "proceso.com.mx",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -224,6 +269,15 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJpMkEtb2w4UE5fRTAtaFUzVHdrMUxpSC1Jbld3dFl6VVRGZ25YRkRwVXYteGc2YUtZb0hSRWZPMi1tdGFaU05Sa2k1MWlpQlRuX1F2VjBtUDN5WXhNTnczUVN1dExuN2JmTkRSMUMtYVItT0RDcDdMamtjQmRNTjhjWG56azEwQ1cyMU9tU3lBalNSR2t0MVBxRXhHcXVoVnpUS2RVWFZ5eGpSZlVrWVhCUkh5aFpkNzJ0aTNFWE1jQW41bXd1UVhkZS1faDhMaF90WHlLc0jSAd4BQVVfeXFMUHB3N0ZYMkdpYlk4TEJJVjFsd2E4OGlDTHhHNzNGcW9xYURYVnVpR2pocnB3WElpb0NFYjVHeS1GaG52ZVZkQjVSUU8wQ241SmxOYXpIQk1zd0ZLRGg5WHN5VjlvTmoxUUtJbC1GYnJIU1BlR2hhSUthVmRPUUdqc2RHalZJa3hsMUdEam0zZXpuUXRvY2k0ekNMdVd1X29QbkJLa3FDdEVoLXgtekFJWjBNZTM1NVg5VnRQeGE3R0ozeE1JamNUM2djN0dFMWVyeHhjMzh6dHFVRDZNaHV3?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:21:26 GMT",
       "description": "Los BRICS instan a reformas en el FMI y el Banco Mundial para equilibrar los pesos entre países El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "La educación, atrapada en un diálogo de sordos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVlZNGZGR2xvVGRHWFN3Uzk0TkpVMTRyYjlHWVRvQi14cVAzQ3ZqXzBRTk9Wc0JCWlpnd1Atb0dKR0pHZG9LZGhhd1R3M3l0MVFqaTE1LU9aaDVoLTN1N2NySEppdF9kcHNHWFZiTHU3dVNZbnBhNkNRNmc4LUF4STdZeUEwYU9KSW1jRHZlVjNuQmt5ZUJFVk530gGfAUFVX3lxTE40bUQtbVVYMm91NzNnZW9MS2VXNl9USGk3ekJQcUhXT004TVhBbUlpcjJyLWZHVGFwYmNDWXdkSlhIcnpsMEphVXg2M182VkR4WG9vTVFNSzFpczRUWUJjLWU2dms2SWs5MjJ0ZWh2MDdTM3JqLU80MGtZWUNXOWlXeXJURDB1QlEyaHR3VW5EZzZad2pYVDdHOGtiS2lsbw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 15:16:11 GMT",
+      "description": "La educación, atrapada en un diálogo de sordos El Economista",
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
@@ -256,6 +310,15 @@
       "domain": "reforma.com"
     },
     {
+      "title": "México y Washington se apresuran a alcanzar un acuerdo comercial antes de las elecciones en EU",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkw4MlF6VnNYcnlwQkJRN0diR3NMSFBJZmJXSFNaTHVKdXhfRkt2VmVNY0J2cVRYR1pNX2FPcUNtcVl2TXJrLXNHQmJxOS1HeGkwdGl0d2NtNTFFRVQtemVBWS1OOENWV0NOS2hKeWZIZTJxUHdfMC1aLXZrS3JzZnAybUl6aVRaWWdrUVUwN2xSSjZtWmZQMDhkdGNuaWxSWTNmZkFMVlJUcG5tTFJuQk1qOG5BREplN3FsVFFBdGdBQnV2VXlVWU5n0gHPAUFVX3lxTE84V0M0aVJ5WWZYVDl6OWlCWHVkWTFIY1ExMGhsM29CMENpWjJWeWtGeU5DM1pwNFlnTlctQVRRU1AyZWs3eFdNZ1MtT05hMWQwRWw0TVRtTEhYaUVlVVlralM3dUxHaTIzSi1FUy10clNqajk1eEg4Y215cU9XQUdLeEp3MzJTaGJxMldVbXRkR3JTNjNCWDBRZGRYNHg0NGNHa2JiTTc3N1J6ZU5YQnVQT0R1bkx5b0Q3VmNUZ3BTQnB3ZGtSa1J1a212LTFOdw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 12:45:18 GMT",
+      "description": "México y Washington se apresuran a alcanzar un acuerdo comercial antes de las elecciones en EU El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
       "title": "Sheinbaum da ‘jalón de orejas’ a senador Fernando Salazar por amenazas a periodista Enrique Acevedo",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0VtVjlXTDBxOENNVGJVdzhjRk5hTmFlekVQcHRtSGlXRUk2NFIyNlhBdm9hYl81RU02YU1TcUxjWGQ5MXNtUjRXLWJ1dWlBTzFSV0FjMTkzUmpzMHlvck9nanhnS2FRM3ZmZEktd3EySmhzM1QwaWY4OHBjZ1BTTk5DU2stVkp3c1RRVTJncnF0MHI1d3pWZGRBRTl6TE42bFZuUldOaEVXZGpqWFgweVd5dWN3TjF6Z3pRTUlXbw?oc=5",
       "pubDate": "Fri, 11 Sep 2026 12:30:00 GMT",
@@ -263,15 +326,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Templo Mayor 2026-09-11",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aTGl1cEV4MUJCdGd5MDk4Rlk4SjVwZ0d3VThqZXNzZ3VvcUowWUdpUUxaMWwtbk9ZWnlycVU5NjRPWVdTOW1BN29IcHZ6eEk5T2VsbEFlSTJtNnF4MWNEX2ZCNUY3LUhKR21tU1JVbmp3NVlKTUJj?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 07:34:19 GMT",
-      "description": "Templo Mayor 2026-09-11 Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Como el Tribunal, el INE ya se dobló",
@@ -328,29 +382,20 @@
       "domain": "milenio.com"
     },
     {
-      "title": "Revira Vance: 'si amas México, mueve tu trasero para allá'",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa1pnUlRxNV9ZU0xUN0hIZEF3QkJGZTV0NU13djZqYUhsNlR2Y1hxb09RSFlpVWM0X3M0REVNOWg5Ykp6UHowLXhKeERGYVlXV3d3bFRNcngzSVEyNldQeFlIck1naUMyOHBiQW1zbHBZM2dOdWNUQ3hJZFZNWm9hRDc4YlV1UHRucFg0Qmg4dV9qdw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 01:59:19 GMT",
-      "description": "Revira Vance: 'si amas México, mueve tu trasero para allá' Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Zenyazen se suicidó, determina la FGR; asegura que analizó peritajes y se llevaron a cabo 150 actos de investigación",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbGQ1VFR5RU8xTkROM3dxOGFRb1RYN0pDMTBVekE5MXlUOHU5M01CMUQ2dmc1ZWtNQVM3QUpTU3E2Q1BCRzVYRENEaGpweEtaMDZFMjd1NEdVR0Y5ZEJqb2xJSHQ3UHNwSTh2OTJfYVZaOFJIWVpWaXRTajdhajlnMmowczhUeE9DbU1zMWxWeGloNWlEMUVnVW9henRadlBQUFA3aW5YSW5PZkN0RTN6VmpNZGtaVVVWZm9YQU5lX1o1UGtUTW9qX180U1pxZFZMVmJqeUJqRkVxMGNiRWtxNVZEVGdNNGha0gH8AUFVX3lxTE1kQS1JSTQ3eUtHRUlfR0t6RmVlZlI5RzRtQXJBM21rQzFEMmtLeVk2eWJpM0ppcDdxS29kcVhuZlBCNHh0MjhTUGdsUlNnb2V2SlRRSGNjWno5c29sZGNMWXZTc0xYWG1Vb1B0UVhOQ2pSWTJyR0lRREtMWk9VZjJ2ZXE2ZTlGTnNocmU1em51MF94bmNiT1Q1dklhdTN1LWJfTG8yeWtGUWp2NGVILUFMT083QkJWSThOQmlmTnFSNjlUNnBNeGt4Y003b0FBekVwRGlieno1YVNIV1ZXb0M4Z05TZk5MVmx6QUdGNFlIc1o5bVM0Qk5wV3N4Mw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 00:40:00 GMT",
-      "description": "Zenyazen se suicidó, determina la FGR; asegura que analizó peritajes y se llevaron a cabo 150 actos de investigación El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "Gobierno de México ampliará medicina preventiva con 12 mil nuevos consultorios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sU1IwdklkMFdkeUg0RHNneTIwT0ltRmpXV0w2NUJnQmQzTGlCVkVTTW94dWxwMTh6NVFHRWhVNzNCYVloQzRKSTcyeGtvWUUyUDlCMmVhdDZVNzk2RjdRSnloclZTSUxYbEltdlpXX1ZxYWvSAXhBVV95cUxOOFNFZkZZTkNXNjhtOXBxZVF5UTk1dHM1U29LOTdlaEpVVHJscG14bTZjeTNQWHJMSWVJdFhSbHdSbEx2ZFFtQldNckFkcmpFems4RGZJMm5fbzYxMDBVdkg0dW5JeWQxRUhWUjE1ZzE3RWFGVEU3QVE?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 01:18:58 GMT",
+      "description": "Gobierno de México ampliará medicina preventiva con 12 mil nuevos consultorios Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Captan a Ariadna Montiel dando línea al youtuber Manuel Pedrero contra “Alito” Moreno",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLTRoZlBESnZqTy1zR2dST1FrenBtUHBfS3BVTmtGNFdnSUZMN0tkOXFJX3NUT0FIQlN0b2NDdHVtOU1oYzJlRHk1dFcxRFNaUUFCR0dSaDBtVXFySjdiQUhqWEVkSVNNbS1CZUQ1UW1FNm1iRlE2MkY2T0J6WENSa0NLaWZ4M01zazgyakhOSEZSN0dWR003UGdJT3FGc1JiMzZzVFMwRGxxdHFyY0F1WklUNnpvdU1MMEVNV2FYR1lSM0NUaVlVdXdlY2wtODVET2lETG1oR2h0d0ZnSmxQUjRSWVo?oc=5",
       "pubDate": "Thu, 10 Sep 2026 23:51:49 GMT",
-      "description": "Captan a Ariadna Montiel dando línea al youtuber Manuel Pedrero contra “Alito” Moreno Proceso",
-      "source": "Proceso",
+      "description": "Captan a Ariadna Montiel dando línea al youtuber Manuel Pedrero contra “Alito” Moreno proceso.com.mx",
+      "source": "proceso.com.mx",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -376,19 +421,10 @@
       "title": "Quién era Joaquín Ledesma el tenor que murió durante un concierto en Querétaro",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZTNGVVg5QUFjOUE3WXJieDFTNzJmTkNiLVpHa0ZOQjRtbGdwNHh1WUczTDJYNU9NS1hjRmFqcF9uSVhCODFHV3dxOUFXdVpxVHZMVUJBV1RlRDZFNzJza0sxVUVoUW5vMG51TjlwZ19tZ0tkTHBiYmd1M2pNRWZkbVoxRU9sRUNXMHdpeXVHcDBjRkxhQXVsNVpQZDJTRjZyeUhydlNuOUVnb1NVcEZ1RlNVRlVBWW1QWjBpZGs5c2dPUkFwS0FrbExCcU5ueVFu?oc=5",
       "pubDate": "Thu, 10 Sep 2026 19:46:00 GMT",
-      "description": "Quién era Joaquín Ledesma el tenor que murió durante un concierto en Querétaro Proceso",
-      "source": "Proceso",
+      "description": "Quién era Joaquín Ledesma el tenor que murió durante un concierto en Querétaro proceso.com.mx",
+      "source": "proceso.com.mx",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "INE da inicio a Proceso Electoral 2026-2027; Taddei llama a respetar a las instituciones",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOG1HWHVNX3BZYmwwTy1lclF4OE5rQzh5bGZPQk8zVldCMGZtZkY2WlV6bjQtUzVMbjFxUnNPaF91MjFGeDJ0NF8wZE42SGhjQl93djlSb3lEbmd6VEtvaGRjaHN3UUFQc3pWc3VjTkNueVlmLTRQT2pRaW5TT1lycTJqRUtfeGJ3dTlBSkZBbW1zLTZfX2xxZlZkbnhsQnBpQzRQbnB1alVjbTBpazdZUWpjLVh4UdIBuwFBVV95cUxOUjBXRWxrZG14SGp5OTRYVFJabDhNZEdPOFB6dEZ1ZkVIU1pmNXhGTXFFT0dnWFJ0eUVqcHdVR2k2cWlRTl8zMkpHQ0c5TG93SnZNaGxuU21mcERGbmlHVF8zMGJHSUJXZEYwMXkzOHBVa3JqUllWYjJGMU9TLVV5aWt3eDB6UERBUHNXLXdXWGNOUEdxeE9yZ1poRzBSV3ltTFhpV0VZaUdUWGNMb1hJUDR5VFF1Q0NBTWFv?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:38:54 GMT",
-      "description": "INE da inicio a Proceso Electoral 2026-2027; Taddei llama a respetar a las instituciones Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "NU lanza en 35 países su nuevo sistema de cambio de divisas y criptomonedas",
@@ -404,15 +440,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnZ5MFFldFhSZUtEZktNYXRWRXJNZ0hYZXFJRWlZODJrMkd5cFJUeExaOVF5S2gwelJwRnJmOGozSTVFczEzYmFRbk91ZXh3bFA0OUY5aVFLWWN3NGVESWptU2JOR25qM0ZKeFhKRG1UdWFQRG1HS0duUEJRQjB2NUtjVkRuUXc1Vk9aaDhtV19qcUNBQXlvZ0dQV0FPVWpDdW9MTG5hX1JENEh0bmlYMW0taU9Pd1VpdFhwU1dsZEEtT0XSAcgBQVVfeXFMTTZ6YXFYVTNSa1pNZmY2Q0dWLTQwYjd2LUN0TVZBSHlvMW1ieDNtRFZTTkNhYmdtaHBYV1pEc1FDZ0tlbU0xZlA2ZjVhNjJCdG91cDAtaW5HbkJaQmRfdW54UEplcGowZFFVbUxvZzFkdFE2eUJ4WkR6bFZ4U2R5dXBnbnJWbkRLRUUwZ0U2UjE4b0VzRkg3QWE5OTFhbm4zbXVka1lrWDM4SzRCSU8yZmVLYzRnX1dJV0pUQ1BTZi05dWFCdkk5LUw?oc=5",
       "pubDate": "Thu, 10 Sep 2026 12:31:14 GMT",
       "description": "La OPEP rebaja aún más su previsión de crecimiento de la demanda petrolera mundial en 2026 El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Comercio mundial de mercancías se fortalece a pesar de aranceles y tensiones en Oriente Medio: OMC",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQS3VUZHVtd3ltdlhmZzBnRWo1NlFEZG5qU040QXEwSUxnREttbTR0UnhoWEVfNExPdi1XdFN0MUFmVGlMSlJzU3dzaUNOV3p2alk2MHdNb012aVNpOWZkOGZUdVJNT2tKMkUtTUctWk52ZV9qNzV1OVZzQmJGZXNPOWZJdDd6cXNCQ0hBU3dFMllTYTk1TG5PZ1FQcmx1NnFrN1FFNnFFQ3VCM25KZ1FVV0k5V3o0bkw2d3BFb0k0dEVWa004T0J4NTF6dTBhUGhVd2FuakMzbnZJaknSAeABQVVfeXFMTlJyYW9SNEJYMDFPdEZvaVBNNGZpUlZJUDFWelAzemZEOEQweVhFRDlwaV9SbTRyVEFELVJkR2kwaVc4QUFmZGhhbk1CZkd5ZmlKV1BpRlVkRWp6bGx4N1Nwc21fdzlFU3AzcUJjV24ySl9yYWVkT2kzV21Zdzk3U1lubldmWk5fcDN0aElwS2phcDhDTE5YaF8tUi1seDhMV0hrU2ExVTlPUnJYcU4xY3hQbnRfNy1BUE1nbjh0X05MQVcyVnh6Ymt4NUJ3d2liVHdGNW90cm1kRW9OMmtucWg?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 21:43:49 GMT",
-      "description": "Comercio mundial de mercancías se fortalece a pesar de aranceles y tensiones en Oriente Medio: OMC El Economista",
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
@@ -434,24 +461,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Rentables pero con baja ocupación, paradoja de hospitales privados mexicanos",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ3VYSVlyZjllTGMwcWxtYkxzR0RmMjh3UHVrU3k0OVFjanMwLVE5RnFfVDJ0a3pfLU9zaVhQY1NHUDlob2JpX2RFVV9HME1YUkJCSWZPZlJvNTEwaUstaXdHQzNtV0ZJYnFzOWxfWFJqcVNKM3hsR2FjamhRWUNMcUN6b3BaaHdqS2FOamRWUHdnMmdVTnN4cllNcFlaYnlrcEQySm05TUlVTHlCLW83NkliaGl1ZnpPbThqd09oelc0d9IBxwFBVV95cUxOWkpTeVpvbHpERlpaZ3d4VnlRVElFSnZBNm1EUEctTVFLTmpaWUJIS01ZWE5obEhWdmpCb3l3Q2h3RUlKOG5CbzN4SVFTMTFiQnBCOER2d1d6TXRQc2x0cEY2QjdDTXptTHd3R05tT05kMnR0eW9EQnRaR0N6QWRWWW9kQUpBYkxZdHh5cDlmZmhKVU9HNVRmWmlHQzVJVmVkYm9vSE02SVJNMXd6VmRTMVBuaDdQVEFuYTV6SkpQVnpZTnNhR1Y0?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 05:56:58 GMT",
-      "description": "Rentables pero con baja ocupación, paradoja de hospitales privados mexicanos El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Con Operación Enjambre atrapan a 111 narcopolíticos; 14 alcaldes han sido procesados",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnR5UnRvWXgzU0xKOXdvTWhvSzhuTVk3bWpjSWUteUVMNTBlWWZYem5zMjZra3VsTVJER0VtUFRwa2lWSEo2NEhvUVNHSXJHTHFOZXQxSXB0SGk1QS1fSW5EVHVwTGV3M202SFJydlh3V0ZDbkw0Z3ZORWp3cVQ0S3BUWEE3Z0JLZ2NvUjJrNU1aVlJxeEN4aENNRTU3eExxc21zNlkwZHRDc0JxUzVCNFhEcFFvbjVIWGR1eU1zVdIB0wFBVV95cUxObEFFeWYwdk5USW1Gci04dWZPbDctWkxwaWR4TzlpaDB1NENFVVEyZTlMc3VzeUdtakxRRDJ5ZUx5amFseXA0cGE0Yk81MmNLaTlEUGtjcmo0dEZsX2sxb3hyZUZ4ZU00R1IyRW5YWnVkTXhJS3gzUE8tTlBaRnRMZExicTdGVGlZdGJ3UzZxU1pfTm9xN3RaNUNFcnFuNmtBVmRHRmZvbWlwYUhNdTYtdXJqcnJzUU1PdklVWk8wYldMZnFaNzZQcndYdk5fb3dIYVVF?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "description": "Con Operación Enjambre atrapan a 111 narcopolíticos; 14 alcaldes han sido procesados El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "México-EE.UU. realizan operativo conjunto contra drones en la frontera",
@@ -504,15 +513,6 @@
       "pubDate": "Mon, 24 Jul 2023 14:23:43 GMT",
       "description": "México destruyendo el futuro panel.animalpolitico.com",
       "source": "panel.animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Funcionario del TEPJF investigado por tráfico de migrantes busca ser magistrado en Chiapas",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1hZUHJCZzRqNmx5OW5HNkFPLXY3enpEanRpSnBoTzlBS3Y1VDJXQ29zV3B5MHRKdlFiak53M1UzZWxST1FORTlkamxxeFV1WXR5YlVpZkpoeldTTElXMy1fNjB2U0oxU0R5b2R0MWZKY05NM25MM245Z2hqamlkcVdJX1ZzQkZ0ejVUNW54N2JZVjFCUVVGaEYyVXE3a2d0UF9F?oc=5",
-      "pubDate": "Mon, 04 Oct 2021 07:00:00 GMT",
-      "description": "Funcionario del TEPJF investigado por tráfico de migrantes busca ser magistrado en Chiapas Grupo Animal",
-      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
