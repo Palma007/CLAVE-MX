@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:56:08.937Z",
+  "updatedAt": "2026-09-13T22:42:15.868Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,56 +58,110 @@
   ],
   "items": [
     {
-      "title": "Soberanía nacional es mandato constitucional y no solo una aspiración: Defensa",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelpYRGdnSXdpSWNsN0hldGtaMjBIQTV0cVZMc01GZ2tTcWg2dnZ4LTJJRUNtaXFFelVDb2ZhTVdWQTVGR0F6NVU3dmF2bUJEbmxLRndWdEJwM3ZpSUItYjdZY0ZlMzJMaElJQWpDdUZCRnh4VWpjLVpCMzRLZUw3ZkNwSnZwZ3V4YU1vQ1R3VDctQkdmYnROMQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 19:46:42 GMT",
-      "description": "Soberanía nacional es mandato constitucional y no solo una aspiración: Defensa Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Miles de ciudadanos marchan en Culiacán, Sinaloa, para exigir paz y seguridad",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEdqdnlEVmxDTDNLV0VRb1Nha3QzSWxzRHduTmlZUEMybWlxeUZRTWVjaUdKX29sS3hSaHpDQ2YxbmN4WkxSTHktRkJWZVpxSjJEbl96Mms3NlFyZjNnTVRPWmJKNW55TG9rZDhPd3VaMjR2d29nbGtZSklMSlV0Nk1R?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 18:52:07 GMT",
-      "description": "Miles de ciudadanos marchan en Culiacán, Sinaloa, para exigir paz y seguridad Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "PAN nombra a Miriam Martínez coordinadora de “defensa de la patria” en Tlaxcala",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNmVpcUd6blRRbk81aHNLNUVGMDJGOHFtY3FSck12cXNibXRxVmJ4ZWxKQWE2cWRtcWJLbkhScXBCckRGWmpXQWFWREFTaHFTb0xiOVpPZ3FlcG9SOXBfSHAxdG9WaWFZRDNhRmc5dUc3a2tBV09Sc3VJMkpGQ05UcUpPZmZzdlpvRVVkMjNDNWJkNE1SSDU3NXNKUzNrVUZfVzIyX0lxSFRvcDBOZ0dfcFBHNmtzYjVwQXI0dVlpSG5JeUY5WXRFSFpUSUR0NEFWQ2cxQXhJWjI1MmRqTkQ3UHlGV3Q3MnfSAfsBQVVfeXFMUE5qZGw4RkhPSmhPXzlrS1J3blVTc01ua0doeEVrTmxBby1UT1liN1FlX0RtVGttMEt0YlB1OEJ3TElsS2h3R2IzamhhY1k1aTlLMlBnRHFya1pwOTU5dzY1bnZPZzBOVzA5QnpDaGlWd1pHdVlDMXJJbGZlbEtERFZac215UGtiNUVtYnNoMEVEamZsRXRDSlpDd3hqMDBTVkJJbTBHSC0wOWlBbTBGSlQ0U01wcmx5TXBqZWpYYkdOU2NfakNCaFM5ZnZlNVRrSnFER2VPMlF4V2wxMjUzQ2VLMGRETWJvaXYyYzlxcmRSMFlNQXF2VThfdjA?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 18:25:23 GMT",
-      "description": "PAN nombra a Miriam Martínez coordinadora de “defensa de la patria” en Tlaxcala eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
+      "title": "Congreso de Puebla revoca mandato de alcaldes de 3 municipios por problemas de ingobernabilidad",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTi1mUG9zdmM4OWVqU2dMdWU5dGN0cmRLTUVkVkg1ZFZiMHp1MXhxSUdJckF3X1doM3V6TVBKY3luRmR4RHprenN5NDA1eG1WQmtpTE9ZM1hlbnpQZmhvSkY0bjY5aV94Q2ZEZmxidHVTSEU0c2JSZzlvOTJ2TzFvckJCUVNvdEpNWlp3RVMwbnN0dldFajF5NXpYWWNaT1EtM3k0cFB4SVZNNVBwYUhISTA4dWw4V3A4VWFMVzMzamc2TkZHdGhpV01NZkdCUE9WU05RYy1ZaDZDWERQTGhiUXRyQVo2WEJWRm81SGN4QnBFMVXSAYcCQVVfeXFMTXlrRm16dGcwNXdWdHRoR2l6VC1ETWN6WFZYRHdmdW1ob2xaamw0REtPT0xKNlZiYkdqTEgxLTVucGZmMzFLVWdHNTlkUGpGZ05XVWtvbExja3ZXOGhyUDBld1ppLVRHSy1fZE0xYmNWMnEtMXVLTk01OW5uN0dLTTFZNGhwQkhpSW9QSk9DUWZrcndJX0lYcVN6bUR1VjBvUllFd3dYdmQ1QlFScV9BR3BhSTNRRlA3X3R1amJrM2pjejFncllPQ0hVNmJxLTV6T1phdkJaTE1meXlPNnlOTlJnQUgzRER2ZGp0alBRWGgwVVJkN3ZoX3VDWHd0TlBFVGd4TjhLWUk?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 21:47:46 GMT",
+      "description": "Congreso de Puebla revoca mandato de alcaldes de 3 municipios por problemas de ingobernabilidad El Universal",
+      "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Denuncian intento de desaparición contra la buscadora Yodeli Benítez en Sinaloa",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlk0MTktS09YWktHdm9rMlJvYzhIRkFNQ0FVYmtmSExnUFFLRksxOERoNmRuNHVUbV85U3JNZ2hmOGgtQVZpM1lUV195UnRQN0dRdi1XcmppclhETlhnU3o5ME1iaUMwTVoyaHZ3TUdOU21wNG80Y05XU0kzTlBhMXFERmN0bUFsMm1zY0ZKTnBSVlJNcjBF?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 18:01:41 GMT",
-      "description": "Denuncian intento de desaparición contra la buscadora Yodeli Benítez en Sinaloa Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Defender un teatro: Centro Cultural Off Spring",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDFLbGdDNVNWRjBzaEJDbzdBOFh0VUczYUFyXzBVbi0wWVFVQ3dWbTAyaHVuUm5xY3I1ZXNnZ1BJNGFiNndocGJ5WjB1X09uV2VoVC1mVHhRNWRQUWVIOGNMVzJIeExXNXJjd1pUZU80TDJqb2ZsSGJ1V0tXS1pEWTVJdnF0OVd5SnRBWGlONGV2Z0JRbWNjdXgwb01iVjFTclFjMg?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 21:28:16 GMT",
+      "description": "Defender un teatro: Centro Cultural Off Spring Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "FGR investiga presunto montaje laboral contra Grupo Herdez; orquestan fraudes contra empresas",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbGMyWl9FVzQ3NUFFZUNUQ0tNZjgweHBySHZ0VVl6bENVVVpMdVJkZVBDNjlVVHdFV0lOVkpJLUlHdXVyTTZWNjE3Ry05Y3lDYUtVYkhnd3VWNVJqX0wtTEhzVEVXQjB0SXBPUnFfZU5Wd090allxX3F6cTFqLWF6SXlOTVp4LVhseGNMX092VDFHN1ZTbVp6OVRvZVFKSFktZWVFWVZRbG4yRGpUeWk5eThYZlJkVFJwdzQ0eS1EaWRQNGRBcUUzVGdDTXkzV0NpQlEwekNVOXJiR20xVkE?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:42:05 GMT",
+      "description": "FGR investiga presunto montaje laboral contra Grupo Herdez; orquestan fraudes contra empresas El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "“La soberanía se defiende”: Ejército cierra filas con Sheinbaum",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU1FHT0llWjFFTUN3YmpOcEt0QVRjRjFUdW1GQ2tLSVBIclZrQzB2LXZzSmY4M3ZlNjMxb2NkM0tvWGlUd0Y4SEduRk1vcnpjQno2WTFtUDBlZFU3VE5taXVfQnR3UWlDeG1XUURMaWpkOVFvOWRyUXJUQW5LU2VHb1I0ZGZPcHVaZFZoU1JOVGNRUV96Z3pRQWpfcjRlQzR3eVZCSjRLTEdPLVgyNFBiMlJPR3hKUzA3Q2c?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:35:39 GMT",
+      "description": "“La soberanía se defiende”: Ejército cierra filas con Sheinbaum Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Iglesia llama a celebrar fiestas patrias con responsabilidad",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGtVWlFnMW4wZUVQbzZvOVJpcU13TXYzcVR2RDl6VG5zUkdla1BkUnVlS2VUWXFvd2JqSmpwd0lxNnRpdzg1RDU1RGRnYUhwZ1dHMjRTRWVsRTZPQ3VfaURqeEVCZURBSzhjaWJ3MnFaMnVmaTBSRVBHQ2p5RnVBRGl1em1LVEFGMGpJcU1SNWsyM3c3dXBURDg0UFk2QUp5UkU0ejNTRGxGbHREZk5waUNPRGR6NFRmWG5fYlV1ekg5SlR0NmNRdlA5MFBBTXJJdGdlc2FxQVY2akRJbkHSAfIBQVVfeXFMT0dCSVFzY2hhS05RbU9lNjJ2anVHQ0R2S0p3WU82T0p5aDlfVzRhZVlFU0I5eWpwZ0x5Z20tSWNSZjQ4Mnd3SmlHc3dranVFZzhCeWxQMzNxMHlTc29VQWQxc0JNd1hWcWJIUVI1YU8yN2ZwWGl1NXRaVUVFOVdBaDRBMzNkM0dKMnVVcnhMMjdCaUhrX2ItZFFiRjQtRW5aV2ZYWi1ZVy1PQUkzSUlwWVJZbkFvRUxvTk9iNlhWaTZqUmlva29icFpNQ3l0bldwM2s0MkJfWUs2UXNjZklQZjU2aFdiMTZUbTBiWnZ2cURZMlE?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:30:10 GMT",
+      "description": "Iglesia llama a celebrar fiestas patrias con responsabilidad El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Marina e IMPI retiran 90 mil productos apócrifos en cinco entidades; aseguran prendas y artículos con marcas registradas",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVmZLMHVxa2g3eFV0eExnaEMwNjY3ZDVUQk1Md3hzTFhCTU1HVmhZZExFelgzZFBUdlU1WGZsaGt6THAwMHRDU1N4VmZ5VlJJZUhBWHBSSTFvcVVZN2Q0N21nRXBUZlJTaVdNdHlCZ1ltcTZ4Y0NoUXRVengyNFY0MnFpcWNlbGJ6MVNGdDhtSVdyUEdZdjJnbmpIYWhyd29oMkZxWDJBaWd0T01ORWtDbVhOU3NBeWc4N0ZaQ3ZRVWsxMGt5MzVBR0hZZFVlcFJFNGpXUWdwY1lMdnZUOFUxb2F3QnUxNEFRNDQwS0R6ONIBgwJBVV95cUxPbm80dGdRa1pqb0tsRG5EaEFnVWM1Vk5nMWlUaUVzR2FnbWVNcmtxWkdzYnRmaTdHVXBVTzRQS0JUX0FhUEZZRWlmY3R6aEFMQWRtOXMyU1ZFSkpmamlIS0cyd19uMmtwSjlVZkRqODdTZUVvTHJyU3hGcDhKQzZFdFAtY2xHVm9jbUFNYzZ4OUJuV3Y4TUVBcV9lOC1HeFYzNVB4VHlPTXVtYTBSVVZtU1ZQeEl1TVZsSzZfaFNxaEh4MC1hZEZWMnA1VW84Z0dpU01nUTRjVnR0Q1psRzRCQVRhQVFBelF5UUpGRmtYUXJweWMyd0RLZTZiaUgzTEk5Smlr?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:25:59 GMT",
+      "description": "Marina e IMPI retiran 90 mil productos apócrifos en cinco entidades; aseguran prendas y artículos con marcas registradas El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Trump anuncia que planea eliminar arancel del 10% al whisky irlandés",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOE1BRHo5dVMtRnpsRExUQjVHZXpGeEFMblc0WmRsZkQxNzZ3cVhZdk0tRGN6cl91QjJ3VEp2R3lFNkhrenJtUnozMFJUcmJ5NUxIMDZDZ1lvbEVNX25RVzJJMjMtcnI2c2ZWRTNFWGtuWjRkV3BDMFFaOGtmWHNHRlV6anpjTDBnc1VmdVd3REFOVDRGcEpITURSMTBwcllfMk5DU00zUExvRk82dlh1WHRsUjhWdEdpYnVELTJncGQxVlU?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:18:00 GMT",
+      "description": "Trump anuncia que planea eliminar arancel del 10% al whisky irlandés Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "INE garantizará proceso electoral conforme al marco legal, confía Higinio Martínez",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT1BXR3lvN1lMYktLZFgweTFiX3g4UHpySVpESWVPUVNEYUV0VXp0Zkp4VmNTSWQ2ZUxSaEt5TGxOSVA0azNuVmdPQ2RjMUctb0hYbmlOdkdMNGxnZzZTazJ3Q3NqMklfSXg5NExBLWdySXRqNmVLSmVkcUNfMEZFc3V5NWlpSld2VFlnRHVkd0hQZ1pRRVlseURqQnNxcmNzN2ZLUFh2aGpud21ISmhZT2xscU9TZ2NRblpqT2Z0bkZ4ZU5XVnRqMDRycFBValVQMkUwYXRwdVg0cFlieXE0bkEzOWgtellkbHR1Z0ljTE1id9IBhgJBVV95cUxPU3pDVnBNZGJ3SkJfdzluM0E3cVRSQk9wcnppaGduT3NuRlp5REZGQ1dMVGJXUjk5RHZfQzAtMmk5NDJ1ak5wMzROeEtvUXdNMnROcDJvZ0NZa1owb1kzSzEzN1pqLUhQUG1rRWd0TUJ1aFlvaGpPRG1Sam5mdEtlWjZ3Zldid2RMQldVdWxXVjVIdDRZd0FYWGJWNEtpV0ZrSy1MMGJ0Y1BvRHB2QnVUeUJ5UFczcGZYUHMycjdRcGgxLW9ndVlRNUc5T243WE01TlhhcHlZR2J5SEt2SGpHaHhlSklacElmaUMwYjZyMGlULTM3bGNnaWRxbGlGd3BpdDd5TXVR?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 20:08:51 GMT",
+      "description": "INE garantizará proceso electoral conforme al marco legal, confía Higinio Martínez El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "¿Por qué los resultados de la prueba PISA 2025 pueden afectar los salarios de los jóvenes?",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObTI1LTNPSE5QZlZ1eERMWU1lQkQ4QlFFaEJkeTBUQWs4NmJwdHZwczgtYTFEeXNkU2FqNTZiUUFZVEtTSE9GN2Z6YWNXdUF5NTQtVEtiSVJVaElTRFNxMTRSTlVNNjlNM0N1TnRQWk1DNk5KdkdZT0JlbkowOGdMenJ0NTA4QnJHenVsQ1FVSmN1ZVRtd25qMFJnV0dhdTNiVWJOeVA4eFdwcGMtNldvcW9RWHF5M3VpSHUzVVlISDNYRDFDcTJ0a01aWDhWQk4wNE4zU3lzUEY?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 19:13:48 GMT",
+      "description": "¿Por qué los resultados de la prueba PISA 2025 pueden afectar los salarios de los jóvenes? El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "México determina su propio destino.- Trevilla",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzZIMzhWTE5fcGlaVDdUTGZtVENleGx6aGYycEhIODdhdGZTa0Faa1ByUmVSNG11aXN2c01jSnhtRExOanJ0S2ZYWUJvZm9JVlM5aXhtLWlTazUyc0ZWclBndjlUUk0ybHhrZU8zb1JlLWtDOUVhUXhkWjIyR05yWWt1OA?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 18:22:06 GMT",
+      "description": "México determina su propio destino.- Trevilla Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Hoy No Circula: ¿Qué autos NO circulan HOY 13 de septiembre por la contingencia ambiental en CdMx y Edomex?",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemc2aUdsbE90TDI5OHVNeGNtRXlLUVNuWk1ITkpyd1JFRUptQ2xISVN1bDZ1RzRvcy1SaGhmWmVNWll0d09GUzVEcnNYOE5ENjhnNWY2NkhkeF9vWDk0SDBvYVJtWUYxOVVMRExPZXh3aHFJb0o1ejZsZnBjdG9xMFd2VWhQdWlKUndPejR2S0dOYXlwMlFLd0RrNXI2b25NbFRv0gGjAUFVX3lxTE1JNkVmX1ZSXzdoUFh0RVlOTkIwb2hVYkszV0QxTFdOYUxDQ0RIUk9fdnlrWmRvRldjd0ZZZi1YNHZrdklWQ1hRdTJqU2hIbU0zZjhiS0tuNXZZaWI3WFl6bFRwR3g2d0R0cWNqNWNLYmd6bUI4ZUh1a3oxNjZ4VlhJUmpFMHpSM1lfd3VkQlBJWjYwRVh0WkhXbkUxSUYyRFZfZWs?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 18:09:00 GMT",
+      "description": "Hoy No Circula: ¿Qué autos NO circulan HOY 13 de septiembre por la contingencia ambiental en CdMx y Edomex? MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Sheinbaum conmemora a los Niños Héroes de Chapultepec",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxORjdBc19VT1ZfRTVWcllHRGQySlpzTEltSFRXTkFnQTdtYWlmT2s2dDhFa25QZENSbmdEYnp0ZVJvNkNqSkxtQ1ZidnFqOHd5RmRsalBRSXhnTk1yamRpZVlZMktHNUVoalFKTzExMDZ1UVlmZm1pVndaVVBUc1BuU0l4azA4N0poN3lpQWJ1OG82UXQxNllhZ0F5Z3p0enpKclg0dWN3YzlxTzNCYzdMMm5pa1E1VlZIYV8xMGlLMzVWY2ZZMDYyYUpkMFlnZlY1SFRtcjlVMVhRa2pqQ3FJamhlWExQQ3dQcnfSAf4BQVVfeXFMTTItRDFmT3FwVGJfSGFHR0JaWUtyS0EtN0pjTk11MUszUFZzWFpWZFBUYkp3TVFYN3BDMFJCYzdBZ0oxTFkzbGJXLXF0Q1dQNGp6UGhtZ0pUUFQtMnNSM0tNTjFZWkNNWDZjZkszMWE5Y2RLWnFRbUV0U2JmMHdVa1NwSWdIeWloM1pNM2dxVnpMS2FQcWV3eG90OEVxMWJubXcwUjh2TXVmV3d4MUxUUVNMNzVhcjZ6bWtGV25abmp3MWgxVVZQQW1XZnBQNGJHSm1TY0xPTXFzUml3SXlIaWZMWWx4WUJZVG9LQ0ZuV3V0MEJhbDk4cjJaWV9HOUE?oc=5",
       "pubDate": "Sun, 13 Sep 2026 17:52:46 GMT",
-      "description": "Sheinbaum conmemora a los Niños Héroes de Chapultepec eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Diócesis de Culiacán se suma a marcha por la paz, obispo llama a pedir perdón y dejar atrás rencores",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU1dua1lFSHBEQVhPbUx4WmRIVUhqSzFsZy1qTi0ydUdzSFJEY2cxSzkwTHkzd0NZaDdVRHFPenh5X185dkhlaWM1c2lFYnRZeDNySXFnN0c0SVBacHIwaExybnRvcV9OTW9haWNxTHl1UTdEdUF5NVg3M0IzSE9nQlVmcVJ0ZHJ4TDYzNWNCQVNkc211ZUN3WHlzbzc1WDh2WFY0aE02TmZwZFZJejZFXzVhZlhRVUExSE1vc2xTY3RMTGs4Y05YOWFDakVMZUFYRkdLVXdn0gHqAUFVX3lxTE1sXy1IQkNwbHRxNDhVZDN4UHd5YzBBMC1BbktwTlZqMWtOMkJ3Y2xIZmM2c05wQkM1aTg3TWtDRmRBVDd2V3Z5OXRZM3BXV1loTWFMbjRHaVVnUjQ5T1VOSUU2Y2RsLTJXUzRIQWp6eEFHbmFsT050YUhMMVhaYkNERHBBcjFlenA5bXphVWpDWnZfc3NpNHJLaGVUVEhfSHNIZ0N4QmlkZFFab2lWMHpjeS1OdmZualg3di1JSFdRa1AyTExNM094NXBtaXk2emZudlZKVlV4OVBTclRNRnoxRlMwR2pGNnJEQQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 17:33:54 GMT",
-      "description": "Diócesis de Culiacán se suma a marcha por la paz, obispo llama a pedir perdón y dejar atrás rencores eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
+      "description": "Sheinbaum conmemora a los Niños Héroes de Chapultepec El Universal",
+      "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
@@ -119,15 +173,6 @@
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Acaparan políticos las primeras filas ante presidenta; el pueblo hasta atrás | Grupo Animal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUlNad1pBZm93VmNoZ1U3UU5wM0lfRTVJa2xJbFc3V3pJVGxOY2NSWHRsMENRbkZmQWRBZF9GdVlxU2Y5NDViYlpDdTJ1NDVIZkxpWks1a1RFeC1mZnJuNERYcU0wM3RvZ1FCTXhEdjY0OHZYVXVQZlZ2UXdqT2lsektYY21ZRG1LM1dDTGx3?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 16:37:07 GMT",
-      "description": "Acaparan políticos las primeras filas ante presidenta; el pueblo hasta atrás | Grupo Animal Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "Ahí vienen las heladas: ¿Cuántos frentes fríos habrá cada mes desde ahora hasta mayo de 2027?",
@@ -148,24 +193,6 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "¿Juan Escutia sí se arrojó envuelto en la bandera? Los ‘otros datos’ de la historia de los Niños Héroes",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObGZZWmhxN0FqVEMydkplNTI1bHh1TmphS0tDY2FYVVFpdTZlMlhGaVcwTGk4bFprLTJvM3RKanBQVDIxenZSZXZFNzJXNkcxeVdSZVFPZ3ZBUl96WTZ5enY1QVl5TGgxcWtrcE5HcnNFb1RjTEtCMDlHZFlheFU0N1BuTi1qT3VTMlc4Uk1Zd3BzODNLZHU4Smh1UjNRNzdocG1PWUkyRHlYd1A5Z0E0bXFibDhSU3FKdERsRlEyQmNhZFRwcnFfZTkzS0NVU0xpdzJ0UUVzZlZmVTBpeTd3cFc0Z2diV0U?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 13:00:00 GMT",
-      "description": "¿Juan Escutia sí se arrojó envuelto en la bandera? Los ‘otros datos’ de la historia de los Niños Héroes El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Hoy No Circula: ¿Qué autos NO circulan HOY 13 de septiembre por la contingencia ambiental en CdMx y Edomex?",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPemc2aUdsbE90TDI5OHVNeGNtRXlLUVNuWk1ITkpyd1JFRUptQ2xISVN1bDZ1RzRvcy1SaGhmWmVNWll0d09GUzVEcnNYOE5ENjhnNWY2NkhkeF9vWDk0SDBvYVJtWUYxOVVMRExPZXh3aHFJb0o1ejZsZnBjdG9xMFd2VWhQdWlKUndPejR2S0dOYXlwMlFLd0RrNXI2b25NbFRv0gGjAUFVX3lxTE1JNkVmX1ZSXzdoUFh0RVlOTkIwb2hVYkszV0QxTFdOYUxDQ0RIUk9fdnlrWmRvRldjd0ZZZi1YNHZrdklWQ1hRdTJqU2hIbU0zZjhiS0tuNXZZaWI3WFl6bFRwR3g2d0R0cWNqNWNLYmd6bUI4ZUh1a3oxNjZ4VlhJUmpFMHpSM1lfd3VkQlBJWjYwRVh0WkhXbkUxSUYyRFZfZWs?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 12:57:00 GMT",
-      "description": "Hoy No Circula: ¿Qué autos NO circulan HOY 13 de septiembre por la contingencia ambiental en CdMx y Edomex? MILENIO",
-      "source": "MILENIO",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Las matanzas del CJNG en Veracruz: siete minutos, 35 cuerpos y 15 años de impunidad",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTEdiVUwwNld0MWhqeXc3MXgxUzJHTHRiV0pIWS1JUjNuS245dlhSd3pBaU9kdGJpZUdOOHlsMzhRdW8wR096cXpSWWdackd1d3UwRHhySk5DaDJBNU53ZV9jalZ6ZFlidXRHVlRlZFhKeWMxTEhtRjJMTkE2WE95ZVk3a2pBYk84UXRCdEhNM1lvbS1hbDRKSzNwUlVyejZGMkZ1MUFJVDFETmlIUFRWRU9LSHp6WGFVdGwyQnVoMjlkRlJtajJ5T1R4RmtoWlAxanJlaTZ3X2Q?oc=5",
       "pubDate": "Sun, 13 Sep 2026 12:00:00 GMT",
@@ -175,10 +202,10 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "A pagar",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9admRnUm9uWUVXUlRIbTZVMnp5UG1QaTZkcW5Pcnlmckk1OERMbXBCdEF4dndsWkwxTjRRb0pVNUZ6STN1VzRwa3NrbWoyQnhCYXphTTRibXpuTC1YX2tvTw?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 11:05:11 GMT",
-      "description": "A pagar Reforma",
+      "title": "Invierten millones... arrancan cero empresas",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaFVuVHFpNlJGU1JFdjRONmZ1MlNoNFdoRW5Kd3JwLXNqRHV3Vk05UzVoenpOWkV1alplUURBQTFvd0xFSllpbkNvbmc2aTNyaHRjdTlrTmJuckZmM1lZWndtTDVFNGpJTTZkNnZlZnRTSDFPSHB5RVNQS2REa1FNYg?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 11:07:04 GMT",
+      "description": "Invierten millones... arrancan cero empresas Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
@@ -193,6 +220,15 @@
       "domain": "reforma.com"
     },
     {
+      "title": "A pagar",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9admRnUm9uWUVXUlRIbTZVMnp5UG1QaTZkcW5Pcnlmckk1OERMbXBCdEF4dndsWkwxTjRRb0pVNUZ6STN1VzRwa3NrbWoyQnhCYXphTTRibXpuTC1YX2tvTw?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 11:05:11 GMT",
+      "description": "A pagar Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
       "title": "Crecimiento",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15NFZjNG5qR1VQTTNQTkxCdVdiMERWdGlDM1JpZVFqV0piWDBTSXdCOC1VeW4wNW5zZ3F2Y3BjNG5BZkthbjBmeU9oUndxTlFHcjJySzdGbjc2MHJQdlpDWkgwUXlSUQ?oc=5",
       "pubDate": "Sun, 13 Sep 2026 11:05:11 GMT",
@@ -202,29 +238,11 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Daría Cuchillo agua a agro... sin siembra",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iWHlHWWtPeHZvZFpzbGw1RnBNc0dyQzRwcHJQSDBFdUpWQ0V0cWg4SVZRWkc3amsyMGVoTk1USE5kX042OWtMamRMNmg1T3pkb3c5dG95LWpGdU5NUzloYTRRdWs0XzBiTmVpUU8talN5WXdoaHlDNDBPV0Q?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 11:05:11 GMT",
-      "description": "Daría Cuchillo agua a agro... sin siembra Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "La IA y nuestra última oportunidad",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkpoS3ZSdWNWdTh5NHhJeEJTTlpWWVBmc19keDN2SlNYVWE1M05KWEhrcTAxMHdObHdqeGQzZkVDVDRwMk5YSHp1U1ZqZ050aWFTam9TM3JmdGhsWU1ER0dHaENHOFRqblRQTVRFbFVJRmp0LUlOaWNwODdxTFpfWGM5YjVYNDMta1FlSDc3XzlicnA2Tnc?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 11:00:00 GMT",
-      "description": "La IA y nuestra última oportunidad Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Aviadores de Taddei cobran 6 mdp en el INE",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUW5RRER1bHdQeGxGdUR0OUZkMnhSUHdvOWNwcjlBSDFOQUJicEdjM2wxcUJpcUZuWllxa3pZdWRpS0FsZWUtMzVmd0Q4NDVZejNUcVNjU1dneFZFYVB3TGZGVFRyRjdPSU03b3ZxbExrcjRMUEVoUHV0eTlfQlFNVEhueDdMeWRlYU1B0gGfAUFVX3lxTFBtN3RRYjBRSkRkNFB1ZlFwdTA1NkdodXB6d3J4QVQ0QVI5cG4xMk9TU0xwOGdpakwzcUZqaHUxUDltV1pESUNKMW1RY1FNNnZmejBqTXNOTWxQT1BtNVhhUmtwV2dYMU16N1pyR0F6VHZhM3dKSW1peGpvbTlyS0RMU3FZLXdBZ0NMeTBYRXRqRVBXMm9Ec2xtaG1PNnluNA?oc=5",
       "pubDate": "Sun, 13 Sep 2026 09:30:00 GMT",
-      "description": "Aviadores de Taddei cobran 6 mdp en el INE eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
+      "description": "Aviadores de Taddei cobran 6 mdp en el INE El Universal",
+      "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
@@ -247,13 +265,13 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Cruz Azul se impone 4-3 después de resistir el embate americanista en la Liga MX",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOURWdkpkM19WNHgzSjNoMXdpNEFfbGxOQzhRMzdaZDBBQUkweTN0S0VUTURad3ZJU3AtaE9OYk4tdHQ5YUZMaTdNYWFSekh3SnpHTzZKeEhnWXZOY3I1REx4NVpZRnkxWFBtVXpEeVdUZGdzWDFzd1BUT3JrSzZKWl93RXJDUUpoQnR4LU8xa1NVTTFDbWY0aDNVMWE1Zk1KdW5jNE9mUU9yMzFyN2x4bV94UEJpR1JqM28tb0FhTUxxYTNTakNmREt0Y3NrLV94d012QQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 06:06:00 GMT",
-      "description": "Cruz Azul se impone 4-3 después de resistir el embate americanista en la Liga MX Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Los maestros tienen miedo: la guerra del narco llegó al salón de clase",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWThNMlpRM2JMT29TeU1rLW4tTlZFSi1zNW44VVhWWmFDS3FzLUJNMHZ4SkRnVkRlVElmUnUtcjZpUk1aMkhzMWEyTC1wME5PS0dxX2RRQVRkcHNXc2FsZVZ5ZVdtMEFiZVllc3BRTXNhU0N6MFVLTDJ4eXRJQ0Zpb1NlbGtRY3pfTm1J0gGLAUFVX3lxTFBwa1I4MDVTRUhjczBzcVNSaU1NRHprMFI1RlRSV1V6YUlLOE4yMW1wTHJ3bmVUQ0dpRVVsNDNIR19JcDNDSjF0S1RlRDZDVmpXSEhWQzVYdUhmRjMzdlJ5aGMxUS1mU3BJRTFWSDhLaGg5Ni1nVC1vSzVKNVd6UUZURUlUdHIxdWpuZXM?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 06:58:00 GMT",
+      "description": "Los maestros tienen miedo: la guerra del narco llegó al salón de clase MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Trascendió",
@@ -272,24 +290,6 @@
       "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
-    },
-    {
-      "title": "Vecinos acusan simulación y acarreo en reuniones sobre cablebús de Puebla",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeUZaa2Eza2ZUTVRpWk53am5UaUp6cWhJSjZFNHNia3VwT2pfMDRsMWpOV3c0T3NsRm9CdFd5UnF1VGcxTW15S2Y2TFJzREVmNmxPb1g0YS1hU0cxVUlzN3FLUFlJYjFwNVRjZE5TSzg4aFBFMlVpdHEtRWl3ejI1RzhJNFFqNXJoelNMNlc0ZXN2TDVna3I3Nkk3THcyVFB0bTFqc0ZZUWRNNE9QcUUwM19QcVNuSWhPYkFwaFhkRWlZb3o5US1PcjVFcHNyWmxhUUNYNDd3?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 04:22:25 GMT",
-      "description": "Vecinos acusan simulación y acarreo en reuniones sobre cablebús de Puebla Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "¿Quiénes son los hutíes de Yemen?",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sN2t1LXcwTTVzeHEtajRQdWd2TkIyd1F4TnUwczJadjdLdjh1d2NYY2EteDE4dGl3VTJiTUZTeE9aQnNxTHlaTjNLSGQ1MDRpOG9ZeDRmdklEMFNXdi1SRVhsTXY3MTBwN0p6ME1xZ1BCLXBTcHfSAXtBVV95cUxOaW42aTRGVWhwX2VIcU1YaTZmUnhjOU1DS1JQdjc1Z0VOU3ZvWGtUbHFLS1RwcWlkbTNDTVNfNG0ydHhMOW9tdmxHNjBnN0o4OVhfNUpiNUdQWnNFRE5WR3FoU0lVRTFJNWM1eFFYekpiUlcxMHc4djVpQU0?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 04:04:43 GMT",
-      "description": "¿Quiénes son los hutíes de Yemen? Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Llama Sheinbaum a moderar opulencia, ante Mara Lezama",
@@ -337,24 +337,6 @@
       "domain": "milenio.com"
     },
     {
-      "title": "Activan contingencia Fase I en ZMVM",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GSjkzTXFfZVNXZ21acVFJV1o3dmVxaFNLeVVtbkg0TmRkbk9tOVVhWndXVHlRNVVibVdGZFFHOXpaN2tENXpTSktfbVdnUkJQWnNiUmx1UDBKNDhTU3J3aDREd2RfakZ6RkFmLWZoeF9KWHpkSjZXNg?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 22:20:18 GMT",
-      "description": "Activan contingencia Fase I en ZMVM Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Atacan aeronave de la SSP de Chihuahua; un agente resultó lesionado",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR1NpanF1dFp0QVE3UHg0NDBLam1GSkt2SHNvMURjMTYta2syQW95QnZwRUN3ZXJ1NFU2TFJKYTlKdGtNZkVnejl1Z3Zock5ud25PWjVYOXJ6N3hhUEhMRkxBV0VXSGVGQTdsOWhnNjJMWG9vRHNvYlRsd0JQcGxEX2tEem5CMkpueDJFYmdnSzlGYXJ5WXBJS1dJNXRsdjI5c0ZZazJ1bUNPd9IBvgFBVV95cUxOMmZtQVdYWmxOTFZ0NldjVmczNjdmVTVxYm9WSXF1YzMtR21oVXU0SXNNbm1CcDdCRU94YjRNUFNuQ0JjakVmMnpYcnJNM2Q2aFlJNXVreTA0bUt2dU9keWt6d25lX1ViOFRRX0dadC1YaWx6RGlTeXpCRHIyUGdyVEhYVGZYX0wyWUtEbjMwWDE1dVU4MU9GWE5FOTR2QV9odHRPa1kwaE51TnhaN1plLTVuUDhrLWhaak5lWTN3?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 22:19:00 GMT",
-      "description": "Atacan aeronave de la SSP de Chihuahua; un agente resultó lesionado eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "‘Un paso por delante’: EU reconoce a México por operativo contra drones de los cárteles",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcEN3UTFneHNXeVlRemdyS2xBd2F1NmswSDVFYlJTRXhmaTF3Z1E0UnlIelFWZWFuUlhoT3VYeTc4NWdxMnRaVHRReWdvNnlURldJU2FucjBZMGpBZXZnSnhaMFZTNXRqb3k0RVlUNnczZkp1cG1zcXZqakpld2YwN3dqSWpOYm53bzE5RGphSllLaGxGSnNZbFQ3ejVFb2FSTXh3SmpNLURVZHJ0MWpLb1Jfc0p0eDlqWUlhbXcyZmc3WXRPVmlUZ3JjY1U3WE5scTB3?oc=5",
       "pubDate": "Sat, 12 Sep 2026 21:55:18 GMT",
@@ -373,38 +355,11 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Detienen en Puebla a feminicida de Andrea Maylin; joven fue hallada muerta en 2025 en predio de los padres de su pareja",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOXBkUDNwM0Z2T1pNdHNHVVJtT3p6T3I5Y0hmWTRCNHlSZDE3ZEthX2pJLWZwNm1falJNeThYcVJKLXFBTHNUNGJqNUFfbXpkNENjZXZQMTZhUDdCYlBJb3ZfN3FYQWFzR0pIM0xfSmVYN1phblhUamlqa1Q0WjJhZ2RYVlh3TDRvUmU5VFdyeFZhTUZzRGE3WjFhZFNWSjJ2RmRENFFGRzhFRy01RHNKZnBEdnNDNmFGZWE1b1JwN3VWRlJSOTNlSGtFclk2S2twQUY0eXZiMjRWb2w0Zkg3S3JrWl8wQVZPMjR1YUN30gGCAkFVX3lxTE16emNIdDZUNUFQTjBFRHdxN0l1TmdqYnJHMmcxYnBJUFdBazZDNUdwUDZEajB4MVNZbE03SkMxR1d0YkkwSlEwb3lueTVkTG5WejdrR29JQ1cyMnc4cWdxT1JKbnRKM3BSS1JESnRlblVsanFud050b05uMmhKRFE3ampYREZ3ZzJPUUZadi1RakdxMThVQWxKRm9WMXRKeExQZjJOUVBMdVByVjY5Vnd5TE84WjczTURURTZuaFYwZzNUMHdfNGYwcDFKaDJUYU8yUnBXeG9EaXdIOS1ldS00TGJQQnlCX213ajRTeWo2SmwtTkMwcF9VZWRyOGJIU1RQUQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 20:04:00 GMT",
-      "description": "Detienen en Puebla a feminicida de Andrea Maylin; joven fue hallada muerta en 2025 en predio de los padres de su pareja eluniversal.com.mx",
-      "source": "eluniversal.com.mx",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Detienen en Puebla a presunto feminicida de Andrea Maylin; llevaba casi 15 meses prófugo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONS1TNkdCd1RYV2pFVG85OS1uZ0NGT2sxVmdmSEFtbEppZGxzc21GczNUaGZYMkVIY1RPemZSSWd2ODBPNnlseWNhQ19ZWElaTzJvVjhTMlJvYkhXWm0xMFEwUmh0NGViWjBRWExNcERIV1ptWmZKXzZ6UGR5VGVLZklPY2puc2xZQ1NNalJicXR3MXVD0gGUAUFVX3lxTE53QTNtWkFqUU5vbW5iNlVfazZQZC12SWVXZUVicnEyN0F6TjhEVUpleE1TSnFjYUJwd1V0MTRsMWM5bmJob2FReHI5REhHNHJWN0J1ei1SNnkzenB6Rm10dmdLamtYR3ZlTHExTEMtQXlpOGZWeTdna09NY0ltTHlWRkFZZ2tiaTJ6LWlTcE1GcVRmdWM?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 19:18:00 GMT",
-      "description": "Detienen en Puebla a presunto feminicida de Andrea Maylin; llevaba casi 15 meses prófugo MILENIO",
-      "source": "MILENIO",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Conapesca divide sus 132 oficinas en seis regiones para agilizar trámites y operación",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01YVRQYWxUWnZXUEU1UzJIQ2JGRndoWUt1YkpZZ1NMS29lUmctVUpZVFp4dmY1YUE2eTVtMEZsVFpJWWh2Q2toMUxnQ1BRakR0NW45b01HU3dNVC15TnpiSHlSaGE1VFlrdEttRWpR0gFzQVVfeXFMUE9aRVpWR3VoVkJPMmdidWtJZTF1aExOU2x0dDkwcjc4RkJRSWladXpPcG51MUIxZkVJXzBBUW1OOVIyLTFjZmZkTzZXbV9ac1Vxa2FlR0p5S1RBRlo0aXdkLS01MU9YcFhiMkxNN0ltQ2FRRQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 17:37:59 GMT",
-      "description": "Conapesca divide sus 132 oficinas en seis regiones para agilizar trámites y operación Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
       "title": "De México a Islandia: países, políticos y hasta South Park, así respondieron a los mapas de Trump",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeVdWNFNMMlB0MFFpYVViMmdfQkdxYzVoaEpyNFhhQWI3RU9yUHVkdmY1alBiMTJaZXRUOWcwdVhLbDRSdXVmcS15Uld2eXRPeHFJcE15NklXTXd4aUxmNkxjQ3N6RmMwTFgyQ0VWSG8xYjZpVWlYNnpfT1NKSnVxQjRpNWJFd1F0cl9fVlFUbE5kQmoycUlGMlNHRzU5THUyQmphOEZHV3BsRXlBVFc0NVBrdzB6dnJvU21RS1pQR19aYzkyWlJNUmJoWlNhX2gxZS1IcnRuRlDSAd4BQVVfeXFMTjRTSUVGbXZsbldRN1dYN0lUNjZ0MVlMWDRGaFdMX2hSYk5aWXg1N2VENFdvN1NMWjJKdUprdXc2RFdDTkpMTEl3VkduS1F4QWtCUWc4d01JeF9pZlB2LTgxM3NGYlc5X1V5MDFFMWM4cjBlN1VuX3ZpSkVpbTVFMGhaazN6TEVjUGtxZV9JQlpONlUtUUtIMWQ5MDNid04tWXAzRkxfTjlEbXpaRFJMclQ0dTA1WndRV0JsQlVKWllNYUtCUkVnbi1PRmp0aW5pTHo1MnpwS2l0TFIxLXp3?oc=5",
       "pubDate": "Sat, 12 Sep 2026 15:00:00 GMT",
-      "description": "De México a Islandia: países, políticos y hasta South Park, así respondieron a los mapas de Trump eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "De México a Islandia: países, políticos y hasta South Park, así respondieron a los mapas de Trump El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -418,20 +373,29 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "¿ChatGPT nos atonta? Esto dicen los resultados de la prueba PISA 2025 sobre la IA en el aula",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMlpGSUs4aXdsSDQyTjI2ZUNnTGx3dlJlVFA5WlBLeWtZQWxxODc3V2p5M3VQQjJHVERIUWtVQ2NzNllWVjRyUjhaT3pkZVFHQThOeGRzSWtDRV9POXYwMzZqYXllNC13YjlkVk9PUU1YdDdqaFVQWGNuTXFNRnRqbzJwR2l0X0dXSnF2Vm1fNTdWRTVMdHFfT1pkLXo4ZFRCSjVfYjNheFFXZDdmbE1wOXFWTGwxWm13VlAzcEtidVZ5VlRXcm9iY0IxVmMxZWhpdnNiTy1VdFM1SVk?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 13:00:00 GMT",
-      "description": "¿ChatGPT nos atonta? Esto dicen los resultados de la prueba PISA 2025 sobre la IA en el aula El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
+      "title": "Tren se descarrila en Francia; 45 heridos y una joven en estado crítico | VIDEO",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeDNEZ0tNMG9zeVMzeVRxRUh6Wi02NS1xcWtXSVhRNlFCdkhrTXhIYzFNcldxOUhwTlpvZHRVYkhzSE55UDFnc1NuMGdpVnkxdnZmWE4yY2Y2SlZWeXE5bXppNGVnS0NkZENDT2V1M28ybmhQb1Z4OUNNTmVnNXM1Y0tYdjdyU2lnTmJ2UElyZzUtcEQ0UHp3UkVqNWZ6QnpsSFAwdGg0YnFJQdIBrwFBVV95cUxPOTJRRlJWUlJLc21LVTRYWm5lYVpUWWVGVDVCVG1NVjFfTUlKSWdBRmE3UmVjeUNPdnlBYWtoYkhlWFpzSjRIRzFiMVlWbC1DUVV0TnVLTkZxclhLYV80cWRNaHFRSWxuQ3ZHRkJNb09sMmhfQmQyakRVWXY4RGlXaVdIVWhqOUxmR1RPbG4zR2RYYWlxOURUelNNeC1ieFN5aXRSWEZNaWxIRjdpV3Z3?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 13:46:23 GMT",
+      "description": "Tren se descarrila en Francia; 45 heridos y una joven en estado crítico | VIDEO Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Nunca más el poder contra un periodista",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1lCbmZpY2FRSmw5RWRONHBWdndmX2xHaHcyWUk3c0wzWUNZMkwzWVI1dkFSdGpXdW8zTldPTzNqRE9TLU9CTEI5V19qa2w0bF9IeFJzNmlDMXJ3QUMtZzlySjJLc0dTdWtQZTgwbzRSM0xQSzVSODZvQng2WURVNzdVM3BBTGNkWEVvdmx0eDDSAZYBQVVfeXFMUFVNMkxZRDVTZjlZTld1VWVPZ3BUaFhNRmkwV0VCUXhiNTY2a3JaNlRyYmFsQ2o4SXo0SVU1ZEZYOUV2d2lhNGNoOFd0cXc1bzlUMllFMC1jTTZBYktKZmJhSXZKeHZpLTBQZnBOSUxsSWRBdDdzbF9oWkVuM2RhazJqaHhIbEQ2cDJWUTh2TnA3Q1pzTEpR?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 08:00:00 GMT",
+      "description": "Nunca más el poder contra un periodista Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Semar y Pemex activan plan de contingencia tras derrame de petróleo en Campeche",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUzNzV1ZMWEhKOE1WOWE5YUZxTUgxOUFJVm9waWd5OGpjZnE1c0VyS0dJUTRDeUhiMWJZWXJldnhBZWQ5S0xhNG1DQ05RVFgyYkQ2b1lSd0IzS3NzLTYtaG9meVY2LW9ETF9nLXVtT2owcDFCYlY3WGxreFBERlkzVndDNDR6bXpOVVota3ZkNF8yRE90OTRoYTA4cV9EMVltMkNrdHVObW9ELXRWQWpLcjYxRnhXc0RObE85ZnAyZElWQdIBxwFBVV95cUxQMTdSTzd5enpXMlJhWHhoUmF1SjJDQVdyaTV2RzNpeEUwOFlVZHQxQ0RicDIyRE5qdWJmRkdPLVNXRzdmaGdWQ2VpVW1Hc1NIUG53ZVhSRmdUSTRpLW5fUWNQNUxmUldSQmVZZGhBOXRmdEQtVzFEZHZhU2psM1pZQlM3NTNUYXhkZDhzNVpEMFVGXzR6YWNIVjdxa1N3RGlFNVFhSWlhWHV1WERFaVFMbzRDZExLNXlneFlMRHBoMjVaREhYdzNn?oc=5",
       "pubDate": "Fri, 11 Sep 2026 23:32:39 GMT",
-      "description": "Semar y Pemex activan plan de contingencia tras derrame de petróleo en Campeche eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Semar y Pemex activan plan de contingencia tras derrame de petróleo en Campeche El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -448,8 +412,8 @@
       "title": "Los BRICS instan a reformas en el FMI y el Banco Mundial para equilibrar los pesos entre países",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGJpMkEtb2w4UE5fRTAtaFUzVHdrMUxpSC1Jbld3dFl6VVRGZ25YRkRwVXYteGc2YUtZb0hSRWZPMi1tdGFaU05Sa2k1MWlpQlRuX1F2VjBtUDN5WXhNTnczUVN1dExuN2JmTkRSMUMtYVItT0RDcDdMamtjQmRNTjhjWG56azEwQ1cyMU9tU3lBalNSR2t0MVBxRXhHcXVoVnpUS2RVWFZ5eGpSZlVrWVhCUkh5aFpkNzJ0aTNFWE1jQW41bXd1UVhkZS1faDhMaF90WHlLc0jSAd4BQVVfeXFMUHB3N0ZYMkdpYlk4TEJJVjFsd2E4OGlDTHhHNzNGcW9xYURYVnVpR2pocnB3WElpb0NFYjVHeS1GaG52ZVZkQjVSUU8wQ241SmxOYXpIQk1zd0ZLRGg5WHN5VjlvTmoxUUtJbC1GYnJIU1BlR2hhSUthVmRPUUdqc2RHalZJa3hsMUdEam0zZXpuUXRvY2k0ekNMdVd1X29QbkJLa3FDdEVoLXgtekFJWjBNZTM1NVg5VnRQeGE3R0ozeE1JamNUM2djN0dFMWVyeHhjMzh6dHFVRDZNaHV3?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:21:26 GMT",
-      "description": "Los BRICS instan a reformas en el FMI y el Banco Mundial para equilibrar los pesos entre países eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Los BRICS instan a reformas en el FMI y el Banco Mundial para equilibrar los pesos entre países El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -457,17 +421,17 @@
       "title": "La educación, atrapada en un diálogo de sordos",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVlZNGZGR2xvVGRHWFN3Uzk0TkpVMTRyYjlHWVRvQi14cVAzQ3ZqXzBRTk9Wc0JCWlpnd1Atb0dKR0pHZG9LZGhhd1R3M3l0MVFqaTE1LU9aaDVoLTN1N2NySEppdF9kcHNHWFZiTHU3dVNZbnBhNkNRNmc4LUF4STdZeUEwYU9KSW1jRHZlVjNuQmt5ZUJFVk530gGfAUFVX3lxTE40bUQtbVVYMm91NzNnZW9MS2VXNl9USGk3ekJQcUhXT004TVhBbUlpcjJyLWZHVGFwYmNDWXdkSlhIcnpsMEphVXg2M182VkR4WG9vTVFNSzFpczRUWUJjLWU2dms2SWs5MjJ0ZWh2MDdTM3JqLU80MGtZWUNXOWlXeXJURDB1QlEyaHR3VW5EZzZad2pYVDdHOGtiS2lsbw?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:16:11 GMT",
-      "description": "La educación, atrapada en un diálogo de sordos eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "La educación, atrapada en un diálogo de sordos El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "CURP digital, pagos con QR y menos efectivo: la apuesta del gobierno con nueva ley",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeWRTdnY3bjRpdkxHWm4yS0I2NDZEbkd0QWl0Q1BBMHptMDFFUUdqenQ5YlRDZWhmYzJVbW9hQTRIcnY1cDM3aC1URG8tWF9hQzQ5VXRSbURjOVl5ODF1d0RNSUM1bUwydElidERqNmcxQm9pVG8wSTFNdWFGVGNvazhidHJvRDV4a2x3eWxsTUN1V185VFdzLWJmdXlJbndPM2h5MTlfTFRLUV90Um1TSlpYWkcwTXY2LVdnWWNVQk0tNnJpV2QxWNIBzgFBVV95cUxQcHJzUy1LUjF6aDV5VHI2TW1ISVhKenlTWWx0Yk9QdmxCVEdxTExDVzR1azc5VTdLS3N6YmhvQTJ1MndTMHlVRTFNczBOWHhDRlV1SUN3eTJ2NjNVMl9BbnJkbndJNzRYYnJLMXdoYkdrR0huTW5xaFJLMXNvOXg5LVBsN3hUaGVXcW0xRHpCc1hZaDg2X29UbjJla0xBWFlyMlhYR3Y5am9Sd3JIVmxad0ZqbXpPUjJsRHBjQmg0U084M2Z2a01hel8wSXMzQQ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 17:00:00 GMT",
-      "description": "CURP digital, pagos con QR y menos efectivo: la apuesta del gobierno con nueva ley eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "title": "México y Washington se apresuran a alcanzar un acuerdo comercial antes de las elecciones en EU",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkw4MlF6VnNYcnlwQkJRN0diR3NMSFBJZmJXSFNaTHVKdXhfRkt2VmVNY0J2cVRYR1pNX2FPcUNtcVl2TXJrLXNHQmJxOS1HeGkwdGl0d2NtNTFFRVQtemVBWS1OOENWV0NOS2hKeWZIZTJxUHdfMC1aLXZrS3JzZnAybUl6aVRaWWdrUVUwN2xSSjZtWmZQMDhkdGNuaWxSWTNmZkFMVlJUcG5tTFJuQk1qOG5BREplN3FsVFFBdGdBQnV2VXlVWU5n0gHPAUFVX3lxTE84V0M0aVJ5WWZYVDl6OWlCWHVkWTFIY1ExMGhsM29CMENpWjJWeWtGeU5DM1pwNFlnTlctQVRRU1AyZWs3eFdNZ1MtT05hMWQwRWw0TVRtTEhYaUVlVVlralM3dUxHaTIzSi1FUy10clNqajk1eEg4Y215cU9XQUdLeEp3MzJTaGJxMldVbXRkR3JTNjNCWDBRZGRYNHg0NGNHa2JiTTc3N1J6ZU5YQnVQT0R1bkx5b0Q3VmNUZ3BTQnB3ZGtSa1J1a212LTFOdw?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 12:45:18 GMT",
+      "description": "México y Washington se apresuran a alcanzar un acuerdo comercial antes de las elecciones en EU El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -475,8 +439,8 @@
       "title": "NU lanza en 35 países su nuevo sistema de cambio de divisas y criptomonedas",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDRsSER3Xy1uVlZPN3NseDVfUGV1NUp3R2JOWFY3bGlRaGR0WnFGWGplOG9iaWd4dkZ5bjBmTjFJTDF6MEtZTmR5Rzg2Zm5haWo5RFAxRnA4cEFLNThJS0I4LXdpUlZRX19zRnJGXzM5QmZic3BsNkIzbFN1WEVfbzVqdlZkZzRGeHd5cUg1aGlKaTZFb0Y2WENISnN6UWc3c1A0dWcweE9VWTUxZmRJZzRwTXgtWnV5eUN2VU5JR1V6X1Q2dmU0U1VfNTN1RVIta1lFVzZRZ9IB3AFBVV95cUxPOFA4WUR2NGZINVJOVURiS2hoSkhaTzhXZnVFRU9KV2h2dGxScGVjcGxQcFdsdW91YVFoZFdJSGs2dzNEUmhzM1FTRTNacEVheFE2dUUxRUJlT2pSNE8zY2xnRVN5WUEzREVLbHkxZ3pBMFVzeGxkZm9rVTEwNEhHSDd4V3R4MWVma2ZTUko4NWZ3WDhLOG11eUYzMTdKUW1FN2JlWlBuMW5LSUJ4Y2dwZmY2OXY2dVFKVzVFVFJSWDd5QTZwbjA0UURlOUtqcjJaRW93ODFvcjhELTEz?oc=5",
       "pubDate": "Thu, 10 Sep 2026 16:36:07 GMT",
-      "description": "NU lanza en 35 países su nuevo sistema de cambio de divisas y criptomonedas eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "NU lanza en 35 países su nuevo sistema de cambio de divisas y criptomonedas El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -517,10 +481,46 @@
       "domain": "aristeguinoticias.com"
     },
     {
+      "title": "Miedo, castigo y estigma: el fracaso de la política de drogas de AMLO",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90NUhGVUs0eVJwdzBSUGxmNGFLLU9EMlpJWEp3cTI3VG5nWWpsREFlM3lEVlhlTHZ0OG05dWJVOFNJa0tLQ0FHcGx5R2VQVUh4SWN3cjQ1TE9PeHVORWx4bkZkNmhvZUgwRkwtWDdtZw?oc=5",
+      "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+      "description": "Miedo, castigo y estigma: el fracaso de la política de drogas de AMLO panel.animalpolitico.com",
+      "source": "panel.animalpolitico.com",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "México destruyendo el futuro",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2R3JrbGNFTU5MMzBILVRLOEdaOEh1QXBGN1k2ODV2MUtkVDhkcmNiakJBY1d4WEk4VXhsSTNZeG5FY3JBSGZIaFh1MGRWLUxMMHYtNnNKNk5EQnJBS0h0ZGNJZXdoRVhCX2psZ3AxSQ?oc=5",
+      "pubDate": "Mon, 24 Jul 2023 14:23:43 GMT",
+      "description": "México destruyendo el futuro panel.animalpolitico.com",
+      "source": "panel.animalpolitico.com",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Funcionario del TEPJF investigado por tráfico de migrantes busca ser magistrado en Chiapas",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR1hZUHJCZzRqNmx5OW5HNkFPLXY3enpEanRpSnBoTzlBS3Y1VDJXQ29zV3B5MHRKdlFiak53M1UzZWxST1FORTlkamxxeFV1WXR5YlVpZkpoeldTTElXMy1fNjB2U0oxU0R5b2R0MWZKY05NM25MM245Z2hqamlkcVdJX1ZzQkZ0ejVUNW54N2JZVjFCUVVGaEYyVXE3a2d0UF9F?oc=5",
+      "pubDate": "Mon, 04 Oct 2021 07:00:00 GMT",
+      "description": "Funcionario del TEPJF investigado por tráfico de migrantes busca ser magistrado en Chiapas Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
       "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USEZXOXMzODFaajA2aXdxSWJiYms0c1dMUnk3dVFCS1o3VTFEbDhJWVhoUmdyRVBiSFZvbTZaaXZaNXl0azZOV0R6UEJ3YUFJNVdBVlFxWmIyT2JVdV8xaUhFTnM2c2ZmTU1UTi1CMno?oc=5",
       "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
       "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
+      "source": "NarcoData",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "NarcoData",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMFVsRFlsSjc5bEY5ckpLb195Vng5RTRYSlNjVzJPeEVzN0NJU1M2eUlOMXYwaGpZWlZVelE5N18tNlI4d3Z1Tlp3TFJwUQ?oc=5",
+      "pubDate": "Tue, 21 Jun 2016 14:58:07 GMT",
+      "description": "NarcoData NarcoData",
       "source": "NarcoData",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
