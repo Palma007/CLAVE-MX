@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:42:18.276Z",
+  "updatedAt": "2026-09-14T01:57:58.171Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,6 +76,46 @@
   ],
   "items": [
     {
+      "title": "Sequía golpea al campo en la región de Tehuacán; reportan más de 3 mil hectáreas afectadas",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWt6NEN5VjVnREVWa2NYN2NhYUxKRjZzZFotUEZ0SXJ4cHJReTR0QmpnX0llb2FPQ0lQbUwzTHd0TlB0bXpLSExjVGJFeWFzNE9yY0NYSDNFM19JeXFFX0FkZ1VGdGdDMlF0UG8xZklyc0dRM3R2cGdiU2hTSFVqYlF0bXc0RGJFSVhsM01BcDlwRzJPamJwWE5sWDZ0S19CNVFoaDBCbkZCUTFhdzNRTDFKWDcxc24xRUtrVTB2dXhhOFluZ19uRzZ4MA?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 00:12:00 GMT",
+      "description": "Sequía golpea al campo en la región de Tehuacán; reportan más de 3 mil hectáreas afectadas municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "¡Del Toro hace historia en Montreal!",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QSzVaZzR2azlKOHl5T0dJR3hnajdBMnFGeEs1QkpyWDl5TllJejVNZEk2M0xPbmQzbkNHYWwxUFJJdjI0S2o3NWtsTV9MNUVSVjRSaDBiY1lFTUQ3UnVmS19CNDFNRVdObDY3NUFfZ21uQWxBOFpqQ1N3?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 23:04:01 GMT",
+      "description": "¡Del Toro hace historia en Montreal! e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Encuentran sin vida a María Luisa Trinidad junto a narcomensaje en el Parque Industrial Chachapa, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOS3RxU3VCYno0VUpkTTJMZWF4MHQzM1dET2hIVWFsTW9mXzloWW9RdVFWbUhibDYwS1c0VE5heHl2aHdYTUgzSXRPZzhoSFlPMDFabEI0VlhoWFV1c0lLM3NnSEtpT3JOVENncU1vSVVmZHZRbUw1QWd2UWJieTJ5NTcwYWljMEE0NVNCdWFhdFV5cXZZN3M4N3VhMVNTVk5LdGtaeTVxeldlOEEwYUFSV25xLWJxbWFNRG9xbTR0ZWt5c3hvU2Rod0N4dUdKNTduZTBVclcycmJ3TUtwTHphbUpUeF9EaHRmSHBkN1RBVS01UmxlM2k0aUo5WnV6cklj?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 22:50:26 GMT",
+      "description": "Encuentran sin vida a María Luisa Trinidad junto a narcomensaje en el Parque Industrial Chachapa, Puebla Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUVZcngwNXJlVW03b0tVRkNTTE9jSVp2SndTbFYwVjFtZ21sc1lIa1VvYUlmZzFZbHg0ZHljbUlnMmpCcGdwM2VJaWc4YnROT05fajF3RzE1Y1huR0JhbnZTLWJndzdXd2JzdWloVTVXWjZ0c2hvaE9DRjZONlBCMWlfN19hSzI4a2NBU0x0RnFiaVp4Vk85ZEhOWDROSVdXWlZEdFFCNUV2SDRZcW5XbXUtNnNGazNwVnJBRzQ1b3c3UnAxanZHd2U1blk?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 19:54:34 GMT",
+      "description": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
       "title": "Preparan recibimiento de la Antorcha Guadalupana en Tepeojuma, Chietla e Izúcar",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGNySE5ITmtlTlhMRFRucE9XTlR0aW9aTTVUWUd5ZUg1WWh2dWpXT2ZKTnIzTDh5RUFnOFlIT05oQ0RmWHExUkZnRl9aZFRCRk9pTEdac3pvVjNGSE52X0dOb1UwTFV1VnBVemx3OUVCM0pTUmtVbGJyckFtM1d0VjV5ajZDanVQMDNKSUZFYmY2SmV5ZTJVOFBMaC1mRmRDUW5aTHlERmtxMlNrQW1jZ2p3MHVEems?oc=5",
       "pubDate": "Sun, 13 Sep 2026 19:01:43 GMT",
@@ -83,6 +123,26 @@
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Matan a balazos a un hombre tras salir de un baile en Chietla, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOTFHTWxfQkFSZEVIVnF2RXFGWklObGZfLWlDajRlWDBWalJ6RFdxWVVvS08xQ0tmS0Uyd1ZNSDVlRXppUWVkWG1VWUxlUHhtbjI2T2FVV2hwQ1Z5Q0Q5MnJGa2RUdmRlQWdXZHE5bUdnN25VOFZMcy1FOEFJYzFZYmstSkZtUW1Sc3ZObXp4Z0JkSXk3X1NGNUhLTk45QzZkcUR1djBjVEFrRnBOWG0wX2I1MmhGS2tpZUxUSTRJUHJWaVhOanpwaThQTHZRTHVhdmc?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 18:52:27 GMT",
+      "description": "Matan a balazos a un hombre tras salir de un baile en Chietla, Puebla Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "BUAP destaca a primer egresado de Maestría en Investigación en Ciencias de Datos; busca control epidemiológico",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUpkY2tMSGhpSzZLbWdaamIwN2RMb2xBUnVNZ1ZqMU9oZmNNN2t2MXF0cUxydkNRSFVMMGRaa2hHZ0RoaGwzb2IzWU9mZlFSeVMzLW5OTXNPcDd5MVR5djg2UmQ5VHZwd1hIVXNxdWpqV043NV9PeHNWb0p5V1RrNmZHdVRWR2JwMlZ2TDN1VXhHZ1EwbkI4R24zLTlHSkFfTC1JeG51N0dBNHlqMk4xU3VqbTVKT3dBVzJOZHdaQ1hJUW56elVsSER1dHVDZFZ4Y1gzWnpxbmlHT2xOZHQ0UFdXZktPR0l2LUlPVjM3TQ?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 18:34:04 GMT",
+      "description": "BUAP destaca a primer egresado de Maestría en Investigación en Ciencias de Datos; busca control epidemiológico Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -119,8 +179,8 @@
       "title": "Tráiler arrolla a trabajador mientras realizaba maniobras de reversa y pierden la vida Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUd2eGFVbExxZ0RxS1RGNHV4MjlYNXZ0bDA5d3hxQlluaTJObWRCVHNIcGNmMTVCUGlzVG9UWEg1eEdVUWQ3dkw5cmI5ZWVTT1E4X3FfY3NXT2pTWnhHaS1ZVE45WjBnYnNoQUNqNXA1VjdwdjdCa2pVckhYWEltenRJWlhROUJHT3BZVGFidjNmVWZCSld6V19URlAwb2sxbE5hQVdsQkJLUVBkVzBoRUtqVE0wckJoVEFLQU9ROGV4VWlY?oc=5",
       "pubDate": "Sat, 12 Sep 2026 23:42:00 GMT",
-      "description": "Tráiler arrolla a trabajador mientras realizaba maniobras de reversa y pierden la vida Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
+      "description": "Tráiler arrolla a trabajador mientras realizaba maniobras de reversa y pierden la vida Tehuacán municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
@@ -149,8 +209,8 @@
       "title": "Empresarios piden reforzar la vigilancia en carreteras de la región de Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWk9UdFBJUjNsdVRBdUw0X0RkaFI5R0d6Q0FDVDZZYnRwYmVWS1kxR09PQ3h4dmtLVDJfMmMzbFV6ZW1mOExPS0V6MlVvOWZZcHVLVUlqSnZLNE5ET3JjbjliX3RBR1pRR01wRVkyZWlueGRzMDdzNmFYTHg4VTR5VUNGWG1yMV9WMDVYQ2JpZERsNkhIZFMwMi12WTZPajBLbFNHVGxCSnZ2SDB2S09SXzJHS3BOamhjVmtQRy1n?oc=5",
       "pubDate": "Sat, 12 Sep 2026 19:19:00 GMT",
-      "description": "Empresarios piden reforzar la vigilancia en carreteras de la región de Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
+      "description": "Empresarios piden reforzar la vigilancia en carreteras de la región de Tehuacán municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
@@ -159,21 +219,11 @@
       "title": "Detienen a presunto distribuidor de drogas en San Lorenzo Teotipilco; aseguran más de 470 dosis",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYmhUX3ZFdjRZakJUWTdmeHhlWnlzem1UUVJGcFdqMGZGQU9QQkZhUXBjU3JWYUtfV2pNY3VLckZzRlVhZ3BSRUI0ZkFwQ0V1STdjdi1OcHBzeVhKcGFNSXpmNTExMVVWOGpnWm5uTjFJQm85VGZBR0dmYWx0dnlBSDBMUk43YXRGbUlJNW1maUNKV09VZG5IT1l4M0JRRHpReEZvUHBla2RxU0Zmc003UDNod3hwTGl0cExiQ1FEMXRGNGFRVGhn?oc=5",
       "pubDate": "Sat, 12 Sep 2026 18:56:00 GMT",
-      "description": "Detienen a presunto distribuidor de drogas en San Lorenzo Teotipilco; aseguran más de 470 dosis Municipios Puebla",
-      "source": "Municipios Puebla",
+      "description": "Detienen a presunto distribuidor de drogas en San Lorenzo Teotipilco; aseguran más de 470 dosis municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Club Puebla vence a Rayos de Necaxa con gol de Mathías Tomás en el último minuto",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2U2UVlsZi0wOUlWYXF5TmNPem1NRHFtMHE4bld3R2Z0S29uakV5ekJ5Z0UzYzRvTWJaOWlRc2JVbkN0b01fMTZhdjNkMkFMcGRIUUVoRVc2NVp2NTV5a1AzY2NESXRLUTRpdHAzUzlhaktYQ3A0YnN1MGpGSDkyeFdna2dBNjJOVTdhRmlyV3l3MDF2bEsweUl2TFlNb1J5QnRhVW8yRFRyZF80Unk2QWs0QVZwRDZ4U0lUR2lFVHJ2dzNVRjNfQQ?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 15:14:04 GMT",
-      "description": "Club Puebla vence a Rayos de Necaxa con gol de Mathías Tomás en el último minuto Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
     },
     {
       "title": "Redacción e-consulta",
@@ -183,16 +233,6 @@
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Obreros de Volkswagen Puebla rechazan aumento de 10.04% y amagan con huelga",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3pvbmtMdGFwS0NXOFhPZlM1T3Z0V09rellRbDA2WmwyeEhZa213X1VsSEFPbGhWQUtWZXRwS3h3Mnhxa1piM1JhQ3NMZmh4XzdvUm5TNkNTLU5YeVQ2MThmSU9OeWFnNmlRZmZYY1pQNVpQanVWQ3lMUUNPTzEyMzFSWFR2Wm40TlFCdkRNOGo4YlQ0bS14VVhIWk5GdkRZY0dNYmZVR2RiaVdSQ0xaNjdNTFFZcnRza1h6OTN3?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 05:18:32 GMT",
-      "description": "Obreros de Volkswagen Puebla rechazan aumento de 10.04% y amagan con huelga Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -256,6 +296,16 @@
       "group": "estatal"
     },
     {
+      "title": "¡Peso cumplido! Julio César Chávez Jr. y Omar Chávez, listos para volver al ring en Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHF1X0ZHZTNGR3JPaGp6eUZCcmQ5RkQxY001SUpIOGxvUFR0X3pMRWsxY2RrQzRXZ1ppRVJyT2JEckhFa01rTy1HRVo5akd2czgzU1ZIaDZlQzdGOVRUY0VmaGNKTTJUTG1nbHI5c1V4M2VTNTRTcmhhd094MlZ3WHZ1OFJOMmhweTc3Q3NsV3R4RU1zaFlnbzc2eFdCZ2VyR1NZZUxvSTlhRnNXQl9fVEFJdE44QmN6R0tram9zRXR1N2J3aHNtZDRMTVZDbE4zcjJV?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 21:56:09 GMT",
+      "description": "¡Peso cumplido! Julio César Chávez Jr. y Omar Chávez, listos para volver al ring en Puebla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
       "title": "Despliegan operativo en el mercado Morelos por la desaparición de María Luisa Trinidad",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGZ3UFFMaFBHZkl4c3VZMmVHYWtjWXNEZzVxOVhHNjNYZnZORnlYYTU1cU1yS1A0S2E1LXVhOU1ZemRSNkczMGdYQ1BYWFRsQm5VUG9xMFIySlMyY2xvUXBtSGFrOFl0RmpEbDJUQ0pOWk05eEJEOEJERzR1NUlINUkxV0Yzbzc5UVdyeWwzYVlzWmlONTJvVWlxbzdmNWtkRk9qZjhndWVwVW5FSmptNndQRFY3QjBaaTlULW42S1lDMTc4V2UzUzFR?oc=5",
       "pubDate": "Fri, 11 Sep 2026 21:43:58 GMT",
@@ -286,16 +336,6 @@
       "group": "estatal"
     },
     {
-      "title": "Inicia proceso para instalar Concejos Municipales en Esperanza y Tepeyahualco",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnQ5WVpBRi1wWXlzUWJTbTVUTkxaNFRZclJLbXFabzlCWkpDSHNjNGVyRmhGZ3VKaW9fWWlnb2NOVnBlUTAyZGx4b3g4ZXVlbUZsa3JibkxrOEh1WWY4Zld0VzhZc0dtQm1EU0N4cVZyOXByWi1fd1c2OHBxZktJS0FTaTBkZUZKdzZxUkQzQlZ1Q296RjhBTTI5WGc3dTVCeGJXNHo0RkNLbE5ZZmNsZjZMTWdxVWM?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 18:56:31 GMT",
-      "description": "Inicia proceso para instalar Concejos Municipales en Esperanza y Tepeyahualco e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
-      "group": "estatal"
-    },
-    {
       "title": "Suma Tlaxcala 38 casos confirmados de VIH en 2026; prevé Capasits cerrar año en 85 diagnósticos",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbmtPNVJxS29USFV4RWJGTW5iRmNYU1BJNG9kdWdoTzQ3ZUtYenNNUE8yNEwxU2lGN1NJbUhhMGdqeFZBS1ZuNXdKWUVsY3dVdjVGd1Bhb282X0NNeWhXbWk5MjBkNnlTR1I5RVI3YTVscDlpN29PTktWbTJkSExpOFozWjQyVnV3SVIyN3J6c1RvMjdZcmZVVkRXbHZLNTI1RXh5ekFpTVpReW9qeUFLYUxYbHBVWW9yNG1OR09pSUtwZVkwYnJNNVdiZ3c3TmFrcXRYQTlLaFk0WEtGYnAyLTl0aGRWYlBGUUJKSGw2YW5jOHdLWmc?oc=5",
       "pubDate": "Fri, 11 Sep 2026 17:32:58 GMT",
@@ -309,8 +349,8 @@
       "title": "Migrantes encuentran en Tehuacán una pausa en su camino y, para algunos, un nuevo hogar",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUFYdEE2bjA3dmEtQVRwNTZHNzVGSHVPUklQTERfTUJ1dmlyZTV5ZExydnEwRUpxZVNhX1F0dlZITy12cEYtOHh3RHZKNi1mNFRDc1pkRXhrMVlQakh6Sm5TVHpoeHRham92RTZ2WW5wVjNJV1NaQ2VINWkySE55XzB2OHBRNFJReXBGbXVWLW5tV2s2SlBDU2N0NHF0eGszVmktOXBHenFTd0xjQVV6ZW52eTMwMjlLT1BZdFlvWlY1NWgtV2c?oc=5",
       "pubDate": "Fri, 11 Sep 2026 11:15:00 GMT",
-      "description": "Migrantes encuentran en Tehuacán una pausa en su camino y, para algunos, un nuevo hogar Municipios Puebla",
-      "source": "Municipios Puebla",
+      "description": "Migrantes encuentran en Tehuacán una pausa en su camino y, para algunos, un nuevo hogar municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
@@ -324,16 +364,6 @@
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
-    },
-    {
-      "title": "Colectiva se impacta contra vivienda y deja varios lesionados en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTdkX0VHRklYU3VJTkRMeE96ZEtSSE9kT2dfb0h3WEM5Z2FrNUJBSVNSNHdoSG1GRi1fNmlvY1pGXzU5VGVicFRBanIzYlRjdVByWjJ3OHNIMzFWWHFseDFNX0xmYTl1ZWlUWHI3NFlQUGNkSUVYemlia0RoTFNxOHpSRm5oSzdxY3J3SUloakNnTkREQUJWUzFNNVVZckFwRjM2bmpJZGkwbEpPdl9RMy1hbGJ5dw?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 02:42:00 GMT",
-      "description": "Colectiva se impacta contra vivienda y deja varios lesionados en Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
     },
     {
       "title": "Normalistas de Teteles desconocen al abogado por cuya liberación se movilizaron",
@@ -399,21 +429,11 @@
       "title": "Van contra dueños irresponsables de mascotas en Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVWEzNGx2SVpnNm1rdDhCSzNJX3JSOWNfX0ppNldCVmFXb2VhVUFFRTd6SFdkd2dMX3EwLXpITlZmdy1TWEdDNXoxQl9xNElWc01FUFFWcklUa0dqS1FvQi05T1hHUmlUQk04d0IteWc2RUhsNTFfa0VkMnNjSHA3dDNKRlJINWV4VndWMlFPMWtnV05xMUpPbHB1dGFBZEk?oc=5",
       "pubDate": "Thu, 10 Sep 2026 11:30:00 GMT",
-      "description": "Van contra dueños irresponsables de mascotas en Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
+      "description": "Van contra dueños irresponsables de mascotas en Tehuacán municipiospuebla.mx",
+      "source": "municipiospuebla.mx",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Víctimas denuncian más de mil casos de despojo en Puebla entre enero y agosto de 2026",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbDVOUkNPSnNLeEIxY2Y0X2tCODlzNzlrTk8tZXFSb1BBWWJUT1ViRGlVa0dzUUpqNTc2LTVZU1JOTDFXN25NLUltaUMxcG56OXVzemtaOHhuWlRYcG8tVUlOMUZuWVhMakJRSFRNVVJiLVpvY0lidEtCU3RGN2tCN2ZKZFRuSXRITmtZTWh2YTFLS0hpc1hONlhscERGQVVXdHlCa1hEbUVUSkpwWm1NcjhZdHp5S3pkaUYtX2xXQnM1Z2RxMXRObkpEUFI?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 10:00:00 GMT",
-      "description": "Víctimas denuncian más de mil casos de despojo en Puebla entre enero y agosto de 2026 Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
     },
     {
       "title": "Accidente de Urvan en Huatulco deja varios pasajeros lesionados; moviliza a cuerpos de emergencia",
@@ -424,16 +444,6 @@
       "outlet": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
       "group": "local"
-    },
-    {
-      "title": "Volkswagen sostiene a más de 61 mil personas: así impacta a trabajadores, familias y proveedoras",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQWoyN3ExUnpiUnU4Nzc0YTRVNjdudXQ4elA3eTFROExPN1phbEY3d3RVYjRwbE9aSE1XUklfbmxuZXpERmZkaHhpWndwcXltMS1GLTRQMXNtV1VfWG9MQWpNUnItc1JMVTVfTEJaZ1p0VE5JbWdHRkt5bnJCenNpeWdwRE9Kcnh2bU9ncC1qTHZaZ1liWlNBdkpJeUYtcTdSQXdnN2J0UGF5Y3RhN0hSZGlsS0Q2dWV5amJqWG94ZEx6QUxKSHlTQXJ4YUVWYThLRkNuR0NiV2hzLVVzS2c?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:38:56 GMT",
-      "description": "Volkswagen sostiene a más de 61 mil personas: así impacta a trabajadores, familias y proveedoras El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
     },
     {
       "title": "Alerta en Puebla por la desaparición de Dastan, un menor de apenas 2 años",
@@ -456,16 +466,6 @@
       "group": "local"
     },
     {
-      "title": "Identifican en Puebla a 372 bebés, niños y adolescentes en situación de calle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWFMUUc4Zk9FeEo3LU9tSThkV1A3UDJWUFBBeUlWRklPQzZpcGQwNXI2eVA4cnFIcDU0YXRicEdaTWlfUENOY1hxQlJTZGkwTXdid3JIZlBCWENXYzZ0aUl2cVpzN25keXlka3lqRVJTZl96WTgzbU1CVjBBU3hWaElsdjVqUjZNMzYzN3lSQjBJLXVycE5ZNnE1cm1SSTBQbjdYOHVzVER0M05RMGNNbDVLOTJJZ0NB?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:35:46 GMT",
-      "description": "Identifican en Puebla a 372 bebés, niños y adolescentes en situación de calle Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Tony Gali; la confesión, el cónclave, la persecución, rupturas y la tentación del 2027",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWpWQVNScUR5Mnp0VFpvbnNKUzBCSEdfZU8zb3JoVWtXc1p6dml0eThuN2VZSk42elVNZEtKTTU4R2M0c0k0czJ4dUJsZ2NwYV8zeUhTSzc1c0FhcUNiZmhuUmdyTzk4NTFEOWVmOXdIRUd3ZFdOd3l4N0szVXliS256alNRRm1iOEFkTGVWREY0QXF2ZnpOdVM1Sk44ZnVqbXROc18wbXh3OElDMWlvMGZLZ1Q5UE5QY1VfSlJyZmk5akQ5QlNmSVpKbEZ3UmFhOGRoMzJ1Y3Bydw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:00:05 GMT",
@@ -473,16 +473,6 @@
       "source": "Intolerancia Diario",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Detienen a Isaac N, presidente municipal de Esperanza, Puebla, vinculado con robo de transporte de carga",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbElWTzJZY2YyU3RoTmRSbThqM2hwdVdjMU0zOHNUOTBXbkRwUWVZLWhLV0p0VzY5U2N1Y3cxUU9UYlg4aHU3SGZmSUxoc1M1aFdwblBoNFNLTHB5WDVzQ2RaSERFQmRiUTVFbDZ3U2JUWWZTa2IzYmpLdUpjUUlWUUVhZXdsR1hCWGFLNjc3N0k2VWNqZHl6V0JlbFVWWnpjd0JYNEVFSU8?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 08:24:41 GMT",
-      "description": "Detienen a Isaac N, presidente municipal de Esperanza, Puebla, vinculado con robo de transporte de carga El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -556,20 +546,20 @@
       "group": "estatal"
     },
     {
-      "title": "As€guran en Tehuacán a 4 presuntos ladrones de cableado que se hacían pasar por trabajadores de Telmex",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JTGl6c3IwVF9UdGtVN3VrVWQxYlNGMlczQXVEZmhIZDVKbkM5azJKRndzTy0wRlNKYkktOW0yQTNfQXpBM2Y5OXU0X1BkRGlrOUhQeXpXdFI?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 22:16:58 GMT",
-      "description": "As€guran en Tehuacán a 4 presuntos ladrones de cableado que se hacían pasar por trabajadores de Telmex primeralinea.com.mx",
+      "title": "Lo hallan c0lg@d0 de un árbol",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RYkpqSDlpbDhNYklNSGRuS0VvMjd3TmV3TlNscFBjN1pQTWJRaVRUXy1rdEVFbWJNd3JjdC1iNS1XM1ZmczBKNWY3SEI2Z3I5UjNXSU02QXI?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 04:56:24 GMT",
+      "description": "Lo hallan c0lg@d0 de un árbol primeralinea.com.mx",
       "source": "primeralinea.com.mx",
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
       "group": "local"
     },
     {
-      "title": "Vehículo eléctrico se 1mp@cta contra poste",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1lTGJYTmppYTM5Qm5tc0padzgyd0VSTVhfRnVuMFl5UTk4VVRLZmI4Zy1yMlhJSlg3elE4NG9CNC1ObkFQVkdGVjB4QUNtWjY2bVpybWdROTE?oc=5",
-      "pubDate": "Tue, 01 Sep 2026 22:13:35 GMT",
-      "description": "Vehículo eléctrico se 1mp@cta contra poste primeralinea.com.mx",
+      "title": "As€guran en Tehuacán a 4 presuntos ladrones de cableado que se hacían pasar por trabajadores de Telmex",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5JTGl6c3IwVF9UdGtVN3VrVWQxYlNGMlczQXVEZmhIZDVKbkM5azJKRndzTy0wRlNKYkktOW0yQTNfQXpBM2Y5OXU0X1BkRGlrOUhQeXpXdFI?oc=5",
+      "pubDate": "Tue, 01 Sep 2026 22:16:58 GMT",
+      "description": "As€guran en Tehuacán a 4 presuntos ladrones de cableado que se hacían pasar por trabajadores de Telmex primeralinea.com.mx",
       "source": "primeralinea.com.mx",
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
@@ -684,6 +674,16 @@
       "outlet": "El Uno",
       "domain": "diarioelunodetehuacan.com",
       "group": "local"
+    },
+    {
+      "title": "Noticias Puebla en Ambas Manos",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1rLVo2Y0pzcE1OWDV6eTRoNEJWTU54d0JwbUtfeElLbVpLandwcnVBZG1EQmRVRGE0YXI0MEhONA?oc=5",
+      "pubDate": "Mon, 27 Jun 2022 23:56:59 GMT",
+      "description": "Noticias Puebla en Ambas Manos Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
     },
     {
       "title": "SE TRABAJARÁ CON LOS DIFERENTES SECTORES PARA MEJORAR A SAN ANTONIO CAÑADA(video)",
