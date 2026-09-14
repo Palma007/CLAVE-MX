@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T08:10:10.106Z",
+  "updatedAt": "2026-09-14T15:19:02.669Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,20 +64,74 @@
   ],
   "items": [
     {
-      "title": "Irán informa que un buque comercial fue atacado en el estrecho de Ormuz",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHpCMnRCMmJWTHdoSF9fM3k4UnNVTFZkZF9BRVZwSGpsQXdtQkJRdENYUHlXcVNYV0NpSUtQLV9mWEI1Q29NT0RTVl9QbEozYXk1SHpDN2dKMzZCR2hrMGZOZ3NHZzlPVEIwR21UUUVhaUNIbkE1R2VvUU9MTHBqZk15RGJ5WDZXeXc?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 07:49:00 GMT",
-      "description": "Irán informa que un buque comercial fue atacado en el estrecho de Ormuz CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Unwanted in the US, old oil equipment finds a new home in Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmgtV0piZDBLUGtOM21nQ18yRkdqUUFpMzlKWXVESjBFWFVZT2FEcFFaYXNLRGtjY0RsaGZreUpUN2dsSGdobVladGVsUklvbWxzS2xqSk15SE83MFJJYjlza2s0WWpRX2Q3eFJreWFISjZ0Sl9lM20wcUduQll3VE9OMWRPOEEtQ1ktbk5KbEUtdzcteUFlR1hEV2lsbEZYNUNVZkpPaS1tZw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:08:40 GMT",
+      "description": "Unwanted in the US, old oil equipment finds a new home in Venezuela Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "\"Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida\"",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rUTZGb3NxVXZLNHBhOUYxUTE5VGhOaERSX1JhLVBGaWpOYlpDblEwT3U3cEc0aktrcnFkNE50SVhvU0d4dllNV29NZnZISG5IUzZxVU9OSlZRcVXSAWBBVV95cUxQdGlFTVRqRW1PRTJuMm9neDlmaS1oV0tOTGtDYWtuaDFOYTZxd2JiNEk0aTdVcHhGQ1g5RWE4eXVvbWJqaHJLZUttT0lmNlNUc0NvYkpGaE02bEVhMERFdXE?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 11:06:08 GMT",
+      "description": "\"Estuve a semanas de casarme con un violador en serie. Mis seres queridos me salvaron la vida\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "China: EE. UU. usa \"manual de Guerra Fría\" contra IA china",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1REbi1NQXFnYk5YUndzLUFmNnhGMEwwZVZUQWV2Rm5nck04WkZnUzhCMlE3cUU3VlZzLWdCM0dUVHFWdWlhQzB5VGxielpQZ2ludzlJZk9wdmdnbndrZWl4elYwWmc0a2tnYzRPSWhteHFkdGxZZ1g0cXZnWWVQNDIybk9CSWQ2emRoNVVBTjRpYU9PX1BnT0VEM0wybWdPeVJxYldRYzVxTGV1OEFPcHNkMnhtdktG0gG4AUFVX3lxTE1xSTJUakgtcnF1aXlyX3paSTRTNnVJS2tLa25zeDZ6UzNNNHdWenpvTXUtaHNpZXp6bUxMUjBWQ0hXdV92NkIwNjRlWDlRZTVxbnRWUGNjcDRxVzA3YkNfWTVQbG9QMUE3dWhPbnJ1d3JFZlFHNUxVOE9QNTF5SDFxeHkwU0kwWWNzaVNqYmoycGo2dDgzeTlZZE03eUM1bXJjakM5SERaY2s0cmd0Zm1MTi1BRG1BRGY?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:34:10 GMT",
+      "description": "China: EE. UU. usa \"manual de Guerra Fría\" contra IA china dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Instructor de baile cubano dirigió sabotajes rusos en UE",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekkzUjVvMzA2Z1B4YzZhU3h5eXRXd1BuTEZoU0ZHSnNxWjFld0tlOHBqSEVjdUhyNkJYNGpLUlh0bWx2WW4yZWxoTXNTcUJqejRBdVVicWlYZ3VHT1dUMEU3emRERUhYcWY0SGYxX1NjWkp6X1o1ZGJQWUhaTHdwTFc4SU9xZjBkWGNaYTBtanVUcm9uVEhIWHFwbm5hZGh0TThXb2ZYV1g0d9IBqgFBVV95cUxOTEhudGRGcmVYemdOaTYzUHdJRW1qNU5kXzMwX2xSaHZLenNLcUhyZXdaQXNDeVY5RWx4cl9Gd0N6MWhjVlBndjRVQnN3SjZOQktheTh3Q2hTSzY1UHhnMXhyaTkwMFU0dDNPVjY1cjJfWFNvc1AybG01SVVHV3VkMUdrQUZxY1haMEVnUUpTMXowOXFpVGVXUU9HeV9uZUZCVDZvT1lJQnJidw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 10:00:43 GMT",
+      "description": "Instructor de baile cubano dirigió sabotajes rusos en UE dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El partido de extrema derecha AfD triplica sus votos en unas elecciones municipales en Alemania",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQzdQTGZ1bWo2RWlEWmJIWGs1V01KcEtnZzg4dTRtbXdvV21KLVY0Q2htQUZIR3BILUdjN3o1R0FpM0V2ZnlxSjB4OVJ6Wk1KSGxmZU96azM3ZFdUUmU0cmhVWl8xeVp0Q2IzdEFsNFJvckF0RnhHbHZhYUVBZGo0UEFhaFFZcDFBQ1piem5KSkMtVHF5OVdqSDhHYmpJWUFxTW1FdFltSlpUTTl2V0NZWGVkZjRFYllWVklEQlR5czNld3R5dWlnV1FzYzloMllyQV95bDZZakFYX2hS0gHwAUFVX3lxTE9ESHltV1BGZE0zbENPMUNrVGJJcjNNN09LRmFLYUlnUm9EcGxzOElMNmM2YjRjQjZ6WGl0X1ZSR3hjbnpscTNjVzZ3bmxSWjB6aTVqYlAtYlNNRFZQYTM4ZHc2amlsdHJpMF9wdWdMc0tkT1lWdXc4VThJQXdsQVBvMHBBazhzOEJQbUpiWVozdy1nQWc5SmdUdEZPWUI5N1ExbFFpYmE4NlBxRnlBSzhUWW5ZT0lWWml4cWZpYU96SldIOVZQY1Q5Ui1uUDd4YTUtRFBmVTdDWGpiTzdubE9TLVdJeDR2dm5ZZHdqcGJIbw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:55:12 GMT",
+      "description": "El partido de extrema derecha AfD triplica sus votos en unas elecciones municipales en Alemania EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Partido Socialdemócrata gana elecciones generales de Suecia",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNXJSTzlCQUVzckRTYTNXR00xMXMzMjV4OW10ZUt5cFc5UHpvU2FsX2J0ZGVCT291V3oxOEVyYV9jV2ZjZGMzeHB0N2FKNlA2eEIwLTF1VVE4TVdFRHVvSnF6OGZJN1FtV2djZjRqdUZKelBja0IxRldVamo3V1ZJLXZBWWx3NnZMN0ZkbS1DZVE4U2hYWXhJU05zZjNrTFp1XzRn0gGjAUFVX3lxTE1nbm9pdElrYjhpT3Z4R3BQT0JWVE53VUNsUkJVSG9GVVJKVUpzUDIyY05fV3BQLTQtOUNhaE5GOGkxWFpYbHFydUlpVUZTQ1JDUFZmR01OZlFEYXNhYmlwT19DVlFaeThSS2tYOS16TGlNWjZZYnNHdnJIRzlMUU5STjlhNkhMX3BNYlJmTzZKVXF5SG1vOWE5a1NJUklOQjNPNXM?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 04:28:11 GMT",
-      "description": "Partido Socialdemócrata gana elecciones generales de Suecia DW.com",
-      "source": "DW.com",
+      "pubDate": "Mon, 14 Sep 2026 09:37:43 GMT",
+      "description": "Partido Socialdemócrata gana elecciones generales de Suecia dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Matan en México a estudiante española de intercambio",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2Vfa2lVZXJRZ1hCNFhKQ05mNFlZNTFucnotVVNqdTFOWENGWFo2SFpQRlBnRHdXT3JZZWhTMF9GRGlyMnBEam5lWEg2ZmQwVFA1Z0ZIdmREazFlMXNRTjF3XzF2TnUwblRSdEVHVU5NZFRBY2xZdjB2UGVzLUxmem5TcV80WjJNa0JvVXZmV0ZmZWhCeHE0MEVzSDRzcWhDZC0tMy0yQ2tmWkZ3aUxBVzdGdmxlaVczOVd1dF9Ec01MblnSAcMBQVVfeXFMTzlOTGY2d3pwT0lVM2xlZ2dzaU9OSkdURVM0M0RpTmRvTllNVWJQTHFKWTVQTUxFSDBtaFMtRnY2YmF3ckpzYU5DTGRZMThKUVhQaHVqeWlQT3I4M29WN1h6RFV2b1JETFBOSmJ3VnpyRWswWTg2WGROeXRvcm1wVVFucmFHd1Nzb2VudXdUUkdjM2MtdkExTVFSQUxJYjlGcGY0MmhSRUZIWU90MkVMSzEtdkU1YXNwTUIwVXFQOFRDdXJj?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 09:10:57 GMT",
+      "description": "Matan en México a estudiante española de intercambio dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Rusia ataca tren de pasajeros a 2 km de frontera con Polonia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclV3Um9qcU4tT1ZtcnloVnJleG5KVDhkam5vUzNfTmlfd0pXcFZwWUpyN0o1bVdOMTQ5RVA4TEp3VlhONHA2TjJsZGc4U0dneW5VYVRwLXVoU19uRzhNNXJhajBEajY4Wjh6Z1pwbkdlTlNlVjg4RE81WnhBRkJ2dEtqaU5iZWNMT213NE5TSnd3eUZUbk8yTEc1SXDSAZwBQVVfeXFMT0VRYlJLUktEd0toZWg0bV9vVmxtbnVOa3hrZkJzS0h5azkwUDB1M1ZFcUtoNl9sQUNYbXBvWTJqT1hhR1p2aHNDNHI3QWVIYmxValVMQkt3bmtzeUNna2pBelJGWkV4cm96SlBjWUU4XzEzaFlEWW1PUUp4dHJ1UWgydEwxLTBwNExtTXFzd1d6UDB3M2JvYWVtVWRF?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 05:28:47 GMT",
+      "description": "Rusia ataca tren de pasajeros a 2 km de frontera con Polonia dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -89,6 +143,24 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOGR5SkdiTGlqLWpQLUlYTzVXTEVTbUFHOHpuclkzdEt1Zk9vcW5JM2UzNFFMNXp5RnNONEFCdTF2a3NoYTBubW00VEh3anNHN09SYmVlTkdtNU9YcG9lbHBhbFBxb2p0Q3JRNEZIRTlsWnlQYWlHWmZYUVhfNmtZUkFTUmFHMUgtV2pnY1lBS2VqNVpmMXctUEt6RFpjR3hvZmI2QjdKQTlmc1ZSWkNLSDlHWkRBZmhoV3RpZHg0X0pmMV95bFdZSFg3OV9oZzdPN1BrSlVJbmZFblpZRW5XQ3NBYnQzbjJG0gH8AUFVX3lxTE1welFpbWM1REM5bm1mV3ptNk1MSUxZVU1ZWUF2Vm1JNWZVSHlmNU1VWVFmc2w2eEhFZG16dTJ0MDZ3VXpCdTVXUXBDcFN1OUhUeDZtT002SVZXRmNTZ0xyeXdBMVcwd05ES3V1QktuWXJoVHN2V0VxNlUwdlRWX0V3d1Y5R1BPSC0yX3dKaWZZQ2g4d0ZqSE5qN3FiYXZHemFVQXhPcXlmU2I4UTduZHhERDBHX0JtbWtxZ3VZMk5rY3ROcWZYODFTb0Z1QzdlRktPdFE4QTBQNTg3Zk9GUk9JRGQ0cXBnZE5QamhWd1VHRGdRUlBGTzJGbnJELQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 03:30:01 GMT",
+      "description": "Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo ‘zar’ del petróleo en Venezuela EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3c1SWxBU3ZCSV9vNXBhNkZIZzNGLVQ4ZmgzOFp4RmhINHh0TGZ0TWV5NG5POGZtOU5LdlVYcC1EUW1jLTRQbDl6cUNhMGJ2ODRINlhsWUtfa0Q4WG8tZDFuank1T3NIdXN5cnVTc1Jib3RvY0ZCN0FfT2FVV0U5eEFTSDloOTJ4V1ZjRzdUZ2RGbGs?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 02:14:00 GMT",
+      "description": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "China, regulación o mercado: ¿qué hay detrás de las alertas sobre el peligro de la inteligencia artificial?",
@@ -109,31 +181,31 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Anderson Cooper le pregunta al CEO de Anthropic si la IA podría matar a toda la humanidad",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHNvT2FZQURLNFl4LTVZWEotY1FCbXE1NUJodGUzOHVnX1FuTDg4MHlYODRqSXNhd2YweFBKbkxucy1sVC1xV19wTmRvVFJwVDJZa1FjYkY0V1g3LXdiNkotR2thVFB5SUw3eHduTWZ2TWhGbHB6bFdNbUdpU0J0MmxvQWFTMXF2WTlvUnduQkdfRnJrTUR6VUU5U29kN3kwdkFTOVJvMHhRUQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 00:40:44 GMT",
+      "description": "Anderson Cooper le pregunta al CEO de Anthropic si la IA podría matar a toda la humanidad CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Polonia reforzará la seguridad tras ataques rusos, dice Tusk",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTZURHE1Uld6d2taaTBJOUhFcEhHQUZvc2hDWDd2ODdEeXAzWklCczdsZDhjNGF2ZWhYSjEyOGpkdXRFM2lIaGN3eUd0N3NLRGxydHctdDZmdjh3SlJMOWlWbU1CMDZLdTJGUlhETVdDS2JNRGtSNWxxR0tlNmJXQ2xQd1dwNmswemVUUmxLTUc5WUFsTDVXcUpUVE5wQdIBngFBVV95cUxQRkM4cXFENWZQUXdkU05SSHF5Q3duSGR6S2IyaFpNVUN4ak1qMkxfMFFxdU5CMEMyNE0wbV9aM1dTZXBIMWVwWEM1VXNQT2VZRGFma1ZWdW9rREZnMUtPNmxOWUVOQWVOUzJobTMyUUpFMVI3LXFmMzNEd0xjOWhESk1KWEVHU2xwR25SMFJ4alJoYjEtUF9iVnUwelcwZw?oc=5",
       "pubDate": "Sun, 13 Sep 2026 23:34:09 GMT",
-      "description": "Polonia reforzará la seguridad tras ataques rusos, dice Tusk DW.com",
-      "source": "DW.com",
+      "description": "Polonia reforzará la seguridad tras ataques rusos, dice Tusk dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Rusia ataca tren de pasajeros a 2 km de frontera con Polonia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclV3Um9qcU4tT1ZtcnloVnJleG5KVDhkam5vUzNfTmlfd0pXcFZwWUpyN0o1bVdOMTQ5RVA4TEp3VlhONHA2TjJsZGc4U0dneW5VYVRwLXVoU19uRzhNNXJhajBEajY4Wjh6Z1pwbkdlTlNlVjg4RE81WnhBRkJ2dEtqaU5iZWNMT213NE5TSnd3eUZUbk8yTEc1SXDSAZwBQVVfeXFMT0VRYlJLUktEd0toZWg0bV9vVmxtbnVOa3hrZkJzS0h5azkwUDB1M1ZFcUtoNl9sQUNYbXBvWTJqT1hhR1p2aHNDNHI3QWVIYmxValVMQkt3bmtzeUNna2pBelJGWkV4cm96SlBjWUU4XzEzaFlEWW1PUUp4dHJ1UWgydEwxLTBwNExtTXFzd1d6UDB3M2JvYWVtVWRF?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 23:28:11 GMT",
-      "description": "Rusia ataca tren de pasajeros a 2 km de frontera con Polonia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Rusia ataca un tren ucraniano poco después de que altos funcionarios europeos abandonaran la estación",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VOXNTbmpXVWJrazVyNTY1Y2gwRHExeVVUWlNNak5ra1VMR3ZlU3dkeXNoLTl4a05BZUZra3N3clc1UXZXa1Q4QWJQazVfdk5xeG1nZVpsbE05OEnSAWBBVV95cUxNRjJUYm05Q00wRjBWV2tNZGNZaVJpR3Q0TlVNNTNjMkxlVERnUFFpb2luWVp3bXFXYm0ybi14MUZIUVdzN2x3Y08yelB5ZEdyODNIOHhDN3NvZldISDMxUmw?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 23:06:04 GMT",
-      "description": "Rusia ataca un tren ucraniano poco después de que altos funcionarios europeos abandonaran la estación BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Las graves advertencias sobre la IA son más complejas de lo que piensas",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXlBQVZ6MjlLeGoyM0wxdHc1WVNuUzBzMG92c0xBZ3RFbk9ERDdDb3hxYkNVWWc4MXhJR2NnZzRVcmNBMldqYWY5Mk1nWG1YZlhfbGgwVmpVd2dqNlBpa1dRbUpjZGd0cmUxQTVTaUM4OHpJNHVtbzlfY3E4UUFYLWdlRHNnbEct?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 23:26:00 GMT",
+      "description": "Las graves advertencias sobre la IA son más complejas de lo que piensas CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Aplazan la reunión de Irán con países del Golfo para discutir reapertura del estrecho de Ormuz sin la participación de EE.UU.",
@@ -143,6 +215,15 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "El bloque de la izquierda se perfila como vencedor en Suecia con casi el 95% del voto escrutado",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ192YW5Ycmk3Q0kzdGpXenFlUGlHdzlwTjA1NU5hbWpWMGFZSHhDVW45YnFhU2FpOHY5Uzc5X2lIWFFlbnZyWWVXRW9aVGQ5MVhaNmNBOFFQOFRnTGViT1N3dVNtTWg2bzhOMGRLMEEyR3dWNHZ4cDF4akw2Q3pYQ2ZGZkNMVDktOG1STFk5MDFsX0RYNXBubWZrY0FLaEJCNnhjM3lLMG1abkpuNlZNX3JjcVVUcnlwOUlPcThIN1V5R0RCb1Jia0UzVDnSAeABQVVfeXFMUHZsd2RsWE5lXzRRd19WNTcyZF9fYW4xLTMzbzZ4eHZLYnhNNXMzcnNrVHhRdFlvYlEwZUw4T2d0NmZsZU10eUY0UGprb2FHampsVEsyMTk2NkUyWFFkek81cndDWENnYlpVeEVHYWN3WHNjMUFnaGFMcWpIRzN5NG9LMHFURDhlTmktQTNVb2xHZXJkTktGajJoRzRwTjRwaDROSFdqaUU5aHAydUlFc2Q5c3dWdHViZldCZllKR25mdE9VOVRZSTAxSmhlRjlidUFyNTRxeHVHY0hpS1lXZlY?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 18:08:14 GMT",
+      "description": "El bloque de la izquierda se perfila como vencedor en Suecia con casi el 95% del voto escrutado EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "\"Los empleados estamos aterrados\": la advertencia de un exinvestigador de Anthropic a la BBC sobre los riesgos de la IA (y por qué genera críticas)",
@@ -181,49 +262,22 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Rusia no descarta volver a las negociaciones con Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm9xdnYyX3lTd2s1eElxTWV4VHI4ZVZwOXhjSjNCODlENmJwU29vaV80ZmJvcmdna0RBVjFQRnlYOVl6ZFdrd2xIbkYwYndsQ1o2YWhNZ2hLWDBKT3JiT3Z3XzFCZ21oQWhvSHdtR0dYMDJaTHpKX3JGSUR5RDFqSWxuVVRJNHhPZml0emhQck1YSjgtMVpGWTNZVW1pb0Z0SFHSAaIBQVVfeXFMTk14ZUM5NkdaWmw4SDlCa2NTZWF3ZXV6bkJkbDNxaGlEbDhCcUswWEdSVjRrYjlCVWhFT1BEMjBkOGJGUF93Wk90dGhOUHNjVWc2X2swdk53T0hxeTBDMXN3V3FtR0c1Y011MDFCbzZZVmxfcmloYnJIeTVCM1lXT3ZtcENRZF9ZWGhrcTBtR1NXcUZiaTRWVE5WNU52clBpeXZn?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 12:26:03 GMT",
-      "description": "Rusia no descarta volver a las negociaciones con Ucrania DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Casi 300 detenidos en Chile durante aniversario del golpe",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlFxVVFjOWJJQ2RUM0Jtby04SDdNZGZhV2tXeEkzbzRTVEF0RTlWVTV2N25GcUlUZTA1bEdqTEtOby1EX1NxMGVCTEVmRXNBNW1hNVlMb0tmbWxKcDJEVGVqZVJfdUpzci05MktIT3lKZFEzNmFZSzQ5SmkySGZJMFEycVJURmF2OVYteFZaa2E4aGRE0gGUAUFVX3lxTE9pVTl3YVZYSDl0OUdJdXpLd2xqZ3huUVNyam53U1RYNHRxU1ZpTm1TeUF0QnZ2UHdnaVlCVFNBYzMzc043UXh5Y0FBbDB0WXVnX0d2bUJ3RFV0MTl0ZzAxY3R4TENQVnRicnR4aDJFTFlmaXg2c3JCOHhPMkJRM3AxbXhKMHV6ODA0RG5aa3RXTE5OVTY?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 07:20:42 GMT",
-      "description": "Casi 300 detenidos en Chile durante aniversario del golpe DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "La socialdemocracia aspira a recuperar el poder en Suecia en unas elecciones reñidas",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcDYyNlB4azdIeTlZSXdmX0gtaUEtX2dQYzdkSFAwUWlDY0xLM3BhZDhfNExGbHQxM3ItcDRPeEkxUHNHejhuYVlQSWhUQS1ucjFZd2tWV0xyQmNpYURkU3ZwS21LU3NUeWlKejdLdXRyclRoVUJJOXFDYllpazV0YVEtcXdOd2hYWl9RRmE2cTJWVGdjaHVKdFB5UW1jdlY5dVhUYzV0UTVtREY0eC1oZExNdEZZLXEtcU1Nd0dfYTNqVE5acnRWWi1CeTZ4Z9IB4gFBVV95cUxQUjNVUDRBdEJ1R1pvMUczNThEU0RYT0dUTVU5RnFQdlJkUnZrRmVjRm52U2FDMnpJcDNFNmI2RURpeFI1Sl85VkVEb0RiVFN1WjJSa1ZtZ3hhandMVl9ZcWJkMm9hdHA4Q2hILUdLV2hOaDJOdk42ajFCSkRDYXJJc2xpZGo2RjB3b255X21TekZvTmV1Z1NyMnNtVmluTGt2OElFekd2WklKbTVXVmhoMDJCMnVWazN5SHJHTVY1TWRwZHMzckJUR3Rra2R3ZktZOTd2MFRvWEt0ZElFYUZIM1Vn?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 03:37:00 GMT",
-      "description": "La socialdemocracia aspira a recuperar el poder en Suecia en unas elecciones reñidas EL PAÍS",
+      "title": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0VhNVJ0Q2hrNjFxLUg5eWZmNFpTVFB1M0hKeG9PWHNDeEN0dHJnd1liQ25VZ3RCVEtxT3poZjl0X09CcDk4SVhjREt2UzJKaGFPYkF6ZnJ3enRZY09kM0E3NU1FRms1UEhHaTlOTEI1Vjk5dzFtdmpkWjVXUWNTbW9SVk03ZktjSmduX0hnUk9SR0Mzbm1IeTNkWmFISTZfaHVVRmVmTGpfOUJIckd1TVhOOXI5NTdHZXlWVUpSQUFhZ0VwWkhBaUFGbFl1V015RnE0VDhFY0rSAewBQVVfeXFMTkNKSUIwNzlHa0dzUXkwU0NMSXhpMWhyakp0blp5MWZGWFBkTUVES3gwT3VQVWJuZm1qdmZSWXBJZTZPTEduaFFibU9NNngtTXc5RkpISDJpLVRJX2xaemszQnQ5WG1aQmxTRG5acm1RN0xOWmxGd3dYb1c5ZjVIb0pqLWJBZzFYWFFpZ3VZVUU4blJza2RBaHRDaXpldWswTWVlWXRRbDk3Vnl2Zk44LVN0Q1QyNHFwNHVXZnBBRFlZc0RFUExMNmozbVNMc3pHQ2FoTzBoMDBmSU1DYTF0NThJak9BalB6NFZSaUU?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 11:29:31 GMT",
+      "description": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "El mayor escenario de Europa: 30 hectáreas para que 600.000 espectadores disfruten con el ritmo latino de Shakira",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMm5meGpIcFNVQV8yUEVROGdIbUxKNzNTWmZGSVVoN212aHBFWG0xbFFWRGZwa3RpNEJONnk1UUVibFM5NFNXbmdDVUs5ZUxlbjN4eDNyRzRiSW1kZHJPTlJFWDVLaW1vajVQRkZ1N3VXM1ZKRnhFUkJxbnZHMmE5YW5CWmI5X1NQaFJuWHFvSDBkakVjY3U1Z1ducVFtejduTDE5cjdqWDlLU3BreFpKWlZlVV9TUy12NGVGYVd4UFd6bzluY25NeUg5ZlFEb2EyaHFXWllteEpYY21BSVJFYXU0dmhLWDBBYXJTWllhSU56SktEOWVwZnhR0gGOAkFVX3lxTE5Oa2p1d0p1a05iSHI3SUxpR2VKOVVwbkdRQS1zWkd6RXNyZW9uazlHWVlINUJTbnNqSnRzRTgwU016aTVWeWVWakpjVUptLXJjZ19JWm1pVDZPdVhTYU5qQ2VNQ0F3Mko5M3JxaEpWOE1ZbHpKa1dEc0NiUVRObVZCcS15NE16aVJDQWl5UWVoX09SRURXTVYtSldMZXAxQXhBbS1Yc1hIQ1g5T0Z0Qk1FTjZOTEdweXNaZktsd0hqZzBoMmZER09jQ1Q5VDNwNTNxMnJ1LTZRVWVkOEpoNXF5NXBoREs1UzB5LUdDc1otSU5ncGhiZFdZRHNsTTF1MnFoekQ2bU5jcWcxLTBQdw?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 03:30:01 GMT",
-      "description": "El mayor escenario de Europa: 30 hectáreas para que 600.000 espectadores disfruten con el ritmo latino de Shakira EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "El “feminacionalismo” y la mano dura con los inmigrantes impulsan a Abascal entre las mujeres",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSGIwQXlyWG14Y2ZPQ3JvUlUxRW5GcXdPT0lCLW44aTRkZThFSUxqRzJYVnhGVnB3R1IyTURGcmJMNVZIMmJKSWF4MTFCSjVGam9sNmhlaVBaM2RoQ29ncWg2T09ubnk5X1VhTEltalBLWTBSVnJYdmN6Q2hWX21TeFNsbVA2VEhia2lyMUIzdnRwbzMtM3NZU2JPZnFRckZHMUNGLS1BVzdxQ3RDekNuLUlHUEc0cnpxUHVUNmhvRWNmYm1hR1VFMVNwTllTZ9IB4gFBVV95cUxQTEVGNEI3aVdHLTVZY1ZhSWNjU21VZVpZdXllaUFRamRHV3NVRHJvdnVpLUtSQzlHUVV0N2dFa09IaVU2STVaLVI0dTRLSzBFNHM3WldGUXg2d011OXZ3MmxUbTZtSkM5UHdScGRpSWZiR21IdFVySHNTWmM2SGV1WEJaY18zRDdrbEVXQVpjUTJ6NHpaeDctMnhqUG43NWxXVmMyYmZMWE1QNGVneEFUMzBhN0sybVhPcjh2S3RsTVh1TjZDTmZLY0lNYUU0bGZyUzR6a0FsbnRRNDFpd0NsTFFB?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 03:30:01 GMT",
-      "description": "El “feminacionalismo” y la mano dura con los inmigrantes impulsan a Abascal entre las mujeres EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Los BRICS cierran su cumbre con el foco en cooperación económica y crecimiento mundial \"inclusivo\"",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN3oxX2dGOVRqaUpkWkdzQnFRR1R4dXZvbTlxd1pSWTk5WUNXcWM2MnMyRUVDWG5TYjJjSS1mZjJQRloxV0RnUEFkSlFzT21CQVhweUFXUGJGSjh2bU9xcDJ2ZDcyV0lDVkZWMnZrLWRzSFJRNmhHXzdzelNIcHVjY0JDRk1WV2xaTVgtRHl1Y2lOR2xDZlQzTFptdkxtUnJjSXAwazQ5S1dHaloya3E4S09FWkJBOXFDdGJNaUNzNENTdE8zem9zVklpYlBLVlluOFNfeHNFMUxoelBZcXhVNFdyem9WYXktM2sxdW1ka2l0WnpN?oc=5",
+      "pubDate": "Sun, 13 Sep 2026 07:45:16 GMT",
+      "description": "Los BRICS cierran su cumbre con el foco en cooperación económica y crecimiento mundial \"inclusivo\" France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Zohran Mamdani: “La democracia no sirve si la gente no puede cubrir sus necesidades”",
@@ -233,24 +287,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Exclusivo: así fue el esfuerzo de Hegseth para mostrar un dramático rescate en Irán en “60 Minutes”",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFZ1Tk94UWktaWxVMk1lZFExdXcySjc2SlJTQjBNeUtNNTBoM1I2dXlOaUlRWnBFbGhycmtkbGUxa3VWRk1OcU5HM01FaEo3VTM5aGJUVnUwb3BFYUkxMV84S3ZqRVAyMlp5SHJfWDFQWW1OUTR1T29sbmNZUXJ3RTg0OHZQMTVNY0p0SGRfRV9tVFU?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 02:04:00 GMT",
-      "description": "Exclusivo: así fue el esfuerzo de Hegseth para mostrar un dramático rescate en Irán en “60 Minutes” CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Céline Dion vuelve al escenario tras seis años de ausencia",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3dZRjJqYjlkRjlXem9qQzBYNmdDTW5vOUhsSU5hbmEyZDhMa3QxR0tsZjBLRldtUkw3cjBIeVpOcDViRGRLcjNpV2xaZ1pWb0k4LXpZQXh3V3dhdW5HeXJ3ZHhYZU1kdEk1cDNvTTJrQm5TTmFLWExKSnBpSDRfUWEwdGVqT2ZJYUZVUWFfX3M4NjA0Sk03VlN3NWQ4clZYM3Uw0gGjAUFVX3lxTFBsN3F4Nk1IR3dkU3Z6MEdSeWVnTFdoSGFhaGtNLW5fS3FIb2ljaUhmclhlc1lzR2o0V3VTNjRkQkpYN0h5bW1ORl9nNDNqR0RnSm5Jd2toN2ZTbDVpYWk1U2Fqb0tUblNaMXA1SWFqZkstd1U2NnJRRF9kTU1RbHhzSjJ4YTlSUnRBenNpSVkzM3M3Q2NiOExxR2xHNl84b2pTQjQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 00:01:10 GMT",
-      "description": "Céline Dion vuelve al escenario tras seis años de ausencia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Así fue la interacción entre Mamdani y Ocasio-Cortez durante la ceremonia del 11S que desató críticas",
@@ -302,15 +338,6 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOa2dVM19JdzJWVllock5jZUQ2eDBJc2cwOWl1eDRMUTM3a2VkcHR0VllPbFFCLVdEajZ3XzI0cW45Qmctd3RsUVRWRVZfSzAycldtVXF3RkRqVUVtcENsSjdYMkhrRnRJNFFiYnlSTi0wMWJaZTVISlJCYUo5VGFLc2FScVpBSGdmMk1ySVRBOFJPRTgwWWFJNGlCUnZnMW9pQ09qSHlNc2dMWmhvWFdveXE3QWF0aGtNNHVGdG90ckdHWHFPOVVyczE3NUVnaDBBYzBxSmtoM0RfcktONFNoNzZsTFpyb3VLWHRvdW9tbWhDT3ZjVXZVeFBB0gGOAkFVX3lxTE9wUng4UVl6RnllNkNvbUtCakNSVFlzXzNPYlZBMGR6U1VrVzAySUV2TVJQS1hhX3NfclVocmFRdDFsLUlaQVc0Q3JQeTNiendlYUx5MkJUSmV3dW5aVG9rMGVFTXBmTU9hcVNkbjJRZHJJUXVhY1pPanpvc2U2MU5YampxNmpQOUpPSGFkaFBOeTJVMVVtY0VqUHp6Q3hVaV9GYkVwNlRIb0JOS1NNQlB5MmtZdmpxekhva3g0SzctT3NnY0FpWEwyY1c3MldXemNLZ0RtMlRCRHAtUDB0RktJRGJ1S3FNeEpRTVhadzBSMHcyNUVJTm9IaGhFZFpwZGNoWG5wTFJlSWVxTm5Edw?oc=5",
       "pubDate": "Sat, 12 Sep 2026 03:30:01 GMT",
       "description": "Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Peter Sloterdijk, filósofo: “La gente que deposita su ira en la AfD perderá dinero, perderá la esperanza y perderá las ilusiones”",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNkIzX0pmcVBIcWQ0Z01sTG5kNEJldm1TbUIzcXhmdTFpUlY0cVRzS196cG5kbC12N29GN2czLWlwNTFIaHlUdm11bTk2VkUxcWJ5SEp5Yk5TYmNtc1RLNk5pRFljMUJfbkZPRExBYUtSRGRJdTAtYUFXYTQwV0o4a2VPd2pLdG01LWFCUEs1RjZCNy10UTJwX2dNRE1MRVNYQW14NWJXQ3lFdE5JcFZOZlcwRHM1TkNQWnN5MGVBYVY5MnRpcVRHZ3Atdng4Z01JVmJWZXdvdVNrUkdfVklLcVl3UzQwbEgxMDUwNlg0WHFxeGJva01MctIBjAJBVV95cUxOS1M5MnNMeWlGczhiQjdsTElSbU12MUJ3U09iay1NX2ttT1lwUGZLY1dHUTNKUVZFQTUtWEExcjcySTg2SkNHTHJaTVRiY2xRbDFpQ1IzVjJtZ3c3ZW5qZDg0UVZwMVFoUEZKUDQzeEN5bkFlTmZJQy1VVXRHNXRBMmNfWlhLRmlmVEs4TnR4ZkZWSktUSVhob2V4NEJJNHRmbkN5dnktZkJGS2ljald1T25EclhZNGNORFU2emMxd0tEZUxsZjYxMW90UVhEY05RQjJwVUpLNENnS01RalB6SFEtMFhIVkk2ZTZkcGpUVEt0aGdVSGoteHJhRnBYdEdyaWQ3LURnT0VOQmNR?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 03:30:00 GMT",
-      "description": "Peter Sloterdijk, filósofo: “La gente que deposita su ira en la AfD perderá dinero, perderá la esperanza y perderá las ilusiones” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -424,19 +451,19 @@
       "domain": "reuters.com"
     },
     {
-      "title": "25 años del 11-S: revelan datos de la nube tóxica vinculada con la muerte de miles de personas en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOHJ5Ry12V2M4cFlsNjJkM3ZvbDBmd3JuTnNJV0ZWZUxmSU9sQWQ2MXJDRzFUSXNPZHFkZ25NbUJXM0hUOWxhbDhkSHNBbnNqU19uRURSQ1VTUmVuM3BuamFTdlhFVWpHUzlOcFVlX0RNc1dYRURIX0E1dDdZVTA3QWVmWGpsUGtTRWc0cjRNRURlRFc3S2hicVhOazE5ZG1kaHF6OU1sc05Xa25PZGo2ZWQ3d1dFR2hlY2h4ai1kQ0thajhyc05YU3V3MzBtZUU5aW5lenkxMF94d2RhNE11b1BZeHZ5VE5nYTBrcDlXempQcUNBSmI1M0o3Q0FIMnR3dEFFTg?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 02:00:33 GMT",
-      "description": "25 años del 11-S: revelan datos de la nube tóxica vinculada con la muerte de miles de personas en Nueva York France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Venezuela no ha sido salvada, ha sido vendida",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzlHTkw2Y2FoOGxhbWdxbkNnMWtCbmRTSXRnTnhnZHlKYWFEaEU4T2FQMUN3MHRCTXV0NkwwY3pzcEY3OXJUQlloeG1Hb2I4c2xuNjdVbXFMZ1VkWTJJV2M0Y2drc0ZBOTZiV1kzaXpzMlhoNVhHbFMwRGhKR1dDdDgyNzBXcjhJYWRRTXFONEpkaC1BNGE0R05R?oc=5",
       "pubDate": "Tue, 08 Sep 2026 08:00:04 GMT",
       "description": "Venezuela no ha sido salvada, ha sido vendida The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "A los 92 años, una matemática encontró una aprendiz y un problema por resolver",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaEJEMmxJOVNUUGZyd19RTjhJdHRTZHJEbmdBUHVTd0dYRTFGZ3lKekZIVWZ2YW5KczFDRGNSeGd3Vm5tcC0yMnZIaC1jbEI4V3lnZXN6bFVVSWZTM0V0Yk1jU1MwazBmekVqUXlwVTVETDZtRkZoTnNZVjdzWkZNZ1BpVE9kd3N5TXI0LURuSjdjTlN5elhqUzMwUXBSMm9BczVpRkI4Yw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 07:00:22 GMT",
+      "description": "A los 92 años, una matemática encontró una aprendiz y un problema por resolver The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -451,15 +478,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Los límites de la campaña anti-China de EE. UU. se dejan ver en Perú",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaF9lQXNUQVVoRm9jNXBfc2dhTl9UY0VuNTFjMHlHZURlUDVOVWpJa3ZzaHZ5V0FLT0ZiMjliOWtiU0pybkhQQWlOc0RUckVNSWZBNE9rODZmWVJNMG9jZV9zbmk3aGszeVk5c0g2NTFGLWhadXpVcWo4aWdCWWs2UXVJdHlBWEY5RGFDNU1wUkpveEVmekE?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 09:10:11 GMT",
-      "description": "Los límites de la campaña anti-China de EE. UU. se dejan ver en Perú The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "US structured Venezuela oil position to protect it from dilution, official says",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGdUWXpiLXc1VnNBZ3NRU2Q5Tkp6T1Z0YU1RSm9JR0RBTlFCNEN3SkFfU1hfTXM2V0VpbHRnZF90djZFRHl2aDZPOGdzOGc5U1ZRVXUxTzNMcVVIMDZZV2JBbjlUUjlvMFFXM0FVUjVEazJWZXVWWmFXNG5uQ2JGd0gwOFVRc3VUODYxLXM3Ulg1Zm9KUlF3YnM3WlZlOGRPVWVZOUlWZXBQeGM3MDYzUzc4cmZkUndaRTZ0OGVSM3I?oc=5",
       "pubDate": "Fri, 04 Sep 2026 23:34:24 GMT",
@@ -467,24 +485,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Costa Rica president says US ground forces would help national security",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa0VVWDFtbTdZQXZvU2NoT1hHWWlQTHA5OEFqb0YzZEF5ZG1yejVIM2xDZURWOGdHTFZRTWtpWTdHYndSTklQSEdSTXhpQTNSWHVOZ2l1ZFJua2JfSDl5a0xKYmRjZWlrbzlXd0oxWW9valBFb0VtQXJBbmdLdWo3QWR3NDIxTkVQYWVxaVBCdUl5Q250SF9nb3dFRGRZcGE2NGRDQWRXSDBrX0JZZWdzdkprbnhrR2VpeWZR?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "description": "Costa Rica president says US ground forces would help national security Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Aviación, cultura, actividades deportivas y bancos se ven afectados en Cuba por falta de combustible",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXRtN0JJNzFHWUphNzQ0cklMTlNSRzUxTjRuQzg3Q0JjOEpUZklzTTZUOUtWdFpZRTNsd1FieXJLbVp3UzZkYVNhVFpzM3ltZ0FnaHFCTW1zMmV2UWNKdlhCbHZIOUZLNlpwMzFVYXBsRTU3Q0tkdU80Y0dRQTVMYnlMbmVOaGJJV1hVa1pIbVdmblhsLVV4V1lrQjVGZW9KQ2tYbkxKTQ?oc=5",
-      "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT",
-      "description": "Aviación, cultura, actividades deportivas y bancos se ven afectados en Cuba por falta de combustible AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica",
@@ -544,8 +544,8 @@
       "title": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbE1YOHZZYVpmTDA0a3FZZUVqV0pGZGc1ZUJGQUZ0S3J2bXdKbWIwSUJzNXdlcGxBMFNLNzBGWVF3ZHJ0NXVHcGNDTzVFNkM5TWF2QlBlbXpTbWs4bk9heUxPX0tJNTRmZGszclFtdkV5a0MwX2NvX1h5NG9lT3RZTjd5Q0VUSXU3LWMyRU9JalFpSnJPM1RjYURjaFhERjBpUU11Um9RdjdmUEJSWUg1WEhxSTJHUnhlQWtKemp6dVJNMnowTk0w?oc=5",
       "pubDate": "Sat, 29 Aug 2020 07:00:00 GMT",
-      "description": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus The Guardian",
-      "source": "The Guardian",
+      "description": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -559,20 +559,11 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Catalonia’s dreams of secession were incubated in a media cocoon",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGlIYm5zMjFkVm1DQmlLN2NmSUE2M2oxbUhqWnI3T05USVpDNGtKcGJiLUVpVGNNazhTLWFRZi1GLXp6VXgzVTZXaGtpQkNBcGFVQnYxNE9fTnd4V3dWU3Jib1BGOVk4NlJveThmZVFsSzBhaGVBOGFuaEtWazhCMUJ2NVRKZGdiejYxMTIxcw?oc=5",
-      "pubDate": "Sun, 15 Oct 2017 07:00:00 GMT",
-      "description": "Catalonia’s dreams of secession were incubated in a media cocoon The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
       "title": "¿Qué tiene que ver con el medio ambiente la paz en Colombia? | Camila Bustos y Marcela Jaramillo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN1BCLTlDcnBoelNoLXo3U2xtbmIxaUViaVo3TzJaNzU2R0hPZnBTMi0zN3ljekNVYlZ4bmlVcmdDcTRlWWVUNloyWHBQQkRLaXN3MS1HNVF0ZF9IQzB0N2czX1NmVTVLOTFxSUt2OGUtblJIczROcDJIR3Z5aGNZY1VYUGVkOUptVUs3WUZoYTZWUVQ3a3B6SnlJT0RtOVEzMlpmNE5zOEJGTXRE?oc=5",
       "pubDate": "Mon, 24 Oct 2016 07:00:00 GMT",
-      "description": "¿Qué tiene que ver con el medio ambiente la paz en Colombia? | Camila Bustos y Marcela Jaramillo The Guardian",
-      "source": "The Guardian",
+      "description": "¿Qué tiene que ver con el medio ambiente la paz en Colombia? | Camila Bustos y Marcela Jaramillo theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -580,8 +571,8 @@
       "title": "The Guardian in Spanish",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
       "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
-      "description": "The Guardian in Spanish The Guardian",
-      "source": "The Guardian",
+      "description": "The Guardian in Spanish theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -589,8 +580,17 @@
       "title": "La crisis del agua de la Ciudad de México",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
       "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
-      "description": "La crisis del agua de la Ciudad de México The Guardian",
-      "source": "The Guardian",
+      "description": "La crisis del agua de la Ciudad de México theguardian.com",
+      "source": "theguardian.com",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "All fixtures | Football",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB0U1FBbWRNN2FHTWlyRlU0cnlHVjdWTURjczlnay1nYk0zZlZNWmh3TFJ3UzFkU1RSLWpEVVNBVndTTGxCb3hmSHFEX2hKUmVOcjVjT2FtT0c?oc=5",
+      "pubDate": "Mon, 21 Sep 2015 17:03:13 GMT",
+      "description": "All fixtures | Football theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -598,8 +598,8 @@
       "title": "Elecciones colombianas ofrecen una oportunidad para la paz – o la guerra sin fin",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnB2Mll5UEdjLXJ6OGZXQkhIRU1xblF3R29GNUxFNUtCOUx0N0ZxU1FHSVR2Vy1hQXdfWGhfWU1ScERxaVpJVEpuZjJNZDAtcno0QkNQTGdkRVhzbE9Ddmd3LWVPUWNvdVhOQ2piNjZvTWlaVU8wa3VWVTNrYXdoTE9EMTJnY3lWWHNXbGFKaXJWWG5PV1NrVzVYNGtXcDdDeHM2bGlPY2RTa010V1c1WG0wRFJfaVJJQnNYZQ?oc=5",
       "pubDate": "Wed, 04 Jun 2014 07:00:00 GMT",
-      "description": "Elecciones colombianas ofrecen una oportunidad para la paz – o la guerra sin fin The Guardian",
-      "source": "The Guardian",
+      "description": "Elecciones colombianas ofrecen una oportunidad para la paz – o la guerra sin fin theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     }
