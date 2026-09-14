@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:19:02.669Z",
+  "updatedAt": "2026-09-14T21:06:19.933Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,13 +76,43 @@
   ],
   "items": [
     {
-      "title": "Redacción e-consulta",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoRnQ0Z01Tb0VWNHoybk1lTC0zTlc5dE5FUW5oM1Qyd2RnREVSZTNKbS02bjdUX3FXcHF6aENWUm9mZl9PR3p6U0F4ZnVSUC13dUdjMkt6LXdtMTEyX0FhQmczRW9Edw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 08:20:47 GMT",
-      "description": "Redacción e-consulta e-consulta.com",
+      "title": "¿Hay clases en la BUAP? Universidad desmiente comunicado falso",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZmktMW9jMjFJMUdIUlBiU2duOG9ocFZ2U2ROZHJoMkpaWDR5OTBKTTBaLVRfeUVfTlhQalpNc2xhbWhxQUFCZy1qQjZrd1kyeGt5OXNhelNHUmJiXzdyMnpKdm5KY1NaaUo4Z0pvdFZxSG1OV0QtOGxZdjR3NjFncHp4amNFeTZEWWdnZTQzbkx5bEIyZl9CYjBDbmdvdw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 17:40:41 GMT",
+      "description": "¿Hay clases en la BUAP? Universidad desmiente comunicado falso e-consulta.com",
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Usuarios de Atlixco quedan varados por conflicto entre Palalia’s y ORO",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcV9xeEpOSGNha19WWmZkRC1lQnV6QVhLRlRDVDFPc2xKbURMNzFJcXdfZUN0SlYwTUh4ZkY1ZUFoWmFQdV9GNVJUX1NSbm5Td2Zhd3JOQ1dScWktczJGTEdRLWhWQllrbVBGVncyeTlHZ0VuZDhYRUMyU0ZWQU12cTZiMTJBVEUyeTY1WVJud3NXbU5EU01xTW9ud20wQU0wcGFldkU0UEo0aG8?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 15:52:12 GMT",
+      "description": "Usuarios de Atlixco quedan varados por conflicto entre Palalia’s y ORO e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Escándalo en los pueblos de la luz, secreto a voces entre las familias del SME",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRURwTm5FdU9tSDIxQXVMUVNLYi1VMHF5ejUyLTlMa3JJY0poUU8wLS1nVzdCazA5ZVpRZkNyY0VPYmJIMnZyZkVPLV90NTdqTjlDMzNCT3FIRTZlYkFBY0xvSklaQ1hOVTdpLWI2Nm1MSjBqUFhCRkU1UHJTcnJOWkpZZ09tSFVtbHItcU84S0ViQzlfaEVSYnRDYWxiSTk1aDA1eGVWZ04yM296eXRZNlVacm0ya0llZGZlNjlRTG1COGZkOVlRNkpTWTl5UFVlODB6TEFtMy0?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 14:37:15 GMT",
+      "description": "Escándalo en los pueblos de la luz, secreto a voces entre las familias del SME Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Volkswagen Puebla: nueva oferta salarial difícilmente superaría el 11%, estima economista",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV2hRMWxjUVY2UkJsS0p6NDlyME1Jcl9MR2Rybi0ybExyNFpHbnhfdHJGOWJ2Y2JVU2RLNURiQnZpREwzd0ltZ3cwaGlLLTQ2R0s4V3lCVjUyS0l4QTNZWG03NTJWQ3NrYXdiWmF0WllYcldUa1FESVMxei0yNGxMV05acjc3RjNjc0cyaDhtMzNFM1hfRFd2MHllVzM0cmxBclozVnJ0elh5YVVDX0xlWkxHeEI5cGUxdFJWUTBOT090XzRSNjRpbFQ0NFBaNXJKbjZJ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 12:29:09 GMT",
+      "description": "Volkswagen Puebla: nueva oferta salarial difícilmente superaría el 11%, estima economista El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -103,6 +133,16 @@
       "source": "assets.intoleranciadiario.com",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUVZcngwNXJlVW03b0tVRkNTTE9jSVp2SndTbFYwVjFtZ21sc1lIa1VvYUlmZzFZbHg0ZHljbUlnMmpCcGdwM2VJaWc4YnROT05fajF3RzE1Y1huR0JhbnZTLWJndzdXd2JzdWloVTVXWjZ0c2hvaE9DRjZONlBCMWlfN19hSzI4a2NBU0x0RnFiaVp4Vk85ZEhOWDROSVdXWlZEdFFCNUV2SDRZcW5XbXUtNnNGazNwVnJBRzQ1b3c3UnAxanZHd2U1blk?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 03:11:07 GMT",
+      "description": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -127,12 +167,32 @@
     },
     {
       "title": "Redacción e-consulta",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jb045R0ZNZXFZNUtqZ1JReFc0eEQ3ZHlsTWZjM2gtU1RIYmRVRVlJUUNEM01SMXg5VDg1Y1d3QjRLbkxHWG9aY0VVV0VpYTBINnRLOTJXbjFEanBhODJBa0VxVnB3Zw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 00:30:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHWU9nVFUwTy1JQ2UtV2piUXhDR1pwVFoxbkVOOEhMa3ZuaVYxajAtdE5zbENLRDNrUDZabVRhZWxMTG44ZjNQZjVkVHctOWdsMDI3bkNXSFNCeGsxNXJpQm83cUliZw?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:27:35 GMT",
       "description": "Redacción e-consulta e-consulta.com",
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Redacción e-consulta",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONlhQSWJTTVBqZ04tV2xFc0hCSENkcmk1ejJFeVRiYjdYTDljT2tUclJnQTY5Mlg4YnNoak14a01jcVZzTGw5blREVzZKeFNKTjZwTE5MRnhzd1ZZYnVDd1dpeVd4UQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 01:00:47 GMT",
+      "description": "Redacción e-consulta e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "¿Alejandro Armenta perdió su visa para entrar a Estados Unidos? Gobierno de Puebla responde",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb3ZoVFNJRzRXaDVGRUd4SmdDLXh4dnVVMU1xck9qd0tXUWVRMlRMNGVLVUNCVHVCRTU3SG9rRlJDQld5cWI2M0djSE52OEZEdGRYX1E1RVFSZnFmWkxPSkoxMlB0dWVFSS1lc1h5dkVrUXVZTk1WVlhYc1I3RlQ0Qk95TWIwU01GMlRKRnc2eDA5aEpxSGVJRUotcUticjRrQURHbzgzVHNnQUZEeUJEV3AzTnV4X2VUaFYwNEo5bEhNYkNPZHNNVkxHeUpsUQ?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 00:18:05 GMT",
+      "description": "¿Alejandro Armenta perdió su visa para entrar a Estados Unidos? Gobierno de Puebla responde El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -156,16 +216,6 @@
       "group": "estatal"
     },
     {
-      "title": "Querétaro golea al Club Puebla Femenil en el Apertura 2026",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGdNTTcwbldOWHh4aWQxS2FzelcxU2tWT0c3dlV0b3VaNnMtRmtxTkNRS0FTV0FYdTlYSWx4N1N3LTZnR3ZJX0F3bkFqVzIySnBMYURqbzcwUjFtVXN6X0podTFsc0J1Y0VUX2xZYnFWaGdza1oyWGlHNndrRERCeWcweTJfdkZURnJubzFYRjNETFZaUTFLcVR4QWNrM01zYjJ1UDJieFpqNE0?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 22:04:55 GMT",
-      "description": "Querétaro golea al Club Puebla Femenil en el Apertura 2026 Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Rumbo al retiro, Blue Demon Jr revela su cuenta pendiente: la máscara de L.A. Park",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmRIRktNNk5HZVdWbEotY0MtemlJenNubUQ3YXhINTN2TE5nQTVCLXdTb3owRGZOems0RkxKMTh2YkJPVVlnMVpmVC1CR0tsNWI5TldwOVlCcG9LRmZtQmozVS1MaEdJakNxSEttamRmSEFVa2VrN2FBU1RIUFkxOTI4a1J4STJ5ZVB2Y1ZTckt3ZUhhdHBPVzRVcUhrUFN0TjFqVjhjQXFBNUZxVER5MlE3cFBPMnBOT19vZFc0SmVCanByZ1dZ?oc=5",
       "pubDate": "Sun, 13 Sep 2026 20:48:54 GMT",
@@ -183,26 +233,6 @@
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUVZcngwNXJlVW03b0tVRkNTTE9jSVp2SndTbFYwVjFtZ21sc1lIa1VvYUlmZzFZbHg0ZHljbUlnMmpCcGdwM2VJaWc4YnROT05fajF3RzE1Y1huR0JhbnZTLWJndzdXd2JzdWloVTVXWjZ0c2hvaE9DRjZONlBCMWlfN19hSzI4a2NBU0x0RnFiaVp4Vk85ZEhOWDROSVdXWlZEdFFCNUV2SDRZcW5XbXUtNnNGazNwVnJBRzQ1b3c3UnAxanZHd2U1blk?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 19:54:34 GMT",
-      "description": "Muere Gustavo Ponce de León, empresario y representante de los hoteleros de Puebla El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Preparan recibimiento de la Antorcha Guadalupana en Tepeojuma, Chietla e Izúcar",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGNySE5ITmtlTlhMRFRucE9XTlR0aW9aTTVUWUd5ZUg1WWh2dWpXT2ZKTnIzTDh5RUFnOFlIT05oQ0RmWHExUkZnRl9aZFRCRk9pTEdac3pvVjNGSE52X0dOb1UwTFV1VnBVemx3OUVCM0pTUmtVbGJyckFtM1d0VjV5ajZDanVQMDNKSUZFYmY2SmV5ZTJVOFBMaC1mRmRDUW5aTHlERmtxMlNrQW1jZ2p3MHVEems?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 19:01:43 GMT",
-      "description": "Preparan recibimiento de la Antorcha Guadalupana en Tepeojuma, Chietla e Izúcar e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
       "group": "estatal"
     },
     {
@@ -246,16 +276,6 @@
       "group": "estatal"
     },
     {
-      "title": "Cruz Azul tumba al América",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjVWUzX083RVEyRTIxLWdQcUs3bFNBS3c5OUp6RnJUMGhoLWluTnBBbm5WZkt0NFh3YmZNSU96OERYV3VJVVFJYkhPTkFQSV9IcDZRbkFIeFpQc3pMbUFKRGZFOTZQMTFsSnlscXQ4UQ?oc=5",
-      "pubDate": "Sun, 13 Sep 2026 05:51:40 GMT",
-      "description": "Cruz Azul tumba al América e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
-      "group": "estatal"
-    },
-    {
       "title": "¿A dónde tan peinada? Gala Montes luce un nuevo look previo a la pelea de Ryan García",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTlFRG8xYUtZRnFtU0FHU1YzeG9zaVd4QlpzdS1Ib3NjLWxEMUc4Q0kzUlU1UndCeGFhXzJBbmFlUldTajlPdjJrc3VWMDBoMDhQSkRtUnIwMlFZRWp1YVVoVHVCRjlSUTB1T3hKdGh6SzVMbmVKSVNIZmxZcmlkQkhmX1dpZkFsQ1p6enBlY3N6SXhn?oc=5",
       "pubDate": "Sun, 13 Sep 2026 04:05:29 GMT",
@@ -266,24 +286,14 @@
       "group": "estatal"
     },
     {
-      "title": "Tráiler arrolla a trabajador mientras realizaba maniobras de reversa y pierden la vida Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUd2eGFVbExxZ0RxS1RGNHV4MjlYNXZ0bDA5d3hxQlluaTJObWRCVHNIcGNmMTVCUGlzVG9UWEg1eEdVUWQ3dkw5cmI5ZWVTT1E4X3FfY3NXT2pTWnhHaS1ZVE45WjBnYnNoQUNqNXA1VjdwdjdCa2pVckhYWEltenRJWlhROUJHT3BZVGFidjNmVWZCSld6V19URlAwb2sxbE5hQVdsQkJLUVBkVzBoRUtqVE0wckJoVEFLQU9ROGV4VWlY?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 23:42:00 GMT",
-      "description": "Tráiler arrolla a trabajador mientras realizaba maniobras de reversa y pierden la vida Tehuacán Municipios Puebla",
+      "title": "Empresarios piden reforzar la vigilancia en carreteras de la región de Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWk9UdFBJUjNsdVRBdUw0X0RkaFI5R0d6Q0FDVDZZYnRwYmVWS1kxR09PQ3h4dmtLVDJfMmMzbFV6ZW1mOExPS0V6MlVvOWZZcHVLVUlqSnZLNE5ET3JjbjliX3RBR1pRR01wRVkyZWlueGRzMDdzNmFYTHg4VTR5VUNGWG1yMV9WMDVYQ2JpZERsNkhIZFMwMi12WTZPajBLbFNHVGxCSnZ2SDB2S09SXzJHS3BOamhjVmtQRy1n?oc=5",
+      "pubDate": "Sat, 12 Sep 2026 19:19:00 GMT",
+      "description": "Empresarios piden reforzar la vigilancia en carreteras de la región de Tehuacán Municipios Puebla",
       "source": "Municipios Puebla",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Cablebús divide a vecinos en Puebla: arrancan asambleas entre respaldo y confrontaciones (VIDEOS)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObG9Ea1JPMjdYUlFYSE82UEtlWjV0emRGMkdxRHY4bHFkNnJQc012ZGdpM2I1SzNFRndVV0Jmem01djhXcVEyQ3VvR0ZuREtTS2RWSTJETXppSGR3d19uSUpyVlhtN1pINzFNRDVob2t2bVJYdFM3SFpSYWdZdEZIYVBHR2xpWk5VNTZkQWo1TmdkX2hwMVFQcndqOE1UbzhDWVZ3LUdXTnUtdnpMeEtXdjl1N09hV0FjODcwSXhadUlPcEFHdEdQU19yOFo5YWY4QWhkNjdR?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 04:06:43 GMT",
-      "description": "Cablebús divide a vecinos en Puebla: arrancan asambleas entre respaldo y confrontaciones (VIDEOS) Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
     },
     {
       "title": "67% de los trabajadores sindicalizados de Volkswagen rechaza aumento global del 10.04% - El Sol de Puebla",
@@ -306,30 +316,20 @@
       "group": "estatal"
     },
     {
-      "title": "Arranca consulta contractual en Volkswagen Puebla; 6 mil 374 trabajadores votan oferta de 10.04%",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa09mMTJpV3hKaG9xRVdVU0p5RTBkanZWY2FNczBVN1ZSOVJqWFg3aEsxdkM0cVp6enY3U0VVendkeDZoakt2cE1KRVhENFVsb3hLTHpWZnhVLUZnbGl0eTZneU1fSHYxZTIyc3J6Nm56RUFfR2JaVFM0X2NDZzdyOHQ4MjFRSDRkTk5XWHFQQW9iSlpfVDhFX2NMNzFVWEZaXzJQWkVTZHhCaHd6ZDlZdmhNM0cyTkl2UWg5Q3FEZm85M2RNaFdVaXVuMWhOcFlPVEFpZjczeElMWVhRRHc?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 22:36:39 GMT",
-      "description": "Arranca consulta contractual en Volkswagen Puebla; 6 mil 374 trabajadores votan oferta de 10.04% El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
+      "title": "BUAP capacita a docentes en Inteligencia Artificial",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGFVSVNqMmlwODBYX2FxWmJHNG1Jd1FJbjNyWlhnVkpsX1BLUzQ5SkZWZ29GWkdjSU0xb201ajFMY295ZWVxQXdrSEYyZXhkUXRycTItcThMMDNGeTNpalkwN2VjdTNoUnI3UUFxM1g4bnBra09wLTQxdGdoMUprbHVKUGFGLUZySTg4eVUzNk9Sck9GVEs1b1BDTGlBWUpP?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 22:22:01 GMT",
+      "description": "BUAP capacita a docentes en Inteligencia Artificial Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
       "group": "estatal"
     },
     {
-      "title": "¡Peso cumplido! Julio César Chávez Jr. y Omar Chávez, listos para volver al ring en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWHF1X0ZHZTNGR3JPaGp6eUZCcmQ5RkQxY001SUpIOGxvUFR0X3pMRWsxY2RrQzRXZ1ppRVJyT2JEckhFa01rTy1HRVo5akd2czgzU1ZIaDZlQzdGOVRUY0VmaGNKTTJUTG1nbHI5c1V4M2VTNTRTcmhhd094MlZ3WHZ1OFJOMmhweTc3Q3NsV3R4RU1zaFlnbzc2eFdCZ2VyR1NZZUxvSTlhRnNXQl9fVEFJdE44QmN6R0tram9zRXR1N2J3aHNtZDRMTVZDbE4zcjJV?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 21:56:09 GMT",
-      "description": "¡Peso cumplido! Julio César Chávez Jr. y Omar Chávez, listos para volver al ring en Puebla El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Agua de Puebla continúa rehabilitación de drenaje en Cúmulo de Virgo; no colocó ningún tope",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObE1faDZFaXIzUEVwYlJNU0xDcjY1T3pwcjVwZi1FYURDNEpFLXBzN0ZDYk9CQjRHTjk5T2tJSkVBMzJNSy1hR2VvQTZHS0JaNnJnaVd6NVlpektPYWxZRHZIdzZqZjhfUEs2d1NrSGtBbGx1Q2xhWGRkZmtwbm5QS2U0Z3o1T2gxa3N4MTFPU0FaOEZlSDAwalpGdF84dFpVSGdWSk5oNlBXMmFtUnc?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 20:24:13 GMT",
-      "description": "Agua de Puebla continúa rehabilitación de drenaje en Cúmulo de Virgo; no colocó ningún tope Ambas Manos",
+      "title": "Despliegan operativo en el mercado Morelos por la desaparición de María Luisa Trinidad",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVGZ3UFFMaFBHZkl4c3VZMmVHYWtjWXNEZzVxOVhHNjNYZnZORnlYYTU1cU1yS1A0S2E1LXVhOU1ZemRSNkczMGdYQ1BYWFRsQm5VUG9xMFIySlMyY2xvUXBtSGFrOFl0RmpEbDJUQ0pOWk05eEJEOEJERzR1NUlINUkxV0Yzbzc5UVdyeWwzYVlzWmlONTJvVWlxbzdmNWtkRk9qZjhndWVwVW5FSmptNndQRFY3QjBaaTlULW42S1lDMTc4V2UzUzFR?oc=5",
+      "pubDate": "Fri, 11 Sep 2026 21:43:58 GMT",
+      "description": "Despliegan operativo en el mercado Morelos por la desaparición de María Luisa Trinidad Ambas Manos",
       "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
@@ -366,16 +366,6 @@
       "group": "estatal"
     },
     {
-      "title": "Sequía afecta al menos 300 hectáreas de cultivos en la región de Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm1QV3U4bVY4dlZnNS1vVmZWVUJKc3FvQXJENm9MVWpBWmJNTFB2YUJSb2ZLSGNJel82V2Y1ZUt6OFhEQmhUa0VRSkR3Tms1RVZkR0w1SUZERF96ckxuSkhLUXY0dE50OFh5aFJyRGM3WU9PZDR1ZVRSQ0Jqc2F1MVpwaE9fVE50RlFOWGxhWENoODNBR3JrUTJ6Z0xFMl8teEpBMVhR0gGrAUFVX3lxTE1obHd2MWtmamJxOFZCUjJfNEM0YXhURkhfZ2E3bDJsOTB2a1RaRC1iS3JkRTFGYUlkX0hTYUVHbTR3bzI1bnZFLUc5ZzFKaUxjTlNIb3RaSFQyemlILTFnRW5ZMHAyQi04ZU8td3NFNmZIcV9DTkZBZjJMZ081ZzF1X3dwLXdTQy1EdnRkSlhyNGxwNWxsN0c1YkJGNVRDRzFGUnZNR2xOOUZwbw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 23:10:39 GMT",
-      "description": "Sequía afecta al menos 300 hectáreas de cultivos en la región de Tehuacán noticiastehuacan.com",
-      "source": "noticiastehuacan.com",
-      "outlet": "Noticias Tehuacán",
-      "domain": "noticiastehuacan.com",
-      "group": "local"
-    },
-    {
       "title": "Empresarios de Tehuacán piden reforzar seguridad en la carretera Cuacnopalan-Oaxaca",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHZvT3c4LTJPWXBDYl82a3NvVW1MZ0o5Tkkwb1ZjeVRCM0d1OFdtT2ZobzBLdUVwU1NuSDNSdDc1NEFDUzJOdWNqY1hGZkstSDVnWVhENGVFQWlXZlZkTzJwUlEwNFkyMWNmeEp2NXNTZHNBSHUxbC0wSGZocm5pZlc1UGp1UUE2clRqMzdlaFRqVVg2WnItZlUtZTZUaG5weS1kWk1DWVZ6Rjhhc0VNSmdtZ9IBuAFBVV95cUxOZU0tRElXVG1va0lUbFlvUGE0RUE5cVpVS2l3bWdVdThyNHR2eWhsVE80V2dzUkg0S0x0TjYwLVVfcmJScWJsV2pkYlczeTREUGVIS01DQ2hzdHRxb00zMzR4LXk1VzVYcGEwdk95TVRpeXZySE9XWXV2SWdwc1hlSmtnanA3NjlIdEk0Z1J0dk84VzF3SjM1UFhCUUlVNVFhLWxzMDAzR1EwNjZmUHktd21pUWhYUGJE?oc=5",
       "pubDate": "Thu, 10 Sep 2026 23:00:57 GMT",
@@ -393,6 +383,16 @@
       "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ3lNMHVpV1E4WGViaGNzYkgyVzFHbm1aQWlRYVJWUUtzVG00SlJuVzlHb2lPb1VxeUdFRzFFdExBb0ducTY4WmpyZmhKUEI5ZkROREJlSjBCTDZib29RVF8yYjBKUXBiRlBCTGpyMU1BOFNKS3RYVHJPZm5laGtLS2hYSGlYOWE0SDVVdDRmbDVRellNcG9PUVBoM28xcS1YMlNBV0o3ZUJtejBfMXVDLTdmQlUyN0dSUmdBa3lzUGQ?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:52:06 GMT",
+      "description": "Fiscalía investiga a al menos cinco alcaldes más de Puebla vinculados al crimen Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
@@ -416,6 +416,16 @@
       "group": "estatal"
     },
     {
+      "title": "Accidente de Urvan en Huatulco deja varios pasajeros lesionados; moviliza a cuerpos de emergencia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTdvaWRaRXRROFktbmlwRnRCSm14eUdMek5iaktZbEQ2Mlg4em5KLTlFbzBfU0NUSXluYmxUNUdTVGVMeGYwempOWlBoLXhTUHZNd3FTQTdUMHdab2RERzREeFRlNUFVcmJwZ21ReDFxNXBNb0Fka3ZyaHBCQVM5eFpOS1N3TkI3SzdvYm41WEUwOXdWU2VSYlhMMWQ2Mk1ROF9NVElvbjczSHVRWks5a3JiVkVwc0xySVV2YmltYlRqY0x60gHKAUFVX3lxTE5KdTluOXFMRFdYNEszSWotYXVlZjI0M1htM1F5TVF2YlY4NGpRSzZiZlBfRHktTDVtRzM4TXM2cGZxQTdGd2hFLW9QQnc5SGJ4VkNuSVpjRHU2NXA0OUFMQVREQ3ZvTVhEOTVTUFppXzNhbWZrRlVnc0ZhXzhKbmpiWG8wY3pZSFVwWl9oRkdXNzNfaFAxMWFaYThWYUJiRWVaZjhNWWNMSVZBS3kyYkQtVlJoMXBSQTZWUTFCVW1tUW9ub19BN3haemc?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 22:06:11 GMT",
+      "description": "Accidente de Urvan en Huatulco deja varios pasajeros lesionados; moviliza a cuerpos de emergencia noticiastehuacan.com",
+      "source": "noticiastehuacan.com",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
       "title": "Apple presenta el iPhone Duo, su primer celular plegable: precio y fecha de llegada a México (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPODc5NHdCOVRfMG1KZ0plQlZtcVV4ZXBMemtmVEFKLXhrdXR0eEk2RjNicjctU2huSTNsQk0zcGVKR1VwMGVFaW1YYmI1ZmJTZEhaVjNlMUtPckxXRExfMGluSkREQlVjMWZkOVZJa1Noa2NhVGZ3N3JhNWJ6MHprOUNkSVdTV0Rqa09md21wTTVUN0Z2VnpadVJlTjZhbUpqNEg1dTc3cGNIdFU4bGR0amlDZzR0dlFKbE1aZWpaS241dWIwWFVyUDZLQVFmLThkTGtmZmpTbFhtSDNRQy1WRw?oc=5",
       "pubDate": "Wed, 09 Sep 2026 20:01:57 GMT",
@@ -423,6 +433,16 @@
       "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Ayuntamientos de la 4T que dan convenios a TV Azteca son desleales con la presidenta: García Parra",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb055d1dFQldEdGtubHpjdDRkRkM3V3FYV3h1cW1KeG95VV9LRDJaenZTeGtnN0lnUU4wTS1TQ2JyX012QnNQS0EtaEJKSDltZ1k4b2UwSDdOV2V5ZFBVQjY1NGdRMzA0b2N3UHRLamJXei1KeGViQ0wyMkR3YkxPTzJKUVhWVWlIMVdtMEdnRkQ2dnRKRld4bnc3Uk9PSkhOM1prSTUyZjRIZlBiWm40ZjJFU2RGWlZwMGdxMkVJUUhxc3Fuc0pyN00wMXBmTEl2aG1Tbw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 18:54:36 GMT",
+      "description": "Ayuntamientos de la 4T que dan convenios a TV Azteca son desleales con la presidenta: García Parra Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
@@ -456,16 +476,6 @@
       "group": "estatal"
     },
     {
-      "title": "Desaparece Hugo Alejandro, estudiante de Administración de la BUAP",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3dpOWx2QW4wUnFhMzY4YWZnRDA4Z2JpUlFGVHFoUXlhczJsU2hWWE84c0R1M183Q2hvWE85RWhCdGgxX3BmVllPZWZZZ3gyaVBuUWdHSUVkRzNUcDNKRWVLSkt1N2pVWF9oa1ZZYi1iVS0tTGRPTTdINmFLNHpEbWd5blE4SnlXVlVRV1I4Si1Ua3lnbmhNRDZHZ3VyMmZBVGdNaDlMNjF2RThPZlE?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:12:34 GMT",
-      "description": "Desaparece Hugo Alejandro, estudiante de Administración de la BUAP Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Tony Gali; la confesión, el cónclave, la persecución, rupturas y la tentación del 2027",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdWpWQVNScUR5Mnp0VFpvbnNKUzBCSEdfZU8zb3JoVWtXc1p6dml0eThuN2VZSk42elVNZEtKTTU4R2M0c0k0czJ4dUJsZ2NwYV8zeUhTSzc1c0FhcUNiZmhuUmdyTzk4NTFEOWVmOXdIRUd3ZFdOd3l4N0szVXliS256alNRRm1iOEFkTGVWREY0QXF2ZnpOdVM1Sk44ZnVqbXROc18wbXh3OElDMWlvMGZLZ1Q5UE5QY1VfSlJyZmk5akQ5QlNmSVpKbEZ3UmFhOGRoMzJ1Y3Bydw?oc=5",
       "pubDate": "Tue, 08 Sep 2026 11:00:05 GMT",
@@ -493,16 +503,6 @@
       "source": "Intolerancia Diario",
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Detienen al alcalde de Esperanza en medio de un megaoperativo federal",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdWVuZnRXeWlqVmRUN0taS2RnQW5JMS1WVV9GRVhSVFJqNXRpZHRaUlJGOEY2eXR6YlAwMGwzbTRKNW9udUJXRnZxWlVnd2hSZ2F4Nng1ZllRd29PdV9Qa19Jck5lWVFRcmdyREJBTXc3aW1IYmRiTk9OZVNYWjYwb2pxTTdoNlZkN1FzWG5vS3NaaENsWDdtQURRQnhtV0kxMFBmOWdyZVJXSmU0MXMzSGlLQQ?oc=5",
-      "pubDate": "Mon, 07 Sep 2026 15:44:36 GMT",
-      "description": "Detienen al alcalde de Esperanza en medio de un megaoperativo federal Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
