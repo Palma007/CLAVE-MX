@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:14:53.776Z",
+  "updatedAt": "2026-09-16T01:57:53.673Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,15 @@
   ],
   "items": [
     {
+      "title": "Alex Saab se declara ahora culpable de lavado de activos ante la Justicia de EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2NQNzlfWm9yeVhQQnVCMVcyMi1Ya09SdnBCVEZsOWttZFZISmZnby1PNEljU29xRXFBNUJlU2xVSFlGazFBTWw1MWdSY3d0WmxMODlVQ3pDLW9aRU10ZlZxVy13Wlk5UXV6NFZkTXBscW0tcGFyblRRUFR6UDJqSjhVTGpuYWY2bmU2aUpZMXRPajZKY09OdnhDMVgzaTdMZndB?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:25:00 GMT",
+      "description": "Alex Saab se declara ahora culpable de lavado de activos ante la Justicia de EE.UU. CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Alex Saab, ally of Venezuela's Maduro, pleads guilty in US corruption case",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2JCelIxd0V5SUpxemNIWFJqbFVmTkJYTWJocmxheV9BWTNWTXhyUjBFU3NXYmRrZzE2YjdoYVo2TThXcXlMWGMtTmVsU2l3T3ZkYTB4WjJ5UFpHYU9KalFZNFpyc1pBV2p5NGdaU1VtckRDOUJQMmh6bTBwXzB4QmF5WVV6X0M4c0VlNlc1bUd2SEthVUZPaEcyeFZuZE9CTnRqRWtCOUlRUTdNUzJ4WkVBMkpBc28?oc=5",
       "pubDate": "Tue, 15 Sep 2026 18:37:39 GMT",
@@ -91,11 +100,29 @@
       "domain": "elpais.com"
     },
     {
+      "title": "Por qué preocupa que la IA pueda amenazar a la humanidad y qué tan real es ese temor",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDd184VUtiV1R1LXFsS2JTUjBScGxkaU42RUliTG5HMGZNc1VhbmhPbW8zbXZRbkFOd1QzR21WdFI4eXlyT1Z6WVhMZ2hqNjFqeElYZ2FuX1dCX1Vr0gFiQVVfeXFMTldqc216czZqRm5YNzFFTU9meEJwb3lnSzJnWWVubUpwZDVaSG9rcVl0QzBEdXBRY2VjYzUyMG1xZDhDNUJXVnpxYjlHdTkxS056bzI1Q3FCVW1Ya0xpZ3JGdmc?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 18:00:18 GMT",
+      "description": "Por qué preocupa que la IA pueda amenazar a la humanidad y qué tan real es ese temor BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué se sabe del arma que EE.UU. dice que desplegó en el espacio",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xMVhQLUlnNUVkVExUci13N1c2UmFSY0RHSGRpTU03dUZab2o0MDdNdUZsc1JsYU5WU2FNbmdrd29Db2ZoMTQxUWc5Yjg4RGVSczdYYkVWMlRzNE4t0gFiQVVfeXFMUHFRWkE3OU5EM09NMHlMSldZRzNJdlM1dmVRNGxlSHVfdXA0WGd2YVJITEhReXNyRGVHYk4yLVlUVFhJT1pNcWpHLXQydXBrcUNSZWRpYnplUmRjOXBGRE1XZkE?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 17:40:19 GMT",
+      "description": "Qué se sabe del arma que EE.UU. dice que desplegó en el espacio BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Asesinan a una estudiante española en México. Esto es lo que sabemos",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFM1SHJmcGtPYVYweWlvdTMyNDN4alZUa09FUzhreUk5WnFCVi12MGxsY21Bd1RBSk9aQ1BLWXo0cDh0YTQydWtqanJWdk9zN1ZUUW1iNjF1UmVaRUtrUF9rbk12a3JaUVJzbTBRWTZVNUJHT045T2lVSHowNnpxVkhNRFQtdDVDNU4zemtiTFY4MjNmT3NiVGJn?oc=5",
       "pubDate": "Tue, 15 Sep 2026 17:35:00 GMT",
-      "description": "Asesinan a una estudiante española en México. Esto es lo que sabemos cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Asesinan a una estudiante española en México. Esto es lo que sabemos CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -107,15 +134,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Lectores DW: \"Que las víctimas del 11-S descansen en paz\"",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW9KXzZBWXAxcjhIbkNVNDI3NWlKMHhPcGwxTk52Z0UyemtlS3Q3OTZ3U3hRblNvc3B0S0hVLTNjOUp2X09mSk8xU3BaT1NJWmcxZWlaUWFhZTF6bzR1dlZTNmtzN3kzcnk3N1BkOFZ6YkRtQVRwSWhzaUR6RnlnOU5nT1hCamNSWk5UMzJtcGRkN21reWxr0gGXAUFVX3lxTE9TLWsyRUFKZk9tb1RJZkJRR0Q3UEpPWlpJQU9DTmI0dkNPd19DazRqeFczeXVKSi1veGlMQi1DXzdHdTQ2Rm1PY3kxU3hpd3QxQ1RVZURFS0FfWjZJbHJNTTZpU1ZiSTFLWmE1Tjh1TFM4STFWdjRTcjJRZHRlWkN3Qk1MWVk5TUNNTjBPRGNTT0VmelNfZTg?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 16:07:28 GMT",
-      "description": "Lectores DW: \"Que las víctimas del 11-S descansen en paz\" dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "\"Es una bofetada para las mujeres\": las fuertes críticas de deportistas de élite al polémico anuncio de Sydney Sweeney para una casa de apuestas",
@@ -139,35 +157,17 @@
       "title": "Exclusivo: más de 300 trabajadores surcoreanos desafían al Gobierno de Trump por la redada en la planta de Hyundai en Georgia",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMlpud1dmcjJrR0p1V1U4aGRXNnFUTVByWk11dVBXNU9IYkhsREt0NklRN1ZZRHMzcGQ1WnBXZG56N3Y3VVBKWFVIYTJubkpHQ0h1emp5by1ERGVyOENRWUFSMzRCdmJUeHU3UkkwbDcxYlpaSWZ0NXBvTnd3WGRHam9rQlJsVVNhQy1rNEdxVWFnRzNXTER5QnJxdDJMN1ZzUjJJV0RB?oc=5",
       "pubDate": "Tue, 15 Sep 2026 12:15:00 GMT",
-      "description": "Exclusivo: más de 300 trabajadores surcoreanos desafían al Gobierno de Trump por la redada en la planta de Hyundai en Georgia cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Exclusivo: más de 300 trabajadores surcoreanos desafían al Gobierno de Trump por la redada en la planta de Hyundai en Georgia CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pVW5objFOY1BDaVhXdVJ3ZXR2RVlDZWdOVFJMNmV0ZVQySXpoWUwtZ0ZCWWozc3pOTVR3emlxNk5wa1BCdmtxWkY3NGozQkNKbldDN2VhTTdDa3PSAWBBVV95cUxQb212VnloYXNTZnF1NWRIUnhvX0JTclBON3paWHdIbDVsd2xUUUJ2aGdFdzQ2WjJabFlZdmdONUE4MS1UYkg4X2lwS3B2aFJUZUJzSHEyQ2RGc2ctcHE0eFc?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 10:35:32 GMT",
-      "description": "Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Recibí quimioterapia durante 11 años por un cáncer que no tenía",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3VUlxSlBwcllnSmFjRHltRFBjQ1ZIWktZeDloVlo3ZlJUZ1BIWE9KSnIwRWtoeXhrRTBYOWE3aHpjS0NaT0tEVVpiVFMwR0pXbExEWGQ1VTNNWU3SAWBBVV95cUxONC1qTFZZazhjYlVWQngwMkpPM2FKMW1ZZnR0SGJLdUQ0TjB2RC0tZjhBcXo4WGU1NlhmYV9JQlozTDI2Q1hKYTJnVS0tcWFIOHh5ZjV1aENUY2d1VFhiWng?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 10:05:48 GMT",
-      "description": "Recibí quimioterapia durante 11 años por un cáncer que no tenía BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "El Salvador dicta primera condena a perpetua por feminicidio",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQblMwTjZuY0V6eTQzZkFsNU1KclFnNlhPU0tPNHJoVXhMOUNwVUtQZVpFOTdEU3kzc3NqU1p3b0tJb2IxX2ZvUldjSzhTQ0gwWWpqd1YwZk5weWNSWHJDaWtCUnU1VzluaEtPTG5pWXFKQjkxTjhSNVZNTG90YTNURzlkNk5Rd2o2bzkzQ2ZRaXFhTUJlZHRWSE1qdkNITy1pWGl0VjlYN0xSd9IBqgFBVV95cUxPN3VLd1ByWFBxUzJuV2pKRDZmeHB3UExNOWI0czlQbXRKRldIaEtINlR3US00ZlhQVmtvR3NQMXZKWThaWlhoVHZFQVRvRUZzX1lmeHhDNEY1RjRkUUxYaXFDa2Y4aDM4R1lsQVdNTEthMDB1ZUVnaEpKY0xqQ3R1YkVobTlEdTBaQUxoLXZRQ2U0T3FIS3o2NE14Rk45d2I4eUQ5WEVITjFDUQ?oc=5",
       "pubDate": "Tue, 15 Sep 2026 09:25:36 GMT",
-      "description": "El Salvador dicta primera condena a perpetua por feminicidio dw.com",
-      "source": "dw.com",
+      "description": "El Salvador dicta primera condena a perpetua por feminicidio DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -175,19 +175,10 @@
       "title": "Instructor de baile cubano dirigió sabotajes rusos en UE",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekkzUjVvMzA2Z1B4YzZhU3h5eXRXd1BuTEZoU0ZHSnNxWjFld0tlOHBqSEVjdUhyNkJYNGpLUlh0bWx2WW4yZWxoTXNTcUJqejRBdVVicWlYZ3VHT1dUMEU3emRERUhYcWY0SGYxX1NjWkp6X1o1ZGJQWUhaTHdwTFc4SU9xZjBkWGNaYTBtanVUcm9uVEhIWHFwbm5hZGh0TThXb2ZYV1g0d9IBqgFBVV95cUxOTEhudGRGcmVYemdOaTYzUHdJRW1qNU5kXzMwX2xSaHZLenNLcUhyZXdaQXNDeVY5RWx4cl9Gd0N6MWhjVlBndjRVQnN3SjZOQktheTh3Q2hTSzY1UHhnMXhyaTkwMFU0dDNPVjY1cjJfWFNvc1AybG01SVVHV3VkMUdrQUZxY1haMEVnUUpTMXowOXFpVGVXUU9HeV9uZUZCVDZvT1lJQnJidw?oc=5",
       "pubDate": "Tue, 15 Sep 2026 08:54:20 GMT",
-      "description": "Instructor de baile cubano dirigió sabotajes rusos en UE dw.com",
-      "source": "dw.com",
+      "description": "Instructor de baile cubano dirigió sabotajes rusos en UE DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Allianz se retira como patrocinador del Festival de las Ideas tras la amenaza de boicot de más de una treintena de participantes",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOMEpqNHZmc1pQenQyVTl6bXlIenJpa21McTlhWjFoYjAwRkNlUVRjM18wWTQxQ2hPUjdkd0lucl9SaEhmNXJQWURSVlVXMDljWWZBM2ZsOF9mZTUtbWREazltSXRSQzc0VWxOUWFXY2s1d2xGMWJsMk1wNGZ5TGgwRi10TmlHYmNOZmxNb202cU11bHE5bElwc1hhWkE4OTh5VkYtVjZ4Y1hWbkpDbm1oeFNVRUF2MlFiLUktZ1BSMTJNdmFNQ0tkZXg0OUlwbEJuY3FkODBpaEFzNHNrRUZrblFrMDFya1lpaWdOQkUtaUZadWwxSUtKM0NNMUlBYm41c2tFTnk0V251SEMzR2ZIY05WV3EtYjBsNTNZSlJtTHh6UnBGWHExQng2c9IBvwJBVV95cUxONU1mQnY0WjlaWkdDcVJseWthZTd5dUJuTWtKYi1XMldkSWNfT0NBS3d2bGg1d1JNMmxWRXJGeGJNX2ZCZVhtVW56cnd4bmJsdlpYT1d1ZHkxc01fLXFiTlNobDdPQnhKOVRLaldiWXRCNnhuQXBmUmtQbE5DN1RMVnpZYjlsdlhKRUlkVmphY0twOVE3OGlEdWEtYmlxVE5OSXVtQWZsclYtV1BXTU1ZNVV5ODZNTW1RVnBPbjhrUzBNZzVFQnV4dGk3aXZGSUVjc0Fyc0o0TUpiS0dzenZVaGlfTG1NUWYwTDZzb3RDVjRGRVV5bHJTZDFlRzNyV3BiTUxSdjJaN0dPTkhYdWJESlFnS0VsUXZIR0pjdTFNUHJPZDg0Z25oT2xZek1rdGhROGlpZFpyTU5abUgyMkdN?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 08:08:09 GMT",
-      "description": "Allianz se retira como patrocinador del Festival de las Ideas tras la amenaza de boicot de más de una treintena de participantes EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "¿Qué tan saludables son las sardinas?",
@@ -217,13 +208,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Lo bueno y lo malo de los premios Emmy 2026",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd3dRYTU0SVlDWVZsWnJ6MVdwTFVlXzVBakNqZGhuaWtsRm5hZkFJYTBiNnJGcDhaeGhJczZXUXZfcHh2VGNiZVlmd2FaQzlramRjaEhpQkxwT0JUXzg0SlpHQmNkV0pOeE1fR0E1ZXZodFdBYUZ6blZMckp5RktXdEY4N21BSzhSTi1XZHh1enNQMEZ4V3lYZEVLSXJUdjdvSkVB?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 05:03:13 GMT",
-      "description": "Lo bueno y lo malo de los premios Emmy 2026 cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Zadie Smith: “Discutimos si la IA es capaz de escribir poemas mientras sus creadores nos advierten de nuestra extinción como especie”",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZDk2a3dBUHlRX2lUTm83bDY4Q0gyUkJQU1ZNNkRvakNKa0hvdmtHN1RQRzFMS1VBZGR2NWcyMmhKZE1vYUFjRzQyZElGSXo2MVQtUjhZZVRaNGwyNUJ0MEVSeG1mbmpjVUJYOGVrVHBlWWlfVHdBZmR3YUFvTG54eU9mX3NCejRCdXdmdUM0N2hRUUxKcFFVUFVPYUVfS0d3VXZ6SGNFREdBUWpobnl2b3BwdWpIeWU5SmJobUpUZTJoWi1HTUFhR2tDQmVocmgwdzBLMTExTHpJMEtZUGphdEJFNG9tMjVxZlJYd3h2X0FFZG15TGhnX1BjazVRU2tKUC1B0gGXAkFVX3lxTE9vR0pZcGFyVmtmcmVNUlNsM29LZEtYQnhWb0ZmS01XNXZmRzBqY0NscVdiNVB6aUNqOEdLai10WE9mOTNweG03MTFtQnVURmVXTE5RYU14c3lkLUdNVlN3NjFuMi1jUnFCMG5sVEVOQmg3WnFYR1BQdGtyWm5XTUlRbGFMTGlNTUt3R2RERnNnZUpkU0paS3NhODRITjMwS1h0YVB4OGNIMzRWSnlSRzV4S29XRVdjb1c4Zzk0Z1BQek5sYUMxbUpEUUJ1NlV1aXFxem5XdkVHMkViRGlleXhmcWhONnR6WFJRUXFHcUNBbnB4MGhwYlFmTmM0OHVZSmFxejJoRkcwbWZlNVgwWWZpQWhCbkdrVQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 03:30:01 GMT",
+      "description": "Zadie Smith: “Discutimos si la IA es capaz de escribir poemas mientras sus creadores nos advierten de nuestra extinción como especie” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Quién es Luis Galeano, el periodista nicaragüense exiliado y ahora detenido por ICE",
@@ -235,11 +226,20 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "Supremo de EE.UU. rechaza restringir el voto por correo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVZEWHhYdXowQklKSjdWOTZmNXUwWWhKRXpIZFhLa2k4ZExhVU9YaXpYTUhIbHBRcHpuRExQNnM4d2R6MmZER0RrLUNCazV2d0l2dFZlckl0ZXJVNGZMQXNTMU0tSllyd0JwWENrVkk2ZFNoRlZmZTRaZUF6dVIwbjlUREVHTDJ3ODh3a2U3NNIBjwFBVV95cUxPMVNzbi1fc2NISWlIU2V1ZUpOTHJ2Mk42NThmbVFNWmtUYkNCTEFwZnp0UTE1bUZod2JCR2NaMUxNbmhHSHVtM196T2xJN18wLWdyVThKS0Z2SE5ldmpDcXQ2T09NeFRlSHRsdFpaSDdKYlpyTmFJOHVMRnlnb0xYTjZFckxzM1g2R2d5MjQ1VQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 00:11:53 GMT",
+      "description": "Supremo de EE.UU. rechaza restringir el voto por correo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Premios Emmy 2026: la lista completa de ganadores",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1BGVldKQzR0NGJKVXYzNFN4MVF0YnBWOEF2Z3BHWGFTZjloZVh3eW1sbjJCU3ltM0hzSlFybHA2SmZRTzZKWU95OXNkdkNpbFFWdlUzbzJzNkhMYjFacEpVcFZLQVNOTGlWODl4VF9XM3NvS0hwTW9EOVBzcUxacUVScjlnNjBzNVNCaDBUM0ZBcG9Gcm84?oc=5",
       "pubDate": "Tue, 15 Sep 2026 00:11:00 GMT",
-      "description": "Premios Emmy 2026: la lista completa de ganadores cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Premios Emmy 2026: la lista completa de ganadores CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -247,8 +247,8 @@
       "title": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXJsXzY0bHJpb05hRG5kTk80TWREdEFfNkViYzR6aGJqZlRSb3h2Z3AzVVU1S2cwd2x5N2ZOVktGTTR6WVBMM1BQcEE4WHp1bWU2c1ItOFhDYWdyNkR2Mi03UVFGazFGQlZFbDdoc0Z5SWpKckd5Tmk1ME5QS0Zpb00wY3g2dTlhcW1DWGV4dUJVcGhTYTFBbkRVd3VZTnFxcU1Tbktn?oc=5",
       "pubDate": "Mon, 14 Sep 2026 18:02:00 GMT",
-      "description": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA AP News",
-      "source": "AP News",
+      "description": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -262,11 +262,20 @@
       "domain": "elpais.com"
     },
     {
+      "title": "Lula y Bolsonaro en empate técnico mientras el mandatario moviliza sus bases en la calle de cara a las presidenciales",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQTmx2bXMwN2NHdmtmajdaVGdsWE9DbE1td1o1U2tPVU05dGtQTklUU2N0WFdKbVRGWEE0QU9Oa0dxd0NtYUxYdUxjX2tId005eHExcmllc19jYmRaQktEVzFGaU1YZWh6elg0NlRjOVN6NVVGSURwSnpBWFVfS21PdUg4aWhmN2gwS3BZOEpPY1ptZmhTNTZqX3JoSnlDeWVXQ2NlM1dZZTg0N2dXRHJBbHRnd3dYZVBhY2dUTXFnVVFyeHR0MzZfZGp0SjZ3ZEd4SjBKZ1F5NGdmU3hja2tYOEJyUGFWNWQ0d29sLXRMajdkT0pxMW9BZ0hoZ0pfQ2h0SEVNeWRKcGhYT1E?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 17:30:12 GMT",
+      "description": "Lula y Bolsonaro en empate técnico mientras el mandatario moviliza sus bases en la calle de cara a las presidenciales France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "La ONU pide una \"acción urgente\" para frenar la IA",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzZqeGV0VmJaNXlRS09id3VQLUNXVHUyTTlpd25TankxTklmVWcwRTJRcWJ5WmY5TkxTWnM2aWRFVC1ZNGczMU1oODVtb1VaVF9ib0ozUjZNcVgzeDNHcVBBU09RMlRqTHBQckZITEFGODhEQXBSV1BXdXdMRFBRSG1CUGFxYWpGbWREekkxNU9DLXR2ckF2WGF2Vk5RWGxYUGx4aWdMcHA1RG5yRlpoMjczOC1Gd0c4NXJr0gG7AUFVX3lxTE11d0xxVGRXTXZ5dXA5R0ZUZWZKaUZVei1RdUhVRzBveHZQY19sajRSUEdfVkFJaG1GWHRFN2ltY1U3ejRPLV93b0w5UFpkVDZFWm1vVDl2TlhYcnVDTTFVc2p6WXphQnNxMkxNZVN1UlZJN001dmNsNG9KOVp1enFxazh5Ri1xeFBKaDNBaXpzUFN2MDJCZktsbTFSUFphSzdBVnV0eXNTcHdhM2RVTzlhX1ZCMXRLemlldHM?oc=5",
       "pubDate": "Mon, 14 Sep 2026 15:28:37 GMT",
-      "description": "La ONU pide una \"acción urgente\" para frenar la IA dw.com",
-      "source": "dw.com",
+      "description": "La ONU pide una \"acción urgente\" para frenar la IA DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -274,8 +283,8 @@
       "title": "Campaña publicitaria \"hipersexualizada\" de Sydney Sweeney desnuda desata ola de críticas de atletas",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakpJUHAwblVxUnNOZmwxOHY1aEdFSEJ6LXVBOE1nWU9zYW4tSFF3b0VuZEdmVy1ucVJwTHdrSXN2RTN6RG9PNnY5b2lpSXVxUEJYRFhaUlRobnlKR19ZVkpTUXZhSllQZllxU0tIdFZ2UDd4VTZfME9aRzFvUUYyM0ZjM0QwME4wR3NmWjZYX3h5dGo4VWZUR1RvTFdMWVU?oc=5",
       "pubDate": "Mon, 14 Sep 2026 15:02:00 GMT",
-      "description": "Campaña publicitaria \"hipersexualizada\" de Sydney Sweeney desnuda desata ola de críticas de atletas cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Campaña publicitaria \"hipersexualizada\" de Sydney Sweeney desnuda desata ola de críticas de atletas CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -283,8 +292,8 @@
       "title": "Marcelo Gallardo asume como técnico de Ecuador en proceso rumbo a Mundial 2030",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnlPcnkyOGVqQnlvM2ZzMkVQT1JxYlBMRUY3S0hnazh1N2VUYVZFMUp2VDRDNnM5eFpteUNydEJpZkhyWUJVXzV5cjNBTHhuVWpPNDFjb3RjZ2REWk43SzNzOEl2dkZYVkZ3SmZuQ3hmVjNYVm1MdUtaWGFPdEFSTzBEZURMY3VkWWtQNA?oc=5",
       "pubDate": "Mon, 14 Sep 2026 14:46:00 GMT",
-      "description": "Marcelo Gallardo asume como técnico de Ecuador en proceso rumbo a Mundial 2030 AP News",
-      "source": "AP News",
+      "description": "Marcelo Gallardo asume como técnico de Ecuador en proceso rumbo a Mundial 2030 apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -292,8 +301,8 @@
       "title": "El súper El Niño ya está aquí y seguirá intensificándose",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWEJxc3hfYTd5VHJ3bmZyLVM0VUZ1YnNCaXg2OHRxdGxTRmdlbWZodWNtNDM3UjY1dk9OeXlRcFJqQm5pWk1QeWpLNXVKMWZTRzdEb2RaZG8yN0tsbWx2aHMzejlGbnhVYUR6SzV6T3h3YVhFZnlqODd0dmdpWnBQdEIyMFMtb1A3aS1NYWQxYnZfVEE?oc=5",
       "pubDate": "Mon, 14 Sep 2026 14:36:00 GMT",
-      "description": "El súper El Niño ya está aquí y seguirá intensificándose cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "El súper El Niño ya está aquí y seguirá intensificándose CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -319,8 +328,8 @@
       "title": "Matan en México a estudiante española de intercambio",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS2Vfa2lVZXJRZ1hCNFhKQ05mNFlZNTFucnotVVNqdTFOWENGWFo2SFpQRlBnRHdXT3JZZWhTMF9GRGlyMnBEam5lWEg2ZmQwVFA1Z0ZIdmREazFlMXNRTjF3XzF2TnUwblRSdEVHVU5NZFRBY2xZdjB2UGVzLUxmem5TcV80WjJNa0JvVXZmV0ZmZWhCeHE0MEVzSDRzcWhDZC0tMy0yQ2tmWkZ3aUxBVzdGdmxlaVczOVd1dF9Ec01MblnSAcMBQVVfeXFMTzlOTGY2d3pwT0lVM2xlZ2dzaU9OSkdURVM0M0RpTmRvTllNVWJQTHFKWTVQTUxFSDBtaFMtRnY2YmF3ckpzYU5DTGRZMThKUVhQaHVqeWlQT3I4M29WN1h6RFV2b1JETFBOSmJ3VnpyRWswWTg2WGROeXRvcm1wVVFucmFHd1Nzb2VudXdUUkdjM2MtdkExTVFSQUxJYjlGcGY0MmhSRUZIWU90MkVMSzEtdkU1YXNwTUIwVXFQOFRDdXJj?oc=5",
       "pubDate": "Mon, 14 Sep 2026 09:10:57 GMT",
-      "description": "Matan en México a estudiante española de intercambio dw.com",
-      "source": "dw.com",
+      "description": "Matan en México a estudiante española de intercambio DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -337,8 +346,8 @@
       "title": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3c1SWxBU3ZCSV9vNXBhNkZIZzNGLVQ4ZmgzOFp4RmhINHh0TGZ0TWV5NG5POGZtOU5LdlVYcC1EUW1jLTRQbDl6cUNhMGJ2ODRINlhsWUtfa0Q4WG8tZDFuank1T3NIdXN5cnVTc1Jib3RvY0ZCN0FfT2FVV0U5eEFTSDloOTJ4V1ZjRzdUZ2RGbGs?oc=5",
       "pubDate": "Mon, 14 Sep 2026 02:14:00 GMT",
-      "description": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní AP News",
-      "source": "AP News",
+      "description": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -355,8 +364,8 @@
       "title": "Proponen retirar nacionalidad a directores de “Naza”",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZk9Za2hNZ3BYMTZzcmt3bmEteVo3Sy15THV6NkN2ZTA4Z1lCdlltV3FPOUtpYlYwS25YVG4zMEkxS09FSkZGdWhaQ3MyLXZ4VEp6cm9GS1ZDNHVEZTFKa3duUzNHaDExTzlYOHhZQU1valNnUDA0QTIxS3FEMmRPVjgwV1F4N1hRaDZr0gGLAUFVX3lxTFBQazlRYm1LQnZITHA0ZHd6OGhldE55NnNFVWwtVnhOSHRQUjF6RGRRZ3pnYjNZejNEUzJvMTROYnN5ZUllRGVNNHFoRFdZR2pzNUFxSHNHcDQ4cHNRTzcwZkRBWkNSTWJBbUh0U3FjNjUxWng4SmRfVlRGNnhWenpaQlMtYlRVYlc5dW8?oc=5",
       "pubDate": "Sun, 13 Sep 2026 23:17:14 GMT",
-      "description": "Proponen retirar nacionalidad a directores de “Naza” dw.com",
-      "source": "dw.com",
+      "description": "Proponen retirar nacionalidad a directores de “Naza” DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -388,15 +397,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Los rebeldes hutíes del Yemen controlan el estrecho de Bab el-Mandeb con la toma de la isla de Perim",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNFQwQmE4dFlSNzF1NDk4NTJScGdHNDZLeWQ1VFYwYXBrX3l2Y3NiQjlsYUx2Z0tIV211N1RoOW9DYXM1VlJqRm9xcHNXclV6dzBWaFNSdndsVHJTdkJDLVdFWkJscHpDVWw5Zy1pa3VQbzduZU8tZjA0N3dxUEg5eTFyM2NwNndhRVpvdG4wRVROaGRqaFVWTmQ1MGpIelVvUDlKRFZUWHNXT3dyeDVUQzZsMTh3M3J4MlQzdHMzS1pHdTViY0RKclQycWtVUWpvN2Q3YTBPNmpiNWFBU1F2Qy1jWEFOM3RvSG9hTA?oc=5",
-      "pubDate": "Sat, 12 Sep 2026 00:03:01 GMT",
-      "description": "Los rebeldes hutíes del Yemen controlan el estrecho de Bab el-Mandeb con la toma de la isla de Perim France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "La inteligencia artificial podría acabar con la humanidad. ¿Cómo debemos tomarlo?",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYk5ES0ZSRVo2blBrenRmUHU1Y25IQUlLNGRCdEJzVWFoS2QxMDBNU0xBZkZDMGlOcHRrWklfMkM5eDVVNTc2VS1XOU9BSkRxcHM1SlRBRVdGYzI1Q2wyTTF6LWZvV2c1cC00NHZ6UF9IYTBDNTNZT0RKcWZZZTNJcDg4MkpVeXZrelNNbjB0Y3d3Uk9wb1RmSERBcDNhZkVUNzBGcldmQmVUcjFEb2NldmtobjQzbnFoT3dvWg?oc=5",
       "pubDate": "Fri, 11 Sep 2026 18:15:56 GMT",
@@ -418,8 +418,8 @@
       "title": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzJUTS1Xd0NsNFFLTWpvQTNoUnhFVDJnRUVTMW9ncTI2RlFRaEVET0F2MFR3b1lEZ2daWFdGN1lPOG9xVjNXc01Ea2pSRlhyTGdfeEgtaktzcXgwck05ak11QkVmOXI3MURtR0J5WlMzTmVIRFlVNUJvaURfd08wc0ZKNXJ3dUJoWDhlVDh6ZWNqUENialZscHhiUERQeVNmaWZ4Wg?oc=5",
       "pubDate": "Fri, 11 Sep 2026 15:39:00 GMT",
-      "description": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia AP News",
-      "source": "AP News",
+      "description": "Presunto autor intelectual de los ataques del 11-S sigue sin ser juzgado a 25 años de la tragedia apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -427,8 +427,8 @@
       "title": "Rubio promete que EEUU no actuará unilateralmente contra el narcotráfico pese a ataques recientes",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTWI3QWx4bXF3Q3NtU1ZfVUl1RE5RdlBnR0xhVDUzUGZyRDhtSERBV1cwUW0xMS1PLWtuMVpud0RUazV2RWRaMFpxZ3BuUHdUY3V3aG5EUGFwY1d5RUZwR2VMRHp4RTVJNktKUUhvRkpCWXlPV2tiYXdJTmxLcUk2eWo3ZzdKdlBZNGwyOFBwal9laDRlNW4xMGhaLXZxaVRtS2c?oc=5",
       "pubDate": "Thu, 10 Sep 2026 23:01:00 GMT",
-      "description": "Rubio promete que EEUU no actuará unilateralmente contra el narcotráfico pese a ataques recientes AP News",
-      "source": "AP News",
+      "description": "Rubio promete que EEUU no actuará unilateralmente contra el narcotráfico pese a ataques recientes apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -472,8 +472,8 @@
       "title": "Fiscal general de Guatemala dice que polémica exfiscal \"formó un gobierno paralelo\" en su gestión",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXRMeHMxQXB5MndCWWNaVlRFcmowNHpJMWtUaEVnR1FXVVBOUmhZRUd2Q1U2U2JoTjBpbm8tWHpiMzViX0RwcUhEaUpjc2pwT3cyb2lVVjF3aVBCQUZEQ3dJQ1V5NFdsYmpJRFdMOU5Yc1lFUGcyd1VBTHkyWTl4RDZVcGhzY1FzSjNmMlRvUWxYdGtHU3VvOF8xX0JIN3NwSXViY0hTNFBRTUF6ZkhWOFgyQmJKcWlQWXJvd3huMHBWaW81SWpTMFBTVVUzUVE?oc=5",
       "pubDate": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "description": "Fiscal general de Guatemala dice que polémica exfiscal \"formó un gobierno paralelo\" en su gestión AP News",
-      "source": "AP News",
+      "description": "Fiscal general de Guatemala dice que polémica exfiscal \"formó un gobierno paralelo\" en su gestión apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -523,15 +523,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | Arturo Zaldívar: La conquista del derecho a decidir en México",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDNCNzRlX3BPOWFqLVBCMDRDVkk3VkVSMmpUb191RTF5NkpyY0p6TEI4anJpSUNocU5PTHB2TUp3anZMa3U3eV91RGV2enVaYktVTW9Ock1sTTV4UkdjUmNuMGVNWURCWElTRTVCWU5KTG1TRlRVb0xHVDRROUYtdm8xSGo5OTdPRnhNSmZOUkg1Qjd5OUIyU2Qza2tyV1J6LXlVU1JFcFVmaGNoR1FQOFJSMGJmY0taVkJHSTBVbW00aFlh?oc=5",
-      "pubDate": "Sun, 03 Oct 2021 07:00:00 GMT",
-      "description": "Opinión | Arturo Zaldívar: La conquista del derecho a decidir en México The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
       "title": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEdkRHhScjV1aUVCRGhwaGxlZmdFT253QVlUTHphcGZHR3hHbU82SjVNcmV2eXVVNUpKNURRQ3JqWEVLMXdXYTAtVmdhUGJ5eHNlNGY1R3Nuc2FZWUtrY3NpQUdJVl93N2Q5Vk9LaUpGMVYtVHBvYzBhUTZ4TENid0JyUklaUmFHbnlCaDdtMWNYTEhuaWx2c3VLajB4N0EwZFVQNmJqV1NCRFpmQ0hvZ2hhTkRSTkxOOWpmbDFlMTlQR1dPcF84a0hjYw?oc=5",
       "pubDate": "Sun, 30 May 2021 07:00:00 GMT",
@@ -563,6 +554,15 @@
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0ZDTElvc0s0cWJya3FiUzN0NXJNUHlqM3NwdFhxUXA4ZjJxZmpGel9qLTVnWXUyRFhtYUdYMHhUVUdBOERzV0tEdWxLcy1WNm03N0hOTERzVUx2ak5jNV9EVW1zcjNWWFBBSkxEYnlzaUQ2Y1A0MlBBRk1LdFFjUnNfN1R4b0FiTnQzR29faFZ3SDc4dlIxMERFSGUweDJiMXNfX05rOEUtTzZxeVd2OGFicFdQOElzVEgxejBRM1hMLVRwNTJVSnVqREc1aG51MUtLdzhsRXJpOW5ybEdhdVFB?oc=5",
       "pubDate": "Sun, 31 May 2020 07:00:00 GMT",
       "description": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | Estados Unidos debe agradecer el trabajo de los inmigrantes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUkpabWctNmtyTTdmeEFRY3lwcWxCQUl3eXBNTzVTMEtwcmtmSDg2UXRkSVFIRzZwY2UxSjlBMnl5Nk4wb180LXhqRFhpWllJLUFPWVVLR211dEZqeXhFSGZHbjE5eHhGcUd6UldERTlnUnBNOEh1VVBuTVg0enlKX2I3bVd0MGt5c3Y3YW9IbEZ4S1BpOGV5TUI2RUc4MUViUGwycEVROVVTcXQ2ZW81b0FDT0NDbTdnbnc?oc=5",
+      "pubDate": "Wed, 15 Apr 2020 07:00:00 GMT",
+      "description": "Opinión | Estados Unidos debe agradecer el trabajo de los inmigrantes The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
