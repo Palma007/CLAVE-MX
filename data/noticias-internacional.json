@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T23:19:44.292Z",
+  "updatedAt": "2026-09-17T02:01:29.141Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,22 +64,58 @@
   ],
   "items": [
     {
-      "title": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUUJlY1M1dE5sT040cVE1MTJCRUthNkR1b19WTnZSSEdDNDZaMEV2VEg3SEZiblQwMzYzZzR4MFVFM1M1TFJfUFRwLVQ4eWZaQmVmMnJ1RVBLLVpJ?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 21:13:54 GMT",
-      "description": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU. bbc.com",
-      "source": "bbc.com",
+      "title": "Guerra con Irán cuesta a EE.UU. unos USD 38.000 millones",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWJHbXBtWVFRR1BTTFIzSVR4WjlvRVZzZ0tHVnBxWFJJVVVjZV9kc09iRWJnMm9FcHZZMHBsNi1MSzVnRHFPRzRHR3BfUmsyRHRBNFBtMTZPNDliT1U3QUFqMVlaWm40VG9OU3d4andZSkFTaDh4cS0yX25qdGhEWUNSQTNMamlrYUNsMXBQNWFDQU9VMVHSAZYBQVVfeXFMTjR6RlhaVldVRlFTRGZiY1RNeGZnajV0SFZMdWYzT2dFZEdoZmVzU1I0bUY2ODEzVXdNZEI2aFoyb2x3UkdST1FPWHhvWk5oNmstR0RtajNZZnB6VktqUXhLYUxTX0NwbzF2ekFGd2FyQjlnUUVkVzl2ZERfTFRJdmU2WTF0UGhFemtqQVgwOWtGb1paTkpB?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 22:36:10 GMT",
+      "description": "Guerra con Irán cuesta a EE.UU. unos USD 38.000 millones DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El hermano de Diana de Gales asegura que Carlos III le dijo que se \"olvidaría pronto\" a la princesa poco después de su muerte",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HS1NyV3AtV2Z2eU80SEV2blhNeFp5dlBpM1BLVGE4dVFHMmdSTENTRjF5MkxDbjJLajYwQTVWamxhVW1FeDVuS2h6aGxwYUJJZFBnSjRub0xXUWxy0gFiQVVfeXFMUHdtaWI5WFg1TDNGUHBxZ1BhT1NYZUQ5NEZ2OWJ3TVIwelg0VnZ0cVEybWRtTFU1QXBOSzNBdm9HYXhWYXcwUzV1ZjdKY3hQY2RNX0ZjeXk4VndXS2lxTXkwMXc?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 22:14:08 GMT",
+      "description": "El hermano de Diana de Gales asegura que Carlos III le dijo que se \"olvidaría pronto\" a la princesa poco después de su muerte BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
       "title": "La Fed sube los tipos de interés por primera vez desde julio de 2023",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mQXpCTE81YjhlRnhzYWtvS25BRDVIRm93eEU3Nk9nZC1xWGlSSlhvejR0M2ZyNzMyLXVxZXlnSEE3UWJTQlhXb3ZNOW1ERTYtelRqVWN4SVplZmhvSkN2eGx1dWpieURDNFhOVUswbktpbkxSOEtuSmtzVHdDUQ?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 20:39:00 GMT",
-      "description": "La Fed sube los tipos de interés por primera vez desde julio de 2023 cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "pubDate": "Wed, 16 Sep 2026 21:39:00 GMT",
+      "description": "La Fed sube los tipos de interés por primera vez desde julio de 2023 CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Trump ordena el cierre de Centro Kennedy tras fallo judicial",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUxYTVRvSVBBc2taSVVJeTVLd0NaOS1obXlZUGw3ZGNUVU5COFgtMm0wNkprckNvaHVGN25xUHFCQ1BGTnRZTUpTTVlXYV9ZMTNDamJVS3JTZlBQZEUwQ3YtR3YzSHR6TW1jZWFSMDk4enlCeHE2N3lSNHVoalZFblloUmNJSDQwRXBxZ1dpd3IxNkt5aHF5etIBmAFBVV95cUxPc2dBRGhGTXFJWW9yQ0FjNUhTYjZORkNnay1yQ0gweUhqRTFBVUtCYWF4QmY1OTRGLUhkT183SFVKSUlKN3JjNEdMTlNLMGMtdjh4UTZmUU9zcjZKUlBkclNrRGpYb0dwN2FwODRyRHRYN3YtcXZseTNpclc0ZVhPMVlUTFU2eDVYSHUtNmRxM2poVXRCdjdEUg?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 21:31:54 GMT",
+      "description": "Trump ordena el cierre de Centro Kennedy tras fallo judicial DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wUUJlY1M1dE5sT040cVE1MTJCRUthNkR1b19WTnZSSEdDNDZaMEV2VEg3SEZiblQwMzYzZzR4MFVFM1M1TFJfUFRwLVQ4eWZaQmVmMnJ1RVBLLVpJ0gFiQVVfeXFMTmtFTGxDcU91eHJ5eWdIVGVuWnFzN2hPamZlUE9UQ0RjclFIZDFwbHo0eW5tbmhzb1FpQVdTZUwzb2V3SXFNZVZ6ajRzRjdiM0VKODlocXVnUUhhX0FaT01lemc?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 21:13:54 GMT",
+      "description": "Las imágenes que revelan la destrucción causada por Irán en instalaciones militares de EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Omar García Harfuch, ausente por segundo año en el desfile de la Independencia",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLUNzX1dTdWYya1B4M29BcExjbDVldVUycmJEQjVxa2Y3WmFydXhvOGlxTGtGTWg2dW1ubXl6YkNiZk00ejMzMVV6SmJpQWVJWDRDNlk1RGRISm83eTJFMmpRbkZHakI5TkxUXzdGalM4YTM5TW9NUnBUeG85VGlhaXJna2g0QWRHWmUyRXlLQ3ZZUjkyMThpVkZzbzhJRlkwQURDaEI1OXprcUpSN29nRXRNTGZFc0RtMVNv0gHPAUFVX3lxTFBkdjVEdUVQZ19BUnRaRXVoNURIYjN6UXNFMTNuYUdJYVMtSWtjUWNTa1JYOWZqcko2RHNVLUh2eGRJS200eG5KT3I0WmxINXpaOGI1dmMxeFA4U0RSRE9JbnJmaEJUMUx2V2ZqdUNod00tTHViWGljbUFZdUhNakxkeGFnLWNZX01ib3RYNjJSbkQzSm9FaDhfdzBUTUx4bU9YQW1nc0N2N2xkY09iU2g3aW5FbWZvWTNYaGZNTmlqUl9oS2xNNGtPUWZydS1Vcw?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 20:02:47 GMT",
+      "description": "Omar García Harfuch, ausente por segundo año en el desfile de la Independencia EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "La ameba ‘comecerebros’ deja su primera víctima en Yucatán: un instructor de wakeboard de un lago artificial",
@@ -94,26 +130,17 @@
       "title": "Por qué Trump apuesta todo por la IA y considera \"un engaño\" las advertencias sobre sus peligros",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrMzc3SGphdGxZenJfLVB6U0RJbEgtSVIxbWdMMWF3djRReEUyWHBGaDg2bTl1UzhxSnlVb1AtcVJvbkpRYWFhZUdFNUVMUjNZVzMyTUpFbm4zTUE30gFiQVVfeXFMT1VGamVJOEp3QWdERVBfMG5JNDNwUmt2eVVETUVHQ3ZpQkFOdks0QXBzSDV5SHBBSDUzYUhWMkFnXzhTQVcwbnA4aUQzZWFBeWZRLUx4QUtEVldzNXRrbnFMVHc?oc=5",
       "pubDate": "Wed, 16 Sep 2026 17:19:10 GMT",
-      "description": "Por qué Trump apuesta todo por la IA y considera \"un engaño\" las advertencias sobre sus peligros bbc.com",
-      "source": "bbc.com",
+      "description": "Por qué Trump apuesta todo por la IA y considera \"un engaño\" las advertencias sobre sus peligros BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Desfile militar por la Independencia: Sheinbaum destaca el papel de las Fuerzas Armadas en la defensa de la soberanía nacional",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUktKZ0lXZkRZZmVZaERjWkhYeG9tOElaM3pQcVVfRFBRSTIxaWY3ZkZYWTYzaDI2YjV3aHNHcExJTEhHUXpLX2pMLTRBN1dkN2pCVjFBYlh4UGdRM1hITkZNTlo4QlJUT2ozRXI5bFFiMG5rMmpNM0FlZG5SaGlTa0NFd1AyWW1wM1BqRmFpb3lWV1dKeDRfMG05R0JxbzdlU0hJVGdVMkFLd0Nuc1I3MERrRl9saGlxeG1BRWZ6VVFyckpGaENKSFQ2dnFMWWpRQ3JvRTNhTVVqZHc0THhqQkIwNTFJalRsYkV4ZFZKT0tfVF9uWGYwRDYwd9IBjwJBVV95cUxPelJycFpsNGNDSzE2M0hqOGo3ZFlJMFdtSlpGUHF2a0I2Z1VockQ1cEZZcDUzbmdDeXZ2TDZUa2RmX3NyNFBzMlRCMDd3VDh6WHp2dHBDY04tQnRmWjhUUWpQWWRTdEFwTi1pYkNaWjRRdDA4RVV3ZThKOUpUNHhrUkpOVWtTc2pfX0FtbC1LTWpaOERScEVpQkg1X2tqMUVwMXFlTTVicGFhOEJuekxnZkYyX3puc3VieW5DMDJ2bUJKa245bkg1RDR5aHNYYlZYb1pZbzFacmlqeWprWVlWZ2xkOWVneUNINzNxUUx6QlRXWGM4NU9BWWk3WDU3T0Y2UUY2WERXd2l6YzBqcFQ0?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 17:07:52 GMT",
-      "description": "Desfile militar por la Independencia: Sheinbaum destaca el papel de las Fuerzas Armadas en la defensa de la soberanía nacional EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Ed Sheeran: cómo cultivar la imagen del \"chico bueno\" de la música contribuyó a la peor crisis de su carrera",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FMXhDZWd3M1VZVmJvV2lsVXROeGI5RHRYNWFFNmcyNW5qdnltMFc4QTdSX2NjOWRGRHVqUTZYT2dxdi1wTTc2MVM4ckNlb3h1TXc0UVdmbnBrZmtm0gFiQVVfeXFMTkQxRjRSRVRkS3Z2WXRENUlPRm14bFRVY0ZwNnZGZ05nWThydDVzeXNrNmJPRlNZY3hMZWFvTHlNYUJoTTdReTlRREh0Q2I3cFcwSGJLSjB0WGhXbFFqRmNxVWc?oc=5",
       "pubDate": "Wed, 16 Sep 2026 17:03:54 GMT",
-      "description": "Ed Sheeran: cómo cultivar la imagen del \"chico bueno\" de la música contribuyó a la peor crisis de su carrera bbc.com",
-      "source": "bbc.com",
+      "description": "Ed Sheeran: cómo cultivar la imagen del \"chico bueno\" de la música contribuyó a la peor crisis de su carrera BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -121,8 +148,8 @@
       "title": "Selected list of nominees to the Latin Grammys 2026",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbGFGb19QM0pibU4xWkc2RjZaT1VGWkxyWEI0OGhKMGRnc2FhU3JMYl9tNkYwbEs1OXRfMnNtMTBNSTBGVElqU2ZRY0RyLUNMb0Fza3RRejlQSGo4Tk5wekY5X0syZnF5bUtjaXVqa0dVM0YtaEpBeEN5VXpKaWdoQ3VMamUzN244NjdJcnlsZw?oc=5",
       "pubDate": "Wed, 16 Sep 2026 14:32:00 GMT",
-      "description": "Selected list of nominees to the Latin Grammys 2026 apnews.com",
-      "source": "apnews.com",
+      "description": "Selected list of nominees to the Latin Grammys 2026 AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -130,35 +157,35 @@
       "title": "Lista de nominados al Latin Grammy 2026",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3JwY0ZOcXNibWQ1SVQ4MnpKdVhIbFdVT1dPNkhYNlZGd05GU3NfU2MwNzZ3Y2NCWUZMbUI3all3MEg5ZlFiOHdMWkZIR19lOURMbDB4OUR4UGp3QmxNOVUwYW91VUJ4Y2YwNzNqOWJYQnRpSjB1aUJrb0tMd2NfTm52c01vQTNSSHVnRXVuWGt2VXJDbmc?oc=5",
       "pubDate": "Wed, 16 Sep 2026 13:53:00 GMT",
-      "description": "Lista de nominados al Latin Grammy 2026 apnews.com",
-      "source": "apnews.com",
+      "description": "Lista de nominados al Latin Grammy 2026 AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
     {
-      "title": "Colapsa edificio en Gaza: 20 muertos y 60 desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDlVNTVPejY4QjRKaWNfM0VPUkdQNEw2R2tTY0FlVEUyQVZkZHNCMzM3b2lnZW9hMFdVWUxBNDU2RjhLUTBVWXRfRDFrdmpWYUxHQjBWTXVwZzVpbmVRTDlNVW5GZ3YxY0pqY2RyY09TNHF4VWZDb3RMNF93UDV2UUYwaGFzUWVqNXowVFFFVDN4U1hB0gGUAUFVX3lxTFB1bGVXbmRDX0pab1Naa2NvLUIyV2kzSWpQRXdMRmxieVlkZVpSMHFYWU1vQ2dLX0pPUDAzT2lnajVGUlVOczhMcFhWaWJmMTdDRl9pV3VadEJXT0ZaLUxQYzJCTndvbVBEcFEteThwRWF2THZwckJMMG9HNWFGNjE2Ym1TN3ZKRVNrZnB2UE85d0ttNnU?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 12:41:48 GMT",
-      "description": "Colapsa edificio en Gaza: 20 muertos y 60 desaparecidos dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Por qué Florida es el estado que más condenados a muerte ejecuta en EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VSElCZmdQdjFkck1NUXQyXzdjZTk4RlR6R1NLdXc3dVhUNlRpSU1OR2ZFUEFxRTMwbjIyaGFUM1RJSVc4d2hMZ05od2lfSGpheFJRQWllMjJwaFHSAWBBVV95cUxNa3RyTmI5T0VOaHF1ZENDNWpmYlYybHlkRzdWR0dWZXdkanRzcWVraFNrQkxFODA3RXdPX0lMM0ZydmtlSXAtVjVYN0NzTTJoXzlkQk1VUG93S3BRZUNSTFg?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 12:30:31 GMT",
-      "description": "Por qué Florida es el estado que más condenados a muerte ejecuta en EE.UU. bbc.com",
-      "source": "bbc.com",
+      "title": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LUzJvVy1HU2xZRnRrdUgwZjBJaWl5dVpCaFJoQUZFQ3RYaThzd3RGU0FUX1NEOGRxbm9qaWg4RnhNT1pKcG5XcFFLelk0UnpDWkQ1RzNWd05aczEz0gFiQVVfeXFMTzhmb3F3TV9randhdWVyWUdlaHpNUE1TellLQWN4R28waTY1OEN3VDRNRUphZFNla3lYel9uWEZXT3lZWWlWdEJyMWdzbHY1QTNKOVlta1RycTliRXFrRlBoYWc?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 13:45:28 GMT",
+      "description": "Por qué el jefe de OpenAI pide que confiemos en la empresas de IA a pesar de que el mundo \"tiene razón en sentir miedo\" BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Colapsa edificio en Gaza: 20 muertos y 60 desaparecidos",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONDlVNTVPejY4QjRKaWNfM0VPUkdQNEw2R2tTY0FlVEUyQVZkZHNCMzM3b2lnZW9hMFdVWUxBNDU2RjhLUTBVWXRfRDFrdmpWYUxHQjBWTXVwZzVpbmVRTDlNVW5GZ3YxY0pqY2RyY09TNHF4VWZDb3RMNF93UDV2UUYwaGFzUWVqNXowVFFFVDN4U1hB0gGUAUFVX3lxTFB1bGVXbmRDX0pab1Naa2NvLUIyV2kzSWpQRXdMRmxieVlkZVpSMHFYWU1vQ2dLX0pPUDAzT2lnajVGUlVOczhMcFhWaWJmMTdDRl9pV3VadEJXT0ZaLUxQYzJCTndvbVBEcFEteThwRWF2THZwckJMMG9HNWFGNjE2Ym1TN3ZKRVNrZnB2UE85d0ttNnU?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 12:44:01 GMT",
+      "description": "Colapsa edificio en Gaza: 20 muertos y 60 desaparecidos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Cuál es la razón de que nos dé sueño después de almorzar (y por qué tomarse un café no es la mejor forma de espabilarse)",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XdkVld0pYejZJZVJpeGk1SnRNS0htellFQVZoQjBqSGNKb2RTZjVSV1RuOTZTSjRjUkxnWmNsNm1QZmFEeGhreUdrS3lkYXNGeXluLTRMYWRoazBi0gFiQVVfeXFMTXFMLVlVdnpCMXBhUEhBRDNrT0lJUUtmYmtRVTlHWWJySjRsYnFJdk9EXzBtMHNTOVdQSWxraGhwQlB4cTRUUWNzV3laMTFwOTJLUFpPaERyRlB6TjV3c1EwUmc?oc=5",
       "pubDate": "Wed, 16 Sep 2026 11:01:17 GMT",
-      "description": "Cuál es la razón de que nos dé sueño después de almorzar (y por qué tomarse un café no es la mejor forma de espabilarse) bbc.com",
-      "source": "bbc.com",
+      "description": "Cuál es la razón de que nos dé sueño después de almorzar (y por qué tomarse un café no es la mejor forma de espabilarse) BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -166,8 +193,8 @@
       "title": "Zuckerberg se opone a frenar la IA: mercado y leyes bastan",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYTdTYy1LRTROUHllNzdfb3BCQ0NsRmx2NDRic2o0R0lJUTU5MEl3endlOGpTNlNrMjl6T1RBM2N4M1VHczdxQ2QwbW9wRkQxcGVoeExiblBUb1Y4YzFrUGlUSFJ5V2hVV3Bld0NKM19tdHduRG5raGd4QkR5TmZPOTJzRVlTZVZ1RUZUa0Y2aXJPOXdYWndBSHNvZFFUOGRJQncwdjdxTjhmRHBuWmtoNkNvRThDakY4ME9WZGZuUU91d1RvdjRScmZmSUtkdDd6dFNXZGxR0gHWAUFVX3lxTE9sM1RteTE3Qm9IZ3pjemhMWE5CbkRnYWdfcEV5ZFdoMWUxNTZKUHFYRkp3REN3ZFhtVHlyREM0ejhCcHJGdHU2WUo5M1pEWGlHSS16Mnd3NTNrREhkVVhpT2lGYjA5eG1vY0NjU2w5TmlBZDFEOXA5S1Z1WnpJcDZjOFpTdFdBX0o4TWpGOFVCeGQ3WEZiR0QzY0tOVUVadUxKSll1SzVkSGt3UzRXUWxMWEx0WWdEZm4wYnl5bzhRMGMzb0d5YmhBZ3NjUVNVc1VPYm4wOWc?oc=5",
       "pubDate": "Wed, 16 Sep 2026 10:49:29 GMT",
-      "description": "Zuckerberg se opone a frenar la IA: mercado y leyes bastan dw.com",
-      "source": "dw.com",
+      "description": "Zuckerberg se opone a frenar la IA: mercado y leyes bastan DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -175,8 +202,8 @@
       "title": "Tribunal de París concede a Kim Kardashian 1 euro tras su robo de 2016",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa2txNHo5Vjd5Nzl1S3Y5YmlRMURtUWp2M3dfZ3BFWlNnbVp1RF9zeFVfN2pYbjcwNzlmdUN0aWNsV0RaSmRNYzBxNWNVSDhmZlh6TjF2dUVOd01SZ1FzVVNDRFdtbXNQZWk5WW04WFIxQ3RiSXAwUDhyTVhrQ1dPSUNBWVNPQzVaY1MwcXE2VGlKUzl4ZEE?oc=5",
       "pubDate": "Wed, 16 Sep 2026 10:32:00 GMT",
-      "description": "Tribunal de París concede a Kim Kardashian 1 euro tras su robo de 2016 cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Tribunal de París concede a Kim Kardashian 1 euro tras su robo de 2016 CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -193,8 +220,8 @@
       "title": "Ecuador: Noboa decreta estado de excepción y toque de queda",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUo0ZENsMTU2X1lqSlZtaTVUdUVsWXlETE9FaWZJdmNLbVFsbFp1NEhvLWc4dE5uMWpGUzgwOHJWVkJCUF9IaFV0cGJSOGk0YnV0djdYd0RVTzMzcWZrbXlLMV9CRkhhbGRVUVlqMWViMVctNnVuc3dncUJtRHJ0SUlpMlRNMkxPNlRLSlBrR1FCRE0ya0xnX2Z6dk8taHBh0gGgAUFVX3lxTE9RdnlhU3oxT2Eza1NDdFFKdnBrOEJBMmthbURlbjhjTU1CV0FPblNRVDZvYmowazhldDVvX0ZSbnVublZaQl9kd3E2clRoc3ZnV1ZNRjJkQ3VNMndvRlNKWHhxU3NnZk9MazZpODAwN1FYQ2RiRjl6NDJmMXZlYzJ5NFRja3JFeWZWNlZxd09NRTVzeDFxOU96RGZTSGJXQ24?oc=5",
       "pubDate": "Wed, 16 Sep 2026 10:04:34 GMT",
-      "description": "Ecuador: Noboa decreta estado de excepción y toque de queda dw.com",
-      "source": "dw.com",
+      "description": "Ecuador: Noboa decreta estado de excepción y toque de queda DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -202,8 +229,8 @@
       "title": "EE. UU. confirma que tiene armas en el espacio",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXluZmppSG9kMDVxYkpscmpMc1NKN01SUFdvd1BraHRfbEcyb1ZYcU5GSGxuYWJuQTR5bU0zTVhMUHdXeGM3V08zZl81M1NOenpab2pfZlNIU2VySVhQQng1aXc0a1FJbzZIVGJSNnkzSG9WUzgxWkZhWVlCR21sdnpVeG0tX3hjSTZTR3lzeUVkX19fV3FKR1pvUDd1WUdWd25SdEYzakI0RTBwNTRESUNiSFI?oc=5",
       "pubDate": "Wed, 16 Sep 2026 08:12:42 GMT",
-      "description": "EE. UU. confirma que tiene armas en el espacio dw.com",
-      "source": "dw.com",
+      "description": "EE. UU. confirma que tiene armas en el espacio DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -211,8 +238,8 @@
       "title": "El aumento de los precios del combustible desata protestas en todo el mundo",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2xkLUcwZW93ckw5THRvQl9pWjhmU2FBRkpScVVvcDBkaW92ZGdQY2E5Y1I1VTdQX2dFeEEyblhVblF4NGlpanYwSV9neDdVdmt1Snl2X3JxTklDSWlRaDladUFXZ0l3T3M0Sk9KUzlhSUV1WVR0b01NanN0dlR4MGFNS2s2RjVEYVhIVkVGbDQ?oc=5",
       "pubDate": "Wed, 16 Sep 2026 06:13:00 GMT",
-      "description": "El aumento de los precios del combustible desata protestas en todo el mundo cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "El aumento de los precios del combustible desata protestas en todo el mundo CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -235,47 +262,20 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Venezuela precisa unos USD 21.000 millones para recuperación",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUZWYlhxLUFSRXFMcFkzWm9iNkhiS0V3REhzMVZGRkVIOHFHTlBhNHhDOV83OFFGTjl4NzJ3NmNZem12aXFLM1c2NUFBa1R5eEhrUDRiQlc5YlBlMFhJNGlCSHNodkRPNW4xT0RMUk42bm5NQXBHdlVaX0lia29ibGRPTjFLZUo3RW96R0loLXVvWG5VRVhsbEY5Ni00YloyR2Zj0gGjAUFVX3lxTE93QlhzXzFXZGY3Y3hoN3ZUd3ZINGcyVmRVenpPbUJTUkRkc0Y3OGRnUFZqZlQ0QUh3U3RlSkRBZGlLUHlfTGVWa3NZbm5vczU1dFdxVk9vaU56WVU4U1dGdFd0eVdqdWd0TVNCYmZjZVVLT3ptX2ljQVZYWGVEd0VERlRBbDZIdnBsVTI5eWl4TThRU3BSZnNpWlQ4TGVDYzNaWUU?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 03:22:12 GMT",
-      "description": "Venezuela precisa unos USD 21.000 millones para recuperación dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Le dijo a ChatGPT que quería asesinar a su hijo de 8 años y luego fue arrestado por la policía",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RcThOb1VuQ3dxSUlZa0NZZW9XVm1IM1JjejUzeFBaM1FocHlOZVQweWE3V0ZlakRYT1lEOXJVUmRhUlhQQ0VmSHZ0M3VKaXpaeVBjajJGUGloY0o30gFiQVVfeXFMUFBnLWZ3QjdzbWZhOFpEUVZHcE1XZWhFdkhLOS0yWjFwalNLdkhfaVBYRjIwZG1SRzhzcHRBX1ZMUktIQUt2MC0wSmRuWV9aSk1yTGFad1JLM3dCMF81T1FuQmc?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 01:00:44 GMT",
-      "description": "Le dijo a ChatGPT que quería asesinar a su hijo de 8 años y luego fue arrestado por la policía bbc.com",
-      "source": "bbc.com",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Artistas abandonan la gira de Ed Sheeran después de que Macklemore fuera excluido por comentar “Palestina libre”",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEVQYlVLcXY2YXV0WjJGNGxWMXphV0IxdkpmOTZGX2s0NExoQ0J3V3VLNmJrVXd2SlItSUthSXBmRUNjNEMtdkVhZEgxcmltOXY5UjdoU0VKRnkyRnFsdzZydnJOVGlRVUk2M0xaYWdudE9vbkNBVkRTcjA1c0FqVXZ0RGNXVWJEMzQ0N1pFX0NMMUhWN0dFSWp0cEJ0UG9pb0QxVEtTb3JqODJjWlE?oc=5",
       "pubDate": "Wed, 16 Sep 2026 00:10:00 GMT",
-      "description": "Artistas abandonan la gira de Ed Sheeran después de que Macklemore fuera excluido por comentar “Palestina libre” cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Artistas abandonan la gira de Ed Sheeran después de que Macklemore fuera excluido por comentar “Palestina libre” CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Guerra con Irán cuesta a EE.UU. unos USD 38.000 millones",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWJHbXBtWVFRR1BTTFIzSVR4WjlvRVZzZ0tHVnBxWFJJVVVjZV9kc09iRWJnMm9FcHZZMHBsNi1MSzVnRHFPRzRHR3BfUmsyRHRBNFBtMTZPNDliT1U3QUFqMVlaWm40VG9OU3d4andZSkFTaDh4cS0yX25qdGhEWUNSQTNMamlrYUNsMXBQNWFDQU9VMVHSAZYBQVVfeXFMTjR6RlhaVldVRlFTRGZiY1RNeGZnajV0SFZMdWYzT2dFZEdoZmVzU1I0bUY2ODEzVXdNZEI2aFoyb2x3UkdST1FPWHhvWk5oNmstR0RtajNZZnB6VktqUXhLYUxTX0NwbzF2ekFGd2FyQjlnUUVkVzl2ZERfTFRJdmU2WTF0UGhFemtqQVgwOWtGb1paTkpB?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 23:14:15 GMT",
-      "description": "Guerra con Irán cuesta a EE.UU. unos USD 38.000 millones dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Messi, convocado para su despedida de la selección argentina: fecha, rival y lugar de su último partido",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUFjQXdRb084N2U0eEFTZ0ZNNXZGd2prd1FiMV94R0c2aThrTjY1UFk2eDAyQ0gxVnk0R3NySHdWWFlzQ2tidmN5eDY0YmMzb0pqVUZPY0UtYlNzV0dWZjdaSnp4eWgwYWgzdlFUbnJKU0pwTFVTZGVnR1I0TUg0S25nWUdPLTVGLVZUNF90X3FRU096alRjQQ?oc=5",
       "pubDate": "Tue, 15 Sep 2026 21:40:00 GMT",
-      "description": "Messi, convocado para su despedida de la selección argentina: fecha, rival y lugar de su último partido cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Messi, convocado para su despedida de la selección argentina: fecha, rival y lugar de su último partido CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -283,8 +283,8 @@
       "title": "Nace Orión, segundo hijo de Maluma y Susana Gómez",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNklsMHVHRnNnWmx5Sm9qTUh6Zk1Bcl95TjByWEZ5OGpqZWVSM3prcE9wNDd0OWpVOF9ZREJubmZWQUlwN09QOXpVbGJVLTdOZi1feGRBNGtiRkxsSnppeVdERHdOb2tLMWlvTUFldFlhZTlLZFh1T0JRQ0ZqdHd1MU4xNzBEN3NuOWhWY3BJUGZPSlhNWnBV?oc=5",
       "pubDate": "Tue, 15 Sep 2026 20:41:00 GMT",
-      "description": "Nace Orión, segundo hijo de Maluma y Susana Gómez cnnespanol.cnn.com",
-      "source": "cnnespanol.cnn.com",
+      "description": "Nace Orión, segundo hijo de Maluma y Susana Gómez CNN en Español",
+      "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
@@ -319,8 +319,8 @@
       "title": "Una crisis remece el Supremo de Brasil: esto es lo que hay que saber",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFQxXzE0YVhOUUFidnRVRlVWUmtWc0lCTmhmZy1iUjVRODZnVHFaRjNWTHBpVFlNUnhiZFdBOHJJWjFXUkdRQ1d0MHVrMFJPQWQyRzVaNHE1ZmZRbWl3NE1ZaW5ZVnUtSVQ0SnpSdzR0VnZGRXlwWXFqQVNYdWhXTmxUQmhETUQxQ1pwNm1jNWVPUjFjS3c?oc=5",
       "pubDate": "Tue, 15 Sep 2026 05:17:00 GMT",
-      "description": "Una crisis remece el Supremo de Brasil: esto es lo que hay que saber apnews.com",
-      "source": "apnews.com",
+      "description": "Una crisis remece el Supremo de Brasil: esto es lo que hay que saber AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -346,8 +346,8 @@
       "title": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXJsXzY0bHJpb05hRG5kTk80TWREdEFfNkViYzR6aGJqZlRSb3h2Z3AzVVU1S2cwd2x5N2ZOVktGTTR6WVBMM1BQcEE4WHp1bWU2c1ItOFhDYWdyNkR2Mi03UVFGazFGQlZFbDdoc0Z5SWpKckd5Tmk1ME5QS0Zpb00wY3g2dTlhcW1DWGV4dUJVcGhTYTFBbkRVd3VZTnFxcU1Tbktn?oc=5",
       "pubDate": "Mon, 14 Sep 2026 18:02:00 GMT",
-      "description": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA apnews.com",
-      "source": "apnews.com",
+      "description": "China se irrita ante el “alarmismo” del CEO de Anthropic sobre su desarrollo de IA AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -379,10 +379,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "La IA se ha vuelto rebelde: ¿podemos mantenerla bajo control?",
+      "title": "La IA está fuera de control: por qué debemos actuar ahora",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzNKQ0FzVHVXdWhKZVJOeGJzNGtmSjVoQ2ZqYU8ydGdHTEtNekY0UGIzeGhtd01XcVBiM2hVU01sU28tcFhaX0hkblVza1lpZkdnTnlIZ1lxZWszeEdCTXBnWEgyT0dDZDQwdEd5cHVjUkdnTi1USkp2MEw0MkFTTzJvell6UzgtRDk4RUMyUjFMMTQ1?oc=5",
       "pubDate": "Mon, 14 Sep 2026 10:48:21 GMT",
-      "description": "La IA se ha vuelto rebelde: ¿podemos mantenerla bajo control? The New York Times",
+      "description": "La IA está fuera de control: por qué debemos actuar ahora The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -391,8 +391,8 @@
       "title": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3c1SWxBU3ZCSV9vNXBhNkZIZzNGLVQ4ZmgzOFp4RmhINHh0TGZ0TWV5NG5POGZtOU5LdlVYcC1EUW1jLTRQbDl6cUNhMGJ2ODRINlhsWUtfa0Q4WG8tZDFuank1T3NIdXN5cnVTc1Jib3RvY0ZCN0FfT2FVV0U5eEFTSDloOTJ4V1ZjRzdUZ2RGbGs?oc=5",
       "pubDate": "Mon, 14 Sep 2026 02:14:00 GMT",
-      "description": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní apnews.com",
-      "source": "apnews.com",
+      "description": "Irán pospone conversaciones entre Teherán y sus vecinos tras ataque a buque mercante iraní AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -418,8 +418,8 @@
       "title": "Un duro verano para la prensa de EEUU culmina con recortes en la cadena McClatchy",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRG1xZXVVZldyVE5uVk1oUlFpSEVYWjRaWV9HQjBhOUx3XzhsbzY0NGZ2Q09aRTRUZVZnbWpPdGgxQkpoM3BVNHJhOUNZc3pYS25YVmdJTkxPSmFNd3pOV2pFQXV5eHRVaFdnMXJWNmZwNVgzOVNyTmVZeGZyMDR1OEwtZDdUR0F0Q0kxZjlqbHJGX1Y2dDdFRkx1OTE?oc=5",
       "pubDate": "Sat, 12 Sep 2026 18:32:00 GMT",
-      "description": "Un duro verano para la prensa de EEUU culmina con recortes en la cadena McClatchy apnews.com",
-      "source": "apnews.com",
+      "description": "Un duro verano para la prensa de EEUU culmina con recortes en la cadena McClatchy AP News",
+      "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -478,10 +478,10 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Gulf leaders call on Trump to rein in Israel after Qatar emergency summit",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnJGR2Y2Si1NcDNqWWh1NXRONWVoTHUxa2plY3JLbWt4NzlZVUV1bkVOalVUZXdrZXJ5ZnRjS0w4Ym9ZdXhCUzhodXJVSmh5VGpRdDY4Yzg2NDY5TXZ1YlVMNkFHX0JtZlAtcG5kN1lVeWUyQmNXbmt4eG04UjVkTTFXMndBdkcxOC1tRVlqWVhtVzBnT3JmWGZVNU15OVhLOC11ZGdmYV9UQjc2VmRQSlN0TVBDZ0VsakpB?oc=5",
-      "pubDate": "Mon, 15 Sep 2025 07:00:00 GMT",
-      "description": "Gulf leaders call on Trump to rein in Israel after Qatar emergency summit The Guardian",
+      "title": "Airbus trials prototype space rovers in Bedfordshire quarry",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnVvbkFqcGZGaEQzTkJXd2xudlJpckxTbnZ6TGwybjJ4eklQM3hwMHNhX2xWdEJKdVExQ0dGUEdBWEp1bkUzUXEydVhGSFM0TzRtbHJ2M3hvTWN6TmhmeTE0bVdQU2JKUmtzdVBCLWpnUThQQ0N3ZTJfSmZvYndzRzR5dnhPNDBHdDR2czRmbkZ0NTJBa0VRNUJ3MGlxei1qRGJYbklVX2VNRGs5YlRFN1hLRGNIdjg?oc=5",
+      "pubDate": "Wed, 04 Sep 2024 07:00:00 GMT",
+      "description": "Airbus trials prototype space rovers in Bedfordshire quarry The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
