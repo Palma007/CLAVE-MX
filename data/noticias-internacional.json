@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T07:57:51.850Z",
+  "updatedAt": "2026-09-20T13:15:29.151Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,20 +64,65 @@
   ],
   "items": [
     {
+      "title": "¿Cuán segura es la comida en India?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZzN2ZWpZb1pwX2hRZTZha18wMThLMzVtZTNCSno2Y1lNRWFveXczQ1RfSkExSzZkb25aWHdVR0o0UmpuLXp6eERRTUJRRGxlcUVrYlJPS1VHRDRJRU5ydjhJZEhlTnZwazF5eEFuV2lyaG5TcXF2a29oNNIBe0FVX3lxTE93Z2hidnNsZUpGSmtlZEJMa3ZsdmQzbTVDV2VsMGt2V05wOUF0eDhCaUtjbDNpTXd0aFFSWTBWY1JqdUUybUZUNGx0ZnhqX0J1dWdaaEhzSUt5dnRKa1dIdkZuYjd3WFA1SlFaWkZQVW01eEl5NDhKQ3ctZw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:54:10 GMT",
+      "description": "¿Cuán segura es la comida en India? DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Las razones por las que Michelle Bachelet se retira de la carrera por la Secretaría General de la ONU",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1MVEtINTI2WDVFMGFMNkttS2JiNk16emRmb3M4YXVNTl9GXzlBaU5vSEF5bk9oNDlFMW9lcDVYVkplTGkwaU44dTF5d3E5S3NPekJzUHBVcWlnWGpN0gFiQVVfeXFMTTg4MjBscmhJUnJNVk01YzJ0ZzFQRGVGVW1vd0kzWnoxSC10OHRQSXM3YmJtaU5YcldCUGN6WFl6eGVncXBVLU9RNFFlQlNXLUk0VmdMb2k1UHdIVFZZZFFfUFE?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:28:40 GMT",
+      "description": "Las razones por las que Michelle Bachelet se retira de la carrera por la Secretaría General de la ONU BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Un niño desapareció en el desierto hace un año. ¿Por qué sigue sin haber pistas?",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRF8tSVdyQU5BMEN1UHo4WG1iMTByVkFaZVlYQ1l1WVJpUEMxZ2V0QzZtblk1eGJoWWcxdzZlQ2JBMmpvRE1LWmRSejlPbHh1eFVTS2hBcjBjd2xMTWgtTEtHZlA3WE15cTdpa09pS2pwVFV2QVdpRjFIOWNiUHAyMWloMmlwNVhlWVpkdGc0TE1weGNaWXc?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 07:56:00 GMT",
+      "description": "Un niño desapareció en el desierto hace un año. ¿Por qué sigue sin haber pistas? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Europe",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 06:18:48 GMT",
+      "pubDate": "Sun, 20 Sep 2026 07:18:30 GMT",
       "description": "Europe The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
     {
+      "title": "Trump redobla sus provocaciones de cara a las elecciones intermedias",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSFVra0lqdmxmU29Tampsa2xYVDZ5X2EzeTZtd3NiM3JjQ3F4ZjBsWGMzTXYtdkNXeVpfY2tGbjQ3Z0RDUUpEemtkOG10QjVuWE8wR21vb3VGeVpDMW42Sk0ycTAtc0NpS29SX3lyaXhUbmNxWWZWSUR2R3FRZ3hldjJjTnFpZjlZbmtWZWtwWEpDbm9QVTlpNHRPOXM4M3la?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 06:07:00 GMT",
+      "description": "Trump redobla sus provocaciones de cara a las elecciones intermedias CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Bachelet se retira de carrera para liderar Naciones Unidas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXdvWXR4ZzV2Mm9kSmY3bVpTV0FLSXVOQWV3V0daVDRtajNTTEg1bTVyUng0OXNmdHpyTDBpWm5tMzhOMFgxNFhfSDV5MEdJVDlRLWJQY2JFdHhjdm9Yc01vMzRlWmVRaWpXbk1ZSW00OEFVb240Q0FvWWRJX3huclp1VFF5M3JIMjdJZlBxUGJIZnNUSDRyN0Rn0gGaAUFVX3lxTE1tcWx1YlpUVXpTWlN6bzNfVHpsUGVKTXFONWczNFpUaXFseXJlQVl2Wl9aZU5aT042SmVnQXluazVWSlFkaUV1TE9GMF96SmVNekRrYUFNb25haW4yVWJOdmZvcmNpTE1yY0Z4aTlITWxpUHRrek1oRFJ1VmJfOGdDZVlBOU1aUlBxTWIzcFpEMFY0THJvSEU3Y0E?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 05:58:53 GMT",
+      "description": "Bachelet se retira de carrera para liderar Naciones Unidas DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "El poderoso tifón Dujuan avanza al sur de Japón",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVk9vSWRlWHBJOVZldDIyX1BBTjZfZlZieVlSY3FwalVsVUY4MVV0bzdJRUVfVFB3SUlIeXBkUzhZQ2lfWEdBY25KR2FvMXZFcV8tMXYxaDNpdk93UXJsaG9JTWlWV2ZSb2VQdVg5dXlKSUFnY29fSF9KTXBWZ0FIeHN3UjRqclZnRGtpRnZIdUtLalMz0gGUAUFVX3lxTE5qYWVmRWlZZFJSa3k2SUY2cDNCdHQ3UmNLT1NWVmlKTVF2Yjd0ejdrYTdSV0xEdWJwNEJlVTVfUTFCNUNaNjA1OVBNVjJrcURIQWRTUkV6Q0R6Y3I1UGVjUFk2WjNVdVVqRXRua01LU2JZVWxDRmZwelNnWUZJQ3lnVTFGOUxWZUpiSUVROEtqMGFIX2k?oc=5",
       "pubDate": "Sun, 20 Sep 2026 04:34:47 GMT",
-      "description": "El poderoso tifón Dujuan avanza al sur de Japón dw.com",
-      "source": "dw.com",
+      "description": "El poderoso tifón Dujuan avanza al sur de Japón DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -85,25 +130,43 @@
       "title": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU.",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aVkdjdjRYanBwNmhOTzRPVkp1aVZyUWxkNmEwOVBwanJRUzZCSzJnTGFnSUlkYTdFRExMLVd2blBYTkJ2VEo1SE9JVG54c0I2WDZoQmI2UlIwS0Zz0gFiQVVfeXFMTXl5YWoyT0hxUEhLY2xHa2I4WXVmX2FDRkcycHZBYzRRSzBxamYyaVNzeGM0ZWlPM21VeGkxX1pwUnp0RDZURVZFQ2IyN0dPQmtBN1BQV2haMmU0T1UyVDJsRlE?oc=5",
       "pubDate": "Sun, 20 Sep 2026 03:48:31 GMT",
-      "description": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU. bbc.com",
-      "source": "bbc.com",
+      "description": "Cuál es la visión de China sobre los peligros de la inteligencia artificial en plena competencia con EE.UU. BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "¿Quién es Earl Spencer, el hombre en el centro de la última saga de la realeza británica?",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdUFxc3ZITVBmTkhXMEVSV2tGTXpFcTRfVkFOdDJ2TXVLbF9WMFBCd1Z5YldPMTR0Vk5NYXZiR29SQlZkYXNJNjNUdHdkODJsTW5jWTFnTU1jZENVUm10SURQdFdMdnQwUEY4RFp3S2F6ZW5rV0tOWXJBRkU3V2VEXzFZbFFZUQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 01:18:00 GMT",
-      "description": "¿Quién es Earl Spencer, el hombre en el centro de la última saga de la realeza británica? CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Las pilas de Varta se apagan tras 139 años de historia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFJrSFp3U05PakRLblRYdFNqeGF4c2xGbEs2Z2g4YlJkTkd4cFVXT21xWWltb1lnckZlR2lxMGpZLVA5UU1fNUVpNXNJZHlKTFNsMndxX1pOQmVXZHFxd25zVndYelhvdVZrMm5XZEhScFNGMDNpRkV4aFNqOEFYUVNsUWVJM2RPMXo2eGZZNDZQOHZpUWFpR2I1UzdUd2_SAbMBQVVfeXFMTUdSaklrR2NZNVlKNmxWVkMwMHQyeFZKTkVpam83dE5pZzgtTGxfZ21yNWxabXByUUh2YXp6SnJHM3VwSTk4UkExVnF3ZXM1WkRsYVE1ck40YlB1Ylp6TGlrMHYtNkMxMGFyRkpvY2RDRnF5SFJUYllEZHNuZ1J3Y2Y0MGJMbUIzT0s0SzVEaDkzWWxoSDczS3o5WnlnalNvOWxkaUxlbjZIYkphYWRMbWxGTWs?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 03:30:00 GMT",
+      "description": "Las pilas de Varta se apagan tras 139 años de historia EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTNYb005NUI0ZTZNOHBKNTFVeEpzZVJhU0xHUmtEd0YxMHJqdG5sZ0dPOWpYN3lJclZBUTNBeUdKWWZ1WHVfQWROTmhRa2l5RzBJTjlUcUR0WmNN0gFiQVVfeXFMTkJTbGo2RlVxanNkMkE3WV93RllYMVRYLTRXWDdfRm1CcXFoSS1POXQtYUE0VEhMdGswLVVLME9xbDdxWlNoWTJyNEFxTzVvRjdWOWZ4Z2xKamlJQ1V3amhsQlE?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 02:28:12 GMT",
+      "description": "Ed Sheeran admite en un concierto haber cometido \"errores\" tras la polémica por la exclusión de su gira del rapero Macklemore BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "La Casa Blanca niega el acceso a CNN, a MS NOW y a Politico tras el “veto” de Trump",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV00yLVNjb00xbkptUmJBM0hyd0I0RE1UQnBFVkMyQ0JCdHR4NHVjVlRyZ3lob1FKeFFsR3RNMUZwVmJ1Z0IyWVloNklZNXNJVGs0WnNoWnF2a2NOMnZkbHEyMlJCQ21wQWZ4U3NoRFRLeGhnREtUa0ktNmh1SnR4U19LZVN0eExfNENr?oc=5",
       "pubDate": "Sat, 19 Sep 2026 22:33:00 GMT",
       "description": "La Casa Blanca niega el acceso a CNN, a MS NOW y a Politico tras el “veto” de Trump CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Trump promete crear una “Fuerza de IA” y nombrar a un zar ante los llamados a regular el desarrollo de esta tecnología",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHRDa2FkRDJabW1CY0xCMDdZQjhtdVZyeU9qanJiYnQ1bHR1WWdjQUNhanBlRXVXSV8yRVhIaW9jYmV0aXlEYU5qZTFqTmJraFFpU0RVLURCeGVlNUM0TEN5Sm5lX2J6NWlaa0xzenFYT3hUUWk3a0xQZTV3S0RrQTl2d1BFVGwzMWV5OVI3Ykx6Zw?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 22:10:00 GMT",
+      "description": "Trump promete crear una “Fuerza de IA” y nombrar a un zar ante los llamados a regular el desarrollo de esta tecnología CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -127,15 +190,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Sheinbaum visita Chihuahua por primera vez desde la disputa con la gobernadora Campos por la presencia de agentes de la CIA en el Estado",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSnRjX2ZlMXlSajk3TUFFNTlHTG9uSTNrTFIyR2k3bXgxb1cyU3BIN0tUV2g5ZDdXcVRwN2pGZFljTHZscDJKcy1uMFZ4UU52QUM4RWpVdG9XbXIzVEs4M2liNUhySXVjWXlvNVZxWEF6YXpKb09JeEVUdXpFR3ZBWk5oR2twaTBYaVBkUExQT1BQb2pSWkdWTzNOc0RuRWRvbFRKNUR0OWxHU290WnJNdThuRW5yTmlabndzaGN3MzNDeUFvcndwbEZhWE83U1V4Y2ppanVZMkNGLW95VGhKRjc1NEEyR3FVa0FSRzA5VGszaHRCemhuenJlN21OMFB5a2Nvd1RzQmNFUdIBngJBVV95cUxOQzhKQjI0XzhoamFvWUhNWWhiNFhqMUpDYnFkWnd1WXIzM2x0eXRKaTBXM1daY285MXJHS3pDRWNENWVIY1dxbFBSbWQ1OFNwZlp6TGhqY2MybmVCWDdtd0YzU0RhZzBreVZEUjFYR3BzUGVtWWxxSXNxNWg5MXplM3NHOG5RTi0wNFJfNWpoTVk1Z2wxMW9nNDNRLXNFOFVTUlJGRUNrWXRKbnNQWTNKS0NkUTMzTS1ybTZQVi1ES2lPUGFhR3o4OS1CZlEwZmlFcnB0dGY2dHB4QlJzMERpVlJOYTN6dUVtZEgzcTVmS3lJTmJYR1U2YVpvdVRaRmVzSjg5MzdRWjBZNGhhdXJZYjAtalVmUnpwVm12NWtn?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 18:51:52 GMT",
-      "description": "Sheinbaum visita Chihuahua por primera vez desde la disputa con la gobernadora Campos por la presencia de agentes de la CIA en el Estado EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Se avecina una ola de cáncer derivada del 11 de septiembre",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1REZWdDUVcyMXBsV1VjeUtuWHZDNHpTNXJHUmNnbTJQam5sUjVUcU5kNGNEb0dGWFp6bGZlZVJVdkhjY2dpcFRsQzBrTjFKU1lRSFN1bnMydTEzMVBIRG1tSUx0Y2RZZnFMS2xXSGt6b1FiaTVDUTBzVHcwSHhaV1R3?oc=5",
       "pubDate": "Sat, 19 Sep 2026 17:22:00 GMT",
@@ -145,20 +199,20 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Warren Buffett encontró la forma más aburrida de apostar por la IA",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN3dpWEJranFCb0s1YXluRzItMERZMGdyNnBqbm92TC1aRlgwdHJZWk02REJBNC13b2M2VGxlb1BjNHg3RzZPc3NsOERjZ0VsWjBvYzlMQnhfbElMMFJ1QjhScm12czJuLTZvYkxiNDhwc1Vzd2dMbjd0MVNKWTlXdDRsWUJkMFBJR2s1X25OWmtfeS1i?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 16:17:00 GMT",
-      "description": "Warren Buffett encontró la forma más aburrida de apostar por la IA CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Abuelas reposteras de Viena contra la pobreza en la vejez",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQllaZzkyQWpHZkJFeWotQjZONGVvR3pkbjg0UmUzeG9ZWXVFcnRZeHpzaHRDNXhTcEZyYXN6SzJDcWhvSkYySzh0NG5uNmFLUlNIWXl5WFVGb3BobWl6eEpTWWJ4ZXVwWDQ3WUp6UEpqV29WVmtQanZxWndsdjBKMUpRdVczdEh3a1o3VDJyT1FabVJ6ZllOOHJ3?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 17:20:30 GMT",
+      "description": "Abuelas reposteras de Viena contra la pobreza en la vejez DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Oktoberfest: la boda real en Alemania que dio origen a la mayor fiesta de la cerveza del mundo (y cómo llegó a América Latina)",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42d0p5TDdWNV9tSENFbEZSV29HWlhuSFlFNk1pa3NIcUlZLURWMnJrR3B0bmI3TDZwd2F2U0NTM3B5bWc5SHR5MHh2WlcyOTdWTXVqTENqY28tMnFT0gFiQVVfeXFMUGlGYnEweTRsZld4SGtDcUZhUmZ0RTREM2NpTkNWaXdoQXlwVjdGM0hTY2ZZQU1QdUxGUWtqZEd6VXZTeV85S0xJQ0J1WTVSOXVJQU1wUmt3YldpbGhaRVM2RFE?oc=5",
       "pubDate": "Sat, 19 Sep 2026 15:12:46 GMT",
-      "description": "Oktoberfest: la boda real en Alemania que dio origen a la mayor fiesta de la cerveza del mundo (y cómo llegó a América Latina) bbc.com",
-      "source": "bbc.com",
+      "description": "Oktoberfest: la boda real en Alemania que dio origen a la mayor fiesta de la cerveza del mundo (y cómo llegó a América Latina) BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -166,8 +220,8 @@
       "title": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbW5EQV9BaU96QUJJdjhtRzhLbDZYd0szbjRBLXoyUG4tcnY0TDhKR0dvd0lwa3BCakJPbTVwelU4cFJ3WEVvNF8xLVJqbzlNQTI1cy03d0tuaFFZNjhBMS1tWk9NRm5qR3RvMWdrbl9EYXdIZmdaOS02OHBGZmNRTFFWMkFFdDRscGluV1p1LTFOc1d1YTVTLVBLa1JvOEtLc3o5ZWxUWGltWGs0SFF0N1RhT3dfODFKUlpCMmY0YmJTd1JBaEpHdnMtRWNMeXdtTjVWb2drRkFOWU9jR1A4Qg?oc=5",
       "pubDate": "Sat, 19 Sep 2026 14:41:16 GMT",
-      "description": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump france24.com",
-      "source": "france24.com",
+      "description": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump France 24",
+      "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
@@ -175,8 +229,8 @@
       "title": "Costa Rica confirma que rompió relaciones con Cuba",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUY1QmFlZE9ZMFplOGtIYUl0Vkk3VERRQ2tOZXNvdHp5M1hpWDhIaXhhbDRXNklkcGEwRE9jVUJnQTE0YzNkaFQ3VzBQRUUwXzhuRW5ORkVoSjJTV2tBZk1wMnhLVThEalBZUVJwZ1VycVZUU0Y0eG1BZm9Sa2ItNkI0cmdpLTRwX0E3RnMzc3NId9IBkgFBVV95cUxOc0w4UE9qc2hjVUtzWDBjYTJCWXUzNXNZZVA3RVA3eXBoTEozR2FXVmJPc0xHVVc4cF9GOXFDNkNLcE16NFl3UlVtLXVYUmtlR2VhYkpMbEQ0YjN0MG9paDVubnNZQ1R3RWRQbHh5Mmh3b1VOXzdsMWVDTlRJNXpMeFdILWxJZ1Z0RWdvaFJNVGdwQQ?oc=5",
       "pubDate": "Sat, 19 Sep 2026 14:14:05 GMT",
-      "description": "Costa Rica confirma que rompió relaciones con Cuba dw.com",
-      "source": "dw.com",
+      "description": "Costa Rica confirma que rompió relaciones con Cuba DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -184,53 +238,26 @@
       "title": "Cómo una madre que ganó una carrera descalza para poder comprar los útiles escolares de su hija se volvió viral",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XYjZkck1rdE52eVR2SjhHUWFuWEZKN0RrTmtBS2VRbmh3R1dtbU1aM0ZLcVNRSEZka3NOV0Rla19iRzFaWW5jOHlUSlZicmFYbGJZNFZGSm1WRGZq0gFiQVVfeXFMTllJb2M4U1ZWYXBrb09iM1pvVmZyMHFOdy1uTWUyZkV0cW0xTXBONl8tNlYtSmo0ZzFDeGdWaE1XUGR4V1JIY2JOSUlPak5YTmMybU9LQlFkRFJJck54X0ExT1E?oc=5",
       "pubDate": "Sat, 19 Sep 2026 13:17:59 GMT",
-      "description": "Cómo una madre que ganó una carrera descalza para poder comprar los útiles escolares de su hija se volvió viral bbc.com",
-      "source": "bbc.com",
+      "description": "Cómo una madre que ganó una carrera descalza para poder comprar los útiles escolares de su hija se volvió viral BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La sencilla estrategia que hizo rico a Warren Buffett",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMG5OcHZIQ0pzWTZYQU5rUi1GcG5qTkpRc1d1TllVencyT1pZQW4waDRKS1hMeFRVUGxwS2xBQjZCX3hrWENGY19taG5tbWJIVDRIZTJaOEhJOEpmaC1WYWZKc2g0UXBHRG1ROGhvN2M3NkdNd1l4ZDEyNjJhVFpwTWtoOVJwbkZRMG9ucWJqbkcwdw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 13:15:36 GMT",
-      "description": "La sencilla estrategia que hizo rico a Warren Buffett CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Virginia Apgar, la médica que creó una prueba clave en los primeros minutos de vida y revolucionó el cuidado de los recién nacidos",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IX1kyMG41a0YxWWc1QmxpeXVwQU43ZUc0cVptcEo1TW5Ya1pwM3V6RFFHTEpQYTdzb0NUVU1vOEF4YjA2LUw4RzcyNXZUb09VclhKYlJlRDFWTWPSAWBBVV95cUxQaGp1YTNURG5ISzNGWUhCa252Z2dMRGVuSlhRazRGb3d3c3hJYXJDb0xjNl94bDlYRjBGTGc1RzByN0M0MU5TTGt5UFptWllQOHdwSjY4Y3NnQUVrTWJqNWc?oc=5",
       "pubDate": "Sat, 19 Sep 2026 12:17:54 GMT",
-      "description": "Virginia Apgar, la médica que creó una prueba clave en los primeros minutos de vida y revolucionó el cuidado de los recién nacidos bbc.com",
-      "source": "bbc.com",
+      "description": "Virginia Apgar, la médica que creó una prueba clave en los primeros minutos de vida y revolucionó el cuidado de los recién nacidos BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La más corta, la más antigua y una isla compartida: 6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16WlpZMkVvZFJLRGlmYnhfdS1oNm9FLVJVS05oUjJzTEppckYxWFJYWEU0c3lGa25tbjhpY1FicUlyVnBhU21VWkNkZmJaSXlNZXpZQjZ4ZHNWS0nSAWBBVV95cUxQc0llM0J0Q3c1dldaaTR5NFBQQ1dsNjBwbW5palNMOWtSQjJSODBYOUtuR1VJdngzSzNKTHdTOVJOdjlGNTZkUWs2ZVZseDJGYTZ0U0d3d29CLU5qZnd5WFo?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:57:59 GMT",
-      "description": "La más corta, la más antigua y una isla compartida: 6 ejemplos que hacen de España uno de los países con las fronteras más peculiares del mundo bbc.com",
-      "source": "bbc.com",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Diálogo político en Venezuela abordará libertad de expresión",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2xIRW5zMHhWT3hGa0hyTmxzNndTYUk4d2QtSnFmZGFPZ0E0UzVHUlVaSXFIczZHWU9DN0ppaUFVV3VHa2dheVdQbnBLVGxjNkM5a05vT25IT0J1Q0JGNmxDMHZwYkVDQlN4UEhncV9mbmFxTFJQSWZhQThTVUVpcHh6ZkxuZ2tDQWw2TktMeVF4dzdpaE11cXpMRU01a2Q0czZxN0g4NDh6eC0tMy01eFZ6MNIBswFBVV95cUxQeDlZLTVKd2dmbGttTFhEMGJwRHo1Mm1zX2p2N1c3SG5uLTFVUTNBTEEySHlzV3Y3dG1FT1poY1gzV2dHMGYzbERpQmlidGRONUtEUExLTURHUE1JbUxKd0htWDV6RnNZYkROdUo1aURYZXVLeGRNNC1aQ1ZlUnRoeXk4VTY2eUhYdWdHLXIxT3ZpOHVQcElwSk9NWURGdEtnazNHVmlKdDl5TEhLTHRFNlg3Zw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:09:30 GMT",
-      "description": "Diálogo político en Venezuela abordará libertad de expresión dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Trump y Xi cenarán con líderes de IA en Washington",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2NGdWNEWEdpWjFadXE0LW5icXAwb09wd1dDUV9rQnZuUTZGc21iRjEyalc3SFVmb1hTejBoVEZrV3RGbHo5bHZXbHNYb0VXZm5oMERaSEtFMUZTaWhoTDgtOTZnS1FPZUNUMVkxcEVsRW5vWVdjLUM2R0JOcUE5Yjl1RnA5Vnh1VGhJYlR4eXY4TXNOaUVzcNIBmAFBVV95cUxOajVSS3hDWXdWSzhOdzhiUldIbEdjNFdibHZ3ejE2aVZsMEwxMWZiZEpKX2MtdktGUldsbzRXVDA3OXdNOFJpMmhUZXB6dHRpUEVBaHI4VC1QbkhvejZCQWVxdGpDZ0RFYVBFQkVDTEx2UV9RRVprbktjd0JnWUw0R2ttMnNBcW80cWlDZjFtaUU0cjgyTW51Vw?oc=5",
       "pubDate": "Sat, 19 Sep 2026 04:32:03 GMT",
-      "description": "Trump y Xi cenarán con líderes de IA en Washington dw.com",
-      "source": "dw.com",
+      "description": "Trump y Xi cenarán con líderes de IA en Washington DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -239,6 +266,24 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbTJsN1BMU19NREhlWG1oTGxNaXhibnRmcjRyZTI4TFc1RWdOQ0phT01HNl92YWJiQU16MGt4c2Zkd3h4UHRHQ1UwSUhqVkh0REFEa3Z1eGo0NUZ3cllLMTZ6UEEyZGtjN21OZzcxbnZkNGtLZUVIdDVpMlJIejZWMUxoU196TF9tcUdJQktFWnZha3paN3hsdi1aMF83TkV6QzAtMGlnaW1MdlEzdm8zQ3BadDRwQlU1RVpmLUxXdkpjcXd0eDJKV0VFckd3MGgzVTd6cjZVNUJCc2J4eVJCSHFpblZpSHhjOVZmSkczcUxGcXJZeGhBZG9ibkU2SV9nNzhsc0VoY9IBmwJBVV95cUxOWnZQNFJ1UzYzeFFfblQ1U2U2bGZPb2o3ZG04STl6RGxibWVQd2tpRzVUOFl4TGhDc2VQXzVKVlZidGhua2w3LTRjaXZNaElmUVVWS1hXb245SEtlMzdUVUlPSXJqRTBxVFM2ZTRGT18wTDRtejRKRE41aHEybnc0VVB0UWZLLXlmbG9vbTNSS3AyZFFYc2VmQ1VuaXE1SC16cHBFb2hMXzAzckdPbFJCX0lZMS01N0JWZkJBS3Bpd2phdXpSRjBwZ3NIaEhFSjdONDhBQmlxeUZoYWJhVUVOeXNvVTcxTlpvWkpHQ01WWVUweEhRMm13UThhQjdRZTR3TEVLclM4aTJCUExWZkN3TGVQVktKRnZ5R3U0?oc=5",
       "pubDate": "Sat, 19 Sep 2026 03:30:01 GMT",
       "description": "Consuelo Walss-Bass, científica que estudia la esquizofrenia: “Mi madre y mi hermana ya se acostumbraron a oír las voces, pero siguen ahí” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "A veces se me olvida lo agresiva que puede ser una familia feliz",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOME1QYW9wVXppYnUyTnp2MDBrNU5EaE1KUkxHUXB2UUdPT3Q5LUZHejJnd05aNHMyM3dXdVVOTC1fem55SEpoanhOYTd3WDhXMjdVY0hqT1ZMWXY5bmtWc2VMVnltRVRvVEtlbk9fY1l6WXBRb2hydmVWM2IzTVVJYm91WE1BT3Iydkhxblp2bTkxTnhISHI4TG5nM1M5Zkoyb3FlSjNkMUHSAbwBQVVfeXFMTTlJVV9WOTlfaExpbWlNZWlVV1VZdHFkclloMUhncjBJZWxBMnVzcjcwQnM1cWM1R2wwb2lWbUNUTkdOY18xUDEwQ1dzcGUtdkt0anN3cWM1a3l5VGlJWkRQMlZlbE1FaGtVOGZJd2UwMWRzeDFrNld3RThTZEFhU0NhU0JJRVpkUW4wMDlpM0p1Zm0zenA2c2VMb2hYRnRGRmFkT1FCZ1pLR2pBR0hVT1ZoZWdaWVBxeXVyN2Y?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 03:30:00 GMT",
+      "description": "A veces se me olvida lo agresiva que puede ser una familia feliz EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Estos profesionales cobran más que un ministro y casi nadie lo sabe",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEtiOGRVcjBDbG1VY0ZPaWpJYmJiN3RzbTV0aEtxZjAzM3Y0djJ1SUoxYmJndk03TWVBcFVJZjhfSGMwd2FPQWlhZkE2QWtxOHNMN19IaWlGaU56VUd0QjZmcUJMc2I0NjFJQ2N4ZHFleHJIU2NyMEZKYXE5SHhzVThJR2s4S29GRWRsLTBwN1RuRFNxZ2V5aF9lUDlmUzVlUkExNFpsZExmU0N0TUpiQWpjWktrekZfZ1VIR9IB0AFBVV95cUxOZEZSMzh0OHREYWF0cFpNUFllZ1hqNWJtZlZQSlBsYzlPd0FTSXhHYWVQSzRLY3hfRGtyUWM5WkNhRnoxZHhuWVlyYzhMd2FFTFhXc0FVaXQ2UFRmeWU1WFJsQmVsNVVxWTZVLTFYbXRQbDloVHlyRFlzOGpnZTJKcEZRcE9xZC1iTWI3dkhzNnRaaEhIc1ppOUNveDAtVjdwYWV1TllQVlZKR0lsRVViNU55eU96U0VLQkg4SDl1dk9DVUxDRkozbU1MOGtVMS1o?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 03:30:00 GMT",
+      "description": "Estos profesionales cobran más que un ministro y casi nadie lo sabe EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -253,38 +298,11 @@
       "domain": "elpais.com"
     },
     {
-      "title": "El último intento de los abogados del líder de La Luz del Mundo para evitar que lo enjuicien en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3ZvMzBiTWlERDNCOTZxZG9meng2bW1MRHhBM0F3ZHB3S1VNalQtZlBoLUY3NjZQdGFsTENiY0d5NFFodFA5V0ZIRFpZSmVTbXhKR21VUzBKUWc4djhMMkFLUV83VExvUXdEXzU5TC0wVnpqX1pXM1Z0dTB4QjVobHp4R0dlWlpKakY5NWVuRDVwSzhIZ0tpdkswTE5nNWZLTERXT0otTWl2T3ByYVR1WVNDSFZjVTRKV3hFTTd5cTQzVGhpMi1IZGtIZjB4cjV6V2lFYjRab0FEYTly0gHwAUFVX3lxTFBaMDc5XzdVN0luOUJnb29rdFNsalhpQzlMSUJwUEEwbnE5YzBmSEM2dlE5ckxBNEdONmZKVll1WHRneFJ2ck1BbkFpREZvelY3V0E0SFJIVnFqLXdFeGFCSzduZXFKUmlvNFljUzNGd3ctZDZfQkYtbTYxZXdrQW5tSkZLUmhPM1o2cU5UOEp3dTdFcEtONUdTVDVMam1fY05fWFRnMDRwX1pmbXFPODFBek5QdG92YzZ3R19OWE93V0lqeTh1ekVwNXYtbU1jbmhvcnNaZ0ZKM09BZ1hkUElIMXN4ZkUzVzVBWDJFaXJ3QQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:40:32 GMT",
-      "description": "El último intento de los abogados del líder de La Luz del Mundo para evitar que lo enjuicien en Nueva York EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Exclusiva BBC | \"Estoy diciendo la verdad\": el hermano de Diana de Gales defiende sus señalamientos de que Carlos III estaba \"eufórico\" tras la muerte de la princesa",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCVDdrWlhQZmZnWXRJVWlNcVlFRHNfTGRJYVJoUTNreG9Sc3NYMEhlVF9raFRsWUF3al9HdzZvTUJ3YTYwdExNMVBLY2lSUFFkc01FblZ0LTNfRktP0gFiQVVfeXFMUHU0VGtvSU9xZ0VSRW9rNlhfOWtERGVYekxHbVBGdXQ3WU1zeGNzNlowRk90NlM2TFNDZjRZZmY4QnZRR2N4UXlyeGEyVk9IVC1XVzd2bGhqVy12XzZEYlV1aVE?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 21:07:45 GMT",
-      "description": "Exclusiva BBC | \"Estoy diciendo la verdad\": el hermano de Diana de Gales defiende sus señalamientos de que Carlos III estaba \"eufórico\" tras la muerte de la princesa bbc.com",
-      "source": "bbc.com",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Trump prohíbe acceso a Casa Blanca a CNN, MSNOW y Politico",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZE5mdnc5WVJDX3dZeVJLUEMxbGJBYW1tallBNzhpaTVIWndMSzJjUDlNMjlDUjVGUkZUZVRaTk4zSFNhdXlmaWo5RzJpRG5XaHhEZUNsNk1VTjJyZm56SGtlb0NRbjhxSWZoaDhzVGlJWFZ6aHBLTTN2dmViS3ZuanlQM2EyWUpibkNIdm9UV3JDdTFSTEpUc0dVMmx0T0nSAZ8BQVVfeXFMTnRVU0FGOXVSQW8xQTZpSEhTMllmTzFFSFBtNEFGWjNOc2xqTGVyRlc1TGdPb092VTBnTElZWTZqYzJaQ0J4Y3phZ3YzdERibGZOa192endNd25MYk9SLWQxYUlLNV9RZktjVWtfcnFkLUJqVDlZczJhNDRfdjJ0eUNLRWNjQnUtdGVZa2xEU09lUWxfTEU0ZlduY0x5OVZz?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 20:42:54 GMT",
-      "description": "Trump prohíbe acceso a Casa Blanca a CNN, MSNOW y Politico dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "“I’m back”: Julian Assange regresa a la plataforma X tras más de dos años de silencio",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYlJGckl3QzA2cm9kUUJrdHBsMXdhWlJkb0xPNE4zYkY5MS1NM2xzc3RidUx3RndlVXlUOVFxNjVpNWFKVEp0ODl4MW5QTW9XNGJNQ2JwdWlxVDF2U0g0alVrZlZ6T2JMSUFyUF8zX2toNWdDTVR6OWtpd09WQ2F0dEMwUkNSWklXVW9vZVJhWEkwVUlxUVNoQUJwcXpCVzdCV29ZWFB2NEE3ZkprSXBhXzNGZG54N3ZyRUVHbVd3em9seERJd3lZVkQ1T1o5TVQ3Snc?oc=5",
       "pubDate": "Fri, 18 Sep 2026 18:14:48 GMT",
-      "description": "“I’m back”: Julian Assange regresa a la plataforma X tras más de dos años de silencio france24.com",
-      "source": "france24.com",
+      "description": "“I’m back”: Julian Assange regresa a la plataforma X tras más de dos años de silencio France 24",
+      "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
@@ -298,29 +316,11 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Macron alerta de una Rusia más agresiva y amenazante",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYWlGSWhXM21qNDZDVk43elpDY2JRWHA1aU45SFBvVHVPaWVKbXJFR1BCel9PaW44Tm9qZXJxR3R1TzgzVEdkM09RU0JYcE5kQnlkUjJvbnJhb1BBd3loVXVVUWxEOGFRSE9ZazIxR2plSDY5NmpIdGp6dlpWSURMUEp0SEZwQlFjanZ1TzJyVVhkQ2tGaFBSTC1OakpYRGFxYXBTVDJTRVdNLU1iVzFSR0Rhc9IBswFBVV95cUxNZEdXWDFnYzRyZEFnZ2E2LXo5YlZSNjBuUzFxSGthWTZ4N0J0RjJReURxUWRUd2xRdFU1bURLVDlyb2hreVhwTmJCQVRTemdhMThKN0RBT2VPdWJtT2MzS1pLdFZBUEJKMnZueUVBbWRnNVFpVExIb0tvZjE4SUtwU1lZel9ZT01JNzFFNmRnR3hxSkNEUmdSU1dDaGVXMjdXZVpfUWRTdXh1UjI2NERBV1FrTQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 15:13:38 GMT",
-      "description": "Macron alerta de una Rusia más agresiva y amenazante dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El tilcayo, primer felino salvaje descubierto en más de cien años",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0RFSF83ZzlBYk9SRVk1T3hVNW9JblM5RXExOXZRYnRRTmlwamVUaEtGcTlvZVduZGNTcER0U25vMkpWM2xfbERwS2drbXd1UlRHR2dRUTRpVDQxNUhpQV95YUdzdko2QS1EaGlESThHVVpWZGJYbFpGR0xmZlUybXBVNmFXNjZseTEwZ0dOeDlLTjV0NnBaWHhuUnlSTVhTTzlDM1NoYTF4RkHSAb8BQVVfeXFMUEo2ZW1EalBMYkhzcVRRSGJzYzFNM3hhWHN4RXEzU2xhNW9USVgwcDN2MlhMOHhkQlI3dS0wWVEyNm10UGZqRFJyTXNZZk1QR002YjU2VWJlTWxNX0FXR2l4LWRwdTZva2ZCUkxyVks4R2lHOHZJaGhfV2owZzdqZkVPdlJLYk9UN05ydEZYWnVZS1hzNV8yOTFFZGwzMEU3TGtlSUZ6bGxueFZOSUxvM2ZpWFoyTjhPY1VaNUY1UDQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 06:31:16 GMT",
-      "description": "El tilcayo, primer felino salvaje descubierto en más de cien años EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Crece el número de exiliados nicaragüenses detenidos por ICE en Estados Unidos",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcTlnVDlQVDVFT3FNOWhBNjdMVy1CZFp0a3c2cnRYSmdsSmRDd2diVDQ0cmFnNXRZbzV2c3gzdjFGeDVrSl9wUWRnOEt3M3JkSGpqdmY4bG1HelZzTjE3dnpXX3Joa1dnQlF3ZUZrM0pNT0xpNi1LX2lqNjdYN1RmdGRRSkRQZ2Z3djZQWnAwSWhZM0hRMjVvN3U5TEY1LWoyX1JmYk1kSXg3Mzh3MlZ5dkJoUko1bHdtMThVVEt3RTRYbDFqX0VtcFlNTzRoY0V6bDZRWl91el9faEJxTlE?oc=5",
       "pubDate": "Fri, 18 Sep 2026 02:43:00 GMT",
-      "description": "Crece el número de exiliados nicaragüenses detenidos por ICE en Estados Unidos france24.com",
-      "source": "france24.com",
+      "description": "Crece el número de exiliados nicaragüenses detenidos por ICE en Estados Unidos France 24",
+      "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
@@ -364,26 +364,26 @@
       "title": "El Kennedy Center cierra sus puertas tras el fallo judicial que negó a Trump rebautizarlo con su nombre",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeXhwU0s5ZWp1Q3AwV3lSWHNUSHB2OEUwejcxWHBxWm9XSkRxbkJEdkpadmg0YXpieXVabGVLN29iVUlmMk9xWEZ6NXJWUkJEd2R3Y0tGSWZQSklHQlVPdWlEQ0o4QVRobS1NMm95U0hORWkzSndScVk5TmdockRfMVRoc0tpQV9sT0ttSzlTVDc3T29aSXJ1dllGR3NhS2Jkak0wS2xUVXlvT3Q3dU4zRHZZUkVtaUV2Sk04SHlqYjA1WXgxWEFVeUFMMENSNWp6Slh1R1NZZ05ObDdFcDhjMzNMWFV4dmtx?oc=5",
       "pubDate": "Wed, 16 Sep 2026 23:23:00 GMT",
-      "description": "El Kennedy Center cierra sus puertas tras el fallo judicial que negó a Trump rebautizarlo con su nombre france24.com",
-      "source": "france24.com",
+      "description": "El Kennedy Center cierra sus puertas tras el fallo judicial que negó a Trump rebautizarlo con su nombre France 24",
+      "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlY2aVBwcU96SC1LOXZNNXI4Y1FEcXBKTW1QTndKbGZwSmFQT25FYmV1MGNfZHJqOFZPYlJVTzQ4S2w4RUZUWkowemdfSngtcmh5aGFjWVBURGphMVBtVG50NTZKdEJ5ZGZDUWU1bzdLNko3dkRVdHl4VnZGUXlxeGRvTWZwbmdFUXNlWlRQR3c3Si1YTUlvcmlIYzRROHNhdDh6VmFCaVM5UWl5alJCa3RTZktCd0ZQYWJNRjlmLXdtWF9mLUk4?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 19:41:44 GMT",
-      "description": "Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia?",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSDRnQ1B5azNkbXh3RjlSV3VKek5uR2dEN05YeWx1TndyRkgxc0ZYOW5hSVRHUDBrNW1HVTE4bE1kU0xocmtSS25zZzI0czlsWFZEOHpvSDJ0RGdQQzlVTTh1YmNGbjhxZDhVT3VMSUJOUWhLY0xMeXNHU3dERU9seUV5cENRUDFXOTFGUjBMV2llajRvbnRudkJxVVY1REpjQzZhOFp6aERET1NwODVzVVRzREdrTlpsWG8xdWJqUVc1U2ZLSEIwb0hwY1hINWtTa3lTQ3Q2MmNEc2pFWklpYWdQb042dkpzYlRKd0p3V3lkc3VT?oc=5",
       "pubDate": "Wed, 16 Sep 2026 18:44:49 GMT",
-      "description": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia? france24.com",
-      "source": "france24.com",
+      "description": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "\"Red de asesinatos” vinculada a Rusia incluye a tres latinoamericanos: claves de la imputación en EE. UU.",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaDd6X2FrY2JzZk94dTd4bVNTSVkwczFGR3ZaRHRxQnJjSzhuWlRTNC1Nb2VTUEUwb2hWS1gxSEYzaDJ1MXJIdkJsM3RfZFJheThseG1tQ1lPVmpPRG04bHgyUHdKWnl0OEt2THFDRy1TWF9KSkdXUzlHaG00Q2I2OHRBUDZMRWo2NktTei0tUmFDWm1jdF9fNmJOQ3I3OEhoUmNQS1RqbUdWMDRuMVFBbDZUb25OMERhUC1ITWxlYmhBZkpaNXc4X2lsdUlNT2ZSY3lHWk1LQ1hfMFRvdUc0T2tBMEpxbUxiT2dNbGxSTW5CYXZ4?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 17:51:46 GMT",
+      "description": "\"Red de asesinatos” vinculada a Rusia incluye a tres latinoamericanos: claves de la imputación en EE. UU. France 24",
+      "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
@@ -455,6 +455,15 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVndsd3BtUFprUXVSbnI3R0R1Q0VoRy1HTVNQOUswcFRBUGpqOUlqOFJhTG9sejRCUFhoeEstT0p2blg2Wi10TnkzWHRyc3NseU1TRC1rYjhSYUJ2ZmFkSF9TcGRfaHM4bUpqLUptNEdyZmQ0NU9fWjR0UFBka1l4bXkyTDJkcU1ENHhmUU9FUThOdWh0cy03R0IweURZcmo4MlZSYXVMbG0zd1RFTDAzMjQ4c1llUU9pazhFNm8xNA?oc=5",
       "pubDate": "Mon, 14 Sep 2026 22:08:47 GMT",
       "description": "Spain demands justice after killing of student in Mexico Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "US Treasury blocks Citgo, parent companies from governance changes",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMml3ZU5CWmotSlpJdXB5ZGlzNDdqQUhrQi1nNWYyV24xNHkwVHV6aGVpOXM0MVN0ZTBUNnk5QVphZW81QWttSzNrYWRnajc4eEtldjJLN2V6X1dCUjN0REdsLWJhT2M0NWY5UkVqVzVkanU0dWRZeDZyM0pnb1ZlcXlVWDY1c3RIZVQ4c3NuWnlxMHpFdngwbzVHVVE1eEY5REdReDRPMFN3SVNLNi1WWFVPeXVfOU0?oc=5",
+      "pubDate": "Mon, 14 Sep 2026 20:14:57 GMT",
+      "description": "US Treasury blocks Citgo, parent companies from governance changes Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -568,13 +577,13 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "France 24 - Noticias y actualidad internacional en vivo",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aWUVWQTV5LXdHUFdVOVFxRS1zYlM1UHhDR2kwdVotN3hEU2ZsUEcwekRVT3V3VzM0R0JlTTF5VThRUQ?oc=5",
-      "pubDate": "Mon, 06 Aug 2018 08:41:09 GMT",
-      "description": "France 24 - Noticias y actualidad internacional en vivo france24.com",
-      "source": "france24.com",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "'Impunity has consequences': the women lost to Mexico's drug war",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0FFM1VXVDVja19GaDZxMUd6NEtHRzkxZGN3NUhBdE9mTmcybUdDbXVyQmxfRFdFYVk1dTRtdkk2ZnJFZ0NhMHdBMVo5d285Y2VxTlkxZEx4SDBRNXRLQWNFZEJVcGp5a1hhTm1oUkZlQmNhSlNPVWkzeDJEcUZQakNJT1FRRHdmRHc?oc=5",
+      "pubDate": "Thu, 08 Dec 2016 08:00:00 GMT",
+      "description": "'Impunity has consequences': the women lost to Mexico's drug war The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
     },
     {
       "title": "The Guardian in Spanish",
@@ -590,15 +599,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
       "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
       "description": "La crisis del agua de la Ciudad de México The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Elecciones colombianas ofrecen una oportunidad para la paz – o la guerra sin fin",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnB2Mll5UEdjLXJ6OGZXQkhIRU1xblF3R29GNUxFNUtCOUx0N0ZxU1FHSVR2Vy1hQXdfWGhfWU1ScERxaVpJVEpuZjJNZDAtcno0QkNQTGdkRVhzbE9Ddmd3LWVPUWNvdVhOQ2piNjZvTWlaVU8wa3VWVTNrYXdoTE9EMTJnY3lWWHNXbGFKaXJWWG5PV1NrVzVYNGtXcDdDeHM2bGlPY2RTa010V1c1WG0wRFJfaVJJQnNYZQ?oc=5",
-      "pubDate": "Wed, 04 Jun 2014 07:00:00 GMT",
-      "description": "Elecciones colombianas ofrecen una oportunidad para la paz – o la guerra sin fin The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
