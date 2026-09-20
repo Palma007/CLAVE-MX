@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T17:45:47.914Z",
+  "updatedAt": "2026-09-20T19:53:09.562Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,13 +58,58 @@
   ],
   "items": [
     {
+      "title": "Caso Leidy y Alexa: exigen al Poder Judicial fijar límites al fuero militar en violaciones a derechos humanos",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlJvRjFod1JZLXNyd0hBUUlBZW1JSjdsMHZ4WG16MU1JS3hqMzdCdFpiaEJzUzh0a2RYMWNnZTZGMlM2anZsUHFveW96bzZYamxnMFNVb1ZRRjhVS3lBaW5yNzJ4VWtsczczZEdxN193V29ZTGNtSXBVWHpGZjVkcnNqV1ZJVGI2R2FILWVvYVVPaS11dEMyMWtqWmt3UDZkRkZMdnJiTGd0aGdyY0pxRll5aVI?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 19:41:42 GMT",
+      "description": "Caso Leidy y Alexa: exigen al Poder Judicial fijar límites al fuero militar en violaciones a derechos humanos Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Sheinbaum asegura que mexicanos sostienen economía estadounidense",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORXZHM21vOXVtaG8xaFFhLTJxRTc4OTB5dTVpYWdqRzZiNU9XR1Z4R0V0cWJlNHRQSGNLU1Y0dDdnekU2cEk0LUVZN21GZ19xUzBwTXVoOVFSUFRhV0x2R0pZZ3V4UlE0VHJsYkhZai01Zk1CRjVyNGZJUkt3MURDT1lkUDloSkFnUmR2bHlBM2stcURwbEZybDItZFJqbUd4SHN1YWJBVUJvYmlMejZpdk1qa2hhSEl4bmtPcDhsOU13c0FPbGR4MVhic1lXMU9walU0bTdFeDHSAewBQVVfeXFMTktpX3h0eGFqbTJUOE9sc0NFMFhkZE1kaWE1elpJdVM3eElIQmVJRUNxdm5RWVN5Uk1vRmR1Y3ZyLVU2eDZOQldpVFdObmJjWVBOaURGM0FGVXZkaXl3NUx2cnBoOXctVnl6SXFseGhDSDRNamFtUnI3MW5XaEhVbHpVcUtQTGpfc2NYVGxneHMzUFZ5Y3FtSWE3TWdDcmVRX2pxeEdBX2Rna2FVN1pFWWkwekdtY2FwbTdPZWE2UHBILWR1aXRITk4zSldhUGJBNlRva2ZnTWZobDBweE1VM0hSTEdENlNMVkxiWF8?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 16:44:15 GMT",
+      "description": "Sheinbaum asegura que mexicanos sostienen economía estadounidense El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Capturan a Mariana 'N' por muerte de menor en Academia militarizada Ollin Cuauhtémoc",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVllDX0czTE9TaHNPTzNBbU5VZm1lSExWZ1NHZzNnQlpZeXoteE5leTFHemlGNExtUnNXYm9oRUtnLWRmSktnMU9sbjQ1ZkVYQklfYkwzWnZiT0V3TE1KNm8yUFh6OVk0OHRycWVfRG56OTVjLUxYNnNTTWR1WEpWRjdaR0NDVHJsekIxMkU1UWM4SFpWdFdpcnFfcE51TFZ1dDk0bHc1T25zQnhIcEpsckZn0gG3AUFVX3lxTFB5dTN2UkFVbzNuUUtKUkhPQjljRnNqakdqT0hKY20zRWFOcXAxMms5Sm4tdFRsbk8xYjE5NUhsZXRkZkhDMk5RZ1VIbkJJS3FWLUQ5TkFuczFSclRKZWFpU0ZOZjZ0a2RCeVBHTlhIUFhKaFp5NWhnODJoTGh1WUlWeGZ6NmFKbndEY2FfQzlNZVFZLXNkd3pGSFdTUDZ6cHFQNzlMeFpSV0xuZktKZ0JMWHJmOTdxcw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 16:16:42 GMT",
+      "description": "Capturan a Mariana 'N' por muerte de menor en Academia militarizada Ollin Cuauhtémoc Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
       "title": "Les compraste gasolina y no te diste cuenta: Las gasolineras del CJNG que operan en México, según EU",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT3RtSmtZUjdZUmRMNG5Zbm1DbXF4VlUxSDkzNjR1YS1nQklWUVRzV3kwSzJOTGQzdVJrRDFLaWZHRHVCRWN5U0xrWV9DRFhYcHNoeEVVVHhpVjItQTNRUXFoXzNySHR6NE5adXB3dFgxSTFlQlRoNFdBM3l5amRlZTFpYU4zcEx5OFFoa1d2cGo5ZjJmdnVlM01ValU5Tm1XejlvVk5zYXNkVEs5WkctWV92dGp0Sm5mcUkwdVJ0ZmhvTmdBOTlJVS1iSmFfRld5VmF5cjBLaW96ZFRHeFRMTHhDMHlOdw?oc=5",
       "pubDate": "Sun, 20 Sep 2026 13:00:00 GMT",
-      "description": "Les compraste gasolina y no te diste cuenta: Las gasolineras del CJNG que operan en México, según EU elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Les compraste gasolina y no te diste cuenta: Las gasolineras del CJNG que operan en México, según EU El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Irán comunicó a EU sus condiciones para reabrir Ormuz y finalice la guerra",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHdNXzN6WW92cGNSUDVsTnh3ekUyNmlrZjl0eDNjT04yd0lMZS1mLWFiOVZjNFBmY054N2lQVDFRTFhvV1VHTFNrS0x2Zy15T0M2ZVFXVlFKbVN5WFRsVjY2a09xLWZlM3hnQVJWUEdxTXI4enhwN1JTV0hkTXNxbTAtNThidTNMcklTOFp5dXFtX3dpbktMTkNpWUNOUHJlVmhr0gGoAUFVX3lxTFA4NER6NWN2Vm13RzZuTXh2S0dNYU5OTmZtMm1IZ0NzdzBBNHB0TzV0Yjl0SURvWlZKZVR3cVJvaG5DbmkwNDFvS1VONTRmNmg4M21pSzhmQ1hUNGd1VWpFLXFiM3doSFlidzNrM0ZYVDlUTFFid1ZLd1JwWll4eS1OVWdORGVFUTNWVGU1LVFFSHhlT1RVaDBXSVZDZm5qLUtIaHI4UW9CMA?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 12:17:57 GMT",
+      "description": "Irán comunicó a EU sus condiciones para reabrir Ormuz y finalice la guerra Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Bienestar con cargo al futuro: Programas sociales y deuda presionan el grado de inversión de México",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeHhERkJBMHZKajlLbGs2QUJkXzZUaXA1OF9wbTBSclV6c185cWlLWUtHYmRsbjRyaGh1SUJXcHR1Zm42THpiTjc1ZlRTbVl3TVpQX2owOEFNWDhHcEo2RWJZTnVLTmNvZ3RxQkhqWFp4Rkx5djZDdVB2RWU4ZERmWkFOOVlpUDQwWlhrNmpFYnp0dHNjMUMwdVVjdmxjODhfNk9zQjdJVXZmNWY1UFRwYWFZY2pQa3lHRHFISHd2THZFbTBRRVQ5STVuTlAyd012Y1VUaFE2bmpnMWd6dDlYYm9WcnpBY0Rfc0JIdQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 12:00:00 GMT",
+      "description": "Bienestar con cargo al futuro: Programas sociales y deuda presionan el grado de inversión de México Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "Pactar",
@@ -85,6 +130,15 @@
       "domain": "reforma.com"
     },
     {
+      "title": "2008 y secuelas",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82c2d1RlIxUFNHM0IzVEZJMi1Na1ZtVVFZSlFDcl9kTGFpX2o0dF95NEZlTGd0cDBNT1A0Y1hGZVNKTW9qNk5ycnpvY083dDl4dFdhMWdyOUtiZTJxb3YtTHpPYzlCY3pDMHln?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 11:16:59 GMT",
+      "description": "2008 y secuelas Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
       "title": "Controla narco zonas...Ejército planea ¡museo!",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGVHS0E0UERWcERMa21BRVFWRVplVkpxb19JdE10aHdsVkQ0NzVxUlFwU3BVVFlSZTZrLW9OOVl4aG1XdnVjel9pWWpneV9YWUtucG1iZzlITTJCajh1cW5wWjQzanlfckdzaUltOWl6dHJUT0t6R1BWV3FIM0p2ZlhR?oc=5",
       "pubDate": "Sun, 20 Sep 2026 11:09:47 GMT",
@@ -94,46 +148,19 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Dejar de intentarlo",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhQnJOUThIUlYzbk0wRVlmTEd3RHNWdEszWDRkbmFSeWN3M00wZ011MEhVeDVKY3hBdGQ2bDFmX0NNR2U2bXYzc2FrU0x4ckFDY1g2aVFmTWVjVThnQzQyWElOU3NYcEZNeXBpUjhvSHQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 11:03:59 GMT",
-      "description": "Dejar de intentarlo Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Educación superior tiene más alumnos y menos presupuesto",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZE9aaXFNVk5SeEQ1ckZHeDE0ZmhHRVN6RnQ0Z09mOWdtZDNfejdneWN6Yi1GZkU5STl1U1pHdkYtYXZBU1ozcjB1SkFNZlZOaUR5TFdEYmtBQ0xXNS1odk85T2dJSV9VaFFnb2NMdlJNcTk4LU9zTERjOS1UbVFycEtDVWdXTzlZZ2Y2WHVpVDhvVWZwNlY0MkxpY9IBrwFBVV95cUxNOHhsaVYybjFZWmlXbDY2aGJZNFBxTFR6MW0tRHd5Rmh5TmRjbzdGckJTNHgzbEN6QU1DOVVSdXNGOWtabEVGVTJ1cXVId1RlcjJvTlVlYWNSaUFHQnBUTmt3U0k4OEVKSjlTaHFLNW9vOW5GMGczUG5fYlFvUHBfdGZUckJkclhITFJQbWcyYnRZY2RoQWV3VkZEUUc0SEFub01yN0VMSXBXOVpGNXM4?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 09:45:00 GMT",
+      "description": "Educación superior tiene más alumnos y menos presupuesto El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Crimen acecha a candidatos rumbo a 2027; riesgos de infiltración en las boletas",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQVBtMnh3cVZxdEdwODlhMVd5b3lLTlhmb3ZwWEZuMk9MMGI5QUJGaW5XTEpkQ1M3blBhYTRpSHNUNTlwRW5yMmp5YlJFaTFVU05JTlZROHNYUmtsZ2dxLTJGbmdtaWtYejEzSjRLeEVUWGtJcmhlQlJsaW5fSmhIUHdVVdIBiAFBVV95cUxPT1pnb2hobnJfWGFvbVl4bUdQbldRdEJSSTk3dl9kbXJyeHY0RUxQV2Q1TWRzMG96U2oxdFQ5aFpKc2lIWmVoaXJBd0Jfa3gxMC1ZN0dhNHNLXzRmV05jSlFsT2JqbHdVal9sNkp4SUhNWFFrV085cFVUVTYwWDFhd0d2LVk2WEpG?oc=5",
       "pubDate": "Sun, 20 Sep 2026 08:30:00 GMT",
       "description": "Crimen acecha a candidatos rumbo a 2027; riesgos de infiltración en las boletas Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Hasta que la encuesta nos separe",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ2pLS0J3SEVYS2o4VUx5RzNjSEw3czRoRGU3SmpaRTNaVTlBWGlqdjBGeE95Q0FNWGRCbWhRQXhlNFJJc0VtWHRFdEpHTkxyMXlMNDhETWxrbUptajNpZmdwTENab1VEc290bkx3R2d3Zlh6SDliRnlJQWtmeTd0NldiRWXSAYoBQVVfeXFMT2pfNTRhcm85QTJVUkdnWEMyNk9pZERscFotdGhoZXVCeXpGSC1UNVpSRFZJa0VhWmduYmZEQlppMmhtM1F3anJQX1VZejdwb1JaY1F4WEtVMEw5WXF2dGtwMWhxZlI1MmpVbnRGaGYwQjgzbllYRDJ5dVJWS1RsNjF3bFBWVWVJX0xn?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 08:00:00 GMT",
-      "description": "Hasta que la encuesta nos separe Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Las granjas de Bitcoin en Puebla, escribe Claudio Ochoa Huerta",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2ROR2xBdExZdmRPSFg0dXZQekFYV2Q2am5PcklRYjNjbGVLeXg1N2ttZ3lUajZmcFFvUFR1S0xCZDgwbGdseVFRZW15Z0N4ZGxSNmNLV3doSC1wQ3lGUDRTRUgwWFRNSHBWNGR3dVdKNnJhXzU1SUdMMWdUTVpFSmlHLXhnblhFcGVGaGVEREhOMGxkT1czag?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 07:23:03 GMT",
-      "description": "Las granjas de Bitcoin en Puebla, escribe Claudio Ochoa Huerta El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Las roomies",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQ3B3clRPUUtDajRCRXI2ZEdBSDV2MTRKUmdKdUlyY01uMi1UQ0xDNGtra0pKVGtEWHVSeWJQVnA3TGdJTlUxQjJ2S2MwR1diTFR5SXo2NTJySU5nbDFLdWR5VlNTV05WQjdHVDFB0gFzQVVfeXFMUEJXV2VXZFg3MGlxQ2tnclFJSzUyOEQ2dUhWbmNhQ2o4clJKOW1HVS1RR0pOMHRFVTd3TnlWWVV0Y0k0WEZMbmIzOHJlMWFhNDN0bFpQTWVEeG5RN2g4NkNva0xuUEctV01RSWU0YldQd192QQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 06:37:57 GMT",
-      "description": "Las roomies Excélsior",
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
@@ -164,15 +191,6 @@
       "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
-    },
-    {
-      "title": "FGR atrae decomiso de 59 millones de litros de combustible en Guanajuato",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZU0wUVhSSzNZZXJyd0hzMGJYRWpkcmJnUnFqTVd5WUlKY0ZXOGFDUE5IcEZrLWd3S05nRGVidDU3OE9jaVlOS2V5SldYcUR3VFIyNkJlR3NpdE1JeUppQlM1ZU1remZ3ZC1fR2xzSk5VdEtaa05Wai1CVGdNbXNySlI0V25wT0IyckFUeWgzSjR2alNGZVpCMko4TUJiYmtjQ1dKNTRhbHkzUXN3bF95TXRiUXVfbUVZYnROS1o2ZU1SOVBadzhtMlpkdUVJalJjaVdkbFE5WDlCTUdiNVFvYWxsLUNkSzFEU0FqVTM1cFhaVkdheTlEcldLVGFRQ0dONnd30gGXAkFVX3lxTE5aWWpjd3hjd2N2WHJDQl8yWS1vWHRkU24wd1Vpb09yWGw2dW12U1NRRExuQmxSVDNDbVZ5bWxyQ0U3bjJRUmpkSnRaS0NVa3VCUEJ3QVZLOGJPR3hEQllDSjZKaG95bTl3ODZmQVBWUzNBaDZCTkdxVmNvR2M3em9VMmNEZ0U1RXl6VjhWZ0Zuak52YzVpOGN3T0tRc2ZJZkJnaTZPeTM0bVRLVDIzanN1VmFPT1BIamhZamVmbzBSY2pMdDdkWDNnRl9nVHVBNXdUcnhfQm1wdFZmMEN0U2FJOEotYUNZbU5najZVMVNDX1ZLQzRwUmNMUnhiOFZpc1NLVXN5T0NMak5Mdy1tUGN3OFM5X2VHVQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 00:07:00 GMT",
-      "description": "FGR atrae decomiso de 59 millones de litros de combustible en Guanajuato El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Con armas y en diversas fiestas, así presumía 'El Pachangas', joven asesinado al exterior del Cetis 33 de Azca",
@@ -214,8 +232,8 @@
       "title": "Simulacro Nacional 2026 EN VIVO: concluye ejercicio de este 19 de septiembre",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVG1xajN1UG1IeUExY2xaeWR4V3l3U1NGX3ZHRzMxanpYendhSXJzUXRLSWJfcHRnSTVUV1RmaFJqWWFoMGxwcXZRUE9VUWxXOGluVGw2MmFWVzZPQWhSN0NrVVY0NDdhbFowLTBoWkl0RHNVV3lSdDhzY3VoM2duNnJOTnFMTGdqMUkzeGRaX2Z4RFVPQ2N5OFY1eVdvS21BbHlLcUcxMmpNM2t2YzlBcWNuUEh1WUdXNklOTFVRa1c5UTFyZWdkdkNTNUpDYy1h0gHWAUFVX3lxTFBGM0ZleXJmQXFhb1RyMnIzM0pRV3lDQjRVQTBHM1dLNnZWV0J0STFHaHB2UV9wOWVHcVUzeUhCdzRYVThfblZ0dUdJNkU4QXp2aGFiNWd3bDRXZEZGSHBHQzdWX2x6bDZGckh3b3NWbFUtUERJLVY3RFFYOFpVdmZiNndHTk9XYjdTeFJxRElPMUo4NkZhSTlJQk4xMl9DaXJJMnFFN1ZtNVM2T2VIem5FcDlKSDRGcU5WbmZOS2ZhdHQ5S3dIVFA0YzdHbjM1WTVPalZtYkE?oc=5",
       "pubDate": "Sat, 19 Sep 2026 19:15:00 GMT",
-      "description": "Simulacro Nacional 2026 EN VIVO: concluye ejercicio de este 19 de septiembre eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Simulacro Nacional 2026 EN VIVO: concluye ejercicio de este 19 de septiembre El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -223,8 +241,8 @@
       "title": "Harfuch da golpe al narco: Desmantelan 4 laboratorios en Michoacán y Guerrero",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTXpLR3hZRHpFdVp0a2stUExwa2M1eEZiQ2dtT2VxN2Flc1dUZFlnS2lRdWczaU9MLXdQaVFhX2R4X1E4SmVBcy16dE9NZVI5ZHBDdlRUZE5xdHhqZFJjNmgtNzhRTHdVLTN1MTYxejJQeFdHN1lkNUdQTVVlX2Y5N2Y1RHl1NGMySTQ5aVdzaFlwcEhTczk1Wi1fZTI4M1M4ZWdCcm04eHYzSXpLajNCcjRSaEFDU2ktMW5XQ3JEZ0IyQXNOMEJMWA?oc=5",
       "pubDate": "Sat, 19 Sep 2026 18:28:20 GMT",
-      "description": "Harfuch da golpe al narco: Desmantelan 4 laboratorios en Michoacán y Guerrero elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Harfuch da golpe al narco: Desmantelan 4 laboratorios en Michoacán y Guerrero El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -232,8 +250,8 @@
       "title": "Segundo Simulacro Nacional 2026: Trasladan a una persona por infarto y otra cayó de las escaleras en CDMX",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWmJiZnFPbWRZZy1KSm1XWEtNaFNweTRKYUN3UGsxcl9EcmhNY29QaVpaWHJkWlI0eGZQbTdReU83MWZqRU5NdFBEbk8tLTNDQzZQYVhDRnNPaTloZ28yQVdRTGFFU3BGazExd0x6R0ZUX3EzQzFjLUg5WDRWd0RoRmkzd3haQ05kZnFfa3dvX0ZFQzc3WTBFSWY2SDg?oc=5",
       "pubDate": "Sat, 19 Sep 2026 17:33:49 GMT",
-      "description": "Segundo Simulacro Nacional 2026: Trasladan a una persona por infarto y otra cayó de las escaleras en CDMX elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Segundo Simulacro Nacional 2026: Trasladan a una persona por infarto y otra cayó de las escaleras en CDMX El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -241,8 +259,8 @@
       "title": "Violencia en Morelos: Asesinan a Zenón Juárez, líder del PRI en Tetecala",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjJUWVRNemlyd0xqV1JPWTIxSENxd0xUZlg1bG5oUWJmX3Bnc1owcERjVDFMSEhSN2h0cm42Tk1CVlhmbDc1eG8xaDhoeERVQzJTWVh5ajRpWS0zRmRRMExxSXdwZFhkYTVpTER0MnZwUlNRZF8wb09IYThRWmZ3ZnlzZkF0ZmRBM2tOVC1qYkR3d0FWNUoxdEN4Qzh6dzBtMHdRa0xjUEFQOTJqZXluOUNSQXdKR0I5Y3lwMi1nSQ?oc=5",
       "pubDate": "Sat, 19 Sep 2026 17:07:09 GMT",
-      "description": "Violencia en Morelos: Asesinan a Zenón Juárez, líder del PRI en Tetecala elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Violencia en Morelos: Asesinan a Zenón Juárez, líder del PRI en Tetecala El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -268,8 +286,8 @@
       "title": "Así se registró el primer sismo en México, con los aztecas: ‘Se agrietó la tierra’",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUWNhY3l5VHUybE5NbmlBZW9GWTJKRm4wSklYVVVEaDltemF4Ri1QMjcxVEZ1WmZGYldFZ3FPck8zdWx1ajFJbUZYUW9Tci1LT28wdk9uNER5OEZySndmQzRvUThLSGU5N29sWXVlZmVHdTdQMVphUGI3dkV3SnE4ZW5fX1RjMDZVWUhndzVWU0hMMkpSY2d1aGg5WHFLQkR1cEFWWnJlYWdxZVBFN3Y0WEZ0eEpScG42RnRITk5GSV8zVGhvWk9sTDJEWQ?oc=5",
       "pubDate": "Sat, 19 Sep 2026 13:30:00 GMT",
-      "description": "Así se registró el primer sismo en México, con los aztecas: ‘Se agrietó la tierra’ elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Así se registró el primer sismo en México, con los aztecas: ‘Se agrietó la tierra’ El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -331,8 +349,8 @@
       "title": "Empresas de ferrocarriles analizan impacto por eventual incremento en pago a derechos por concesiones",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcTdBMlJRcmp1Rk95QkJDYmtfSEtVSXhuUkg5QzViVTgxMXpWQ1ZORWRVbDAzR29DT3JJR1BBbDlkbWZnTUJSbjZPOFhabmhPMkRPd2MyUXdMRlc3R2x5cGRWZmdRSi12bWJwdFA4MzF4MFgyaUtBSGdHYm9fNzB0M3FnR2VnU0w0bWVkWG9tUWJHaDVvY0MxMURxQ3Q1RTJWTmlxSTk5TkVWYTE1VC1KV3RMcmtDY0lKM1NWWlJ1NHNLTFZzRDgydERwX29tamZ4cjlEcE5DbUgwMEgtLWtiONIB5gFBVV95cUxOWTBEalBzbWFHeDFkOEdTQno2MUliMzdRajd5X1FhbjBtNnZpNk5hcVh5R0VLMW1nd1hnd0Z5WGczWk8yZ0gxMGlQVEw4aFh4NHA4bUhOb1dQTi1ZNkR3S0tEWUxTZ1VvUHRIU3JIZV9JeldUYUt2cHFuOHNWeFE5ZEFZTzNWSmg0VG9HLVA2R3RnbzA4Ni11TVlSTy04dWY4WFJ4T3RfWGk3VmVRTjJIdTc4NGdDZ3lLOG8xWFJxNWpWTFpSbnlBV1FickgzQ3N2S3ZWT3ducU5TdXI4OENFY01ESUxsdw?oc=5",
       "pubDate": "Fri, 18 Sep 2026 23:03:13 GMT",
-      "description": "Empresas de ferrocarriles analizan impacto por eventual incremento en pago a derechos por concesiones eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Empresas de ferrocarriles analizan impacto por eventual incremento en pago a derechos por concesiones El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -349,8 +367,8 @@
       "title": "Cuba sufre el séptimo apagón masivo del año",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmxwVkJZeWZBR25oSU0xMTdUUGhOZmRTSnV1Vnd5WnhBeWNFZzJPX09OdkxlRFhjNzJTSUtjNjFMaUlFU3dmR3lncWdLVWVCeTRxUGw4ZlJEWWhZbTJVbm1NUllVRE15ZElvWWpqOUJuaGlvLWRLQWlQU0tNUlNBc3FFYnQ1RmlnUWdqUFVtRERCem8wOVVZclVwbjNyMXhCYWw3LW5XaE_SAa4BQVVfeXFMTWxWWnZ2WWdKLTRLcDcySV9JU09XQ29iZW1kTFpLTkl5eER3dmlwY2kwOEhpazk0MkR0OUxNdHhtdEgyZmpKRUVUZzN1NmFVSndhZGVpZ1hCSXhGQ3doZnVjTllCalNwSUFQOGZKNnhQZlVabUwzVkxCa2JCWGJqRkJldnNjZWJQWWlQRGhwOUFvZGxVT3hnazdiM1FfTG52ZkdkdEQ5MktxZ0xWOTRB?oc=5",
       "pubDate": "Fri, 18 Sep 2026 20:04:42 GMT",
-      "description": "Cuba sufre el séptimo apagón masivo del año eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Cuba sufre el séptimo apagón masivo del año El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -362,6 +380,15 @@
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "5 errores que hacen que tu familia pierda la herencia, aunque exista testamento",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMHV2S3huUTdUZ3dGNUY2TGd6VlBwdTM5TU52SWhjWWJmVXhOdDRGWVBYZWE5Y2J4eUR5U25MelZvcWl6dF9ZVFFfXzRuRTA3ZERpcGJCXzNpaEI3NEN2N0kzcWlkSG5DaVZiazJWMGVrVWVLNWd0ZDVBbWxwT3RnOXpVQTV0U1hVY0RuVmFfYkJXZWswQTFQRTZvQm14WExqZnJvSVVQMmx4bDg1WVFjLTZjZ01mb1hpRlZjdlZyNWw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 19:00:00 GMT",
+      "description": "5 errores que hacen que tu familia pierda la herencia, aunque exista testamento El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Declaran culpable a mujer por muerte de reportero de Telemundo que cubría el Super Bowl",
@@ -376,17 +403,17 @@
       "title": "Un grupo de investigadores logra hackear OpenAI utilizando Claude",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2doWVE0OVE0dHQ2NFJlbDRKMWdvZHRGdjJFd0ViNjFiRFVzcXBUT2xFSHFPeERNbnQ4NEdTeVRGQm5jcVRRMFFSaXNjeHc0d2ljOXNTMWZGV2o2bVNHMG5tdTR3VFE5NTFGTzhrSXFJZERUZ2x5d0NweExXc0R0R3RpMlFhaC1yZ3RDa3NkVXdrbVhiS25xX3ZTWW5LcUw1cnVQbHg3VlJtNDRBTHE1al9kWEhMRWwwaGQ00gHAAUFVX3lxTFBpdzhMd3MtS3RKRDJucG9vbWZnQ3VDdlNFLVF2Q21mMnhnNnZoQWxsLXlXbnRVQkU3bVNrOE5yRU9NZWZ2OU1uRWlNUkU4bjF3Y3piZWJWYlZkd2VhTElXOFRZX2NOcDhpSmlHMUVpeHFVcXdfbHpFSHRyajFqbTdhQmk5VktZYTF2QkJ5ZFpFRHMwb1B6VF9QS21sa2FaYndGYTJSalphbi1kejVCOHVhYTNBWDFwUlBSeUgtMmk2Vg?oc=5",
       "pubDate": "Fri, 18 Sep 2026 16:52:19 GMT",
-      "description": "Un grupo de investigadores logra hackear OpenAI utilizando Claude eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "Un grupo de investigadores logra hackear OpenAI utilizando Claude El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "‘Hay avances para un acuerdo México-EU’: Sheinbaum sobre su llamada con Trump",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWUtDV0k4ZWFFTHlwMTFMX1MyMGhBUC1DZGtudllDT0hJd2NlbXNTXy1jaGFFSDZGZ2EzX1RZQjBzb0dNWlIwYXBrcVVfRTZTNEJJYks5QWp4NjN6ZmVKcXVPSHBhWi1tV2ZsdHpUc0pURWx6NDlKeFNxVW1lUy1aSUpDblZBZXhGeWlFTVVHUEpRYUJXOXJUZ0ZxTVFpVWN1dTBURHZNdTlFSk1QcHhzQWtuUjRaYy1zWDQ4dmh5NA?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 13:15:00 GMT",
-      "description": "‘Hay avances para un acuerdo México-EU’: Sheinbaum sobre su llamada con Trump elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "title": "Asesinos rusos en México",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaWpZcFIyWUVMc1VDTXl4YmNIOXVlZFhiSzFrNlc5UHZQbkxINm16bFU2aDkzdGlSOVJuOEhDZm1nY2QtS1Nxc3FoRHAwd0RlTVZEa0E4Yl9yN0RIYlJMX2l4cFE2aF9ZY0gwSEFicHk4V1hQQXd5cnN5WXp4OEl4LTRveFdGZmI5WEV3SE5XTjR1RjM3TDk1VnRpQko0X3M?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 09:43:32 GMT",
+      "description": "Asesinos rusos en México El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -403,8 +430,8 @@
       "title": "Descubren nueva especie de gato en Bolivia; la primera en más de 100 años",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXNNU2FHdzRqSXRwd0lCQWRsWGxTdzBsQ2FRODNzTWhOeHNpcXlMWkw4UG5JcV9yWGNhM0xCQlRPVTRJNEpXd2F6ZDFQV3ViWEZOUnpJRldQZEJOMDRDT0swajZlcno3ZEVLeW5EbWZUS3FwVmFFb3EtNWpNeV9yTVNVNFVVR1NENUxtYWhWUVdITXdGdHRYUk5wM1JUdGtRYWpIdTBVZXhVR1dWSnZTNTBCLVFTS09XRmdN?oc=5",
       "pubDate": "Fri, 18 Sep 2026 01:40:00 GMT",
-      "description": "Descubren nueva especie de gato en Bolivia; la primera en más de 100 años aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "Descubren nueva especie de gato en Bolivia; la primera en más de 100 años Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
     },
@@ -418,29 +445,11 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Rodrigo Herrera regresará como director general de Genomma Lab; impulsará estrategia con IA",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbTR5YWRZaEZVVjFLRy1JSU9pTWNjaUw5VVR4bC1HOEE2TlpXdG5VeE9vSEllVUNxSk84UktnOHktZXJ5V1V0cEhJTk9vbU1sc1M4STNReExvNXNGR2FuNDc2NWhtRGtJa2tyd1ZPRE5OdGFSOHl6cTFMNTdMc0p3dml6TzNaRGFydDZNemxtZ1VxRHB1T2ZVaHJjMU1CUG1VNXlYcVM1cFJLZmFRVl91M3ppWUZLQmo5a09yUzhxUjhveHBXZGhoQ19FYzhERUlNc0ppSW8zQdIB3AFBVV95cUxQdDRQcUdma3RCWXN6OF9MMEdTT29zYjJRZ3pNNXFyQlJJNTRxNW42TUZoUlJBQWhxcVVvVGR2LTB6Ukl1T1FJOEtLdGxtMTNILXBPNnZ0ZHRlckM0b0RWbnZkSnhURTZTaC1Rb196ajV1TmcxNnZWbEdlVklXZWRtcFJ4aDIwbmhMV2pKZktNTEJwZ0FkZnppcDVOTFE5TlVUNWVjOTd6S2dTMzFSQUNhcERMS1NNMWVLdmFnWk44Ykc4eEx1VnQ1bWtKRHdSTFkxdnVRcWZ3UnZYYkxP?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 18:18:14 GMT",
-      "description": "Rodrigo Herrera regresará como director general de Genomma Lab; impulsará estrategia con IA eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Mueren cerca de 50 personas por la ingesta de alcohol adulterado",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT2NxZ3B1X1VMZHV2YUNMaHp2dXVldGYzRGwyQlR5WTl5UlRZQ3FOTWJqWVJGSlNIQ0dZN1NMaUFlWVBKZ2Ztbk9kcnB0MkJpNkdoYnJseWhrTWs0aHJKQ00xU0swZy1PZnBUUUpMV3I2Tm1ISzNBRGdHd2QzRExnZHpWejFtNEpYdzBuTGRPWlNpaFpQT0FINlZfNG9CbVZlUERQVEdOMXlfc1R1UUY5LUtndDhQUXlZcnQ5cEQ3TnVKbGlrb2c?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 13:48:00 GMT",
-      "description": "Mueren cerca de 50 personas por la ingesta de alcohol adulterado Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "El Códice Azcatitlán regresa a México desde Francia; se exhibirá en el Museo Nacional de Antropología",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX1NVYmtTdXh4NThucy1uSnJ5Rnc2UkthRllFV0tmenFMNGZkYnpGTkNmMFZmc0pkVUdva1RvQl91Y0ZfX1JsR05SM1EzeWNYVHFlaU53eFJhV3U5a0dTRnVmeTV4R2UzUy1rdlZEcm5OZF9HakxaeXJ4NUNPUjhDREZiN2JZSWVkeklCeDhmektuY3VDTVRmMTNycDBBVTg2R3U0THhRYXFMRWRLb1g2OWk4YlVDQ3d2ZFpaTk5kc0ozeVR1ZVU3c0t4Y3VqR0prUkNFNWpmUFRXZ9IB3wFBVV95cUxOWUxUdE1mb2owLUwzblJLaGdOcUpydGl3bnFSOWFNWXdEMUc5RlNvS242Uk5PME40QW4yS3Y0MFRyLV9OZVA1WlpJTUt1NU03NW1od25QeVZXSjNlTUJxYzN0UzAweWl5WE9OSFdlTkM5SVlwMWFCQXhyTWszMXA4Slk1OE5uN2tjc2IyNnpvQnl4ZndJZHpfdVdibGJpaS1PYXhqSUxVLURhc3VjX2ZVbEY5U1p5RExYYXR6ODA2VDJ3NTVuYV96c1NmX2gtTjJYNDRDLVBwTkYtbEJmTk5n?oc=5",
       "pubDate": "Thu, 17 Sep 2026 13:20:55 GMT",
-      "description": "El Códice Azcatitlán regresa a México desde Francia; se exhibirá en el Museo Nacional de Antropología eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
+      "description": "El Códice Azcatitlán regresa a México desde Francia; se exhibirá en el Museo Nacional de Antropología El Economista",
+      "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
     },
@@ -448,8 +457,8 @@
       "title": "Identifican a presunto feminicida de la estudiante española Claudia Tacoronte",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXExSnlqYXFGQlNlRG5KZk1oZ0ZNU2MwbWhMU1FuNnc4VGh2RzdYWWpyRGR0ZHhuNWFCX1lTRlRXNTd5d00xTTAzb00wNkdJTVFaWm9EeHZxQjh0VUdBTW94cGlWWUgwNzdfWXM3Z003aHY0Q3JuaTlZMjJMWGd2R3R0MlF1WGp3VFpUTFg2UFIzQzZqZkdFWXdTeUdxZW9tRDVCS3BOSTFGNWY3dnpOLWVQU01yS3o2S1pJOA?oc=5",
       "pubDate": "Wed, 16 Sep 2026 18:10:00 GMT",
-      "description": "Identifican a presunto feminicida de la estudiante española Claudia Tacoronte aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "Identifican a presunto feminicida de la estudiante española Claudia Tacoronte Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
     },
@@ -457,8 +466,8 @@
       "title": "Morena descarta ruptura con el PT, pese a la ausencia en anuncios de ‘corcholatas’",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVklBNEl6emtwUTFxc01wUk5zbVBxanNGb3NWdExCMzBhRTR0ajRDMVBSZFlWcUNoNEFRN1lER0hHWXJkMUJSajBMb1JfVDI0Sk9MVEtTT0tnaTM3VkV6cnlyb3M1VzA4NWJ5SzZoWVdPbGlwMGExTjRYX1d6aFRGVHJWUTQ1WWt3Qkd5VWhhLWNma01OVW51OXRDeVZTb2dlN0cydjRwQmV1N3VERk5VUTR2TEh1a3BkNk5ZR0RnSQ?oc=5",
       "pubDate": "Wed, 16 Sep 2026 03:35:00 GMT",
-      "description": "Morena descarta ruptura con el PT, pese a la ausencia en anuncios de ‘corcholatas’ aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "Morena descarta ruptura con el PT, pese a la ausencia en anuncios de ‘corcholatas’ Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
     },
@@ -466,8 +475,8 @@
       "title": "José Luis Martínez S. recibirá el Homenaje Nacional de Periodismo Cultural Fernando Benítez",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVJJSW9YSmJZMkI4MjBLLS16MXhLdU1xWjc4OTM5U2RfOFZBUjFabkI1VTVtVTVyTkQ0clJwclpmM29sa2Y3QXQ2bGY0a0dGWVh5bXlGQzU5RDJCem4yVFRwNlRCcTVVSlRZWXVxY3J2M0E5SnBxbmZLYksyb2UtOXFVS3Q3Uzk2cGFWNkVFVXdRRVBDM0dNTFZFNW9MRjRxYXY2RFdTa2ZGRTJDYVQ3MElfSU9tbnEzTmJaZUZQMEY0MGpfMmJweHdJSHVMUFE?oc=5",
       "pubDate": "Tue, 15 Sep 2026 18:08:00 GMT",
-      "description": "José Luis Martínez S. recibirá el Homenaje Nacional de Periodismo Cultural Fernando Benítez aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "José Luis Martínez S. recibirá el Homenaje Nacional de Periodismo Cultural Fernando Benítez Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
     },
@@ -475,19 +484,10 @@
       "title": "Harfuch anuncia despliegue masivo de militares en Mazatlán",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd2FMWnNVYXV6TjNoUFl5alRvYUNuTDRmZWp2NjhwMmFmd0RfT284akZTQ0J3d3VGT3pZeEFBSUdUN2cxUjVSa29KdkpyeFVqb1VqUExCN2ZJOERsRlNBb29USkxsUjhCRG1VVTlna2ZlTWl4OGdVdDQ3NVlDVEIyTTBRSTlCQnRjLXcyaVRMekE2c3EtbEJUVnBEVzBSQ0FXZFBr?oc=5",
       "pubDate": "Tue, 15 Sep 2026 16:35:00 GMT",
-      "description": "Harfuch anuncia despliegue masivo de militares en Mazatlán aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "Harfuch anuncia despliegue masivo de militares en Mazatlán Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "México destruyendo el futuro",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2R3JrbGNFTU5MMzBILVRLOEdaOEh1QXBGN1k2ODV2MUtkVDhkcmNiakJBY1d4WEk4VXhsSTNZeG5FY3JBSGZIaFh1MGRWLUxMMHYtNnNKNk5EQnJBS0h0ZGNJZXdoRVhCX2psZ3AxSQ?oc=5",
-      "pubDate": "Mon, 24 Jul 2023 14:23:43 GMT",
-      "description": "México destruyendo el futuro panel.animalpolitico.com",
-      "source": "panel.animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "Niñez migrante, promesas de papel",
@@ -520,8 +520,8 @@
       "title": "Aristegui Noticias | Desde cualquier medio, periodismo en libertad",
       "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBMQ0x0Y09ySVdOSi1NOHBXM19TSlJjd0RFY3pkeFJmLXFwSUw0QkprOGdOLUxaRTRCYzlWVU9HekNWck9N?oc=5",
       "pubDate": "Sun, 19 Apr 2015 08:39:27 GMT",
-      "description": "Aristegui Noticias | Desde cualquier medio, periodismo en libertad aristeguinoticias.com",
-      "source": "aristeguinoticias.com",
+      "description": "Aristegui Noticias | Desde cualquier medio, periodismo en libertad Aristegui Noticias",
+      "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
     },
