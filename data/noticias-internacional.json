@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T01:57:41.945Z",
+  "updatedAt": "2026-09-21T08:16:10.488Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,22 +64,31 @@
   ],
   "items": [
     {
-      "title": "Agente de ICE dispara a un inmigrante venezolano en Austin, Texas, según una fuente",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sRXFJWm5udnA0YzIybXBHUVBHZ21aTU1jUzBSRlFnQ0ZwNF9QR241WlVEbzdySzFCRlFibTVMZFRuMzZVSDVQdDBFRDd0Rmw1NnVWUGFORzNNVUVVMUVtMktsWExVRi1Jd2RKT1lZamlRLVpIM2ltamVlTTQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 23:51:00 GMT",
-      "description": "Agente de ICE dispara a un inmigrante venezolano en Austin, Texas, según una fuente CNN en Español",
+      "title": "Europe",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 07:25:10 GMT",
+      "description": "Europe theguardian.com",
+      "source": "theguardian.com",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Muere a los 27 años el hijo de Cindy Crawford, el modelo Presley Gerber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUE5Z1o0WXZ0bmhON0EzeW10V1FSS0pUTmt5TzZaaF9KdmZoUDlPUVFDbVBHMnJTT0dJSzhMQ0Y5SWtEeVI5bTVRUktMUjdnV1g4a0dlZjdKOXNzanoySk1xMzJXYVRrR2l1aUR0YWYyRjViQ0JENXlxRkpqSzI0X2g5VkhxUmJYYngwOVFSUE1YdE95X1lxcWhVNml2RU1B?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 05:07:00 GMT",
+      "description": "Muere a los 27 años el hijo de Cindy Crawford, el modelo Presley Gerber CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Europe",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 23:24:43 GMT",
-      "description": "Europe The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43WkFYclhkWGhTSlVFR1BBY084ZW1sMGxfY19HM21JOV9IQkJiVHk0X2tyazlXRDVuRHhGazB5Mk9FTmFqYXhNSi0xN3U2Yi1ySVR6eFU0Y1ktdmV30gFiQVVfeXFMTS1GUGVZWVY3Z2ZhTHQ5Q1FzN3VOZ0ZYOExqX0t5R1JnYmVrUnMtemNYZTl5Y0dSSkx4WmUwelNyYk8ycFlodkU3dEQ5MlcyUS1wOGdwaXl1Q1liX05RZ0M2anc?oc=5",
+      "pubDate": "Mon, 21 Sep 2026 03:23:46 GMT",
+      "description": "Una alerta de 4 minutos no basta: la nueva e incesante táctica de bombardeos de Rusia que está agotando a los habitantes de Kyiv BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Irán informa que espera la reanudación de ataques por parte de EE.UU.",
@@ -91,13 +100,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Honduras declara \"terroristas\" a tres grupos criminales",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmhFb0FQMzFTeVJUUm14Qll5ZzBTVkttMjBybTZCdUlqdm1LTWVFcVd2RGY3a0FBUHVnb3VqVTBuenNsYjF5cGlGSUxwWGp4RlQ1NE5tMHJPVy1seWlSLTZZLUhEb3VfZXFLOWtvNTNIQUNzRVlmam9hTm1lQ1A1bG1Cd2xXUjlrQ2t4aDVma9IBjwFBVV95cUxQcHlrWjBDZTlwWWlFV25jMWx1bnFDcVVrcWpFWE5QVlZXblBzRVQ3SjNoelZsNnlFMmR3Unc1NnlKZU15SlZZSGo0Q0tSTEQyMHhiUktIanlYelJrQVlJb0FPS2dtc0c2ZXA3NTJQbG5MT1ZydE5sV2JJaEIzaW8yQkJmRzhwbVNId1hMZHltMA?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 22:58:19 GMT",
-      "description": "Honduras declara \"terroristas\" a tres grupos criminales DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Aumentan las tensiones en Medio Oriente antes de la Asamblea General de la ONU",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY2c0bkhIbXZGTktKMWVhVlBZd0FVeTR6dFlkQWtPVVNKLWcyV09ZdWxTRW1mZWMwMmNfSkVJYy1IUkNTTEo1a1pTNzI0Uk9hZmllR3ZRcHNSNnZpS3djWkowdktmUHZ1S2VFaTlucmpzN0U0X0hEeU9ROWE1OFBqSHZxY1RSUEpQZDNNQWJn?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 22:27:00 GMT",
+      "description": "Aumentan las tensiones en Medio Oriente antes de la Asamblea General de la ONU CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Mark Carney se burla de los gestos con las manos de Trump durante un discurso",
@@ -109,13 +118,40 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "La representante republicana Salazar afirma que Trump se mostró \"muy receptivo\" a su advertencia sobre los votantes hispanos",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTNqZFBrRmhpWHkzcjE4SHRid19Ed2pnV19mTk9WTXQwcF80UC12UHFlYU9mNGJNQXl6SGIzMEpzcjJ1LUdmUXEyX2FBcjNqT0QxenQ3cFpaSkN3ZWZhOHFsOThtdTA5VjB4SUtmRHNKVzFvaEhaVm00Ymkwak9tSnQxWWtNLXQ5SnRXTkxtendmTFJkbXc?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 21:06:00 GMT",
+      "description": "La representante republicana Salazar afirma que Trump se mostró \"muy receptivo\" a su advertencia sobre los votantes hispanos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Ucrania lanza más de 1.000 drones contra Rusia, incluido “mayor ataque de la historia” contra Moscú",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmN5SU9jVDJqb19CaG1icTIzQ2JEOHNFT0tLTDhRY0ZoWlplcV8xZ2VnY3Z3SXlPWlZhN1VDdW9STG1XVnVqNmFTV3dfWVFyeEplckNjZ3Q4R0hWZXYwXzBOZ1hURmtCRnRyMlYzZnpEaVV6VjhIV1RUYlRDRWNpZ3p6Y3k4T0EwWDZVaU5JV1dWemtCd1VvZA?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 19:58:00 GMT",
+      "description": "Ucrania lanza más de 1.000 drones contra Rusia, incluido “mayor ataque de la historia” contra Moscú AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Delcy Rodríguez confirma participación en Asamblea de la ONU",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXpLTTR1NVgwQlpkdFJxNjlpS3lQQlk3WTlBWjdhTEVPUjlTRFl4U0Rkd1hwVmlQajl1cUpWRkNBQmZXNGVTUjRWU0hnYlpKcHd2bzdkaUpCRUp6OWVLZmNGdHhBaElHbzh5ZXAxNmJQMnFCalZFUUF0Z19LY0lEODFlcEhnTTdROUJnSnk0M0E1Y1ZEQ2dYQ2JvVDh2dklnei01RmxR0gGmAUFVX3lxTE5uRWNtZnF6RlNKWHIyYXlyclBYLV9CM2RJRHllZDgzOTNqUUg0VUpQZG5qSTh0aTQxZFRzQ0wtS01yQ0w5YkFFZ3BqbmFtV09jX1BpejdHdUVrcjg1U2VkdVhMd1gtUDd0QnpDRDdtekw3UnhTRndnRXl0dnozdkstUzJ1bzBSNFU2NFpyNkFkS0gwS1Z2SWx4OXk0NFIzZXhtbkNMMmc?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 19:32:04 GMT",
-      "description": "Delcy Rodríguez confirma participación en Asamblea de la ONU DW.com",
-      "source": "DW.com",
+      "pubDate": "Sun, 20 Sep 2026 19:34:04 GMT",
+      "description": "Delcy Rodríguez confirma participación en Asamblea de la ONU dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "Merz admite un \"desastre\" en dos elecciones regionales, pero promete seguir con sus reformas",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGFYdFFkeDlKOGdpOHIxUzVjZzFJUzlFbGdQUFVHWVp2aTlRUklNTzladHB3dXBuc3p3Tk5mYmxwQUd3dnhUYnRReU9zUFVRalhyajFRcGxCNE9xLWNHandyY25qZWVBUGlXeUNKQU9yS1dOdks3UHotUmIwN1JJVU1yNGNZTkdSaUNBWlQ0eUpGbHpWTkpwSlgyXzZFYk1BZVlVcG1qQlBpQl9PejJCVldNbzAxYmUtOThLeDZsb2RVZmVJOTJFZDZ3RHZuQQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 17:46:02 GMT",
+      "description": "Merz admite un \"desastre\" en dos elecciones regionales, pero promete seguir con sus reformas France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "\"Una crisis aún mayor que la del covid\": los empresarios estadounidenses apenas logran salir adelante",
@@ -145,15 +181,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Bachelet retira su candidatura a la Secretaría General de la ONU",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTk5zMk83TzBLTVowRG1mRzdEQ2R2amtmY1V1enFtTXp0dVl5SVNDM29pam5pU290QnhWM0JxeGx3emdrekt3OUZmNG9ETkl6VWRzcWFvS01qM2xwdl9TMzc2cjhUOFJvOEJlQXREWUx4S0dnRE5PMjVodVVwUmZheVVBZUNXUWdoZGV3V0VuRjlFZw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 14:48:00 GMT",
-      "description": "Bachelet retira su candidatura a la Secretaría General de la ONU CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Ucrania golpea Moscú con unos 450 drones en el mayor ataque contra la capital rusa hasta la fecha",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CY0dINlhhc09NdHhscF9LV0s5UEdPeldGQ0RCbmduUmQ2aUpNN21iMVNwWHdnMlZ4NFFEZEt3SWxRbkhQM2pPbjBIaml4U0pyZnNaOHlnai0ydFNt0gFiQVVfeXFMT0ZMOWFHLXVfTnRRZEo5ZVpZMjh3bjI0OUtpMFVXX21vNlJUVjYySEp6VGJaQTd2WVc3Q0xuM0Z1QU9rQlo1ZkozX2NFZFNpTmMwTEJLQWlwZFZFQTBTYjkyZkE?oc=5",
       "pubDate": "Sun, 20 Sep 2026 12:58:45 GMT",
@@ -161,33 +188,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Moscú, blanco del mayor ataque con drones de Ucrania en el último día de las elecciones de Rusia",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHIxakVjNjVyWVI2YTY1bURpLWRxbHNtSTB5QlRUekNGX1FFdWduc3Bjb29WRFZhdnZhdk9SLUJGa3JyZF9TdWVrY3dzcFRxTEp2RG1oc3Q5X09qbmpVa3g3X1FXNE85dHlfd0tDMjRTeHNORXZjYm1ZcER6WnpxclZJTUpGdw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 12:19:00 GMT",
-      "description": "Moscú, blanco del mayor ataque con drones de Ucrania en el último día de las elecciones de Rusia CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUEZVcEszTXdBSzRvcEFoTGxaYnRPS1ROWG50NUdBa01EWVRfQmN5RDRjTFB0X0tkNFhPM01sOWtWRkhjVGc4UzZreE5DdHlWWWFQWW43aUVlOThz0gFiQVVfeXFMTWpfd0dxc25GT01OSVhLTERGMW1FeDlPYV9tVm1qcjUybmxCZ3VuMFZ4Z1JBYUpSRGtTNGdJQmMwcTBjeUQwbVE5b1lubjJJMFRNeXVETDBDYlZ2cnJGYnNWU2c?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 11:08:40 GMT",
-      "description": "Karl Bushby, el aventurero británico que partió de Chile y lleva 28 años recorriendo el mundo a pie BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Ucrania lanza más de 1.000 drones contra Rusia, incluidos cientos enviados contra Moscú",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRmN5SU9jVDJqb19CaG1icTIzQ2JEOHNFT0tLTDhRY0ZoWlplcV8xZ2VnY3Z3SXlPWlZhN1VDdW9STG1XVnVqNmFTV3dfWVFyeEplckNjZ3Q4R0hWZXYwXzBOZ1hURmtCRnRyMlYzZnpEaVV6VjhIV1RUYlRDRWNpZ3p6Y3k4T0EwWDZVaU5JV1dWemtCd1VvZA?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 10:46:00 GMT",
-      "description": "Ucrania lanza más de 1.000 drones contra Rusia, incluidos cientos enviados contra Moscú AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Por qué Zeus creó a Pandora, la primera mujer según la mitología griega y ¿realmente abrió una caja?",
@@ -199,6 +199,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Perú: matan a periodista y candidata a elecciones regionales",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1pHS2NXa2o2SjhvMlktaUhIczU3ZWlTTWswcU5ycnBRVEloaFdMNTJlZ1JNckNmTXBRbEhfdDc1REtSZEYxYnhBZjc4b0VGeGtXVDJNR0QxMmN5dS1nVF9LTFVLN0g1dDIwdmM5SjNPOV9KV21iYzkwRTA5TVYyOC1BMmgyempSRDRFTHlFcGhfT0lRTXV2bDRVZ09UQdIBngFBVV95cUxQZ2g4OWJPeXN1WDM0alBKLUpLcVZValNrVlo1d2pneU00VjJDZkxYQldrXzNEX1NVcnFDQ2h1aHB5c2I0QkFCY3pXWm9VRnFjQlgzVS1yMzM3aWhKSnlubkZHb2lOY1RPc0xtQmRHdzJQVTVIRTBmZGNOQWpwLVpXRGltMDdMX19nSEdCd2lsLUtDQWFQdE9RcE5GaHdRUQ?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 10:16:54 GMT",
+      "description": "Perú: matan a periodista y candidata a elecciones regionales dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "La Universidad de Morelos, en el punto de mira por la violencia contra sus alumnas: “Protegieron a mi agresor todos los años”",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcnl6TDF1QkN1VmQtWGtKVVdBWnZIdnlZWHZKSWdMMTVXMF9hM0lpcnFPTFA2V3k4T25hSmJtUWdmTXpHajByRF92ZjJudjZLX2FrWk5yWEtVSUhNY3J2ZmcwWV83SXFFMXN4SElRM3dQT1FUMVd6Q1QxZkxGOFFuREZYYXhJOUU2RnZORlhFNHR4QTJoNlBRWkVWQmxqeGtpLWZ4Q0dLWHh1bHI3RjZpNmU4MThEU29TQXRPWGtXdVplUnU3c09FaGQ1SlpMb0tqQW1KRGN5dG9kN0xQbWd1UmlOaVBJNW4yU1R1LWQ3eWlBcm1SUmfSAYoCQVVfeXFMUG5xNXl4R2pLN0VfMkI0T1h6VGdrWkRHNm5weFAxYnZJc2R6ZjZkX0VKVjlNTFA1eWdTcjhoSVBvVGFVSDI4Y2Z5aDdSSHVRYUQxd1RhM1dWM240cjJGVHVXY3JtZGFnT1Z1WVBGSzFfTXJ4b0Y0M1FtR2l3RFRsdGlGdkV4VE9scFZDYkZmM2NRajVqc0tiU1VpSFVRSzZnN3lBNmpQVlgyaUtIYl8zZE5PaWlLS0dRTWI4OHR0dE4yMTZPbWxhME5DY28wV0ZVT1gtWkFQN0dKQ3BWYzBualNRbmowZVF3NkpXdHdPQWZZcHNJdXk4cVR2eV9uR1hISnNRYWtjSTlGNFE?oc=5",
       "pubDate": "Sun, 20 Sep 2026 09:30:00 GMT",
@@ -208,20 +217,11 @@
       "domain": "elpais.com"
     },
     {
-      "title": "La red de huachicol que devoró a Ernesto Ruffo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGZ3QWJWYjhxYlE5OTI4aHZMbTQ3UnJCcF9GaHJiYlc1S3M0MzI5OEVIX2tTM3ktVldvWXh5TFoxVEQtSWVYaVFhbWpGbVEyTVRkdHhIU0tJYmxwV3FIRjVzZ2hCb1R3cWk1MW5sYVBvdFZNbGs5MnptTTEzVnZoTkVIY0dfOEcyREJ4UGRMT1YtZ9IBpgFBVV95cUxQcm9HX3NVdjdUNk92R2pBMF9KYUJtdlZ5TWNDaUNuUG9iSGhxai1ES1VOQ0NPX0dUQkNLOHVOUUFVcm1WUnUzUU9VMXhEcEJldzQ2blVZV1B1cEFpdWJwaU9mbVRKbWJwckdQTzZqLUlyUDNoR3ZKdjNOOU1qcEVIWW1YSmpvYlJEUDJEZ2lJdkpQOU1ELXRpZzBCd0lqQkE1bXk2NVZn?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 09:30:00 GMT",
-      "description": "La red de huachicol que devoró a Ernesto Ruffo EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "¿Cuán segura es la comida en India?",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZzN2ZWpZb1pwX2hRZTZha18wMThLMzVtZTNCSno2Y1lNRWFveXczQ1RfSkExSzZkb25aWHdVR0o0UmpuLXp6eERRTUJRRGxlcUVrYlJPS1VHRDRJRU5ydjhJZEhlTnZwazF5eEFuV2lyaG5TcXF2a29oNNIBe0FVX3lxTE93Z2hidnNsZUpGSmtlZEJMa3ZsdmQzbTVDV2VsMGt2V05wOUF0eDhCaUtjbDNpTXd0aFFSWTBWY1JqdUUybUZUNGx0ZnhqX0J1dWdaaEhzSUt5dnRKa1dIdkZuYjd3WFA1SlFaWkZQVW01eEl5NDhKQ3ctZw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 09:01:37 GMT",
-      "description": "¿Cuán segura es la comida en India? DW.com",
-      "source": "DW.com",
+      "title": "El poderoso tifón Dujuan avanza al sur de Japón",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVk9vSWRlWHBJOVZldDIyX1BBTjZfZlZieVlSY3FwalVsVUY4MVV0bzdJRUVfVFB3SUlIeXBkUzhZQ2lfWEdBY25KR2FvMXZFcV8tMXYxaDNpdk93UXJsaG9JTWlWV2ZSb2VQdVg5dXlKSUFnY29fSF9KTXBWZ0FIeHN3UjRqclZnRGtpRnZIdUtLalMz0gGUAUFVX3lxTE5qYWVmRWlZZFJSa3k2SUY2cDNCdHQ3UmNLT1NWVmlKTVF2Yjd0ejdrYTdSV0xEdWJwNEJlVTVfUTFCNUNaNjA1OVBNVjJrcURIQWRTUkV6Q0R6Y3I1UGVjUFk2WjNVdVVqRXRua01LU2JZVWxDRmZwelNnWUZJQ3lnVTFGOUxWZUpiSUVROEtqMGFIX2k?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 09:28:01 GMT",
+      "description": "El poderoso tifón Dujuan avanza al sur de Japón dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -235,28 +235,19 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "El poderoso tifón Dujuan avanza al sur de Japón",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVk9vSWRlWHBJOVZldDIyX1BBTjZfZlZieVlSY3FwalVsVUY4MVV0bzdJRUVfVFB3SUlIeXBkUzhZQ2lfWEdBY25KR2FvMXZFcV8tMXYxaDNpdk93UXJsaG9JTWlWV2ZSb2VQdVg5dXlKSUFnY29fSF9KTXBWZ0FIeHN3UjRqclZnRGtpRnZIdUtLalMz0gGUAUFVX3lxTE5qYWVmRWlZZFJSa3k2SUY2cDNCdHQ3UmNLT1NWVmlKTVF2Yjd0ejdrYTdSV0xEdWJwNEJlVTVfUTFCNUNaNjA1OVBNVjJrcURIQWRTUkV6Q0R6Y3I1UGVjUFk2WjNVdVVqRXRua01LU2JZVWxDRmZwelNnWUZJQ3lnVTFGOUxWZUpiSUVROEtqMGFIX2k?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 04:34:47 GMT",
-      "description": "El poderoso tifón Dujuan avanza al sur de Japón DW.com",
-      "source": "DW.com",
+      "title": "¿Cuán segura es la comida en India?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZzN2ZWpZb1pwX2hRZTZha18wMThLMzVtZTNCSno2Y1lNRWFveXczQ1RfSkExSzZkb25aWHdVR0o0UmpuLXp6eERRTUJRRGxlcUVrYlJPS1VHRDRJRU5ydjhJZEhlTnZwazF5eEFuV2lyaG5TcXF2a29oNNIBe0FVX3lxTE93Z2hidnNsZUpGSmtlZEJMa3ZsdmQzbTVDV2VsMGt2V05wOUF0eDhCaUtjbDNpTXd0aFFSWTBWY1JqdUUybUZUNGx0ZnhqX0J1dWdaaEhzSUt5dnRKa1dIdkZuYjd3WFA1SlFaWkZQVW01eEl5NDhKQ3ctZw?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 08:02:02 GMT",
+      "description": "¿Cuán segura es la comida en India? dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Perú: matan a periodista y candidata a elecciones regionales",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa1pHS2NXa2o2SjhvMlktaUhIczU3ZWlTTWswcU5ycnBRVEloaFdMNTJlZ1JNckNmTXBRbEhfdDc1REtSZEYxYnhBZjc4b0VGeGtXVDJNR0QxMmN5dS1nVF9LTFVLN0g1dDIwdmM5SjNPOV9KV21iYzkwRTA5TVYyOC1BMmgyempSRDRFTHlFcGhfT0lRTXV2bDRVZ09UQdIBngFBVV95cUxQZ2g4OWJPeXN1WDM0alBKLUpLcVZValNrVlo1d2pneU00VjJDZkxYQldrXzNEX1NVcnFDQ2h1aHB5c2I0QkFCY3pXWm9VRnFjQlgzVS1yMzM3aWhKSnlubkZHb2lOY1RPc0xtQmRHdzJQVTVIRTBmZGNOQWpwLVpXRGltMDdMX19nSEdCd2lsLUtDQWFQdE9RcE5GaHdRUQ?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 04:13:41 GMT",
-      "description": "Perú: matan a periodista y candidata a elecciones regionales DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Martín Escolar, el divulgador cultural que triunfa en ‘Saber y ganar’: “No sabía que su mensaje sobre el respeto a los concursantes iba por mí”",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYVJ2V0NHWVFaa1VyWjZPODB1S1FYVW9UVjdtbGZOYUotNWp2WVNBNjM5YzFXZ3NsaFR1NHY1QVFnMkhNRlZVSERCa21fbVRQWC1VdVV6LXpfalJyQk95cHFjMUloYVZ5VnpydlNmRjI2WW9GRGEwdnhKREJ2dy1URGRXdUl2X2s1RXo2VDRvd2F5U1lZWmY3b3puWEJvVVk5ekxzOV83OU5oaGp6OGduR0JVVlM5VG1SZ2tRazdydktkOU9Td3FVYXNZREZhcE1fYTJ2MDBEWmxVNENVdzBYVzB4M0JPdDRTNjc4cmZiSXBjRWpYM1JsUGhwOTNZVTRieFh4bUl3SXMwNkRJNmMwbtIBpAJBVV95cUxNMDN4bHhRR3M5d2FJNHJhQ2xzU3RvV21yeXpvOGZubjdSOE0yMkRJc3VZbWdkVnJqN3hNb3VwdkIzdXJsUEhnOWo4NFJpQWYwUlhETUlNTXJZclhfeXloc0RLa3FVdkRRa3N3MTBkLUNnOTQ1ajhUdldkeDJwa2ZtZU5aRXkwZmJRRzEtZFdlNFUwMWVsS1ZQZmM4b080X0NmMzF0TzY1cklfYWg2T283NjU0Z2dXNEhrSHJoeC1OdWc3TUZEaEtmNWdsZ1lKSDJCN3B3UDRZRlVmWnRsX2xuMU5SQm9VaUJ3NUpueTE2VFY5UmtQdHR4Y2pMeVBLTVRWelVFQm11bVZvZHhRZms5SFRsaXhBMTNrZFR5NnhFbVlnVng0?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 03:30:01 GMT",
-      "description": "Martín Escolar, el divulgador cultural que triunfa en ‘Saber y ganar’: “No sabía que su mensaje sobre el respeto a los concursantes iba por mí” EL PAÍS",
+      "title": "Cómo conquistar el mundo desde Cartagena: de gira con Arde Bogotá antes de su nuevo álbum",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3BLRlBwYURqOWpHSWpOUUFtMHNLcU5GNkRzZ3NEdjNGcTZXYnhqNzlkVWhOUHNUaTBBN3lSQWVrZGt1YmFJbEIxbkRiWTZOQl9rZFFSUHVNdGh5bVNSUm13eENRS3NPVUhwVkpmekhEaUlWQTVibUFObzZHVDdEbUxFTzdTbHBWcjd4a2tOaEl4b3JYeGd1OEJZTmJvTlhOQkg0Q25RY0NKOUVhUTlDSmNyM3dYUHlZbDk1TGdobEFhclZQVlHSAdoBQVVfeXFMTlpjS3VrTDVyajc5WXBPQWNQTXRrVU1zeVdMZ1EzdlVCU1p0U1NCUnB0OXNTRmV2cDA1d3BYOGVodVVxdkN0NHAxRmVDaXp4Vk1NRUNGd3JKRjZyZzNydEZIUWhONURyN24xN0ZSOUFXNHZEaHVHWXhHTFlqdnA3Sy1FQVNYc19POHhLYk85bm13cGdvVTNlaGtsSmMtd1licEZCbnJPbmlRTDU0UUxsbDg5aVd4bHd6aHVHUTZtVG1KUzZfaV9ZTTVqLWpoMXFPbDVWaEY5cE1qVEE?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 03:40:00 GMT",
+      "description": "Cómo conquistar el mundo desde Cartagena: de gira con Arde Bogotá antes de su nuevo álbum EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -266,6 +257,15 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONlFWQkhSenYzdDRxMVZSU0tMdkJQNHNMV0laRTZKbWRrSXdtTFNkeXpkZFh2d3NkSkNiRFUxaXlvUFJoS3I1SHpZQ3Ria24xU25uR1NBaHR2dHo0T1JVbk5vaHVGMk1jUWNNNlRuVF9yM0xwUGlSSV96VnVLcUR2VVc2bTJkZlRXWFBac0c4MEdGWnktLXIxbjl3MWQzcWs1NWliYjd2UTdpWVVMM1BXTkpKM2plejV1T1pIVXF2ZDRQclp1R0d5NnVIazFLeEt6VzZTWnVaLTZJVG_SAe8BQVVfeXFMUE00bnpHTDduSVF5aU81MUFjVW9PZ3o2Nml4X0ZuTUNtVk80cWNkNDFTcXlsQWFfbzZfYUtHYThJVUIwX0tEZzd0NXFZR0cxeElhLXAzVTN4Sk9kSUh3UVl4ZktWNEpONExHR2FiVjV3RkFSa2RfUTBaNXFsemFSTkZ5cW54MjNUeHY5TldOUHFSN2xGMVdmT3BvbFVKRDFXZGZmaUdFWl9saXJFcW95cmFTQlN0OWVGUUZaZ2R4d0NKOUVrMWhNV2NhQWFub1JJZU03X01jS0d6TFVJQ0kwejNmdk9CVlJmTXBQdl9aN2c?oc=5",
       "pubDate": "Sun, 20 Sep 2026 03:30:01 GMT",
       "description": "Manuel Delgado, antropólogo: “Los alcaldes conciben las ciudades como productos en venta” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Martín Escolar, el divulgador cultural que triunfa en ‘Saber y ganar’: “No sabía que su mensaje sobre el respeto a los concursantes iba por mí”",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYVJ2V0NHWVFaa1VyWjZPODB1S1FYVW9UVjdtbGZOYUotNWp2WVNBNjM5YzFXZ3NsaFR1NHY1QVFnMkhNRlZVSERCa21fbVRQWC1VdVV6LXpfalJyQk95cHFjMUloYVZ5VnpydlNmRjI2WW9GRGEwdnhKREJ2dy1URGRXdUl2X2s1RXo2VDRvd2F5U1lZWmY3b3puWEJvVVk5ekxzOV83OU5oaGp6OGduR0JVVlM5VG1SZ2tRazdydktkOU9Td3FVYXNZREZhcE1fYTJ2MDBEWmxVNENVdzBYVzB4M0JPdDRTNjc4cmZiSXBjRWpYM1JsUGhwOTNZVTRieFh4bUl3SXMwNkRJNmMwbtIBpAJBVV95cUxNMDN4bHhRR3M5d2FJNHJhQ2xzU3RvV21yeXpvOGZubjdSOE0yMkRJc3VZbWdkVnJqN3hNb3VwdkIzdXJsUEhnOWo4NFJpQWYwUlhETUlNTXJZclhfeXloc0RLa3FVdkRRa3N3MTBkLUNnOTQ1ajhUdldkeDJwa2ZtZU5aRXkwZmJRRzEtZFdlNFUwMWVsS1ZQZmM4b080X0NmMzF0TzY1cklfYWg2T283NjU0Z2dXNEhrSHJoeC1OdWc3TUZEaEtmNWdsZ1lKSDJCN3B3UDRZRlVmWnRsX2xuMU5SQm9VaUJ3NUpueTE2VFY5UmtQdHR4Y2pMeVBLTVRWelVFQm11bVZvZHhRZms5SFRsaXhBMTNrZFR5NnhFbVlnVng0?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 03:30:01 GMT",
+      "description": "Martín Escolar, el divulgador cultural que triunfa en ‘Saber y ganar’: “No sabía que su mensaje sobre el respeto a los concursantes iba por mí” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -281,7 +281,7 @@
     },
     {
       "title": "Las pilas de Varta se apagan tras 139 años de historia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFJrSFp3U05PakRLblRYdFNqeGF4c2xGbEs2Z2g4YlJkTkd4cFVXT21xWWltb1lnckZlR2lxMGpZLVA5UU1fNUVpNXNJZHlKTFNsMndxX1pOQmVXZHFxd25zVndYelhvdVZrMm5XZEhScFNGMDNpRkV4aFNqOEFYUVNsUWVJM2RPMXo2eGZZNDZQOHZpUWFpR2I1UzdUd2_SAbMBQVVfeXFMTUdSaklrR2NZNVlKNmxWVkMwMHQyeFZKTkVpam83dE5pZzgtTGxfZ21yNWxabXByUUh2YXp6SnJHM3VwSTk4UkExVnF3ZXM1WkRsYVE1ck40YlB1Ylp6TGlrMHYtNkMxMGFyRkpvY2RDRnF5SFJUYllEZHNuZ1J3Y2Y0MGJMbUIzT0s0SzVEaDkzWWxoSDczS3o5WnlnalNvOWxkaUxlbjZIYkphYWRMbWxGTWs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRFJrSFp3U05PakRLblRYdFNqeGF4c2xGbEs2Z2g4YlJkTkd4cFVXT21xWWltb1lnckZlR2lxMGpZLVA5UU1fNUVpNXNJZHlKTFNsMndxX1pOQmVXZHFxd25zVndYelhvdVZrMm5XZEhScFNGMDNpRkV4aFNqOEFYUVNsUWVJM2RPMXo2eGZZNDZQOHZpUWFpR2I1UzdUd28?oc=5",
       "pubDate": "Sun, 20 Sep 2026 03:30:00 GMT",
       "description": "Las pilas de Varta se apagan tras 139 años de historia EL PAÍS",
       "source": "EL PAÍS",
@@ -292,8 +292,17 @@
       "title": "Nuevo ataque EEUU a lancha en el Caribe deja cuatro muertos",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGliRG9uMEZkeTFQYmg5ZnFpeHQ1bkFMTUY4RWk1NEZyNldzYU83b1Q4ZmNKbFlFVVhDcWtkX1dDaUNPSlR4aWpScWF2MUJyRklKZlZGMjdyeEp2clNnVUR1NWVfSVhHU19TUTFEZEtiQVRnZG9kdGlVU05iLXBEMEIxT2hRUm9ES2E1ZmJ2RFh3MG5mRGJuNFAyQdIBmwFBVV95cUxPQVVhS0lCM2RsMW1FV05mZXJpaUVqY1NJTTNoRHF2UGxyb0VwQk5mMmoyU3VFcloyM1BGWGxjd3JfMENBU2hjQ0owa00xOWFsVXNlNVl1NWxCYXg4cmhtMEJEYnhDeHVhRDNTNjI4LXdSOEVfbDVqUTRubEV1enIxTzVkZFdoMWNIZ2FnT0lHM0N2WEJVendNVldONA?oc=5",
       "pubDate": "Sun, 20 Sep 2026 02:31:40 GMT",
-      "description": "Nuevo ataque EEUU a lancha en el Caribe deja cuatro muertos DW.com",
-      "source": "DW.com",
+      "description": "Nuevo ataque EEUU a lancha en el Caribe deja cuatro muertos dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Honduras declara \"terroristas\" a tres grupos criminales",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdmhFb0FQMzFTeVJUUm14Qll5ZzBTVkttMjBybTZCdUlqdm1LTWVFcVd2RGY3a0FBUHVnb3VqVTBuenNsYjF5cGlGSUxwWGp4RlQ1NE5tMHJPVy1seWlSLTZZLUhEb3VfZXFLOWtvNTNIQUNzRVlmam9hTm1lQ1A1bG1Cd2xXUjlrQ2t4aDVma9IBjwFBVV95cUxQcHlrWjBDZTlwWWlFV25jMWx1bnFDcVVrcWpFWE5QVlZXblBzRVQ3SjNoelZsNnlFMmR3Unc1NnlKZU15SlZZSGo0Q0tSTEQyMHhiUktIanlYelJrQVlJb0FPS2dtc0c2ZXA3NTJQbG5MT1ZydE5sV2JJaEIzaW8yQkJmRzhwbVNId1hMZHltMA?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 02:28:21 GMT",
+      "description": "Honduras declara \"terroristas\" a tres grupos criminales dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -307,10 +316,28 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Bachelet se retira de la carrera por liderar la ONU: ¿por qué abandonó la candidatura?",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOW5Ya0hQczlyY2g4SzhfTWpHQkRVek93OGlsRkM1b3VaRXlGa1ZERzhHMnN4S0xZdlhRRUpXbERfRnZOUFl0c041cU5GUE9KSkx1QmI3YktQQWpoelhRdTFBTTduZzdVa0RleWE2U2VKenZ5VkVpNWpUX3dDR19XQTZ6VlVwY2doWWZyZzk4ZFl3T203MzhCRkJTQ184MHU3ZDhQWXozWExiLVVFNGkzS21rWEdkczYwR0VHMFgwX1NldlZUaWpQY3ZiaEltM2QyMmVrWHhLa1ZoeXllTm10a1FQSTU?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 20:48:10 GMT",
+      "description": "Bachelet se retira de la carrera por liderar la ONU: ¿por qué abandonó la candidatura? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbW5EQV9BaU96QUJJdjhtRzhLbDZYd0szbjRBLXoyUG4tcnY0TDhKR0dvd0lwa3BCakJPbTVwelU4cFJ3WEVvNF8xLVJqbzlNQTI1cy03d0tuaFFZNjhBMS1tWk9NRm5qR3RvMWdrbl9EYXdIZmdaOS02OHBGZmNRTFFWMkFFdDRscGluV1p1LTFOc1d1YTVTLVBLa1JvOEtLc3o5ZWxUWGltWGs0SFF0N1RhT3dfODFKUlpCMmY0YmJTd1JBaEpHdnMtRWNMeXdtTjVWb2drRkFOWU9jR1A4Qg?oc=5",
       "pubDate": "Sat, 19 Sep 2026 14:41:16 GMT",
       "description": "Dinamarca y Groenlandia reivindican la soberanía de la isla ante el acuerdo de seguridad con Trump France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "“I’m back”: Julian Assange regresa a la plataforma X tras más de dos años de silencio",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYlJGckl3QzA2cm9kUUJrdHBsMXdhWlJkb0xPNE4zYkY5MS1NM2xzc3RidUx3RndlVXlUOVFxNjVpNWFKVEp0ODl4MW5QTW9XNGJNQ2JwdWlxVDF2U0g0alVrZlZ6T2JMSUFyUF8zX2toNWdDTVR6OWtpd09WQ2F0dEMwUkNSWklXVW9vZVJhWEkwVUlxUVNoQUJwcXpCVzdCV29ZWFB2NEE3ZkprSXBhXzNGZG54N3ZyRUVHbVd3em9seERJd3lZVkQ1T1o5TVQ3Snc?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:14:48 GMT",
+      "description": "“I’m back”: Julian Assange regresa a la plataforma X tras más de dos años de silencio France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -370,15 +397,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "El Kennedy Center cierra sus puertas tras el fallo judicial que negó a Trump rebautizarlo con su nombre",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeXhwU0s5ZWp1Q3AwV3lSWHNUSHB2OEUwejcxWHBxWm9XSkRxbkJEdkpadmg0YXpieXVabGVLN29iVUlmMk9xWEZ6NXJWUkJEd2R3Y0tGSWZQSklHQlVPdWlEQ0o4QVRobS1NMm95U0hORWkzSndScVk5TmdockRfMVRoc0tpQV9sT0ttSzlTVDc3T29aSXJ1dllGR3NhS2Jkak0wS2xUVXlvT3Q3dU4zRHZZUkVtaUV2Sk04SHlqYjA1WXgxWEFVeUFMMENSNWp6Slh1R1NZZ05ObDdFcDhjMzNMWFV4dmtx?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 23:23:00 GMT",
-      "description": "El Kennedy Center cierra sus puertas tras el fallo judicial que negó a Trump rebautizarlo con su nombre France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Chile's state-owned miner Codelco says restructuring plan may be delayed until end of 2026",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVlY2aVBwcU96SC1LOXZNNXI4Y1FEcXBKTW1QTndKbGZwSmFQT25FYmV1MGNfZHJqOFZPYlJVTzQ4S2w4RUZUWkowemdfSngtcmh5aGFjWVBURGphMVBtVG50NTZKdEJ5ZGZDUWU1bzdLNko3dkRVdHl4VnZGUXlxeGRvTWZwbmdFUXNlWlRQR3c3Si1YTUlvcmlIYzRROHNhdDh6VmFCaVM5UWl5alJCa3RTZktCd0ZQYWJNRjlmLXdtWF9mLUk4?oc=5",
       "pubDate": "Wed, 16 Sep 2026 19:41:44 GMT",
@@ -386,24 +404,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia?",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOSDRnQ1B5azNkbXh3RjlSV3VKek5uR2dEN05YeWx1TndyRkgxc0ZYOW5hSVRHUDBrNW1HVTE4bE1kU0xocmtSS25zZzI0czlsWFZEOHpvSDJ0RGdQQzlVTTh1YmNGbjhxZDhVT3VMSUJOUWhLY0xMeXNHU3dERU9seUV5cENRUDFXOTFGUjBMV2llajRvbnRudkJxVVY1REpjQzZhOFp6aERET1NwODVzVVRzREdrTlpsWG8xdWJqUVc1U2ZLSEIwb0hwY1hINWtTa3lTQ3Q2MmNEc2pFWklpYWdQb042dkpzYlRKd0p3V3lkc3VT?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 18:44:49 GMT",
-      "description": "¿Qué cambios al poder judicial impulsa la presidenta de Costa Rica y por qué causan controversia? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "\"Red de asesinatos” vinculada a Rusia incluye a tres latinoamericanos: claves de la imputación en EE. UU.",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaDd6X2FrY2JzZk94dTd4bVNTSVkwczFGR3ZaRHRxQnJjSzhuWlRTNC1Nb2VTUEUwb2hWS1gxSEYzaDJ1MXJIdkJsM3RfZFJheThseG1tQ1lPVmpPRG04bHgyUHdKWnl0OEt2THFDRy1TWF9KSkdXUzlHaG00Q2I2OHRBUDZMRWo2NktTei0tUmFDWm1jdF9fNmJOQ3I3OEhoUmNQS1RqbUdWMDRuMVFBbDZUb25OMERhUC1ITWxlYmhBZkpaNXc4X2lsdUlNT2ZSY3lHWk1LQ1hfMFRvdUc0T2tBMEpxbUxiT2dNbGxSTW5CYXZ4?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 17:51:46 GMT",
-      "description": "\"Red de asesinatos” vinculada a Rusia incluye a tres latinoamericanos: claves de la imputación en EE. UU. France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "Japón alcanza un récord histórico con más de 100.000 personas de 100 años o más",
@@ -460,15 +460,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "US Treasury blocks Citgo, parent companies from governance changes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMml3ZU5CWmotSlpJdXB5ZGlzNDdqQUhrQi1nNWYyV24xNHkwVHV6aGVpOXM0MVN0ZTBUNnk5QVphZW81QWttSzNrYWRnajc4eEtldjJLN2V6X1dCUjN0REdsLWJhT2M0NWY5UkVqVzVkanU0dWRZeDZyM0pnb1ZlcXlVWDY1c3RIZVQ4c3NuWnlxMHpFdngwbzVHVVE1eEY5REdReDRPMFN3SVNLNi1WWFVPeXVfOU0?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 20:14:57 GMT",
-      "description": "US Treasury blocks Citgo, parent companies from governance changes Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Unwanted in the US, old oil equipment finds a new home in Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmgtV0piZDBLUGtOM21nQ18yRkdqUUFpMzlKWXVESjBFWFVZT2FEcFFaYXNLRGtjY0RsaGZreUpUN2dsSGdobVladGVsUklvbWxzS2xqSk15SE83MFJJYjlza2s0WWpRX2Q3eFJreWFISjZ0Sl9lM20wcUduQll3VE9OMWRPOEEtQ1ktbk5KbEUtdzcteUFlR1hEV2lsbEZYNUNVZkpPaS1tZw?oc=5",
       "pubDate": "Mon, 14 Sep 2026 14:08:40 GMT",
@@ -496,11 +487,20 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Mexico's headline inflation accelerates in August, core pressures ease",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWkRySUhwQ09iNnVUN3Bob2lSZFkyZTlYTmV5WW16SFhsYnpyVms4a3RTNGcwVUNTaFVoMnM2OG1PaDRiSmV1cGNjNnpzNUI1Y2lMR3JUSkVqR0tRZWRzZ0g0ZHMxVXloNTZFMjFSbkxXNUktc1BueU9Ma1BXT1hlRG02ZmRFOXJYY1lOaTF1MFJHTEVyRHN6MHpPUUd2WmtwRTdzVVJ1SDdmTzBYUUw4dTQwVVc3Z00?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "description": "Mexico's headline inflation accelerates in August, core pressures ease Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "description": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay The Guardian",
-      "source": "The Guardian",
+      "description": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -553,8 +553,8 @@
       "title": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbE1YOHZZYVpmTDA0a3FZZUVqV0pGZGc1ZUJGQUZ0S3J2bXdKbWIwSUJzNXdlcGxBMFNLNzBGWVF3ZHJ0NXVHcGNDTzVFNkM5TWF2QlBlbXpTbWs4bk9heUxPX0tJNTRmZGszclFtdkV5a0MwX2NvX1h5NG9lT3RZTjd5Q0VUSXU3LWMyRU9JalFpSnJPM1RjYURjaFhERjBpUU11Um9RdjdmUEJSWUg1WEhxSTJHUnhlQWtKemp6dVJNMnowTk0w?oc=5",
       "pubDate": "Sat, 29 Aug 2020 07:00:00 GMT",
-      "description": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus The Guardian",
-      "source": "The Guardian",
+      "description": "Indigenous tribe in Ecuador appeals for help to deal with coronavirus theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -580,8 +580,8 @@
       "title": "'Impunity has consequences': the women lost to Mexico's drug war",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN0FFM1VXVDVja19GaDZxMUd6NEtHRzkxZGN3NUhBdE9mTmcybUdDbXVyQmxfRFdFYVk1dTRtdkk2ZnJFZ0NhMHdBMVo5d285Y2VxTlkxZEx4SDBRNXRLQWNFZEJVcGp5a1hhTm1oUkZlQmNhSlNPVWkzeDJEcUZQakNJT1FRRHdmRHc?oc=5",
       "pubDate": "Thu, 08 Dec 2016 08:00:00 GMT",
-      "description": "'Impunity has consequences': the women lost to Mexico's drug war The Guardian",
-      "source": "The Guardian",
+      "description": "'Impunity has consequences': the women lost to Mexico's drug war theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -589,8 +589,8 @@
       "title": "The Guardian in Spanish",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
       "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
-      "description": "The Guardian in Spanish The Guardian",
-      "source": "The Guardian",
+      "description": "The Guardian in Spanish theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
@@ -598,8 +598,8 @@
       "title": "La crisis del agua de la Ciudad de México",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
       "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
-      "description": "La crisis del agua de la Ciudad de México The Guardian",
-      "source": "The Guardian",
+      "description": "La crisis del agua de la Ciudad de México theguardian.com",
+      "source": "theguardian.com",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     }
