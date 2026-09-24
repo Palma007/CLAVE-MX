@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T18:43:23.698Z",
+  "updatedAt": "2026-09-24T23:36:44.842Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,13 +76,53 @@
   ],
   "items": [
     {
-      "title": "Confirma FGE secuestro y asesinato de Mateo de 17 años, hijo del alcalde de Tecamachalco",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVjQ0MjFTNlBGM1haYnAzYld0Q09RSXNicHVzZnFHTl9xUnNyRDVGMUE0TC05RGRfY05IbWc4bkd0OTVmVHdXM1JSSUtWVjhydlF5elpoN01DaExILUw3ZHM5cTQ4WW9KTHlmTWNZYV96MHBjNkQybl9ESjhBQUUzRGdDRnpia09TUjEzWkpjQThzbkFpSmZIR3FsMUxFcDVSRDlNRDFING1JUWVTcS1hWFpQTFVyTmhjLTFRNHZvaTV5ZmV2dDJ0Q3FiaWlFaUwy?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 15:16:58 GMT",
-      "description": "Confirma FGE secuestro y asesinato de Mateo de 17 años, hijo del alcalde de Tecamachalco El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
+      "title": "Motociclista presuntamente ebrio derrapa en Santa María Coapan",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeWE5NjF2OHUyLUxlaG9lc3lCbDdjQk40Umt2V0NiMzViaGlEdmNCd1pKVE9hb281NlhNRTFOWmNWQnpFMnd0bV9XRUtJVVkya0o5eGN4MUh2NWp4UkxQSFFuU0pXdXJSY1BvbXJQeEVuZTF6TldtTllRenBBaXJ0bHo2c2JxOTRmZW1SVTdJTjVIUk9lRTFackF1REfSAZwBQVVfeXFMTXlhOTYxdjh1Mi1MZWhvZXN5Qmw3Y0JONFJrdldDYjM1YmhpRHZjQndaSlRPYW9vNTZYTUUxTlpjVkJ6RTJ3dG1fV0VLSVVZMmtKOXhjeDFIdjVqeFJMUEhRblNKV3VyUmNQb21yUHhFbmUxek5XbU5ZUXpwQWlydGx6NnNicTk0ZmVtUlU3SU41SFJPZUUxWnJBdURH?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:47:30 GMT",
+      "description": "Motociclista presuntamente ebrio derrapa en Santa María Coapan noticiastehuacan.com",
+      "source": "noticiastehuacan.com",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Ejecutan a “El Chila”, presunto líder huachicolero, en Chipilo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQzRLbjRvemt0Ny11QlJ4Rk5QaUdJdVRNM2dLc18xYklBTVRHZTBWcThGWmxPVjk2NVJGT2FqcGhCSUlUd2RTaDFLMDVBeXMzckxfNlZ1R3pKTEp6RU8yTGVTM3owV3BMNDlaQkNJMk02N0ZCOTRmQ3pJQ1FKZ0NKS09EOEh5amhxdnhjZy14aW10ZjRyRlVhQ2QxNzNoWnhFbVR5WA?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:01:46 GMT",
+      "description": "Ejecutan a “El Chila”, presunto líder huachicolero, en Chipilo Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "VIDEO: Ladrón desmonta caja de una Van y se la lleva caminando en Cuautlancingo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODhXYnBlWW50UVQ1RW9vV09fcnVWZDU4cDdUT1FrOHFzSjNacXFBV3dVMFZlclJjRUk3eXFOZHprMEpsampzLThfaUpnT3lpR1lleHlwdXBLbGpIbzBweWcwWVZzZzNNTUprQWhURkpZMkwwbEdHZTVJd1p2UXo5U2ZxTzVXdDNrOUpERXI4czhNRDl1R2RVRGtGcEVjVU5nZmM1SEtaN3lIWjNnVzFxdGE0UmJRMEtfRmhGODBROVNyaFY4?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 17:35:55 GMT",
+      "description": "VIDEO: Ladrón desmonta caja de una Van y se la lleva caminando en Cuautlancingo Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Feminicidio 38: Abigail Joseline es asesinada a golpes por su pareja en Esperanza, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd2tFbE5GdG1CYkE0b1prRjg4bVRJVlBVanNNSHBfTjVoOXpvbTNnRFVuaVo4R0NMV08xT0VDQ19CR2VfcXNiZ0dOOVRXbWFLd0hXNG8zTm9SdE5NcFRrdlhJekZqekhqU0FJS3hpeTZIM0w1UDhrUll1NUROZll1b0lrS3E1UUU1bFp1U2hjdDQ5WlRCQnJSN1FRVTJoclBHc3hWZTRPVzJGMkJTc2l5N0Rxd3dFX0ZMQXBGTGRKbGpvN0ZfanBwTzhhejR3SjI0NzRpeDRqZkktSk93amNxOE11S2NjRmpVVmdr?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 16:44:49 GMT",
+      "description": "Feminicidio 38: Abigail Joseline es asesinada a golpes por su pareja en Esperanza, Puebla Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Trabajadores eventuales de la Ssa protestarán este día en el Centro Expositor",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWEg4MDFqN09iTUxtd2dzVmxrMHo3NUU2cjJuc0pZREtVeWJqZi1KYVhpRzU5azJmb2hJT1dvLVJwZW0xSEI2UmNRTjJvVnBzemYxME8zblVtV1VpX2NuY2dnQ3ZMY1MzcDEtcGdmUHhfNS1nV09sR1lUNlJTSDJGZlNmdzF2eVdfMTBmNmtCSTJVNWVIc0dB?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 15:01:17 GMT",
+      "description": "Trabajadores eventuales de la Ssa protestarán este día en el Centro Expositor lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
     },
     {
@@ -96,16 +136,6 @@
       "group": "local"
     },
     {
-      "title": "Dan el último adiós a Hugo Alejandro, estudiante de la BUAP hallado muerto tras caer en el Río Alseseca",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOEphbEdBWkFWU1JuUTcwWE5ONFRTbFpTTzR2dmFmT2hnNnlyVVFFQXpCU2JUVnNWMzBpNXNPb3UtRXkwakNaS1Ixd1laU3NqZ2xSRllkZEJmcFFFcF9TWm5YVG1LQWdYTlpiSm5rTG1WZ0k1YjBjMTFwZTBmX1pxOUJMenZYeWlFSFBKdE96cXRMZ3hYdG05c0RTZkJPUWNieGxQd2JGVmF2ckd6aEs1c0E4cTdrY1pLYUpFVDJhejBKTF9uak5wUUNqc3B1Qy1lQ3NMeFJyR0YteVB5TXdIQ3lXSHc?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 11:30:00 GMT",
-      "description": "Dan el último adiós a Hugo Alejandro, estudiante de la BUAP hallado muerto tras caer en el Río Alseseca Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Cabildo modifica la carta urbana para permitir construcción del Cablebús tras la consulta ciudadana",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZjRXQlBicmlQWEdraHUwdlUxTXpyRFlrZUVVUXFnOHhYSnhoQVhUX19XbTh1NEsxbV9Zam5jTi1Dd1JUaXdfTVB4UUtIT2dQVi1QZUlXVjFsbHhOOV91cHNMMjZIRm1Sa2tkV3ljNWFsUVNCc2NyUG9oUXROQVQ5dWlVN3dNNklCVlh5NHpkOTBvdTJXLXotM1A5UFpFVzllU2RqMnMzV2NxUDFOeVJ2eWtDbW1IREZ4dzljb2dzc3FRYXhoMWVuZWduSDlfdlZmcUo3S3FKZC1FZk55RXotVk94UnQ4TWZ0S1lxUDJDY1FpSmQ2R0poMXB3?oc=5",
       "pubDate": "Thu, 24 Sep 2026 11:30:00 GMT",
@@ -116,21 +146,11 @@
       "group": "estatal"
     },
     {
-      "title": "Pablo Rodríguez Regordosa, el artífice de la costosa plataforma Audi en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQTAycHhGbGN6bDhZU3hId3RVVVZpX3NKaU5aQm5yNGxLWEtyQW5zY1FDbjVlbFV2b0k4RVlPRjdrdFhOMUxCdUtsSEZrN1V6S0NTbFBkRklZeUtKTTdTbHBWR3lRWVYweC1ZS0JTQVk0Vk9KNC00MW0wTzJ5TnF6VXJFSElQWHEza1phUXNsX2pWdEZCMG1LMG9uR2wxa3p3VFBBT0hsS1hKWVZrOVBDakY5X0dsSWwyQUNHN3lNa3c?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 10:06:13 GMT",
-      "description": "Pablo Rodríguez Regordosa, el artífice de la costosa plataforma Audi en Puebla La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Ineficiencia de la Dirección de Primarias provocó batalla campal de padres de familia en Tepeaca",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTG9GRmdZV2pnX2FwV0cyb3JZUnQ1MFczcVYwVWt3Z0RFU2VlaFFpMkM0RnY5MTlDazB2bGJjc2hxYl9kaTNJclFaajVkc2Rxa3VKQXNpQWd6Nko4d21ldWhkVjloYkxQSVRTWDQ4b1h0OWQyUzhFZ0VudGw3M0V2bC04bUQyT3FGWmRLQnIyWlhFUkwwWFlHQjFLeFctT2doVTdQWWlqLXRkSy1kcXNyU0tGTFprMHFld2ctbkNRM0VVdmRzWlVHd0NEY05wMnFVekNTeWxveVZIQQ?oc=5",
       "pubDate": "Thu, 24 Sep 2026 10:00:44 GMT",
-      "description": "Ineficiencia de la Dirección de Primarias provocó batalla campal de padres de familia en Tepeaca La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "Ineficiencia de la Dirección de Primarias provocó batalla campal de padres de familia en Tepeaca lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -180,16 +200,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZUlqeDk4RGNJWGREWDlab1JrOGQzd2lZdzNrWlVpYmlrR0xzUWI5NnpEVWNGdzJJYXF0clZZNS1pYkxwYkFsUWJYYVViV1pWcnlzNGhLSTRabUk2anlaTXpRazhESEtvQXl3X2hfeEx3VnZhZFZOc0RKWDFGZ2lCelhxUnBGWE5lS2VnZlFpbl9kaVo0Z0ktSS1GVWI4aU5XOTd1dlYzb1l5VzJkeHRULTZaQXp0c1NOakRLS1NWX3pGV0ZydnVrZG5MYkVJQm1ZS05qVmZqUFJDMHI0X2RZcw?oc=5",
       "pubDate": "Thu, 24 Sep 2026 01:47:40 GMT",
       "description": "Trasciende que el Congreso busca reforma para que una mujer llegue a la gubernatura de Puebla en el 2030 Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Yankuilotl también desarrollará bicicletas eléctricas semiasistidas",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOFNkRnlibHUyOW1lY1BmUEtaVFZLQU1iekJWMmdNT0FSWXVLZEpsUnNENDFzdkZ2aW9BNkppSFZoMUs4dkR6dHNzS084X1pFVk42emZEY3RONW1LNWJ2aF8wQTdERm5uVlUtVzcxNF9lMm12UW1zaGxnNUtYWThmLXA1RlV3ZnRCWlRhZzNSalg4cGFTU2VvdmpHa3J6aU9oaW9zRmI0aFJSZjgy?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 00:40:36 GMT",
-      "description": "Yankuilotl también desarrollará bicicletas eléctricas semiasistidas Ambas Manos",
       "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
@@ -246,16 +256,6 @@
       "group": "local"
     },
     {
-      "title": "Hidalgo será sede de la Olimpiada Nacional 2027 tras 20 años de espera",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHlyZG9JSGI4dzdkWGFNUVZIN2xWWEtuMU9kdV9XSVNGTHNlMnRyZkktQmxxVGNIRnFNTG9SMS1wcnNCWFBIdHJJdUZLWTk2MElONmdydHVYQlpYaWt6eThLY1JuSExUU1FIRjdMV295MU5MNEZScGxHYmNrUkhPZU9DVElVblFrUnRwR0RXNE1MYlB3d09iVmdpa0ZjUDE3elFOZUl1QzNXaWJKdG1FMnBoYk9NZDUyX3pzZ05kUQ?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 22:17:37 GMT",
-      "description": "Hidalgo será sede de la Olimpiada Nacional 2027 tras 20 años de espera Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "“Son unos pinches corruptos”: conductora de Televisa acusa a Tránsito de pedirle 7 mil pesos en Puebla (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQXzZTM09meWg1a0cwNllqSUVPZXVWRl9FNy1GN08xRkJoUmZZNVUyenUzTUY3QUlLLWxKeGJyckh4SGJOVEhTSDcyZm5rRW8wUXY1aExGa05uS2tlNWIxaDUzSFNwRWhLenNDcVJTYlg1RGlnOTFSQjFLWnh0VXAyRWNkZWlEeFp4R0t4YUJmTDdBRnNmS1hwZTVTTnB6WHVyVUIwclJZcFdIaDNvelJScDdmRTdwOWRVbkE1ZTlwYWxuN2x6UVZSNlA4cVlJbGFnVzNzOEROZC1Pd0JPeFc5c0JpS1hXVmRK?oc=5",
       "pubDate": "Wed, 23 Sep 2026 22:17:04 GMT",
@@ -266,10 +266,10 @@
       "group": "estatal"
     },
     {
-      "title": "Hidalgo desacelera su crecimiento demográfico en los últimos cinco años, revela Inegi",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZVRmMmZhaHdnVnJWLUVnRkZFWUZWRkY2bFB1emljeUNoZFpPdEZmUVIyT2swZlhsOWR3M3FuQXpxWU9lOGtkcjFFQTd1Sy1iaGZOaWRSbDlCLXA0cVBRa2V2bTY1U3BpblRYREJ6V3JJTkU1YUR1UEVkbnhjeklsVFlYMlEyeHdCbXF2SUItVUlGenBqU2x0aHNPekc3MllrY2ljVzlfXzhsbFl1Mm9zdV9KT1NXbVdnMmJfUHFRR0VtQ1k?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 20:40:40 GMT",
-      "description": "Hidalgo desacelera su crecimiento demográfico en los últimos cinco años, revela Inegi Periódico Central",
+      "title": "Activistas de Puebla exigen cancelar “puerco encebado” en Tehuacán y Palmar de Bravo por maltrato animal",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcWVGT3BpeGFQeXB0RXpfS25UZ1UwMWxyQ01wVlEzOW9pYTRLVkJJSDlRbmotMzdCLXJaQl9oZHZwMHRRSU5tZFA5TDBIeExKRFBidThEQklqelpCSko2aUkwY1Z6Wl80NFYxbmdmUVlkbFlVVWNDc0VXWXRBVHQwMkdRaWJvRERzaHhYaXdJQzlXUGZxMzl0anpkY2lpczQtSVY1dDJyd2Eza1JFeENLWGVBZWQxUnFuRXRyRkw3WTVjSVJWbFJoLWZGZ1FJTmZ0SFlCUGtSNktiVzExeWNydXN6X3BoTnJhY3dlXw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 20:58:21 GMT",
+      "description": "Activistas de Puebla exigen cancelar “puerco encebado” en Tehuacán y Palmar de Bravo por maltrato animal Periódico Central",
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
@@ -366,6 +366,16 @@
       "group": "estatal"
     },
     {
+      "title": "San Miguel Xoxtla anuncia la Feria de la Chamarra 2026 -",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ3JwUzRFdG9RV3VWSVJocGQ3d3k4TXJmUzBRQ2plaUVRYnZqdFcxUnRqMUt0S0NydzJuc3ZndGF2Z0hHVHZPLUdsQTdqRVBWV01HYl94ejJOOGwxYkxmSTZ6V1h5OUFaWmJuZ19vQlNOVzh6dVNSN041ZGhBc05NclN0LTVjdzVGYnZTWkduazBybFZidjljSzFWbFZicHN4cUE?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 04:48:41 GMT",
+      "description": "San Miguel Xoxtla anuncia la Feria de la Chamarra 2026 - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
       "title": "Cerros de Chapulco convertidos en basurero cl@nd€stino, retiran 180 costales de d€s€ch0s",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HNWIwb1ZscElsTy1KZ0tsMGFDRVo0MXBDZ1BjRTA2WURKUFFyTV9tS3ZTa25MQTgxRkE5TXVrZzNfLTF6eWNDQTVOWGJPQTY1ZGl2bHV1eU4?oc=5",
       "pubDate": "Wed, 23 Sep 2026 04:35:10 GMT",
@@ -374,6 +384,16 @@
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
       "group": "local"
+    },
+    {
+      "title": "Tlaltenango: ¿Qué puedes conocer en este lugar, aparte de la Feria del Elote y el Esquite?",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRzhwY1ltUTdlSnVPcU53T2E4cXFYZkJWcllCbFlmSEk2VjRJN3haWm1MNFUtcTFINTBWdE5tUzB5UVJ0d2tlM285bE1zQUxMSjd1dFM4U3JUT3l4d0VqYi1DM1h4dF9kNHhicTNDLTBZM3pKLW9EZG9FUFZLOFZUbmh3OWw1cWpkTlA0UDNOY204QkQtMkFpVHZfdHlpSlFTa2xrcnFRUlJpM2hmLVBiSGloWkRJTG8yWXF6c1FtN01pSXNwaksta0NVMXBpLTlHRmc?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 04:09:41 GMT",
+      "description": "Tlaltenango: ¿Qué puedes conocer en este lugar, aparte de la Feria del Elote y el Esquite? El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
     },
     {
       "title": "¿Y si el PT rompe con Morena en Puebla?",
@@ -416,26 +436,6 @@
       "group": "local"
     },
     {
-      "title": "Desplazamiento forzado en Puebla afecta a 21 mil hogares en cinco años: Inegi",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelNUeTV0SzdIRzluWlJJeC1UN0hRclhrWXFmYUw1RzdscWlFbzk5V0s1d3RDdGJlMV9sRGF3MWU1YkJjOU5YUVFwTklCWm9BMEFvckw3d2tDNFFNRWhCWkhuSnVRcjJvMFdXVnZoeGdPSkxXR2Z6SXNZOVdwWFV1cWc1MmU3bzgxRDhTLXk0QUpwWXR2Qy1EVDdVZGRCeEdfOWlTSzRrYjlkWTltcGhXSjljSHNMVlRRQTJTSTJSZWVCRWZSb2NKYkZLWXJkWkM3?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 22:45:18 GMT",
-      "description": "Desplazamiento forzado en Puebla afecta a 21 mil hogares en cinco años: Inegi El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Adolescente fue reclutado por delincuencia organizada a través de TikTok; FGEO lo rescata en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOME5oZFAzTERiVm0xdk9WOU5HcExibEduWUp0ZkJqTGJDWW5oeU1xa1laUVBUM2o3dzBTbTd0X3k1ZFFiUjJiV1o0NXVjT0RrSGVNY1RhcTF3WmZuRFliZ2hqS1JwZlY4a25WTDU5LWJ3dFVvWmdMcDg5dXpLbG5Wdzd1cU0yNGhJZ3drclVPX1l6VWtfS3BySXNtbkhzN3JVc0pUTTUxczFJWE1rSWJIaWlLdW1DOFphaThLd0thejF5MnlnSHRkYdIBzgFBVV95cUxQOFhoY3BfcmZDS193RFZ2bHhvNHlLRnB3NGFUZDJyTDNNVERfS2daTlZqZGlUMkJYYU5aQk1JZHY2eUxZWFlNODRPczYtZmxMcURjaUk5ZzB3a21lb0Y5bFY1cFVVZ1d5clFqZjhfSHNmdHZ6YlY1VkRJeTBWV0k2djBRNU0zbndaXzRqamtVQ0xRVzJ3U25wVXJrZXVIRzAzUUYxby1kM1ZNdXM4ZndIbDRYOG9OOVpsQWloZElRYS05NnFSTEJPc0J3Zmhqdw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 21:34:48 GMT",
-      "description": "Adolescente fue reclutado por delincuencia organizada a través de TikTok; FGEO lo rescata en Jalisco noticiastehuacan.com",
-      "source": "noticiastehuacan.com",
-      "outlet": "Noticias Tehuacán",
-      "domain": "noticiastehuacan.com",
-      "group": "local"
-    },
-    {
       "title": "Jazmín N., adolescente de 15 años reportada desaparecida, fue localizada sin vida en Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUlFJNS16UjBjWFhicUFLT05OUE9ValRmclo5cnRDUnl5dzRENFlIRFBOa0VVd0R3RDNtM3drTm81QVZnN2gyR1BZQkdFVUZ0b2Rjd0w3NWtvckNxcWJWV1pwc1U1ZTNQalJQVDZZV050elhZZ21oNmpWamZzRk1Xem4tUXdsem50dmgwRjA1MkZORG1ZbHBiQ2dEcXBZX3pEdkFEUEZlVWZlUldQbzNmN0xyZDR4OU5BY0R4c9IBwgFBVV95cUxNYkg1TVhrT2piWFVGVFZVcl81VGwzTDl6UDM3Z2kzTUJ3RFZJYVZ6c1d5LU8xX1dBYWxXQUxHM3I1cDdRNHFtaW9SLWhNMzVYZnlfVzlDU3V5NHZpQjQydWxMajlWeEZ6aXppLXVDaW4wbkNwTzQ2bjRyRGNRbXdOckJzZjhaM21sSnZ4RVItQThURlVDNFBSeUU5Z0tiSm83aF9DLVc5ZnJ1ejcwTENTcGxDQ0pXejFOUXBETjhtenhhUQ?oc=5",
       "pubDate": "Tue, 22 Sep 2026 21:30:37 GMT",
@@ -466,10 +466,10 @@
       "group": "estatal"
     },
     {
-      "title": "¿Adiós a la \"Ley Casco\" en Puebla? Diputada priista presenta iniciativa para derogarla en el Congreso local",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXRtNzJJV01tSjVZdmRDTzlPQVFuUWFNbnFaOFhIc2F3WnRla0JUVXdZdUZfNmhQVFFFN1VMTFlRbGJfMFhYNzg1YkVuYWI5dzBaNWctbkxhRHFDdnVoaDl5WDU3ZGQwb3pLbFhvdE5ka01SNDhKc2V6YWs3d0JzWFZVbEVQeVotbkxZSkhwdHVwU0JpRFNBV3duYWpLUnEyV2otdU12MXgyb013VU4wWGhEbC1kTzdSY1gwWHRpbVVjc0Q2UmlGWTFjeU9PUQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 19:13:46 GMT",
-      "description": "¿Adiós a la \"Ley Casco\" en Puebla? Diputada priista presenta iniciativa para derogarla en el Congreso local Periódico Central",
+      "title": "Protección Sanitaria detecta anomalías en 102 establecimientos médicos de Puebla; clínicas, hospitales y farmacias involucrados",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQenoxbXVfMHBQRzRxLUpUbGpiLVJibVRNcENJaFB0MWdONUFESllpVjVOZVQ1dm5BWlloZWpLTlVRZVVuRUFZMkVyOU84X2RETXNJZDAtaWhQLTItUGNXLVpodzNGdmYwSGNyRmkzUy1qMGVrZGhNZENfMU5VTUdsOU5pTGJPcUNrb1NGQmxHWEpVcmtUY2pQWVBka0JPSUFTV3c0TE9CYXhqYVVHOHVJOHMxZjlNWUtRSGpjc2UyaUJHSGtEYUpoXzljUUVyUjdXUFJEOEVjUG50N2JpVWh4bTNOOEgtX0g4Y3V0TE5MQ2JnRmY0YjJNSDZlaFp0NHNVSXc?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:42:50 GMT",
+      "description": "Protección Sanitaria detecta anomalías en 102 establecimientos médicos de Puebla; clínicas, hospitales y farmacias involucrados Periódico Central",
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
@@ -479,8 +479,8 @@
       "title": "Denuncian fraude por 300 millones de pesos en Puebla; víctimas fueron captadas en escuelas",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaHlMSHZYLVFNR0FJd09Fa3lJWVBJeGNRNUJpR3ZZa3MtRExZbFIxZlRXME15V2RGMHY3anc3aDVIbTk1QUhGMENQbHUzRUxlYkw1clhLMWRQVzBLOWU1MHdwSk1HZkxINjlQOHRRX1Q4RU1ZelFNSnRwa29jOEFtcGlVa0FBWTZENTNaLUs5b2NVaDZ1UWtxY3VUZGVsM0RsTWpmbWtBLWdVMUUyY3dHeVB6U25FX3lheWlhemg0WTZhanJKRTB4Wno1LWc2eE56aFE?oc=5",
       "pubDate": "Tue, 22 Sep 2026 10:10:59 GMT",
-      "description": "Denuncian fraude por 300 millones de pesos en Puebla; víctimas fueron captadas en escuelas La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "Denuncian fraude por 300 millones de pesos en Puebla; víctimas fueron captadas en escuelas lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -490,6 +490,16 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ3dudjF2NzM0aXAwam5rbmtzcE9TUjhHNkRJZWVqYThiS0ZWXzBWQkNzSThyeWgyaUNvZ3dEQWRwTnZLcGdfOXE2MXRrT0x6Skxmem93XzcwWGpPTDcyWWwyUEUwb0hnekkyaVQxV0hyN0huQjRUOUhMcEVyaUtxWDQ4NjFxYVlkc2lkXzNYUF9ESVNSZFgyNWxkdVVBaVFSSm1abHBJYXhkZmVOSzhGQk5scWd4a1FBRjRUTXZMNVY?oc=5",
       "pubDate": "Tue, 22 Sep 2026 04:36:57 GMT",
       "description": "Retoman SITIAVW y Volkswagen negociación salarial en la Ciudad de México El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Flores amarillas benefician a floristas poblanos con rerpunte de 80% en ventas",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSW05SVJNc3JYSzdreW85VTg2a2hCQ0NJaTFzTjdzc1FDenFKRDlURzBQdkxQajQ5Uy1kNU91dUZKSkNpNDJ2eDVLdXNpZlk5bV82ZmNBUHg5d1F5SlF3UnVzMWx6clpoTmJGQjN5M2hOOWpBOTRhVi12Q0pnblJfcG9JZWRoVzl5Y1QyMUY5eXUwUDVsck5oQW83NFB1MDR3T1dMSGNjdkxpdGJnVzV0eHE3anI4YUc2RzA2ejBIalI0UTg?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 03:08:56 GMT",
+      "description": "Flores amarillas benefician a floristas poblanos con rerpunte de 80% en ventas El Sol de México",
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
@@ -529,8 +539,8 @@
       "title": "Estruendo que sacudió a Tehuacán y la región, fue causado por nave de la Fuerza Aérea Mexicana",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcmVyUkVURVlpcWk0MEVMZHlnbE9JNVZKMUFHZGk4VmlrTFdLZkFWNUpOdlVxczI1b2tBQmQyRE9hdDYzeXdQWEtCWEY0d0FmcDg4UmNkWTQyMHZlOXB6Vm5BQ2V6ZE5LNkFMSWdJSlJ0eHY0QTFfaHRnZlUxVHpwZUltNllYT2hfcE5TSzBqTWpGeF9JMHZaTmU0Q092NDVTdmNyRU1kR01hREQtNGttd1F4dw?oc=5",
       "pubDate": "Mon, 21 Sep 2026 19:40:27 GMT",
-      "description": "Estruendo que sacudió a Tehuacán y la región, fue causado por nave de la Fuerza Aérea Mexicana La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "Estruendo que sacudió a Tehuacán y la región, fue causado por nave de la Fuerza Aérea Mexicana lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -589,8 +599,8 @@
       "title": "Confirman en la FGE que cadáver hallado en Nicolás Bravo es del hijo del edil de Tecamachalco",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelJMcnB0SjZNTEF2Q3RQSDhDWE1pdnFFN1lFZVdYTFpic1hTXzl1b0hoQmZSRzFIQmNzYVdZeDJ1WS1iS2RWLVByb3I5Tl8wak1LLVcxU0ozcE1Pd2UwamhsYXVSbWpHUWNpVUtTSFROQ2kySWhTdHZFRGZEcGZheWdqTVg0VTlCZXN6a1pQVDdoLURCblJ2SXJ3RXdWZDlWZGpHNmhKSXF3Vk9JLWZVVUhHMEo2cDVjNlJtck1kYXBNNDd1SFhLUjhmNmxIcnJWdFRHOXZn?oc=5",
       "pubDate": "Sat, 19 Sep 2026 07:00:00 GMT",
-      "description": "Confirman en la FGE que cadáver hallado en Nicolás Bravo es del hijo del edil de Tecamachalco La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "Confirman en la FGE que cadáver hallado en Nicolás Bravo es del hijo del edil de Tecamachalco lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -729,8 +739,8 @@
       "title": "La Jornada de Oriente - Puebla",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZHhfck41UWxfLWVldTdVRFhvc0ZOZWZQMElqSWIzaUNKLVUwU1F3RlVKZTVkWklzeDR4SFZsa0ZvXzdkU3JVYXZFbmNjUVE?oc=5",
       "pubDate": "Fri, 11 Oct 2019 20:52:50 GMT",
-      "description": "La Jornada de Oriente - Puebla La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "La Jornada de Oriente - Puebla lajornadadeoriente.com.mx",
+      "source": "lajornadadeoriente.com.mx",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -750,16 +760,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PRTFzZ0dvRi10OG43dzRhQkZMQ2QtRDRxSDdZMW1PYmxsQld0ZGR5cm1Pakk5cGU0VXNvWmF0VEZSeFU2YUFBblowelE2b0RlMml0dzlkQVl3OFJrS2RucnFrXzJjRmVlM216WmtYOTZZRVI5aWFpag?oc=5",
       "pubDate": "Sun, 14 Apr 2019 07:00:00 GMT",
       "description": "Días de la Semana Santa - diarioelunodetehuacan.com",
-      "source": "diarioelunodetehuacan.com",
-      "outlet": "El Uno",
-      "domain": "diarioelunodetehuacan.com",
-      "group": "local"
-    },
-    {
-      "title": "Cinturón de Fuego, zona de sismos y volcanes -",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTF6VG5hWTJGMUVvX0QzMTlCQlVnYnFmNkdvZG5yZjNvbFJPanlQTDFKYWVad0N1QnZCS0NabDNTZUZldnNMeGhVR19MR3NCVW5VSzEtS2xUZUNCbnkxLUZxSzloZXN6VVpyMVJVYTh1NENaRzJ2OTBmZy16bjZXTmdnWTA5bDBvcURYZkJuVjhlSmVQQ2c?oc=5",
-      "pubDate": "Thu, 11 Apr 2019 07:00:00 GMT",
-      "description": "Cinturón de Fuego, zona de sismos y volcanes - diarioelunodetehuacan.com",
       "source": "diarioelunodetehuacan.com",
       "outlet": "El Uno",
       "domain": "diarioelunodetehuacan.com",
