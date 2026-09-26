@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T02:13:53.643Z",
+  "updatedAt": "2026-09-26T08:02:54.373Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,51 @@
   ],
   "items": [
     {
+      "title": "El “Autobús de los Sueños” lleva juegos y esperanza a los niños de Gaza marcados por la guerra",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS3JxdXYxYUd4QjlTT1pScVhSR2FaYkpBSlU5WDRfeGMwRU9NaEI0N3FKTk1kMVNBMUliZlctQzkxcFVVSDQtMUZfM2JXNkp2TEhqb1hYTkNaeUgzOUdIVmxOWjV5SE5wRE5oaE1walRfLUZIYmNmLU5uZVRfRkpFZ05lWEZreXM?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 03:12:21 GMT",
+      "description": "El “Autobús de los Sueños” lleva juegos y esperanza a los niños de Gaza marcados por la guerra CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuY0dHX0I3LW82cGFpQzRZb0dnd2dVNFJjMjlueTRoZENoRHhxci0zZXYtZm05eF9oa2FWMWE3TGhSMVI1YXRjQzJocUtObXIzYjM2dG9LWGo2SlRq?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 02:30:32 GMT",
+      "description": "Irán ofrece a EE.UU. un acuerdo para reabrir el estrecho de Ormuz en 7 días BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "De la promesa de Delcy Rodríguez a las tensiones con Trump: los hitos para América Latina en la Asamblea General de la ONU",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeXduR212WDBncXB1R3BneEhHUWNZWFVGNU03ZzFtcTdPNmt0SGRtRlJuMmJkSWpsSk12QUU0SWNzWUwwN3pXQzVVUXlCOUNac1lYTTZCQWVIbkljODFneFkxV2tqZkd4OHBQS0oyUWZYbDNfUnl1S20tR3BsXzcxaG5KcTI5NnlTVG9hSFkwV2RHR040ZGJmQ0RKc3c5b3lwQXNfekVTbjlwUE5KblQ0Sw?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 00:05:00 GMT",
+      "description": "De la promesa de Delcy Rodríguez a las tensiones con Trump: los hitos para América Latina en la Asamblea General de la ONU CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "¿Qué es el kratom, la \"heroína de las gasolineras\" que causa alarma entre las autoridades en EE.UU.?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VeXBSdkVtbHRjSE1tTzM2UTNKMC1DdHVHOFlvY0pLYUtuYXpOeDBaMHROYTBSTnZBZGxWZW56NmFZZFhFalVjTW95NkJObWRnVlRkWWswR0dhVmIz?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 23:16:54 GMT",
+      "description": "¿Qué es el kratom, la \"heroína de las gasolineras\" que causa alarma entre las autoridades en EE.UU.? BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Venezuela's promised elections face long delays, sources say",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkRwTTlfWE50T0VGMVkzczI1U25HVGwzY3hYdDFROHFNQ0U3ZlY1cUJSeGNaZ3hNQzRCa0h5R3l3TFR1TkVkN2dGcldUblV4MU14b1k5N05WakU4RWZRNm8yNUFENENoTkFmN3JQOElLdmdvbTdqVVROYkNzd1J0aU9ieThra1ljUWpFcjFwX25pWFRwanVkM01qQk5DSDBlcTFPa1dLMGZhOFUxNUE?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 22:42:03 GMT",
+      "description": "Venezuela's promised elections face long delays, sources say Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Presidenta de Costa Rica destituye a su canciller por no informarle de una reunión con Trump",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEg2VjdNVVpMVmN2VmZHdkpuYTJUUk5WTGJmUk5PSTNva1Mta3UzVWx2czR0SDVhM1VvQUQ4WG5ySmdtVmZyS2d6VENQUXNneERNdjdfUzlnNmM5Tk9mYXZDaGRWbDBVRTN2TVlYWFZmN3VFZzhhb2FmYlpMRnlvREJELVExakVXb3lTbTRpTWlmLTRHNzBkMFljZUpvcm53RXdqdFZZRUxGWGx6cjBEMmpVdnRObmM4clpzTlBOWTFwZ0JWYzdJ?oc=5",
       "pubDate": "Fri, 25 Sep 2026 21:13:00 GMT",
@@ -100,15 +145,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "De esconderse en refugios antiaéreos a visitar Nueva York: los líderes de Irán aprovechan la oportunidad",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdHVYZG9qVFBRVlVZeWlMTWQxOXRabXlJUGl0Z2hqUVJMR3BTazBiaGxseDdRRHhPTVRCQkhxQ09CRWc1TEt0a2hZaXJ0cVlCU29ZdGlxU090QnFSQktMdnlPODdSUW5oSVE1YkliRkc5elBlak5wdlpFZDhpTXZ1bTI5dGNxZ0ZFa3FJ?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 19:46:00 GMT",
-      "description": "De esconderse en refugios antiaéreos a visitar Nueva York: los líderes de Irán aprovechan la oportunidad CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Una jueza ordena excarcelar al exgobernador Ruffo y le da arresto domiciliario en el caso por huachicol fiscal",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPb2gxakpKV19SS1Q4dE9DU0p6TGdPSFM4NzNFSkZTYnh0MUdrMENCWHN2ME5TVTdYSk1JWTl0ZmE4S1VGbUJFSzBfVkNqZkV1MVBHVW1EWFVHcTdlNmNFUEVWUjBKMWQ2Tm5lVjAyeEJ4RjJYTXJVc29lVFp0TGlJYjZJcU16eFV6QXM1WjVaVDJlWHFuX3lpRjNaSDl6SmM3UExuUlRaWHNnX3BlLUdLTTUwbHJ4MkV0bmdxRHo4cUxtM2RXQ2pwQ0xGSHpzQnp6OHB1SkpYMUFNN3FncDRDTG1qOXZkUVnSAfsBQVVfeXFMT0EzZDRaRlA4bWRZeFk4bDIydk1nUFE2QlBXUWdwdEpnQTdzSEdKU2JkaGl5OUlXeHVUeDdxWXBFVFpQMkhQdkZjSERfekdmUndNTWo2QndZd09oVU94SzctRGtRTmRmUWhQWEIyY04wYWxycXNwUUN3U081cVF4c0xoMDlORnk5QzFocGRoUzV5NDI3Z2VaV3lvTkF6QjhNaTNxOXZIRjloS3lvVDVXMXRYTTVFdjBCVTE2RTVGU1R3cFB3bUJ2aXdQbmRKRjR6WFNyQXhpZWV4ekJQTXBvQlcwNGVwRlVuMGNIQ3o4VnNRTTdsVFhDTjV2STQ?oc=5",
       "pubDate": "Fri, 25 Sep 2026 19:44:50 GMT",
@@ -116,6 +152,15 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Inglaterra: Thomas Tuchel dice que Cole Palmer \"se pierde demasiadas concentraciones\"",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSlQtblZKZXJyNnhzZkxVMmp4a0JjcDBzQUZXTS1Ib0V1QXpMNU4tcnBibDhrekJYSnNOaVlnalpfejlpRjZlS1dyQTFUUlJjc2tHMEJmZzJvQ0FFR09VamdZQ3czQ0ZEUXVEQUJTZHpYRFVaOTNzTEFjTXByOXZ3VUlZU1VJdm4zd1duRGlyRVhCSzJLcE1kRGdsaGFtajF2UTFzNlNpc1F4U3c?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 19:12:00 GMT",
+      "description": "Inglaterra: Thomas Tuchel dice que Cole Palmer \"se pierde demasiadas concentraciones\" AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "\"Atrapar a un depredador\": el controvertido programa que exponía a pedófilos en TV y que inspira una nueva película con Robert Pattinson",
@@ -138,7 +183,7 @@
     {
       "title": "Sudamérica: un posible \"laboratorio de pruebas\" para la IA",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYUpVQk9PQTRFaTY2QXRjRTE4TDA3ekx2Sk1Xd2ZoSW5ESzNsblg5UFhvRzRsNGdBYmc4ajNQQ0NvTjd0dmN4a3FLZkxEQ0Uxa2xHVTRpQ2Mwd1dyLUkwcmlMSUNFUi1rcGFPQ2Fmcy1ldnRUNG02SHJlMmgxdDh1d2MzZDUwbnI0dVZfbVR2akFQNWxoUmNpadIBmAFBVV95cUxPZDVvbmYtQ1dKRHhuMXVUX0g3SHFGLS0zRHFKZ3k5MEFvQUdtODJIRmpKaUdBX2JzejQ3M05rek9WelVOQVJQTGs0QVhQSk5IcWFabHdFZDRxa1JVRVpTYUpEU19JRHVWM3lnZmZIUVpOaC1RcVoyZHZiLWR1bjZvZS1SbmJDak1EeDdZb1dpbWRiRDZWaHhxTw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 18:36:06 GMT",
+      "pubDate": "Fri, 25 Sep 2026 18:39:58 GMT",
       "description": "Sudamérica: un posible \"laboratorio de pruebas\" para la IA DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -172,6 +217,15 @@
       "domain": "elpais.com"
     },
     {
+      "title": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\"",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzh3QUFiV3NCckZETzFUMzVhYkpNcWFSQ0pLTjhETTI3NEtseXVuM2NUMUhUX2QtWWpncXo3am1lSzNRdkdFTF9WaV9IX0d3Q2I2WUJnWm9pLTAwUVJWVzVTT3dyWWJHODRTZEU0b0pCaWRRanBNSmhRSUtRajl0SHVqRm96VVJsVmhrMXRlSTBDY3ZoSDdOc0JKUEhSaElXVzhRNWNTWUTSAagBQVVfeXFMT2ZYQVBQRXZVUFJvcjh4aTNrMjFYckdPQlEwV3czaXk5anNGRnQ2UXE5TW1rZE9Vbnh5cGZ2dnJyLXYzMkY2ZUJXQ0I3azdoN245WFJ2bUVyZDIwb3VieUxHWjhnT1FrMm9CWjNpQXAwU04zcFZyOFBybW00NUZDeVRIek1EQzk5dE12dkJWZXFqNkNYcWt1UTVseDF2ZGVlb0VlRDBuMWJH?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:55:29 GMT",
+      "description": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\" DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "El momento en que Susan Sarandon y Hannah Einbinder son detenidas frente a la ONU durante una protesta",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUFTZkJpVzJBaHVzV20xSWRsTW9tUU9HNUUzYjZqbGZnNTgtX3d6c1M5amN3THhvZ3dqNzNDeEZTencwdUlpeXVUa0M5bHJFQWtwTUdlXzVIc2FRZEJNUFI5am1mdldfcmlsNGFTVzhDc3BSSjJpTjZ1OEMzX3hqc2FkaS0tbFRSTHIza3NFTTI1dDk1c2E5YnUxaXMwWFhkSW5iMGpZUEVydEhfcmc?oc=5",
       "pubDate": "Fri, 25 Sep 2026 13:21:39 GMT",
@@ -181,13 +235,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\"",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzh3QUFiV3NCckZETzFUMzVhYkpNcWFSQ0pLTjhETTI3NEtseXVuM2NUMUhUX2QtWWpncXo3am1lSzNRdkdFTF9WaV9IX0d3Q2I2WUJnWm9pLTAwUVJWVzVTT3dyWWJHODRTZEU0b0pCaWRRanBNSmhRSUtRajl0SHVqRm96VVJsVmhrMXRlSTBDY3ZoSDdOc0JKUEhSaElXVzhRNWNTWUTSAagBQVVfeXFMT2ZYQVBQRXZVUFJvcjh4aTNrMjFYckdPQlEwV3czaXk5anNGRnQ2UXE5TW1rZE9Vbnh5cGZ2dnJyLXYzMkY2ZUJXQ0I3azdoN245WFJ2bUVyZDIwb3VieUxHWjhnT1FrMm9CWjNpQXAwU04zcFZyOFBybW00NUZDeVRIek1EQzk5dE12dkJWZXFqNkNYcWt1UTVseDF2ZGVlb0VlRDBuMWJH?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 12:07:11 GMT",
-      "description": "León XIV en Francia: \"La de Ceuta es una verdadera crisis humanitaria\" DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "La policía de Nueva York arresta a las actrices Susan Sarandon y Hannah Einbinder en una protesta contra Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTExuUllNYTl5V1JScE83cmxmRjAwZzR6RVFrQldWeDFPRGpjZjBHaXEyMVh1TGZDTE5uUE1LWTNENmp6cEJCWEtzMlNBTXJIQkpXY0o5ZnNSUjB2ajN1T2ZMb3BpandfaVpRdkVFSENTOTROWEFpT2hWOFhlbFJpTUpPRklxUEJGeEYtSVktUU1RbjZPTFBtYndGdl93UjI1NC02ZXRzYnNSeE93dlVKWVF6RVNHd2pfT3kzQlVXcGdlTk92aFJzVU9XVE5BVWNx0gHkAUFVX3lxTE1CRW9Gc0EydGlhT1E5cXRWaVkyZEtUWEIzRDZQNkJGb0hOT3dORHZJOHFFeUx4VTVUTDlXbE84X3MxVjltRHRPSFJUQ25lLV9wclhWd0VXcHI0VW84S0FhRXhQQ1BiTU1paXBSMDl3bExORzJJUkJRN1NBS282UkNQU2d6cnp2d0ZOZVZGcHNLc2JhQVBUNFZEMjJFQWtBczF6MGIzR0NqUHhiWkZSSFJOQll1LXJjajQ2LWhRbmtSUXR3OG83b2RjaHVsSjVlVUVPRGhLbVE1X3YtT3Q1cVlSSmJ1UA?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:04:42 GMT",
+      "description": "La policía de Nueva York arresta a las actrices Susan Sarandon y Hannah Einbinder en una protesta contra Netanyahu EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "🔴 En directo: el papa León XIV llega al Stade de France para una vigilia con los jóvenes",
@@ -199,6 +253,15 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "Volkswagen y Audi piden retirar 2,16 millones de autos en el mundo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFAxaWR4WFQ5ODI4Zm1UVGZQVzBONU1hdlNsY2JtbjhDakRuajVVbUk1Y2Iwc2ZyQVJqZUo1WjBfNldVM0poLWJleHVUU2toQXc4Umk2OFlVYjUwem4xdlhUd3BBaHNGRF9CWmhnVmdiRmU3LW9vM2doTmxVUHNWbWhWak13aW9FUFVhclg0dUgzZFdfb2dMVkJMWGRFRzjSAZ8BQVVfeXFMTTRUc3J1TnJBbHJGX0pZTVJCSWRFT29DVXBqUldlSzBQSXBNRm9zRkNZZjhqUVBrYzBaamRwUXVaVlpQVlFtWmQ2TzdMN3pwNnRyRkNvSkxfMGctQzkxaWVCd295bGNmN3FJdjJDLXR6RExrbTZmODNyeGpXTF9LTzNDdzFHU19wNUpMOER2QmhVZF9ZYTAzYW85Nm9ncllR?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 11:43:49 GMT",
+      "description": "Volkswagen y Audi piden retirar 2,16 millones de autos en el mundo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DVklQWVVlTlJtdWdVQVZLR0kyaHRUY0JpRjY5eUszZmZsUDhJdkI0ZHpISC1ieHdlSnV5MTVQRXdHSDRkenZmdlAzUUllQ2xFTnRWZ0hsbWZmSVJV?oc=5",
       "pubDate": "Fri, 25 Sep 2026 11:31:27 GMT",
@@ -208,10 +271,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Volkswagen y Audi piden retirar 2,16 millones de autos en el mundo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFAxaWR4WFQ5ODI4Zm1UVGZQVzBONU1hdlNsY2JtbjhDakRuajVVbUk1Y2Iwc2ZyQVJqZUo1WjBfNldVM0poLWJleHVUU2toQXc4Umk2OFlVYjUwem4xdlhUd3BBaHNGRF9CWmhnVmdiRmU3LW9vM2doTmxVUHNWbWhWak13aW9FUFVhclg0dUgzZFdfb2dMVkJMWGRFRzjSAZ8BQVVfeXFMTTRUc3J1TnJBbHJGX0pZTVJCSWRFT29DVXBqUldlSzBQSXBNRm9zRkNZZjhqUVBrYzBaamRwUXVaVlpQVlFtWmQ2TzdMN3pwNnRyRkNvSkxfMGctQzkxaWVCd295bGNmN3FJdjJDLXR6RExrbTZmODNyeGpXTF9LTzNDdzFHU19wNUpMOER2QmhVZF9ZYTAzYW85Nm9ncllR?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 11:18:35 GMT",
-      "description": "Volkswagen y Audi piden retirar 2,16 millones de autos en el mundo DW.com",
+      "title": "Corea del Sur acusa a Zelenski de romper confidencialidad",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZfU29EQzNxTlRpQUE2YklSaC1Ec2NORGlQb0tHeXVWSVQ3TmZDd09RS3R4aDF5TUVLTzBXT0NkSXk2SG1ZZXoyOGl6eU5ka0dVekR2c1Rnc1ZaampwZGtQalpGWExfMjltY1Z4VmgwQ2o0d0FieE12bXJINWx4MGt5QndLaWIyQnY3MnNxVzJKQUZw0gGUAUFVX3lxTE1jVFBjMVRrZ19MWkJxcmw4RndDSGZsajA2U3N3SThTVkxycV9DUURORkRRblZNTFpRYVFjNW9MUEQ4QVd1Uzh6YmNSZnQ3elM2WkxyRnZWVG9yYWxfeUlmTmhlTzNmMllYZDBIaV9aYkQ1bGFoNkVRLTRuOVhacEJtcnBvWHczX2FTRzBwTDlJZktsR3M?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 09:56:06 GMT",
+      "description": "Corea del Sur acusa a Zelenski de romper confidencialidad DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -235,28 +298,10 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Corea del Sur acusa a Zelenski de romper confidencialidad",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZfU29EQzNxTlRpQUE2YklSaC1Ec2NORGlQb0tHeXVWSVQ3TmZDd09RS3R4aDF5TUVLTzBXT0NkSXk2SG1ZZXoyOGl6eU5ka0dVekR2c1Rnc1ZaampwZGtQalpGWExfMjltY1Z4VmgwQ2o0d0FieE12bXJINWx4MGt5QndLaWIyQnY3MnNxVzJKQUZw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 03:52:33 GMT",
-      "description": "Corea del Sur acusa a Zelenski de romper confidencialidad DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "‘La bola negra’: estética e hipersensible",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObzNYQUxlbWl3ZTh4Ry1nYnJGYWN1SDdzTm9acEkxUTJFU2dJYWg4X09BZV9QYWxHRm1FUW15RGZIWFFhM0w0Q1gzckRfVjFVS25HMEF4NGlhTGRxdVU4TzdKXzZwS0hfTGhzNlpkeWVaX2ZjcFVzc3JLMkM5eTNVOXZmeXpzU3lT0gGcAUFVX3lxTE1DY3gwNzRCZTlmTTBaUFFVNC1iU1pzLWJlSGRjazl5WHdmSzh4VTE4X241T1FXeXUxd0ZlZ1RVRnFISGszQjVzYkU5Mi1tSlltZDhBenhqbWpWR3JQY1V0RElFZXFYYk5fVXpCLVJiRWZRb3lnQWNkbHB3Y0NKZHMxNHZYbW9HUHhTRHA2OE9YNGo5ZUh3LXNpMmFtXw?oc=5",
       "pubDate": "Fri, 25 Sep 2026 03:30:01 GMT",
       "description": "‘La bola negra’: estética e hipersensible EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "La crisis de suministro de seis fármacos para la menopausia deja a miles de mujeres sin alternativas para su terapia hormonal",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNakhMbWNROXNTa3FiZzBHZTVid3pjbzZUeEZhaFJ2UzdKVEtFeHNfT2JhWW04bEhFeDl5SXBxQUtmMFN5U2o5U0NGdGF6SXMwVnFRRE1nb1F3QW05RDZqUEpvNjdtWktabHJmVV9BeFZmbldyVzBiWmhldG92OWNpRmY5bE45UFBId2JKZUt2TWF4RnZlUjRWNEhjQlFMRDJ0MHY0U3lma01COHVNbGVsS3kzbzluWU1pcjBOUm5Mc09mYW8yUGNrdHVhazN5LVo1NnAwcmh6WUpmSEtwM21KQ1EyZXgzbXdnbmY1ajB1bjJaZmFUeEVTcTMxWFhRZ2ltamQ2dDFaNEN1QdIBngJBVV95cUxQbDhrVWdGdk5EUlloRDZTRDBXT2xWVXRpbEV4dDY0czBkVnZZSi00TVUxc1RuSjRFLXdnbUVvR1BhM212VEdCOEV6RzhyRDdzR2o4dXB6TjNhb0lDcFBSc3p5SDN5OHRsRWFCMmN2TFFGdlhwYUhKdFdfcl9IQnd5OW0zcmR5UUNEQlAtcng3LWhwYVRxZWFEVFZ4aDV1MzRjSFlwdklaOE5aVFFZa2NnOS0zRC1vRDNubEpEQ3RrWmgycFd3SDBMSi1QNU5sT2w1c2JJclFmTElqRmd1QU92ZHJtb0dQbHNETnpRZmROTDFLNGx2ai1LWmFWTWo3VTNZcjlFYlZIcG5fNUMxYW1lUDhKS3RMWk10NEpyMm5B?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 03:30:00 GMT",
-      "description": "La crisis de suministro de seis fármacos para la menopausia deja a miles de mujeres sin alternativas para su terapia hormonal EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -269,33 +314,6 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iS2FyM2tvTTlYcFMwWkNBa1BJYzh5T1d0UC1kZXRka0JBUUxqcncweEJDYVBMQV9mQkRYOUVsRjlLNlBkUHQ3bXNqZVZXSkc4R3FoUE83T2twZGpv0gFiQVVfeXFMT1ZrVWF6d2hJb3MtWHRtc1ZRNkdKbVRJWVN4dlZOMmsyNTBkWFlSVTBVZWJuekN5YzYzS0p0R2Q3UmIwTFRCVktjMGRSUWpTSVZObVB6a0tNNmZwdGl1QlJtaEE?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 22:16:29 GMT",
-      "description": "En video: decenas de delegados abandonan la Asamblea General de la ONU durante la intervención de Netanyahu BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FMXNwdnVKVGxxZTNNc1NLSU41V1QySnVyT1NhMTFFNWM1N2xkRVJmeGNwTmNiblNIOW15NXByLW92OUVEVDU3MW9uRzhKYXhNVkFXMDJIak9iZXQx?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 21:26:29 GMT",
-      "description": "Cómo la hermética comunidad Amish combate el brote de sarampión más mortal de la historia reciente en EE.UU. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Mother of man wounded by ICE in Texas describes video call moments after shooting",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbERIY0taNUFhU0pyLV9aLVJHTzg3ODZCVHlmc0V5T282WE5TeDRJWUs2a3BJejRGdlRINlVVV3hTYWtELWw1UjdBNThKUEJ2TXJPX01yVHhOMGJhZkM5Rnl4SG5VUVRDNVpxcVo2VWRfYkhJT1BXeVFhbWhRTml2dDB4OFM2OVZjNnczUDNKQzJpcG5nLWdzc0FPRlhMbUthZTZLMUo0cFNPNmJZaEJIUkZnd1BuU2pCZ1JTRw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 20:31:24 GMT",
-      "description": "Mother of man wounded by ICE in Texas describes video call moments after shooting Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Un centro de datos recibe multa de 1,1 millones de dólares por operar generadores sin permisos",
@@ -316,15 +334,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Trump elogia su “amistad verdaderamente grande” con Xi Jinping",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcExKcDJteUNGS043RFhxWVZkZzFUd0FkRGVJcU94YVpkSUJxUjZwWHU5WlJhdmdBN3AtUUY0TnhxMXlSeDJxZU9lYlN0YUZtS3RHYV9UeEdYQVk1SGJKNGp6cmlTTGhScmE3RnRSejl4NGZVU0pWb0YwNllESUlpdHpHcEpDaWxuZWFLckdBSQ?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 16:53:00 GMT",
-      "description": "Trump elogia su “amistad verdaderamente grande” con Xi Jinping AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "La CIA alerta un ataque ruso con drones contra España, Francia o Italia: esto es lo que sabemos",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbGx2WGVqN0RQXzczY1RSdVhpa0M0UnNxY0RRZ25LekpHTnNJM3UzNUhIU0JxT1EtWUZPWUktLXN2dkEzdzJuSGFZUHhGeEV6RFdOcXlRQ0ZMc3Z6QUhRYm5VQlhLWVVaM2dFUHJ2TThzVDQtUXAwRlIyQThndWRxTWhGa0l6OGpQbE42ZVB0RzZVRFZQdmZhVURKUEJmZlN0Mko1YlJGbU5aZnB4Wk81SHFyWHFnZUtPdmdkZFNEdUV5ZTBvZGItWHF1amhENWd4OFZFbzZORlVlUQ?oc=5",
       "pubDate": "Thu, 24 Sep 2026 15:49:00 GMT",
@@ -332,24 +341,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "El desalojo de Maricarmen, de 87 años, causa indignación en España y pone bajo la lupa la crisis de vivienda",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV0xxSjBOZmZKWGc4VVVPdks4ZDZrQXdTM1c5cjV1dF9vZkFXVDBOcmdNWjhBSGlHZ0gyU21mLVp0a0xhWkJtczBzSTd2R0tpYWVVY3JESlhJeV9HM0dSZWY3NlFtSnE5TUp0ODJtV2dRTGFpU0pnR2tkVV81TTlhakNLRFkxVExSOGNxN1ZTSkNMSnNzODFYYnNR?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 15:15:00 GMT",
-      "description": "El desalojo de Maricarmen, de 87 años, causa indignación en España y pone bajo la lupa la crisis de vivienda CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Ante la ONU, Delcy Rodríguez promete elecciones en Venezuela y agradece a Trump por retomar lazos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjhrZmhXVm1XYmpwd3RzWld6Vi1YNUhzZUtkV2dpdWx3SFY4V0VFLXBKcGFfUXpWbG44LS1zekhqdm9nbmhiYXJpeVI2R21zVGtCaGFJNlZsMWJZT0dScFg2anZESXdkX19EdXd1UHhvaGhLMTk1bFd4NGpGUzdUVURWb1B5elgxNWU4TUVwRzVac2tFU2NYYmxsNF90SC1QZUZr?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 12:30:00 GMT",
-      "description": "Ante la ONU, Delcy Rodríguez promete elecciones en Venezuela y agradece a Trump por retomar lazos AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Yemen pide ayuda para derrotar a los rebeldes hutíes; Irán y Rusia reafirman sus lazos",
@@ -361,6 +352,15 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "El suroeste de México se prepara para fuertes lluvias y deslaves por el huracán Polo",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcExtd0xadUZualF1cW9pSk5relE5YjltbXJ1WnBEd0FnTnVFbW0yWnE0ai1QdGVNVV8wUmEzYlFNM1JSU19tNjM5NERQX1lkQXNicEswdmcwVE1CSS1tUGpCQkQ4MGJ1aVpmYm0tWTc3MkVJbThrRGYzUlZYZUZwU214ZXNDR2p4em9TS082NnBXVFNUM0dPNmNPMjdNS1ExVjNhRlVpX2c?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 04:23:00 GMT",
+      "description": "El suroeste de México se prepara para fuertes lluvias y deslaves por el huracán Polo AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Venezuela's Rodriguez promises elections in transition to 'full democracy'",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZVZTWWoya1otcHJIdUdjYnBjWWpRTkJSbU9QV0dOVXRHd05IR3Zqa0VDRWhHZUNOTG45VldyM1Vmang0bWY2SGtJRlp4cllrRXF5VnFHS1ZrbGJVbDN0WWh4UTlBMWZSTjJmTllQZzFaWXZPT3IzUDdhNl9vM0U4XzJKWnVMenBuSXR1aXJKNnJmMV9x?oc=5",
       "pubDate": "Thu, 24 Sep 2026 03:01:36 GMT",
@@ -368,15 +368,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Delcy Rodríguez promete elecciones en Venezuela y una ‘transformación democrática’",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZzlaNXdRb3FrbDhtNjUyZ2V3WnFOYWMwZG9EZkhJY1lYZk1jZVg5Q1A5cFJ0dmJ4OUE5VmhtS2FNZV9UTnIyWDRBcUljczZmbE43RXd4TEZCRzZFQUVrd1dOQXV1bDFaamdpdFM2aG1ObmhDV1NwbENXYkJRQ0VvbjNOamdoN0lHRGZvMkhUS2NyUXZ5V004QUpBZnBzTDNfSEdpQzN3UTFrR0J0bVBXOGhUWjc4dw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 02:40:30 GMT",
-      "description": "Delcy Rodríguez promete elecciones en Venezuela y una ‘transformación democrática’ The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "Trump, Venezuela's Rodriguez discuss debt overhaul, Rubio says",
@@ -446,6 +437,15 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPak1Hc1g3T3BKZkYzNE5QU19YY0RVRWxSVlZwTHFDVTBaTVpEZEFqQlpoeWNweHdUNHg2RmFLdHdVRmpfMWp5NlRWaE85SWZKdkVyb1lYdl9QOGhRc3poWGw4ZTR5S0RSR2dwMjJ2c0xqaUVmVzhQdzR6aFM4dXJ0Z2poQjBaTHhpbEE4WXhqMzEwQjZ2aVZoeUItSnNhZUpXQm5HV0FHanA3Z3c?oc=5",
       "pubDate": "Tue, 22 Sep 2026 09:10:16 GMT",
       "description": "Seguidores de las utopías tecnológicas quieren construir en Uruguay la ciudad del futuro The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Xalapa festeja a los melones más guapos de México",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGR0N1pMdkNuWFdhYUh3bm1ybmZsaC1LbmVMTm9pSDI4NFNWUE9GeTVQTmEyU2pWTjRSUWJ3Zlc5S2kwQWpBa2t6UzZJSFZIN3ZJZVp5NVhRN2t3WmZHQmJWc2RCdUJqOGo4cm8wUlNkN2FqQWYxbzBBOWZGNUp6RTFuQTdTRmhiVnlldktoWnV6eXNKdENCMnZrSTlmWVJCRHc?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "description": "Xalapa festeja a los melones más guapos de México The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
