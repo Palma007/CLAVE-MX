@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:50:16.172Z",
+  "updatedAt": "2026-09-29T00:40:39.511Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,36 +64,81 @@
   ],
   "items": [
     {
+      "title": "SpaceX lanza su cohete Starship en preparación para misión Artemis, pero concluye vuelo temprano",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjMzaVh6Y3ZicUhibXFaNmdFemZjZjFycVJVS2pYRmtZSGFfSDRwQTFQRkFLQm9rbm81S3U0TjVQREl4ZVlFMWtYYjE2YTBqcEg3eWY2Qlg4ZlM4cWxzWlM5VUQ0Y2I1OEN4emVUUnhSWEpxYnRYUWxiczN1Wk9DUVlzQm5CSjZKVW9uN3diZDhuMGNKTHZxeENvblduWE42N09aNlNPVkdjSGM?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 18:50:00 GMT",
+      "description": "SpaceX lanza su cohete Starship en preparación para misión Artemis, pero concluye vuelo temprano AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Qué se sabe del operativo antiterrorista cerca de una base militar usada por EE.UU. en Reino Unido",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4way1pLVNmM2VrNndrM19yMUpIbjN3SUJRbmYtUk9zUVczSmNyZzJ5dVcxd0wwbnJMSWJSb1lLTHVOUHlPbWk3dmlRSEhwdVBpS3FueV9PQWtDeVZM?oc=5",
       "pubDate": "Mon, 28 Sep 2026 17:11:31 GMT",
-      "description": "Qué se sabe del operativo antiterrorista cerca de una base militar usada por EE.UU. en Reino Unido bbc.com",
-      "source": "bbc.com",
+      "description": "Qué se sabe del operativo antiterrorista cerca de una base militar usada por EE.UU. en Reino Unido BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Brasil: Lula amplía ventaja sobre Bolsonaro en sondeos de primera vuelta; habría empate técnico en un balotaje",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQNFNvNnBWVXlBR3NfSUVxbFU3WXpHMXN0MFhoSzRkVlZ5VUZmWjZQLXdCX2s2MWNCUFB2SVM0TUNzbUNET1pwTEdwOEJjZnQ2Qm1CQy1IdkkxY2UzeVBnb0REbjlFMnFGOTVEZUY4R3Z5dl8yaUtIcUdiZzYtOTZiT1lMNDMyWXVobHNla2Y1V19rS1g2UklVZEpLOUZySFhoa1dXbVBnbXowY2dGMTloVjNtWmc0UVoyWXdOUk9tdEZONEZJZFhSbkVrT2pYeGpGUzJTX1RtQ05wYWFSSmVTeFpzd3M0Rm1zTFJLQzVQanNNd2RjMmxfSWpQd2YycndJRkNoU2FQU1BScElr?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:11:29 GMT",
+      "description": "Brasil: Lula amplía ventaja sobre Bolsonaro en sondeos de primera vuelta; habría empate técnico en un balotaje France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Así fue el amerizaje del cohete Starship de SpaceX",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd21RNTU0djNTT2NmaFZINEg3WFhtU2xWbFI0SXRubDY5cm1iRGh5S1JZa2l6ZldqaS15MFl1WjdMV3hzNFdDU1g5b3hsZ0gtUjVRdGRwajM1WVljSEszMTBZQ0pSVERuZkFUNlU4aXlnbFd0Y01UaEt1WEFHTno2QmFEbENDdw?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:09:00 GMT",
+      "description": "Así fue el amerizaje del cohete Starship de SpaceX CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Los 100 mejores programas de televisión del siglo XXI",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnUyVlhKeXpUXy00YWhyTG9VQ3pPeFpuUDdDLTZhaGZhSjQ1ZDJzY3VJbmQ1RExhMDFwbGRkbTNRWmhoMzdBQlk0ZGVyeXd4eEVUb0xXNTVuSHlGd2d1dlZ0SEQyN1lHMkJEOE43bVVScGxrVXpibXhmVUlwNWNMQTRIbmJ1aWpvclNwenNOZXlaRnpXdlE0TlBxdVpkVnZjRlE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:06:23 GMT",
+      "description": "Los 100 mejores programas de televisión del siglo XXI The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Quién es y qué crimen cometió Christa Pike, la primera mujer que será ejecutada en Tennessee en 200 años",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ybE1QenhYU1RuUkJ6OTVCVU85ekJ6X1E1R0ItWmQ5aU9jUU9HNDRBeFNpWUlvQjVnVVJDWjctRDZfNHE3czZOZ1JkY0xSb0ZfTXZCeG5jOG9JTE9Q?oc=5",
       "pubDate": "Mon, 28 Sep 2026 17:01:37 GMT",
-      "description": "Quién es y qué crimen cometió Christa Pike, la primera mujer que será ejecutada en Tennessee en 200 años bbc.com",
-      "source": "bbc.com",
+      "description": "Quién es y qué crimen cometió Christa Pike, la primera mujer que será ejecutada en Tennessee en 200 años BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
       "title": "SpaceX logra el hito de poner en la órbita terrestre su megacohete Starship",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVJXMHpEa2JPbVAya1VHSUNqUkN3enFiZk9TUW9WeHp6YTF3VnFnZlZDTURQRDRYRHhPRV9NRjBVeERCc1l2ckdwZnp3aEg4elBrRDhSOEdhSmZrazI4Tmh1cHpOc3F3dC1GeThxYXFTNEREOTM4UWoyRG1LRGdvQndXaE5LOVRoQkJMZUpCSVBtTEo0MjRqaUcya3lMbEk0QnpB0gGjAUFVX3lxTE8tRmFVS3I5RHp2aWpQdXNwRXZiQkRlVlNHVGtDcnV2Umo4NWJnRlZvRjJQeXBRYWlObG9ub2hIemJzaUpJQXJyaGtBZDlLdWJRaWFMUFNFN0paTjAxYnRCQjJwMUdPY1J1aUpVcE4wdTgwWmxTRHV3Ni1uRzlkU2FsRTh2X09pNHJDbG9NS1ctb1dGWC1XaU9odjZOTjM0MmRTcUU?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 15:47:06 GMT",
+      "pubDate": "Mon, 28 Sep 2026 15:29:13 GMT",
       "description": "SpaceX logra el hito de poner en la órbita terrestre su megacohete Starship DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
+      "title": "Nvidia lanza una nueva herramienta para evitar que los agentes de IA se descontrolen",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR3pfTXNmU292TmRDOGFjbjZzaUpQMldKYnhEcjB3Y044dzNJQUZESTRoYy1WS2hGR2hVWENNTWMxYWdYbGlhWVFEZVVjMzVSbndrckpfZ2tVdm9md3RZMGFTX1gwR0lrNjJzZFp4S0xiQUpsckhGY2cwakt0NVB2UTlEU282dXg5aEJiXzlZWUg1TW1K?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 14:55:00 GMT",
+      "description": "Nvidia lanza una nueva herramienta para evitar que los agentes de IA se descontrolen CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "León XIV a Europa: \"Hay que tener cuidado con la ilusión del rearme\"",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVEpXZExhVXNQSE5sX25RTUdhbjV1VFVDYV9DTGQ2aVIySmgxX0s2c0hQdU9hRE94bzkxRXVtYU5PS1ZuYWZHc1RSM040NEFwN1cxV2VScm1WNnlTZ2E2cWdZUUhTSkc3T2NQbG42QzdpNWVWVUhvci1ibnpwbmJfOWN3NHp4bWRDcktZcnJnX1lrbWdEbWJfdldFT0pXb0cydWJxeC02TjlLaW5IajFTelhqNNIBswFBVV95cUxNYkd3SHJ4Q1lkekV1NGF0anFYV1I1bXNONlkzMWdFb2pKZ1JUZWtDSzJMdXA5YVdBSWo4RGE3NHlpOHk5NWRkZjZTY2lmNVVmc2hnWDY2c1R3bE5sU1F1UVRaTjk4Q3k4Tzc0Rzd4dllLRktxQUtvM1lkcEsxNlF6QU5odFpRSjRkal9mUnJfY0VfOTBwRGhfQmlsRDZRZlBweU9uZVZnbk5Ud25NVEctSEZ1Zw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:38:39 GMT",
+      "pubDate": "Mon, 28 Sep 2026 14:40:27 GMT",
       "description": "León XIV a Europa: \"Hay que tener cuidado con la ilusión del rearme\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -103,8 +148,8 @@
       "title": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91eHRfeUM0SmFhZTh0eENYaWd5cUw4WXVRdHl1WE1oRTdFd0tGMG81MnlhUlZ3ZG5aSS00aXF3QlRmTzJPdGljZFJNSUlVTzVjYndGZ0QydlJkNW1p?oc=5",
       "pubDate": "Mon, 28 Sep 2026 14:11:57 GMT",
-      "description": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones bbc.com",
-      "source": "bbc.com",
+      "description": "Venezuela libera a decenas de presos políticos mientras aumenta la presión para que el gobierno de Delcy Rodríguez convoque elecciones BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -112,64 +157,37 @@
       "title": "\"El ganado se está muriendo de sed y hambre\": el devastador impacto de El Niño que ya se siente en el Corredor Seco de Centroamérica",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Ny1hMFRNNFdjdFJfc3BaclNIRFU1SEdCdTRKWGpXbVRrOWlkUDdKUV9saC1IOTA4Sy1XNkJkZGx4Mm9CVldKS25sTTl5Uzl0TnM3VzBhVHFyUnR2?oc=5",
       "pubDate": "Mon, 28 Sep 2026 13:36:36 GMT",
-      "description": "\"El ganado se está muriendo de sed y hambre\": el devastador impacto de El Niño que ya se siente en el Corredor Seco de Centroamérica bbc.com",
-      "source": "bbc.com",
+      "description": "\"El ganado se está muriendo de sed y hambre\": el devastador impacto de El Niño que ya se siente en el Corredor Seco de Centroamérica BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "SpaceX lanza su cohete Starship en preparación para misión Artemis",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSjMzaVh6Y3ZicUhibXFaNmdFemZjZjFycVJVS2pYRmtZSGFfSDRwQTFQRkFLQm9rbm81S3U0TjVQREl4ZVlFMWtYYjE2YTBqcEg3eWY2Qlg4ZlM4cWxzWlM5VUQ0Y2I1OEN4emVUUnhSWEpxYnRYUWxiczN1Wk9DUVlzQm5CSjZKVW9uN3diZDhuMGNKTHZxeENvblduWE42N09aNlNPVkdjSGM?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 13:23:00 GMT",
-      "description": "SpaceX lanza su cohete Starship en preparación para misión Artemis AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "EE.UU. y China acuerdan reducir aranceles a productos por valor de US$ 60.000 millones, desde carbón hasta juguetes",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTDUwR3d1eDVJbUt1VWNCOERZc3Y1aFNFRmQyRnc1bTZSQTJTRnBoVXl3R190eGhURm1ILXUtcTlsTVVvM2ZJMkdjWHkxQmRTR25pSEFLSzVLU2lXczYwaVdLSFVvSk44U2t0cF81c05KUmpvV2xwZ1BtNGxqVG1QczVSYWhka0htRmpyT3FjbDdqV2ZaTGFyQzkycHc5UlpXQllv?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 12:32:00 GMT",
-      "description": "EE.UU. y China acuerdan reducir aranceles a productos por valor de US$ 60.000 millones, desde carbón hasta juguetes CNN en Español",
+      "title": "Cruzó a Texas para hacer compras con su bebé. Dice que, tras 7 horas de revisión, le quitaron la visa",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1FhQlN3b2pPOVJGazNEVkt6cktRZkdleWc0ZXEwLWwya3VnMHR5S1g2dFQwN2RMMzZHSWV2OUZnWGxHRXNadlUwWHM5SkZMcENEMkJPLVY5N0tnbnEtR1Z0dmoxNi1zdEhseW1CVlNzT0M3UTBaU2tQY2dXbXNrdkp6OHh2M2E2ODdVc0NvWDg2Yjg?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 12:11:00 GMT",
+      "description": "Cruzó a Texas para hacer compras con su bebé. Dice que, tras 7 horas de revisión, le quitaron la visa CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Starship culmina su primer vuelo orbital: Musk amplía su poder con la nave espacial más grande de la historia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZUtaMFl0OFRGN3NCRHRrS3E0NmVQT3FSSnpTWDJLVkIxLWpld2p4RjJlWEFKeHNkYUE0VDRwRXMxZF9ESzdzVEVndXNzWXpSQU9MNVlySC02ZUlPY0tqZkV5akJMcXpsWFhWYXhkejZJdllnbGt3bHRZMDA2UHQ4MEhyMGR1RXJ5OFFDcGQxcDY5SkxPTWxBTDg3dTlReV80d0oycjNwdy1lZmxjVFJBY2lHRC02ZXY1TEphNjIwdk1Pd1Z0TkY0YktB0gHeAUFVX3lxTE1rM2pyQWFsOHRCYVEweWlnSWkxNTFxNy1HY3h4aFhhRkRsU0xQSG9SdEc3elVXNWZGa1lYaDRDdzB3UmpDRHFycC1mTjdnQWo4cnN5S1hQd3hQY0VGdndfQ01nanh1SHlqX3J4alVCVjBOUE5FOHhOU09JSlVka3dKelVfNGFnSXU4d3pGNFRlX25xeHUzR2p4VHlQMjJxRWlOQTdRYmlqVktvd215Q1ZUVHJoWjBQV1BYYWJWWmw5ZmFQRGQ5alFyLXNTOUxtMEJTaDBjMHA4V05sVlFpQQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 12:20:24 GMT",
-      "description": "Starship culmina su primer vuelo orbital: Musk amplía su poder con la nave espacial más grande de la historia EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "En directo: el papa termina su visita a Francia tras llamado a hacer concesiones para terminar la guerra rusa en Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPbnNnY2FIVjlBUnNodUFnRW96aG5yd0d5VnJGbVRXNTV2RXVCd1phOWNaMnhjU0pvSkloVGx1Z1hveVdkMWZJQ0hpLTFORUw2OExGZjBrb2dUNTNoSEFWNXY1NDBPeHptTUh6M3RVZEdvRS1aRHVDdUxMUkJPQnVuaHpYOUZiVkl2aWdXSzNCT2Z0M0liN3ZBUVN4Z3d4VVU5cEluR1VRQzAwVnlZQ3IwanAyMlQ4OUR1eUUwbll5YURNeDFIT1NoVV95Y0d3elRETTU3OEdUMFVWVkZjVDVkTzlqWlZJWGVCbmc2N2RWako0ZXR6d3RN?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 12:04:07 GMT",
-      "description": "En directo: el papa termina su visita a Francia tras llamado a hacer concesiones para terminar la guerra rusa en Ucrania France 24",
+      "title": "Reporteros - ICE: miedo y familias separadas en el mayor centro de detención de EE. UU.",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaEVfeWRUOEdFQzlfeGFwZ2ZiMEhudXIwMTV1eHd1UUJnT0pUNlhiYmJEYnd1dENEeXNmVmN0enZxeUdQS0FtdVJrdUNsNWR5SWc5aVVOREhON0MxcmtYM01maDRraHNCTTlQYm9QcURPSjlQVHN5dWtuSGd5UDFFNU9DUFI1c2VjSjNwTC1zVkpIMlBZbjIzam13LWtUVHhXcno4Mnl6QzBEWVdicTdEVXpNbGI3eUw4OGdacktJaU9GZVVCYmZoZXg0eEZ2dHk1bzFvZWo2NkFmc0U?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:56:56 GMT",
+      "description": "Reporteros - ICE: miedo y familias separadas en el mayor centro de detención de EE. UU. France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
     {
-      "title": "El \"ejército bueno\" de TikTok que ayuda contra los acosadores",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQZ0g3d015OFNtdjdwSTJ5YXpoNEdUQzcwdTZVZllCWG42QkdoWm9KY21FdHhTWnN6dElySnBkY0tQcjUzekR0M1NnT0lsMGh0SGRMNmtSY01GY1My?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 11:36:31 GMT",
-      "description": "El \"ejército bueno\" de TikTok que ayuda contra los acosadores bbc.com",
-      "source": "bbc.com",
+      "title": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KVGpfRHl2cDJRM1BIQU85TnNfc253SjNwX011bHp4Q2FIcThjMVN2cnQ3a21FS0hJZDF0aDZ2ajJyeThmbkllcmFMTllsWHNwVlhsUE56WHpVazc2?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 11:31:33 GMT",
+      "description": "Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Al menos ocho muertos en oleada de ataques contra varias regiones de Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEl6cmdILUFJZmtZb0ZsZUxOTG53dmIyNXlvVUxDSW94NWhkQndIUy1CQjhxSzY3QU1VVVlGQ290WUN3bjJmSGJPUWxBYVJ0NTZBVFlVZVdmS1pJd2ZDdm9CMTVKcEZoSXNyU29SY0xtb216OGUzVkVXN3dzOGx6RXNucFlRN1F3TzYydUtaU0EwWVRNQWF1Xy0wSHBKZEszcGlOOUd6T3Zyb045ZmfSAa4BQVVfeXFMTUllb19aRHpfQjN0SjdVMDdpWjY1dV9BbmduckJjcE8zYl96VnZXODQ5YUtQSzU0SlNiOWxPQnlseW9xOWs0TkJnS3VjTFZFUWpKTnFLN2NQSHl3NnRlbm44R005WG5paGlvdlF3NmV4SGFhTzI5ODl3NFBCTFRZazV4VGhPSVAzUEJGcC1CMWNrSm9PbDdXNDk4b1FaM3RPalVWeGxqYldLZDgwOEdR?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 10:57:09 GMT",
-      "description": "Al menos ocho muertos en oleada de ataques contra varias regiones de Ucrania DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Muere a los 40 años la estrella de lucha libre de AEW Benjamin Satterley, conocido como Pac",
@@ -210,7 +228,7 @@
     {
       "title": "Trump rechaza tregua iraní y el precio del petróleo sube 3 %",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2t1RjVwTXpoX2JWeV9DQ3FoeVlHcGRwZmpvX2dNSXBGMTBaUXhkRm5ZUkNYeEdUdkZSMzIwQWRseG5wVzdGZ01zRUJDN2N1RTB4NzRPX2FqcEl6ZWxyQzd2RlJ0aFFZSjJFa1BqTWc5MFEyT3doZXN5Ri1ycVFuZWlPbXVTU3JKSUItRUYtOTIxSXJlRFJxWlVXNF8xZzZYVlk1ZFZSSGQ4ZVBJdFlHRGZn0gGyAUFVX3lxTFAtdFBiQVJDWGJQTkRJQjlsaGxLM0RndVNMMTFKeHdhc1Nhb1NIYU8zRTljc0VtNTdfWWlDMFdnY3NWLVZpUkRtZzhKR0ZnUlU4U25oeUo3SmNEVXpLMllSNHZGaHBKNkN5dFdnR1Zvb2FjeGlQU1pHb0tBRVRhclVsaFNNdkQ4ZHRvbmlrVmYyaVNua3VwNU5md0lRdklvVEdLQUxtZmhUOUUxOHNHZEdGR2c?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 07:38:39 GMT",
+      "pubDate": "Mon, 28 Sep 2026 07:26:26 GMT",
       "description": "Trump rechaza tregua iraní y el precio del petróleo sube 3 % DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -219,7 +237,7 @@
     {
       "title": "Taylor Swift es la artista más galardonada de los MTV VMA",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnE1R0NIdXU4azhBRnAwRE91a0JHNGlUdjEtZjFFT2YxZmlSM2RfQ2ZLN2FEMDhWa3p0Ylg5WXBJVFgtRXRTZ0tzVEZYMGRFNlBfVUw0VlNGcUZhR3lKd2o5OW55dDl6MVdvMklJb2FZZkhYUlA3OUlCcGI4Q0k4c0laSm9hSUdPdnM2cUh3d2l2LUo2aUwyQjByd9IBmwFBVV95cUxNa3JIT0pPMzJyekl6NlNHT0l1YkFZWnRVWkZPTGpDRUJXeU9fQjhHc0pxLXl2d2lkUHN2a01IQUc1SUkwem9mQW5pbE52Wko4eWoxNFBxeFBCek5pcjNBTXpCWkpyOEVNTldnUWVOX0VNcVBlVll4QXRLTlg1cG81a0cyT25INDhiQzRWa2xha0I0bDI4RG5GUWJTYw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 05:29:12 GMT",
+      "pubDate": "Mon, 28 Sep 2026 04:58:48 GMT",
       "description": "Taylor Swift es la artista más galardonada de los MTV VMA DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -233,6 +251,24 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "El edadismo cambia el discurso: de las antiarrugas a la longevidad",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenR5U2g5bkc0bTNnLW5iMTlXQ3FwT2FGRXB0U05fczYxVGoxODBjd2sxSVBfdE82X1U4ajhSeE5MRXRWNFNYVURkODhLcU9mVlpfaXJqMVp6STJaaHRGcjRFQU5rU3lhbWYyZnNWZ1BTbHVrbFBmdEJvWTZocVA5cDViN1MxM0t1UTZEV2lEeWgzd3gyM05Mal9OZWkwbUFiSUdleHhRZ9IBuwFBVV95cUxNWEtkOG1veVV4am1QRWZDVXlFeHRHcjk3VHpPS09FZEVJbWVTWjhsSTN4b1hlWVJULUtRSkF5RXgzWFBUS1VXZlZ5RU52eUtEVjhYRHdPZm4yUE5iZG93QXg2cEFMZmw2d3JOVWQzSE5KalRnRnZ4T2phN043Q0htd3g0eUJhdUlldWxKcUNzVWpIeGZNMEN4NkFaeVZ4eDJoTEU0V0NZWVVMSkt2TlVkaWFiMzNNOFlSX3c4?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 03:40:00 GMT",
+      "description": "El edadismo cambia el discurso: de las antiarrugas a la longevidad EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Colombia: muere jefe disidente de las FARC ligado a magnicidio",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHlMSG0yQjZsVEZCc1h3X3pQOWdacks3QmNTREV3NGlWeFBpaVVUZFNoZjlTck5CY1RuV3JxVWFXdU9ZWWZac3lpclV6djlraEhvLWpYU2pzbzJHMEJsX296bmpldlY3VnNVSWJDSl9adlpPTFN3ai1uT2hiY3dyU1RmdVRPenpQSGU3cmFDUk9oMXFiU2V0ZFVHNW5SZDB3bnc0YjJFUWp4a0HSAasBQVVfeXFMT0ZsOXU3OWtOZVV3STQ4d0dWcFBjSHpNVi1iLVhzTHQydzFsTFRaenBxXzhyVGoxTVNPY2JNVldMQUw4R25mRDBWQW5XY0V6UkhlUFZwaWZ5WlNiU2I0NUxXaDRRTlduR1ZfSkNObi1sSVlkRV9hUDFQTGc2THQ0TWVvb2pvZDg5ZDFjSFhBQXBTVHRwUzh6THAzV1RCTUZyb0ZGcC1qaHZrY2FJ?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 03:32:20 GMT",
+      "description": "Colombia: muere jefe disidente de las FARC ligado a magnicidio DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Evan Dando, ese desastre con patas",
@@ -253,15 +289,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Asesinan a dos estudiantes de preparatoria en Morelos, semanas después del crimen de la estudiante española Claudia Tacoronte",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVpBc19LYWtRTWVSQ1VSUWItaVBXaEgwR0JDM3p0OVpaVnVORVRWRkZPOTAzVUtONERRNlJMbkhfaG14ZGg2TTVHYnljZFNVQXRObVUxMUxWZFpsMEZZcC02N1g0REFPNzBkZFcxNk9ZR1R3ZGZZekNRNXNFLWxsRXRCSjJyZmJzZ0Q0MzYza2Y5VjNDYVV4YnVaeFA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 01:58:00 GMT",
-      "description": "Asesinan a dos estudiantes de preparatoria en Morelos, semanas después del crimen de la estudiante española Claudia Tacoronte CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Asesinados en Cuernavaca otros dos estudiantes de la universidad de Morelos",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1BtTmZYX1FTRlpWN1Q5a0M1QS1EaDhscnJ6ZklBVDIzR0Q0U1hBT2FoNWFBYVFMSHVPT0VZZjNmS0VDTk05cnl4WWdCTnI1QzJJSnZqMkU1TDBiYUx3cGtpM3VjT0JOTGNCckttRXJTYXg1Y3I4bUs2bjgtVEFnNGYzcThkRmNhREs1d2tTZTdfUXhXVFhFRzVfUGVOSld3bG9zb2huSmxhRGtoXzZGNnNBa1jSAcgBQVVfeXFMTlBxbXZ0V1RsenZsYXc5REcwMnBfRmlIY2lxQVFNTm5qNXh6V2QwOUFuNnhlZjNuWFJGMnZ2LUtBa1VRRExZSm12YzVBbGhGUkZqVm1NV0MzeGJBMU9ROHAzbzBaSmlGS2VzSEw0Tl82cDEtdmVfTkpaeDFwTERQUkZsRC1semJHOUlrQjF0Z2JSOUh2ZUJfQVFWcFRuMjdHWnhqTnBpWGxhLXctYlg4aVBfNjN2Y0o2MzVqcF9iVS16U0t0UkRsV18?oc=5",
       "pubDate": "Sun, 27 Sep 2026 23:47:27 GMT",
@@ -271,20 +298,11 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Así quedaron los playoffs de la MLB rumbo a la Serie Mundial 2026: cruces, días y horarios de los partidos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUNmWkRkQTIzZVNwNGNzNmNXQnNMV1hCU2tiVkozUEdLbVA1TFllMGJQNzE3dVd6OXFNTU4zTG1RTnF6VE9zRzV5R25NWlE0dURGMFVJclFIV3VYN0JNeHZ3UW1TZmRSdDRDVGtUMEMwd0NMbnNXb1ZYbmkzTHJWM21zSWlfLXNSTjlxN0ZLUjJpUQ?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 22:39:00 GMT",
-      "description": "Así quedaron los playoffs de la MLB rumbo a la Serie Mundial 2026: cruces, días y horarios de los partidos CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Las masivas protestas en Madrid contra la crisis de vivienda detonadas por el desalojo de la anciana Maricarmen",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00c2FfUFBGUm1WRWFJNEc4cTRGTTVOdDFFaTRuMnRZbHQ3SmZJR0RITXVqd1JZZWt2bm53cGg3SHIwYWF4RnFhNTRhV25nMHNMWVBndENyLUVBazBW0gFiQVVfeXFMTjFUZWZXUkZETGdKc28yVFIybGhPTXg5MkpJblAyekd1b3RqbElMOG9aSklsdEJGQ1prbXJWX3djc210Zm5QeVdzdXd5U2NYdHN0WTRTWmZobWxfLTlIS29XVVE?oc=5",
       "pubDate": "Sun, 27 Sep 2026 22:06:27 GMT",
-      "description": "Las masivas protestas en Madrid contra la crisis de vivienda detonadas por el desalojo de la anciana Maricarmen bbc.com",
-      "source": "bbc.com",
+      "description": "Las masivas protestas en Madrid contra la crisis de vivienda detonadas por el desalojo de la anciana Maricarmen BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -334,15 +352,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Unas 700.000 personas colman París para la misa más multitudinaria de León XIV en Francia",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVHJIQWdwZ0tjNnRlS21KZXpJZm9fblhsdG1oeDk4N1FuNF9JeVZoVWJuYlRZVzU1NmtZYkhqVGtiQzRVVHpuWGFMYmN1VF92dFlHbG5RQVY5dFY0UVdSb2JSdmRnYlpDMmRKVG1NLXZmTEJhSVJmQ3BjampRb1FNMU9yUXF5UmlJM2I4cExLVlNpNkFnckJSaFAtN2JHNkNyVW5uVm1VQmZqZldaWUhMZVNiQjAtaTVyWFkxaDhyUExucXh3emNHUWFPUHZFdGJfQkdfUEZWRGM1MTMzeGxZOXVDSQ?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 15:32:09 GMT",
-      "description": "Unas 700.000 personas colman París para la misa más multitudinaria de León XIV en Francia France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "A un mes de las inundaciones en Nepal, miles siguen desaparecidos y la recuperación se prevé larga",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQldTN1hZRkxvaXN6U1JnVEVSNEw2ZHZEaU85TlZOR01LYWlJQ3ZTNF9BcmpvRlRMOFlkUi16SERKZHlOYUUtNE5hWDBPZUdPcF9FZlMxekkyeEF3NklwbzdPeExaQWNHYWdSOHhjMXhqUnVLSHRTMUVhNUJFNjM1WllCZVJ2OEpyNHplbWNtY3k2YUkwM3pFMXU0Ui0?oc=5",
       "pubDate": "Sat, 26 Sep 2026 07:13:00 GMT",
@@ -373,8 +382,8 @@
       "title": "El presidente de Colombia porta un arma durante su visita a Santa Marta",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTi03LUVjV1ZzT3ZLRUdIanRTTXotS0w5Nkozd0xMd1BaWWtOekJXQlZmTllNZEpEaWlwOTlITFVYSUUzX1I2TklIU05jWkoyRm8xUUI0Tndnb2tSTmU2MktGWW5aTFNsQTZxSEVJWVUzMXQ1NE1TNURXMXJmZ3k5S05wN2R3eTZ0bllhZjhscTU4VUxyX0ZDcEpIRV9rRlZNcGxYMjNaZHYxaFRMckV4Tg?oc=5",
       "pubDate": "Fri, 25 Sep 2026 09:10:05 GMT",
-      "description": "El presidente de Colombia porta un arma durante su visita a Santa Marta nytimes.com",
-      "source": "nytimes.com",
+      "description": "El presidente de Colombia porta un arma durante su visita a Santa Marta The New York Times",
+      "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -391,8 +400,8 @@
       "title": "Las 7 nuevas reglas para viajar en avión",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWmh6U2MzNmFNbUthZzBSZ05ENWFkQVhKSnl6aVFpVWZPa1pBZEtXOThadnowZ3ZzR3h4MFI3TWdIZlhROWdhMFVwUEhyMmtNU0RJVnJkTl9TYmR2ejZIWjhEN3RjTXU5aTNxQXNDYmNNcWF3MmpjTHlDOUY3cW4tRDNQWG9FakgwYjJ0dUhHM3pHb0Q1cWc?oc=5",
       "pubDate": "Thu, 24 Sep 2026 20:55:33 GMT",
-      "description": "Las 7 nuevas reglas para viajar en avión nytimes.com",
-      "source": "nytimes.com",
+      "description": "Las 7 nuevas reglas para viajar en avión The New York Times",
+      "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -409,17 +418,8 @@
       "title": "Un centro de datos recibe multa de 1,1 millones de dólares por operar generadores sin permisos",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUnd3ZW82TVpkRUF6T050QkFDRGMtaXJsVWFZNWlwWUljWGQtcmJfeWdXU1lDSWJsdS1aNi1XTlpjZG9lbDdKNFpaRHdzcWVWb1o1RXpNZURhM3pSWE9HdG5qRmlvc1hCMUFYWEZQZjlsc2dqMy1sNDd6TFF4eUpLZnduc25mcDJZeHRpVkZDUmZiWGtRa1lNUlp6V2J4UEdJQUxj?oc=5",
       "pubDate": "Thu, 24 Sep 2026 20:16:19 GMT",
-      "description": "Un centro de datos recibe multa de 1,1 millones de dólares por operar generadores sin permisos nytimes.com",
-      "source": "nytimes.com",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Le confié mi vida al agente de IA de Meta y me sorprendí",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVp3M3pJVHI5NE1qbC1XVUdaZUtTQXNoU21fbjJLNjU0RzA3VVVMYXhfbjViMWFSS0FxVFBuaXJXMXg3TVZNQXpUclZiUkY3c1V5VmxCX1FDQnpRNDlJYnE3R01DZXhyLWlTYXNfS2FZMDdKUGY0OVlCQ1kwRUVxRWR3?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 09:02:59 GMT",
-      "description": "Le confié mi vida al agente de IA de Meta y me sorprendí nytimes.com",
-      "source": "nytimes.com",
+      "description": "Un centro de datos recibe multa de 1,1 millones de dólares por operar generadores sin permisos The New York Times",
+      "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -481,8 +481,8 @@
       "title": "Seguidores de las utopías tecnológicas quieren construir en Uruguay la ciudad del futuro",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPak1Hc1g3T3BKZkYzNE5QU19YY0RVRWxSVlZwTHFDVTBaTVpEZEFqQlpoeWNweHdUNHg2RmFLdHdVRmpfMWp5NlRWaE85SWZKdkVyb1lYdl9QOGhRc3poWGw4ZTR5S0RSR2dwMjJ2c0xqaUVmVzhQdzR6aFM4dXJ0Z2poQjBaTHhpbEE4WXhqMzEwQjZ2aVZoeUItSnNhZUpXQm5HV0FHanA3Z3c?oc=5",
       "pubDate": "Tue, 22 Sep 2026 09:10:16 GMT",
-      "description": "Seguidores de las utopías tecnológicas quieren construir en Uruguay la ciudad del futuro nytimes.com",
-      "source": "nytimes.com",
+      "description": "Seguidores de las utopías tecnológicas quieren construir en Uruguay la ciudad del futuro The New York Times",
+      "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -490,8 +490,8 @@
       "title": "En España, los conservadores adinerados acaparan la atención",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTy01MjU0VUlncmRvRGp6THhtY0pOdHJRLXB6Q2lmMXhJOVI5YU1paDVZa3FHN0NNNEp3cFNBXzhDTm5VcDVUWjV3NUtNU3pSZi0wOTRyOGJ6bjJJck41akpITVJnNDEzSXpVWUkwUm01R2pRb0thUmRTZ2U1aEsyZk5NN1dfWURWbmVUNlh1QmI?oc=5",
       "pubDate": "Fri, 18 Sep 2026 07:00:00 GMT",
-      "description": "En España, los conservadores adinerados acaparan la atención nytimes.com",
-      "source": "nytimes.com",
+      "description": "En España, los conservadores adinerados acaparan la atención The New York Times",
+      "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
