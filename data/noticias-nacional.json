@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T17:05:34.411Z",
+  "updatedAt": "2026-09-30T21:35:09.739Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,29 +58,155 @@
   ],
   "items": [
     {
-      "title": "Lula y Flávio Bolsonaro se enfrentan por la presidencia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWXgzaU9ySU5xcGpQT3ZQZVdKdGRjWHljU0htcGpxcHJzcXA1LURZdFVtNTFjVktqTVhVMFh4QkswZ3lNOGY3Ymt4ZjRteU5NenpUdWNIZ011bVp0Szlrelc4TjJhU1VTMFdxWHhTZnpHNGN5YU5ma3hIWjZGZERzZDNxcFM3dHlfRWo2YTRDdDk?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:48:50 GMT",
-      "description": "Lula y Flávio Bolsonaro se enfrentan por la presidencia de Brasil Grupo Animal",
+      "title": "Jaime Rivera Velázquez",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VRERwT2VKbmViVUlJX1ZzUnNnd1JjYVdteXBpVUdTOUM4SHoyQlo0Mkh5NzI0U25lOHpaZk1uUG9zc3VoVEtMeloxWWlQbGZ5bHktb2hLSE1HT3pwM3ByQ0t1dlJlWWhUQ3Iw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 21:19:28 GMT",
+      "description": "Jaime Rivera Velázquez Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Gobierno federal reporta 7 millones más de personas con agua en sus hogares",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDVTRU5pOVRKZm1KVV9lTE15cFRPaWdXRWVUMWl6bE1vWjFsQ0xobGdldm5GSTJpTFFiWER1V2liUjZkUVI0UzY4VVNISzNDUlM1WEl1bnlnQ2ZhMFZMZlduc0hDQkpxc1QxbUYyejE1QmZ5bWpZblpLTkJudnVHejJid0tEWm1zWWs0RFgzRU5UYmJaVW5kZTNB?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:48:55 GMT",
+      "description": "Gobierno federal reporta 7 millones más de personas con agua en sus hogares Grupo Animal",
       "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
     {
-      "title": "“El espurio Calderón hablando de democracia”: Sheinbaum sobre reunión de la ultraderecha latinoamericana",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHB2NUdRZFpHektSMy1VUzA0MndtVEdGQ045c01tU3BvR1lHN0REcUpaRVRPNXdGb2RrSXhVZkYta1cwWlY2THI3RXpaZ00zVXRCdXpRS0FtUHJlSlRwdG83aVJKSjVTSnJub2FZRS05a0VxLW9aTGpzdVNvcGxMSFFkcWlYejkzb3FCVWZsUkJFSF9rbi1OZW1NM0JFMEtjVGVhQUhwdFBFajA0X2lWUFBxV3dycDcyeDE1QUlvMUtBZFZVay16OGpxMmhJOU1VemRaQkFSbG1BdVR4M1JLOFQ5TkRfOHhDbzRzVjBIdw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 15:51:00 GMT",
-      "description": "“El espurio Calderón hablando de democracia”: Sheinbaum sobre reunión de la ultraderecha latinoamericana proceso.com.mx",
-      "source": "proceso.com.mx",
+      "title": "Jueza de Illinois aplaza a diciembre audiencia de Ovidio Guzmán; evaluarán su cooperación con EU",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblJPdFZ5ZG9PYzZHbUZSbW9uR3lhZHFndm5CSTV4ZnFQT2VrNGhIS1d5VE9ad1U0SGtwazI1dG1LOE9IVnVfSEFmdV9SOVRRT2I2WVRDNXE4ZTdCNndPOEpYaHlyMTZjVmE1STU2cFR3dGhhVEx6Y1I2dXJzR1VGWGdVbHNnRG8?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:33:53 GMT",
+      "description": "Jueza de Illinois aplaza a diciembre audiencia de Ovidio Guzmán; evaluarán su cooperación con EU Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Expertos de la ONU piden a México proteger a mujeres buscadoras ante ‘alarmantes’ niveles de violencia",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM0xuRFJlU0RxbW43eUNXdEhGMFFQX0tIMmEzbWUxdW0xQnFkMjgwMjhVMzRieG9DNmZvanRLTFNySmdMSHVpbnVieFZfa0Y2elAxTzJVZ2xXZ29aMGl3ZmN6OWQ5eUlaTEdCMmpFRUF2emlpLVpfNFNJTDEyQ3V3aXAzdFNJdWJ6S016VG1heGd5RGIxMmVpRWs5WG9IWFJBU09pbkI5Y3ZrNXRoZXY3UG9VYVJDeWRHRWVsZHFFa05kVkJ6V0lrbG9OVGh4OEs3a3I0ZmVhdVU1Ny1saVJ1Zzl3aC04QmN1?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:24:34 GMT",
+      "description": "Expertos de la ONU piden a México proteger a mujeres buscadoras ante ‘alarmantes’ niveles de violencia El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Avalan 'Ley Antimemes' en Senado",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SZGVUWlU3aFNmdy1MX2JXNlQ2T0RYelBnNjhUamY4RkhNNUpxZUY4bTBacUVqaW0wcXVvNTdLZjVoUWRvcWg1TGRIRnMwN3gzTmc1T0ZjVU11Q2g2RWdQWWlVRUx1YW1FRklxQXQ4ZWktdw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:23:07 GMT",
+      "description": "Avalan 'Ley Antimemes' en Senado Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Caso Álvarez Puga y Gómez Mont: desvíos millonarios, la mansión de Cher y una extradición pendiente",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSFF6TWJ4NnZyekZMYTlvajBLUFVDUmY4bFVSbzFTQzgzTV9wR3BRdUpDSFFsd2FJcFd3cnFQa21WTWJsLTdLY0ZIQ0JPSzgwdnZpaUJSc2VyUDNkRjkwYTI0TXNJTk1PUmU4VWhvOW9wODJCcEg5Z2VhSzU0cGxYU1Vvd0NrdlQwUFJWekgwc3Q5aFREZVdVLUdIMzY?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:08:48 GMT",
+      "description": "Caso Álvarez Puga y Gómez Mont: desvíos millonarios, la mansión de Cher y una extradición pendiente Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Aseguran más de 8 kilos de cocaína en artesanías en el AICM",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2E4b3FFamtxS3lvb2ctVC1WVGs0RGc3Nk1UWUhmOUltMzM3TDZMMmZ2NDhpRmZPVFo0YkxqSzRsbGNCRDdQS2lyWGJ3ZVdYNHpGdjhEYjVjNjRrSi1VSzcyTXdMUGl2di0ycmVERllkMlJfMng0REpCUFlKcl9nNEtySUVhUzJx?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 20:03:55 GMT",
+      "description": "Aseguran más de 8 kilos de cocaína en artesanías en el AICM Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Inspección no halla delito en renovación de edificio de la Fed, aunque sí mala gestión",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVFFNjFTNUhhcVBoSTA3cTcwWnJ1NmxZNnc4MWctSGZHalhRM09wMUVsdk5Qd0xYQXRLbXA2UHlMYnliaEczeVYweTFKWlFXNVhLa1Z4NHplZjJ6WlhnSi1QaC16NEczZURndDZaaWFmR1d1UzlQY19nS1FqNVF1S2I1UXFvYS1SQUNDbjBYOHN4V3UzQUxwUWxGSUpHSGdnZHk3RUctbXE5S2MyMXZDU3VRUHdxZjE0ekw4QTdGWC1jYy1xX0Y0R2phb2R6dnJqa3lCbnlvallfeXl1cm5VemJ3?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:35:30 GMT",
+      "description": "Inspección no halla delito en renovación de edificio de la Fed, aunque sí mala gestión Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Murió Jorge Kahwagi Macari, empresario, exdiputado y exboxeador",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlU1dnJ4ekJNVy1uVTZjRVRzc3VzRVFsZUVxM0llTk1RVVdENVJPU1RscmpHWWxHNl82ZkFBVEhtVkRCYVdRRnFHdmw1dEFOU2hUY3NKRVFTY00ycm9CWG13bHJSNzdHNEYteThhZnZzbEZMUGo2SlJNZkkzZzlvSllTUXVzSGpoZTZoMnhyU1pvX29JSlVR?oc=5",
+      "title": "“¡Fuera Calderón!”: SME protesta contra el expresidente del PAN durante el Foro América Libre",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVUZ1QWFVVDY2VlVVbjBiVVQ5VEVSSG04aGI4eEo1SXN6Zjk5TTRNZ3ZHdUNyQWgxOUdUN3A1QWlUdUhuS2NCZEVVbFphTXAyVExMd0NwcWVaSEpyeTh0ZEI5bmRhUGhqRHUxbGhoVFI1bWpvV2VuRXJZZ19fejVDMjVmNXJVSlV1M1dsdC1kdmFfUTRoYTRzTVNBWExRQWlVOXo1cEVpci1kWl8yTk1ZOUtOWXJCdzJKekcwRzZoakNjSElocEVWMXBjclMta0lYOVpZdU9zcTZHREtoSkdR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:12:00 GMT",
+      "description": "“¡Fuera Calderón!”: SME protesta contra el expresidente del PAN durante el Foro América Libre Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "\"México está regresando a una nueva versión de la dictadura perfecta\", dice Calderón en foro del PAN",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN19IMTktRVdnNXhPbFpyX1kwY3BQRXpJZTAwaXBXRk93UVBpZG1EZlZzQVRFSGUwVGFQWHl2bm10ekdILWJscU5CTEpaRTBucWc3dVZLdkxqdEVtNkV3ejF3dnBEd2hIbEFabTNmMl9VM2NOZmFJNzI5SEVJaWtqWUdHSkd0TDMwdnhSMFpZQzV1OGl2TklpWnNCajVEc1dPTVRBLTM3SkZzajlzT1FtcDZhSF95Q2JnVjV4clE0OGhkeDc2bklMX2dHblhyQnFNR2tJY2stYnJtSjJ0MjVoS29ET0Vrc09WQmN0Rmp3UXdtTkZNQUJr0gGLAkFVX3lxTE52WWxMTmREN2E0VjdWLUYtOXkwVzY5R2VxRWVJTXVZa195NjRKZVpWQU5LRF81OU9FU29Lb0dTNDFOODVHbm5iemd1R09oUDBRWTFza2xId1RMX1kwZFBiOExCbW5feElUbGhybjVIaERtVXhucFpnUlg5X21nNEcybU8tX3g5cDVjSnYtZDNLX0tJR2d4a3Y0cmxaYWxIRVNPRmYxMndaT2RfLUNqSzFxQW5IYWZQUUNHdElxT0NDNzZEYjJ6Q253TWcyQTIxYzdkampzcWp5RFYyRV9LUmpSZDI4al9qdG16bzlSbjBkRXc0SEo1MU9BNmQtbXpXTWlXMnA4RUN2TklEYw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 19:03:00 GMT",
+      "description": "\"México está regresando a una nueva versión de la dictadura perfecta\", dice Calderón en foro del PAN El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Murió Jorge Kahwagi Macari a los 58 años",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zSWlMaFNZN1c4dnpTOXpVLWtLaEdOY1FMTkZVVk5WQndraEpOck1ZTGJ1dUkxdmUwWF9kSjdaQ0ZyYnFfWXlRQXp1aTZmM2QwSmYyM0d0Si0wUUt3QkxZMmtBTUU5S1JIQ1FYU1ZGRnlEdw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:59:34 GMT",
+      "description": "Murió Jorge Kahwagi Macari a los 58 años Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Fallece María de los Ángeles tras ser quemada viva en Morelos; FGE emite ficha de búsqueda contra Yamilet \"N\" por feminicidio",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVVVUUm1UbzNJVHJZX21WUVQ1cHJ5OHlTbmIyTHB1S1otN3VtYjhlZTJiN1hKR3pvb0VITVo4VExxWHhQOXdEVnhWaEtkekVzQlJFMHpXcmZ4dnBIY1V6aENTajJqdlVIY3lwbW9acUY2Z2ktRFZTaElpN1daaHRqWVE5dWgzbWJZY1k2WEVCQ1R5clhIMmh5b2RXMi13V3JGNXVNNXRPbTdwNVplQWVnQ1ZhcmYzc1E1YnBKVWt3VlRsczVmcFVWTUpzVlN2NU5WZlBjQlNQbDZOREoxUmFudmJxM1hKYUJyMktiOWZIcjB6NVBvV01OXzlB?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 18:15:30 GMT",
+      "description": "Fallece María de los Ángeles tras ser quemada viva en Morelos; FGE emite ficha de búsqueda contra Yamilet \"N\" por feminicidio Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Muere Jorge Kahwagi a los 58 años; Manuel Velasco y Roberto Palazuelos lo despiden",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWG9VMjZsNnlIUVpWRUVoTE9NZEdFSzUybUxoWV9ROVV5Yl8wYVRmVXV3RFlweXktQmpyRkk5MGVxd0ZoV25XSlkxSUV4UnRsRXktVjljMlVoR0o2TkI4T3F5dWRUaHByWF9ROEpXOXZFNE95cG9rVjZiOW1HYUdmQjJCN0d6T09jeFptZmUwOE11Q1c5dHFtT1VSWFJWWEJ1bFEyZUdPVGk1UHJ1emR3bWpub0JZVDkta3oxa0dzT3ZDT3NKNnYyYXlBVEsxXzdPS20zeUhaaFRiZjhTcmtYWUVR?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:11:00 GMT",
+      "description": "Muere Jorge Kahwagi a los 58 años; Manuel Velasco y Roberto Palazuelos lo despiden Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Gustavo Rivera",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sRW9nVXA2X2tFSDRwTXN4aXVKNVZzQzkxb3lSLTFWTmEyUVhLbVprTl9PeWZoMVdNeDd2THdycjc2WER4MExyQmNBUVVSZk4wWlhRRnh2LWlKa3NFQlBtRjhrRQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 15:58:23 GMT",
+      "description": "Gustavo Rivera Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Falleció el ex diputado Jorge Kahwagi",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZczA5OWoxb1RDWVFKdjN2cVFwaldyZUNBa1ZjX2pvQVVCMThkZVlGaVIzMG9sSWRWWV9IeVdPZ29QV09NMlVKQUVyUFgycjBwc3FETE1mcjNINUhCWXFDY3hielBBcXItOFo5bEppYjZ0M0k1OVdiTEp0OA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 15:53:55 GMT",
+      "description": "Falleció el ex diputado Jorge Kahwagi Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "¿De qué murió Jorge Kahwagi, empresario, político y exboxeador mexicano? Esto sabemos sobre la CAUSA de MUERTE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ2xvUklWcVRGY1Rzalh3RHRQZk9kSVhvY0UwWGphcThVQVdMejVjeU9CdWhxZGlqbmJvbGJtZG41MHV4Q3JJS0FWUVp1MWxfaE82S3VtT2RpUVJXdmxOU1hOczlfWkFKN3poaUkyeE5UV2JuVnp2d2F4bHpkSkVUYTZYUDctRjNYSXlkVNIBjAFBVV95cUxPVDRaNkFZQUpMY0FwLTM5Wk8xOFFWUjd6OU81alFMSnFEb3dnTXpRenJpcU55M1A2QmwySDJQMGhReXhJVGNYVy01X2dibThtSER0M3RMZkhfdUpiWFpqRy1LTEpHWWhGQW4xVDNjcFB5MlZyTUp0QmNqZXJsaW9oaDZxQzRBamNjWEhDOA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 15:44:00 GMT",
+      "description": "¿De qué murió Jorge Kahwagi, empresario, político y exboxeador mexicano? Esto sabemos sobre la CAUSA de MUERTE Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Muere Jorge Kahwagi Macari, expolítico, exboxeador y empresario mexicano, a los 58 años",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUlU1dnJ4ekJNVy1uVTZjRVRzc3VzRVFsZUVxM0llTk1RVVdENVJPU1RscmpHWWxHNl82ZkFBVEhtVkRCYVdRRnFHdmw1dEFOU2hUY3NKRVFTY00ycm9CWG13bHJSNzdHNEYteThhZnZzbEZMUGo2SlJNZkkzZzlvSllTUXVzSGpoZTZoMnhyU1pvX29JSlVR0gGXAUFVX3lxTE1taklfOExvaVJRaUp6VVd4UjR2TXROUHBYNjc1dHdyNDFiclo1M3VrOGlmbEw0Zm53UThZWG9pcGhqc2lGQUFFZnV1ZllBNC02WktsSUhQNDRqMTgzWHo2RXFTYlQ4TWhrTmxnRHZGU1FlSGRGdjZ6WTJmLUpsT3NGWmE1S19vb29ydW1uWmlTMXJDYmowSjA?oc=5",
       "pubDate": "Wed, 30 Sep 2026 15:37:00 GMT",
-      "description": "Murió Jorge Kahwagi Macari, empresario, exdiputado y exboxeador milenio.com",
-      "source": "milenio.com",
+      "description": "Muere Jorge Kahwagi Macari, expolítico, exboxeador y empresario mexicano, a los 58 años Milenio",
+      "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
@@ -88,19 +214,19 @@
       "title": "¿De qué murió Otto Sirgo, reconocido actor mexicano? Esto sabemos sobre la causa de su muerte",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzFLUmt2VnNMM2Y2UG1CYWRUMTJVUnVfXy1ZeDRXSVVFbmxfUUhpZy0waGRJMzlvbWJaQnRXQjRLcmJHR2dSVkpvcnJDM1ZQMmEtN1BTUnI1cGFYclMydzVJZE1FOWZJSlpIc2lhMWl3Sk5JaVU5ZmJxWTIyT3JIU01BckZXYm0zUncw0gGLAUFVX3lxTE4yMC1kMjdJQ3lhUXVuTDZHR2YzcFNyTUtwRU92WGI0SXcwRzBLSFBSc0pjbmRtOFlrbC1hOVdkdWZ6UnhzeTlSYjhUU0lYM0Z1SmFzSDk3S1JGc1hreHR3QmpGaU1la0ZheFM3YlFOejBRV3g3cElCOThaZGwtQkNMMnBQS2ZaQ2pkS2s?oc=5",
       "pubDate": "Wed, 30 Sep 2026 15:00:00 GMT",
-      "description": "¿De qué murió Otto Sirgo, reconocido actor mexicano? Esto sabemos sobre la causa de su muerte milenio.com",
-      "source": "milenio.com",
+      "description": "¿De qué murió Otto Sirgo, reconocido actor mexicano? Esto sabemos sobre la causa de su muerte Milenio",
+      "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
     {
-      "title": "Piloto de FlyDubai apuñaló a otro y trató de estrellar el avión: Primer ministro israelí",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVDhfeE5BeHU2NldOR29WbXVuMUFXYjFRYXlWNWdXLUY5ZTBXZ1BJOG9TZ2tBUjZkbDRGcnRwQVZxXzM5cHA4S0V3VHhMZy1EcllPM3NHVHVJSjFYTHd5U2Iwc2o0aGhYX1oydUlSc3E2QmRUSWNlOE5JVUV6aC1BZlN2N3lfekJTOE85SGJUT0xOYjlBVTYxYnp4N2xRcmhaN0pObmxxUUNLWmcwZzBZUzRoR3RJVHh2RDRqLWtST2oxRU5UVGZ0YTZHU2x1RVd0cU5sWmYzM3lYN1F5b2RFdllQUVo?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 14:53:00 GMT",
-      "description": "Piloto de FlyDubai apuñaló a otro y trató de estrellar el avión: Primer ministro israelí proceso.com.mx",
-      "source": "proceso.com.mx",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "¿Qué enfermedad tenía Otto Sirgo? Esto sabemos de TODOS los padecimientos que enfrentó el actor",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVVkdF9yQkxhRnhuRTRqSUdkOU1zaVpVNDlfeUFfZkNCcC1BWWJtZl9mMXFMQkw0M3E5b05wNWFVRWYyWGQtVnQyelBXb1pGUnNoa2ZoYnlGeHNGZVE3RWpjZmxmdy16U293WTViellpNlIzMlBCV2w4WjRmT0JFOE1MT05zZVUwZVotcE9QUWU5ZGhxbXlV0gGXAUFVX3lxTE5FVjR3Q2NCYXNWdnU0WHh4cjM3WXFGVHlSdDgxTEI5RU85ZkY1X0FETTZxSmpyRHlacG0zLVptWVBNa2NPOGNTTzZyVzB4eFIwTU9QaGRMTDdQdUJNblN1SVdfREkzMWZ0YUJ0d0cyc2kydC1KNHY0YW9TN0QtMUI5LTZYaFpUTTBzdEZGNU5pcURlQUxXVFU?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 14:31:00 GMT",
+      "description": "¿Qué enfermedad tenía Otto Sirgo? Esto sabemos de TODOS los padecimientos que enfrentó el actor Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Se intensifica 'Rachel' a huracán categoría 1",
@@ -112,13 +238,13 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Colombia entrega a Ecuador a la mujer y a la hija de Fito, jefe de \"Los Choneros\"",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczN3UzAtai1vdHFmbkJIaTA0RzRERWhFbldselNHWEtRRF8zNllOVVpIZ3YtbUExSmZXQ2pIQUItRU03eFdMNnJucWpTT2Q2NHp1WkMxOTVFWVJ0LXoxR1JsaGtVdXhNQjNRaDBqbmZDWEt5dnFWdUplRVIyd2tSSTJYNENidnk0UW9PQU1wdVFVUkZfS0JIZUxMRndSOGNabkZfRnUxekg0UDBCbThZWWVNRnA2Z2d0eF9TWVV0OHpCMW5kQnFlOEZBZzRPNEZIMmc?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 14:19:00 GMT",
-      "description": "Colombia entrega a Ecuador a la mujer y a la hija de Fito, jefe de \"Los Choneros\" proceso.com.mx",
-      "source": "proceso.com.mx",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Matan a juez de paz del municipio de Mazatepec, Morelos en ataque armado; hay otro funcionario herido",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUthTUVYY0F5ZjN2eEJwc2s1WHRQUkthNlU0RE5UeThYdTE4OGYtQzNaSGNvTW9Ua1NMQjQ1ZGJUSlhqQk5LbXFsODNTZ0hZeHN4U1hfX3FFUERQQWotTENtZmc3aU13SEZZRl94YTBnS1RXQnl3THoySzlNdjNudVpRbm52OTZNNk1ZUHpUb2h0Y0tMWHdTVUhxLXV6a2tFaXlJaDNhdjhmc0E2UmNxWlVxNHMxQ3RfZE4wOXEwN2ppZ2hlak04ci1JUkZXUHlNZXdpd2hB?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 14:16:00 GMT",
+      "description": "Matan a juez de paz del municipio de Mazatepec, Morelos en ataque armado; hay otro funcionario herido El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Mañanera de la presidenta Claudia Sheinbaum minuto a minuto | 30 de septiembre",
@@ -140,7 +266,7 @@
     },
     {
       "title": "Morena descartó a cercanos de AMLO para sus gubernaturas: García Soto",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21OVTVMVGhtSlJvT0VkRnh5d2swWk1XTzVBRTNEczhhWU16TU0waDJEckFvMEJvblA3RFFDbDZjQXJIdU4zZ2paYVFJOFBNY1lJX0NfVHBnVHQ1ek9ZcUJ6Qm9rdm1KYlE5MVBwaTlIc210UE4zdUN5djh3cWFlRWFrcldOSFdkeUd6THFzN0lLcWtGUFZ6ZjAtWk1JcVBiOG92a1BLemJzei1kQkp5UnRGYVp6Q1BGa0xmdGVnZzJCN3A0UHBDdEJRRk1Md2ZJRXRvdDNXbkNIOHFmWWdvcHVjTmxzNG5uVVFj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM21OVTVMVGhtSlJvT0VkRnh5d2swWk1XTzVBRTNEczhhWU16TU0waDJEckFvMEJvblA3RFFDbDZjQXJIdU4zZ2paYVFJOFBNY1lJX0NfVHBnVHQ1ek9ZcUJ6Qm9rdm1KYlE5MVBwaTlIc210UE4zdUN5djh3cWFlRWFrcldOSFdkeUd6THFzN0lLcWtGUFZ6ZjAtWk1JcVBiOG92a1BLemJzei1kQkp5UnRGYVp6Q1BGa0xmdGVnZzJCN3A0UHBDdEJRRk1Md2ZJRXRvdDNXbkNIOHFmWWdvcHVjTmxzNG5uVVFj0gH_AUFVX3lxTFBuSlpLbF9IR1RhblQ1UE1MaFk2dTZ3NVVDblZIWjc2MUdIeE1XRnpSY2g0WmJQNGowamwtTENXUklPVVljYWo0NEp2LXl5eEVyQTRPZ2xZMWhOODNTU21YZTBtYjg1OFZEbmdkbXJ4d3VfenpSRGJtSG5hYXF6cXFidFBfa2dnZHRzTV9zREViYjE5Q3FudWx4cHJIODhBSUxsRUloMjNYOWNybWNSdnNHUXdkRWNDa2JBdVIwMXVhcnI5akV1S05YMWwtUW1TQ2FNdGlvYVdhTFBPaUVrVzFadHM1Ty02Zjg3YWtwMTNxQklvbXMtcGhuX0VaZ3Utdw?oc=5",
       "pubDate": "Wed, 30 Sep 2026 13:31:00 GMT",
       "description": "Morena descartó a cercanos de AMLO para sus gubernaturas: García Soto El Universal",
       "source": "El Universal",
@@ -148,28 +274,10 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "‘Se ha complicado en SCJN el tema de prisión preventiva oficiosa’: Aguilar",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdExaLUo5Q3ZYc0YxMlZ1eklKdWxTR19uaEtxOWNpcDMweU1ROHY1ZXpWSnF3X3ZZWWdwd2ZxbnN1QUxiRGI3NW5CZDRDdDZjdVFud1lMYm80MlNPamdsdkRfUjBQTV9tb2xHQ01TTy1XeEwxM1lTOFQ5cmZ2c28xVWhBLUFXeVhpMnZKUzI3YUJ0dWZ6Q3FBXzdDLUhiSVlOM1BXVzR2amFSTk5rRnpXVEVJQ2RoT1NjWWtCRk5TZG9MZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 12:06:18 GMT",
-      "description": "‘Se ha complicado en SCJN el tema de prisión preventiva oficiosa’: Aguilar El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
       "title": "Andy y Amílcar",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCTFZKRzBUUFBSQ3F3NEthUkJFejhid1Z2dXlHYnU1am5VSmVwRURjUThrRXZicHhUbWNyX3Vpa3RZd0M5Mi1zWGVqc1NNcE9QeUd6OW1oc1E0aVlpOUtrSzU3M1VtSFh6a2c?oc=5",
       "pubDate": "Wed, 30 Sep 2026 11:17:55 GMT",
       "description": "Andy y Amílcar Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Afirma NYT que indagan a 'Andy' por huachicoleo",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSllRMVhqYTZsdUJGZTNWQWdYYTJ5OHVHTGxCT2FrUWNXV3Fqdi0yS1R4eVdzV01aVDFNN3lDczcxSnpmVEYyLTJMLVQzM3FPck5SVUhjS2RnZUpUVEN5MDd3Wmo4ODRrcVBMUnljbjdJWXM5UzV0YlZFdm1FMzJpbXJWT250dw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 11:04:29 GMT",
-      "description": "Afirma NYT que indagan a 'Andy' por huachicoleo Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
@@ -187,26 +295,17 @@
       "title": "A México se le acabó el tiempo, se podría entrar a una crisis fiscal; “Muchos derechos se convertirán en meras ilusiones”: Cuéllar",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMzNZWGktUU1ocWxmYzlrLV93LXdiMTBWUkxHeE9iWUUzNW1NOFlpbFB6ajQ3Y3RHSjJ3ci1sT0MwZUVXdnFGSHU5eHVoMUZEYTMzamZ5VVFiZFhhUWxmb3dMOEZuTHBYQXBTc1VCWkppOWZSdzhoOVFZSDgyREhVY19ZekpuZTlrcGluVWdUS1pYd2RlMnVSSnlOQUw4d2c0aEVRT1lCRzJmd1lMaVNCb0tiY194bEJ1MlRMLXZHOFVucGMwQTNucmxyMXR6TUU3UGU0MFpNRUxfUDUzbm5RWnhCaHhKMG9JUFhoZDl6Yw?oc=5",
       "pubDate": "Wed, 30 Sep 2026 11:00:00 GMT",
-      "description": "A México se le acabó el tiempo, se podría entrar a una crisis fiscal; “Muchos derechos se convertirán en meras ilusiones”: Cuéllar proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "A México se le acabó el tiempo, se podría entrar a una crisis fiscal; “Muchos derechos se convertirán en meras ilusiones”: Cuéllar Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Frenar la venta ilegal de animales silvestres, una fuerte problemática",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWxOQUJsQkYybmU0OFFCal9tRG84eENVXy14S0c1eWt0Wm1vam0yazZDRV9EQ3hZcjd5eGZvOWs5RExjUm91Yk1pY1ZaVXdTc1ZlbEU2My1VaTYyOEVTYjNTalNlX3JmR19pMkd4VjVkbEpwRG96UFRraHdHQTNfaXBfVmFUb3JhQ2laN3pXUkFXa0xLU0VhSi1BRHFDUdIBowFBVV95cUxQc29tS1VkZmJvV3loTUZTZEdVb0paUnFHak9YVVVhTGkwUDlacTF2SDNrZ1pmQUFoZHpYcUtKUmlvT1F4VUpuaUdkb1BrYnJQQW5TMlUxMER3a3pudjFPWDRPVnB4bUNMTG9nWC03UGo3c3dJbU9peHNxRFF3SW1ydUtHMVg2alIySlp3LTZaenVyRWhvVjlJenAwaDVDeHE1anVr?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 08:30:00 GMT",
-      "description": "Frenar la venta ilegal de animales silvestres, una fuerte problemática excelsior.com.mx",
-      "source": "excelsior.com.mx",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Acá, esperando la carta de renuncia de Corral a Morena",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVpSYTlCZ3VmMFg4ZWhHanFmQllVSmwyOVdNaS1lMWNZX1lrX2FVYmVWTkhYdDZnZEZHQVZiRE56bG01b0l3SW1SckVFTHhRaVIyQmg1SEVXcXd6RmZwS2VVMnE0VkdzS0FhQlNCaFo0ZElxZzZFSUJfTzBpeVRTdEVaT0dVbW5uTDlEelRQR1hjOUFKR04wSncxSjRTUlVTekRn0gGjAUFVX3lxTE5waHR0WHByblVjQXh4dU1LcDhRU0JxZld3dnFPNGFkOWVLRWtCX3FZNndxSTNTVk54Mzc4dndqN3hHN0NLM016Z0V6WjJoS0xUOE44NkVxQUdjVmFfQjRpTnVaOTZLNl9IODg3dTg2U3BvazZmRVRYZGp3dWIwOFFKekMwazgwVVhQU0tZSGdvMHJDTk9UVmhMOVVLQVhDV0FSX1k?oc=5",
       "pubDate": "Wed, 30 Sep 2026 07:58:32 GMT",
-      "description": "Acá, esperando la carta de renuncia de Corral a Morena milenio.com",
-      "source": "milenio.com",
+      "description": "Acá, esperando la carta de renuncia de Corral a Morena Milenio",
+      "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
@@ -229,10 +328,10 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Maru Campos se lanza contra resolución de la Corte; Morena litigó y le concedió que se queden narcocandidatos, dice",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXMwc1Q3Q3pPYm5DSnhuMjdOX1gwenlyWGdYRmpMNmJ1a2VDWFdNaWE5SEUzamwxX2JMRzhhRGhTRWtIdHl6OFdDSm5UcWdHdVluai04WEpwSEFEOWtYRWxwdXAtSmpEQXRpRmc1aVlLMkc2b0xrckZqNlhzX0tGdVlKS2Z4emxJTkRITEVzWHVMRWdna2o1OEo1Z2MtbkVETGFjZWF0RjNaRFZGZjZQb3JkYlFHOVFpMXg1cm1ad2JobS1uMkdrTXlLaHBGOE1EdmhxMy1aNENMN1YwX25MNElFOUpxbzg?oc=5",
+      "title": "Maru Campos se lanza contra resolución de la Corte",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXMwc1Q3Q3pPYm5DSnhuMjdOX1gwenlyWGdYRmpMNmJ1a2VDWFdNaWE5SEUzamwxX2JMRzhhRGhTRWtIdHl6OFdDSm5UcWdHdVluai04WEpwSEFEOWtYRWxwdXAtSmpEQXRpRmc1aVlLMkc2b0xrckZqNlhzX0tGdVlKS2Z4emxJTkRITEVzWHVMRWdna2o1OEo1Z2MtbkVETGFjZWF0RjNaRFZGZjZQb3JkYlFHOVFpMXg1cm1ad2JobS1uMkdrTXlLaHBGOE1EdmhxMy1aNENMN1YwX25MNElFOUpxbzjSAfsBQVVfeXFMTWhpLURPeGh4UlVvdFhWWE1kX1VFYTE5N2Nnb05aOVgwMWE0VlBEN3g1NzBHM2xCckNXeFRaNlNRVW4wNjVCWWR2QVhwTUVCNDVuQUFVQ3ptNVBlZGtPMzVLUkhsZnBBUkp0VHd5SHVPNE4tXzRMTFItalhxZzJiX2tWQWJLSUZibE4zSFJPZWQ3RkhIN28yTTRMX1VWdU85UDlkaUJkUEk1cVFGN21CNXRKa1gwLU5PWFV3M0d2bGJaNjNFOG1aM1lDZUxhekFka25sN3lVdEdPV1FXY1BvZGJscDczX0hfTnl2eVFoX3hYU2ppZl80NFhRclU?oc=5",
       "pubDate": "Wed, 30 Sep 2026 01:58:43 GMT",
-      "description": "Maru Campos se lanza contra resolución de la Corte; Morena litigó y le concedió que se queden narcocandidatos, dice El Universal",
+      "description": "Maru Campos se lanza contra resolución de la Corte El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
@@ -241,19 +340,10 @@
       "title": "EU acusa \"influencia corrosiva\" del crimen en Baja California",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN09qb0hUSUhHZWJYT2pFNTJhZkNwZGxNUElHNzU2RkJIVGR1VDRlRlJ5OGZ2RWt0cEgtMWRuaDhkQ1VEMFVQSHB5LVcwWlVtSnJ0Wi1xbG5ZTjUwMk5iYjdScVRDX0hLb1pQVXkxY2ZQMkZCZVJ2NHg3bWQxUUdUNXV4V0ZNNWstY3Z3UkdGWGI0SG5OdV9QOS1VVnBKd9IBowFBVV95cUxPYnZxNnI4eTJhdnpKcGZjV2twaU5Fcmx5N1hkQ3hXeEdXTTduak5qNTZRd0FsY0U0Smt5blBSalB5bGdXM3UtR3hkZXJ5N3AtVEpfWHRkVE5hRGlNUHowYVhHUUFIZEZlekYyUkx1dkFKckIyQ3p2TUJ2T28ybnNPa0RhQWRkdEVlekgxOVJBOEU0SmhxRzFRNzNTNlRSUjZGMDVn?oc=5",
       "pubDate": "Wed, 30 Sep 2026 01:22:42 GMT",
-      "description": "EU acusa \"influencia corrosiva\" del crimen en Baja California excelsior.com.mx",
-      "source": "excelsior.com.mx",
+      "description": "EU acusa \"influencia corrosiva\" del crimen en Baja California Excélsior",
+      "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Se deslinda Gobernadora de BC de Torres, sancionado por EU",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGRkX2RISU12a0hjWEx3eXVMcTRiRmJRWllmZGdpakRKVTdJT3I3MzVES19pblJoUVU4aXVLWnJpSTFYVDlOekRGQVBtMVdzU25qNk9CWXBtMHFEaHV3cjUtNWYzd0dxRE1Ga3g1cHpMNHRsbG1QdGFlcjhuOVFEMVlHaWN3d1oySWE2VURmSkNxNTZ1bkE?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:09:28 GMT",
-      "description": "Se deslinda Gobernadora de BC de Torres, sancionado por EU Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Hasta hace 19 días, Marina del Pilar aún figuraba como socia de empresa ligada al Cártel de Sinaloa",
@@ -265,26 +355,8 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Suprema Corte invalida sanción por injerencia de la delincuencia en elecciones en Chihuahua",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeWprdndqOUdoNE9mUmJkN2dXUGhxOTgwVEtvTjhQUm9naUVmWmZhc1Y1dFVfMW9UUjltcmMzZk5yQ1VZdlBwMTdhaTJzOTdLNFRTWXhUMFc1aUxPaXVPNkxRT2Z2LWF3WExvbFotMDNxdmdQdFFnT2RhNWFCZFVjRDlDb0toSTRtVnh1c3h4QWFOODZic3lOWVB6UnlxR3gwWE4tUkNXekJ2Wk5wVkNDUWdZdnJlUHRxOVY3RVRvT1dGZW5jMTZaSlIxMmxXdw?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 22:43:00 GMT",
-      "description": "Suprema Corte invalida sanción por injerencia de la delincuencia en elecciones en Chihuahua El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "¿Qué enfermedad tenía Otto Sirgo? Esto sabemos de TODOS los padecimientos que enfrentó el actor",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVVkdF9yQkxhRnhuRTRqSUdkOU1zaVpVNDlfeUFfZkNCcC1BWWJtZl9mMXFMQkw0M3E5b05wNWFVRWYyWGQtVnQyelBXb1pGUnNoa2ZoYnlGeHNGZVE3RWpjZmxmdy16U293WTViellpNlIzMlBCV2w4WjRmT0JFOE1MT05zZVUwZVotcE9QUWU5ZGhxbXlV0gGXAUFVX3lxTE5FVjR3Q2NCYXNWdnU0WHh4cjM3WXFGVHlSdDgxTEI5RU85ZkY1X0FETTZxSmpyRHlacG0zLVptWVBNa2NPOGNTTzZyVzB4eFIwTU9QaGRMTDdQdUJNblN1SVdfREkzMWZ0YUJ0d0cyc2kydC1KNHY0YW9TN0QtMUI5LTZYaFpUTTBzdEZGNU5pcURlQUxXVFU?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 22:31:00 GMT",
-      "description": "¿Qué enfermedad tenía Otto Sirgo? Esto sabemos de TODOS los padecimientos que enfrentó el actor milenio.com",
-      "source": "milenio.com",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Morena y aliados aprueban reforma contra doble nacionalidad en el Senado; remiten proyecto a congresos estatales",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmlyVlhDLXZuWkZxUU5PRWVHNUxSVHB0VzJzM0gydGhQcklSVEszdjZUTzdMU0NLYnNhWXlodnZ3enVuRjBPM253Qzh1YXNiOU9MY2tzeTBOcFRlOVRXV2pxbDdibnUzVTZnS21FR0NvbGtXcEdydTRUVnN5U0RDdDgtdkhMSDJudFM0RkdNc3laNW55ekVhUlFIZC1GQlVndjFyMUxJY1NNYXl5aWY1ZlNpZl9tMTNuV2dHWS11Nmd5LTdRUzZlY2o3MzE1RkFkd2xNWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmlyVlhDLXZuWkZxUU5PRWVHNUxSVHB0VzJzM0gydGhQcklSVEszdjZUTzdMU0NLYnNhWXlodnZ3enVuRjBPM253Qzh1YXNiOU9MY2tzeTBOcFRlOVRXV2pxbDdibnUzVTZnS21FR0NvbGtXcEdydTRUVnN5U0RDdDgtdkhMSDJudFM0RkdNc3laNW55ekVhUlFIZC1GQlVndjFyMUxJY1NNYXl5aWY1ZlNpZl9tMTNuV2dHWS11Nmd5LTdRUzZlY2o3MzE1RkFkd2xNWdIB6AFBVV95cUxNNUhULWx5Z0dVYjFncENRU1djMmVNZUp3cTZIc2dEUEkzSnpGUHhZN1lnNGp3SXI4STlpMWJFSE5IR2N0Y3RENU5lTV9BdHJHUmhFOWpXVC1KcXI3SDAwWjNndUxRTG1mek5ITFlSRjM2cXhyV0o4UHRyMUJqeHhsbWpuQWNUck91ZG9vZWt6UHk1MUxjVnRNZ2Voa3hidUV4X0oxLTJPZUJiVDhXazJCUWJNdi1uQlE4Nm1QLUdYVnNENjRLUmg3LWkzMlhweDR2ajktOE5PaFhzdTgyMEpPWXFjaXVudGFq?oc=5",
       "pubDate": "Tue, 29 Sep 2026 21:57:00 GMT",
       "description": "Morena y aliados aprueban reforma contra doble nacionalidad en el Senado; remiten proyecto a congresos estatales El Universal",
       "source": "El Universal",
@@ -292,22 +364,13 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Marina del Pilar dejó estructura accionaria de empresa de su exesposo, Carlos Torres, 19 días antes de las sanciones de EU",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPM18zdjZKME5MSUcybXZnWThaNnQ5dDhuLV9NRDY5emFVa3RpQWVvSW55R1RRZ19DSzByVFdmOGhfLWxadTBEdlJYWDZpdnpLc0dEVk1pU3FLZWtZTmM5VFhsUTdITjV1Z0VqMjRGZlBKSEN3VWdlWTlsTC12aGNrMjhycmpxc2NPdm9JMVloQWZxcjJPc090cnFKMmpKTmVoSTNVZEpoalZqNUh4dmxQV3ZwNDZIWXd1N29qMk5SYnd4UVJhMjlDMzFzWjdwZVV2VkVCcG1DNGdhdkZ0VFhPTVVPY0Q5WnNjMWlnaVdYMA?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 21:43:56 GMT",
-      "description": "Marina del Pilar dejó estructura accionaria de empresa de su exesposo, Carlos Torres, 19 días antes de las sanciones de EU proceso.com.mx",
-      "source": "proceso.com.mx",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "¿Quién fue Fernanda Gastélum, mujer embarazada víctima de feminicidio y cuyo bebé no sobrevivió en Sinaloa?",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2pSTmRyeUxDbzBkNDN5RFJBdXRLeXAwRU5mcVlCM25rbndLY01vU0kzUE00YnFIT2UxQlNxN3BOTFVSbndpY0c3QzJIT0xiOFVCc0lMVExQMXJ3UUVIdjRXc0stOE41dU5wRU5QWXYyMHQtRVhXRVFMZXJNUUV0R0dNUENfTmJaLTc0UmpZQ3VlQzNfemswY2hB0gGaAUFVX3lxTE1TQ01JdmJBVHN1cWpOZkhHa2FyZUt1Nl8wUzdMcjB6clgzcTdRMlpOdElhZnJQSEV1dTZPOEl3N3FtcExTSzdEWmp3NUZCZ2o3LV9EMlljR2ZtejhlcTlMREtyOUYwNGNpQl9ycDRaT2I5MGlvUFVleldsSS1zcDBGa2k4UU5VZUlrWGpuQ3N1eHRMYVJBampqUFE?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 20:58:00 GMT",
-      "description": "¿Quién fue Fernanda Gastélum, mujer embarazada víctima de feminicidio y cuyo bebé no sobrevivió en Sinaloa? milenio.com",
-      "source": "milenio.com",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
+      "title": "Sanciones de EU a ‘El Mayito Flaco’: Esta es la lista de empresas y personas señaladas",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0ZlcnV6dnJaNmpXRjR1dFB4V1hTbGk4YkltWlQ5ZzZLekIwMGRFRHcydzFhbXdaS0tMZ1djTGh6Z190OWdPQzFIMFBZaHhDUlBLVDdTRUhqdkhwQ1p3d3N2VVBaT2FzS1JUMVJZRVh3WWEydWN1NGp3QXlSdF94UHZGWjhlRnlySXFvUFdZVU5BZF82RWdHakNveElDY0E1Si1xclhldnI4cXp4WVJCTDE1TUFadUtnV0xwXzZPS3RxcmllZ0J4c0FUZVFwZEIyWUE?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 21:35:57 GMT",
+      "description": "Sanciones de EU a ‘El Mayito Flaco’: Esta es la lista de empresas y personas señaladas El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
     },
     {
       "title": "Fernanda Tapia aclara ingreso ‘millonario’ y casa que compró por 10 mdp: ‘Esa cifra no es mi sueldo’",
@@ -337,15 +400,6 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Semar despliega buques y puente marítimo tras impacto del huracán 'Polo' en BCS",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONHNYUFhjc09WWDlYQjFESW1wejVCTHloQVRiMTNuck1QWkdTbVYxdVg4TWVsRHRYY0FCb0lxZW9oUHgzSHBEbHkxaVd5ZXM2RzFsWVI0YTRfaVlKeTZkTkpiREd3QzV2WE9jZk5nTXdIZUtXem13NTduOUxxWDFjSm1JaGJWbXcydHFiWXltQXVxSlJtYUVmOUQ2WVpIQTZYbXJHWERuM21vYzdtQktv0gG0AUFVX3lxTE9HUV96dUNKSHNNVkhPUEU3VG9uMW5jM3NzVVVGd2pNX1Zqblh1MUZPVlpTTlFIZHFORlJOZ1cxZjFCRFlXdlI2RXI5NFZQNnc2TWNhRTZZUThmQUMtWXlBQmVEeHNXY0RPb2Y4WEN0ZHNDWF85UWNVMGlONGZoMHA1NWRuU09fOUJ2MW03a1A4N1hKWjNIbWJrRUk1dWN6RHlaQ2t1MVMwTkNuMEx1OTFGWE0xcA?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 20:00:28 GMT",
-      "description": "Semar despliega buques y puente marítimo tras impacto del huracán 'Polo' en BCS excelsior.com.mx",
-      "source": "excelsior.com.mx",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
       "title": "FGE Michoacán advierte cárcel a Grecia Quiroz por celulares de Manzo",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnF1d0JfaXVSdHllNXUzUjhBNk45eGt5dEZRSF9jWk5QTzJUaktKT1BET2NZVmcycGxQMGxKV3VtS1pySkU1R1VwQ0pZVGVSODF3TmFyNkhlM2xPSkU5a1J2Q3lxVXlCNVdtd1lfQjZITEs4UlRHTHhRdUI5WWZlLS1Pc0lGR2NRRjZ0dXdCckxCTk9tdWZOUkwyalVYQTl2X2NXeVNhaTJ5QTl5ZzdiUw?oc=5",
       "pubDate": "Tue, 29 Sep 2026 19:24:00 GMT",
@@ -353,15 +407,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Sanciona EU a ex esposo de Gobernadora de BC",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHE3bDB3ZWVFVWhZYzFrX2tVUTc0SHpZYWVQUlZKNnVQQVllVGpZdElxc1lmU3lYd0JTbEZTQ1lULW1lMWQwNEpyaVMzTWt0Wlh1ajVzZ1JvTTNmWXZNRzE1TkhjeUs0Zkt5Zm1HTm9YVzAwNzJVNE9jajNjcG9RNF92OWQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 18:56:06 GMT",
-      "description": "Sanciona EU a ex esposo de Gobernadora de BC Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Agencias de Estados Unidos están ‘examinando acusaciones’ sobre Andy López Beltrán: NYT",
@@ -373,20 +418,11 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "\"Ley Antimemes\" es avalada en comisiones de San Lázaro; IMPI perfila multas de hasta 4 mdp",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQajN0eHBjSUF3Y3JNeTNMcHRDal85Wk1abnN1cXo5QXJtU2NCWDhIRmN6bGgwdGpmZG5OVDZYMThKbHVyTlBWNUJZMU9RejlzTVY0NWx6WFNVMXZrV19zRzFrUnB5cVpyVk92Z01aVzNkQkVCazM2bkc1WXljMXFLUmM1MDNsZ0VrX3ZCS0lvc0pqY2YyeS1ncDRuYUVsdFF0V0daRUJFbDN1d1lySnZCRGFvZ3dLS19hTGZJbTFmbUVFSWJ0?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 17:38:00 GMT",
-      "description": "\"Ley Antimemes\" es avalada en comisiones de San Lázaro; IMPI perfila multas de hasta 4 mdp El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "“Hubo mucha unidad”: Sheinbaum respalda proceso interno de Morena rumbo a 2027",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUG9Ud3F4MFV3YnpRcUhYaEY4c3dDMzFxT3FveE9BUnFfZ3lmcE9zanktbVFRREIwdlRPd0JzSlBZdEFsT3VvWkRWTEt5bDYxd25DQ2tVZ1RUckFTdW9UNXMzcW8tZDVhQTBJSDNqbFBsN1FoVzhhYU8ySlFzUTJzcHdYMUFlR0ZJbWdHeEI3enFkZnJlWUJHYWgydzVPc0RRLUhQTmRCcWd2b3BD0gGyAUFVX3lxTE9nbC1ZN21DOWtFNWM3UUJNTDJ5NXh2V3ltWVdiMXF5ZVhERm10UXNsWXA3RE5OVnNySmFvQmtaRmM3and1aFZRVXd4Y1RNdXhEV0o2bE8wa2hkX1JrNFB5eTlUZTlzNWVnalB2WDByRU5MV21PUkJnVXAwQkVDNmZ5S1lJWVg0Rl9GMWpuQzlmRUU5dU9fN1R4aUpOUlBVdFZ3VHpPTWxCMWc2cDdoMlY4cVE?oc=5",
       "pubDate": "Tue, 29 Sep 2026 17:20:07 GMT",
-      "description": "“Hubo mucha unidad”: Sheinbaum respalda proceso interno de Morena rumbo a 2027 excelsior.com.mx",
-      "source": "excelsior.com.mx",
+      "description": "“Hubo mucha unidad”: Sheinbaum respalda proceso interno de Morena rumbo a 2027 Excélsior",
+      "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
     },
@@ -394,26 +430,17 @@
       "title": "Asesinan a Fernanda Gastélum en Sinaloa; estaba embarazada y su bebé no sobrevivió pese a cesárea de emergenci",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdUpYVmR3Nk5CTGZfZWFKM0kteTVnc3hvckd1LUFrZ3dDcFZjb2YxUmx0Wng4S3dnMlRveHQ3ZWZOY3pQQ1JYNFNVblVWLUotdjBRSC03eTlLRjkyc29GbUJZUS10b1A0R19mbVEzTG93dy1Wb0ZBOGxnU3pTbnlwTUdCU1RqT3JONUHSAYoBQVVfeXFMTVlDalpleHNOX3V5OUNFdnZaeHBSRkkwb200Ym45UUU0QTBZMW1SUFcxekxOX1Z1VUphWVpnN1pYSkxTUDlUclZiR1huakRRVWZXTDg3TndJNVc4SUF4bE82RlNOYThsQ0p6aDhFVG1uajJ4UW4tQlYySUJlTFU4MVdjUE1TUVVBT3FR?oc=5",
       "pubDate": "Tue, 29 Sep 2026 16:19:00 GMT",
-      "description": "Asesinan a Fernanda Gastélum en Sinaloa; estaba embarazada y su bebé no sobrevivió pese a cesárea de emergenci milenio.com",
-      "source": "milenio.com",
+      "description": "Asesinan a Fernanda Gastélum en Sinaloa; estaba embarazada y su bebé no sobrevivió pese a cesárea de emergenci Milenio",
+      "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
-    },
-    {
-      "title": "Tras ser localizado, Amílcar Olán desaloja la casa donde vivía en Suiza",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbzZXR2IxWXYyaklaaVB0RlMxeDA5NVprYkFPX0FDVFBwbmJBaWVmWXByek1HT2R5R29uTkZ2TE1ibS0tMncwdkcyQlRBSmtUUUxzdVc0aDNFRHNjbWJzUDV0MXF0RURPWjQyTTFnTHFNZmFQUTMxTW94RC1rbHNZNDFSWUd0M2h5WHFXTkFFTFBqbHk0Rno5RTRpQ3ktM183dHNiVXpuVThFRVQxNWJhNF9aSUdEVFlyUVYxeWV4RjVNVVppMUxscHFqZHpyWTd5U2VycHZkZHBza3hXaUxCSDU2YU12WFJ4T1FnT1o1OA?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 15:41:00 GMT",
-      "description": "Tras ser localizado, Amílcar Olán desaloja la casa donde vivía en Suiza El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "EU investiga a Andy López Beltrán por crimen organizado y huachicol: NYT",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGJyclFfVnpGT1N1UlZIbXdYTWZIMDI2VjVHVUxVRk1GSGItSUJrclZ2V0hZVzVUV0JGU2ZpaGdGc1NqX1lzbVBfbGhnOU5oN2FqYWtzQm5OQzFvQVNrWXRfVHVQa3hJbkd3dkNoZjVPblZCNWNCWUNhMkFBZGxoSXIyNm1GSDBiVWE2Z21fcTNJREFNMEVoR1NJcmhKbk9QbW4tT3lMMldKLTlrYUlkYWxKLXZPWlZ3a1YwV2E0ZTh5aTlwVnNGcg?oc=5",
       "pubDate": "Tue, 29 Sep 2026 15:32:00 GMT",
-      "description": "EU investiga a Andy López Beltrán por crimen organizado y huachicol: NYT proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "EU investiga a Andy López Beltrán por crimen organizado y huachicol: NYT Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -430,28 +457,28 @@
       "title": "'Polo' deja saldo blanco en Baja California Sur; autoridades evaluarán hoy daños materiales",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFBDclByT1ctR0U5Ql95bFhsR1hGYTRscWJkQnBSZEdZVGNXQnh1Q2piaEphZlVFcUNLZjYyV05IYW5BT2NZV3pvWEw5NDQ3ZmtyanRIV2hYMUc0WXlrYk0xQ1VZa0JsdFJEZ1YzYW1tUUEtTE1laHlodEVKdmc3WDZULXZmRWdFVnRRZ3lZamNORVEtbnhYTjRuN3p0cFA3T29KMVlFZWwxNVhjN0FCdGRuU1R0X3pTYnpIeDJLQXjSAcYBQVVfeXFMTzZ3TzRrclhJSjc1bTVQWEZvR2NLMkFPbVh4S3Vpd01uTm1LUVRaYzRkLXE3Si1BMEY0clV6dldBQzd0X3JyX0ZocElVLXdWd3lBSWRvdVh4cVFXQ2NiUDJJQXM2bFZNN0NoVkdXX0E0UUsyTmc3bUZLY1RvclZ1eEFPWEhLMk5ZYnlycGx4WGZzRjJVWDlTUVVrZmRPMWE5NmNYV1d1TDh6NTQ3NE91elVGZF9UanpzQ2UzcTFLbUdZZGp0UXF3?oc=5",
       "pubDate": "Tue, 29 Sep 2026 14:42:18 GMT",
-      "description": "'Polo' deja saldo blanco en Baja California Sur; autoridades evaluarán hoy daños materiales excelsior.com.mx",
-      "source": "excelsior.com.mx",
+      "description": "'Polo' deja saldo blanco en Baja California Sur; autoridades evaluarán hoy daños materiales Excélsior",
+      "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "La hoguera de Amílcar",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QdVlmZFZCN2NfQkZXbmE1MjJOSjRDY0F1QkxrYndvTm9SeTJ3MDZMZ0VOWUptSFJOTFQyV3Q1U2djdUgyU3pFNnpfSHNHcnJDSHYwZ1NkbUk3UFlZa2Rqc2pKQURNVFFONVl1NHZhMVpYaVAtdU5LdNIBfkFVX3lxTFBKcEZLODdENUkyZm1nWXdxM0tVeVVDWUl3b2lmZjBkUW5WWHg4VmczMERBQ3ZNUHQzOXAyNjNjSzcwUi1yTmMyNGxSckt3Rm1wX0dXMTJxZi1OUjB4d3o2VXRCS0V0LTdtZkM1VjZSZEh5eEFPbG1ub2NqZ2o3UQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 08:00:00 GMT",
-      "description": "La hoguera de Amílcar excelsior.com.mx",
-      "source": "excelsior.com.mx",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "¿Recuerdan cuando eran baratos los autos ‘chocolate’?",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbHJERjBfT3E5OXQ5TlF0ZEdlVXZ6RUFUd25KZXFGOW1EVGhXN1Y1X1hMUHA1cG5LckxyOFQ3ZHk2RnJyN2w0V19iS0Z2alIxUmlpMUJ0cVlMTnhGcTZGakd6WFIwRlJuTXp0bmhnLTFvMWNoZndWT3VCLVRqR29lTkwxc25oV0licjE2NzR2T242ZmduMTV1LVdB0gGfAUFVX3lxTE1KMVFfMU1xbC13ZmhtY2RxQ3FOX05GZk1OUjJWVUU4alJuSkp5aGhkQnhYZ0FHMDY0SlE1TTQtNGRUWGVFRTFyMkkwYkIwZnFFLUJIeEFTanFsVVlQeS0wOXVTSTVZTHdYelZvdHRQbWdHMXFXS3lZWmxJcE9oWnV6M2lKWHJsajRkMDJ2OU9wSnctWUdkOGVzSzY5UHloTQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 06:28:58 GMT",
-      "description": "¿Recuerdan cuando eran baratos los autos ‘chocolate’? El Economista",
+      "title": "Muse de Meta dio la dirección de un usuario a comprador de Facebook Marketplace sin su autorización",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORC1CNTBtbWZDcTBWNEhmYjRYVm5WTlZ6Y1FheHR0d2xuNUEzbVdLMUtTalJBd2xpN1pBM0ZKUDFXazd4Q0lpa08tRTZ2Nzdvb0YyV2J2WGx1bnZVWHBMYUczT25pYWFvdVZYc21xSVJISXVSMXJDalVmVmhRcmJ0NkluNFV6UGRkUWRFb2xZRmJqeUxxeFFJTDIwUV90ZGhRNU1vX2ZFazFMV2pIN0xPNXpYUXBnek1hQ05EbE16M0xycFJVSDQzZ0dCV2RlMEpFc3g4d1Nn0gHbAUFVX3lxTFBSc3JlVUZZd284Q0V5cHVQa2dfX2JvQW5JVVE5LUo5X1Y2aF9xQW5yYy1aZW9JUW1HNmNvZDYxMTRCU3RqWG9rODVsX0E5YVV3Z1BYTHJvLWtLbFpuaXJDWFVvdFJPLXNvTlg2LU5fYmtZVjBsZnhHLWdNcnB2UGZ6MlgxM2hpUGE3cTNGOWlsM0w0ek1EdGdieDNRaV9qbVBTaEZJN3o0VXNyTE40eEd1d0ZSbks2dHQwOEtFOGN1dkFZUjZZalFESm5yVml2WWg1MTduTkMtTkhHOA?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 13:59:32 GMT",
+      "description": "Muse de Meta dio la dirección de un usuario a comprador de Facebook Marketplace sin su autorización El Economista",
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Pide CSP a Morena revisar designación de Bugarín",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYmdPeHkwcDRrbFpSRkZDa0lhWFVDNTR4OVBZcHQ3WkR6TEUyNjBwYXRCSS1ZMHB2NG1SSXB4cVB3bUJDcGpZTDh0VnhNNURZdFpzYzY3UnpIUjR5dTItajcyU1dhS0xlQjN1UnhWNjBsX1I2eENuUzg5SW1OVVUzcHVqdnBLVC0zYnc?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "description": "Pide CSP a Morena revisar designación de Bugarín Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "La mitad de las afores ya recuperaron el nivel de ganancias anterior al tope a comisiones",
@@ -463,19 +490,10 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "‘Destapan’ a Clara Luz Flores como coordinadora en Nuevo León",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUo0TTRCZGtSWmIzMzg5N2x6REhhYkxBVDlLMUlhbWNIcUtMNVQxM3RGRHJCQjJ0RjZRVVZDdFhxSUd1REl1czRiMHRSaWo1SS1vNS14ZkJac2xDU3FHNXZvVko1WmplcXJ4SV9fWlJORHpwTmx0X2NYd09pdU5pUFp1eHR6cUJyMWszR2lwREs4cnNNMzdoX1NFOGxuMGU1cHQwZQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 22:16:00 GMT",
-      "description": "‘Destapan’ a Clara Luz Flores como coordinadora en Nuevo León Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Confirman que estructura prehispánica encontrada en Campeche fue residencia de élite maya",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWJLR0h0c2xveDkyc21GMW9EZV82ajhOOVg3a3R5N3Fta0JlV0lFUmUwaDd0SXlJbnZaRjdQcWxNMWJBenoxZWN6c2FkNGZ3WGp5aHpBczFQQnRzYmxQRGkzdjNFRktUQnVKZ3RaYk53RzB1TnpWbjU3ZG5HVmthZGczTXhNTkpjMmxPYmhjTVlUVXg2d2owdVVWa1A2RHp4aF9sbDFpUG5odVNkT2JwV0lUSjJvUVBaa2NWV1hiVlhrWnVTeG5oM0ZXWFR0dw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 20:02:00 GMT",
-      "description": "Confirman que estructura prehispánica encontrada en Campeche fue residencia de élite maya Aristegui Noticias",
+      "title": "Informe Ayotzinapa del gobierno apunta a red criminal en funerarias",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZk8zOE92MTVpNWxncVNyczhnVzg1SUF4aWRzZXlpSjBEOUJuNFNiUll6bXdTV19uekRHLUhSZmFnMmJPQlJ5X1VWNDdVblBybHBkMDFFRFJzNExtb2JfeldaeUt0MURQNm01NlhjUlk2REFwZjRORXBGazlLUmMxX29UM1owaU4xaTloeS11cE1kQTlSaExqdU9UanRaVHZ0VVl6bG5RUHo3Yk9WRG1F?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 01:01:00 GMT",
+      "description": "Informe Ayotzinapa del gobierno apunta a red criminal en funerarias Aristegui Noticias",
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
@@ -488,6 +506,15 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Lula agranda ventaja ante Flávio Bolsonaro a días de las elecciones en Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbVZ3NHdwNUMzQ0UzTXNTbGFhR1NBYlVzaG9jYnNZZmhhRjBsNmFGT0kwcXNEMHNiRVZtdGVQdlBVM3hzelFjbEIxakFoUTlsZTBNbUhTQXJ2S0dFb0NROTNqeTNlOUV4d2NQTGN0cm5PUzRjcFhqaFFKeEVwUkVKbGVGVUVDWmxXd3J1anlkQ3RIWHJMaTliaGd6UmhST2M0eEhYTTlYYmtsRVpubUx2MmpUWVlseHJ1ejI0?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:41:00 GMT",
+      "description": "Lula agranda ventaja ante Flávio Bolsonaro a días de las elecciones en Brasil Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Alertan por impacto de huracán Polo en BCS y Sonora; dan seguimiento a tormenta tropical Rachel",
@@ -506,33 +533,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Niñez migrante, promesas de papel",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oU1FFVk5jMUdEX0VoQ0pGVTd5LU44aGl2ZVpNMzBjM3dXMGhJRFE5cTZJc1hvcW94ck1uaXNuZEJUVFdoTndOWTFKZXZsX0xyb21IdDdjMmhkNGtnekZXTDBxSndnOHlQRFBqTzBPbHY?oc=5",
-      "pubDate": "Sun, 09 Jul 2023 07:40:43 GMT",
-      "description": "Niñez migrante, promesas de papel panel.animalpolitico.com",
-      "source": "panel.animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USEZXOXMzODFaajA2aXdxSWJiYms0c1dMUnk3dVFCS1o3VTFEbDhJWVhoUmdyRVBiSFZvbTZaaXZaNXl0azZOV0R6UEJ3YUFJNVdBVlFxWmIyT2JVdV8xaUhFTnM2c2ZmTU1UTi1CMno?oc=5",
-      "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
-      "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
-      "source": "NarcoData",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTkVzTE1oWFV0YWE1cWwyZVFxQU1RMUJpbXF4V1I5Q2ZiRkQ2cXJRMUd0UThXaVpmeE41YXlZR25tYWhINXBTWDRndUZ1ai01azZIZjBQZ2V2bGFvRFlyQjFpM1UxaG5GSW5OeU5sU3h3QldpYkpxRUFUYw?oc=5",
-      "pubDate": "Mon, 19 Aug 2019 07:00:00 GMT",
-      "description": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "La UNAM explica cómo superar el estrés postraumático por el sismo",
