@@ -1,547 +1,69 @@
 {
-  "updatedAt": "2026-10-02T16:54:52.568Z",
+  "updatedAt": "2026-10-02T21:30:06.551Z",
   "sources": [
     {
       "name": "El Universal",
       "domain": "eluniversal.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Milenio",
       "domain": "milenio.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Reforma",
       "domain": "reforma.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Excélsior",
       "domain": "excelsior.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "El Financiero",
       "domain": "elfinanciero.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "El Economista",
       "domain": "eleconomista.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Proceso",
       "domain": "proceso.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Animal Político",
       "domain": "animalpolitico.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     },
     {
       "name": "Aristegui Noticias",
       "domain": "aristeguinoticias.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 503",
+      "count": 0
     }
   ],
-  "items": [
-    {
-      "title": "Detienen al \"Capitán Sol\" en Zapopan, Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT1FmdzVFODdiU09hTXFaMnpWVkZyek1jVFY3UVNCWnJUcldTN1BBenRlemxPUm1FUnRQalBSbnpQREdsR0Nqa3UwMjJFNXNxSm5ESVlKOU5ySVVfSzgxemlkSTFuejRHVkJsZlBOTl9xREZ4RmlnVXYxeXdUaXZCak43V3kycDJUbHF2R2JDam9lME1DeDVYb2sxZGlPWjdVakZiZDRjNDR0NmfSAb8BQVVfeXFMTUxIWFVlWnlKZ0xqYTRxdk1TbVlHVGowNnRITFRra2FoY2VwWW93ajZkQm9qUEJuTHBJbkIyUWtSM2FDZ3p0Y0ItT3FCS29OU1BtYWxYQTRQeWV1V1RqZ1VuUENSZ1RSRmI5a2Jrb2ZEOFdkMVNBQ3RLV1dFbFJWTGdXR0xrbjI5emxNcmtHTTBiLW5GZU5PcUJzcUJIOWM0RlpWTzdCbTBwdjdmZ0pjRTN5bWtiR1NMR2xpb19LZnM?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:41:00 GMT",
-      "description": "Detienen al \"Capitán Sol\" en Zapopan, Jalisco El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Sheinbaum anuncia decreto para que plataformas digitales bajen contenidos violentos tras ataque en escuela de Torreón",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlVIT0NKNkdIdUdxekVVbWVHMlk2RjZEMFBkWlBXNkpLMnJ1el9FTVp5dG1GMnJWMjVFSms2ZHItV3lTaWdvU3gwTjVUOUFvb0V3YjBpVGEyTjE1ODV0OFFoWjdPWlNqRmhyWFNYd28zOEZ3b1R4X2N0aUVPVExqNDhMdFZFRWhieHVyLVRsYS1SMkpfX3V3OEZLSTVSYlM4bGU2S2Vn0gGrAUFVX3lxTE02U0dlYzI3MGs1N1ppbTZMYWRadDFUeXM1NG14ZjBLTW9YQkxGdnY3WlV1bTgzUVRfMlFCdTZ4c0p2OXhwcGN1N2x2LVU5MlY3UWtIazJOWGFuQklqZVk0LWxiTXRneVhXc0ZyLWpwZzN2Y29MeElHV2l1djF1d0Y3WEpHNDR2OE85eUthWV9vN1Z4dmltZmdxcDd6eGNDaWJWRzM4bTluMC0wYw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:25:15 GMT",
-      "description": "Sheinbaum anuncia decreto para que plataformas digitales bajen contenidos violentos tras ataque en escuela de Torreón Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTi1YVjF3ZjBLYUREYV8takNuenl6MEVsU2Z3bXpUZkdaaXVyU1lnVmZhTnZ3cHFGUEtJc1hDWlhtRVFqWmRqOUJBTjZuMHJIUWtVZHNZTnhxWVJpRVd1cVU0TU9YRlU5dnJfYTMxc1hNbTN5aHR0N1o3dHl1WjZOb0N0ajh3UWs2RFhZTTJZUlJIYmQ1SmJMemVlV1U2WUFTMUM4allJS0J3LVktY211MG5WeW56dWxXV0E?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:47:48 GMT",
-      "description": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Audomaro, clave en corrupción en sexenio de AMLO: oposición",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0hsa1d6NTBRa1M1YnVSQk9YTXRoUTE5WkVoOVVVTjhEVXZsTFlwSURBVXFDYjVZc0N5SUNZMTZyQ05feWttYjFrWExYamFhOGE1X2lOWXg2Q0pVQ0h5RmtSTFA5RFZuNFZBMGRrRGRBM1FLNnkzSldMN3RibXhXQTZxaUJ1TkEyem1tNnhmcy1CeGRnQi1FMnIta2PSAbABQVVfeXFMUE1tVTZ5blVnYXpFalNJQjJ2UFZsNTN4UEh6VkU4Vjlmenh3YWVVQXRtV3EzbkRTXy1KS3NZT25KYktOMFZXU2EwU2loaUNfQW00aGZLWFBsZHF1TmRHVmNBMTc4UEduUHVFeDY5eFp6OGhZajFaaVI5TjZQV1Fsc1N1WTlXNFpmdUxXQm42OURaMnN0MHRuanhDbnFlOEdGdF9iUHVaY3dhTEVGcFlnMnk?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:22:00 GMT",
-      "description": "Audomaro, clave en corrupción en sexenio de AMLO: oposición El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Ley espantapájaros",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93VldEYUIxZ1d4TjVEVDNNUTBlZEtTN0syTnA3azlqWU1fWURLb2ZXMVNjZTZQRWhwZlc3dENmMG5EcGlIeU9telhkOW5DZEtIemdxdU4zVk1Qd1VUdzcyUC02Tm9faXRhOUg0SVY0NA?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:05:19 GMT",
-      "description": "Ley espantapájaros Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Devuelve el SAT 13% menos de IVA",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zUUNnaVI1azEtNVltSHR4ZDVhU1d1VW1RLXFoSjhPWVZDSXFESEdZYjR2WUxvTWl4VGxObTFQN0VRUnBtU1BiSFBKcU5hcmgxZlBjcU9yMkVYclhNNzVxVGpQTFEtRnhLUTJ3QkoxZkVGelE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:02:36 GMT",
-      "description": "Devuelve el SAT 13% menos de IVA Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Baja California y Sonora contrataron firmas sancionadas por lavado; EU relaciona empresas al Cártel de Sinaloa",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOGhKanBtLWdZZHBmM1B1VE1aZ19EZ0IycHV6RGdjbWN4VnpKalYwR0lacGlmVktOSEFCRlpwQzhkSFBYaGhQTElxSHYyajJRYXZROGR1UlBQOHNhbVZJQ3hYQ2pPVE9fUFJsSFBvYUlObkVzcWlUMFFEbzFVSmRsZnNwMlhHRlpsRkpwVHZCajR1cW85d2VDR2ZYQXNpMkNieDY2WkNYb0lzM2tGSmxCNm9BNENiaHRXRy1FUXZCcmZiaktheUJyemxKd2RLOHBBSlN4UzJMOS1oZm9ZZGU5Wm1n0gH2AUFVX3lxTFBaU1lSSmE5RnJXMmZZNGhxakcxU1d1Vk1fejZEUGJPQ0MwVzVKdnNnVXYwTy01VVBBRE1iTFFBbnY5NEJzc1dNcGI2UlV6TkFBMUJuN2FLUW80TWs1TFk1SFZRZUFSZy1tMDNVb0pyZzA1ZUV1WV9pS1U1QTFTamlfQ1VGaUpDT1R5dWpnZGo1bWszNHhacjlSckVFekRNMlJCcEhaQ2FWVFd0Z1NqQk9WcDU2QmNLbFBmUGZLckRnUElNRnBna3lqa0d0Y3l0N0pnMGdPdHZhNlVzTG5nakg4dWZWVENXdTZrUjJjSDZLb0dRYk9Ndw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:00:00 GMT",
-      "description": "Baja California y Sonora contrataron firmas sancionadas por lavado; EU relaciona empresas al Cártel de Sinaloa El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "¿El 2 de octubre no se olvida?: lo que piensa la Generación Alfa de la matanza en Tlatelolco",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRW9YRzJrSmt5Ymp0WS1fZHJiaE9FMERoVlBnUWJGSFpzNVlwOW1faDllcHFMUksyTk9EWHF3MUg1UGRjcndJRVk5b240eUtGSGFHRXNFN2ZRQjYtODZHTUtiaWg1ZzBsZWZrY09kMXIwS0xoU1lMam1CcXhwc29VS1VEYUpzSGR6eW1Oc2w2amlXcVdJUjQtZVNBWFY3Q2tYWk8xS1F5ZUFaYUNGUm5vSEtrSF9CR2s5S2E1c0h1NkRZU3k4Zy1WYjhzMWF5U1d4Ry1valdzTl94WEk4ZVM1MA?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 11:00:00 GMT",
-      "description": "¿El 2 de octubre no se olvida?: lo que piensa la Generación Alfa de la matanza en Tlatelolco Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "IMSS busca respuestas a la muerte de bebés en hospital de Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3I1M0o4U1k5U2JXM29YeGhxWkllNnhBREhXMkJNbDZfZHBoVHVhQzhSZi0wdzQ4c0NJR0FaQXg4YUMxbEQ2M25DY1ZhWlRUX0tuTHFYanRTbDd3MzJuTTJ1T2xiOFVzQWZtMTVNT3gzLUk4d2had1EtSWFFVHRiOU5kUFI1eU0xRzIwbjBWdkJwYjBubm52eEtIS2RzSUJnMVJjRnB4UnNTM1dkdXRRUDZBM1lfWkNjT2c?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:57:42 GMT",
-      "description": "IMSS busca respuestas a la muerte de bebés en hospital de Jalisco El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Lo que incendió el caso de 'Los 43'",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1hOeVRDRFlMVWNfZ2pVaFlkRi1hQmVJc1BDMVBOZi1JcDJQUERvZjI0WGVGWUZrU1lWQk1wOGF0UF9za25ZeDdUTVJMd0pVbVlvcUpheFVkejJlTnMzZUw0b1FmTmdTMGdJZlFrWGFPN2hGUGJDQnI5UGlGeWRVQVdSV1lBYlJMZnRlNXdIbHg3NGpYZWtJZG1GVDRLd9IBngFBVV95cUxPanctOGt5V3RQWlhWRFZVQ1RGUy1IWmVKa2NVT3pnaEJLdzRwU0lTdWZMVks0eHV0U3VZNWItWFQxRXJfb0pKUVJJUWJGRTFwa2dObmdZSjBERG84c2prcW9UTTAtQldQQ2RZdnkyMWRiVHExN1lkdFVGWjRpN0s4NzVXTmdfSUVveWdHREdJWG9JSkQ4WDNMT25VS09oQQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:43:23 GMT",
-      "description": "Lo que incendió el caso de 'Los 43' Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Calderón degollado",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRURnUk9lUkgteTFmX0FOVnRyMzVnQ053aFVkVDJTVU0xd0I2LTVvNWpRQk5pT1IxdDZfTDg2M3hwOU81U2tnOGU5Z2otXzd2LUFMa05PSC14UXQ4c3dUVzlPQjkyak5yVTV0WmRmMVlJYzBXYXJLcXVyZ1V5Y0xTYngyZW53OVJtM2fSAYoBQVVfeXFMUENoOTZ6YUt6MkZnQWtnbEN4a2x0ZDRORXpGWE8tdTA0UGl3bURVWC1BLTBpSUZLbF9tZ0E2a0gxMUQtcTBnYlFKTUd6djhteER6UXVwckVDOC1nUGJ2V2hnSG5kVE04ZnRxQnpRZHR6MHkzTmZMWHFBSjhaZTVZVmc4dVh1a0ZGYlFR?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:39:04 GMT",
-      "description": "Calderón degollado Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "González de Alba: cantadas valen doble",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXZKQzllWkk2VUk1aHppRGFDUElJaDhhRzQ2MTFhbkVqREtKY0RVdHJoeFk2YS1xa050WXFDVGJuLWVDX2RIRV9RZXVQbWNJcmNfOWFjZHRrbGh1ZVFDLXA3cWdLUldfeS1tQ2hYVG1iZGRHNlROcGlCUDhIcnJ1eGFOZkdYM1N2T0NFRFNJQ01jbDZkOWw5QW1RVHg2ZFNHOENfTtIBpAFBVV95cUxNR0x0UndURG4xemlORlZ6cFVJWjNydmxIdUtEcnlHVDJvUHdoNkZyM25ndnBveHItRjZSVVpOUndibXpPQXFxOHpOVHJCX2RZemNDOVhDNVl3VE9Qb0puRnZpYVFIZXZCQ0F3aHdudEVmVlJGcXd6LURNbnV5OGZPR0JuREUyWjlBeHU0OTNGeThCMXdHYmNBbUdKYXRZalljaEFFQg?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:31:21 GMT",
-      "description": "González de Alba: cantadas valen doble Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Rogelio Naranjo, 10 años",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMFRDWFZLY0hYZlNvTnJZSnFUdERlTWNvM3p1WUNPd3lOS0NQVW1tNTRMZ0dnaTZlZGFrVk5vVWh2eXFPeDhYSEtfNWNiSEgxeEJtdlQ2alotR0tqTXZHSmhaNUU2eW5BSlREN3ZDODRxczRuZ0hxVzBha2RubUI2RUdJT2RBZ3VuNi02d2Nudkt3RDNsdG1wbNIBmAFBVV95cUxOcnE1aFF5X1JkTGNjOUFmNllKeHZ1RURBajB3aTVfR2NqdHlTMlFFTEdrRFRnNUNtY0VhaG9tVUthSEY5dS1zVDMyQ1JCakJlWEpFVWtKWWhzOGZlWDlYbHVMclZnQW5lSVdZX1pBN1FvVUtFME5lTWg3Ty13amd4U0RaYVk4WGhpeFNGNWJwcGIwTDlkQXZLSA?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:26:49 GMT",
-      "description": "Rogelio Naranjo, 10 años Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "AMLO anuncia un regalo para Trump",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN1dRbEhEMVhIUTc0V0pmZ1kwdXFuLWZxQTl4NkxGNVFFcjVsb1Nla3FWLXVicVhXd0luRkstRGh5OU9sX2l0cjlBNHM4Wi0wZmk1WkFPT2ZpbjZxcFJoSzI4c2xBVHJJM2h1Z3YzXzJjUU1hdXRMYUtjUFAtUk1fNWFXVXkwbmFDU1lhMVlJMTNZM3RmVmNR0gGXAUFVX3lxTE9WYkhrd0E0MjJxX3YwOWVQampwNlFKUnZFN3ZBUDFYMUUyREpxeERWaWtKZUhzQUU5YksxWGVuYXNOZlFtaXRELWxVc0tYLVhaejRqUEJaQ3hqMTJYYkZvVVkxMEplai1ybWdmMlVldTA4cGk0TThwamxNX2VSR1JCeXRXckEzb2NhaE14bjdOeFhxSkRGWUk?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:23:04 GMT",
-      "description": "AMLO anuncia un regalo para Trump Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "El Mayito Flaco: en la mira",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUxUNnY5ODVQZjhrTjB0ZHRnTmRLVXFubWI3RklINWF2b3ctNEhXcTFnaEU1UW5nMUdoV3RLaVVTN1U5ZzYyMmRpaGliQzdkbkRYUnpvbTBFeHRzUWh1ZzZkN3JpeXIwSmdQaERRV0RoS2wtMk8zX0lwWjJoS2JzbjNEb1dnZ9IBiwFBVV95cUxOUDRkNnRnOXFUT3NfQjRyZG51WTRWSW1hQ0tpMmJCWW1mVDFDX0MwT1dMRUp6cG5EeUZldXhxcXl5TzFoSWItSHRsYXRFNVR4V0JOaUVkcEhwMjJiNFFxOHBzN1hSREJyX3VIN3ZVUGJtcVRmZHFicWJESWU1UWFnUmdMM3J3MjdNd2lJ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:00:00 GMT",
-      "description": "El Mayito Flaco: en la mira Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Sindicato de Radio Educación: Fernanda Tapia va \"pocas horas\" y genera malas prácticas",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYUc4bno1NnJsZTlhR0JGcld1WktUQVZkb2xwSjlRTDNHS1VRUEZvdDhZT2ZLMjJKYzY5SF8tbGZLQ01zaEdMQ21LaFV2SGowcEFBT2tySkJBVHJqTGppNEFITXcwYzhhV0xURzRDN28zRE84Wml4bGdCeE1xbVVMMmRDLVJ2OTE5QmoyanMxYndrTW1kYlpaRUhlYUhZdExJbm1scDVENTJrNl9oX1duSktkQTdZNXRzT1JtbmhydzlrbE5BU010T3FCV2E5bGR1M1MtN2pOZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 01:55:34 GMT",
-      "description": "Sindicato de Radio Educación: Fernanda Tapia va \"pocas horas\" y genera malas prácticas Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Avanza Ley de Economía Digital en San Lázaro",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnRpYmo5N3JXRHAxMHhKOVZRRFBuY1hOblFSM0NIWUxkalR5NkNLZzQyVFRuTkZuUkpySFBQUFc1dy0teWViMW1odkhtbGpFR3JIZC1mc0RKdDRmMU5iOW1OX1pKNmtzZXBZbGEwSmtFa1lIal9pU1hHMzZvV1hZd3cyTmE?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 01:09:30 GMT",
-      "description": "Avanza Ley de Economía Digital en San Lázaro Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Juez ordena asegurar cuentas del club Puebla hasta por 223 millones de pesos",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWZqN3lvU2VROHlwcEhMNWJhS2NFX3FzSlVuV2c2S2tEVGlDR2NXV2l1OFFfOUFxWUVSUGE2NS1WV2JobFByQzM3VWMtU3ItOTFQMEE1THBhYlVxaFpTX3Z0XzBBUi05UmdmQUp5cGtIeHRFeFA1NlNfWXNIY1RmTDBZMjBUaU9ieWU3X1dLdjlUVWg3R2V5ODRVQ3VCLUpyampjWWpiaHJkbkhrS3BBeXA2Nl9EY3JacGREd2NJM0xYbV83VXZ2T3BNLUlOV2s?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 23:42:00 GMT",
-      "description": "Juez ordena asegurar cuentas del club Puebla hasta por 223 millones de pesos Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Sheinbaum firma dos acuerdos para fortalecer la producción y sanidad del aguacate",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObmJsZXV0aFduM3Z5UnFDdWZmNEpQdWY1TzItdmVYbGUtb1p0cmJtUUNuVEF3bEdHN0E4NTE4NDM2dTh0cFNTU3oxLUJneVJ5bzRIQU9sMXlzLVo4S3RKU2ZvODBBcVBGVTNySWZyRmkycEt2OEx4b19IQmVjQ1Zob2ZYSndJNlRXbGt5d0s2djY1WVBUaFFrSVY2bGE3T0UzVTRlMGhfMDc3WkhVZXp2aWdFeENSTWdIbFR2R0dYZ2Y1Z2djcnV5RNIBzgFBVV95cUxQTjZBOXVSTUdOZElacHF5WkRVci1LaVp6azBvTXNHYlphaVBWV2pNWFRPVG13NkZVWWN6R09lak5GNnI0c2FUWmk2YW1mbmhoMjQ2X0N2Ukh4WXFSRlpCc0F5eWZlUk9jOWVyV3FxZmw5ei00TlVmY25CT21lWEZmaXAwMk1MYnAwR1JaVl8xQ2tBTUdZRDVBRWN1OEZFVVFGTGlYZHhRam9lZVl3eWVVeGxrVDRfMEpKQlNidk1ERlJpajZVelhxa0ttd2J4UQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 23:31:56 GMT",
-      "description": "Sheinbaum firma dos acuerdos para fortalecer la producción y sanidad del aguacate eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Rachel se intensifica a huracán categoría 3",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeDFxYzF3UjJmQUx6cGc5NU1hbm94SVhrWGx2RXJPMko4TUNwQzlZNjJSS3ZoXzBSLUx2bTN4blhSb0pZYl9zNGQ5MmVNalJrWWo2QXJOeEZ5aVpKWE5LMC1jN013c19VVE1yNlc4NHR6c2hzaFBCSUNoZTRTUWVhbVEyMEI1bEVYSEZrWVdYX0JTTUhHSS0tUWhpQlNiMV9ETGdURTktYmFSM1BCT25STi1LZ0RUQ3AwdHM4eEJiaG94ZWFSZTlwXzBB0gHeAUFVX3lxTE9uMm5RbUNUU3VJUnE5Tl84UllhVk9uTlE0UFdPQndfRVVLbWR5cXRRRXhJdDdsQWRpY1IwanJ5S09WWTAzeUVvWmN2ZGZMQWZNd2FaZXUzR240bm9CZ1lZZnhPWnFJRVZrUmxTeHdRLTk2UU5FanFMeGQxanR6R01LRWRfQUEzMkg0VWd1Q0tKdEtCOU1KUi1VVFhHbzh5SERzNFlCZXlDVzBpZ0tVTXJZNVBzWTRnZ3AtYVFjUmt0aFFMb1BDbENHNWoyZ0Q5NkQyTjI1V1plSDdhMlJ1dw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 22:57:50 GMT",
-      "description": "Rachel se intensifica a huracán categoría 3 El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Huracán 'Rachel' se fortalece a categoría 3",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2kxQjh2ZzN6REpoSzFSMXJ5TDVUTHdMMklnSkhrMmVLZVdlcW9WYW5XaDc4ZnVDSndxaVlJd3hfUml5NXJHb25MQ0Q5X0tkdEVOTnF6VjQ2ME9FT1FrN1pxZFZJa3R2LWJKcDFHRGV0WEtpbml2RDlCS3RYNnhVOHhtQWlqc1V0ZmxhOQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 22:32:00 GMT",
-      "description": "Huracán 'Rachel' se fortalece a categoría 3 Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Aumenta 'Rachel' intensidad a huracán categoría 3",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdTdjWWgyLWh0azFUX2Q0aTZLckhIbnM1dy02bXh6X3NySlA4dHRvU0xTVWlVY2tMX3g0bjYzN0syYldrMk5ra3o0VFVFWHh5cy15NjlNSHJZSlpkR2NsaUdjdm5QRmI1Nk96UWFzS3lYU3ZlQWZ3RFVScGtjSWd1dTNtWHRPLWR5?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 21:54:30 GMT",
-      "description": "Aumenta 'Rachel' intensidad a huracán categoría 3 Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Caen dos presuntos agresores por asesinato de subdirectora en secundaria de Torreón",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWFlLczVlaUJyVFdoQzh1VW83aEVIUkV0NTc3VjVIS0tEQ0REbXZHMkR2MHFraTRQS0tobXE2UDVTbGFWbkwyTldwUHZibUJJQ0F1RWxLS2hEVlNtUmN6amFGa0lUUGR6UnRZYWxwNWNJTmZyNEYzWFptU1BxLUFGUEJVbHc5YlY3RVp6SzJ5andyeVlhUWRvQjBoZ3lJSzhhYjZZdHZlMkQ3aXdVOTR6ZHVRZGJIblA2ZVhWTUs4SjNCa0tocVdGcWxna0JnNDBvdUdTcUxUbEV0TTBrX2s5N3h3djMwN201MFNXQ3gxdkN4MmRYMDhwYWxB0gGOAkFVX3lxTFBhcFlVdUVyeWt1cXp4UWxRTDZGS093UDN3WG5aUXRWZ1dqMTdPTHQxUnBkYnNmOTRWQ1dIZ3locFFXeFlZdTFuMkxhQzNBMHhBeG1mZ1RtdEQ5Smt6cWU2eGRGU1Z1dTdVNllKTjlOSGY2S01UOXVhZmZpblZBQzE4RkhzYVFaMm5kWlhoU2dWQWEwTGtCdnBwOVJNdXdOT1ViU092YWY1QzZJMXBRLURYMmcxUzJ5dVVzcDlXRVRkYm8tbVFxcTRZVUZCQVJyYWcxNlZOSC1aV0pZR0Q2WW1NcDM4SFlUblFUU1hKbXp3OGRnLV9BRk1UbHItYTc1STMwdEdRYjNuMFZmWE56QQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 20:24:00 GMT",
-      "description": "Caen dos presuntos agresores por asesinato de subdirectora en secundaria de Torreón El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Baja California reconoce contratos con personas sancionadas por OFAC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUkFmSjkzWjI1N19UVmJkNEJLVW1DUmExTXkzSnB1bGRlQmRuZ1hua3hZT3ZVc2FSb0NkLWFLRVRzeU1EZUlwOWRzSHd4MnpCVFdITDFnWUZBemxiSFJtMXZ1WU4wRE5wZjdXVkJGSFZpaVdLdVRNVjhGLVJIbENRRzJ2OXpEZVNwQVBXWjVmbUNQaC1TRGs3cWhqVmh3cXpCMkNYcE9oX2xNRXU1MVpzYQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 20:05:00 GMT",
-      "description": "Baja California reconoce contratos con personas sancionadas por OFAC Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Audomaro, “la mente detrás de la industria de huachicol de Andy y Amílcar”: Döring",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSXU1ODBkS0FkVURYaU9mbFZGcnRyMXRkcEx5ZnhieUJZUUJQV0d4QzNidlR0U3pwd0tJUE9wel82X2RGQjY3V2ZLMzRPcFBNbHFTUGNEY01uREttV3h3SVFtLUVVUkJXYnA1TTEyRXFlYUxraEdBRm1zWDdBaUVmdWU4MzNubUZ1dEk1bmVGR21uZVNKdVAxVVB4N1U3d1hfQWRmQW5sNGo1ZW96bE1pZXNxUUR0R1JTTG84emU4T2IzeEMwTGd3X2ZPV0pfQTcyQnZVM3BRUlJnSmgtYUFNMXlHZ2tuSmVBZHpfX29RNzlGenPSAYcCQVVfeXFMTnNiUDcyX2JUYlp2aEpwclZiZXlkOGxiSXAzZGd5MjNqcFNWSXJnN2dFQUZXZUVrUkJYRUYydjUwUkUwMFg3WDdjWU5iZm5hcjBGSGZGVVNTOGduRVlZS0hod3JacU5pUlJWczVhTGw4TGJTeVBmVVRMUGVuLXJNVHVVZTlIV2VQUUxfUVJlS0FYVHBCa2ZIOTBaYzg3bV9PMDZadUdOZHVuQU5kYmN5WTM2RnZ6Y2p6eXAwelFBZjZya291akJhNGxqQzVGVUF3NENySDdmV2VwMF9LaDd6em4zdk9GNmZMWlh3YUtKOGFTUkZmbUZ1QWY4aDdCREhnWUJiT0JQNUE?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 19:54:27 GMT",
-      "description": "Audomaro, “la mente detrás de la industria de huachicol de Andy y Amílcar”: Döring El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "‘Corcholatas’ de Morena rumbo a 2030: ¿Quién es el secretario de Sheinbaum mejor evaluado?",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPN29lNG0zTWVoVjJ1cHRnbkwxRzBNb243V2RTOUREMzMyMjFCNkxjVjdXa2tRLUxqX01ndUFfS3Ayem5DcUJkQ2ZWbnI3QjY4bWxnN0FpOE5RY09Hdmc1a1hNbHJqakNQM3E4X04zVjJEV2dEUnQ0Mk1IRGxzSU14SnlSX1RUWEMzcGxoRFVSeVNGS0Q1Vk1obGp2RnhYWUNkTXo2eDFKQVAyMmwwbVBCd2dnZWdtRkdMcHByNUQ0ZXBucC10QmJjeDJ3VXNGX3M5UUJBbQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 18:32:54 GMT",
-      "description": "‘Corcholatas’ de Morena rumbo a 2030: ¿Quién es el secretario de Sheinbaum mejor evaluado? El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Ella es Min Ah, la nueva esposa de Jim Carrey, 31 años menor que él",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEJUYVk3MmlnWHFlWWZFWnI1bjBidnNzSWFjMDhyNEQyenVxelVPTUZkeklBS1lwNlp2ZVZjeDUyS2ZPWndyeHkzMEhHejN5NnZqMU1rdUZ1aFZVLWJHRHpES18tOEtEejZkakYtZmZLX3lMSTc5OG1HWmhpWkVDUEc1X1BHczhPYktZcHRFNUt5cTFNeUlxYtIBngFBVV95cUxQdmRZSzNub3ZNRWtQMnJ3eW16QlRnNzRDTFhaVUJMWDNrWWs1T05mU3RjRnFDUDVWc2VVV1ZaMHdGUWx2NURZR2dCTXZ3MndKbDliMlpaZmozUDljdTBLQUZOUWIwSGNUc1JPV0tLSllOUjB4cnNuTEFYT3dXV0ZwM2VpUW5Ic2RydV83X2tsWV9xUnVCTWRnZldIemdrUQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 17:29:19 GMT",
-      "description": "Ella es Min Ah, la nueva esposa de Jim Carrey, 31 años menor que él Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Conflicto laboral no justifica violencia: Sheinbaum condena ataque a estatua de Calderón",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPblRaRDRycVRiSUhzbWNhNnhoWHlOM3FjMTNNUG91eXlxaFFkU0FXZHRmc2JXUXRSOW5BYTBnbEZDZTA3RTVFZ2Y2Tm0wYTlwdkxLek13Ql90R2JSMmVzSXd0bm9ZdmdCOUtmWVJaNFdBQmpsOVB2R3ctbmR0TnR0SUNkXzM3dTY2QzNCWFMzSFduZE1GcjF0RnQ2NVBkSEZTNGVHOG5IbFp5bWNNeEhGZWNQc0tRTFhEMnM1VNIBwgFBVV95cUxQbW4xUUpmdF9CQlpUbWdkbTVWUmdTakE0aW9yYkJWSDFiWm9yNWJyRmNEWEVqZTQ3eS1jRFdxYmZSclo0ZXN0Qnl6eDh1QzhrTWpwNWRiOEZQZk4xdEU1WmVFRXdzc0IwT1lraWhLWmhsaFJWc0kyQ00yRlUxVUl3MGx1dFZxekI0VTVGOVlPSmNsQ254NUtxSmtxeGFVMHJmUmt6SVhXX1ExU0Y3NnpSR0laTVVtcWw1WHdXWlRybXNrZw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:45:11 GMT",
-      "description": "Conflicto laboral no justifica violencia: Sheinbaum condena ataque a estatua de Calderón Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Irrumpen en secundaria en Torreón y matan a subdirectora",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1JPclN1OHJNUkZmYnlDZHdrLXhsc3dsQVppN1VWOVhJekRBcUEtUEFKa3RiZDR4bFpMcVlVX0JTaTdVeEF3WGVIQUZFMTNnUFRNVTR6QmdOWXlPRkRfZWFrYzE3NDhodTJIRFlzR3M3Snd3ZzZQMlphenpUZEpXclFydXZKUjFtSTBLWm9VRWdkUWxf?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:44:29 GMT",
-      "description": "Irrumpen en secundaria en Torreón y matan a subdirectora Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Ley no prohíbe ningún meme, es defensa de autores.-CSP",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjhRQlNnSDRoZnBQdEl4SEtEa3gzdVRzYjFnaTVWcDZ6QU1feXlOTHhfTGZCeGZnbnJCTDZUeUlYcU1kOW5mWXJrblZCWk5RVmdiWEs5MmkwX0swNk1Tc20wdExwX2dPR3E1MU9wdUJDQmlmamFGSXB0UlcxSDJLTk8wV0xVSGhyc3V1cWVKVQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 16:14:28 GMT",
-      "description": "Ley no prohíbe ningún meme, es defensa de autores.-CSP Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "¡Peso se hunde a niveles no vistos desde 2025! Precio del dólar hoy 1 de octubre de 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONXZWMXBKemtpX3N3UVYxUDIzSUlraHZiSGQ0RDN6ek04cUljZnlKRjhGSkRldU5fYm1rT2dBTWNYTWlHMHRTQWM3Snl2YktfZkRvU0JEUF8yVzM1MlpwZzlzT3VoVlFpNURKT2JfLVNiSE1taXdVZ3dBRjBDdkxUbGxHRXZfZWFBQkFaZmlPb21SdVUwRXF1ZEdWc9IBoAFBVV95cUxPdXBCbmYtSlZDMXdSekRFMWJmNDVFdEVGd3NlUFFBeWFUUGtLUFJRcVZCZkNxemc0NFVhUG9WTVdNUXVQaXJEaE1KWjZHdGN1Vmt1ODJVM2JJUlIyZWU5SzQ1cFRFdGlVemxIa1lLLWxncGh3OWdNQU9kRTV1cjJhZEFMTGs3b3FCbWNpcXE5MVExSzJmR0dvZ1ExMFBUaWVa?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:59:11 GMT",
-      "description": "¡Peso se hunde a niveles no vistos desde 2025! Precio del dólar hoy 1 de octubre de 2026 Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Consuelo Sáizar obtiene el Premio Nacional al Mérito Editorial Juan Pablos 2026",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSE5JVzRWeG11SzRNLWJfWDJwalJGZUdRM3JVVjZqMElxQXZJd2t3aXdLUVJBWUVaMHpyMFJXcHN2Q08wY2ExdDkzTV94Y29paDNwcnJoVXRZZld5RHBsejlJVTRGWlZCc3FkMzdGOWVOZnR5N1RQUzJ5X0FBUjREODM4amdQWnNMUlAtaTRhQld3TlNCX2NyaXhsQ2hoYXhXMkYwRkxMeG8wQUc5T0ozLVdHcHZjd01FTndjbU5MR1E?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:22:00 GMT",
-      "description": "Consuelo Sáizar obtiene el Premio Nacional al Mérito Editorial Juan Pablos 2026 Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Tennessee suspende ejecuciones después de que Christa Pike sobrevivió a doble inyección letal",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUUxxVHNvTDV5cG9uZlZmRE1lRjBzb2czWW5JQnFCZndkamozc3p3ZEJySzBfMkFIWEtPRDVEWjZMRU1TRnN2b044ZnZfbUl0eWdScXdaU1ptLTlObWNKQ1U3akdUOG5nT0xJLUdCaXppMmd6U2lNNUxDTXlqcmdNTjZKUm5EanhtRExQODRFeG1vcThCdkxaU3Q3TW5NMWgtSFJlTlNhUnhzNktLSnpaV0d3ZlBJcmZDTkFXc0lJN082Q1JUVHB6QTZzZVdsdi1tN0hkMEIxQkpuSjhMX09hTUJDdjR1cEh4bENuQQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 14:14:39 GMT",
-      "description": "Tennessee suspende ejecuciones después de que Christa Pike sobrevivió a doble inyección letal Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Confianza empresarial mejora marginalmente en septiembre; comercio registra el mayor avance",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMW1RUFp5OGFKNFNvSHJUTnRNZHJMbjNqd3U5Q0NpdnBSbmxqZG14ZnptdzBQM3d0WGdBWVJlTE5xVG5mR3NJZWc5MFg3WGZ4QmdJNXNreXI1SlhNajZOdTd3ZFhPQTZfeEZ5NUJrLVJObi1aRUZlZHNOWXA5SkxtT3Q5MzhTUHQyVm9DSHNMRTBDd3BudHA5TWREYnAwT0xlZnVaWUxJOTdad0JScjdHNllKajJOeVdORFd1RlBFU3hwQ1doWk9raW1lNVZoRWxyYWt3TlNjVnAzMWNnNXBB0gHkAUFVX3lxTE00aHJTdVpoV3lmcHBUNW0yT2NzbF8xM0V1VTlXeS03dnhfSlRPUXhsRzRsWmhhWkp6VG54M1JvTVJUQmZoQnhqSEVEVGxQOWFLRXNud2g5Mm55U21wR01samQzZElUU09ST0Z2M1hhcVEzY0dPM1ZEWkJwbFRMeWlwSnlQN2x4R29HQ3htaG5IQkJncUN3YzVTWE9ZME15a1JmWm9MS0hCMzcwMnZUY0JHUkdZZDMzWXBHNVFYcDBDcU5qWFE0WFJiQ21rSDVxWnJPUjU2M0I1RDhLV0lUUUpNLUxsdg?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:27:51 GMT",
-      "description": "Confianza empresarial mejora marginalmente en septiembre; comercio registra el mayor avance eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Exportaciones de Zacatecas crecen 12.8% en segundo trimestre",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTUx6MzhQTEhTNlJOLUNqdExsQ3dIdk5idXJ2S3FURzlwX0JXSkEwTUhoRjRkaG1ocDM4aWxQMHJQTDFTMWdXaXNzMXZqbjJrVzhscjVFZUlneHMxRnhaNnF1VDNtZC1nc2NBM3B0VlFscG5Fa0lsQUQ4X1lwSkN2cy16U0lKZlBBSFBoa2tiOFhIUERPN0k2VWZwWktMSVVhOERIelJJS3lEZV9DeHA4NjNrY1XSAboBQVVfeXFMUFg0azFCVXZqZXJ5SWNKeWUwRW5qZzRQc25RSlh6NjVNQnpORUdZSnhYWTFLcW5OQ3oxNGdjRG1rQzBORUc0Y2lNYXNrRTFJMGI5U1l1d2pNZXB3dDdXWnJzenVjQXpHUzNLaDZNRTJqdTZMZjM2MFBlb0Q0UTlyTms1d3RlNm03REkxcjZuU25rV05iUnVzZnhNR3BPOC1lYldraG5PSVQ3aldIYXhGd0g0Vm52cHF2aHhB?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 13:00:00 GMT",
-      "description": "Exportaciones de Zacatecas crecen 12.8% en segundo trimestre eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Cunde el pánico",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEJiWTBPejhUZk5OYkhheU9OUGlGSDFHaWRqbHFVZVRjd0xIazFhanZ2VHFVc1FwNTBRTjlNRlQzR082eVcteFBjV3ZRWmxDTTFhMG16OW02OEhrV2FIeEhSaGJpemVTRnh0YWxvRHRmel9tSlRmZzRPdmhFV1lHbWgwSzlkQjVzZUtQMUh2S3hMQjQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 11:33:57 GMT",
-      "description": "Cunde el pánico El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Cuatro mitos sobre las candidaturas de Morena",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXdvYkZTNDdJRnF4OWxtUzRFZE1xX2JvME1CYURhb0p6Z3ptVGI5UHYzOVM5UEczWkNqZ1p4NWQ4bkZwZ1czMEsxTjM3VTVtU3NmakZselpmRWFXSzZrVTRfVER0SkFVNW1meHVmRTV5VEV1UTRXYU8tQnphdDB1cVlxclZSUnRYeEtJMHFjNXdpS3JlWHhvel9IN0VIMTRqelRiYmVrdVRRczduZUluLVFTZWxGRVXSAbcBQVVfeXFMTnFMNXVJV2ZoZGRqMGpTVTQ4OWVISmZqX0RHOHVSYUVQbjR2OTdfdGZMdE5taHpNMlhGTXc2NW9FbFg5U3BobzY2T3lvZlN3LXF3MEdickotcVBPZU1WV0tvOFJSeTdSMUxMZEdnYzVveXVjX3FVQ1JZbU5VY0JRNzZkci1saXFmekNyWUlkdndwYXdqeWYweHQ1MUpSRkpsVURQZ1AzaC1vOVdmYTF4MGUxVDFMaWMw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 08:06:28 GMT",
-      "description": "Cuatro mitos sobre las candidaturas de Morena Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Alerta en Ciudad Juárez por posible desbordamiento del río Bravo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkxQdGo2dTdWbkJkOHJNd3hmNFRiazNHOTlSYzIwYXM2YTBURm9oeEh5eEhleXJDTjdvRzBraWJYVlFFRDVkWFJWRDVLZUlwcmVfd28zNF91clRGTmxTMjlSQkh0WHlXQ0FXbzdELXhMXzJhV1pHeXo2Tm9QaEVIWlA1eFdQd200amN1QjE1SV9IRXpqWTY4aFNqNNIBoAFBVV95cUxQQmFmajdxc0VqYlhwR2doQmdwVWhweGxqNDhWbVlIdFhTM3VQZUVLYlF3UGNxV3A4YkdnTW95RktwRTVrQU5TUGZuZWNQRWZuTlk4Wjl1TXdidmRmSEZmcXpBek5KSGZ3NHJQa2FvRXFzX2l3VU5LNlVFczVnanBJdzktT2ZRQXc2TVhsY1BzT0ZOLUJ2RHM4ekUxR2pRWkg3?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 03:48:48 GMT",
-      "description": "Alerta en Ciudad Juárez por posible desbordamiento del río Bravo Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Más de 200 líderes latinoamericanos exigen el fin de la dictadura de Daniel Ortega en Nicaragua",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1MwS0lOQ0dNb1FvRzVfa0s3eG5nUF91eVpfdmhSLTlxM2lxMFhoVHJ5TTlwV2tPamE4d3hCTGI0Q3h0eldfSUpxOV9GSTFXYWpjQzhJRndYRkV5dmdrMkliV2VyWV9pLTJzZF9pZmJJeFd2NEZWLU93ZW1wWHp4QmpEUEltLXAwWFN2T3N5U1ltUFY4SFo4azY2ZGhNX3kzU3RVRVMydGFOcDl0YkI4R21EdUdYVkhlQ1B5RzNaLWNrYnRQTlpuNWJHSFFZYkJHRGxj?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 00:57:00 GMT",
-      "description": "Más de 200 líderes latinoamericanos exigen el fin de la dictadura de Daniel Ortega en Nicaragua Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Quintana Roo suma 7,000 millones de dólares en inversión turística",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZU16SGsyeW9FSV9NQ2lwTGZldGZPNk5UTzhWanpVb0lRSXFZOWgzOFBqMUc0bEpYYldpSlJwWFAwRHFnTHc4bFg4aEhuMFVXMWFtSmRyZkI2VTNzQWlIcHpJX3FQS1JpV2U4SnpObGx1dUh3Si1UQUNuSjEtV2k5djhKc0dxOUg4elRYZWhtbW1La1JPSEdJMHdwUGVvRXlIbXlPdDBWNVZEZ25GanRIMktXV05KMk85UlRvSm930gHDAUFVX3lxTE5KdHFpX1h1LTI5SjlwSzJza2diLXN1MGt3WU9mak9vbjk2UERjMU1YaV83aFFFanBvZ1pQQ0t4OWFQanl5c3J4M05xTFRuVEZDYlpWRkFTd2hndi1JaXdIYUNmRy1sLXdqVVpvbmthWFRSUXJYRWlLZU1xeUwxSWZGTHRfYnliQmVWNGxfWnZyYXRsbklUMkU0R0RWVWJMSTdLN19JdHJHRlpyWWdXdkZtNzNOMTFpUjhJYUM3d0ItQzk0cw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 21:58:16 GMT",
-      "description": "Quintana Roo suma 7,000 millones de dólares en inversión turística eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "DEA ubica al ‘Mayito Flaco’ en CDMX; difunde su ficha de búsqueda",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZDBHZy1mYm8yU3NUNGRvaDl1bmRldjVIZ05ORElaaEVWR29QVU9JTTdPcnRiR3NTNno1UUJlVDZ1TkxaX01lQ0VXYjNiUkFTZVpONm9XZlFSYlVGSXVJc3hHczFuS1JtM3VlSEw4SC1XMmlFRHJLOHM4VkNZOVcxWWJfbDhiVjJqdHR1Z0RNa1gwUUs3ekc0QllsS3U5dGVnb25XQ0lHeXJPdjFtNkJOVno0ZWszZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 21:16:36 GMT",
-      "description": "DEA ubica al ‘Mayito Flaco’ en CDMX; difunde su ficha de búsqueda El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Argentina anuncia acuerdo con Japón para abrir exportaciones de carne vacuna",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOFNkRmY0R2s1TUk5cEd3cER3dGQzM3ozRXVmMzBBR2QtaHlEOTNZNGwwZFlINVVTLXJpb3lsdWNTLWxGLU9xaHRCNGpnZFF1RnphbEY5S0cwVDFsUWViWkU1eXRwd2hZUnFqOXIwbk5xZVlORHFHU215TFUtS0VhZ3JqQmpNbUNoUW9GTXV5Tzl1VVdyZHZjNVh6NlBzbzVrYWR0elRTTjZ2SjVXNmZkWTF4VkhwMTk3UXF6UnRaU08zdDV4cGRGMWJreW03d9IB0wFBVV95cUxOX2R3d2lMNkhZYTlPbXM3dkRJMzF5aEE2a21nYkJvVkUzSzNLZ3lzOGNFck1jYW95ZXZRSGgtMWd0U3VhOWh3UzlvMWJDSXpQQ01UOXk5VUlaU1JBYWdyX3hLMEFzbmFKNGozS09qWExhd2FUZ1dMQzloczEtVW1FV0RaR2tWdUN3aVNRckFCb00yUXV1NjdoZ1hhNFFfVzhlc0VEb3VILVJwS3h4ZGdvVnRMUmh3eTVQQ1h1YzdyelpqcjNhV3FqZHUzVkk0aWhubkgw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 21:00:48 GMT",
-      "description": "Argentina anuncia acuerdo con Japón para abrir exportaciones de carne vacuna eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Fin a la huelga en el Monte de Piedad: STPS alista la firma del acuerdo para este miércoles",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT29Zc1MtRUltdmdNaE04T0p5b2hPazFKdldfOER5SDhVOXRNZVZIWk14Y2FHWmJGLVNQcVRDQWxSYTRDZDZNdUFvbWdsWk8xMmVTUDNuNGpfbm1TWkVaeTlhd3NOakpMS3FPT0FhT0UwZmRFZTF1d2JpQmNBdzRDYkpwVldvZzN6czJQUkpyTE1HbTVVbmw1SDlrbUtFVHFESDBVUDBOZUFaaVhMUnVfUlRsMTlGbFNS0gG-AUFVX3lxTE5FMjEyV0U4cWlKREhxMEw2MlZ4T00yU21yV1kwTmM5ZHFYczZaeGF5RG40bjRrMU5qN1hTOHZpb3F6RHNPaDVUTHBlSnVmc3V6NlJBNmlmUEVSVkZNSGFzaDB4OW9zTzNpeHJCbnpIM3pFRlFIRXBGREpqZ1ZxS0ZJYXdBejFSTVFPQzIzRjBQTlFaYURnQmNWLTVUTUpmMWVwTlRsaU9kbWNUTXhuQy1DN3dzUklmR1dDR21EUnc?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 20:58:32 GMT",
-      "description": "Fin a la huelga en el Monte de Piedad: STPS alista la firma del acuerdo para este miércoles eleconomista.com.mx",
-      "source": "eleconomista.com.mx",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Sanción de EEUU a exesposo de Marina del Pilar no implica delito: Sheinbaum",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN29hSGNtR29iem10VVkxX2dXYTR5QjJaY2VZdnJnVzNGdjBJQkxIVUxqU1pWQ1ZYSmRPVGRnU3BsbmVhclhlX1ZVQ0Q4cVVoZnl6V2xXTzI1VHQ1TGZoOXRGSDFiN3JZQXE4NEJVUDNYcnlraHc2aExXWXhTZkFrQlg0VTMyWXc0dkhwSUpEZnV4NnQ4cDFTcGc4b25wbl9fS2d2a3dRaEdQTk1NcWxzdFFvWUdPZE4w?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 19:14:00 GMT",
-      "description": "Sanción de EEUU a exesposo de Marina del Pilar no implica delito: Sheinbaum Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Fallece María de los Ángeles tras ser quemada viva en Morelos; FGE emite ficha de búsqueda contra Yamilet \"N\" por feminicidio",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVVVUUm1UbzNJVHJZX21WUVQ1cHJ5OHlTbmIyTHB1S1otN3VtYjhlZTJiN1hKR3pvb0VITVo4VExxWHhQOXdEVnhWaEtkekVzQlJFMHpXcmZ4dnBIY1V6aENTajJqdlVIY3lwbW9acUY2Z2ktRFZTaElpN1daaHRqWVE5dWgzbWJZY1k2WEVCQ1R5clhIMmh5b2RXMi13V3JGNXVNNXRPbTdwNVplQWVnQ1ZhcmYzc1E1YnBKVWt3VlRsczVmcFVWTUpzVlN2NU5WZlBjQlNQbDZOREoxUmFudmJxM1hKYUJyMktiOWZIcjB6NVBvV01OXzlB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 18:15:30 GMT",
-      "description": "Fallece María de los Ángeles tras ser quemada viva en Morelos; FGE emite ficha de búsqueda contra Yamilet \"N\" por feminicidio Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Empieza la noche oscura",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb1RjWkc2dWEyNVV0V2h3bzY3dHhtYmFNSnY5RVNtbktIemhxWDBtcDBIM0Z0aElRcnRIOE44ZHJidkNDTHNFVS1zOVcwLUt6aDNEVHd5cVlqRm5vSlVqSW9DdnNod3QwSU5qTkdnQUotX2MzMVhRSmdlcmxJd21LRXlfSEpiWDBnOF84alF2ODZmZjJXOWc0Tl8xb2JSZw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 11:49:55 GMT",
-      "description": "Empieza la noche oscura El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "A México se le acabó el tiempo, se podría entrar a una crisis fiscal; “Muchos derechos se convertirán en meras ilusiones”: Cuéllar",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMzNZWGktUU1ocWxmYzlrLV93LXdiMTBWUkxHeE9iWUUzNW1NOFlpbFB6ajQ3Y3RHSjJ3ci1sT0MwZUVXdnFGSHU5eHVoMUZEYTMzamZ5VVFiZFhhUWxmb3dMOEZuTHBYQXBTc1VCWkppOWZSdzhoOVFZSDgyREhVY19ZekpuZTlrcGluVWdUS1pYd2RlMnVSSnlOQUw4d2c0aEVRT1lCRzJmd1lMaVNCb0tiY194bEJ1MlRMLXZHOFVucGMwQTNucmxyMXR6TUU3UGU0MFpNRUxfUDUzbm5RWnhCaHhKMG9JUFhoZDl6Yw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 11:00:00 GMT",
-      "description": "A México se le acabó el tiempo, se podría entrar a una crisis fiscal; “Muchos derechos se convertirán en meras ilusiones”: Cuéllar Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Fotografías inéditas del día que Alicia de los Ríos desapareció",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVdhS290Z2Y0TXZETVVfcmIyYzVuRXhCX2NkR1UwTXJGM2gxSHZ5b2RwUExJY0hydlRjdUtyMnFWcWFFS3psdUIteVZpZ0YtY0I3alMzR183N0VNLW5HS0R1cU1paGlkUmc3UDZPa1A2LWZHQkphRUNuSnF6dHRaNmRZSlhxeGgtNXc1RkZjN01LVEhKRmpWUXUwbk93TzE3OUk5UzhNQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 08:08:00 GMT",
-      "description": "Fotografías inéditas del día que Alicia de los Ríos desapareció Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Niñez migrante, promesas de papel",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oU1FFVk5jMUdEX0VoQ0pGVTd5LU44aGl2ZVpNMzBjM3dXMGhJRFE5cTZJc1hvcW94ck1uaXNuZEJUVFdoTndOWTFKZXZsX0xyb21IdDdjMmhkNGtnekZXTDBxSndnOHlQRFBqTzBPbHY?oc=5",
-      "pubDate": "Sun, 09 Jul 2023 07:40:43 GMT",
-      "description": "Niñez migrante, promesas de papel panel.animalpolitico.com",
-      "source": "panel.animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USEZXOXMzODFaajA2aXdxSWJiYms0c1dMUnk3dVFCS1o3VTFEbDhJWVhoUmdyRVBiSFZvbTZaaXZaNXl0azZOV0R6UEJ3YUFJNVdBVlFxWmIyT2JVdV8xaUhFTnM2c2ZmTU1UTi1CMno?oc=5",
-      "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
-      "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
-      "source": "NarcoData",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Crisis en Morena: tres grupos disputan el partido fundado por AMLO",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXpPQVpVVzF3UUdZSHFVNWxFZWFWWl91aThUN1R3blVwWUxzUDBLbFlpRmdsWjhKRjZFSkVIaWVlSXRRSlEwYm9LeUpock1KRUUtQlJ4dlRocVY1QzJQakFhYXlXOFcxTnl4bG5ndng4LUh1Z0EwUjYwUVFkSFB6N2VCQldiTmtPOFZ1Z0RuaVBGSW5WRFE3YkRjYnprdw?oc=5",
-      "pubDate": "Wed, 09 Sep 2020 07:00:00 GMT",
-      "description": "Crisis en Morena: tres grupos disputan el partido fundado por AMLO Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTkVzTE1oWFV0YWE1cWwyZVFxQU1RMUJpbXF4V1I5Q2ZiRkQ2cXJRMUd0UThXaVpmeE41YXlZR25tYWhINXBTWDRndUZ1ai01azZIZjBQZ2V2bGFvRFlyQjFpM1UxaG5GSW5OeU5sU3h3QldpYkpxRUFUYw?oc=5",
-      "pubDate": "Mon, 19 Aug 2019 07:00:00 GMT",
-      "description": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "La UNAM explica cómo superar el estrés postraumático por el sismo",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByUTBwYWJ0MzRVMll2QkVtdlFFeExRa2NoYVJldF9LdFRZUVB0VGlLckVlNE9YTzFpMDMtX2Y4RlM4cXpLZXFqazg2Nmd3T2VWN1RkTDFPZjdmMHMyM3FPeUhFTVN1VlBEUHpoNFpEd3RmS0R6?oc=5",
-      "pubDate": "Sat, 23 Sep 2017 07:00:00 GMT",
-      "description": "La UNAM explica cómo superar el estrés postraumático por el sismo Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "La transformación de un veterano de guerra alcohólico y sin casa",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVi1FZ1VlaGZtZmJZT1pIZTQ3VkVSYzJPSVBfM2dFbk5JcURscFJmZHBJYUJVeGZqOEphLXRoWlpMWUNjNTliRWR0ZVVZT1d1djFWT0hocnp5NmR1WnZqNE9jb1NvOWJWcS1vTlV2cHotclRrVDJ1VkFGdGN6cVNPX1l5dDVWOUo4SHk5dXNsZHJuRFhpdXdfZUQ2TmE4NHRf?oc=5",
-      "pubDate": "Fri, 08 Nov 2013 08:00:00 GMT",
-      "description": "La transformación de un veterano de guerra alcohólico y sin casa Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    }
-  ]
+  "items": []
 }
