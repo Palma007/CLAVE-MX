@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:05:47.726Z",
+  "updatedAt": "2026-10-02T16:54:57.448Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -59,7 +59,7 @@
       "name": "Periódico Central",
       "domain": "periodicocentral.mx",
       "status": "ok",
-      "count": 0
+      "count": 6
     },
     {
       "name": "Ambas Manos",
@@ -76,13 +76,83 @@
   ],
   "items": [
     {
+      "title": "Así será la inversión de Slim en Puebla: 700 viviendas y complejo comercial en San Francisco y Casa Azul en 45 mil m2",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeGtIRlo5YzZBQXNuT2FoLVFueC1mM1Fka29Gb29OTzQwdzVRQVFHcFIzcV91Y1ItZGxQNDhMVV82a3FOZ1I2SThJd2ZkV2xEeGVtMGlHcEpPSkxzY1VPdzRKbEZRUDBHRm10WHBNTTFRTnNoQnUtRW5MQXZrdmhnNHRhQkRQOE1ZUXhpV19HYVRRb2F0bUZFb05pRVQyUS0wTkY1blZIUWdaNWdPMThiNjdFMDNPLXEyZ3F3djYwbGxtY3NlT2ZCQVRtQXZteHdpMS1IR1l5NzNsWU8xelRwclF0X3l0VEdSNU9MSlVacENCX00?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:30:00 GMT",
+      "description": "Así será la inversión de Slim en Puebla: 700 viviendas y complejo comercial en San Francisco y Casa Azul en 45 mil m2 Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Slim otorga propina de 4 mil mdp condicionados a reelección de Chedraui",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdFhwQXpuVWpNMlJnWm1JVkJsVktFOHlwT3R3cjdVZVhINVhoT2JmWTRzUnJEa1p1MEFwdmlGeGpwdHZnS2dYX2t4endBQllZQXJSNE9oa0hWZUpqQzFwQVJIYkUzUmZsSGpJSnBXcVQyOXhYZmR6b0laZjVqQjNSYTNRbTB0alF2cEVOYkY5U1RVRDdSazhqaDlNcEpQRFloOUV5TlRKZl9PM240RnowSktmOUxZaWpCZGwxSXRiMno1cF9abW84TTNDQUhBdE5tdXlBUDFXRjhyLVcydWZES29jbTFnQy14TTVBNF82YWpqQ0hrb1E?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 11:30:00 GMT",
+      "description": "Slim otorga propina de 4 mil mdp condicionados a reelección de Chedraui Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Detienen a sospechosos por ataque en escuela secundaria de Coahuila",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNenZNNEVOdk5TUXR6aFBscktBZXpmVzJSQXh0R1luYkNuT01icUFDeGpfMW9HOUNuU0N5RHV2ZHg5SWM0eUxBSmpsaU1VenA2UXo4X2JnX3dNRHZRbFN6TExERnRNZVpZeHdWQVRTR2RKeFJSVTZzTi1WbVNGeWVaVW9FZ2lwZ2VoNHlrb3Y3ak4yalJ1YmY5aXlPNU5qWEVpOEgyS2J4RUp6US1yS0ZEQThtT1Bad1ctUUk4OXVHYkJXVldlYkd0bmdUY2NKTzY1aG0tcjlmMA?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:41:16 GMT",
+      "description": "Detienen a sospechosos por ataque en escuela secundaria de Coahuila Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "cambiará el rostro a Puebla",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pSGhYYXNHTUYzS1ZhQXAwTnJ6U3VaV0tSeHp4ZlRSaXdnVDMtcXJIYlZ6QmZMSUpseUZEU3BCa1Q2VjY0WnRaUm9vNXVISkJEU2d0Y2ZyalUzYklaU1dvV19WWjRMRkdKX2dfNnJ2YlA5YnVMdGlZaU5n?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:00:22 GMT",
+      "description": "cambiará el rostro a Puebla assets.intoleranciadiario.com",
+      "source": "assets.intoleranciadiario.com",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Alistan Tehuacán festival del ‘Mole de Caderas 2026’",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kX2xiNFEzUXpUY1BSXzJENWN3Q1RIYWczTzYxWUdPV2NuaXg1anJfYXlWcVVJNXRwMUxvdW8xa29DQjZxRVdHR2pySHg0aC1BdTMwSktlVm0?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 02:07:50 GMT",
+      "description": "Alistan Tehuacán festival del ‘Mole de Caderas 2026’ primeralinea.com.mx",
+      "source": "primeralinea.com.mx",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
       "title": "Megaoperativo en La 46: decomisan autopartes robadas y detienen a cuatro (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUDMtWWVOeGpOalFMTEJvblh1dnFRNEhvVE43QTc2d0d6N0s5MXhpRS1LRGxoVlA0dmQ3UlJtWUJZTnhIU3Rwd2xaRWhHNkhTVVotMlNqX21xd1l6enlGd3ZLRzI1NjJ3MWlpdll5Nk42V0FYSWlMVlNhS3RISVpnenpjcVJSTDJ5V296UlFPRmVLZFNEWnZ5X3V3VGNhR0p1WHRlaTEwbWw0UEVFWnQtTVh4NkZsV0tSSzNZaDdWZnNnajg?oc=5",
       "pubDate": "Fri, 02 Oct 2026 01:20:06 GMT",
-      "description": "Megaoperativo en La 46: decomisan autopartes robadas y detienen a cuatro (VIDEO) diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
+      "description": "Megaoperativo en La 46: decomisan autopartes robadas y detienen a cuatro (VIDEO) Diario Cambio",
+      "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Congreso aprueba reforma de Villegas para que los trabajadores de las bibliotecas públicas tengan un sueldo fijo",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYVRKd2p0RVowckJZQ0QyUm96d3VHQVN1YmF0X3RoSnBsMG83cjQyS0RoRHNTcklwcVZ3RWFPSFlOYjhNMl9jbTVCQXEwTTZxZFk5aFZWaTJhenVpR3VRMWpPeVlmTmgwUmZFMWxaQnhxZFktNU9YT0QySzlKTi13SmVhMklCVmxKZHd5Y1ZpdEJiSlhUYWpfWnFtaHotMVJxRGlRN2VHRlhXWld6SHU3WEVGUFN1WlJjQ0E0cllDUVItVDhsQXhNTEhzM1pjbHZPeHlwcXpwMEZqRkF5Y3dnSzR4Um1yVTEtc2gw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 01:05:19 GMT",
+      "description": "Congreso aprueba reforma de Villegas para que los trabajadores de las bibliotecas públicas tengan un sueldo fijo Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Fiscalía de Puebla realiza operativo en la 46 Poniente; revisa bodegas y detiene a varias personas",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOWmxXNW5rVlpkd1hnTFVubWhabkt1Z0NiY0h3SW5CTk9XLUMtNlRnazBiUmk5Xy1tYWhnZjBMVWdnb052Vmptd3ROZ0JNZ3ZzTTdzMmE4aWxxSFRSLUtKNzlKZ09Eay1kam8zNDZtLVhZMVRzY25rNTJjZnlReUdfQzBvZl9IaGhqMnBGeUtaVUhjdlhBZk45al9VQ1RiNFV5RFVoU1NHbkZKRk9IWWRySzFOMXlOVVFLZmFPWDlJN1ZTUWtJUGFCQk9RSWhnWEJna1FpTHFIbE1FTUNwZVl1U05ma1JvbEJRZElDenFEQV9NRVhncURISg?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 00:00:14 GMT",
+      "description": "Fiscalía de Puebla realiza operativo en la 46 Poniente; revisa bodegas y detiene a varias personas Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -119,8 +189,18 @@
       "title": "Slim prevé transformar Paseo de San Francisco en dos años con inversión de 4 mil millones",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQemNhWFlHOG9EY1hsSEhWV3U4NmdRYnFhN3UxVnd4b0dRNEY4NU9NR0xZYzRmNEtPNVk1MDNBdWFQeWxxaU1HQkFUcV9vaU1leVhzaUlzRG5zS1B6VnVOX05GcE8tZlZkTXFtZ1poRTBkWjBIcjM1M0dfQXlrdTgxWU15Q2Q3aXpac2NhaWl6UG9IZ0d4RFVPcTVaMWF0aExuNzJDVUtwUFduMXB0aTRibWlHRlpFQTd2UUVaUV9YTmpOcGJreXdHRkluSE92TEl4MEJuTVYtZnU0Q2FOR2J3WjRvd1Vta1lOLVRCQw?oc=5",
       "pubDate": "Thu, 01 Oct 2026 21:51:50 GMT",
-      "description": "Slim prevé transformar Paseo de San Francisco en dos años con inversión de 4 mil millones diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
+      "description": "Slim prevé transformar Paseo de San Francisco en dos años con inversión de 4 mil millones Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Proyecto en Paseo de San Francisco levantará clases sociales: Carlos Slim",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbkh2R01kdDR0czQxVVBVakVGblFONHJHZXZfSm9lRnVXYURSdmlCOTVFTGJ3djExSm9UZHZPYWVNTmwxUWZnWTVkUUtNMmpGTDI3dG5ZajJjZ2xHWFJWWDJBTTF6Y2dTbTlGUmlyNy1XRFdBZmlGMVM3NGRhTHBaSDlNUHVaT2V6RlZ6MnlISXhfZ3IyeW96U1RuTzlkY1RIWlhKT0dBTGFHZ3o4NjF0aHl1dk5mdy1oNHdSUEdrUHZNc0hKdHlMaVB2NEw5WV9tLVo0MWtlQ3k1c1poZWxsU1QwWGRJQ2RhTU05dkdxdw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 21:21:09 GMT",
+      "description": "Proyecto en Paseo de San Francisco levantará clases sociales: Carlos Slim Diario Cambio",
+      "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
       "group": "estatal"
@@ -169,8 +249,8 @@
       "title": "Le dejaron una sola playera: ladrones vacían negocio de joven emprendedor en Cuautlancingo (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLTRvSS0wTm9aVGJmaUNNR2hnaE9Sc2RNeUt3S3NXREVnbnlnZkdEMzh1ek5tS1ZWTEtGMHNXVkpDdU4ySlRPSXR2Q3V5YzRKbjlBOEJOMUJaRHk2OXZlNS1rNWxmeGNrbnN0elh3VlNNalNTUW04bk5mZlNrZWJ1aHNNbm5hbEQ1TnFFbUFqY1JvVC1qMjBqLXU4WHhUMXhiSGtVbUNBZTBrSDFYTGkzaVc3WGRIWDEyZHRxd3VsYWNmTnhjLXotMzRQcVYxQ0IxN2RzSU8xaTBHVFE?oc=5",
       "pubDate": "Thu, 01 Oct 2026 17:34:20 GMT",
-      "description": "Le dejaron una sola playera: ladrones vacían negocio de joven emprendedor en Cuautlancingo (VIDEO) diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
+      "description": "Le dejaron una sola playera: ladrones vacían negocio de joven emprendedor en Cuautlancingo (VIDEO) Diario Cambio",
+      "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
       "group": "estatal"
@@ -179,8 +259,8 @@
       "title": "Trabajadores del IMSS Puebla denuncian falta de insumos y medicamentos; les prohíben señalar fallas",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeHFqdy1POVhuVjM4c2VfRGx6aVV2S3pvM3BYbUlMWHpnTmRuZDZwNjVLUVRxTWQ1N01fWS1tTjkzampYTVhwbGk1NUVZYmhZVmlxbEJoOG1GWVFsM3RwYmhvQzRMYVQ3YlFHRi1IdE5VTDZrcWswVzdxVE5lYWVWdnpXQ2RPamg4VDBwRVB1RDBnbTZIOXlxNGpmU1A4Rnc4cWthTU80RnQ3eUhZWjRUQjREZFJnOHZycXN0Tk00NDR5SnU4Z0dHQ2ZQc0xkOWRWbWZhNnJqbmxkbVFieGtj?oc=5",
       "pubDate": "Thu, 01 Oct 2026 12:48:33 GMT",
-      "description": "Trabajadores del IMSS Puebla denuncian falta de insumos y medicamentos; les prohíben señalar fallas oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Trabajadores del IMSS Puebla denuncian falta de insumos y medicamentos; les prohíben señalar fallas El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -216,33 +296,63 @@
       "group": "local"
     },
     {
-      "title": "Hace tres años los caciques se repartieron la plaza de Zacatlán",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPby10cy1mVktQeHBlM3Q4Z3QzUTZGU0NJVktJdXJRNS1BQVFCSzFBdTI1Z1NDVzUtNWhXVnNpYVRSdHhrbk14OFhyeENBZHF2cW5CMXBZQ2plUVUxMnhETUFOdmc3Vnh6VVVqcG1vNWhQRF9EejRwU0gwMjJsaUVFWGNzbXBCTmVidVBVV05ydGdKQ3BkTUUwQ1RGX1cxZHRYQlA0bnJnYmlablI3d1E?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 10:00:51 GMT",
-      "description": "Hace tres años los caciques se repartieron la plaza de Zacatlán La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
+      "title": "Puebla registra menor natalidad y aumento de población adulta mayor: EIC 2025",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb2ZDSk9rYk5uSHJtT2hxb29nRGFoU0JiaFFjNzhjQ0NrUTYwcXJ0R2RWNWJVOThDZWxQSG1EcC0zNUJmejBteDIydmlWbm5SUHNoTS1YbmtwM1p0emt3TnM3QkM1ai1XQjRhYU5QWEFvWFhDZmhla2xSd3ZfRUVTV1FkT3V6NWY4VWhkX0thMWJBZUkydFVpV204Q0xiN2JwN2stYzV2MjlLZlo2cFZ1enEtTndHLV9TSEtLRU81Vmw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 10:00:00 GMT",
+      "description": "Puebla registra menor natalidad y aumento de población adulta mayor: EIC 2025 Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Asaltan Coppel en San Pedro Cholula; delincuentes robaron varios celulares",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1c5REtoNVRhUnZ1bTR4OTVBR2d0cVR4TE52dDE2UWJfNTdoMmV3TDg0VS1lVjFyV2tzOE90WWs1WEVNeVR3NDRlQ0NmaDJtYmpLSkhITmJxNHc0ZGItZ0tFYXpEX21Ucm9fRER2WlN6eGxsNEhmaGJSa04yRkpVSklRaDZQRWgwUC1BUWZmcVg3bHp5TkpjOFhaU0N1b3B5N1BGNEEzSVQxVV9FT1ZmT0QyUzNMZ3hxOWJyWHdnQkRmOFhETjV1SVRrdTBWV05GWHZuNnY0MGE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 04:48:50 GMT",
+      "description": "Asaltan Coppel en San Pedro Cholula; delincuentes robaron varios celulares Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Aparecen bardas con mensajes “contra la reelección” en Puebla capital rumbo a 2027",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGlLM3pWam8wMGI4eEV0VEV3RDRGV2dWZEM0ZmlfVjZOLXc0Vy1UbWxHU0pqSUdKVExvMWQtaVNaam5Oc19ZOG4yRloxMm5SUDc3dEY0eVZsU2tZZWQ1NVlRbzRENExhcC1hV0hJWjhyOTVfelhHTFNBVjVERmFadkFROUI1Ny14TmJzbDR4Q0tHam9Da0FBeHhTVGx0S0JKOElIY3Z3VjlBRzZCWjhLajl0M1JUdFliR3d6Q05lbGh3N2dqTkE?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 03:12:37 GMT",
+      "description": "Aparecen bardas con mensajes “contra la reelección” en Puebla capital rumbo a 2027 Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
       "title": "Hallan huesos tras cateo en La Resurrección; serían de Jonathan Marcelo, desaparecido en Amalucan",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQajE4eENkdDVucWRwYW55TEhfdkpzRmlTV0MxdWNyRDI0YlR3NDNJc3R3RDA1SGZUZDBMR0tRZmtpTTFWazd0WGZTUU9GNWpBVXlOLXhWOVVZQnRBbW8tS1UtaTd2TFh1aURNRFhMb05TRXU2VzJLZGwtS0VKVFl1MGFvRnVtalhhSU9oRW9zbGFycklKMDgxS2ZpbkZJMzJBdWtMYkhhZzFPQ2s4THFVelp5ekF4UG1GMkVxS1pfVkhjRVJhYU11Nkc5WU9UcmpCaXJIcjdlaHV0OVk?oc=5",
       "pubDate": "Thu, 01 Oct 2026 01:50:54 GMT",
-      "description": "Hallan huesos tras cateo en La Resurrección; serían de Jonathan Marcelo, desaparecido en Amalucan oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Hallan huesos tras cateo en La Resurrección; serían de Jonathan Marcelo, desaparecido en Amalucan El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
-      "title": "Confirman hallazgo de dos ejecutados junto a un BMW en Cholula; FGE ya investiga",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOE5pRW5JYmYtNkQycnp1aGRHOUlCeUp1bXlMdkhkRFdJVDhLdlMxbC01Xy04ZzhmM0VhWE5yVnRnVktycThFbUZKdVZQRWVhbHFwTlFreGtVRmliU19aeTZGaU5JMHE3SGNIejFGRV9WcC1LbFpQTG5pdVVUZ3ZiYVozZU0waWJXSmwtWkJzSmxJZWc3bjhKeUNONW14VFJSa2U2UlRsVnh0YzJBTFpnZDZocTQzdkI4Si1YUGNoZDlzT1dTY09jMHVncHJIUQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 01:46:59 GMT",
-      "description": "Confirman hallazgo de dos ejecutados junto a un BMW en Cholula; FGE ya investiga diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
+      "title": "Diputado denuncia trabas de funcionarios para que San Francisco Totimehuacán sea el municipio 218",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONGh6VmU3RnZGOVlKcXkxUERwYVJaLW9jcXQ3QXNyRVhtU0V2U0wybVF2SndlRE5xdEVWcnZjd2MxenpUTTFYWlVZMkpsdk1TQVd3WlRzY1d5a2VFOFRWdktINk1yM0NJZGo3NXNfX3ljRmxPd3hjUUtNU3lfWUpQSTdaRHFTdDV0bkxEV1dBZEdLQUNZdFpxbWdvWXpzeGhzNG5XeXRqcFY5emRPajI5bFRvWk4zRmlxNmZVVXRINFUtWDAyblp4djdXUWRnZmtmM3A4TmRXQXJJcy15OFF1R21R?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 00:20:44 GMT",
+      "description": "Diputado denuncia trabas de funcionarios para que San Francisco Totimehuacán sea el municipio 218 Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Tras señalamientos de Salomón Jara, confirma gobierno de Puebla que delincuencia organizada infiltró Ayuntamiento de Acatlán",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNenJud1hmdjI5RlRKZU5TZmJjdmI4TVlIRXJmaXdJRktGMXpxd2h1aHM1N0hwdGJqSklMYjgxQWxwU0xYWXZjWFh2WE81N0ZacDNMZFNMY3lZdHhrS2FKMUVfd2tkN20wSmgzQkg5b3NpR2k2WmdpTW1NaTkxT1dfZ1I3TkViX1lqU2J0WGhWdFdaOVdJZDZFVXV2T2ZqYVlHMHBhMjBwaWNac2huQ0huZUFzTS13cndVODZzZ3dWck9HdWI0WGZ3Z3Z4WmZUenBaOGwxMGNPVjNlbnI5aDQ3Yzd1Y3JZV2tlSHVNWG9WOFl1ZEtEd1BGaHZuQWdySzktVURCUA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 22:56:49 GMT",
+      "description": "Tras señalamientos de Salomón Jara, confirma gobierno de Puebla que delincuencia organizada infiltró Ayuntamiento de Acatlán Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -276,16 +386,6 @@
       "group": "local"
     },
     {
-      "title": "Amante de Curiel Tejeda reveló amorío a la esposa y detonó el conflicto: FGE confirma TODO",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTUVTdzV0MjdmU0hQWWtXR1ZpUWlrS1U5Q0xjTGdPZnBVQmFzUmRJSDJKOHlzb0QwclhJUlcyRGRDMk9OSmtITFlJYWVjbjV4NmJJOGQ2ajYwZEIxV1RsSVJ3QUNlbEZQNk1EeVhpcVkycE5idXZFRnFzZUFtOEcwbVhSSUhxUWFPaDFmSGFsX0NpcHh1U0JVS1lUdXFuR1I5QUQ4RmVlekVHR2R4THhpNGhwa2gwYm56djVnNGtGNGF4aXFpcEJOd2RvV2FhSXA2LU1B?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 11:30:00 GMT",
-      "description": "Amante de Curiel Tejeda reveló amorío a la esposa y detonó el conflicto: FGE confirma TODO diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Gobierno apuntala salud comunitaria",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMmlNblRPYmMySlNNQkI0d3prSUdhV1lpbF9FNEw0QkQ5VDRHYy1QaHZQa1ZyZk5idDFnMG9DbGlyckMwd05udHNDTHlFTEg1OXRXcnE2d3RLWHNkbUJ6LVh4aXB0VFIzQW9EVGE3aTVSaHh5MDkwQ0JR?oc=5",
       "pubDate": "Wed, 30 Sep 2026 04:00:22 GMT",
@@ -306,23 +406,13 @@
       "group": "estatal"
     },
     {
-      "title": "La política es así: Lorena Cuéllar expresa su molestia por la designación de Ana Lilia Rivera (VIDEO)",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNW1ueUd5eUIwa2t4c0cwdUUxTmxLY29UamxjdnFGaWU0d3UxNzA2OHZYamlLcUpMQjVtS0xFYl9mRGJrLTBEVklaUDJMVGlpSDF5RE8zaFpmS1VVLXk3M0t6OURtcVc0aDhJWmpWVWwyYjVweHhiUGFiN0dtTGhZV1NHWDV2WDlRWG13aDl3NHhMWEFVaVZ2ZzRPRTBjY05EUjFIbktXR3ZZbkFhOU0zcHRNWDd5X0JxWHk2WEJmT2dicEpUcGwyanVTY3FMU1B1eGtWQlBhQ3l5NF9SOEE?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 00:27:54 GMT",
-      "description": "La política es así: Lorena Cuéllar expresa su molestia por la designación de Ana Lilia Rivera (VIDEO) diariocambio.com.mx",
-      "source": "diariocambio.com.mx",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Lluvias en Puebla dejan afectaciones en 10 municipios; reubicarán a familias",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1k0R3lFUnNOUmJVNkYxSThmMzhKbHJsbS1ySTN2ZW9Ia2hWZG9BSGotWklSbEUtZ1Y5eG9DZHRMamhEVGNDQ3NuTjk3NG5lOU1LSGswVVFORW9wdHFQUzNya2h6VU40dFRaNWtMOXc5MFBQZ2VWS1Azd1BtTVhoV0dMODlhWXJZT3dTbmZtVEk1Z3ZZZmZaT0Y1cG1vRXhSWHJxQVM4NUk1VTFObTJRcE9uWFZSeTQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 23:42:43 GMT",
-      "description": "Lluvias en Puebla dejan afectaciones en 10 municipios; reubicarán a familias Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
+      "title": "Trabajadores del IMSS en Puebla marchan para rechazar aumento salarial de 2.9% y acusan falta de medicamentos",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPXzZ1RFF5MUFBTGk4RmZTbENmR1VWQ1NTelVpWHhvM2ZvVFJTN0FTdEdHM0ZyUnR4Uy0yTVdKVy1IZ05Vdm9BeG9pa1FrQ1ZzcUpucFdZeTBjRTU3T1FOUENEVVhsZGJqTUJxU3l2WV9uWUlMbU1QMHM2eE5IOFh4bkpCZDhkejY2MEFKcjVCUmthelJQMGZWSkRXcHJSUkdfSGl3V0pkUUhJVFJPS19rQURMVlM0UnQyY3JNM1NnNG42eXRaUDJ4UG02aHR0VTFVbWFSWU9xSzQ5ZngxOXlhUXk0LWtuRllWeV9iQQ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 01:55:55 GMT",
+      "description": "Trabajadores del IMSS en Puebla marchan para rechazar aumento salarial de 2.9% y acusan falta de medicamentos El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -339,8 +429,8 @@
       "title": "Volkswagen baja su oferta a 3.5% y 3.6% de aumento directo a salario tras rechazo de trabajadores",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWVlmNEpjYzV4VXhpa193Q2xsMHBXNXI5NVlrazFHY2d6aWNHaUVGbHRtbGdyZC1YUXcwSlBCOGxrVFhxYV82eC1jd0ZjMGNTWjJRd1RReDlONWpHbVBzSmZ4NjhLNFdXYkROc0RIYlVoeWFlanF1LVBYZTB6ZFhYSEoyVGJGTC1ha0RpRGtMeElPU3F5enVPVkZYOTZfSE5zZ0FsUXJ3ZVBtSm9pQXhYN0FpOVdGS3BGTkMtVDRRZ1NlLThqbGtaLXdqZml1cjRROXFVTW9ISWtXeEtCc19j?oc=5",
       "pubDate": "Tue, 29 Sep 2026 22:32:03 GMT",
-      "description": "Volkswagen baja su oferta a 3.5% y 3.6% de aumento directo a salario tras rechazo de trabajadores oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Volkswagen baja su oferta a 3.5% y 3.6% de aumento directo a salario tras rechazo de trabajadores El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -396,16 +486,6 @@
       "group": "estatal"
     },
     {
-      "title": "Localizan restos óseos en terrenos del municipio de Chietla",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUXh3bElwQVdiZlZuaHZRbUthUlVjUE9Jc2o1bjhzckNBLXU4MDI5QTdJcXJNaXhnLUNIYTZOTU11bjJndTZFNE84b3R4bkJ3X3A3S3V2ekxsdUw5RVhGZEJheFhuaTctVHIydXA1aWY0Skhwanc5YjV6dG9tRlZGQWY1ZHZlUl82VGpLU0FhN3dMTlFvb0RBTXFQci1vMTBjVEJLeHJESnFwQUtNWDVPQVgtTDJJOHJYa3hSMjNqWjdaT0xOTGJWMjF5dDRGTW5x?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 15:42:10 GMT",
-      "description": "Localizan restos óseos en terrenos del municipio de Chietla Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
-      "group": "estatal"
-    },
-    {
       "title": "Armenta pide respeto por caso Curiel Tejeda",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rMXdhUXpmN1RaTTUzcXR6dEZab2RERllQZWc2eVVQYjBfb1M3MzVJSEpJNnBUdFlfVXlNaGdoQkJBcEpqS2RBQ3QxOEZPSFczT3N2N3VOSXpfUlJweXJBZ19KaUVxYWctMldtREQwRG85SElSZnEzQ2JB?oc=5",
       "pubDate": "Tue, 29 Sep 2026 04:03:58 GMT",
@@ -414,26 +494,6 @@
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
-    },
-    {
-      "title": "Así luce la Catedral de Puebla con su nuevo sistema de iluminación que resalta su arquitectura",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMjJYSFFqVklCY2ZpMVV0XzBweDNvODZtSUI3eVVGRmx5amRrSW9zYkdQNGhrWlpRX0RCOXEwbXdxUnJKNk42VnlQZ21wZHowUURJcmJnUXFCcmswWWtSakdBc2h2aFA4dmR0bWg4bEhjQS1rZHl4aUhzZklpVkgwb2RQb3ZQLWJqbll4cUNuNkRiSVZJUEY4MTRXVEdvel9ELW1QNzRJUUNKYklDb3VpYVpoWjlSbFdPZkQ5UGVxbUtiaEh4US1xd2JkZHQzcVBfN2htVl9sZC1GQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 03:21:50 GMT",
-      "description": "Así luce la Catedral de Puebla con su nuevo sistema de iluminación que resalta su arquitectura oem.com.mx",
-      "source": "oem.com.mx",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Con feria del mezcal en Tehuacán buscan duplicar derrama y proyectar más de 500 mil pesos en su segunda edición",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PWkp0RnB4Qk8wZ29PMHB4b0Q1WHRfSFg3V21sSGhjMEF6TWVxbkdhS3FkTkNieVhwZUxhbUZJYnBOcHdHWF9Mc1prUmozMG4zRE1panFQNVM?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 00:45:53 GMT",
-      "description": "Con feria del mezcal en Tehuacán buscan duplicar derrama y proyectar más de 500 mil pesos en su segunda edición primeralinea.com.mx",
-      "source": "primeralinea.com.mx",
-      "outlet": "Primera Línea",
-      "domain": "primeralinea.com.mx",
-      "group": "local"
     },
     {
       "title": "Definición de Morena no resuelve candidatura de coalición en Tlaxcala: PT",
@@ -449,8 +509,8 @@
       "title": "Suman 650 despidos en proveedoras de Volkswagen tras cierre de turno del segmento Jetta-Tiguan",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTZaR1FBZURIU1JvemdJYzdaeXoxcGZLRzNoUHBxNUNGT1JnYmhKSmRlZlpGTWF1Q09iWnJsRnFkd3lyMV9JVDg2RDNWV3dCc05LQkpDRnVUZHFGN1hoUjlZMUxaaV81NTlOa0EzUWFZMklBdEw3STJ6M3c0bmhXNWdPNlo0THJqakREanRmdzIxLU5Pc1J2Y3BibnZjakE0Y3VxbVhUbnpmQ3FYWmJjUVE1Y3VvZVdKeVdfbzNRT2l5MWtCMWxkSnBrTEpjX01UXzIzbWFsQmc3X2ZVckE?oc=5",
       "pubDate": "Mon, 28 Sep 2026 19:41:55 GMT",
-      "description": "Suman 650 despidos en proveedoras de Volkswagen tras cierre de turno del segmento Jetta-Tiguan oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "Suman 650 despidos en proveedoras de Volkswagen tras cierre de turno del segmento Jetta-Tiguan El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -476,26 +536,6 @@
       "group": "estatal"
     },
     {
-      "title": "Patrón Wong ya recibió la Catedral y el Seminario de Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUNFck9sNGJLLWZ3ZExOV0JKZHpsSkRSVFI4YlNWdWpRbzRFLTB5d2hMUzg4MEZoelhmQkFXc0dXQnBteThCNEdPc0Rha3ZXSWhGVEc3NWtrYXhvWk03SG1FTC1RdDlJVm4wWV9fQjlaQVVpVkRDeTBoNEVsUmFmU1QydGlrdWVidXhDZVZsMkNOUUY2c04ybFNKVllpU1dnZ20wRmQyTWE?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 20:37:57 GMT",
-      "description": "Patrón Wong ya recibió la Catedral y el Seminario de Puebla La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Sara es la madre de familia que murió en el accidente del Periférico Ecológico",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHUyLVhkd2lCX0NvbHdvV0VLY29iaklra25JdldCZUYtXy1MZU9aRktUYW1TdV9MVk52cFM0V0ZHTzhWaml6ekQ2MmVnSnlUb0FBaG9WNmcteUhWTldZMktpM0M5Y29TdnVFcHVzMDVLTHhrLWNTcV9Nc3RnVEl5bkFXY05sV2d1cUgwX25fS3hJVERxbndFOW10X1RDMU1DSGlUd3AwNy1tZ0lOVFVSb1hiOHRwajJyajJyYUpMTQ?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 18:55:55 GMT",
-      "description": "Sara es la madre de familia que murió en el accidente del Periférico Ecológico Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Pepe Chedraui califica como inconstitucional reforma de alternancia de género para gubernatura de Puebla",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZTV0SGw4TUFkRlhHbXpCbHU1WVhfNE5Ra3ZtcTRfZkFDbUQ1eFVZZEI5N05fN0l1RGVUbEZSaGdoLW1qT0JwVHNVbkY0OE1OOHd5X3A2V25velI2MnlxcHczY3ZuUWlWRGZtYmhvcnRydTJhbkVLODRUQTVVclNVMnRGelVta3FNYU1kQzJjTTFkWE94Tkh2WXE1ZHJWbDJOSHFQZUtVQmpEY1poRWdfQllDNU5uNlB4STBUZ0MzZUxYV3dzVjhzYkI5a0F4VVg4UUc4QVB2c0xibWpmN2lDNg?oc=5",
       "pubDate": "Sun, 27 Sep 2026 18:38:32 GMT",
@@ -513,16 +553,6 @@
       "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "se decide desde fuera”",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwWU9nUTF3SXMzZU1qaDEyLUw0cU53dkh1eUhGeGdmZlRPNE9jQkZBcWlsdW44LUxsTjZMU2VMRW1PYndKLUNuUGZOZDNFU3BmYkFENVVRUnVtREdPTHdfTmhjQlFfMUlqeU9Pem1Gd2FFT2JvTXlTN1pB?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 04:02:50 GMT",
-      "description": "se decide desde fuera” assets.intoleranciadiario.com",
-      "source": "assets.intoleranciadiario.com",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
       "group": "estatal"
     },
     {
@@ -564,6 +594,16 @@
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
       "group": "local"
+    },
+    {
+      "title": "Prevén el regreso de Laura Artemisa al Congreso de Puebla",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeW5iX1NkTnItM1RXc1VhSnA1ZThOZ2pMY1Fnd05UNkdzSUVLVWtGMW1JWnVtY01vMkhhQ3hFWmQ5bmtUNDBfWWs0bW5ST0xqLUhhVzJZU1JCR0x0SU1zc1VETklIN1lqWHdxMUtnNkU2YTI2b2VxblZfR0Z6ZkVBWnJ0dm9PM2tYUGN3SUtQZHI2d2ZYODFjai1CRVlrem4tMnc?oc=5",
+      "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "description": "Prevén el regreso de Laura Artemisa al Congreso de Puebla Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
     },
     {
       "title": "Tras meses de trabajo Tilapa está a punto de inaugurar su museo comunitario",
@@ -609,8 +649,8 @@
       "title": "El Sol de Puebla - Noticias de Puebla hoy",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wMUJXRVg1T01nSmtxZW9TMW1udU5ZTDAyTFNXXzBncmFscFJtYXduajQ4NG1sZFdteGpvdWlFWkJOd1p6eUU4dQ?oc=5",
       "pubDate": "Wed, 11 Dec 2024 18:36:13 GMT",
-      "description": "El Sol de Puebla - Noticias de Puebla hoy oem.com.mx",
-      "source": "oem.com.mx",
+      "description": "El Sol de Puebla - Noticias de Puebla hoy El Sol de México",
+      "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
@@ -664,6 +704,26 @@
       "outlet": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
       "group": "local"
+    },
+    {
+      "title": "Tres multinacionales controlan el agua embotellada en Puebla: Danone, Nestlé y Dr. Pepper",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXdkRjVvYmVBWFFISUhEZzFicGc4OW43RmlkRU81cElPQjBsX2I0Ry0zTXFUOTNMVFM2MEpYclQ1d25td1NNaDlrZ1NvelZPNURlRFFmLTBpUjFydXl1U1lPUGRjN2FhNmFNTXZBUWhfckp5bTVrT2pTTXNwSGJrd2FuNDhjZjNxRmNidE5MelVNN3lRcDhGYUI5Y0E3YTdFU1NreER3NTBkTENRWGRpV2hGcENmNEEwUG81bVdvQUpBNUpPM0VaY0dzRlo?oc=5",
+      "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+      "description": "Tres multinacionales controlan el agua embotellada en Puebla: Danone, Nestlé y Dr. Pepper La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Se descarrilaron cinco furgones en Apizaquito la madrugada de ayer",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHp5R0FVNE1fbVpUNkhPU2x3b25NLXZaRi1fZ0N2WFBDc0s3Ynd1ajFEcDUwN3hLc3RIdUdiaTlybzlBRHNnbHA2WnZ1NFlzdFNFRHYxU1NtSmpYamFHdXdDZnNxbEpQcTREaVpQRG1iamZWelNOMGdkamVacWI1cHhoZWNBUEREOEtHSXo2MFlHdzdXbWRWMTVqdVZXNFVFWEp0ano2Z3NfUjl3WE5GVU83a2d2eDA3c2c?oc=5",
+      "pubDate": "Fri, 18 Oct 2019 16:28:15 GMT",
+      "description": "Se descarrilaron cinco furgones en Apizaquito la madrugada de ayer La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
     },
     {
       "title": "La Jornada de Oriente - Puebla",
@@ -726,10 +786,10 @@
       "group": "local"
     },
     {
-      "title": "IMMUJER Tehuacán ofrecerá atención psicológica gratuita para hombres",
+      "title": "Noticias Tehuacan – El portal de noticias de Tehuacán y la región. Noticias al momento y opinión.",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yZEphaU41dlNzaDVKamZETjJqOTRWTV9MQ3FLcmZoQTEwNHBPM3hJZWtGMVN6SlBBcm5LTUYtbFotRm8?oc=5",
       "pubDate": "Thu, 27 Oct 2016 14:15:24 GMT",
-      "description": "IMMUJER Tehuacán ofrecerá atención psicológica gratuita para hombres noticiastehuacan.com",
+      "description": "Noticias Tehuacan – El portal de noticias de Tehuacán y la región. Noticias al momento y opinión. noticiastehuacan.com",
       "source": "noticiastehuacan.com",
       "outlet": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
