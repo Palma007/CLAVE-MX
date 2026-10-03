@@ -1,76 +1,607 @@
 {
-  "updatedAt": "2026-10-02T21:30:19.999Z",
+  "updatedAt": "2026-10-03T02:33:32.396Z",
   "sources": [
     {
       "name": "BBC Mundo",
       "domain": "bbc.com/mundo",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "CNN en Español",
       "domain": "cnnespanol.cnn.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Reuters",
       "domain": "reuters.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Associated Press",
       "domain": "apnews.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "The New York Times",
       "domain": "nytimes.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "The Washington Post",
       "domain": "washingtonpost.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "The Guardian",
       "domain": "theguardian.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "El País",
       "domain": "elpais.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "France 24",
       "domain": "france24.com/es",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Deutsche Welle",
       "domain": "dw.com/es",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41M09UYVMxcW9KMFMyc3hfd2ZoTmFYTlJwYlM4dk53aEowa0lYb0k3c25qWm9UcnBjTGxIaXNwVjdVdFJOeVBKVFFlLXZzdUZPdVI4dmZydjB2eEQt0gFiQVVfeXFMTnhndVltM0QwQWNhc1dDbkRlU2NVcGJoYTYtY2NuTXFtQkJlTWdpQjFObTM1WVBuVU5UOTVJMERwM3h2ckR1cTJ0aTloWlJZMnowTWZEcDNZdDJ6XzM5dmlwV2c?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 23:34:11 GMT",
+      "description": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "¿Qué le depara el futuro a Christa Pike tras haber sobrevivido a la inyección letal?",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ0pfZG9nYWtxYk5VLVVoWFZKM1dWZGlMaUdXVXlOaDF6YWZHMFg2Z2szeTM1ZG5Xc0pIXzgyNjVmTl80SHlRYTJ4WTk1SHNCTmFzcktwYjMyRFNndlVMR044TU81UkljbFhCV0tiUjNwOWs5WEsyY1VSS0Jta1ZCcEFKaG1uWG9jdDc4?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 23:10:00 GMT",
+      "description": "¿Qué le depara el futuro a Christa Pike tras haber sobrevivido a la inyección letal? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "EE.UU. envía un tercer portaaviones a Oriente Medio",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdDUwbG0tYzA3LUNwTVkwdFNOSnpNSm5ucVg4SE1lRTFCTWtNZDM2RXZXaXV4VWxpUzFwQWdkSmUzRmtoUzZJdW5DLWlFbl9QVTFwZjhzQTJCTjV3ZVJvaHNYLVN5eVJyOVJRNzJjN1V5U1VpREkweExJbUZYTFVXelZkNGFBengtR01HZ0gteVHSAZABQVVfeXFMT0FUWG1oTjlQVzFLczdRVUlSRWNLcUJHblB6V0syNU5RaHRqSWZKaFJsemRGcHNjelRaRTdxaFBSSURCekJCd0xnaE9qdUk0TE9DTEZfTHFGeUpndTMyVHlRSXA3MEJjcS03MUZhaGxlZlU1TmFzRVpRWENBRnJOX2NyWlE4SFJYZ0RKcUhjaWVl?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 23:08:48 GMT",
+      "description": "EE.UU. envía un tercer portaaviones a Oriente Medio DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sMkZ0NGV2RzJEVjBLZFhfZ2dRcWpQdGhCUEhzYmU5d3RsY3BxRDZCR1FDS3BfT0JiMzB2a1dUTFVqUTcwZ3E4eGJ3SEJoVG9jeE1Rek15dTExRWRl0gFiQVVfeXFMUGRfUWxVNmwzRWtOb1RUaTl1NG0tdTNaUTJuNDlSM0tnQWRsM0tJbHZFUENZd3V6b0I0X1NlY0o5ZTgyanRHOWFVNjdkRmJibVVxZ0RaZ0hLYXlZOHd3RTRPOEE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 22:18:46 GMT",
+      "description": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Christa Pike está inconsciente y conectada a un respirador tras su fallida ejecución, según sus abogados",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56UWRmeUhBMXo5SHJvUG83SkJFelVyZEl1QTZjV0taNEJmN2F1TzQtTGJERGlZWnpXNm1vdmZDZU1ERGhJZVRRTENCN1NlN1ZUbXZsNG8ySkdtVGZr0gFiQVVfeXFMTTJjR2NrQVg0U2lKOWl5YWltX3BWVUVxVHJJQ24yNkdkekh4TWhiOE9nZHhqVGJGTjRGbmszRlVkaENSbWFHaU9PV0NPd0xLdGlkUHRtREtlaEpDSzRsT1FGUGc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 21:06:45 GMT",
+      "description": "Christa Pike está inconsciente y conectada a un respirador tras su fallida ejecución, según sus abogados BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Calderón responde a la decapitación de su estatua: “Ser el villano favorito es un símbolo de que estás haciendo lo correcto”",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOW9MQVo5bzU4b1ktZXcwSEhfNVRFNUU4R1FXNmRuQVF2SVlpZ3dsMnhXTmJQYWdjU1d6SGI0YXVOOGpTS1hSODNYS2N0Wm9MVEZQdFhfSXpuLXFEcmNKbEtKc0ZrMW5iWE9KSjRXSzJQN2VtblY4ZG9mXzZuUm9wMmNRRU1jTnBUaUdTTlVySHZKYVBQWmZkV0x0SVVNaU1qTi1hUnRMX1dha3g0T0R0SW41RExwMTBEeE5KVHRISXk2RFFKRm9sZjNkcTBkc25SX2YyX1FyZmNyck5wbW5NWFZKRjBvWVJ6X29kbm5lb0NlS3p2V0HSAYoCQVVfeXFMUDVLMFBHZFItZmU5MjdYX24xWGRVSHVzODRRMGZDMXZNankxdUEwRUNCLWUwdUloNmlfRzJOMEtjYlo2azY4Q2hYWnBYQ3Mxa18zdC1mQXBNNGNacUdyeWtYME1tOG5laWdVREhVaEZpSnVrQmwwQm1NQXgyR3U1T1BxcTVOcl9KOE90VjlJZ1RYbnktLVVEU1ZOVE54MVFJWm5Hd0ZJZHhTTVVHWGtNeVdYd1l3ZDFWUU9sV0pfRHNwdll1Z1hoTEsxc1ZvZ3hnZk5RUGlKemZyWWVwV1p4V1pPalhfS3AtSnhEOTRNaUJPUHVrRU9TNGFiQ29Zenp4ZGNNVmZZMlZxM1E?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 20:35:18 GMT",
+      "description": "Calderón responde a la decapitación de su estatua: “Ser el villano favorito es un símbolo de que estás haciendo lo correcto” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Detectan por primera vez una señal de radio desde un planeta fuera de nuestro sistema solar",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0xQTWNLRXVQa2FhZk93Q0d0c2s4VDNxWDRiUlJqQjQ1a3A5VDFYdUhJUUxPd3ZleUFOczRoblFFWTBDYjRDSGVGWEkyelU0Vlp1ZUhzbG9ZTTJOTHpQSVIyUDhfa2FNZlRVeGhHWVF4aTJ0cXFRS0dBYU1ldXpqTk5GUHhzeHdJQzVHTQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 20:05:00 GMT",
+      "description": "Detectan por primera vez una señal de radio desde un planeta fuera de nuestro sistema solar CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "G7 acordó liberar 100 millones de barriles para contener precios del diésel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGNzV1V2eEFjeGZybXpERHFSWFd0aF82SjhLQzFHN19jQ28yNXVlZU5UZFVHUzVhdXZORWN1VGh5VU1GSGN1azNKR1VzWGpNeWpKN0cyd3c1UlA0Qlc2U2ZDQlF2bG9tbExpdnJlMk9sTU8xcVVNS3V6NzdCMzgzQXVvT1d3alNBNDRLMkRENC02V0JHUWtzTkRMVUhucFdKWXA3RDdDUnFmcmFWbnFwdnBNQ05EcGVXS1HSAboBQVVfeXFMTzgxNzBDdi1kLW1TNkx2R1k3bjRKbEt0akZtNXBTN296T1phUTd6M3g4TUNWMDljNFg5NnR6OHVldGFLOE15MkpNU0g3T2NBeWxrOFI4WjdpWWtQS3Z3QjlyWGZYWG9pUFluQzY4bnZTaUdFSnpQbjExX1I3V1RMWmFNTHhwSEU2ZW9hYjhwLW02M1g0ZUZUTVdQS05qSHJnazRtcTVZUllVRHJXR2p3bXpqWnVETURMbUNR?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 18:50:58 GMT",
+      "description": "G7 acordó liberar 100 millones de barriles para contener precios del diésel DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "\"He presenciado casi 500 ejecuciones, pero ninguna como la de Christa Pike\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UTDBoQjdka0lSWWk1ZUVTM3dLaE05cDc2UDR3YmtZV1JoSmJVbV9FUjFfbnhHT1U0czMzVThqYXlWUjFiTEY0T1hORDdxa0V6Q0NIMlFCQ1djUUZn0gFiQVVfeXFMTVJxU24tQlh2YktBSGtZMWRhQk93UFJMc3hyRzI4d1NTbE9YVmN0c2pVTnBpUWxMeExPMWVSemwwNy1rSW1oU2hsQVFhSE9Ia1o0Z0dyT1htMjNEV0J4QWg4UGc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 17:49:10 GMT",
+      "description": "\"He presenciado casi 500 ejecuciones, pero ninguna como la de Christa Pike\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Sectores de la izquierda alternativa promueven la candidatura de Mónica García a las generales frente a la opción de Ada Colau",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTkN3Q3JpSkRXeEIzdEJITmtCR1QtSWZuTXhKRzFhdl9mVERUT2NyZ0pYTTUxeUpLaTZJZ1psZXVtQkdZNzBmelU5TXZBNzZYM1VBb0pqV0hjZl84WUlCVzVSa1VKYy0wZ2dFd2QtVDVBZzRFc2RiekNjTnhhM05wb1praGJGZVBPNnpGZnZMMklEaW9vc1FrbXJGc0ZXeXdkUGNpNnV4RXRyQldNWGp2ZVduN3hHRm5JbzB3V1BiR2EwZ0VrT1V0a3FuaFhpZ0lHQWFuTjhGemZHN0ZJeGIwMlJDYzNiVWJ4QThlWE5jLXQwMUZSTjJTTG5yU2fSAZACQVVfeXFMTmdpeGh1MFBLb1lFM0h4RUpFeFBwcW15RDYxYTd6UHRQbkpYYjZnMHgwVktTRG1DSnQ1S2FBTXEyLVJ1VDIzaFNGR082Z2hqcl9qa3RuTzZ3MENIMUs0SzNXWjd2blRvalRFWkk4WUMwSHNpcmd2em9oU1Flb1M3X2NYYlN2QmxSOEJtYjQ5cC14ZVFuMVpxQ0FPZ0xfTHJJU3VtdTZVOE80M3h5NlpDVGF1cnJUXzdnSkFKN19Lc3ZiRkNTQUdhdUQwcU52QTJNeEFSN2NBd3hTX3k1OUd2UE5mSGFjcVVCTGZTYk96S1pONGItTU5BU2hBOVQzdHZYRkltMnNqazZIT3FXT2thQUY?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 17:46:23 GMT",
+      "description": "Sectores de la izquierda alternativa promueven la candidatura de Mónica García a las generales frente a la opción de Ada Colau EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Por qué las inyecciones letales fallidas son cada vez más frecuentes",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNV2puSnd5NGRINjYwVFcxRnhzdmRtSERWa2toeUFuTHFZTkJHMnowdnZjc3BBWlBoT2JSM01samhLa3BqQlM1RU93NGdDOVVqXzdvQTVISUVsRzVueV94VzlJQ1JZY2M0RGppQkp1WkVxXy1BM0dSUUFqWmhQbjBZZ1NMZHFiLW9MWUE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:57:00 GMT",
+      "description": "Por qué las inyecciones letales fallidas son cada vez más frecuentes CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EODk5M2JlRmVKaWpLdGMyd0pwZFdsamNOcDNuOU43WTZPaUVXaFA5T3A5MzY0RFF2SzQzTTZDWnlhanFEN0VGUkpzeFg0QWZjTkZKYk5oOUFRejBw0gFiQVVfeXFMUHRWLVhNMmphaUVCNE41VjM2SlJGWnE0emt6bWJmSnZjRHkwN1V4YkI4T0Z6MGZ3UmJFb1hYejBkTWVTMFNqVXZRblQ1Rzkxck1QUWZZd3FZZmpVVWU5bnNxYmc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:24:58 GMT",
+      "description": "Semana de furia y fuego: las violentas protestas estudiantiles en Francia que han dejado más de 1.000 escuelas afectadas y cientos de detenidos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhQVFoWndiczBFYUlsWGlzM1FNNFB5ZGJIRzVNWGNLS2RtanhadTJQdjd5Z001eE5zTnNCOTZYMS14MDM1Yk5tNHVLYmJnaDlxSHFOYVhDRzQ4OGcw0gFiQVVfeXFMTWpSTzZKbERPU0FvbGVLUXI2bFJEeVliNC1yRllzU2h3dm1uOU5CY3F0U0pIakJ2RjhQWjh5QkRMRi1vVDB6QTNZZ1NiVDVudzM2ZXRNX2hYYmRoSmNpbk1WQnc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 14:10:22 GMT",
+      "description": "\"Tenemos miedo a perder la vida aquí\": los migrantes de América Latina que EE.UU. deporta a República Centroafricana BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Video a bordo del vuelo de Flydubai muestra el momento en que los pasajeros toman el control",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzJUZGR1X0YwaVRkOTloQ2I1b0YwUXJEUWNFdl95T0hIcHZ5OUlDUm1LTGVxRU9fbEc3VGJURWhLekszQURxQnAzcklzelY4UTNzSlUyUzltOGJwTW42aTY0RFMxUWdublVlMWtLMkRiWUs5SVRRNUlPbmlsT2N3OEp0c2VsQndnbGpITzZwT0Q?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 13:01:15 GMT",
+      "description": "Video a bordo del vuelo de Flydubai muestra el momento en que los pasajeros toman el control CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Muere a los 34 años Ken Urker, pareja de Gypsy Rose Blanchard, condenada por la muerte de su madre",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0w5aVhSdks2XzJENWZPY19SYXNMUlVPWmcxMWFJeHRaajFqeFpyT0hNalUyUG9MZUJUYkd4QjlPalhwdlliSl9Fbi1uVkNnTEoyWk1KQ0VYekZjUVpjNnF2dUhpMFZmMVViZXB5SVplRFEtRHpuUWFOQUFHOUxhY01aS0lpNDJCQmczLW10OEVyN09CVDh1NWh3?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:58:00 GMT",
+      "description": "Muere a los 34 años Ken Urker, pareja de Gypsy Rose Blanchard, condenada por la muerte de su madre CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "El Congreso de España hunde decretos sobre la crisis de vivienda tras voto en contra de PP, Junts y Vox",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaGpadHRxUlFmUFRWdDRaUnZaQ0IwRGVvZDF1dVd5U2lpaXRoVHRXRng1WkZLc0hDSnZycGFtdWt6U25KRmFiNWNXSG12cU9PNVYxYVBja0Q4TklkVFUya0duNXNBdE9sOWIxQ2kxR0c3U3I0U0lYcmJIeVNsY2RWRHhRU1NQaVREaTBicWRTc2MxMkRMWXhIXzRxSThIQ0k0czZ1NE1RUURkSGRZLWw4SmFpOURHWnFJZ3FuWm84LXpaMzVVemRidG90YkhCUE5DNGFDU29DQk81cnIxUFpBY1BGREpBUExzNVhTS29mRjNTWWFFNVFJUFRjTzE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:45:07 GMT",
+      "description": "El Congreso de España hunde decretos sobre la crisis de vivienda tras voto en contra de PP, Junts y Vox France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "España: Sánchez sopesa adelanto electoral tras hundimiento de los decretos de vivienda: ¿qué se puede esperar?",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMDJ5RzdsVk1JVXlTOU1KQ0cyR3Q2OV84VnlXY0M0YW9DNl94X1d1a18zNXh1VUc1M1NRR01xOXRYS2ktVjhhZzQ2bS1la3ViTHNCSGQ0c1hGWHBVaTZKbWlVOEljY1h0TXR3d2FkVk9xVDZVQm9LbGdRZzNya2NiTFVQRDNfQVhoeGU4YU5XUm9rOVlhcXppa3ZjdGE3RUtxdEpHbXRhSlpfQXp4cUNLYWZsc1FlRDBKb3lWTlZlWlMxNXAxLUs3OVdhdG1HTW83Q0g0QnYtbmpiQngwd255czhtT3pQQ3pSYTlaeXc0a21VVXVDdHdDSGlR?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 12:23:28 GMT",
+      "description": "España: Sánchez sopesa adelanto electoral tras hundimiento de los decretos de vivienda: ¿qué se puede esperar? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "El Gobierno de Trump desvía fondos destinados a promover los derechos humanos hacia causas de extrema derecha",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTJ4QnhZN09kcWlzOE43T0Nrai01OGFDbTd4SWF4b19ZdWpvQ1FRMGNMeVVLenZWNUNXcGpaR1U3Zk1aS1FCcDZfYWF2cmhHQUhHRDVEZHR2YXhQNDN6X1JGbFV2VUpfNmF1YU5ERjR0TW1FYnNwR2pTMVNBUHBIM0Vzel9PNV9ZdnpldUt4MEhfLXc5dzlGNg?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 10:58:00 GMT",
+      "description": "El Gobierno de Trump desvía fondos destinados a promover los derechos humanos hacia causas de extrema derecha CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODc0b2FETkJ6YnRXZUFUM0FIZHZKUGhCV0dWcTZOQ1VWZmFKVThKOFRPQ2xpak5DN3BBazZSdjMyeWlNT0hhdEY2TXNBckRWNDdDWTAwZlkza0JWMDBrSHFZdk9wakJYVEwxVTJ1RUs4NXpDYlo0eVd1OTBraFcwT3lXdVBobE9GNldXRC1ickNtQ3RlRVp4Nmo4Y3RLWVRZdVJQblhNQUV1OXJCbGNvQ3M4VEpwMDRpaHFzS2tFeHBDaDFYdnRtRGdGb9IBywFBVV95cUxNaDYxZFlqU244Q0t6VFRlcVFONWs3SUVrZTU5WDZjcE9HbkYybmlRUlVEcnE4YncwakdPRWFiVkJoNl90WEtha2tLdHZhdF81aGlHcGRNRHlIREJFVXF5TlRndzlQSVhuYjlLcVhadEo4em1KSXlsMTdoMk1Nc0REWmppakltRXYxVzlKaUVZdFA1VlhUTnlGYWZUNGVxMlU1NzNIZHNSZTJWMGpzWFVhcnFxUlprdy1mWW1uZ250dnB1ZXZtN1JFWjZ4QQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 10:44:20 GMT",
+      "description": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Condenan en Cuba a activista opositora Anna Bensi y su madre por difundir video de un agente",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXZPWV9tQkwyUmpCeFM3b0sxOTJReklncUk5LXV4NkltNGY3Ukt5WW5Yb3hNdVFnckE3RlVPaFJxMmRMQk1wbG5BWVdONzBwQTk0bDFRTzRHOHBJd0RPZjJTbFhGbVAzdFp4NUpsMDViY3FjbGc4ZWV0WjlpUmgyVE9nMnNEb0xiamxfSXRzbE9LNkdLOGEzUTBXWlNGcDI3T3F5aEIyX0hUVGQ3LVdXT0ZEbDM4LU1HTnVId0pSUTVxTkHSAcMBQVVfeXFMTXVxc19kZVl1ZGZ4NnlvMFUtRjNXeFVWWGFnODAyWVlKRjZIajJuMzNsS3UwRlNlN3pYcllEQ3o2ckh5c2c1ZU53Z2R3aGVVV2lGQlRnTEpWbmNKVy1pZjNBZFdQVURMaHRPWjlWZDR4cDMxaGRKaVhITU85cHRhYXRtT2VHU0VxUHdGeUwxLWtwYWcwMG1MODRJOTdXRHBBLWVmLXZ5ZW9qRVFMWnV2cHpmNUtBRzFubXNVTVlXMERpN1hB?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 09:30:50 GMT",
+      "description": "Condenan en Cuba a activista opositora Anna Bensi y su madre por difundir video de un agente DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "La sombra de los ataques masivos de Estados Unidos vuelve a Coahuila tras el asesinato en una escuela",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdVp0X0hTSHV2dXg0T1ViZjIxa3RfQTRoelR6VHZ5Q1dXbG1FWFE0MUhlSjRSRTQ5Rnp1QVNlZVNRNnFhUjdxTHVqZjlScGRCMGhJNzg0dE8tVG5IM3FtZVd6M1o1VXhBdkRLYUd1NlM5UVc2WlhEZDlFT1Jjc0FSalFoU2M3dGJTdDBqN29DN2laWGlzcDBVeUJLaE40b3JvSEtmQ2owdkRQU2xJWXRaTzA1R0I3dExrdE9SbFRlVl9FeVRDWXFQd002Z29TdXB3UEJxMjF4ejMzLWPSAe8BQVVfeXFMTmF0UHVlOFlFQVVWMllicFdtNE9yanpNN2xWUlB3ekM3WWRGbExxQjhXZF9udnppM0lXX3JoZDFaNVhiaEJsTFZkbEt0UjFPdmxGWTBCSVF0dHpIYzBIUVRVdzFyQTJhNUl2NllnNVpIVnFxX08tTHcyTzZzTjRzYTlJdTY5R2hpdmpIU3JNRTJ1Qk84MDlWUmx0YURtNGk3OUhGN0Fub2czeElCTmx0WUlyZWtINkptb1NNVG9hbzlJM3VPVFpSMnlqMWpCNE1BLVVBcC1HQjlnU21qRi1sTmVDVER1TnB5dGFoNmRBR2M?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 09:30:00 GMT",
+      "description": "La sombra de los ataques masivos de Estados Unidos vuelve a Coahuila tras el asesinato en una escuela EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás”",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOLURsdGhiTy13aTFsNXNFWC00NXNOd3F4UjBGOEt6a1FMSGxsb1FBQmNDUGRYQ2ZVZTJKTW5JMXZjQWFDSy1heGIteng0YnZienBMT1NfTDM1bXk3YVlWcUIyRmlqbEVYRUYyekltd1B3YlJ3Sm40bUcwX0NVSnRONFFTbGpPM0hXUWRLSTFZZkpXQmVDeUpxT1ZfOHZiNUdlZW5lbFVSOHVONHVjZnI3ZlpNZVY4SlJMYmgwWVZsZGE3RERZY29zckVfWVZMMEF4ek5tTG9YVDRxUEtyVU9PbVdYSHppNFFaS3dwSi1MVEVSRUQzaWEyVGxBSFRiVnNVZE5HQ2JR0gGaAkFVX3lxTFBYa0V5WDdQWEhrdmdid3FveV83QzlTcTUyek1hVm5JNGdGV1ZHQ3lLVTllbURncUM2NnpnX09BSU1nNGxJLXppZHA2OFhDSDFySW1DaEt3eWNGc0FwR2p2Y1FmN0Iwajh0Zk0wWk53Q3VsaDVRQWVoUVp1UnFrdEpBWHREUUpXX25vWWNGZUFXVmdIWUZ5bFlrWG5KVm51WG5vVloybFNJWDl2WUx5dS1YQ0NpaEIyVTFmLXM1MUxmcWZzTnBTcG9mY2xfbjBsQlhPQ1BKYTF3dG90MVJ5WEZQeE5wV0tDZTQtU19qVWdwVU1DSlk3RFdGX1c3YlkybnBoVE04dUtubzBxNWRTbjB4Q2otT3lta3JDdw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 08:56:56 GMT",
+      "description": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El voto del odio marca las elecciones presidenciales en Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0xoV19EbmswclVucUR4Z1h4T1gtZk92MkJUUjhtTTh0S3NUWW4zV1h5dm04RXAyWVJWQllmVUlXZDJzd3pIVHJsRFFHaVBGdHJCQVM2NjVqVENiQmFMZF9RVi01UUV2bTJzQmNGSFJKeDRoWDRCZWdtVHl3VmFmNUU1T01aSGpLdEx0Z0NESnBGWnROS2ZSVVQyLUozaWtmbjV3bnpSZG7SAbwBQVVfeXFMTmtZOGxLQmhtdnExcEFRQmt2Rm1vYlV4YVdUTGdfVFVlYkJvanNsNS1jT1c5UGU2YmgzTkNhQ1RXdUVWRWRlX0FSa05rYWFqNVh2NjI4WDRrSGZpVGlLNGZCVTZFWVJIQk5Ta0VaMFVacDkxZGI3WXJXdHNsQlJVSE1pWHhFYlZtQlhBSF9VQUlfcDdXZlczcFN4enRlZVlMSjFUYzNvOHdqU1JEWHBOeEIzdm5TY0lCdVFtQnA?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:00:00 GMT",
+      "description": "El voto del odio marca las elecciones presidenciales en Brasil EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "‘Digger’, con Tom Cruise: Nada de nada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZldHWWFpdkI1MDFxVnZ6Z2ZPZ191SWFkdWFXNW9fVkYtQUpLM3llS25RdVpvS1F4cktUaTFsdHY4Q3VnQlNCaWVZYXdZM0JPTmo0dWp5Q01rY2Zoek96eDYzcHA0RUZLZlFaUlR0MElrcjd0bmVLdnRTamZreThMSDdBTXZURl9kcFHSAZ4BQVVfeXFMT2pxeWJlVi1mM3ByMnpwSGkyYkpKTHR3d1Nud1Y5aFh4bWd4WjVsS1R1b19PVkZNZVlSZ3hlYUc5Y25GRWJhT2R5NjR4dkY2XzBidzVKM1NXRURacDVRZWMwemNmaldXLVgydUVMZUM5TWVfeEE0eHhmeXE3eHNxbGNjZlZRUzlTcFJSVkEzX2dVR1ZqTlpmSi1XRUZoVlE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 03:30:01 GMT",
+      "description": "‘Digger’, con Tom Cruise: Nada de nada EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Gobierno de Bolivia amenaza con arrestar a fiscal interino",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWhaSEhja3hvTUV4Z2dSUmVaZTdhOE9WZHVzZzJmU3dhc2dtTnBMQlUycm1FZk5hbzBPd2p1NjVhMElIdWJGc1NkWElkX19iQnJ2dTJ0bFFiY3BBc21HNV9sc0kyOXhtWGQ1QTl4SDNFWVRPTnhhdkdGdTdTdVBPSzNGbm0zRkdCaTF2U1FXLU1QTjNncGfSAZYBQVVfeXFMUE9kMXFFcmprNzViTWI1X3Y4Ty1PYUFFTXJaQzNBUmUtWU1kSndhLVpOVVpNLVB6d3YwTG5PS243TUFveGk1OU80TEl0Ulp6UTY4YnJCQnFxaXRfQ21mUk1kM3JDZVRLRWF3endhNGJDLTRHaW1Udnk0akl6eFBIVmdRUHpVUVVYYVdMT3dvRGRMQ0JsSjlR?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 01:19:10 GMT",
+      "description": "Gobierno de Bolivia amenaza con arrestar a fiscal interino DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "EEUU anuncia contrato de USD 24.400 millones para fabricar misiles",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUZPYWlwdDIzTDJJVHdyZ0dtTDF1Snd3eDZQSVJnWU9lZGsyeXdnZEwyU2xPclVBaGdtTWlxT2U0NS1wMEg2UGR0a0dDTXhkY1g3Y29MbWZVenVHTHc5ZTRDd0phcDAxdjRXYVpVaEo3bklLRWhGU2VieUVYNEd4QnY0a3R6RG1Ld2dNT3JjS2c3aFRqQnNQaXplNll3Ml9WS0hiak1jM1Vib2ExbXhINm9mSklTeTdDc1HSAboBQVVfeXFMTm4wdWI5UUoxdW9TRTA5c0VwTUFPaHNhRmRZaU95dTBFZDdzWTkzeEZuQURzS3RqZHBRcGlZMVNfYmcwalZKZlJzRFpEbnhXcHBYcEV1d0xVVUZvTGZPMFJWekQ2T0FUWnk2ZjJ6Vnc1TUdZdkdWdlJyTWVTX21hWkM4bGh2aHZqY05XYjE4bncxTG1MYU0zU1ByQVNIeXkxMzVxY3JEa0FiVmYwN2pQSV9MamlHOGNSb3FB?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 01:13:46 GMT",
+      "description": "EEUU anuncia contrato de USD 24.400 millones para fabricar misiles DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Astronautas llegan a la Estación Espacial Internacional en vuelo récord de 8 horas",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZE1zT053dzBfeHp6b3JuRGtMVzdNQ19IOExzRWk5UjVfSERsU3NqMzFCMzF1eW11RE1MU1RMOElWWWZVLVQ2ckRmQWhMMFBFTTNoZl9sN1ZyNmxueEViNWpvUnVNR1NTN2FkYkYtb1hJM2E4WlBNdkFBUVdQWmM2eGh3dHpMbVFWd3pBTVlxSUNDdzF5X2M5SFdzVUQ4andaZjV4Q0dxTElpVGhpM0UzNDBaYmI2N0RnN0xVV1ZMdjE0bXlHS2V5dEVB?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 23:43:00 GMT",
+      "description": "Astronautas llegan a la Estación Espacial Internacional en vuelo récord de 8 horas AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkZRMXk3RnlRODlBdnE5X0dPUkhfSlF6TVN2QlI3bHJ2QmJrVzRNZHFvRGstMHlWTXhpV1lUWVBlamNzN1ZybEFuZVhUOVJHcHdwTGQ4eS1IR0kxV2NySWVSY19wTjhINzFVQ1BRak5aUE9CTDViOV9oN2dod2NkNUFjeGpMY3pMLUY3MHEwMFMyNzJ3V0t1bg?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 20:04:00 GMT",
+      "description": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Venezuela's oil exports down in September amid high freight rates, data show",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 18:33:58 GMT",
+      "description": "Venezuela's oil exports down in September amid high freight rates, data show Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Estudiantes endurecen los bloqueos en Francia: rocían con gasolina al director de una escuela",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnpzWEZuWnhyLUIwWENTdk54QVI2Zmh6N1hBMXlkc1pDWjFheTZkQlJmcDM1V3ZtYzNoRXhHU1pWSmhWaS1uS1VUQUpLVWtOOVg0Q3kzTmZOY1FOQWg2aWduazlKSFNtdkhPaTFuTjdCcGdNV1p0X1BFcG9RZjM5ZWVUSC1fSTJ6RmExVkZzMGQ3YTlESzlXZkVmOVF2TVFqTkJ4NHl2eFRqSnpwQjlkNkxuZWUyYWZvMXU3b1haSjAzb1pWdjdJTi15c0Y3YUo0TEE0V1pPblozZw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 15:23:08 GMT",
+      "description": "Estudiantes endurecen los bloqueos en Francia: rocían con gasolina al director de una escuela France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "IMF looking to set up Venezuela office, says no programme requested",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN182Yy1vb1hpa2xUcFR3a2NoZ0w0WWRwMmFwWi1xRVhjTUsyV2VvcDJpUTc1X0dmWUhSU2xmZWhxRU53R3N4TGw4WVMtcXdxNjNyR2haaExzcm5VY0NncU9pTXg2aG1vdjdnUlZlZGVVYkdya0w3M01KR1lab0NMMGpLUVdTTG1BTEZfMkZFazB2czZNUDA0UG1ZT19iN2ljMW1uMnBud0gzNW43c09mLUxaZlU?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 15:05:20 GMT",
+      "description": "IMF looking to set up Venezuela office, says no programme requested Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzB2MW5GN1pZR25XRXNqQmJfMnBmRmlPNWhKWVI5MEdDQjhXZGpqc0otZ0RfNGU4V2EzNUpBZzhVR1puWWtHWmZWYTVZVE9KRU84aFg4ck9XaHpZVzVnQlAzQldhNHAxWXR0TG1teVhLekxfUjRlNktFZkU5R2JVWjFDTTZ5VzB1emhKMFNDTlhUZEpMdVZ5ZHRPZEpNdTlkNUdycDhDVWI0MlY1NnFqd1BYLUhXTTFVTTBKMzNsb3E2SEU?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 14:37:00 GMT",
+      "description": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Tennessee suspende ejecuciones después de que una presa sobreviva a un intento de inyección letal",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1I5MnZxb2Z3VUpQNW01UVdNRDk3SEI3VW8tV3VlRnhTcnBldEt0STJtc1RLeUc0X1BwaEE1U3VXeEpJX3U3Z2pERTBOeWE4NFVSOVY0SUZWVi11NGNlOEswZmhuVE9aYXNBNjE1S2E2RzFyQUk1SmI0SXVqYm8xTlJrRkx5WmNXaUpXQUljMXNVOC1wWS15cms3QUR5U1QtUUJLQUtRSDJtOVBWUFpFRDBpNVBCT2pwMTF3d2R3?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 08:08:00 GMT",
+      "description": "Tennessee suspende ejecuciones después de que una presa sobreviva a un intento de inyección letal AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Copiloto apuñala a piloto en vuelo de EAU a Israel; pasajeros intervienen para detener el ataque",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHNySF9adndMOVctdkRXeXRZcENRNmIwZVV1RTlDRXBsS2k4bXlfNXZuMWEtZmtGR21Ucy1pV3lud3VHSk9TRE5hZVcyQjNUTy1qVVdwUjlPRHN4ODlSSmhDbjZaeVlablFOZzJBeTllRzZzNV9DYktwTkNZOE5nVGU3cXgyZDI5cEVkdGQ4VWxtRlRJcDNkbzR0WWpYeG1RR0M3QXNtTUI1bWtVbFVF?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 01:33:00 GMT",
+      "description": "Copiloto apuñala a piloto en vuelo de EAU a Israel; pasajeros intervienen para detener el ataque AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Christa Pike, condenada a muerte en Tennessee, sigue viva tras dos inyecciones letales, según su abogado",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWHF0bDc0OGY2YmhONGxUN2xqazM3VXJhRV9MWU1pWGxiUDJ1UVpRWnl1TDZwX1Z3R3NCRmk2Zkh6N09hd3pTM2FhX3dWandxMjJkOUFqdWNjVjh6dGdtQnJzQlkzSkN0NDFpa2NhSmVDTEtjdWFUR0xFSEJVYXc0RzNBWDhrWFlNbUJkMm9lUWJaR0JOVmVZMW4yVVZuRW9GRHdFUlJDVzhmLW5xYkxZMWZpNWFUekg4Z3MwYkw1Y3l1T21XelpBWXhVa3h5aW1mdGt3WnB0Q2s?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 00:00:01 GMT",
+      "description": "Christa Pike, condenada a muerte en Tennessee, sigue viva tras dos inyecciones letales, según su abogado France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Venezuela and Colombia must reopen gas pipeline, association says",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVVMeTRqNVVLVFh6VlpzdTg1OUUtM0NfRVZTa2xvenloSElReC1kQ2JxSkNCbS1EcjFKRlpnbExnSENKLWJDemphcjFFcEk2QzRTa2JTa2hhSU5KTWxRQ3JvOHRvdGNZU0tuZGxHOEVqa0tXSEFxR1RJTlJaNUFlcW1NNjgxcmEzLTlOdFlDMnNvVGdhTzlLQWFYWXhCRFZVbXN1VkQybGxWNktKZk03c3lB?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:45:37 GMT",
+      "description": "Venezuela and Colombia must reopen gas pipeline, association says Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:37:11 GMT",
+      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "\"Hay que ser coherentes y reclamar la soberanía de Palestina, Líbano y estabilidad en la región”: Macron en España",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTUlGRGNlZ2E1U0hlTWJXVm1raW10LW1DZ3czakNhZmhZY05CbThmbDY1U1pHRTlMckhwcFlHbWl2TFNnMURWTFN1SGlyMFBDTEhTem1uOXVNbkV3RG5GaWVweDFWUkVzMU1Wd2JUaVkxU1Blem4zRU5USFg3V3BOb0FHZXlrWWk4MnkzZ0JzZHZyOEMyM2lQOHVxZldlbDc5VU45bTdyUUhqR25BaEphZGhlUkZEN014U0ZUdXNINmFnVktPRkwzdlNTT1lPRGZiem1uUmEzRnZBNlpDUjFrM0ZWNjFZVW1YNklPeUQ1OA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 11:01:58 GMT",
+      "description": "\"Hay que ser coherentes y reclamar la soberanía de Palestina, Líbano y estabilidad en la región”: Macron en España France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Así se vive en las ‘ciudades fortaleza’ de Ucrania que Rusia intenta doblegar",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMlRuMmp2ZU02SUNta3JiVEZWLXVxaFI0OXZGTy1zdENjZEY0ZFJSZGtfNDJpS2ducWNYbkRqRUZsSFFZSkhqMDlfREZ6Vy1HWjAzck5JeWJFd0xTUWwtRnk3REtjdmJuV19xbUt3NmhUTE11UVRBSVQxSWVOd1Y2ZzV2dkRpWW5HMkRJd1pxbFZXVk0?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 06:00:17 GMT",
+      "description": "Así se vive en las ‘ciudades fortaleza’ de Ucrania que Rusia intenta doblegar The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOelhGY1ptX29PNm90RUlrME9ybTY1b3Zjekx1eEhRU3hRVHVDb3Jhdm85ZGp3RS1vc0JIaDJtbTdQNE0teThpWHVaVUI0bElyVXFqMk5sUUNLbms4MFdKN0ExTEF4V1hKNENwOU8tQnVSVmxQQ0h2VzBaQ2FYMkw3YVFwdlVyQlQtSUk1YXdNLVkyOFZaSGdEM01pcTB4dFRHSUd3RA?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 03:15:00 GMT",
+      "description": "Breakingviews - COMMENTARY: Chinese labs are wild cards in AI governance Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejR3R0IzcGxsZUN0bnRrTWZ6ZUxXZ29EaG9xSVV0MHFmLXpXWGRaUjZ2Ry1qZmlCenAzbHBpRFNWSmdzMzVxMHBHenNhdGVHYW9jVWM4aV9TUGN2WTllVHlBVjdBaXlTcUdiZWZsVEdueWZGTzROYlRrSDFqTEd0NG1WcTd5Ti1ycFVNSw?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 17:11:30 GMT",
+      "description": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX21CUmMyUXJZWXJ0U3BuOTUydzVtQjNpZ0VJTmhfY0xyazVEc21oNnBocEhmTkVEbEIzejZJUEtaMHNoaW8xZ2RNc0hrOU5DMm95UGtUbS1LREEwaVFZLUVFTXdqOVlPaVpEVXBtV3E1eXdiczM4X1RJQXpDbzRaN243NVRoQ3VBcjhHRXV3c2pZV2ZhcElVYy1oOTIzWGRZMnBiM2dXVVdXb1JPX1ROT1R1WWFpQk13Z1FRVDctQWU3UQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 11:02:09 GMT",
+      "description": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "En México, la polémica en torno a López Beltrán pone a prueba el legado de Morena",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmdSUFJVbDNOVHBsaDRXLW42Q2RNS1VnT2cwNG5qbUR1VzE5OTdzWkJ4Ung1SDV6Mjl6aUZpbTZvRFpiY3NDYzJyUnZOcERfUGVROFU2MTN5SHZGVHJUQlNUX3djNV9HUFBER1pjSXpuSXJEV1JlX3pGYTdiQlF0c3hxYjhiZjdTMHIzdTRhVlo0aTlXaEtBQWx1a1YyMy1hZXRv?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 09:10:14 GMT",
+      "description": "En México, la polémica en torno a López Beltrán pone a prueba el legado de Morena The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "¿De verdad hay que comer 30 plantas diferentes a la semana?",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRLWNjUk1mV0hjQkRwZ3RId3pnQXEtLUk1Z2IxNXdDT1BpdE15RnV6am44UVVfdWJVa212T2c5OWs1cmR0T2pwQVFmSTZHT1ExRUlOcFFtRTVWTnZKMllrVjBRZVhIM2F3ZVBjZ0I5SERaTG93UHZTRUhPZ3pmQQ?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 09:10:05 GMT",
+      "description": "¿De verdad hay que comer 30 plantas diferentes a la semana? The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzcxM1Z2LTdPc05sRmRmeTRyZzlTeXVuMzhsUS1CZzlNMUZXWk9WOXI1SjlWeWd5UXVHOW15ME9ZeW9zdmZMWlZIUW4xM0NrX2NMcUZ1RDJHRVRBRzVkeFcxM0FOLWJjWk83MVMwemVJZl9fWjVYU2VzMUtON25OVkN3UFpQd1F5M3BOa3lKMXZSUHFFN1E?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 21:22:00 GMT",
+      "description": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Los 100 mejores programas de televisión del siglo XXI",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnUyVlhKeXpUXy00YWhyTG9VQ3pPeFpuUDdDLTZhaGZhSjQ1ZDJzY3VJbmQ1RExhMDFwbGRkbTNRWmhoMzdBQlk0ZGVyeXd4eEVUb0xXNTVuSHlGd2d1dlZ0SEQyN1lHMkJEOE43bVVScGxrVXpibXhmVUlwNWNMQTRIbmJ1aWpvclNwenNOZXlaRnpXdlE0TlBxdVpkVnZjRlE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 17:06:23 GMT",
+      "description": "Los 100 mejores programas de televisión del siglo XXI The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "description": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmFjZzZQNHRiWHp2Z2FWMFhNb29TazA4NHlTNmZMR0tZWlhxczlIOFRQb2dCV0RFYXlXQnJibXFSNDA2ZzBSU2NuMy1KOEJoeC1ydHo5ajhQbC1YTDhNdUVYNjE2UTlFeHNmS01IY2xaVkF2SkZ3Q29nSWpLWFlBOEpJeFo2TUcwRG14bFJrb0xSeFhQSU83Tll1M2l4dlZaa2hhNTBNSGplekJYQWxPTjhCdTF3TEsySk9PU2dpQi02WnR6SGVIc0VvdHRud3lLS2lmWE13?oc=5",
+      "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT",
+      "description": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Hay una poderosa razón por la que los universitarios ya no leen (Published 2024)",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2RzN3E2U2FTNTV4MFY3QngtOG1tajF2Y3dPQ2dWaWQtZDNuV2ZZNjk5X2RwQUlhajFvX1dIdTlmRExQZHU4M2dIWDBkWHR4cHA0ZFYtdFNkZmpWUmVsb25obkM2SGUzdXVDQkQxWDYtakdxS3lPTUVTeGRhUEZJYk91ZjI?oc=5",
+      "pubDate": "Sun, 27 Oct 2024 07:00:00 GMT",
+      "description": "Hay una poderosa razón por la que los universitarios ya no leen (Published 2024) The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamF5Z2VwSnlHUXdFVkVOS0ZndTVHaTFpS3YzVHNmUHZkRkh6U3NSVENrc0FBaWJkQXVOM244OUhjTjV6RUdWTDFlVjFMZVNSVDQwS1lwUzlSZlB6NVNDZXZySnE1bHNWcW1SeVZBdHR5X0lRZVQ0VUVMYi1qUmZZR01NMm1hN0Vwbjl1cjJuLXlKRzZnOExNbDM4N0hJRFFrNzlUSkI0QUE?oc=5",
+      "pubDate": "Mon, 24 Oct 2022 07:00:00 GMT",
+      "description": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9JcDFpdWdfelJSbzg2RkluOTlfcFJHTmxJYzhteGcwaTA0WXdKQWw5YlJjQmN1SXRRWnlPY2xjYW85SjZYSzVsVllWQlNvTlA4Ti1CdFBJVWdLa2k4TUZReE9peGpqcG96aDVzV21qZFpYLUtrYnpiUHNxZDRyUlRIaFJ2c0hBY2twUmotb0sxOFlXeFFDeXowTW43MmNkV3ZRUXpTWU80VDctS3lsa2NhcDJiRGdHUlVib3RQdUl2T1NW?oc=5",
+      "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT",
+      "description": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | Honduras: Los narcos del patio trasero",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd281ZTVEQ3ljdVM5NWQyY3ZjZU1FUUpXRTNFQno2MlBNUlNqRlhsUHNGRTFHb1RJWkNzWjJtR19UYl9jM29wMGk5SU9QZ2NHLUtjS1dGa0NVZXNqRTZPay1Wak5xU0FRT3RZVVZvQm9IbWJvT1BHaGtkY1ZBRUFZVVBuMTdMM0pmRkVCbkVfTFdZckNPUlRDeWZOTzZ4dFlsWktQc2dZZHJlbUZKTXF5b0N3?oc=5",
+      "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
+      "description": "Opinión | Honduras: Los narcos del patio trasero The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | Caso Homún: La Suprema Corte puede sentar un gran precedente ambiental en México",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dEazVlM1BRN0pDYUo3VGJhYkN5RU1wZ25JcW8xWGdsUDZaaGdxNjFFZHoxU0lFelJFWDlUV0M3bDRqcXk4eGxnUVUtdm9kT3VXUFU3blhhbW0zZkIxNEpJVC02S0t0alZHS29JNGhOdWV6Y0ZfMEx1RmNTSGZXNDBVX3lmc2FlSXkyeDZ1cTl3RVRhb1AwV3BZTDVOUlNGbVpaYjFJSkRtQQ?oc=5",
+      "pubDate": "Thu, 20 May 2021 07:00:00 GMT",
+      "description": "Opinión | Caso Homún: La Suprema Corte puede sentar un gran precedente ambiental en México The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
+      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0ZDTElvc0s0cWJya3FiUzN0NXJNUHlqM3NwdFhxUXA4ZjJxZmpGel9qLTVnWXUyRFhtYUdYMHhUVUdBOERzV0tEdWxLcy1WNm03N0hOTERzVUx2ak5jNV9EVW1zcjNWWFBBSkxEYnlzaUQ2Y1A0MlBBRk1LdFFjUnNfN1R4b0FiTnQzR29faFZ3SDc4dlIxMERFSGUweDJiMXNfX05rOEUtTzZxeVd2OGFicFdQOElzVEgxejBRM1hMLVRwNTJVSnVqREc1aG51MUtLdzhsRXJpOW5ybEdhdVFB?oc=5",
+      "pubDate": "Sun, 31 May 2020 07:00:00 GMT",
+      "description": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Europe",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
+      "pubDate": "Mon, 02 Mar 2020 14:37:57 GMT",
+      "description": "Europe The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "France 24 - Noticias y actualidad internacional en vivo",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aWUVWQTV5LXdHUFdVOVFxRS1zYlM1UHhDR2kwdVotN3hEU2ZsUEcwekRVT3V3VzM0R0JlTTF5VThRUQ?oc=5",
+      "pubDate": "Mon, 06 Aug 2018 08:41:09 GMT",
+      "description": "France 24 - Noticias y actualidad internacional en vivo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "The Guardian in Spanish",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
+      "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
+      "description": "The Guardian in Spanish The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "La crisis del agua de la Ciudad de México",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
+      "description": "La crisis del agua de la Ciudad de México The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Rise of the middle class: lessons from Latin America",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
+      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
+      "description": "Rise of the middle class: lessons from Latin America The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    }
+  ]
 }
