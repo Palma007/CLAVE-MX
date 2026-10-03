@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:22:39.150Z",
+  "updatedAt": "2026-10-03T23:24:56.882Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,38 +58,83 @@
   ],
   "items": [
     {
-      "title": "El Capitán Sol",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZWdPYnQxQ1VHUm5wOHdTRThxYW9JaFNpM3k2SnJIWWRpUU9POFpURVZIM2lHeUFGM1Y2aGFKTkYwQzNWNlZQb3M5VW56NWdRZGdPczlJMFVrYnY5cktocFhZM092SFhKeEE?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 18:11:13 GMT",
-      "description": "El Capitán Sol reforma.com",
-      "source": "reforma.com",
+      "title": "Sin Trump",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV0pvQ3lyNVBwaDNVd0NQS0YzWDVkc3l1bVozNVUtclJvZE83aTBDY3pzWFBvOU0xYVYtSlE2Y2F0SG10Q1ZSWnQ0RU03NkVTLVUtYVpISE42M19fcW1ObjB6aw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 23:06:13 GMT",
+      "description": "Sin Trump Reforma",
+      "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
-    },
-    {
-      "title": "Huracán Rachel se degrada a categoría 1; prevén lluvias intensas en varios estados",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EZFdUUWZ2RDhPYUdTbHMzdy1kTlU4eHp0c2RWeU5ka0pUMll3VEF6UGZIYm5nbXM1ZGVDTS1wcmFCbEppRG5yNXpUd0pkRnh4TjNPWWg1YU9vMlU5OGx0TmMzM0xKRWJnVzVTWEFtcEl5T05MMHhCYkF5Skx0QQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 17:36:02 GMT",
-      "description": "Huracán Rachel se degrada a categoría 1; prevén lluvias intensas en varios estados animalpolitico.com",
-      "source": "animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "Entre el miedo y la esperanza",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xblhJNnR3OW5HTEEyOVlxaFY5ckItbzUtMkV4M2ctV3M1ZEJCQlF4cDBHc2lyRXc1aGRLVTdiVktZR0p0Y2NKNEtwbFFIRmlqbnF1bnBGNUk5ckdMS2txZHkxS1I1U3NwcjJNQXI3UVRKanhfOWlrQVdYYmlpdw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 17:14:55 GMT",
-      "description": "Entre el miedo y la esperanza reforma.com",
-      "source": "reforma.com",
+      "pubDate": "Sat, 03 Oct 2026 23:03:45 GMT",
+      "description": "Entre el miedo y la esperanza Reforma",
+      "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
     },
     {
-      "title": "Sin Trump",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uV0pvQ3lyNVBwaDNVd0NQS0YzWDVkc3l1bVozNVUtclJvZE83aTBDY3pzWFBvOU0xYVYtSlE2Y2F0SG10Q1ZSWnQ0RU03NkVTLVUtYVpISE42M19fcW1ObjB6aw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 17:11:12 GMT",
-      "description": "Sin Trump reforma.com",
-      "source": "reforma.com",
+      "title": "¿El Penacho de Moctezuma volverá a México? Activista austriaco promete devolución si gana elecciones",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnJFR0NVU3Jvbm42VldFOHhNZjA4dGVwdk94ZU1Ld0M3M1d3eEgwQThRd0pGelU4eDlST240dkx4bnRPU1lWLUQtWEVOR1RxU1ViQWN0ZHB5cG8xUGVLdXZOaDFCYlRWYTNsUmZHTUdlcDlQNVNDSzBYU2hyeFBjOVlsRE1HbE9jc2tiZndXODliN3dWWW1DTXgyZTdlbDVtVHNsQkVFbTlXdw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 22:09:45 GMT",
+      "description": "¿El Penacho de Moctezuma volverá a México? Activista austriaco promete devolución si gana elecciones Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Miles salen a las calles de Madrid y otras ciudades de España en protesta por crisis de vivienda | Grupo Animal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVctX1FQWEFOcE1zcDNkRFFsaWRYNjc2c1NjTEE5anJOZTRwYmFYZzRFZU5hSWgtZWxNVFMzRWFlT0s4VHdxdDVyNXROTlBGbUgtVXZVR0pONUpLbWtJYW9MQm9ycFRqbnlMMWFtUkU3U0laczFXNl82akQ1QnhHTllkby1IOXRwUmFRMA?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:51:25 GMT",
+      "description": "Miles salen a las calles de Madrid y otras ciudades de España en protesta por crisis de vivienda | Grupo Animal Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Balean a policías por Aeropuerto de Mazatlán; hay 2 heridos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2tOTk5YYUx4Tmd1dlJuTUVkU2NGVFpqZld4N2owNmt4Y0puS1lxLWwyaWhEcEVfQ2FkcWR0V0JRR0dDaXlXX1RCOXZwZVhoVnlzVW9GRmEwOW9MRGVrTXU3SUVnNXdDazlybU16TWEyRWdzZ2UwejM5NjBub2tiRE5kS0JkRGRudUZuRkwxUGoyYmtweW00?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 19:39:58 GMT",
+      "description": "Balean a policías por Aeropuerto de Mazatlán; hay 2 heridos Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Operativo Enjambre: detienen a 21 personas en Chiapas, incluido el alcalde de Suchiapa y un exedil por corrupción",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDRNcHA2Q1JxZXBGOEljbGxia3RUYmYxZkVEbzJMelIxOERBci1SLTJTd2FwTkhIcWw3UHZrdlhkSGNESzFvSzhaTVlMMEQ5bWliU1VGelg1dVRtT05uNGpCeXowbjhOOFI4SUxUY29SRnh1ZGRLN2Focy1ENXpIV0cwaWZxLWZjMTJ3NkZDS1NDNjB2X2RqbmJ4czROcDRQNFYxRUlPb044V1lYOVE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 19:39:43 GMT",
+      "description": "Operativo Enjambre: detienen a 21 personas en Chiapas, incluido el alcalde de Suchiapa y un exedil por corrupción Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Detienen a Alcalde y a ex Edil de Suchiapa, Chiapas",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUDI5S0FRVjUyWVQtdEFCT0JEUmx4YS1fdG9ia0dodGJHRENmVWZpbXQxTmZEUlpQVHlSM2lRaGdlWm5fQ0hHT1BWQlZRU2RXamxzZkJWWlBtSkc4M2RpdTVkQzVENDQxMDNqRnl6bGxTNFdlU3NqSWVkTHdCdW5KMUZUVkVETkVqQ0hrMg?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 19:16:13 GMT",
+      "description": "Detienen a Alcalde y a ex Edil de Suchiapa, Chiapas Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Especialistas y funcionarias se unen en CDMX para replantear la menopausia y su impacto en la economía",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYkJLXzFaTWtwNVFzc3A0OTdkZmVmdjNfS0p5eGdGcHoxTUJsTEhpNWNDc1JMTERVZGpnTlNsbWZZZzNMWW5lVGdCUmJlTlRQaFZraGhnM1VtTHdHREtZaWo0MzNFbmFVdkUzLUV5d2FXSXZDaG5vUC01M0tfQk5NXzlvMl9ldXlOOUN6RTVNenphUQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:30:48 GMT",
+      "description": "Especialistas y funcionarias se unen en CDMX para replantear la menopausia y su impacto en la economía Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Ante alza en el diesel, liberan mlls. de barriles",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGhBbHZPeTlaZG9wZHVIVkpYZzJ5MHJOQW9xeHl5ekJQNWU5ZHExUU03Qy1YclZHU0F6Y2lybnZtV0lGZDhZZi1SZ2F0TVlMOFB3SFpEa3dwSkVuN3k1eEptYWlPMlFkTG5QS21ZTHBRWTk3MXkyV1phNmxWdTg3cUxuSjJfU0R4?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:14:37 GMT",
+      "description": "Ante alza en el diesel, liberan mlls. de barriles Reforma",
+      "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
     },
@@ -97,44 +142,44 @@
       "title": "Desaparece avión con seis pasajeros frente a la costa este de EU",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT09XSGFqNGR4R01MZk5za2QwQ200S0NSWGhQVm1ReVNIei05c1FqNWdEQ0hWOTkwWDNiUjN5c01TN2xNc2Z0TU02T1NTZ2FjVlQ5S2cwN1lMOE80VTVkLWR0OEpnMi1QT3lXU2EyQVEtREFCSjUyR25ua3ppRVJ0NWl5LW9vZw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 16:49:52 GMT",
-      "description": "Desaparece avión con seis pasajeros frente a la costa este de EU animalpolitico.com",
-      "source": "animalpolitico.com",
+      "description": "Desaparece avión con seis pasajeros frente a la costa este de EU Grupo Animal",
+      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
     {
-      "title": "Marina despliega a 159 elementos en frontera con EU por operación espejo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQblhGcFJTdVVpaGFuX2JrRzV0TEVuZHJpZVFOTXV1TTVNdXJicUdJU2QxaEs1ZDBUQjg2b05zbzZQZkJlZHNCQkh5aDFwX3BncHlMelNBYmVoOElCdFZybmI5ZnZjRkQ2RmY3eWlTY2kwQkJzVkdhS0FUS3owa29SQmhzbmdkcGdsOHcxRGxIOA?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 16:04:43 GMT",
-      "description": "Marina despliega a 159 elementos en frontera con EU por operación espejo animalpolitico.com",
-      "source": "animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "MLB: Horario y dónde ver EN VIVO los partidos de Playoffs de las Ligas Mayores, HOY 3 de octubre",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHNibDk4bVVOREY2OFFCdUF1aVdoVHRpRFYxSTJrc1ZOSW9QVWpMbG5GdE1XZThqcVZrTUQ3eWdzVXVPdkluRXJQSzJiTVZiWTZ0azdqVExMQWtjTUhQdmtnUXFpS2RGa19vbmpMeEtrSU1ybkJ6VXVvMmFfOTladGk2QzNrZ3p4ZEtqeTFrdEN6Z201dU9YQW5HRUd0V3Izbnk3Z0ZENWxvQ3FKeC1BY2pMMHhjZVJTR3A3cUNtb1BXbzZvZlVHWXNwUdIB3wFBVV95cUxQbTU2NFRSamhTTlJ1U29MV211bmNaaS1VWTFEMklRQWw3elZUbzhIbm42R242Vkh3amh4UEJyZVh5TFFjWkNQWXdMVld4SmlVWmJwNV9nVkZucHV5R3Q4ZlU5aU1yeldwQWszdy1DMEpnZ01tQlBCdTRKeGRTd3VEM2tGY2djaHlsaUlnR25XcFRfOEZIU2VUNXNtSXV2cHlXdlBhRUxReWpKV3BVVTZiYWdMSWdSTWZPQnU3SmRQaWREQVlhNkswTkw2R3hTWURwSVJxMmJrZUxkazZVY19n?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 16:08:02 GMT",
+      "description": "MLB: Horario y dónde ver EN VIVO los partidos de Playoffs de las Ligas Mayores, HOY 3 de octubre El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Lula y Flávio Bolsonaro cierran campaña en Brasil a un día de las elecciones",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSDY2ZVc0OGJXZ1Ztei1seHBBWkwzblotaFBlUFRCc2NvRjBrYlplOU4tcERPbC1MVm50VWYtYlNPQmUybXlrVjBGX1NFZTRPbU5nS3FtN2hNZjd5aGEtYnlZUmNoemhqS2RBVUd5VWE3bzZKbi0yTl9BdUwzUVFRbnpzeEJZelpuaDR0Rlc2Wjh5Wk1ld3RVbw?oc=5",
       "pubDate": "Sat, 03 Oct 2026 15:14:43 GMT",
-      "description": "Lula y Flávio Bolsonaro cierran campaña en Brasil a un día de las elecciones animalpolitico.com",
-      "source": "animalpolitico.com",
+      "description": "Lula y Flávio Bolsonaro cierran campaña en Brasil a un día de las elecciones Grupo Animal",
+      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
     {
-      "title": "Agreden a balazos a policías municipales de Mazatlán en inmediaciones del Aeropuerto Internacional",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc2hiUy1VT2NZMUx4d1dyQ0FpczZzbUVJNzdsM3FmTG0td0tGS1JmbEZiZFdiWlhyY0o2c3dBTC1TYW9OcFZZTzJ5bnZXX3FjM3B1RWdFbkx2bkNiYzhNRE1uNUpXMWQtZHduMHpUTExIb0QzWjNFYjVDUjE4NnhzWTdIWGtpVGF4UTRaQWtFYkxtSUpUNXUwaUFkS3dOa1ZEdGc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 14:44:42 GMT",
-      "description": "Agreden a balazos a policías municipales de Mazatlán en inmediaciones del Aeropuerto Internacional animalpolitico.com",
-      "source": "animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Desaparece un avión con seis personas a bordo en el Atlántico; iba de Las Bermudas a Boston",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGUzczE5cWdoeElsa2drNmEtRXRhYjFkcXRLVHNENWxHdzdZblphVUJxTnFwT2phZVdtdWZKYTk2WllIUTRMTTBCMnhoMVBfVjJzSWRuNHkyYjZrd2pOa1EySXJYYkl6VElUdG1FeVBaRnhQdFdnLWZIMU83bXh6QzlHYS1sREE1SThZbm5SeFFTeWlMYnNYXzJjandsWDlW0gGgAUFVX3lxTFBZcnlZRjg4Rmd0X2M2MmpkbVUyTi1Qc3BWYUVzUGtNLTY4NU9lTFNfV0VlOVNaazBmdzJvUU1VTjF2OEJ4UFJhNmdMc2VsVWlybDNhOFJzSm05ZGpEUGc3c0lUTk1veF9zV05FWU1tNkJ0YkVOVk9tT0c5Vjl1MXZXQ3drVERLcTlSLXlIaXpOMGhxUmp3V2dXUDlIb0ljUEM?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 13:14:00 GMT",
+      "description": "Desaparece un avión con seis personas a bordo en el Atlántico; iba de Las Bermudas a Boston Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Sedena señaló desde 2019 por huachicol al director del IEEPO y al senador Morales Toledo",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHhwOW9nUS05QUxHbHVodDkxUGNoY25sclIwRWtiSEZVcWJGbk04a1dINmt2MUFwcUVCWDZxSVRyQ0xES3dwblFYOTM0RmhZOWxEWVlndlBwMGNOLUtNNVpoZ05NTUY0Z3JjcnFHRFlIWGEzRnhoYk9mR2Mzc0N6djhNdzB2bVlYbXJ0cmhOM1NPQVphV3dUVTV1TExKYWQyd0lEWEZNaDVmb3BPUnlMbjRtZWFsQWRNeHRXVl9BWUp0Ym96cDI2TGw0SVR5S2xMYmIyRktkQV8tWGh1V3A4?oc=5",
       "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
-      "description": "Sedena señaló desde 2019 por huachicol al director del IEEPO y al senador Morales Toledo proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "Sedena señaló desde 2019 por huachicol al director del IEEPO y al senador Morales Toledo Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -142,28 +187,19 @@
       "title": "Si Lula pierde en Brasil, Sheinbaum quedará más aislada en Latinoamérica: Élodie Brun",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT3hTR0Y0LS1DQjRBSmJwYW5ZaDhEdng4Zm4wRF8yMVd5bTgtbkY3RjZpQi1qc1h2QzI0Nm45TTdqU3V3anNIV2hwc3Q3c0l6OXh6WEZUbG1KbXR6Z3FBZWtadE5NWm5HWUZ0S0lYclVibmJ6X3FiQzdFMHdiZDRLbnp3ZEJCd3FTY0ZCaENuVXV3WFpDZEZHd3d1T0pPclk2OGVwRzdFNGh1eFdoTjJORXh5eDNKVW52ZWhMN291RXpvTGhNdzZpT3dFUk5icW42SGpUUTd3TWQ1RERnanBV?oc=5",
       "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
-      "description": "Si Lula pierde en Brasil, Sheinbaum quedará más aislada en Latinoamérica: Élodie Brun proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "Si Lula pierde en Brasil, Sheinbaum quedará más aislada en Latinoamérica: Élodie Brun Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Ante alza en el diesel, liberan mlls. de barriles",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGhBbHZPeTlaZG9wZHVIVkpYZzJ5MHJOQW9xeHl5ekJQNWU5ZHExUU03Qy1YclZHU0F6Y2lybnZtV0lGZDhZZi1SZ2F0TVlMOFB3SFpEa3dwSkVuN3k1eEptYWlPMlFkTG5QS21ZTHBRWTk3MXkyV1phNmxWdTg3cUxuSjJfU0R4?oc=5",
+      "title": "El Capitán Sol",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZWdPYnQxQ1VHUm5wOHdTRThxYW9JaFNpM3k2SnJIWWRpUU9POFpURVZIM2lHeUFGM1Y2aGFKTkYwQzNWNlZQb3M5VW56NWdRZGdPczlJMFVrYnY5cktocFhZM092SFhKeEE?oc=5",
       "pubDate": "Sat, 03 Oct 2026 12:55:05 GMT",
-      "description": "Ante alza en el diesel, liberan mlls. de barriles reforma.com",
-      "source": "reforma.com",
+      "description": "El Capitán Sol Reforma",
+      "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
-    },
-    {
-      "title": "Del 68 a los jóvenes de hoy: el reclamo de justicia vuelve a las calles de Morelos",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVU0OEZYNFZKN0gwSkJ1clFUM18tcGJXVlU4Z3VvRlhCSXloZ0Y5ZDFmbE1vb0VwQUFmMjJjV25HQk5saEc4Q2lhelRKRUQ0NzE1ZFRQZWxsUExmcDhLbUVqTS0ybTdjaXBuWFdUN3FJbWxmN2I5ekxFWGhEN3FZTUhrQnh2Q05sdDBEWkJFdXMyRy02WTExbjJjT3BRMU0?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 11:01:47 GMT",
-      "description": "Del 68 a los jóvenes de hoy: el reclamo de justicia vuelve a las calles de Morelos animalpolitico.com",
-      "source": "animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "La España en la que gana el que debe ganar",
@@ -202,10 +238,19 @@
       "domain": "milenio.com"
     },
     {
-      "title": "Con la novedad de que Aristegui es “neofascista”",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVG56bVduWVlFampnSDAtaU9RcnhxT2J1VFFDV1d0bGtjQlRpc184TUh2dG5ZVUpTbzJ0Q0tFUDlVVkNJYXpHb3Azb0l6czBWVGhzdHdhT0xFeHhYR2EtZFJGQVNNZzRnUEUyV1RCQ3ktN3N1eGFOMm54MHYxaFVZaGFUM29sX1VaUTlRS2k3bk1VbnZyUGJCU0R1MXRkTVBZcF8zVnlmZ1NsSUxzblhaMTVlajNzekZDdGRHTkhtWdIBvwFBVV95cUxNbmV1VjRibFpVbXRxNG1YV3FwT3Z2clJxNFpYRXVPX1ZhWGd1MHFkLUNLaU9qeFo1SkhvMVZvc3lmWUJ0VEpZbHFGNzMyR2pMX0dQSnVtSWwzcWo2Rm9VY096SzBKQW5tdlFHUnY1VFhvemF0bk1kRzVhN191aEVRWE8wWGZRN2xhZjJKMVpOQk5URndqWnpueVEzY1lYaHQzclBXZXJ0RmtEWHFGak4tRTNSZVg4VXpSdDFveE5oWQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 07:42:31 GMT",
-      "description": "Con la novedad de que Aristegui es “neofascista” Milenio",
+      "title": "Fernanda Tapia responde a la nota de Proceso: “Sindicato de Radio Educación: Fernanda Tapia va ‘pocas horas’ y genera malas prácticas”",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdzA0NGo0NVQzcW1iUGhUTHRObGtZRWdZdGdqbTBQUUd3MGlhdHllSk9EOXJzN1ZsZFZRZ1A1SE80NjNxRm8xMlJCaUpLTi1ZbDI3QWdOZjBUWDFaZktXby1UQXZMMklXcXpfdXdKQk9XUVBNb2JPYVJ2cXRFbHp2TUdFMEFZcXBiNlIyYXUzZ1FRWDlWazBENU5YRTh3S3JiNzgzRmJSWGRnbURycnJHUjFhNGY5cXZ5MktydnN3emRQWWlsVTd1aEZVd1hzUWJqZkxqRTY5WlpvUUF4eVhaYnBWTGdUZnhIWkVYdnd6aw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 05:46:00 GMT",
+      "description": "Fernanda Tapia responde a la nota de Proceso: “Sindicato de Radio Educación: Fernanda Tapia va ‘pocas horas’ y genera malas prácticas” Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Localizan sin vida a Jazmín Adriana, joven reportada como desaparecida en Ecatepec",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHJiaWFJTW1PR1kxNzNISHN6QkRwdnZKcmo0b1FsamRzdlIxdFNuSmEwRjFmaUMwSzlWN0FESjROZGhtWWNxTlhiOW9qeXNkSXVTZnBuRU5CRER0ZUo5NS1rNmc5MThaeGtKM1F5TnZKU0NjS0pjbHhmNGEwekFEX0M1SWg1bUdYM3F3NHdhdTFNd2pCcnpPY0dVOFNXd9IBngFBVV95cUxOdkh6cFJ5bHJ1cXd0WktTdjlWTWNqREpWVzlyaGEzQVZXSWJkQnAyd1lJZXJXeFk2VHplWFM1RDNEYXV5VlF1ckdEUURsWFhSRnFRMVpHRmtUWDFNVWV4WDFzZ1Q1WG54NmRIc0Rhc1BXMFkzTHotcTR0QWI3dTh6Uy14Z3hGYTFEUGpEZ3JmbXBkMmVBVGhUdDJOU2daUQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 01:10:00 GMT",
+      "description": "Localizan sin vida a Jazmín Adriana, joven reportada como desaparecida en Ecatepec Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -218,15 +263,6 @@
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Piloto que atacó en vuelo fue despedido de otra aerolínea",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGxleUlia2M4elBNbmd1Wkt2Y2t1NDRfT1JpcHN5MDVGUEFFMGExX3NCWmMyRFItY3N3UVZxVEZ5bTEyMF9HdGo4R0xObnNBU2VlYU9tNVMwSHFnbGFGRTM2Q0Vub3JGWUZUMkRLbmVSOVpFX1AxTTdJYjVTZ2ZCbEJtdGQxSjZrYU96ZzZZLWRyUTJJcmc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 00:24:30 GMT",
-      "description": "Piloto que atacó en vuelo fue despedido de otra aerolínea reforma.com",
-      "source": "reforma.com",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "\"A todas luces es el prestanombre de Andy López\"; periodista revela cómo dio con el paradero de Amílcar Olán en Suiza",
@@ -259,8 +295,8 @@
       "title": "Así intentaron ejecutar en Mérida a \"El Marce\", presunto líder de Los Chapitos (Video)",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE90TUdsRUQxakZzZURRS3lwaFZNdXFsNS1uRFpSN3g3eGtRdFF5RHhlTXh0UzROd3g0U1FwYzlNeTFyZ2F4TUNDREVJX1E1M3VmSEt3Q2RSZXYzbklPQXJIc3JEcUdhbXhDVk92aW5vak1oRlpja0RsbU5KaEtzZkV5NVpoTE5pc0M0XzU5dDlhd1NId1h5eUJlODdrY3AtalZHc1k5RTVqeFBMbFc5amdxOXlFVjllOTBLUDU5S2JSd0J0ZndEblNNU0o1cHlyb21kSFc4OTRtUWtIdzFFOA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 22:21:01 GMT",
-      "description": "Así intentaron ejecutar en Mérida a \"El Marce\", presunto líder de Los Chapitos (Video) proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "Así intentaron ejecutar en Mérida a \"El Marce\", presunto líder de Los Chapitos (Video) Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
@@ -268,10 +304,19 @@
       "title": "“Estamos en Polanco, se habla inglés”: extranjero reclama a influencer en CDMX (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdThvMTFia3BnNXRTSERONEdZQzZ6OHY0eklXeTFVclFVb0g1ZnNoYy1qTlVfY0tKVGRoOTBPekJINkhZMm9VdWh5WUxMMkZ5djF2ZUZYTlR1dkxwRE5wMUZXeFJEeXRwTmY2SGlhOXFQX2tlNllYLVBCbVdGTXJFUmM2M1pUNm9sOW5UMlpnRWdUdzJPaVhoVWJNbURCWVlCSEcyUV9wSW5HMUJ5SkVydHoyaExlT29nSGM0c0tIVjdPUE4xYVFTVTkyYWJkVkJCQmFQSmUwMExDeTA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 20:55:02 GMT",
-      "description": "“Estamos en Polanco, se habla inglés”: extranjero reclama a influencer en CDMX (VIDEO) proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "“Estamos en Polanco, se habla inglés”: extranjero reclama a influencer en CDMX (VIDEO) Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Dueño de los 49ers, Jed York, suspendido 6 partidos tras arresto en operativo contra la prostitución",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSkpYb1d2VHhLNlJ2Uy1wd2VJbkZVQmhhTTE5VWdIU2sxdjA5Zm82NlY1TG93NFNkNF9SVV9ZLXI0VlRuM3FxTTVDQXNRZ2loWlZZY2pJcy1wMHBLSWFYQ1VaaGhLdmZ2VkNJbTVTcUZyMURYLWlKQXBZYVRTdFpVOWkxYUpkVFFIQ2xCTWhwWjJLVndzMmYxWXVkQUJGMXBGeEN2UkRjbzFlS3ZFOVRqa1k1cE5mcUdCeDZvU3Bva21fRG1LNzVHZXZyZ05Rd2k5dXEyZEF6RkxmREE?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 20:00:00 GMT",
+      "description": "Dueño de los 49ers, Jed York, suspendido 6 partidos tras arresto en operativo contra la prostitución Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "México no apoya resolución en la OEA que exige elecciones, liberación de presos y libertades en Nicaragua",
@@ -301,15 +346,6 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Sorprendido en short y playera, así cayó el \"Capitán Sol\" en Zapopan",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb004SjBOV1Fubkt2aTAtX3QzNF9EU2o1dHAxMHVUeFExbEZjT3ZMSHVfQ19VSDVkcXVLblkwVEVqU1ZIVWlGTTlMcFVZS3pXNHZoVE9BSi1LUlZySGdoMTB5ZnFtbFFNZ1JpclFRLUJFTnZpNWJwbE9UcHdkLXdsTkFSV2hndGk3VnBMZGtXa2paS1IzRXJpdVg5cUtMNnYzeEtrTTNXX2hoeTcxdTZ3MXlPOUY5UGdHc3lUTkNHSVRGaUdIcnY4NHNKSXgwQdIB4gFBVV95cUxQdWc2NXJyNE4zRHF1WWZiWmtISW1hSWZsRVdrY25mSGVneWl3bWstRTFoVWI1WlZfNklTSmo5Z2N1cE0zV1JmN3FuYzJaN1F0TGhHOTllVGtuYkl2bVo3SlRRbnE0bjd6UndNaHVPWGhycmszLWlzamhuLUtBa0FwTjhYODRnSHd2d3N6bTFMRk9LSmxwbGJxbUFVbkdZT2VZRkpPOHlTZ09zY3hmT2x1cHdvZ2s0ZkEzQXd0QWZjdFdDSThjSTBIa240WWpidFNCOHUxR0M0WjhENndORnRfbkdR?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 16:54:00 GMT",
-      "description": "Sorprendido en short y playera, así cayó el \"Capitán Sol\" en Zapopan El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "¿Qué hacía ‘Capitán Sol’ en la red de huachicol fiscal de los hermanos Farías Laguna?",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVZIZHp0cms5dHRGT25PZ0VjRjhIUjhJN1pLbDdRM0hMU1kwUmc1aXdWSWFkbDBjXzQ3aU03MW03ejQzUHNLMERhR0lWRERnNVVEcUNJdUxpaDgwVjNLbEd2Sjlyay1CU2ladEZjZ1Bmb0JMcFhpRHRRMzI1Q3dBU1d6ZnUyWkV1dDZySVlvQkJ2eDBDNlFNRXJ0cDVIRkY5czZaTXYxNVBUeklLQ1d1MEp4VFZiUUtjc3FCTXhsYk9uekRmTWxfcW5vVlU2aGs?oc=5",
       "pubDate": "Fri, 02 Oct 2026 16:15:47 GMT",
@@ -317,15 +353,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Tras violencia en escuelas, van contra contenido en redes",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEU2RWRlQnl6SXFzeTZKUk5lcnlDZ1NmVmZNc0tvTEk4TWpzcDRvTGNaOXYwVlFKcFA1OW8yMzdVTlNfOTctUEpjeDFqZE5saDZCY1d6bXliT0ZmT3I4WTlGdHd5Qy1wU3poWjBLNHM0Qk1XblFFNlJMWmZXb1A2bmE4ZmllZ0lBNUlRa3FLZW1LdFVK?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 16:15:05 GMT",
-      "description": "Tras violencia en escuelas, van contra contenido en redes reforma.com",
-      "source": "reforma.com",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "¡Peso se sacude 4 jornadas de pérdidas! Precio del dólar hoy 2 de octubre de 2026",
@@ -367,19 +394,10 @@
       "title": "¿Qué se necesita para vivir legalmente en Suiza, como Amílcar Olán?",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOLUx1emgzSmpqUWtpSkxpT1U0RlI4ZV9sNC1hbl9FdzlCVVpxQ0NfZTBVMzM4ZmhBd2lzY3E3akdUUnBVbGs1emd1M1o4NkktNmxYU21EUnphREFybVFZZmppcmJMN0N2amRZVlVDSDdGeERycXA3OXVkaGZ5bkNJVXJIRV8yNTBweFJyYzhveTkwUXU5QVhxXy0xZk1LcGs0bE9kWFBqNnlEejZTV1ZObnN2ZkV2WDZ1X0xOVmZIbw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 13:18:00 GMT",
-      "description": "¿Qué se necesita para vivir legalmente en Suiza, como Amílcar Olán? proceso.com.mx",
-      "source": "proceso.com.mx",
+      "description": "¿Qué se necesita para vivir legalmente en Suiza, como Amílcar Olán? Proceso",
+      "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTi1YVjF3ZjBLYUREYV8takNuenl6MEVsU2Z3bXpUZkdaaXVyU1lnVmZhTnZ3cHFGUEtJc1hDWlhtRVFqWmRqOUJBTjZuMHJIUWtVZHNZTnhxWVJpRVd1cVU0TU9YRlU5dnJfYTMxc1hNbTN5aHR0N1o3dHl1WjZOb0N0ajh3UWs2RFhZTTJZUlJIYmQ1SmJMemVlV1U2WUFTMUM4allJS0J3LVktY211MG5WeW56dWxXV0E?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:47:48 GMT",
-      "description": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
     },
     {
       "title": "Van por nuevas multas al huachicol fiscal: Diputados aprueban reforma a Ley Aduanera",
@@ -436,15 +454,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Revelan VIDEO del accidente carretero donde murió Laura Flores, \"La Renegada\", conductora de tráiler en Tamaul",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0lRajFEd1I4ZGM2YkRKYzl4UjlVdFB3UUFKN19iTG8zMndHM0NCTUNaTlJjUTIwZWhCRXhvXzNDN0dFNDJrck5mSXp4d19xY1ZPWVYxa2V5N0tNZ3FUdVctb1ZyTHhQWHJCZ0s0elFUdnRvekZ4UnpOSFBaanFDS05RTFBFOFXSAYcBQVVfeXFMUHduVllrNlp6Q3dZV3lNU0JwLUpLcHJWVFlaakZDM3hFeURIU0Q4VWpoSW4wd01zRURxWEZvUElrS2NJUkI1dU1iRlZ0bVlRZmtWS1l3X2pOTlc3ZllDZ0RTaHFKV2Y5Z3ZPOFBhMzQxUnYxU0VfcUpmVXh4dUthUGNxVWdtY3Bn?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 05:03:00 GMT",
-      "description": "Revelan VIDEO del accidente carretero donde murió Laura Flores, \"La Renegada\", conductora de tráiler en Tamaul Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Manifestantes irrumpen en el sindicato del IMSS",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdTX3AwSTFjaFo0UGQwdUVvaXVlZmVCN01nTnBtV01pNmg4QUVwTmJmZVdFLWxDbTFyRm92MVRtbHFtUzhYa01USmNkU2ladnpaaXl4eGpobE1GSFk1X3N2QWNsMW9KaXVfNG02YkFSWUFCZWY4LWEzRlRUUkp4UE1xNEJhRWh3blg4elYzYS1pMG82?oc=5",
       "pubDate": "Fri, 02 Oct 2026 02:40:00 GMT",
@@ -452,15 +461,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Sindicato de Radio Educación: Fernanda Tapia va \"pocas horas\" y genera malas prácticas",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYUc4bno1NnJsZTlhR0JGcld1WktUQVZkb2xwSjlRTDNHS1VRUEZvdDhZT2ZLMjJKYzY5SF8tbGZLQ01zaEdMQ21LaFV2SGowcEFBT2tySkJBVHJqTGppNEFITXcwYzhhV0xURzRDN28zRE84Wml4bGdCeE1xbVVMMmRDLVJ2OTE5QmoyanMxYndrTW1kYlpaRUhlYUhZdExJbm1scDVENTJrNl9oX1duSktkQTdZNXRzT1JtbmhydzlrbE5BU010T3FCV2E5bGR1M1MtN2pOZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 01:55:34 GMT",
-      "description": "Sindicato de Radio Educación: Fernanda Tapia va \"pocas horas\" y genera malas prácticas proceso.com.mx",
-      "source": "proceso.com.mx",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
     },
     {
       "title": "Huracán Rachel se intensifica a categoría 3 y provoca intensas lluvias en México",
@@ -517,19 +517,19 @@
       "domain": "eleconomista.com.mx"
     },
     {
+      "title": "Cunde el pánico",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEJiWTBPejhUZk5OYkhheU9OUGlGSDFHaWRqbHFVZVRjd0xIazFhanZ2VHFVc1FwNTBRTjlNRlQzR082eVcteFBjV3ZRWmxDTTFhMG16OW02OEhrV2FIeEhSaGJpemVTRnh0YWxvRHRmel9tSlRmZzRPdmhFV1lHbWgwSzlkQjVzZUtQMUh2S3hMQjQ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 11:33:57 GMT",
+      "description": "Cunde el pánico El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
       "title": "Más de 200 líderes latinoamericanos exigen el fin de la dictadura de Daniel Ortega en Nicaragua",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1MwS0lOQ0dNb1FvRzVfa0s3eG5nUF91eVpfdmhSLTlxM2lxMFhoVHJ5TTlwV2tPamE4d3hCTGI0Q3h0eldfSUpxOV9GSTFXYWpjQzhJRndYRkV5dmdrMkliV2VyWV9pLTJzZF9pZmJJeFd2NEZWLU93ZW1wWHp4QmpEUEltLXAwWFN2T3N5U1ltUFY4SFo4azY2ZGhNX3kzU3RVRVMydGFOcDl0YkI4R21EdUdYVkhlQ1B5RzNaLWNrYnRQTlpuNWJHSFFZYkJHRGxj?oc=5",
       "pubDate": "Thu, 01 Oct 2026 00:57:00 GMT",
       "description": "Más de 200 líderes latinoamericanos exigen el fin de la dictadura de Daniel Ortega en Nicaragua Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Decapitan la estatua de Felipe Calderón en Los Pinos",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBsN2NfWmRZUm5pLW5CeTBCQXZON29Kb0lVRFZYZjFLdVBlVThkb3NidzgwaDB5anlUeDg1b0RIZzFmWWR5Qjh4V0JWZDZfMi1zMU1RWXREeVRMS2xIbmtjeG0yd0Izd2M0bkRIa3duUjkxNm4wcFlEQ3RDdzJIS09nam53MG5LQlRGNTkzVFFNRU0wencyUTVYaw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 22:03:00 GMT",
-      "description": "Decapitan la estatua de Felipe Calderón en Los Pinos Aristegui Noticias",
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"

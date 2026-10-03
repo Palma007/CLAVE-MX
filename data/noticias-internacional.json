@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T18:22:40.342Z",
+  "updatedAt": "2026-10-03T23:24:58.220Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,47 +64,101 @@
   ],
   "items": [
     {
-      "title": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeExnejB3cWJZbTh3cjlHanFaWERtRno5OGFHUjI3NkRyTVBlM3BZWGFIb2s2a1JGN1VMYlBFZFRfNmg5UDZmejlta01wb2VwRF9KTHFRMDh0TzVz0gFiQVVfeXFMUG5ScGlVWXpuYktwMHhOM0FIdG9IODZNcTNfczQySWlJbl9Qa295QVhUcFd0ZzJ4UXM1RmRseHEyWnVFVV9lY0E3VzNSeGtIY0ZUV2xmQkVjWGRXQVpwUlJteGc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 15:45:00 GMT",
-      "description": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos bbc.com",
-      "source": "bbc.com",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTWmdpdkhOTEhKSlFtNlhaWmxNWDNfQTF0RGxJTEtEbEtkb1F4VjFuTHE2RnREWVJ3ZEV3U1dEWHZFandZSURSbElORmNKb3lIYW1VYlNYRnlRM0hF0gFiQVVfeXFMTV9BR3locWVSLWFCajRmSmprNEhHQU5RTXVLMmVSQUJORFNNVGNmbm80eThlcDZQM09IQlJVQTE2V3dKcmM0bDBEREJoQnVZS2lRQU1GSXFfeWYyTTlqaTVJa1E?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 15:07:37 GMT",
-      "description": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha bbc.com",
-      "source": "bbc.com",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Estados Unidos interceptó buque con combustible para Cuba",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVlMX2ZkVHhuRlMyS0hnZnVDY3dld3NnV3BNU3FkUUhqOTZkSXZMYXV0ckVFMHFWSzJlSjVZcmRSalY4TjRQbWljNnRpbTFlOWtEWFNIa1QtQUp5S3d5My1Sd1N1eEQ0SE1PcGEwRXF2cjhPZElYTkJya3FFdTNGcFM5Sy1qTzVubnBhc0gxdEJodjNuRVByWGNsb9IBmwFBVV95cUxNY3Q0RzJtR3RYeV8zblFldU9rNVd1YnZuU2hPdk54S0g2OEd0SkphcDJ6RmJqR1drZ3hMbmo1ak9lbFc3Z2xkaTlsNjJJWk9DVDI5N2xaNmU1cHkxOC15NFFaSjE1SnZFY2J3QkRuZnFkT3NtQktCNUk5NHI0SXJNX19BeWItRWFUSmFBRm9LRU54YmFsbTNtLWZpUQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 14:17:09 GMT",
+      "pubDate": "Sat, 03 Oct 2026 20:22:33 GMT",
       "description": "Estados Unidos interceptó buque con combustible para Cuba DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFaFJqUWFzaUh4VFdxbmtNdm5Fc3B4RzVXeXdqWmFjQTZvZEN1ZWNtN0ZiZ3BHT21FUVJvckk5Si1KTUNveXpHNDA0U2haVlROd29CbFdvMkhkdmJS0gFiQVVfeXFMT1JiT2w5TkpvM0phZmJSQzNKRDVfTXlsZDVYbzh2RTQyUHRibFZvX28yZ3VxZ1JWRWJTem5COUg3V2huZDNibk9CLUtjb0dpc1NhcVNoSWxMUVh5Wk93aC1ISnc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:59:06 GMT",
-      "description": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella bbc.com",
-      "source": "bbc.com",
+      "title": "Los republicanos observan con preocupación cómo cae la aprobación de Trump en sus propias encuestas internas",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM05VOHlTTUE1MDFwQUw5OUp0T2pDVVowNkVVQXROVklZYlVmTUVZSGZnV2U3Y3Jjd0lPQ1B0SmUycGtIQndmMERzZThMTHVuY3lwY0IzMDhTQVl0Zkxka1VQUkRQR3B4clFQNW5YdGY1aUZyMV9temFmVHVsOU1qSmtRQ01aWXBlcXJlNkdiLS1UQ1RC?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 19:44:00 GMT",
+      "description": "Los republicanos observan con preocupación cómo cae la aprobación de Trump en sus propias encuestas internas CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTWmdpdkhOTEhKSlFtNlhaWmxNWDNfQTF0RGxJTEtEbEtkb1F4VjFuTHE2RnREWVJ3ZEV3U1dEWHZFandZSURSbElORmNKb3lIYW1VYlNYRnlRM0hF0gFiQVVfeXFMTV9BR3locWVSLWFCajRmSmprNEhHQU5RTXVLMmVSQUJORFNNVGNmbm80eThlcDZQM09IQlJVQTE2V3dKcmM0bDBEREJoQnVZS2lRQU1GSXFfeWYyTTlqaTVJa1E?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:48:21 GMT",
+      "description": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Por qué hay más de un Polo Norte (y lo difícil que es definir cuántos son en total)",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xaHV1dk9OMGVNcDI2dE9ETnZsc0RheVAzcVZpZjhtelFNTGJodzNJalJMN3Zab21uNU80bUs1YnpWeEcxZGlmZktYaGVUY0gxNlRSWTVCaGFlZk9o0gFiQVVfeXFMTXBIejJwZThrdGdtdnJwbjNDWW9sNlBHTW9LZTZhTHVha2otMFBMMHBDMVlSUjlhaU8tOTF4bzlxNjAyMU9jRlpSSXFZTklxWHRNVUstb0JTcVY0NFhIYWxuMmc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:54:06 GMT",
-      "description": "Por qué hay más de un Polo Norte (y lo difícil que es definir cuántos son en total) bbc.com",
-      "source": "bbc.com",
+      "title": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xQWxmZWkxaGczclBMZDRFdW1lQWZ5ZUh4VEt0SFFPVzBWNDZEYkR4XzQ1SkpoT0lIUWlkcy1lb2Rvb1FKc1ppbDBveUl1MW04azZCU041ajZJbEpn0gFiQVVfeXFMUGZiaUpzNmI3ZC1tcW82Q3ZPTXhxSFZuMWktRWp4VHgzbkRZX0FYckZVZVZRamFkVXlScExRbXNoNXlhdEtTQXNwRHk0d280enVzbENKUDF5YUV2bUdPS05rSHc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:48:15 GMT",
+      "description": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeExnejB3cWJZbTh3cjlHanFaWERtRno5OGFHUjI3NkRyTVBlM3BZWGFIb2s2a1JGN1VMYlBFZFRfNmg5UDZmejlta01wb2VwRF9KTHFRMDh0TzVz0gFiQVVfeXFMUG5ScGlVWXpuYktwMHhOM0FIdG9IODZNcTNfczQySWlJbl9Qa295QVhUcFd0ZzJ4UXM1RmRseHEyWnVFVV9lY0E3VzNSeGtIY0ZUV2xmQkVjWGRXQVpwUlJteGc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 18:48:15 GMT",
+      "description": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGo0QktKNW5QTF82X3R6RjFXT09VWWFObHlkS2JtV2RLMjBrdmVRdHNqUkZ0X1EzUjBWRUwzOVhxWGkyQnRkRjR6bFRqZ2RUYzJQbFV4eEZoUE5ZLVdIbkd3RjYwUUd5OUlweGR0cUZ3RmswUk9FZi1OZ0EtRUNwNjJOYzlsajlLdE9hNmxKVEl2NnZaRHBYYlEwTnJtc1VnS3AxV204Qk5jc2lpc3daNDlVNDRiV3NLX3B6NkppNmxRcnYzTURpUVZhcEM1bXZKR3h6a1NFWdIB1wFBVV95cUxPVmZMQnhseVEtRUpHUVNGazRJRVF0LTR1VjAtUlhuOElpUHA4Rkx0Z0hhVEdaTTc4alJRck1PWlJWb1hqRm5mZ3ZPZGhiaHhXSkYyZV9PQTFVMlJ4THl3ZmczbUE0NEJmdG04NFhLZTE4bDdKMGFGNTBKS1VnUXROeVpBUG1FUzcxSDlfNXBsUHVBeFNuVU9lTm5BY2ZUNHRuZDd0NzBhemhfdldqUUdJV2FGWjhaMW9aYlAtYkMzcFNfdjJMZWJNRlhkbHZpdTBJRnYzVXB3aw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 16:27:51 GMT",
+      "description": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Encuestas de las elecciones en Brasil prevén un resultado ajustado y una segunda vuelta sin dueño",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDNGYVFfZ2hlMVNZbjhjejB3bkpMSTRxa0NKTjlOQ2hkU0E3QzBNdUVTU2tFdmtya0NoVEE1bUVxUkdCUWV1c3FIRmdGbW5lb0JEZjFqeXk1TTR0bTc1WjgwV1hES1I5dnFocTFjaWllYVkwdk55S3pnay1BbHhtVXZFejd3SG9TcXdfNkV5ODBHSXJhUEN5U1BwOEZkZVNY?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 15:52:00 GMT",
+      "description": "Encuestas de las elecciones en Brasil prevén un resultado ajustado y una segunda vuelta sin dueño CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2RMd2ZNUTZuNllFa3VnYnpCZ1BLdnFnTmlCRTFZMXFVSndHZnhzWFpNTHdsZHJUaTZMQkh2am1IS0RxcDBkcU45ZmNaTXBYNEV3aG4wZjVOU0ZObHRic3RVRkpNVzFfZXltMUdUcThUUlExWlFKTzRXb0dfTGRWVVd2QktBVHpuZElDbzYwT3ZEeW00VVhVNVRnNjVuOWdObW05d2JZaw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 15:34:00 GMT",
+      "description": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo apnews.com",
+      "source": "apnews.com",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Brasil elige presidente en una elección muy polarizada. Los resultados también se sentirán en EE.UU. y otros países",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3dLaHJvNWVsaWVibndUclg4ejFheHBaYTgzV3lac3M2cmVCRnJpeDlGX05JbW1vSnh4N1cxSFZWVHRFODRFMmdQOGJmc1RSb2h6UUhrS2pQRjZSN3A4dEtBS0lxMzlJLU0wLWN3Y0tTeFNqZU5md3lqTEFsVFNpdGdlYVNGQXJvUF84N3pvY3U1LVhXS3JJLVQ1S3RnM1lEWWtDZFdJR1JPdFZDTHhGb0tubEJZZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 15:05:00 GMT",
+      "description": "Brasil elige presidente en una elección muy polarizada. Los resultados también se sentirán en EE.UU. y otros países CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "¿Quién es el sospechoso del ataque a un piloto en el vuelo de Flydubai?",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFFrT25Jczh3NE55WXl3aHd3SGV1b3NaUU44ZHBLV1V3TF9IT1JQQVQ0MzlyRV9HNHRJY0VzWGRRZmdBTlJ1cDRFWkNvcXlZVDZmX3NlUDN3N0ZBY3VWcWtLR1ZhcUU4RlU2R0s1bDB4M3JDWE1UaFM4U3VSU3Z4N3gzUlQ5dEpJNWFmM3c4aw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:59:00 GMT",
+      "description": "¿Quién es el sospechoso del ataque a un piloto en el vuelo de Flydubai? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFaFJqUWFzaUh4VFdxbmtNdm5Fc3B4RzVXeXdqWmFjQTZvZEN1ZWNtN0ZiZ3BHT21FUVJvckk5Si1KTUNveXpHNDA0U2haVlROd29CbFdvMkhkdmJS0gFiQVVfeXFMT1JiT2w5TkpvM0phZmJSQzNKRDVfTXlsZDVYbzh2RTQyUHRibFZvX28yZ3VxZ1JWRWJTem5COUg3V2huZDNibk9CLUtjb0dpc1NhcVNoSWxMUVh5Wk93aC1ISnc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:59:06 GMT",
+      "description": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -116,6 +170,24 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Una acusación de despojo contra dos ancianas pone en evidencia la crisis de la vivienda en Ciudad de México",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQjF2M0RNcVNjZGpMZmRLWGgzT1h4bzMxcHMzOHhfR2tyMmZXMG1RaWh0aFBZTjFxWDZrT0xKUlNFdTFEU1prZkx0M3FqSDFoQnpDNTQ1a1RHdjJLV01qUW55VmRiNmRUc29LalMyQ0ZiZnZnak9RYVNydlpXd1RZQ3V5Um1faGMtRW5BNk9KbURTbGo0LTFmeVB4MkRkWHpkUmZfQlRjSVRlbzExcWtuN2NVVlc0NjdPVXFseldMcmNXaWdnVTdnWGdqekV0YUZVV3Bva0llcTM4T3h3TWFFZjZsa9IB9wFBVV95cUxOdmFSYThZaEtJUkM2aGt0S0JDYjJBNW5fNUQ1eTE3Vmc2RnM3RE5Ib041MWIxN2NfTnJGUHJDZURhcy00Sm1jckRRS2ZTbFF0TnVmZTEzLUxjYVRHZVRmOWtPVDJzeC0wZE1zdGx0S2dZMkZuNDRHS3BhVlV5b1VVN2c4cEdYNHpNRXFrVzBvQmhWdjlhTjlTNVV5SVVKanRscm5SM3M4Mlc0MXFmZ0xzRUppQmw0VkdFUFBZazNUZlZDb3hLTGxIdlZsbFptWTVTVjF1dEFYTTFoZjQwYmh3aTRuY2lwWDkzaUZSMTJDc29seFd2S28w?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:30:00 GMT",
+      "description": "Una acusación de despojo contra dos ancianas pone en evidencia la crisis de la vivienda en Ciudad de México EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 09:10:20 GMT",
+      "description": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Alemania celebra en Bremen el Día de la Unidad Alemana a los 36 años de la reunificación",
@@ -139,8 +211,8 @@
       "title": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xa1RJUXpUOGRSdGR3MjdEWFVGcjFwM0hlejNNeWNuQ1NnbUJadldjbFZDVi1TV1NSN0VHQXhYdzNMd01vdDlrLUlVMEFacUpmeXJRMlpXamllVkhW0gFiQVVfeXFMUG4wZWRxYzFMbmVkM2tnelpwTjlhSjhKSTZUUFV6a3dqZEZLR3FzTmVrSC1wdm5FU2RkeU10SHRwNWM3YjFJM2NqTVBzZEliTWp0UGZ5ZjR6NFZPYXpsb3JzWUE?oc=5",
       "pubDate": "Sat, 03 Oct 2026 03:53:59 GMT",
-      "description": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\" bbc.com",
-      "source": "bbc.com",
+      "description": "Thomas Piketty: \"El nerviosismo que vemos hoy en Washington tiene que ver con el hecho de que EE.UU. está perdiendo el control sobre el mundo\" BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -154,11 +226,29 @@
       "domain": "elpais.com"
     },
     {
+      "title": "El comprador de vivienda llega a su límite: cada vez más anuncios bajan sus precios y ha vuelto la negociación",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeUd2QTBXcUVVcUp4a1puQ19vcDVSMmU4N0ctcUdlMlFrbElDZENLRDRWNzVrQ1hSc3VXdndaY0dnRVZzdnpnNnR2UjEydWk0V3QtZmFhMjY3TVdQV0hDVjliMEVvQTB6QjJ2VmdBZWY0WmpwTDY4MGh3TjRFemstTmplX1FQU19JWDdmYkxLajBuV051b0NZb0lHYVJOLXZCWWZfbFhkazlyOXFvSnlaby05UXhjS2VraU1CSXF3bEpGWDczQlFRTHJ6TUpYWWJ5eWVDYzBqaVZIMkt2LWR4czF3RmxBNzBNVkV1Vlh4RGtRM2lD0gGIAkFVX3lxTFB2TTNrdENmUDFkNFFKVWFTdWZqQnVndHlodWZKSGNudS13ZUJEeFFBd21jaUlFRFU5Y2VEc3ZBVGVXYTlkb0RlTmFuWG1LNDZRVXlXXzJwbndFaW8tUEZhNmZ0MzhONjdwb05PclBRUVEwbEhTcUY2bVFRdHhoQnNSOU5VdzZjZi1rQmFtVnQyOU03Ym1KXzQzb2FNYVhIYjhOT18xQXRzaG11VkwySnVxNERCOTVOMS1rdXVuMVVXZV9BVGhjcEdUMXpnMkItTFZ1a0N0Z2xnQTNqNUxxRmNXYXFDN0hDRFEyZElwMklEaXFPRlMtTmJrWW42SWlvSDBSWXd4Z3lzYw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 03:30:00 GMT",
+      "description": "El comprador de vivienda llega a su límite: cada vez más anuncios bajan sus precios y ha vuelto la negociación EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Venezuela absuelve a periodista Rory Branker, acusado de terrorismo y traición a la patria",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJVVFVCenpCTjMwNHhaQm03VnVhSDBsSHdIUHpvWU8xaVdFTkNoMFRjZmlsQ0ItdlRINkJhNml4aU1IRDJQeFpXNEhoMWs4Q1BDM2VsWjdZcWNobzllLXBjSjdsVVRMN0plVm14bWMwV3RNYzNsOGRqT2hhejl6VXZsSFRxM2dhZUxnUzZad250MHN1M2ZqdTdrTnZCS3BaZ0gzVEpIb2ZxRnZGSkphWC12ZVd1a2llQkJleFFyMm1SMzhKYnfSAcYBQVVfeXFMT3FXVmpEX0Z1LU5ydHF4VXFxemd0dFgtMlN5Q21NRXBzOGN1ZF9RMzJydkcwSnRsWE43Y2FjLThRNEVUazF3QTVILU9wa01velpBUWJUUk84ODhIR1hjaktackNLdmJCcElldXVIMTBGNWJBMHJkSWE4UXhDbmNxUFczc0VnVTNIeEF2b2tTVFREVmxxM2RwTDJxNW9WeGdnS2RudHZGdWQ2SFpjMTQtTVBBUi10TzRFVnlWMGpYX3lnQnZEb3pB?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 02:48:34 GMT",
+      "description": "Venezuela absuelve a periodista Rory Branker, acusado de terrorismo y traición a la patria DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41M09UYVMxcW9KMFMyc3hfd2ZoTmFYTlJwYlM4dk53aEowa0lYb0k3c25qWm9UcnBjTGxIaXNwVjdVdFJOeVBKVFFlLXZzdUZPdVI4dmZydjB2eEQt0gFiQVVfeXFMTnhndVltM0QwQWNhc1dDbkRlU2NVcGJoYTYtY2NuTXFtQkJlTWdpQjFObTM1WVBuVU5UOTVJMERwM3h2ckR1cTJ0aTloWlJZMnowTWZEcDNZdDJ6XzM5dmlwV2c?oc=5",
       "pubDate": "Fri, 02 Oct 2026 23:34:11 GMT",
-      "description": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad bbc.com",
-      "source": "bbc.com",
+      "description": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad BBC",
+      "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
@@ -190,33 +280,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "G7 acordó liberar 100 millones de barriles para contener precios del diésel",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUGNzV1V2eEFjeGZybXpERHFSWFd0aF82SjhLQzFHN19jQ28yNXVlZU5UZFVHUzVhdXZORWN1VGh5VU1GSGN1azNKR1VzWGpNeWpKN0cyd3c1UlA0Qlc2U2ZDQlF2bG9tbExpdnJlMk9sTU8xcVVNS3V6NzdCMzgzQXVvT1d3alNBNDRLMkRENC02V0JHUWtzTkRMVUhucFdKWXA3RDdDUnFmcmFWbnFwdnBNQ05EcGVXS1HSAboBQVVfeXFMTzgxNzBDdi1kLW1TNkx2R1k3bjRKbEt0akZtNXBTN296T1phUTd6M3g4TUNWMDljNFg5NnR6OHVldGFLOE15MkpNU0g3T2NBeWxrOFI4WjdpWWtQS3Z3QjlyWGZYWG9pUFluQzY4bnZTaUdFSnpQbjExX1I3V1RMWmFNTHhwSEU2ZW9hYjhwLW02M1g0ZUZUTVdQS05qSHJnazRtcTVZUllVRHJXR2p3bXpqWnVETURMbUNR?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 18:50:58 GMT",
-      "description": "G7 acordó liberar 100 millones de barriles para contener precios del diésel DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Sectores de la izquierda alternativa promueven la candidatura de Mónica García a las generales frente a la opción de Ada Colau",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTkN3Q3JpSkRXeEIzdEJITmtCR1QtSWZuTXhKRzFhdl9mVERUT2NyZ0pYTTUxeUpLaTZJZ1psZXVtQkdZNzBmelU5TXZBNzZYM1VBb0pqV0hjZl84WUlCVzVSa1VKYy0wZ2dFd2QtVDVBZzRFc2RiekNjTnhhM05wb1praGJGZVBPNnpGZnZMMklEaW9vc1FrbXJGc0ZXeXdkUGNpNnV4RXRyQldNWGp2ZVduN3hHRm5JbzB3V1BiR2EwZ0VrT1V0a3FuaFhpZ0lHQWFuTjhGemZHN0ZJeGIwMlJDYzNiVWJ4QThlWE5jLXQwMUZSTjJTTG5yU2fSAZACQVVfeXFMTmdpeGh1MFBLb1lFM0h4RUpFeFBwcW15RDYxYTd6UHRQbkpYYjZnMHgwVktTRG1DSnQ1S2FBTXEyLVJ1VDIzaFNGR082Z2hqcl9qa3RuTzZ3MENIMUs0SzNXWjd2blRvalRFWkk4WUMwSHNpcmd2em9oU1Flb1M3X2NYYlN2QmxSOEJtYjQ5cC14ZVFuMVpxQ0FPZ0xfTHJJU3VtdTZVOE80M3h5NlpDVGF1cnJUXzdnSkFKN19Lc3ZiRkNTQUdhdUQwcU52QTJNeEFSN2NBd3hTX3k1OUd2UE5mSGFjcVVCTGZTYk96S1pONGItTU5BU2hBOVQzdHZYRkltMnNqazZIT3FXT2thQUY?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:46:23 GMT",
-      "description": "Sectores de la izquierda alternativa promueven la candidatura de Mónica García a las generales frente a la opción de Ada Colau EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "CNN obtiene nuevas imágenes de la detención de Luigi Mangione",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONDRxWE1Xd2NmeUtjdTVBRmlqOXc0V3R6bXl2OUlMc19DYTlDQXYtNlE5S1M2M0ZlYXVkd3JFc1JxZS1aenF2OThUYjRWaU1GNVN1WlpGS2gxSzBsMVA2OEYxU2R3eHR5TS0xWXhxV204WWN2NGY2eGdzLWxDMjJmd0dTYTJfREt3Y1J1UjJjMS1RSjhHdGhN?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:40:09 GMT",
-      "description": "CNN obtiene nuevas imágenes de la detención de Luigi Mangione CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "España: Congreso rechaza decretos para afrontar crisis de la vivienda",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkRzZE1vR3VVU2ZNcW14cHFPeEQ5VDMxWU1idkJ0V0lwLTRIazlod20zTElpa3k2M0VqZ1o0aTVvWm1VZHZ5NWNoU1RHR3J6RlVteDdGeHZSaExobjFmWnZDbVBpbUNjX1dvNF8yVlo4NXZhQWF0dzB3eUI4QnY0WF9JeXJsS2JlZjVxXzdhckR6WExoMzRncVRuYmM1MWowcDZzTXBhcDZYQdIBqgFBVV95cUxQb0xyb1RmUzN0TEFlQ3F6cllYeFdnUFhNMWVQUkdjbjZMUy1QLUJ6Y2p2enhHV3J3STJmdnlPRHdUc3gwTVpSRTN0VEY0T1g2MFlNNVN4OXMtSE5QTUFnY1NoRjdiSjdSSzMxN0pONUlhQzRYOVVGNUFscnZHdzV6elRVUlVMcTB0U0hIRTgtNEg2cFJkRDVKWDNmTElEZDU4SjNpSEFycU9Idw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 15:30:35 GMT",
@@ -224,24 +287,6 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Video a bordo del vuelo de Flydubai muestra el momento en que los pasajeros toman el control",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzJUZGR1X0YwaVRkOTloQ2I1b0YwUXJEUWNFdl95T0hIcHZ5OUlDUm1LTGVxRU9fbEc3VGJURWhLekszQURxQnAzcklzelY4UTNzSlUyUzltOGJwTW42aTY0RFMxUWdublVlMWtLMkRiWUs5SVRRNUlPbmlsT2N3OEp0c2VsQndnbGpITzZwT0Q?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 13:01:15 GMT",
-      "description": "Video a bordo del vuelo de Flydubai muestra el momento en que los pasajeros toman el control CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Muere a los 34 años Ken Urker, pareja de Gypsy Rose Blanchard, condenada por la muerte de su madre",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0w5aVhSdks2XzJENWZPY19SYXNMUlVPWmcxMWFJeHRaajFqeFpyT0hNalUyUG9MZUJUYkd4QjlPalhwdlliSl9Fbi1uVkNnTEoyWk1KQ0VYekZjUVpjNnF2dUhpMFZmMVViZXB5SVplRFEtRHpuUWFOQUFHOUxhY01aS0lpNDJCQmczLW10OEVyN09CVDh1NWh3?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 12:58:00 GMT",
-      "description": "Muere a los 34 años Ken Urker, pareja de Gypsy Rose Blanchard, condenada por la muerte de su madre CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "El Congreso de España hunde decretos sobre la crisis de vivienda tras voto en contra de PP, Junts y Vox",
@@ -271,33 +316,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "El Gobierno de Trump desvía fondos destinados a promover los derechos humanos hacia causas de extrema derecha",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTJ4QnhZN09kcWlzOE43T0Nrai01OGFDbTd4SWF4b19ZdWpvQ1FRMGNMeVVLenZWNUNXcGpaR1U3Zk1aS1FCcDZfYWF2cmhHQUhHRDVEZHR2YXhQNDN6X1JGbFV2VUpfNmF1YU5ERjR0TW1FYnNwR2pTMVNBUHBIM0Vzel9PNV9ZdnpldUt4MEhfLXc5dzlGNg?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 10:58:00 GMT",
-      "description": "El Gobierno de Trump desvía fondos destinados a promover los derechos humanos hacia causas de extrema derecha CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Condenan en Cuba a activista opositora Anna Bensi y su madre por difundir video de un agente",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSXZPWV9tQkwyUmpCeFM3b0sxOTJReklncUk5LXV4NkltNGY3Ukt5WW5Yb3hNdVFnckE3RlVPaFJxMmRMQk1wbG5BWVdONzBwQTk0bDFRTzRHOHBJd0RPZjJTbFhGbVAzdFp4NUpsMDViY3FjbGc4ZWV0WjlpUmgyVE9nMnNEb0xiamxfSXRzbE9LNkdLOGEzUTBXWlNGcDI3T3F5aEIyX0hUVGQ3LVdXT0ZEbDM4LU1HTnVId0pSUTVxTkHSAcMBQVVfeXFMTXVxc19kZVl1ZGZ4NnlvMFUtRjNXeFVWWGFnODAyWVlKRjZIajJuMzNsS3UwRlNlN3pYcllEQ3o2ckh5c2c1ZU53Z2R3aGVVV2lGQlRnTEpWbmNKVy1pZjNBZFdQVURMaHRPWjlWZDR4cDMxaGRKaVhITU85cHRhYXRtT2VHU0VxUHdGeUwxLWtwYWcwMG1MODRJOTdXRHBBLWVmLXZ5ZW9qRVFMWnV2cHpmNUtBRzFubXNVTVlXMERpN1hB?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 09:30:50 GMT",
-      "description": "Condenan en Cuba a activista opositora Anna Bensi y su madre por difundir video de un agente DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás”",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOLURsdGhiTy13aTFsNXNFWC00NXNOd3F4UjBGOEt6a1FMSGxsb1FBQmNDUGRYQ2ZVZTJKTW5JMXZjQWFDSy1heGIteng0YnZienBMT1NfTDM1bXk3YVlWcUIyRmlqbEVYRUYyekltd1B3YlJ3Sm40bUcwX0NVSnRONFFTbGpPM0hXUWRLSTFZZkpXQmVDeUpxT1ZfOHZiNUdlZW5lbFVSOHVONHVjZnI3ZlpNZVY4SlJMYmgwWVZsZGE3RERZY29zckVfWVZMMEF4ek5tTG9YVDRxUEtyVU9PbVdYSHppNFFaS3dwSi1MVEVSRUQzaWEyVGxBSFRiVnNVZE5HQ2JR0gGaAkFVX3lxTFBYa0V5WDdQWEhrdmdid3FveV83QzlTcTUyek1hVm5JNGdGV1ZHQ3lLVTllbURncUM2NnpnX09BSU1nNGxJLXppZHA2OFhDSDFySW1DaEt3eWNGc0FwR2p2Y1FmN0Iwajh0Zk0wWk53Q3VsaDVRQWVoUVp1UnFrdEpBWHREUUpXX25vWWNGZUFXVmdIWUZ5bFlrWG5KVm51WG5vVloybFNJWDl2WUx5dS1YQ0NpaEIyVTFmLXM1MUxmcWZzTnBTcG9mY2xfbjBsQlhPQ1BKYTF3dG90MVJ5WEZQeE5wV0tDZTQtU19qVWdwVU1DSlk3RFdGX1c3YlkybnBoVE04dUtubzBxNWRTbjB4Q2otT3lta3JDdw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:56:56 GMT",
-      "description": "El piloto indio apuñalado en el vuelo de Flydubai con destino a Tel Aviv: “No podía dejar morir a los demás” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Verificación: Discurso de Delcy Rodríguez en que critica a Trump en asamblea de la ONU es de 2019",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlh4bnpvY3BLUkpOX01Ed3d4WkFtQ1VVUnAzQkZYV280aHVoR0hLeUVtTUh4UGdwYlU4WXZDN2EwbUpCWG9sMWk3R2JuZkV6V0hQeURtN2RYa2toSXZxSVlzOFNSLVJrUjQ0bERkSTI4Q0x3UVJ5ZWk2eEpfRFIteHFxYnh1a1Jr?oc=5",
       "pubDate": "Thu, 01 Oct 2026 21:40:28 GMT",
@@ -307,20 +325,11 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Textos muestran cómo exalumna de Cornell se convenció de que fue violada: informe",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTEtCOEMxVHpNaUZaajZIWngwX0NZUDFCQkdTQnVKUDVQM3ZMd1Yxd181Q1RPMFNHWVFSRnZVdGJ2clRUejZ1Vk5odTBycnAwWEpEVGlYbmpwV2NJSWxZQnV4bEJEVG5iY0dqRmxLRjdrbGpKSWpkbkVYb19YTERzenpoMGwxSjZHaFZBNlBDZjM1MGYyY2ZSakxDSmJVRUx5cmc?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 20:49:00 GMT",
-      "description": "Textos muestran cómo exalumna de Cornell se convenció de que fue violada: informe AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkZRMXk3RnlRODlBdnE5X0dPUkhfSlF6TVN2QlI3bHJ2QmJrVzRNZHFvRGstMHlWTXhpV1lUWVBlamNzN1ZybEFuZVhUOVJHcHdwTGQ4eS1IR0kxV2NySWVSY19wTjhINzFVQ1BRak5aUE9CTDViOV9oN2dod2NkNUFjeGpMY3pMLUY3MHEwMFMyNzJ3V0t1bg?oc=5",
       "pubDate": "Thu, 01 Oct 2026 20:04:00 GMT",
-      "description": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel AP News",
-      "source": "AP News",
+      "description": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -346,17 +355,8 @@
       "title": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzB2MW5GN1pZR25XRXNqQmJfMnBmRmlPNWhKWVI5MEdDQjhXZGpqc0otZ0RfNGU4V2EzNUpBZzhVR1puWWtHWmZWYTVZVE9KRU84aFg4ck9XaHpZVzVnQlAzQldhNHAxWXR0TG1teVhLekxfUjRlNktFZkU5R2JVWjFDTTZ5VzB1emhKMFNDTlhUZEpMdVZ5ZHRPZEpNdTlkNUdycDhDVWI0MlY1NnFqd1BYLUhXTTFVTTBKMzNsb3E2SEU?oc=5",
       "pubDate": "Thu, 01 Oct 2026 14:37:00 GMT",
-      "description": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Tennessee suspende ejecuciones después de que una presa sobreviva a un intento de inyección letal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU1I5MnZxb2Z3VUpQNW01UVdNRDk3SEI3VW8tV3VlRnhTcnBldEt0STJtc1RLeUc0X1BwaEE1U3VXeEpJX3U3Z2pERTBOeWE4NFVSOVY0SUZWVi11NGNlOEswZmhuVE9aYXNBNjE1S2E2RzFyQUk1SmI0SXVqYm8xTlJrRkx5WmNXaUpXQUljMXNVOC1wWS15cms3QUR5U1QtUUJLQUtRSDJtOVBWUFpFRDBpNVBCT2pwMTF3d2R3?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 08:08:00 GMT",
-      "description": "Tennessee suspende ejecuciones después de que una presa sobreviva a un intento de inyección letal AP News",
-      "source": "AP News",
+      "description": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -364,8 +364,8 @@
       "title": "Copiloto apuñala a piloto en vuelo de EAU a Israel; pasajeros intervienen para detener el ataque",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVHNySF9adndMOVctdkRXeXRZcENRNmIwZVV1RTlDRXBsS2k4bXlfNXZuMWEtZmtGR21Ucy1pV3lud3VHSk9TRE5hZVcyQjNUTy1qVVdwUjlPRHN4ODlSSmhDbjZaeVlablFOZzJBeTllRzZzNV9DYktwTkNZOE5nVGU3cXgyZDI5cEVkdGQ4VWxtRlRJcDNkbzR0WWpYeG1RR0M3QXNtTUI1bWtVbFVF?oc=5",
       "pubDate": "Thu, 01 Oct 2026 01:33:00 GMT",
-      "description": "Copiloto apuñala a piloto en vuelo de EAU a Israel; pasajeros intervienen para detener el ataque AP News",
-      "source": "AP News",
+      "description": "Copiloto apuñala a piloto en vuelo de EAU a Israel; pasajeros intervienen para detener el ataque apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -386,6 +386,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Investigación AP: avisos se ignoraron y torres costeras de Venezuela afrontaban sismos inasumibles",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHQwRW9EckpSaXVQdkE4cUtIaTdpbmhhZ0l2UXc3WHU4ZHFFajB6ZUJXcXdGejF0RlNpWWJ0eTFucGJsUzlqblpBTnhjSUJZZHNWSWdEM0ZCb1l0U2hzN0hXNzk4ZlhMMnZKTEpkX3h4eEI2cFlsN3FieFdsN1FzU2JhVUtWdVBTTHFPRkIwQ1RSSzFESVl0NElFZXY2M2tCaG14bEdUSFVuZw?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 12:17:00 GMT",
+      "description": "Investigación AP: avisos se ignoraron y torres costeras de Venezuela afrontaban sismos inasumibles apnews.com",
+      "source": "apnews.com",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "\"Hay que ser coherentes y reclamar la soberanía de Palestina, Líbano y estabilidad en la región”: Macron en España",
@@ -451,20 +460,11 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "6 cosas que los expertos desearían que todo corredor hiciera para evitar lesiones",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kU0RweEdYYlRjYmxoT2h3LWw3ZEcwOXU0QjNyR3VvQjRxZ2d4dXNaRi1kckc2QmoyMy1uMXFCeEN1S2d1M0JnLWtTTmp1VnZRdWtmdW1pb2pBcmdmU3ltM050dUZCSkdxbTFMNFdrX0o0VWo2?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 09:03:53 GMT",
-      "description": "6 cosas que los expertos desearían que todo corredor hiciera para evitar lesiones The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzcxM1Z2LTdPc05sRmRmeTRyZzlTeXVuMzhsUS1CZzlNMUZXWk9WOXI1SjlWeWd5UXVHOW15ME9ZeW9zdmZMWlZIUW4xM0NrX2NMcUZ1RDJHRVRBRzVkeFcxM0FOLWJjWk83MVMwemVJZl9fWjVYU2VzMUtON25OVkN3UFpQd1F5M3BOa3lKMXZSUHFFN1E?oc=5",
       "pubDate": "Mon, 28 Sep 2026 21:22:00 GMT",
-      "description": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos AP News",
-      "source": "AP News",
+      "description": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos apnews.com",
+      "source": "apnews.com",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
@@ -532,10 +532,10 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | Honduras: Los narcos del patio trasero",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd281ZTVEQ3ljdVM5NWQyY3ZjZU1FUUpXRTNFQno2MlBNUlNqRlhsUHNGRTFHb1RJWkNzWjJtR19UYl9jM29wMGk5SU9QZ2NHLUtjS1dGa0NVZXNqRTZPay1Wak5xU0FRT3RZVVZvQm9IbWJvT1BHaGtkY1ZBRUFZVVBuMTdMM0pmRkVCbkVfTFdZckNPUlRDeWZOTzZ4dFlsWktQc2dZZHJlbUZKTXF5b0N3?oc=5",
-      "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
-      "description": "Opinión | Honduras: Los narcos del patio trasero The Washington Post",
+      "title": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEdkRHhScjV1aUVCRGhwaGxlZmdFT253QVlUTHphcGZHR3hHbU82SjVNcmV2eXVVNUpKNURRQ3JqWEVLMXdXYTAtVmdhUGJ5eHNlNGY1R3Nuc2FZWUtrY3NpQUdJVl93N2Q5Vk9LaUpGMVYtVHBvYzBhUTZ4TENid0JyUklaUmFHbnlCaDdtMWNYTEhuaWx2c3VLajB4N0EwZFVQNmJqV1NCRFpmQ0hvZ2hhTkRSTkxOOWpmbDFlMTlQR1dPcF84a0hjYw?oc=5",
+      "pubDate": "Sun, 30 May 2021 07:00:00 GMT",
+      "description": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
