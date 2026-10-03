@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T08:38:04.898Z",
+  "updatedAt": "2026-10-03T14:00:25.466Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,13 +58,58 @@
   ],
   "items": [
     {
-      "title": "Exigen la liberación de ocho ejidatarios secuestrados por La Familia Michoacana",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNQXlRc0tmbEdNNFZrdFlNbFRLbUdHUS0wdHJIMkxwaDhBMWFJMFVrSDZ3REFIX3RBT3dBTkpNOEx1ckhEQ3lTc2Jwdk9WTno5VW82T1ZROVJ1MmZvNDBpczF6TlRxc2Q4Z19RNjRhMFRUY2tweWFMRTNLZXlBQTV3czlqZUZmUWFkNGlPcXQzWFQ2UVpDcjd5REdPaXR6UUxOVmdialBOTG5EUmY3VWZ4U05PRkszVTRDSzFPUFI2b19oUU82SFRzaWhRamlrNXFkeGJiVHJhdTE5TW10YWVOeFdXWkFOWmtrNm56WjdrYU4wUUlKM2pN?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 05:48:00 GMT",
-      "description": "Exigen la liberación de ocho ejidatarios secuestrados por La Familia Michoacana Proceso",
+      "title": "El Capitán Sol",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43ZWdPYnQxQ1VHUm5wOHdTRThxYW9JaFNpM3k2SnJIWWRpUU9POFpURVZIM2lHeUFGM1Y2aGFKTkYwQzNWNlZQb3M5VW56NWdRZGdPczlJMFVrYnY5cktocFhZM092SFhKeEE?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 13:06:11 GMT",
+      "description": "El Capitán Sol Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "El ruido nos enferma y aniquila",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPajVRdWtoQmpPeEw3bjlTYWtFNzh1dHo0RkprcVdpTFNEX2w4WGxzQkRIU1NLS0V6c29vZWV1MmtxVXR3UnNjRGg1dTU1ckN5M3lxNUhOY24xMHdqSnQtaTZwSkdIaXR1LWt6aUZ1Y3R3QlNIODBMQnpKa3VwaUxYOWRGSjYyZzlMbEVDcl9oSnVVdw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 13:00:00 GMT",
+      "description": "El ruido nos enferma y aniquila Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Cae desempleo universitario en México, pese a que 19% de jóvenes no estudia ni trabaja",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdndaYTFaRVNUd0FFc193czg4LTJETkFINEROQlpCQTc0dVo4RU1ZbGdkZFA0d3NYdDFocWhBYnJsVzllSWljb19QdTZET3NpeG5Yb3pQNEpmMnJWQzhJZ1ZOWFlyM1VxUEhqMVo3emJzbTM4WHZGbllnb19HclZqU29KYzQ3WkZweFNfVk1Wemh2Vi16TGdEeGNrWExBS0E?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 11:04:36 GMT",
+      "description": "Cae desempleo universitario en México, pese a que 19% de jóvenes no estudia ni trabaja Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Del 68 a los jóvenes de hoy: el reclamo de justicia vuelve a las calles de Morelos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVU0OEZYNFZKN0gwSkJ1clFUM18tcGJXVlU4Z3VvRlhCSXloZ0Y5ZDFmbE1vb0VwQUFmMjJjV25HQk5saEc4Q2lhelRKRUQ0NzE1ZFRQZWxsUExmcDhLbUVqTS0ybTdjaXBuWFdUN3FJbWxmN2I5ekxFWGhEN3FZTUhrQnh2Q05sdDBEWkJFdXMyRy02WTExbjJjT3BRMU0?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 11:01:47 GMT",
+      "description": "Del 68 a los jóvenes de hoy: el reclamo de justicia vuelve a las calles de Morelos Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "La España en la que gana el que debe ganar",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXlaWVdyb01ZbFNjakxlU3gweWhJUEpvZi1fNDAtZi1rMTNkMUNIQjI4dEl5Z3BuWWZOMHZLY2ZoYWZzSUp2VjlFQkgxY3dEbm15ME5XeGhnZ3RJYnhOWFRINl84MjFZZ3p0WXBaajdnNUluQ2djaDVETnBYWHc2X3VzRm1lcFNudUM4UtIBkgFBVV95cUxQZjdBcVZhNmR6aXdYWjh0UXFVZ1diTzE2ZUkwcXpITWJCMUNzWm1MRGNKelhiVEhQYUVtaXpoVnZ3TVlNUVNwXzhfWm1GeTIya1NYazREMS1Zbk1BRFJiLXU3eHp6dXQzaC1VV2Nob3FCUXNndllXZ3BibGdjUXUwTnlfeVJEaGJMWFIwMG9FeGxTZw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 08:00:00 GMT",
+      "description": "La España en la que gana el que debe ganar Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Con la novedad de que Aristegui es “neofascista”",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVG56bVduWVlFampnSDAtaU9RcnhxT2J1VFFDV1d0bGtjQlRpc184TUh2dG5ZVUpTbzJ0Q0tFUDlVVkNJYXpHb3Azb0l6czBWVGhzdHdhT0xFeHhYR2EtZFJGQVNNZzRnUEUyV1RCQ3ktN3N1eGFOMm54MHYxaFVZaGFUM29sX1VaUTlRS2k3bk1VbnZyUGJCU0R1MXRkTVBZcF8zVnlmZ1NsSUxzblhaMTVlajNzekZDdGRHTkhtWdIBvwFBVV95cUxNbmV1VjRibFpVbXRxNG1YV3FwT3Z2clJxNFpYRXVPX1ZhWGd1MHFkLUNLaU9qeFo1SkhvMVZvc3lmWUJ0VEpZbHFGNzMyR2pMX0dQSnVtSWwzcWo2Rm9VY096SzBKQW5tdlFHUnY1VFhvemF0bk1kRzVhN191aEVRWE8wWGZRN2xhZjJKMVpOQk5URndqWnpueVEzY1lYaHQzclBXZXJ0RmtEWHFGak4tRTNSZVg4VXpSdDFveE5oWQ?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 07:42:31 GMT",
+      "description": "Con la novedad de que Aristegui es “neofascista” Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "¡No lo vas a creer! El motivo por el que afirman que Harry y Meghan Markle ya están divorciados",
@@ -106,8 +151,8 @@
       "title": "‘Ya estamos mejor’: ¿Quién es Alma de la Rosa Flores, reportera que sobrevivió a un accidente en NL?",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOVlBMzQtOTlBVS1xbWJMTm4wTnZsUHlYN2twRUZmQ2JpSW1TNkdITGd6WHhWR0RfcldKSGUxSVkxYlBfeFUyQWtFV1VaR1pXLU9zLTRfN2RKSjAwUy1DYjRDQUhKSVhsYnNYYXU1VGNrTkJVMHFmMEVod1QxN2JjT1VnREo4NDRpLTd0UGZkVTBWWFNOVDhLc0wzQlludDlaNDVjaTNoSXptRjZualhzR0VwVXJsdjJQVkZXTXVjOHFuVEdEY1FoN1d4NENHbW5DWEhadG9uWFNsaEl0VnA2VA?oc=5",
       "pubDate": "Fri, 02 Oct 2026 23:16:57 GMT",
-      "description": "‘Ya estamos mejor’: ¿Quién es Alma de la Rosa Flores, reportera que sobrevivió a un accidente en NL? elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "‘Ya estamos mejor’: ¿Quién es Alma de la Rosa Flores, reportera que sobrevivió a un accidente en NL? El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -160,8 +205,8 @@
       "title": "Los 31 buques bajo investigación por huachicol fiscal: ¿Cómo se vinculan con ‘El Capitán Sol’?",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0FiNzF0clZJb1NIS3RSdjlRNHVOOEhzRldaQmxoTWlQU2dTR2x0UkMtNGhoZEdjSjZGZ0RmekxsVEt4XzFPTmdBZEpFMGwwTmlUOUlhcmpiS2lkSmNrUlhyWGpWanYwaDRfeGthUGNpaHRUWUpqZDRvNTUzRU96RU1PcUgtN1pWeVVlWUM0T1BNc2pkS1F0RmJrVE1NRVkzZEw0ZUhXQjFjbzNlVmZIUDV3UGpVYm1DZ3hybjIxUlJEaU1hSzNLaEpKeWZVUEllSmZPcVU5MzNxZw?oc=5",
       "pubDate": "Fri, 02 Oct 2026 18:40:58 GMT",
-      "description": "Los 31 buques bajo investigación por huachicol fiscal: ¿Cómo se vinculan con ‘El Capitán Sol’? elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Los 31 buques bajo investigación por huachicol fiscal: ¿Cómo se vinculan con ‘El Capitán Sol’? El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -182,15 +227,6 @@
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Cae 'Capitán Sol', ligado a red de huachicol; va a Altiplano",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXJFY24zVDd2Nkh1aU1aUHNab3V5YjNRZlZPWWRxYVpRa0RqSTV1UTYtVEZoM1pSUm5MOTJuV21IN3R4NjZ6cFRSMlJaVFZNeXhwR2xsVmRQeHA5cUxsQU5OTUlvZW9vMGI4ZzhHV1B3RmtwaDRLU1BiUWVTZGlGcUl5UGhHeXNJNFd0dWJqRmhkNFMw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 17:44:30 GMT",
-      "description": "Cae 'Capitán Sol', ligado a red de huachicol; va a Altiplano Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Sorprendido en short y playera, así cayó el \"Capitán Sol\" en Zapopan",
@@ -214,8 +250,8 @@
       "title": "¿Qué hacía ‘Capitán Sol’ en la red de huachicol fiscal de los hermanos Farías Laguna?",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVZIZHp0cms5dHRGT25PZ0VjRjhIUjhJN1pLbDdRM0hMU1kwUmc1aXdWSWFkbDBjXzQ3aU03MW03ejQzUHNLMERhR0lWRERnNVVEcUNJdUxpaDgwVjNLbEd2Sjlyay1CU2ladEZjZ1Bmb0JMcFhpRHRRMzI1Q3dBU1d6ZnUyWkV1dDZySVlvQkJ2eDBDNlFNRXJ0cDVIRkY5czZaTXYxNVBUeklLQ1d1MEp4VFZiUUtjc3FCTXhsYk9uekRmTWxfcW5vVlU2aGs?oc=5",
       "pubDate": "Fri, 02 Oct 2026 16:15:47 GMT",
-      "description": "¿Qué hacía ‘Capitán Sol’ en la red de huachicol fiscal de los hermanos Farías Laguna? elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "¿Qué hacía ‘Capitán Sol’ en la red de huachicol fiscal de los hermanos Farías Laguna? El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -286,26 +322,17 @@
       "title": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTi1YVjF3ZjBLYUREYV8takNuenl6MEVsU2Z3bXpUZkdaaXVyU1lnVmZhTnZ3cHFGUEtJc1hDWlhtRVFqWmRqOUJBTjZuMHJIUWtVZHNZTnhxWVJpRVd1cVU0TU9YRlU5dnJfYTMxc1hNbTN5aHR0N1o3dHl1WjZOb0N0ajh3UWs2RFhZTTJZUlJIYmQ1SmJMemVlV1U2WUFTMUM4allJS0J3LVktY211MG5WeW56dWxXV0E?oc=5",
       "pubDate": "Fri, 02 Oct 2026 12:47:48 GMT",
-      "description": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Ataque en secundaria de Torreón: Sheinbaum obligará a plataformas a bajar contenidos violentos El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Lo que incendió el caso de 'Los 43'",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ1hOeVRDRFlMVWNfZ2pVaFlkRi1hQmVJc1BDMVBOZi1JcDJQUERvZjI0WGVGWUZrU1lWQk1wOGF0UF9za25ZeDdUTVJMd0pVbVlvcUpheFVkejJlTnMzZUw0b1FmTmdTMGdJZlFrWGFPN2hGUGJDQnI5UGlGeWRVQVdSV1lBYlJMZnRlNXdIbHg3NGpYZWtJZG1GVDRLd9IBngFBVV95cUxPanctOGt5V3RQWlhWRFZVQ1RGUy1IWmVKa2NVT3pnaEJLdzRwU0lTdWZMVks0eHV0U3VZNWItWFQxRXJfb0pKUVJJUWJGRTFwa2dObmdZSjBERG84c2prcW9UTTAtQldQQ2RZdnkyMWRiVHExN1lkdFVGWjRpN0s4NzVXTmdfSUVveWdHREdJWG9JSkQ4WDNMT25VS09oQQ?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:43:23 GMT",
-      "description": "Lo que incendió el caso de 'Los 43' Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Marina del Pilar, un caso perdido",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3UzSFQ3UVpPSDc1WkcwdnJCNzRVai1tTlVaMjhvUU9rNmxKYlhkWnRCTDlIdDVHdmlQTEZGWmN6NFpHOFBxM3BBY0hMN0ZmWEV6M0d2MXBOTWxkUGNMNTI3b29Pblh4YVV6cC1aWEZFQ25OZ3l0enRSa19YcERTeDNBUkVlNmx2aVRyQV9xVDVDcDJsNXM1OGFScjlYbHl0VHpDcEV5eGNmZw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:42:35 GMT",
-      "description": "Marina del Pilar, un caso perdido elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "title": "Van por nuevas multas al huachicol fiscal: Diputados aprueban reforma a Ley Aduanera",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUEs5LUpmX1FzZE1wcWJESWdKYjdLcTBQZXE5YzM1WEZackZ0MXVLbTZ0ejViR3NnQ0dkYmFHbGRZQmJwLWNMcTlZSW1aTUtZTHJ1a3BubWxkMU5VOWZNSTQtbGF3ZW9TdVppMzltRHJzSEh2YUI4RnZGSWFaOVNOYVFHX1Nsa0I2WUItajRfV2dwaHNRRVBYZzg3RmJib05kRmtycUlIa1ktY3RnWVhQbWxQTFU0Zm5sTjg4a1VDeURuZzBtVmlwV0lheklXYU9rLWc?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 10:33:57 GMT",
+      "description": "Van por nuevas multas al huachicol fiscal: Diputados aprueban reforma a Ley Aduanera El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -314,15 +341,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRURnUk9lUkgteTFmX0FOVnRyMzVnQ053aFVkVDJTVU0xd0I2LTVvNWpRQk5pT1IxdDZfTDg2M3hwOU81U2tnOGU5Z2otXzd2LUFMa05PSC14UXQ4c3dUVzlPQjkyak5yVTV0WmRmMVlJYzBXYXJLcXVyZ1V5Y0xTYngyZW53OVJtM2fSAYoBQVVfeXFMUENoOTZ6YUt6MkZnQWtnbEN4a2x0ZDRORXpGWE8tdTA0UGl3bURVWC1BLTBpSUZLbF9tZ0E2a0gxMUQtcTBnYlFKTUd6djhteER6UXVwckVDOC1nUGJ2V2hnSG5kVE04ZnRxQnpRZHR6MHkzTmZMWHFBSjhaZTVZVmc4dVh1a0ZGYlFR?oc=5",
       "pubDate": "Fri, 02 Oct 2026 08:39:04 GMT",
       "description": "Calderón degollado Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "González de Alba: cantadas valen doble",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOXZKQzllWkk2VUk1aHppRGFDUElJaDhhRzQ2MTFhbkVqREtKY0RVdHJoeFk2YS1xa050WXFDVGJuLWVDX2RIRV9RZXVQbWNJcmNfOWFjZHRrbGh1ZVFDLXA3cWdLUldfeS1tQ2hYVG1iZGRHNlROcGlCUDhIcnJ1eGFOZkdYM1N2T0NFRFNJQ01jbDZkOWw5QW1RVHg2ZFNHOENfTtIBpAFBVV95cUxNR0x0UndURG4xemlORlZ6cFVJWjNydmxIdUtEcnlHVDJvUHdoNkZyM25ndnBveHItRjZSVVpOUndibXpPQXFxOHpOVHJCX2RZemNDOVhDNVl3VE9Qb0puRnZpYVFIZXZCQ0F3aHdudEVmVlJGcXd6LURNbnV5OGZPR0JuREUyWjlBeHU0OTNGeThCMXdHYmNBbUdKYXRZalljaEFFQg?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 08:31:21 GMT",
-      "description": "González de Alba: cantadas valen doble Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -344,6 +362,24 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Revelan VIDEO del accidente carretero donde murió Laura Flores, \"La Renegada\", conductora de tráiler en Tamaul",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd0lRajFEd1I4ZGM2YkRKYzl4UjlVdFB3UUFKN19iTG8zMndHM0NCTUNaTlJjUTIwZWhCRXhvXzNDN0dFNDJrck5mSXp4d19xY1ZPWVYxa2V5N0tNZ3FUdVctb1ZyTHhQWHJCZ0s0elFUdnRvekZ4UnpOSFBaanFDS05RTFBFOFXSAYcBQVVfeXFMUHduVllrNlp6Q3dZV3lNU0JwLUpLcHJWVFlaakZDM3hFeURIU0Q4VWpoSW4wd01zRURxWEZvUElrS2NJUkI1dU1iRlZ0bVlRZmtWS1l3X2pOTlc3ZllDZ0RTaHFKV2Y5Z3ZPOFBhMzQxUnYxU0VfcUpmVXh4dUthUGNxVWdtY3Bn?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 05:03:00 GMT",
+      "description": "Revelan VIDEO del accidente carretero donde murió Laura Flores, \"La Renegada\", conductora de tráiler en Tamaul Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Manifestantes irrumpen en el sindicato del IMSS",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMUdTX3AwSTFjaFo0UGQwdUVvaXVlZmVCN01nTnBtV01pNmg4QUVwTmJmZVdFLWxDbTFyRm92MVRtbHFtUzhYa01USmNkU2ladnpaaXl4eGpobE1GSFk1X3N2QWNsMW9KaXVfNG02YkFSWUFCZWY4LWEzRlRUUkp4UE1xNEJhRWh3blg4elYzYS1pMG82?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 02:40:00 GMT",
+      "description": "Manifestantes irrumpen en el sindicato del IMSS Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Sindicato de Radio Educación: Fernanda Tapia va \"pocas horas\" y genera malas prácticas",
@@ -391,10 +427,10 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Mujer mata a golpes a su sobrina de 13 años; la abuelita y el tío son cómplices",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGFSVE5NcTlna0ZJNnhJS2lzb2hYckFKMXBpRS14VmNscTg5T3BQSFByajNTWnpvb05YX0N1WmVrWTBnZXZrMHRwTXZueVdqMzI0NUNEVmlhc0RwbWJxMHIwTk83XzJpaXFLTE9mX3U3bTFacF9XcUNKOHdFNXFQVzR1OGlMc3NUUEhYb2N4OUNXVUFaVmV1bkY1VC1nSmx1OXfSAacBQVVfeXFMUEQteEdPdnFmQkhfZkNCMXlxS3lmOXFwN2tyeGhybDFuZjVNY0tNYlUxX1RLd0tpLVZLWTViRXQ2dEpkVTZVY2hPeGpBX1RHZHk3RHp3d2xFaWhUcE5LVW55cGhYRFgza1FvSEQ5aGRxUVV2T1VXV1ZDaV92ZWo2TTZ4U2tDSHFJS045ZjVzUV9sdUUtT3A5N0UtS29SM3RTQVpxcFpNT2s?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 22:01:36 GMT",
-      "description": "Mujer mata a golpes a su sobrina de 13 años; la abuelita y el tío son cómplices Excélsior",
+      "title": "¿Están mejor sin Cristiano? Portugal vence a Dinamarca en la Nations League sin CR7",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUTNhb20zVTEyNi1RcXhXQ3BTTE1nSG5pS2R0ejdRVHJpLUhGRjduRl84aE43MGJQSWY5UU5qNVFIaTlLZWhzREhpSnRMcXMxdU4zSXJvU1ZfcDgybGNHZHpab0dyQWhfQ2MwMS1zNWUxRHc2VXFsYjRzdFhubHRBUnBfYXotdEx2MTBGc3NJb0hUTVNwbVEtWnlqakRqNENiNlRUV3RHaG9oSXJPUG9kX9IBtgFBVV95cUxPNm1MQUhVYnFfb3h0cWJUNHpfNlBETzlCM0hzYmlxQm9IUzNpTjFDTzJuRXdGdk42SFFUNEtZVVEwVFNna1NNWFdJNEx2ZUZPTjY2Q3FUb0daR0VsWlVfYWloSkFIN2x0N09lYW4xUmdvZG55cm9yeHB6X2pZSExsSDYxb2pWVXpLdlROeGxoNEd0V1pBUmFxY2Vsc3ZObEM5ZXBReVIzSV9HUEtiRVJiNWt0NmhDZw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 22:57:13 GMT",
+      "description": "¿Están mejor sin Cristiano? Portugal vence a Dinamarca en la Nations League sin CR7 Excélsior",
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
@@ -416,15 +452,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Ella es Min Ah, la nueva esposa de Jim Carrey, 31 años menor que él",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEJUYVk3MmlnWHFlWWZFWnI1bjBidnNzSWFjMDhyNEQyenVxelVPTUZkeklBS1lwNlp2ZVZjeDUyS2ZPWndyeHkzMEhHejN5NnZqMU1rdUZ1aFZVLWJHRHpES18tOEtEejZkakYtZmZLX3lMSTc5OG1HWmhpWkVDUEc1X1BHczhPYktZcHRFNUt5cTFNeUlxYtIBngFBVV95cUxQdmRZSzNub3ZNRWtQMnJ3eW16QlRnNzRDTFhaVUJMWDNrWWs1T05mU3RjRnFDUDVWc2VVV1ZaMHdGUWx2NURZR2dCTXZ3MndKbDliMlpaZmozUDljdTBLQUZOUWIwSGNUc1JPV0tLSllOUjB4cnNuTEFYT3dXV0ZwM2VpUW5Ic2RydV83X2tsWV9xUnVCTWRnZldIemdrUQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 17:29:19 GMT",
-      "description": "Ella es Min Ah, la nueva esposa de Jim Carrey, 31 años menor que él Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Consuelo Sáizar obtiene el Premio Nacional al Mérito Editorial Juan Pablos 2026",
@@ -457,8 +484,8 @@
       "title": "Cunde el pánico",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcEJiWTBPejhUZk5OYkhheU9OUGlGSDFHaWRqbHFVZVRjd0xIazFhanZ2VHFVc1FwNTBRTjlNRlQzR082eVcteFBjV3ZRWmxDTTFhMG16OW02OEhrV2FIeEhSaGJpemVTRnh0YWxvRHRmel9tSlRmZzRPdmhFV1lHbWgwSzlkQjVzZUtQMUh2S3hMQjQ?oc=5",
       "pubDate": "Thu, 01 Oct 2026 11:33:57 GMT",
-      "description": "Cunde el pánico elfinanciero.com.mx",
-      "source": "elfinanciero.com.mx",
+      "description": "Cunde el pánico El Financiero",
+      "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
@@ -467,15 +494,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQc1MwS0lOQ0dNb1FvRzVfa0s3eG5nUF91eVpfdmhSLTlxM2lxMFhoVHJ5TTlwV2tPamE4d3hCTGI0Q3h0eldfSUpxOV9GSTFXYWpjQzhJRndYRkV5dmdrMkliV2VyWV9pLTJzZF9pZmJJeFd2NEZWLU93ZW1wWHp4QmpEUEltLXAwWFN2T3N5U1ltUFY4SFo4azY2ZGhNX3kzU3RVRVMydGFOcDl0YkI4R21EdUdYVkhlQ1B5RzNaLWNrYnRQTlpuNWJHSFFZYkJHRGxj?oc=5",
       "pubDate": "Thu, 01 Oct 2026 00:57:00 GMT",
       "description": "Más de 200 líderes latinoamericanos exigen el fin de la dictadura de Daniel Ortega en Nicaragua Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Decapitan la estatua de Felipe Calderón en Los Pinos",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYzBsN2NfWmRZUm5pLW5CeTBCQXZON29Kb0lVRFZYZjFLdVBlVThkb3NidzgwaDB5anlUeDg1b0RIZzFmWWR5Qjh4V0JWZDZfMi1zMU1RWXREeVRMS2xIbmtjeG0yd0Izd2M0bkRIa3duUjkxNm4wcFlEQ3RDdzJIS09nam53MG5LQlRGNTkzVFFNRU0wencyUTVYaw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 22:03:00 GMT",
-      "description": "Decapitan la estatua de Felipe Calderón en Los Pinos Aristegui Noticias",
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
@@ -490,29 +508,11 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Niñez migrante, promesas de papel",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oU1FFVk5jMUdEX0VoQ0pGVTd5LU44aGl2ZVpNMzBjM3dXMGhJRFE5cTZJc1hvcW94ck1uaXNuZEJUVFdoTndOWTFKZXZsX0xyb21IdDdjMmhkNGtnekZXTDBxSndnOHlQRFBqTzBPbHY?oc=5",
-      "pubDate": "Sun, 09 Jul 2023 07:40:43 GMT",
-      "description": "Niñez migrante, promesas de papel panel.animalpolitico.com",
-      "source": "panel.animalpolitico.com",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
       "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5USEZXOXMzODFaajA2aXdxSWJiYms0c1dMUnk3dVFCS1o3VTFEbDhJWVhoUmdyRVBiSFZvbTZaaXZaNXl0azZOV0R6UEJ3YUFJNVdBVlFxWmIyT2JVdV8xaUhFTnM2c2ZmTU1UTi1CMno?oc=5",
       "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
       "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
       "source": "NarcoData",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Crisis en Morena: tres grupos disputan el partido fundado por AMLO",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTXpPQVpVVzF3UUdZSHFVNWxFZWFWWl91aThUN1R3blVwWUxzUDBLbFlpRmdsWjhKRjZFSkVIaWVlSXRRSlEwYm9LeUpock1KRUUtQlJ4dlRocVY1QzJQakFhYXlXOFcxTnl4bG5ndng4LUh1Z0EwUjYwUVFkSFB6N2VCQldiTmtPOFZ1Z0RuaVBGSW5WRFE3YkRjYnprdw?oc=5",
-      "pubDate": "Wed, 09 Sep 2020 07:00:00 GMT",
-      "description": "Crisis en Morena: tres grupos disputan el partido fundado por AMLO Grupo Animal",
-      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
