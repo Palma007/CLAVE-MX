@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T23:24:58.220Z",
+  "updatedAt": "2026-10-04T03:05:10.090Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,49 @@
   ],
   "items": [
     {
+      "title": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xQWxmZWkxaGczclBMZDRFdW1lQWZ5ZUh4VEt0SFFPVzBWNDZEYkR4XzQ1SkpoT0lIUWlkcy1lb2Rvb1FKc1ppbDBveUl1MW04azZCU041ajZJbEpn0gFiQVVfeXFMUGZiaUpzNmI3ZC1tcW82Q3ZPTXhxSFZuMWktRWp4VHgzbkRZX0FYckZVZVZRamFkVXlScExRbXNoNXlhdEtTQXNwRHk0d280enVzbENKUDF5YUV2bUdPS05rSHc?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 01:34:50 GMT",
+      "description": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jMmo3V1BVdWJGcmZOVkhwQmdjTWRSYkFiZVczZVY2WTNCa3k4N1YwdXRwLXlMSko3V1drampmbzBQUDdlcEdrZ2RqSnAwbWN0elJTRVZfd25KV1dF0gFiQVVfeXFMTWlwTXI4V0RDUmRXY0NjVnMyUVc5SjJOcnUyV1B5UGFIZWxQNVRTMjZYTWV5S3daUWVRNFMyVjdaT2F5SVpxQ0RMYjd4eTJCdDdaN1ozOTFCcHFmcWl4d3U1SHc?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 01:07:30 GMT",
+      "description": "Renuncia el jefe de las prisiones de Tennessee tras el fallido intento de ejecutar a Christa Pike BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Hutíes reivindican ataque con misiles balísticos contra Arabia Saudita",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0hyU2dqYmxLZTF5RHVmblhONm9WcjgwOVB5REpGekV6UTh5RHRFVTdNa20za2VnU2xRdmViQmx5bnVROFpZTE9MRldJMlIyTXhPNVFSUEFZZ0g1SmExNk1FczdYODhMSWxlRFJ2MTN5ZXBCYzdwZ19tcGdoRDk0OVJwamd1OWNUOTVrMTVmNkUzcHF0a1hZRGYySlc4eGdtQTk0ZzFRTEVxaUswYzI4ejVXTdIBswFBVV95cUxPRkYzZkhhT3FVVEV0T0RBakJ4dXI5bWNpVUlsWTg1Y2NyQ1NSZS1VRE9yS2ZuNVlXcE9CaXIzQnhMS1BIaHJ3by02WWxMeTlUdUZ5ZkZla08zb0RySTMwakg5R1ZsRU1tdXhUbnFlYkpHaGpiM3FPbVZpSUVRSjF1cWFDT0Y3d1EtRGhhdTZQQUFKNU1scVpWaGFmZ050bkQ5NlN5X1d4cllkVGtDb0lCUlBhaw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 21:23:14 GMT",
+      "description": "Hutíes reivindican ataque con misiles balísticos contra Arabia Saudita dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Estados Unidos interceptó buque con combustible para Cuba",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcVlMX2ZkVHhuRlMyS0hnZnVDY3dld3NnV3BNU3FkUUhqOTZkSXZMYXV0ckVFMHFWSzJlSjVZcmRSalY4TjRQbWljNnRpbTFlOWtEWFNIa1QtQUp5S3d5My1Sd1N1eEQ0SE1PcGEwRXF2cjhPZElYTkJya3FFdTNGcFM5Sy1qTzVubnBhc0gxdEJodjNuRVByWGNsb9IBmwFBVV95cUxNY3Q0RzJtR3RYeV8zblFldU9rNVd1YnZuU2hPdk54S0g2OEd0SkphcDJ6RmJqR1drZ3hMbmo1ak9lbFc3Z2xkaTlsNjJJWk9DVDI5N2xaNmU1cHkxOC15NFFaSjE1SnZFY2J3QkRuZnFkT3NtQktCNUk5NHI0SXJNX19BeWItRWFUSmFBRm9LRU54YmFsbTNtLWZpUQ?oc=5",
       "pubDate": "Sat, 03 Oct 2026 20:22:33 GMT",
-      "description": "Estados Unidos interceptó buque con combustible para Cuba DW.com",
-      "source": "DW.com",
+      "description": "Estados Unidos interceptó buque con combustible para Cuba dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2RMd2ZNUTZuNllFa3VnYnpCZ1BLdnFnTmlCRTFZMXFVSndHZnhzWFpNTHdsZHJUaTZMQkh2am1IS0RxcDBkcU45ZmNaTXBYNEV3aG4wZjVOU0ZObHRic3RVRkpNVzFfZXltMUdUcThUUlExWlFKTzRXb0dfTGRWVVd2QktBVHpuZElDbzYwT3ZEeW00VVhVNVRnNjVuOWdObW05d2JZaw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 20:16:00 GMT",
+      "description": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo apnews.com",
+      "source": "apnews.com",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Los republicanos observan con preocupación cómo cae la aprobación de Trump en sus propias encuestas internas",
@@ -91,33 +127,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xQWxmZWkxaGczclBMZDRFdW1lQWZ5ZUh4VEt0SFFPVzBWNDZEYkR4XzQ1SkpoT0lIUWlkcy1lb2Rvb1FKc1ppbDBveUl1MW04azZCU041ajZJbEpn0gFiQVVfeXFMUGZiaUpzNmI3ZC1tcW82Q3ZPTXhxSFZuMWktRWp4VHgzbkRZX0FYckZVZVZRamFkVXlScExRbXNoNXlhdEtTQXNwRHk0d280enVzbENKUDF5YUV2bUdPS05rSHc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 18:48:15 GMT",
-      "description": "En fotos: las multitudinarias protestas en España contra la crisis de la vivienda BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeExnejB3cWJZbTh3cjlHanFaWERtRno5OGFHUjI3NkRyTVBlM3BZWGFIb2s2a1JGN1VMYlBFZFRfNmg5UDZmejlta01wb2VwRF9KTHFRMDh0TzVz0gFiQVVfeXFMUG5ScGlVWXpuYktwMHhOM0FIdG9IODZNcTNfczQySWlJbl9Qa295QVhUcFd0ZzJ4UXM1RmRseHEyWnVFVV9lY0E3VzNSeGtIY0ZUV2xmQkVjWGRXQVpwUlJteGc?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 18:48:15 GMT",
-      "description": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGo0QktKNW5QTF82X3R6RjFXT09VWWFObHlkS2JtV2RLMjBrdmVRdHNqUkZ0X1EzUjBWRUwzOVhxWGkyQnRkRjR6bFRqZ2RUYzJQbFV4eEZoUE5ZLVdIbkd3RjYwUUd5OUlweGR0cUZ3RmswUk9FZi1OZ0EtRUNwNjJOYzlsajlLdE9hNmxKVEl2NnZaRHBYYlEwTnJtc1VnS3AxV204Qk5jc2lpc3daNDlVNDRiV3NLX3B6NkppNmxRcnYzTURpUVZhcEM1bXZKR3h6a1NFWdIB1wFBVV95cUxPVmZMQnhseVEtRUpHUVNGazRJRVF0LTR1VjAtUlhuOElpUHA4Rkx0Z0hhVEdaTTc4alJRck1PWlJWb1hqRm5mZ3ZPZGhiaHhXSkYyZV9PQTFVMlJ4THl3ZmczbUE0NEJmdG04NFhLZTE4bDdKMGFGNTBKS1VnUXROeVpBUG1FUzcxSDlfNXBsUHVBeFNuVU9lTm5BY2ZUNHRuZDd0NzBhemhfdldqUUdJV2FGWjhaMW9aYlAtYkMzcFNfdjJMZWJNRlhkbHZpdTBJRnYzVXB3aw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 16:27:51 GMT",
-      "description": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Encuestas de las elecciones en Brasil prevén un resultado ajustado y una segunda vuelta sin dueño",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcDNGYVFfZ2hlMVNZbjhjejB3bkpMSTRxa0NKTjlOQ2hkU0E3QzBNdUVTU2tFdmtya0NoVEE1bUVxUkdCUWV1c3FIRmdGbW5lb0JEZjFqeXk1TTR0bTc1WjgwV1hES1I5dnFocTFjaWllYVkwdk55S3pnay1BbHhtVXZFejd3SG9TcXdfNkV5ODBHSXJhUEN5U1BwOEZkZVNY?oc=5",
       "pubDate": "Sat, 03 Oct 2026 15:52:00 GMT",
@@ -125,15 +134,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2RMd2ZNUTZuNllFa3VnYnpCZ1BLdnFnTmlCRTFZMXFVSndHZnhzWFpNTHdsZHJUaTZMQkh2am1IS0RxcDBkcU45ZmNaTXBYNEV3aG4wZjVOU0ZObHRic3RVRkpNVzFfZXltMUdUcThUUlExWlFKTzRXb0dfTGRWVVd2QktBVHpuZElDbzYwT3ZEeW00VVhVNVRnNjVuOWdObW05d2JZaw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 15:34:00 GMT",
-      "description": "Copiloto de FlyDubai que empuñó un hacha había sido señalado por sospechas de extremismo apnews.com",
-      "source": "apnews.com",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Brasil elige presidente en una elección muy polarizada. Los resultados también se sentirán en EE.UU. y otros países",
@@ -145,13 +145,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "¿Quién es el sospechoso del ataque a un piloto en el vuelo de Flydubai?",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFFrT25Jczh3NE55WXl3aHd3SGV1b3NaUU44ZHBLV1V3TF9IT1JQQVQ0MzlyRV9HNHRJY0VzWGRRZmdBTlJ1cDRFWkNvcXlZVDZmX3NlUDN3N0ZBY3VWcWtLR1ZhcUU4RlU2R0s1bDB4M3JDWE1UaFM4U3VSU3Z4N3gzUlQ5dEpJNWFmM3c4aw?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 14:59:00 GMT",
-      "description": "¿Quién es el sospechoso del ataque a un piloto en el vuelo de Flydubai? CNN en Español",
+      "title": "Después del terremoto en Venezuela, estas mujeres buscan su futuro en el sueño americano: “Mi punto final es Estados Unidos”",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRtUXB5Vm85cHdxaWpsQjJ4enlkSkZSLXV4N1lxeXItUTBTZTZWc2xLWU5xN1dVdURUQTVqNjkwMElPWXlvWGtOcmlUMmJ6RUR0UlRRblZoNU9uNm5SYUhVNThKeEVXdWVhLVFtck5STTlPTmVhZnVvQ3VVYUxDSkdmZG0xYU5PR0F6b014WEdudThPQTl1MHVTdDF4c2ZaeUlZSVNn?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:37:00 GMT",
+      "description": "Después del terremoto en Venezuela, estas mujeres buscan su futuro en el sueño americano: “Mi punto final es Estados Unidos” CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QeExnejB3cWJZbTh3cjlHanFaWERtRno5OGFHUjI3NkRyTVBlM3BZWGFIb2s2a1JGN1VMYlBFZFRfNmg5UDZmejlta01wb2VwRF9KTHFRMDh0TzVz0gFiQVVfeXFMUG5ScGlVWXpuYktwMHhOM0FIdG9IODZNcTNfczQySWlJbl9Qa295QVhUcFd0ZzJ4UXM1RmRseHEyWnVFVV9lY0E3VzNSeGtIY0ZUV2xmQkVjWGRXQVpwUlJteGc?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 12:48:59 GMT",
+      "description": "Lo que la fallida ejecución de Christa Pike revela sobre la pena de muerte en Estados Unidos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Su esposa fue arrastrada por un tsunami y él lleva años buceando para sentirse cerca de ella",
@@ -181,29 +190,11 @@
       "domain": "elpais.com"
     },
     {
-      "title": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 09:10:20 GMT",
-      "description": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Alemania celebra en Bremen el Día de la Unidad Alemana a los 36 años de la reunificación",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMTFxeUZRb3FXWUExNUs3blhwYWRyNkJYS21obFY5TUpjdlZsQXhLX2JtSmtJVGQ4Mmx3eGdxT2dWOGNNV2FkUHFCRy1hMkcwQlV3VFl3bUZldjg4QlFibVhxVkNlUjYtbWV1SEYySVFVMFROS3YySDhCY0o3bFJadk5QeG1vUl9QTks4TWRmaUo4MURVbnBYQ1BCVlp4T2dfZUVsTUZzcmFDX29PZGFmRTlOeEtMLXo2VFpCN0x1OWhBR2VqbndBXzFEWXU3Z3hYNWYxdkJhNDVYTGFUcWZyTGtFMNIB4wFBVV95cUxPRWVyZV8xNXZjaUpKR3JBbXh6QWd6aFNVMFVZQ0VFT2ZMd2Fua2hVWFpSYmJVTkpsTEt3YmxtNnQ0VERXdkl5djFiMERBXzZIR25jcjVFcjR2bkJfZzBkWEVmZVFzOTd3blpYTVA2RkJGV2Y4eWxtZFRaQk1oN1dQVE5NR0VhLW9ETERfbG41aW14Mkl3YlNDamVuUG9DVmEwNzlzVjkyX0NidjlfQURHNHdDMXV4c2hrblBvdHIzSWNyd3p5VUQyamZTcUo2cGxHQzlIQml1QXQ4am9CZkt2T2VrWQ?oc=5",
       "pubDate": "Sat, 03 Oct 2026 07:37:06 GMT",
-      "description": "Alemania celebra en Bremen el Día de la Unidad Alemana a los 36 años de la reunificación DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODc0b2FETkJ6YnRXZUFUM0FIZHZKUGhCV0dWcTZOQ1VWZmFKVThKOFRPQ2xpak5DN3BBazZSdjMyeWlNT0hhdEY2TXNBckRWNDdDWTAwZlkza0JWMDBrSHFZdk9wakJYVEwxVTJ1RUs4NXpDYlo0eVd1OTBraFcwT3lXdVBobE9GNldXRC1ickNtQ3RlRVp4Nmo4Y3RLWVRZdVJQblhNQUV1OXJCbGNvQ3M4VEpwMDRpaHFzS2tFeHBDaDFYdnRtRGdGb9IBywFBVV95cUxNaDYxZFlqU244Q0t6VFRlcVFONWs3SUVrZTU5WDZjcE9HbkYybmlRUlVEcnE4YncwakdPRWFiVkJoNl90WEtha2tLdHZhdF81aGlHcGRNRHlIREJFVXF5TlRndzlQSVhuYjlLcVhadEo4em1KSXlsMTdoMk1Nc0REWmppakltRXYxVzlKaUVZdFA1VlhUTnlGYWZUNGVxMlU1NzNIZHNSZTJWMGpzWFVhcnFxUlprdy1mWW1uZ250dnB1ZXZtN1JFWjZ4QQ?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 04:50:10 GMT",
-      "description": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia DW.com",
-      "source": "DW.com",
+      "description": "Alemania celebra en Bremen el Día de la Unidad Alemana a los 36 años de la reunificación dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -238,19 +229,10 @@
       "title": "Venezuela absuelve a periodista Rory Branker, acusado de terrorismo y traición a la patria",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTHJVVFVCenpCTjMwNHhaQm03VnVhSDBsSHdIUHpvWU8xaVdFTkNoMFRjZmlsQ0ItdlRINkJhNml4aU1IRDJQeFpXNEhoMWs4Q1BDM2VsWjdZcWNobzllLXBjSjdsVVRMN0plVm14bWMwV3RNYzNsOGRqT2hhejl6VXZsSFRxM2dhZUxnUzZad250MHN1M2ZqdTdrTnZCS3BaZ0gzVEpIb2ZxRnZGSkphWC12ZVd1a2llQkJleFFyMm1SMzhKYnfSAcYBQVVfeXFMT3FXVmpEX0Z1LU5ydHF4VXFxemd0dFgtMlN5Q21NRXBzOGN1ZF9RMzJydkcwSnRsWE43Y2FjLThRNEVUazF3QTVILU9wa01velpBUWJUUk84ODhIR1hjaktackNLdmJCcElldXVIMTBGNWJBMHJkSWE4UXhDbmNxUFczc0VnVTNIeEF2b2tTVFREVmxxM2RwTDJxNW9WeGdnS2RudHZGdWQ2SFpjMTQtTVBBUi10TzRFVnlWMGpYX3lnQnZEb3pB?oc=5",
       "pubDate": "Sat, 03 Oct 2026 02:48:34 GMT",
-      "description": "Venezuela absuelve a periodista Rory Branker, acusado de terrorismo y traición a la patria DW.com",
-      "source": "DW.com",
+      "description": "Venezuela absuelve a periodista Rory Branker, acusado de terrorismo y traición a la patria dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41M09UYVMxcW9KMFMyc3hfd2ZoTmFYTlJwYlM4dk53aEowa0lYb0k3c25qWm9UcnBjTGxIaXNwVjdVdFJOeVBKVFFlLXZzdUZPdVI4dmZydjB2eEQt0gFiQVVfeXFMTnhndVltM0QwQWNhc1dDbkRlU2NVcGJoYTYtY2NuTXFtQkJlTWdpQjFObTM1WVBuVU5UOTVJMERwM3h2ckR1cTJ0aTloWlJZMnowTWZEcDNZdDJ6XzM5dmlwV2c?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 23:34:11 GMT",
-      "description": "Colapsa en Hawái el emblemático arco marino Hōlei de 550 años de antigüedad BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "¿Qué le depara el futuro a Christa Pike tras haber sobrevivido a la inyección letal?",
@@ -280,13 +262,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "España: Congreso rechaza decretos para afrontar crisis de la vivienda",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkRzZE1vR3VVU2ZNcW14cHFPeEQ5VDMxWU1idkJ0V0lwLTRIazlod20zTElpa3k2M0VqZ1o0aTVvWm1VZHZ5NWNoU1RHR3J6RlVteDdGeHZSaExobjFmWnZDbVBpbUNjX1dvNF8yVlo4NXZhQWF0dzB3eUI4QnY0WF9JeXJsS2JlZjVxXzdhckR6WExoMzRncVRuYmM1MWowcDZzTXBhcDZYQdIBqgFBVV95cUxQb0xyb1RmUzN0TEFlQ3F6cllYeFdnUFhNMWVQUkdjbjZMUy1QLUJ6Y2p2enhHV3J3STJmdnlPRHdUc3gwTVpSRTN0VEY0T1g2MFlNNVN4OXMtSE5QTUFnY1NoRjdiSjdSSzMxN0pONUlhQzRYOVVGNUFscnZHdzV6elRVUlVMcTB0U0hIRTgtNEg2cFJkRDVKWDNmTElEZDU4SjNpSEFycU9Idw?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 15:30:35 GMT",
-      "description": "España: Congreso rechaza decretos para afrontar crisis de la vivienda DW.com",
-      "source": "DW.com",
+      "title": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdGo0QktKNW5QTF82X3R6RjFXT09VWWFObHlkS2JtV2RLMjBrdmVRdHNqUkZ0X1EzUjBWRUwzOVhxWGkyQnRkRjR6bFRqZ2RUYzJQbFV4eEZoUE5ZLVdIbkd3RjYwUUd5OUlweGR0cUZ3RmswUk9FZi1OZ0EtRUNwNjJOYzlsajlLdE9hNmxKVEl2NnZaRHBYYlEwTnJtc1VnS3AxV204Qk5jc2lpc3daNDlVNDRiV3NLX3B6NkppNmxRcnYzTURpUVZhcEM1bXZKR3h6a1NFWdIB1wFBVV95cUxPVmZMQnhseVEtRUpHUVNGazRJRVF0LTR1VjAtUlhuOElpUHA4Rkx0Z0hhVEdaTTc4alJRck1PWlJWb1hqRm5mZ3ZPZGhiaHhXSkYyZV9PQTFVMlJ4THl3ZmczbUE0NEJmdG04NFhLZTE4bDdKMGFGNTBKS1VnUXROeVpBUG1FUzcxSDlfNXBsUHVBeFNuVU9lTm5BY2ZUNHRuZDd0NzBhemhfdldqUUdJV2FGWjhaMW9aYlAtYkMzcFNfdjJMZWJNRlhkbHZpdTBJRnYzVXB3aw?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 17:09:40 GMT",
+      "description": "La prensa en alemán ve una carrera muy ajustada entre Lula y Bolsonaro en las presidenciales de Brasil dw.com",
+      "source": "dw.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "La Guardia Costera de EE. UU. dice que detuvo barcos que transportaban combustible a Cuba",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3NzclpEcHhXTkJPUlcybklfUk9tUmNLcDh0ZEszODdUSzZDcm84dWpHaGxCLUpQZGN3NmtqZjl0YlViX1FqY0ZtOFpEUjBGOTdQWjBwUGNfdTVLbjJnVkNXbGd3MVBQM3dmSUg4a0JGX1B2MWtJT0RpSl8wcUhleTFNY3Rpb1ZJcXBGeTUtSnFHeW5Xd2Fudnlob0Z3QVU3STRFclFIWko?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 16:25:54 GMT",
+      "description": "La Guardia Costera de EE. UU. dice que detuvo barcos que transportaban combustible a Cuba The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "El Congreso de España hunde decretos sobre la crisis de vivienda tras voto en contra de PP, Junts y Vox",
@@ -316,13 +307,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Verificación: Discurso de Delcy Rodríguez en que critica a Trump en asamblea de la ONU es de 2019",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlh4bnpvY3BLUkpOX01Ed3d4WkFtQ1VVUnAzQkZYV280aHVoR0hLeUVtTUh4UGdwYlU4WXZDN2EwbUpCWG9sMWk3R2JuZkV6V0hQeURtN2RYa2toSXZxSVlzOFNSLVJrUjQ0bERkSTI4Q0x3UVJ5ZWk2eEpfRFIteHFxYnh1a1Jr?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 21:40:28 GMT",
-      "description": "Verificación: Discurso de Delcy Rodríguez en que critica a Trump en asamblea de la ONU es de 2019 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQODc0b2FETkJ6YnRXZUFUM0FIZHZKUGhCV0dWcTZOQ1VWZmFKVThKOFRPQ2xpak5DN3BBazZSdjMyeWlNT0hhdEY2TXNBckRWNDdDWTAwZlkza0JWMDBrSHFZdk9wakJYVEwxVTJ1RUs4NXpDYlo0eVd1OTBraFcwT3lXdVBobE9GNldXRC1ickNtQ3RlRVp4Nmo4Y3RLWVRZdVJQblhNQUV1OXJCbGNvQ3M4VEpwMDRpaHFzS2tFeHBDaDFYdnRtRGdGb9IBywFBVV95cUxNaDYxZFlqU244Q0t6VFRlcVFONWs3SUVrZTU5WDZjcE9HbkYybmlRUlVEcnE4YncwakdPRWFiVkJoNl90WEtha2tLdHZhdF81aGlHcGRNRHlIREJFVXF5TlRndzlQSVhuYjlLcVhadEo4em1KSXlsMTdoMk1Nc0REWmppakltRXYxVzlKaUVZdFA1VlhUTnlGYWZUNGVxMlU1NzNIZHNSZTJWMGpzWFVhcnFxUlprdy1mWW1uZ250dnB1ZXZtN1JFWjZ4QQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 10:44:20 GMT",
+      "description": "Herido en pleno vuelo, el piloto de Flydubai logró abrir la cabina y evitar una tragedia dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Capitán indio es aclamado como un héroe tras el ataque en cabina en vuelo de FlyDubai a Israel",
@@ -350,6 +341,15 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "IMF looking to set up Venezuela office, says no programme requested",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN182Yy1vb1hpa2xUcFR3a2NoZ0w0WWRwMmFwWi1xRVhjTUsyV2VvcDJpUTc1X0dmWUhSU2xmZWhxRU53R3N4TGw4WVMtcXdxNjNyR2haaExzcm5VY0NncU9pTXg2aG1vdjdnUlZlZGVVYkdya0w3M01KR1lab0NMMGpLUVdTTG1BTEZfMkZFazB2czZNUDA0UG1ZT19iN2ljMW1uMnBud0gzNW43c09mLUxaZlU?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 15:05:20 GMT",
+      "description": "IMF looking to set up Venezuela office, says no programme requested Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "La primavera ya está aquí. En Chile hasta el desierto de Atacama florece",
@@ -451,15 +451,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "¿De verdad hay que comer 30 plantas diferentes a la semana?",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRLWNjUk1mV0hjQkRwZ3RId3pnQXEtLUk1Z2IxNXdDT1BpdE15RnV6am44UVVfdWJVa212T2c5OWs1cmR0T2pwQVFmSTZHT1ExRUlOcFFtRTVWTnZKMllrVjBRZVhIM2F3ZVBjZ0I5SERaTG93UHZTRUhPZ3pmQQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 09:10:05 GMT",
-      "description": "¿De verdad hay que comer 30 plantas diferentes a la semana? The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Mediadores buscan acuerdo entre EEUU e Irán, pero persisten importantes obstáculos",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzcxM1Z2LTdPc05sRmRmeTRyZzlTeXVuMzhsUS1CZzlNMUZXWk9WOXI1SjlWeWd5UXVHOW15ME9ZeW9zdmZMWlZIUW4xM0NrX2NMcUZ1RDJHRVRBRzVkeFcxM0FOLWJjWk83MVMwemVJZl9fWjVYU2VzMUtON25OVkN3UFpQd1F5M3BOa3lKMXZSUHFFN1E?oc=5",
       "pubDate": "Mon, 28 Sep 2026 21:22:00 GMT",
@@ -482,6 +473,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVnUyVlhKeXpUXy00YWhyTG9VQ3pPeFpuUDdDLTZhaGZhSjQ1ZDJzY3VJbmQ1RExhMDFwbGRkbTNRWmhoMzdBQlk0ZGVyeXd4eEVUb0xXNTVuSHlGd2d1dlZ0SEQyN1lHMkJEOE43bVVScGxrVXpibXhmVUlwNWNMQTRIbmJ1aWpvclNwenNOZXlaRnpXdlE0TlBxdVpkVnZjRlE?oc=5",
       "pubDate": "Mon, 28 Sep 2026 17:06:23 GMT",
       "description": "Los 100 mejores programas de televisión del siglo XXI The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Haz sobremesa como porteño en los bares clásicos de Buenos Aires",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTFRVDNMUGxJYUFwaGlUYVR2Q2lKZ1NOeWx6bUtZOU43ZGZZY0dEVmdqajdJMFp4SmZOc3VGRGZMSnZBbHJuTFF2RGI5QzI4X3NwcEJmUkNHeVp0YWZudzdRMzUzc1d3QXV4SFdmblJIYVBTQUZNSEFkWFFwTVFYYnQ2S2VYS2l4cFNQU0ljTlN2VFpzMWprRnRB?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 08:00:12 GMT",
+      "description": "Haz sobremesa como porteño en los bares clásicos de Buenos Aires The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
