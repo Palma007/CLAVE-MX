@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T09:30:55.871Z",
+  "updatedAt": "2026-10-06T17:29:35.037Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,130 @@
   ],
   "items": [
     {
-      "title": "Jóvenes de EE. UU. venden armas que terminan en manos de los cárteles mexicanos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:08:45 GMT",
-      "description": "Jóvenes de EE. UU. venden armas que terminan en manos de los cárteles mexicanos The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Peste neumónica en Rusia: DW verifica afirmaciones",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZkVvX3JrbWpjY3M4RFRxdjZDai1sTS1SSkNhM25wSVJ5ckRQUkVYYXJyMS0xUElKdEc5WkFISWFLS2swUkhETWxmV2pLenQ0ZkhTVzZwYXo0NTlQQmJuQTUtSkRUbGF0cHdZdm8yVS02LUY2dUlRQ2d4bjdaYVRfZEszRERNQTdwU2JIaHJxbWlMalpBNEFFLVFpd0xYdEtxQnhId2xscm5CSUpYWHfSAa4BQVVfeXFMTS1GOFZuWWgzbkxCSFBlLXYzSXNSRW11b0txYnJwaEdDU25ReHdURVF5LXVTa1ZRVEhZVUxQNVJ1SE5vbEpMeFhlZVdObjl5SWhXTEtRUnd6UlF1MlY2Uy1FanRfczFSN3J2MTBjM0xrb0lERzRfSFltdzhHLWxaZ1F1QnBQY25CdGhtd2pHSUNia3Nkb1FiNVNMR214VHJLbzNqQTQwdXpVRHlqY2F3?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 16:22:14 GMT",
+      "description": "Peste neumónica en Rusia: DW verifica afirmaciones DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Quién es y cuál fue el crimen de Nidal Hasan, el primer militar que será ejecutado en EE.UU. con un pelotón de fusilamiento desde la II Guerra Mundial",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WSFRseGxiS001TWJKYlc5NE45WnBNSDVJN2pxUUpNMzc3a0NqMDV2UUhlajJGWkJhSGYzRnlIWFpJTXV0c3VTejdrY25EMjFGTUNjbmJYTG1zN1l60gFiQVVfeXFMTmU4TE5wdjFwbmNaYklOT09xcThIcGtDWFM2STQ5TG4xWDFMN1RkcDZDUmJUZDVFaXJ4NDhlZjNNZnk2dTB0VzRZVGlObmNMODgzZDBFS0MwYlNzZ0RNSUx1anc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 14:09:41 GMT",
+      "description": "Quién es y cuál fue el crimen de Nidal Hasan, el primer militar que será ejecutado en EE.UU. con un pelotón de fusilamiento desde la II Guerra Mundial BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué son los neutrinos, las \"partículas fantasma\" del universo por las que el belga Francis Halzen ganó el Nobel de Física",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1TGtiVW5tV2pwV2ZZdElBdi1mVjg3Qjh1a0RLbmpCWE8xZUN2TEFRcXA2WWZseTNNVlRFUGM1a0xvTTZpNDRPTzZJU2JsMVBwNU5icW0zbjl0ZzIz0gFiQVVfeXFMT09RRzd6M2UtR2QxbVZITjl2TzViTzl1a2RhX0xLdkNxeTA2UC0zWU9JSmsycTlkZU4ybDBHcHgxb01GSVlaZERaOVNkay0wMGVpUlZnU2MxQzBLOTcxTEZwNHc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 11:49:39 GMT",
+      "description": "Qué son los neutrinos, las \"partículas fantasma\" del universo por las que el belga Francis Halzen ganó el Nobel de Física BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más \"cool\" de América Latina",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QMmxUYzJpbjNkZFVSVzVlZnhmUi1XX001UnMwMExqNDRSRTVCUGRWUmY4T1VCYXhIa0JHLXJQQ1R6OFZZaGdQY29yQ1pDWkdyWlF6STU5aWFxQ0I50gFiQVVfeXFMTk1KSkkwV2tEM3VNTFdqcGQ0X3B0OFJabHFPSnVtcTVNX19rRVhHZ2c3aFZZZVhvbGt4Q1B4N09hRTFxS2VFalFDSk1FaHYyeFRwME96b2Nyd1FBVVFGano3Ync?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 11:39:41 GMT",
+      "description": "Qué tiene Chapinero Alto en Bogotá para que lo hayan elegido como el barrio más \"cool\" de América Latina BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La OMS pide a Rusia información sobre posible caso mortal de peste neumónica en Siberia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRFVhQWhZSnBEYTY0UkdnNlUyWmFybkh5eTJLYzg5eHFia2VRQnBxT1FEdjZrSzlHZWlPR1FQcE9fMFlSdWgwbndLMURIV0FVTHFyeXFNRkVSMGlJQ0haUS1SdDJzZFJITXFBdzVDc1NzclBQWk94VXhJYlB6eFJDd1d4NEw1UUpMMGVzYTc3TUtiTnpLZUpFM1VBRXNLSGp3NlBJWDRsRUczS2dQcnRfenZqOGpnaDFXa0FReG5HQzJUdDMtaHRmQlVR0gHKAUFVX3lxTE1aWVZqZmFmcVNqeHM1QmFCSVM0U1B6UndsbEx3Ym9LbWM1WnBBcnROek5kcm0tRno1UE9IbFdpWV92VnZ6a1FMZl9ZUmxXeTEybEFjXy1DUHRfSWFGN0JNcnF3N2hBeDhsbGxJM3RkcXE3TUZyOVRveU9SZU5Hb2pMOHhWVDFMMkVnbi1nenJtNDItMGU5a1lsbk5pUERDT2FTSTVrcFU1X1NickdPM2RtYjJRYXROSmdYa3g5cEdhUGdab2VzM0NoLVE?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 11:05:57 GMT",
+      "description": "La OMS pide a Rusia información sobre posible caso mortal de peste neumónica en Siberia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "5 ejercicios para proteger tu cuello del estrés y la mala postura",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qY3JXbXlxYXotM0hyS2g5LVpxeVp3WUtRczNkV2xvN3hPU0RCLU1Lc1BMZEVtelJ5cWFrZzUyZHRPLVFrU1Q4cnMtaTBuUTZMTDNHUFFNcklQSmxt?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:49:11 GMT",
+      "description": "5 ejercicios para proteger tu cuello del estrés y la mala postura BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "EE.UU. vigila posible brote de peste pulmonar en Rusia sin despertar alarma",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWkydjRpQmlhSzNHak81NlRNU3FTUlBnblk0WkV4NXRHODZYVFVLaGgyMDRmQ1Y0N1lQcTJPS3FjdEpxamF4M0NJb2tUX0xtR0RzN2o1cUxPSXNaNUJaM2xTRWFjVDBUWFV5MDE1bUpmNHRUUUhJYVU2TU5za0wtT3pFcnZvT25DZmRVV0cxVG9ES2REVm9kUnZMUE0zZVBaYUY2STUwTGpMd9IBqgFBVV95cUxNSFRRZG1LUEloaDBQNmF6V012UjdaZFV3eGQ5VVI5SFY3a1RRVmZCSWYwT3R2MUNmVmQ2eWh6aVBwMUhaeWx1VFpHN1paMzh5YjJ3d2wxVXhLejNZNWdtaWhzejNybEZmN1A2Zjk0SXJiRElZdWdBSHJIdHhhYkF2aTJ0ZloxMEdBb3ZEYkhMV3d3UkFJYnktc0dCdmcwZWlIckVpeVpSUGliQQ?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:45:15 GMT",
+      "description": "EE.UU. vigila posible brote de peste pulmonar en Rusia sin despertar alarma DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNME5mNWI4S1ZzcGRoUDk1R3NETnJ0R2NsRk1hV0pVYUp5cUs4MmhZbm1JNHNNMWhuTVBmM1p2NWl0Vy1LTEJrdVhtOXppM0loSldRS1lWUEZoY1RZR0FCcV9QYnJ1MXRUY2Eza1pkcmpTcUxNdU85bFczLUxDWndRaWdSWHRLSko3a0ZHQ1BVTjUwRnR2OVA0OUI3dDdndDFOWW4wM295OE91X19UZ29fUjhZZDJ3SmdJamlr?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:43:13 GMT",
+      "description": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Trump aprueba la primera ejecución por fusilamiento del Ejército de EE.UU. desde la Segunda Guerra Mundial",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVm9ERnhzQ3AxbDlHdFcxV1hkNDFOTmluenZQWlV2Y3FENy1mSGItRDM1VWdxcVNFR1Y2VGVoMXYzVmNUcGlNanNWRDV3SEhQbDRIZnhfMzFFR0dvUnFEMWprbGFQbDhkQVpycnd2VWpnOE8wcFBpUV9DMEk3ekpHUjBwTHk?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:41:00 GMT",
+      "description": "Trump aprueba la primera ejecución por fusilamiento del Ejército de EE.UU. desde la Segunda Guerra Mundial CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Ocho familias más denuncian la muerte de sus bebés tras contagiarse de una bacteria en un hospital de Guadalajara (México)",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVHJiOEpMM3YxQlhpX2k2Y3phQ3VYLXdJUHBvS25teFhHblFkajFKaDFrSVhZZzdISlprOVljYU5ORHhubGpsSkdZR3RNYm1hV3BVTWJwLW5sSVA3ZTBwVnVkRjZ1UTJjSFZ2N3kzQ2F4NFZsZS1rMmxzNzFqOXZtZ3AwTWZ3YnBTOTAyVGZXYUZTTm5PaGlPc01GX2ZoUEc5VDNQbmxIQm5UVWduVC1zczVHYUIxakRfeldGOGdmLWd3NllvSlVoN1huZXdKRFlqZGhTVlRNMzFWTkdKU0ZEN1JfX0I5NlN1dmFJ0gH_AUFVX3lxTE9VMGN4M0M2aGpyMEE2b1NOa2EyV0gxTVk0RGFrdXU1TnZSaGRtc2lkcjdXRkhGaWNqcUNsWVpHdnN4SUFqZEN3bzhHWkZXcFZXUk5DUzd5SllrSUYzRWhSajJqZWYzX0NyMEVrLWY1MlV0UHpFUVU2dmRXbW5WdXB1cllCWkVSM2xqaUtIUE1VTG9RV0tlWnk3S2hjY19wY1R2NkpSYUt3YnBCQUx2aHFwNkNPeHo4Ymp5S0xNczVVcHBPcmpER05OeWRhNnY2S2oycmp3VkpzczgwQ0IxNUdPa1Y5VENJbHREamtYNGFCNk5Za0lkelF0UWJRUE0yZw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:30:00 GMT",
+      "description": "Ocho familias más denuncian la muerte de sus bebés tras contagiarse de una bacteria en un hospital de Guadalajara (México) EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "México, el reducto de la izquierda en una América Latina que se pliega a la ultraderecha",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjRRVXBtdk5kMFpoNFgyWk5YYW43TGNSanRqZXpfMWdkTmN4eDk3VFhrMUlIT1FJZzdET28wYTFTdmZhSGtqaFFhOTlJWkllN1JOY0N6Z1BJWDJuQnFUN2RGUVJDUjd4OHZiU29vSWdjX19BeEVuQ2plRkZkWU5tWC1URklTU29SWDIzdjhYTlB1QlAxLWZrYm1lUnIzRUlJQW5KeHc4dzZ0QU0weHRXMjlYd0pwMjZrN2NXT0lrdjNkbkpBSE93ZtIB3AFBVV95cUxOX25aRTljSk01dzVlMWZUeHNVZDJFeUNxdmdhT3BoeUNiT091OFE4SnVkVjA1NEdDNkVTWG5oSUtLOE5IbmJsS1cybnB0TDZqRUFhckR0cDF6ZGpfekJNQS1wSXRVVWxtcm0zMXpMYmZXaF9jWDFNSDNTX2lZVnhQZjBScHdwXzJOUjNMZ0FRMzVxcG9COHJQb3EwQ3djWVVwaFBad0RBV0Q4M0ZiaXdPWk9yOU9UOFlaUm1EcTllbE5YNXNjOENhVC0tZVd2MDhnQjRwLTFBak11ek9y?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:30:00 GMT",
+      "description": "México, el reducto de la izquierda en una América Latina que se pliega a la ultraderecha EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Miles de estudiantes se movilizan en Francia con despliegue de fuerte dispositivo policial",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRFI1QXZ4cmdCVVdxN1RIbHV1aXlEWk1oRnFSZmRLZFhtNFhIUlhhclpnenlVRkI0cVZFLWFaVDV0VFgyTHdqaDJlY1pQRGZwQ1dNVDZtVXh2RUR3Z2hwUUpLWWpXaXhZaU1LME5SZC1zNE5yeER4S0VWLXRVLTBGMTdmZmNrc1cyMWNfNGJwSTN4bGhMajJpYm43VjBsVmJYWjJnN2IzS2RXRHE5Vk9BbU1lTFg4bWhi0gG4AUFVX3lxTE5UZmlJbmJ3VDhLMlRxck43a2JmWjFiUmJHcnd0T0RhSzVwcTUxVlQweGowWVBSS2NsZjFrd21SMFdOVXZOSmxUX0tHV19mczlPc0tuNFRXRk1PcGpCUGxEcjBmZlp6T1F1SXJjSDFfc05wMTFYZEg0WGV5RXNOUmtBXzdONkE0WXBBV3VNenVSVzNKUWFJbnhKWW9kRHVYb3NxYWdlWEFDUThZOG1xd1Ewak1SQWEwdHk?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 08:41:39 GMT",
+      "description": "Miles de estudiantes se movilizan en Francia con despliegue de fuerte dispositivo policial DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Protestas estudiantiles sin precedentes sacuden Francia. ¿Por qué están indignados?",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUNwZ2diVktvRGdZVl9fMmFKMklDMUZkaWRla29YMHdYUnZXVV9LSXdrcFVOMWlrRzlqOHcxdzA5Yk1NT2JWM2JYSGVFb0pOV3phNzc2Yk1aaEs1T1M4Mm5YelRfazlyNkFLZGY2WXEwV2tNVjBFdk0taWVxWUpQN2s3dDNyYUZsTFFaLWc4OGlQeGJTNnc?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 07:55:00 GMT",
+      "description": "Protestas estudiantiles sin precedentes sacuden Francia. ¿Por qué están indignados? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La reunión de Johnson y Kuri, un bumerán para Sheinbaum",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdTUzWnN4bVlYd0tnaVJTNm1OTGVFZjBiQW9sdXJ2bGxvOVluU1lfSWowLWE1SlZxVl8wcWFHbFIzS09xV2JJdGd3dTlDWlMyLTRaWDEweW10QTc5NEROME5NUndHbUo1UWJxamw4bzh3UGx2NU5nM19KWExROWM2U3U2UFItdW9Va3BOcGJ1UjhnRHBaZ3h0WWs5c0rSAbABQVVfeXFMTWV3TWNCaGJ6ME52NjE3UGMzcTdBTURzYkhlc1JGZlNUT3h2RlV1YmEyNlZCUlRGSFk5OWFRUmdYLXp1NUlZY2FwdWtiUml4MWNOQlZEN1VXOFpaUVpWemxCbWZtcWc5clJYYnlaUkVLYmx5aGFDZkM5Y1VCVkEyREU3TmM2SjhNa2dDYU1jTmtpUDNfMTlkQXoxdnhPRzNaMlJ1S0xaaXc4V1ZRQW45VWg?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 05:03:10 GMT",
+      "description": "La reunión de Johnson y Kuri, un bumerán para Sheinbaum EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "El presidente español anuncia elecciones anticipadas en noviembre ante la crisis de vivienda",
@@ -82,13 +199,13 @@
       "domain": "apnews.com"
     },
     {
-      "title": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03bjd1RzRHS0pMX0dGZGc4eXV0ZXRZaVpBOC1uTVFTVk1Pb1RlcDdhcmREVnhTNWZCZTUxdXlFQnNmVXVSS1NmNWZGbDhCSk1MeDFyRU5UZGtUWTZ40gFiQVVfeXFMUDBhakNTNXBFa1VXMVd4MGI2aXZtWklwb0NLTUU3YnczcGdsVXExd1hYX25xX0F1UW5Dcm1sN2w5SmxXM1hEWlBlUnRGaG9pbjFYUHNPMWI4SEFLRGtzcGtiWmc?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 03:34:12 GMT",
-      "description": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Las mujeres afectadas por los problemas de suministro de hormonas: “Esto no es un capricho, es una necesidad vital”",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPd1JUSE1OSDRhOWJXTEtMdUdCUFFVd2VyMUVxZ2NrUzhHWXBBVl9iRXhodjlneV91cEtrcVZFZ3F3SFp6czVXVDFPUjZIR3p1RVlhT2dpLUpvN2FZb0Jpa1ZvQ0xKWkFRMDE3VFlWUW45bTBZSUdhR3pobXVSbVFYOHotTllTcjdEbEVVNXJOaGRPOTFNdG11dWhRNl94MjBBSk1nNU84ejRtYzYxaVJUU2J1OFV0ZTdiWlppSV9peDFDRnp6SUlYbENvdUc0Yko3RDBPUWZnSkw0a3gydEdWRHpnTmdFMXJjMXRiamszNjc3SjNDTlFUYjZLOWVOU3gzWjUxWEJ30gGaAkFVX3lxTFA5R0pCZ2xIWmpaV3FUYUV5OGZWXzRPaDVMZkZOdWNwaDRzQ09VRWs3RXNkSDhmUjllZWg3d2ZDWHBZRWFfR1dXenQzUzRGM3RkX0Y3Ui1hbVQxV0dlQ2c3M1NYYmdWSTFzcHd0dDNBcndEZzI4TVZsbUFLd2N0TTNTaFRqYWU2YTFLMFBiTElfVkF1S0ZRWEEtVFFkYVFkLW13VzROMnVhcHM1MUczZEltbktaT3ZiVEVUMGIxTjRYREJ0cFhnMEVOVWx1enJDNFUydG9OMlppRld3UjRaeDMwUVg1YTROS3RVQkltR0ZIV0wyRS1aTl9oR1pKcTg2ckJ4NjhiMmVLRDcwSC1SbGZqbTYzY0pzQ3lIZw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 03:30:01 GMT",
+      "description": "Las mujeres afectadas por los problemas de suministro de hormonas: “Esto no es un capricho, es una necesidad vital” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "La investigación de la BBC que reveló cómo Putin está ampliando su residencia en el mar Negro que apenas visita",
@@ -100,22 +217,13 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81WjdNelhnZ3JzNFhoZHIxMFFuYUM2ZHBRaUlXMmNRMGxtOGFoZHhENE9zcnItVnZJRTcxbGFwcGVSLWpmaHJrem51eGg0YzNhWE1zTXZxMXNHSTJm0gFiQVVfeXFMUFFHMHQ1V0YzSEhnbDRPRWxkM3JPWUoxTzBUU0FFM2VobnNoblF3aGZCbjY0TGo5eVRJTkd1NjlKVml4OVAybnBiTWZ2ZFpDWkJBMlJ0RUkycExnRG1hN1dMdnc?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 03:11:04 GMT",
-      "description": "El Pentágono deja de utilizar las herramientas de IA de Anthropic tras incluir a la empresa en una lista negra, según pudo saber la BBC BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Trump firma un decreto para reducir los precios del diésel",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLWtLaWhBalNFUlpka1A5MW80bVFWLXVGWVBldnRwUktyaVJMOTRJSHR3d3F3WThpdHRZMW1fSjlqUEo1Ym55QUdubjNFbHA1TjVrN194Y3dHZ0cxY0FRajY1amJfdFlNNTN3VFVCM2lIVzF5Vld6aDljRm40TV9tMXNB?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 02:18:00 GMT",
-      "description": "Trump firma un decreto para reducir los precios del diésel CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "No es solo la Presidencia: la derecha se consolida en el Congreso de Brasil y potencia a Bolsonaro",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNHdObmswR1FQV0Q3SWE5OUVwSGF1VjJqdGUxRjIzMUlfY2R2LWtkOEpZek9rYTFVRFBwd0RkeHNHbHBtZkF6eDYzcmxKU1Zzc2pmdWZUS3FEZ24tQnZsN2l0akQ1VGtxUE5GREZ3UW50T0hjVTE3NTgzWE5sZEhKWWJkR2lGd0hSaU9FNTVMUHlKMENrNkMyRWQ3Q3VMWElkdVp2aU0wckl2WXVvM2Rya01tX183Z3gzZ21qZkVvQnVYNV91eGdRWkVybGRkZ2pZNTFWSHYxZC1KN3o2N1M0RDZpUHZkeVo3NkE?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 00:07:54 GMT",
+      "description": "No es solo la Presidencia: la derecha se consolida en el Congreso de Brasil y potencia a Bolsonaro France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
@@ -127,10 +235,19 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wcjBsblRKRjdJZTFtTlRGTElPcHd6ZUF3OUY0SGVFWTItVXpLTXZfZWV3dGpSQ0laRWhCUFBhdkxJUTVOdkRwcUdVU3g5dEZRa2FPZU9sdU1Fdlhf0gFiQVVfeXFMTzJmVUVvdmVtZURlUUxXbTZDYzk4eEZiS0ZzS3F0NWdLMFNOczNSdnB6X0gwb3NDR2huZVFEWUxpVmZHVUZ4Ujl6NlRKVG1hOWwzYTh4VGtBSnkxaUFLWmhobXc?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 22:04:12 GMT",
-      "description": "Por qué Pedro Sánchez decidió convocar elecciones anticipadas en España ahora BBC",
+      "title": "Condenan a cadena perpetua a Caleb Flynn, exconcursante de “American Idol”, por el asesinato de su esposa",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmM3TFZaeG9EbDhUNjVla05BSndHVlpIMjU0UlJ3RXVnSnRka2pLNEp3MzJPZkNkbEFGcDVCTVU4REVZSGJqRGNzSjZtQ0dzRUNoSlBFTVhzUXdQSlVzcVRkMXN6NGd5bkgyX3RuU0toZVRyZGU4QjZ6Zy1EQzFzQUZiUmxVeFJDdG1rX1dqMk5tU1hwT3FZ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 21:48:00 GMT",
+      "description": "Condenan a cadena perpetua a Caleb Flynn, exconcursante de “American Idol”, por el asesinato de su esposa CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Qué se sabe del caso de la científica rusa que falleció en un centro de investigación de la peste en Siberia y que preocupa a EE.UU. y otros países",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03bjd1RzRHS0pMX0dGZGc4eXV0ZXRZaVpBOC1uTVFTVk1Pb1RlcDdhcmREVnhTNWZCZTUxdXlFQnNmVXVSS1NmNWZGbDhCSk1MeDFyRU5UZGtUWTZ40gFiQVVfeXFMUDBhakNTNXBFa1VXMVd4MGI2aXZtWklwb0NLTUU3YnczcGdsVXExd1hYX25xX0F1UW5Dcm1sN2w5SmxXM1hEWlBlUnRGaG9pbjFYUHNPMWI4SEFLRGtzcGtiWmc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 21:23:55 GMT",
+      "description": "Qué se sabe del caso de la científica rusa que falleció en un centro de investigación de la peste en Siberia y que preocupa a EE.UU. y otros países BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -138,7 +255,7 @@
     {
       "title": "Nueva York declara emergencia por casos de sarampión y Pensilvania supera los 1.000 contagios",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2VHR1pUYWhHT2NkaWVmQjB2cHVHRlhzQXBjdlBKa3lXLTVnd3VfSFIwd2ZsZUVwZ1JCMnNscVg2QWhva29DMWNxZUNlWmcwN1NjdDRWREJLWTdPZG1BRS1tcFFoSDVmZGhhay1PdUIzeDJleVhtQkQ0Z25vcVJXd2FISnljU05ZLTVGR0M1clZla1p0Y2NhdExOQ2dBSzNSTmfSAaIBQVVfeXFMUGdSdENjSFQ2bUc2MjRzS1VlT2ZBVFdSX2ZVaGxzWEJDM3VzUVpzbTZnYV9IelhVcmNCdm9ZT085UVNfOEpsa2xEQjU0dmRDR0RXaENjY1JncER1Ui03VXVwRWhPaHZpT0IwTDlrbGdkRkJPc1VMaTZ1b3JXSmRIY25uMm42aWVWOWhoUjlBWnlJN2QtTllpd0NrRFJtd2lIcjFn?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 21:58:47 GMT",
+      "pubDate": "Mon, 05 Oct 2026 21:23:38 GMT",
       "description": "Nueva York declara emergencia por casos de sarampión y Pensilvania supera los 1.000 contagios DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -154,28 +271,28 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Identifican una nueva especie de pingüino por primera vez en más de 100 años",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OaEFZNzJBb2YwN1lWTXR3OTg0VWkwQ2ZRQVM5eXAzUmtLNklZMnB0OUFwMktjOEFteGNkMFZEYjBtbjBES3dsZGl0aUZQMEhUeEdRLWdEQm1BWlR40gFiQVVfeXFMTnJZcU8zNnBRMHZyTFNybmo1VkdkWk1OcjVLVDREdndheFM3NGl2eWQ1UEVzSlBOaHJfV2JwRkhXdlpfeFltb21mNHNZeWtiY1F4TE1IejlRcElrZmRXdHg0bFE?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 20:13:35 GMT",
-      "description": "Identifican una nueva especie de pingüino por primera vez en más de 100 años BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Arrestan en Estados Unidos a una presunta espía de China",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVC1CcmhSSjFDbHBnb18wUXVPRGJlaDZfbE5SWWFTbUlLTVFfSm5yeVFkMUNtQ05HSkVJWE1kc1lpRlNPam85OUl2REYwNEdGdThSX3VZUzZwazhvNW5jMlREdEUtbGhPZDlWbXBmblM2bmpDWDJEYU5wU0Zrbi1RUEpCMVdDUktDS05QQXRHdGtNVUY3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 19:21:09 GMT",
-      "description": "Arrestan en Estados Unidos a una presunta espía de China CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMlRadmRTQndWY0REZjhtRGp0SVFJQ25zOFRyR3FGWjFKOEQyaWdjTmNidUNUOGNFQ3JsRjhWb0dlR2FxaWd2MllmM2I1cC0zeGNwei11aWUzamdTeGtJQmp4bHRldGNtcm5IRTlZOEVtX1NJQ1lRdWNLUjlDeTJMZXZmVEVzSDZqeEZyVHVmUnBJY3VadUVfdjJ1RlRpLS1HUGVwWEZsRkxCZHpaSWtvSExsOGRiaFJES0FTdEh4Ujh0QVRmRXZxaVRoTEU1X1dzci0taktXTFMtWGlheW1URmhOVU9Od9IB5gFBVV95cUxNNlNxY2pmSTdkZ2hheHFZUjdRY1RNTExuX3JWekdpa2ROajZwNWhXMHZ6UE5qWmM3Rks1cC1OLVRRU0hHeV9PS2JJVVFOYmZGTjkwOUhJeGJseWFMRlFJMDdySjhJS0pIZHdqaTN3b3drY29YTmxQckZRbUdWNzgtcVltX2pleHY0V3lOdjhPdDVuWVdDbklwNUdlZUZETHU3Z0N3d2dLbGQ1SXF6MWl3eHVLVWZKSnBvUWNNM0Q3cTJXbHV0ME9vLXVMOTRaYS01ZmxQLXdjaTVQcWMzQmgxSEs5d0pYdw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 21:15:45 GMT",
+      "description": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "¿Qué es la peste neumónica y qué tan peligrosa es?",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtd1cwS2ZYRVlGZkFIYjZFQ1RNRlBhOGltMFJNVk9JMXdJVXBEVW1PQVdITGxhUXdRcy0wTmZFUkU0ck9DZ2gwaVpNUktsQUlSRTVQTWxQc0lrTW91czBZam9ZSk9GZ3JkZUhnUkdEMURVc2VkRUZxdm4wMA?oc=5",
       "pubDate": "Mon, 05 Oct 2026 19:18:00 GMT",
       "description": "¿Qué es la peste neumónica y qué tan peligrosa es? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Detectan por primera vez pruebas de un planeta de segunda generación alrededor de una estrella muerta",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90QXd0WGVhVGFUelc0aVJXWnlMRC01dzd3NjhUdHM2eXFJLUVWcURTUUR4X1BzYklScG13TVA1ZzdEVEtraTAtOVRUZ2h3c3F6VUlSZ3lFMUpXODFsWHg5Rk9zTk9obnhleXlta0ItVTA0a1JqQXdFcXowOC1FeE0?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:55:00 GMT",
+      "description": "Detectan por primera vez pruebas de un planeta de segunda generación alrededor de una estrella muerta CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -190,67 +307,31 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Morena postulará a Andrea Chávez a la presidencia municipal de Ciudad Juárez",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSHVjRHluajNPZlhpbTNyU1NYRlVScGZ4VW83cjRZOE9JODRhdW03U0tlMkM3R1dsVFBhUFI0UFlOU3dHSTJQUWg1S0J2aVl4YUZBbFF0OVV0LXdscFJwcWRMdVlwWDJoVVNvZXhmd3FuN0dBUG9reGNaT1B5VFpOVm1GQkM5eXVxNjJVZ1lPaXRZVE55MnNrT2JHRUJycXBUVWxoQnVLclVaRTFwbGpYR0tFLWdZeVNNbmfSAc4BQVVfeXFMT1YtXy1kQkR2RU5iaXVFOUtlZk1uNENEbjRGZzlMSjh4Ui1rZmVtODlJSEFub0x1R2NXNlZUSUpZOGE4ejlfcGdSRDlNN25QellGMkFNbkV0RjBLV00yaUNTeHFjNEcxenVPSWRjREpuRVNIenBuazhkaHotTkJhT3Z3aVhvTkU2Z3lnSDY2SXZ6QVdZeVc2eHEycUw0SXVYLW1yS1BSb0M3dm1LZ082WkpaS1U5ZW1fSlZQMnZCTGhGYUtObWE1SG5IVENHdWc?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 18:01:17 GMT",
-      "description": "Morena postulará a Andrea Chávez a la presidencia municipal de Ciudad Juárez elpais.com",
-      "source": "elpais.com",
+      "title": "Qué se sabe de la alerta sanitaria por peste tras la muerte de una trabajadora de un laboratorio en Rusia",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS1IwU3ZyOEFjckNIYUtnLXh6Y2Z3UUpudkZJZFVXSW1zZFRQZ0NmZTR6dXpnOVRHbC1JZUhpTEJqZG1ZWk5JUEUyakNnckh5di1ZNlpsUFNwQThSUUNoUmRnY3hFaktmV1h3U1hvWXZGVTBSeWdPVTZ5YVdnZjFmc0ljdWtVWERrLXBUWnhSMk9Bc3FoT0NTel9oOUsxSVd4cnhFb2dlRWRmamJUUlV6WThURUppaHVORTdjSElqdmFmc0xhRFR0dWNlQTBUX0ljMWFmZmdmZ2dKZkxtVG12bVphc9IB9wFBVV95cUxPVTFWOEpOM0dDRjVqajFFbXpGSVdIbXBwU2pDak5kOTdVd093MFNVOFBfcFllUVVLYVdqazZDTFl4WDY2TzVibjNDSFVsc0pYNDRKRE56TXR5c18xcWE3WWV5em1OcWVGWG9fcVdVSUtZcEFnZDVacENHS1NhSkNWQmh2Q3ZESklUOU5qcjB1bkpNT29jeGN6SEFxT25XZmNEcnpYV3hrbFRXVDNmdTh4S0tWWWVWMC1aMnZPaWVfeFFBMmZ2Q0JDclNpMzJjNmNwOGhhclpkNkdhSkNkZUItazZsREJKdHhIaGRMRVZTa3NmZnNYN184?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 16:20:53 GMT",
+      "description": "Qué se sabe de la alerta sanitaria por peste tras la muerte de una trabajadora de un laboratorio en Rusia EL PAÍS",
+      "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "\"¡Otra vez no!\": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNEp5TklKQlBOU1FaMUVmd3c1T0JhNGtDWjF5SDZnSFhOU0xkRHdCcFdzQk9hWlhYUVpmX2VfekFOemRmTy05YU5Vc00wZjBocUtEa0RBZ2pZWFlG0gFiQVVfeXFMUEVCdjBVTHlGNXRkeTNUbVpRNl9yZ2FTZ1dxaVJhQXh2YjA2VzhkclR6X1pobC1scU8zekJ2c1BGUWdfaDBYQk9BU1Joc2pHNGE0YXR4RXVTVy1jdHl1VXNDMVE?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 16:46:34 GMT",
-      "description": "\"¡Otra vez no!\": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Sheinbaum reclama al Gobierno de Querétaro y al embajador Ronald Johnson por una academia policial sin autorización federal",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUnN0dU15STQwUmRQSHJHSllXMnJkSDFmaUE2UzVhNWpOS0RCWk00WVQtaHQxc2Rkbmk0WGpWbWtHMmo5UnEwMUlUWTZzdkJnYmRzb05kazQwLThEMzlEQnQ3dzlicC1yMXNxdmNkRE04eG03TmVoSzJRelZ5TlRrc1ByZExERy1Hd0taaU1uLXRsV18xVUZvLU5UWExINzJPVnctU1ZXcEFMQzg2TzZ6SFF1TVJiNDZCMFE2aS1Uc0ZaVG40ZVp4dFNSUDNFdmxTRFFPckZRZFdtbnE3WDhuNTYxN0FaeG5CYzN3LWtYVlVwaEdRaGcxctIBjAJBVV95cUxQLWVHRXdhZkdHWDM3a1BzalRMbGZlNjZ1R21Gb0ZPMjBmTE5mUUNFdVJrYjJuZXdnZ18yUUJHODNWMWZBMXFmaDJtaWlBd0FPWTJlcjBKWXUzZjlEWkN4NkZ4bjRfNmhnbE90d20wWkpHN1JBOWpNUHpqYzZDeUtCLWpJUTA4WlZXa0hhSlUxeTRLWXNFZWNxNk5neTd1dEFoVURuZE1vTFJzYmFfWWFkMFBmZ1p6OXJJb0YtQmdvbkplaVNKdmRfcUFUSENIRWRYM2JjRVBEZE1xWGZGLVEya05YNVZNdTYzTFgtU0RnLVpzc09iVWpVV1RSblp2a21ZMGZLbmd1OVYtRTZl?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 16:11:30 GMT",
-      "description": "Sheinbaum reclama al Gobierno de Querétaro y al embajador Ronald Johnson por una academia policial sin autorización federal elpais.com",
-      "source": "elpais.com",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Sheinbaum advierte de la intención de la derecha internacional de interferir en las elecciones presidenciales de México",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaVk0QmRlVmxRWksxNGNwbkxwYjQ4UUdTdEtIQVFjVjhhdTlnTnFQRTB6RlNHYkt4YlpvTlZ3UkVjNmtjMzJ2WnR2cldnOGU0TVphRWFaVDNXTXBOTWpadkdTazRjbTkxdTY0cnEtQTItUVpma2lUX3pHWmw3MHdfT3JnSE5mR2dRSmkxN09WekNwN21xcFc5RVhrd3FELVBjNVNDdkF2VEFXWDlaT2NuWVdZS2t4QVdoLTBqLUVSVS1FTzcwdlNuUkpJTGk0M2dmN0FKd01IQXRKQkNIS1kwRTZTODBGNHhZV3FKQ1d6azZ1R1nSAYcCQVVfeXFMTW10V2x2ZEtqMFNDcXk1Tm5GU1lKNHMzbXE4YWU5LUVSYmRuV0tHQXNyb3NzT2tjX0VwMGFsLXhfcHFCNWxBYlRyMU90Ui1tNzdsaDNpQ3NBZjBvNndleEZEeFdRR3JMaGNlNXo5TUx6djVfWGdHWmNvQk94TFRtUjJCRkRnVjhWMm9PVGN0eHBlN19NamstVDdqZGNrbzVtcGN3VjFrSldOU3hpUUdvVWVHTjI5LWVJcHVDRmd4U1lxcmZzR1RCblFDTzdpTXRVeElrb2daU2JoZ0t4Q2Znc1hQeFVPLW14bTBiVEdnVkwwX3htS1pELXNMY2lnRzJ5U2F6azdjbHM?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 15:50:02 GMT",
-      "description": "Sheinbaum advierte de la intención de la derecha internacional de interferir en las elecciones presidenciales de México elpais.com",
-      "source": "elpais.com",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMlRadmRTQndWY0REZjhtRGp0SVFJQ25zOFRyR3FGWjFKOEQyaWdjTmNidUNUOGNFQ3JsRjhWb0dlR2FxaWd2MllmM2I1cC0zeGNwei11aWUzamdTeGtJQmp4bHRldGNtcm5IRTlZOEVtX1NJQ1lRdWNLUjlDeTJMZXZmVEVzSDZqeEZyVHVmUnBJY3VadUVfdjJ1RlRpLS1HUGVwWEZsRkxCZHpaSWtvSExsOGRiaFJES0FTdEh4Ujh0QVRmRXZxaVRoTEU1X1dzci0taktXTFMtWGlheW1URmhOVU9Od9IB5gFBVV95cUxNNlNxY2pmSTdkZ2hheHFZUjdRY1RNTExuX3JWekdpa2ROajZwNWhXMHZ6UE5qWmM3Rks1cC1OLVRRU0hHeV9PS2JJVVFOYmZGTjkwOUhJeGJseWFMRlFJMDdySjhJS0pIZHdqaTN3b3drY29YTmxQckZRbUdWNzgtcVltX2pleHY0V3lOdjhPdDVuWVdDbklwNUdlZUZETHU3Z0N3d2dLbGQ1SXF6MWl3eHVLVWZKSnBvUWNNM0Q3cTJXbHV0ME9vLXVMOTRaYS01ZmxQLXdjaTVQcWMzQmgxSEs5d0pYdw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:16:28 GMT",
-      "description": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Más de 400 colegios bloqueados en Francia en la segunda semana de protestas estudiantiles",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnB2NVN6V0FpekdwemNxakhWNkJNU240QkdaS2NMeWVIcDlLVE53WWloczh2aEtYNmtHLVNwVFpnSjgwRWp0M0xYTU5Kc084Q3VtRXdTdVdUejQ5b0hRdGZBR0VhUjlTdHFUTWE0NUxaeEptbG8ydjNiMVJXYXpGRXVPS0dIdVhqaldvLXJITmdmRGVSQy11TkRJSGtCTnlSTnhrZWZIYXEwcFZYeGxZSTlqMnJzemlOQjlUY3k4amdoQlVHd0k5MmlVQVo1S0FWeDJYcg?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:50:38 GMT",
-      "description": "Más de 400 colegios bloqueados en Francia en la segunda semana de protestas estudiantiles France 24",
+      "title": "\"Solo faltan días para el rescate Brasil\": Bolsonaro celebra la victoria sobre Lula",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMDEyZE81SWdMNFk0bnN4MHNURHRTOUV0dkVhQnBfdVYyQ3BCLTNxM1czZmY0eUZNZ0lvd3E3cXhqRVBINFBMcDBsMVVKekd1NHF4OW1FcG9vQ1B1cWJHVGRRd19ZVmx1bG9mYXZEQWk0S0d2YXI1SV9yQmhDcXBlenFyMEFMMzB3bV80N2ZUQ05VSW9uS1p0MFpuR042VFhLNFBHckZHNnFTZE9uaHotYV92UFNCcFNiYm11QzRHSzZOVkdTZV9vX3dwQmpnSnhvdXpKQnJnYU92UQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 16:10:56 GMT",
+      "description": "\"Solo faltan días para el rescate Brasil\": Bolsonaro celebra la victoria sobre Lula France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
     {
-      "title": "Investigadora de laboratorio ruso especializado en la peste muere por infección “desconocida”: hay decenas en cuarentena",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMW5DWmFQaVU3VlBUdEdrbHlwcjd1aGdVWWo5S2E5b1NSLWktV1dDVjc4Wkk3VDVmdUFjY3VXZk5KTjVhcUg1RzNkRlRPallOTER0NFBUMHZMVDZoLTNiY04wNHN0SGozX2IyUl9MbFpxTUNwdTl2SmpwNFdrUDFXUGIzZFZKa29zcE5lZ1RMdVJsakUyVHl3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 13:38:00 GMT",
-      "description": "Investigadora de laboratorio ruso especializado en la peste muere por infección “desconocida”: hay decenas en cuarentena CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Sheinbaum advierte de la intención de la derecha internacional de interferir en las elecciones presidenciales de México",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaVk0QmRlVmxRWksxNGNwbkxwYjQ4UUdTdEtIQVFjVjhhdTlnTnFQRTB6RlNHYkt4YlpvTlZ3UkVjNmtjMzJ2WnR2cldnOGU0TVphRWFaVDNXTXBOTWpadkdTazRjbTkxdTY0cnEtQTItUVpma2lUX3pHWmw3MHdfT3JnSE5mR2dRSmkxN09WekNwN21xcFc5RVhrd3FELVBjNVNDdkF2VEFXWDlaT2NuWVdZS2t4QVdoLTBqLUVSVS1FTzcwdlNuUkpJTGk0M2dmN0FKd01IQXRKQkNIS1kwRTZTODBGNHhZV3FKQ1d6azZ1R1nSAYcCQVVfeXFMTW10V2x2ZEtqMFNDcXk1Tm5GU1lKNHMzbXE4YWU5LUVSYmRuV0tHQXNyb3NzT2tjX0VwMGFsLXhfcHFCNWxBYlRyMU90Ui1tNzdsaDNpQ3NBZjBvNndleEZEeFdRR3JMaGNlNXo5TUx6djVfWGdHWmNvQk94TFRtUjJCRkRnVjhWMm9PVGN0eHBlN19NamstVDdqZGNrbzVtcGN3VjFrSldOU3hpUUdvVWVHTjI5LWVJcHVDRmd4U1lxcmZzR1RCblFDTzdpTXRVeElrb2daU2JoZ0t4Q2Znc1hQeFVPLW14bTBiVEdnVkwwX3htS1pELXNMY2lnRzJ5U2F6azdjbHM?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 15:50:02 GMT",
+      "description": "Sheinbaum advierte de la intención de la derecha internacional de interferir en las elecciones presidenciales de México EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Otorgan el Premio Nobel de Medicina a tres científicos por una técnica que ayuda a descifrar los misterios del cerebro",
@@ -273,74 +354,29 @@
     {
       "title": "Baker Hughes signs agreements to expand Venezuela gas infrastructure",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODZwRnlLSm5GQ3dRbmFhUVozQUJvbWxRek5Xc2R1WlVyWmp2ZGZlNVpxeGRvZUNoVFRmeWlESnFUWlB3N2dfQ01wdFJyb1pFNGRveHJmZm9UWDYxUFBpOFdzV3oxMXRqdmZTOFl0Y3NPVGV6ZFBxd0tRLWFqNGZyYk5aU0FfeXdQa2FRTjRkVHgwUzk2VjFmRE1Ob0FhMlFkdFFERXBLRDFQX05tTnV3UXUxVXVlS1da?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 12:07:39 GMT",
+      "pubDate": "Mon, 05 Oct 2026 12:02:00 GMT",
       "description": "Baker Hughes signs agreements to expand Venezuela gas infrastructure Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
     },
     {
-      "title": "Jugárselo todo",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdDZfSjFqUW5uSXphUU0zY21ydVdwZmdreUVRRE9ROURfU1Z2RVYxaU8tMEFLcXlqMkRESzVUU0hodjN2eThDWFk3Q2V6ZHlnRzJzQjRDRXh3WWxVSU10VG5uT1pRbzB30gF8QVVfeXFMTzRsSl9GbkcxdWZsV0dhM2E1N1pxY0Vfa0JLRW1XeGdrU1lZbHlMWUQ5Z24zcUtDckdrUG8zeUJmYTUyOXg2VU1uU3hZbnVPYmFrZ0doZnRHMi1RRk9aQ2pGUGJPSjEwSkd0b2NMaU1oNDhmUklQOVdyRVFNVg?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 09:28:22 GMT",
-      "description": "Jugárselo todo elpais.com",
-      "source": "elpais.com",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "El Nobel de Medicina premia a 3 científicos por investigar la actividad cerebral",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnhLZXVzWGNUSVVWWXNRU3NIdVo4OV9GaUExSGtuWGJfaTd0d1Z4U0N4a1VwY3hSZGIwa05YN1g1MzZzQVZSS013NktFYmhZd3pvQlZrNEMxQzJUVmNtYnBnZEREblBVWF9ja252Qm5hOUZoR3VpNUY2WXZoRXZ2N2hjaXU2N1d6U3RHajE5TllPb0NRUXNGanRnY0dyb204anhMWWpsajRXbks2?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 11:28:00 GMT",
+      "description": "El Nobel de Medicina premia a 3 científicos por investigar la actividad cerebral AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
-      "title": "Los jesuitas expulsan del sacerdocio a un pederasta que abusó de menores en España y Bolivia a lo largo de 30 años",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTlJYT3pxbVZXcTBTVkkxa2VRbEJleG56UG9tSXUzbHpzWGIxZlU1ZVBOZlg0S0NBaFdxcmhyOWRtVEtiMnBSVmRDNkRPMnRtNThPVEVqbURmQ0laMXJfZjdsRTNoNldJcm9TaUNuS1FpMTV6Mkp0RlRGc3J1SzYxNHFCUC1HZE4yRHlQV2U0ZHBKOGFDNXlZUkVrdVBsT1g2aVUtVHhYU2x0M0phUUFLXzEzTlJER3B3R2VSdEU1VlBGME5WUHhuWGVSTm9WRXhpaVNGWUdhWm4wakNjX0hjTmVoZlF0LVVGNGJLT3NR0gGCAkFVX3lxTFB5R3JpN0JNcm9OQl9EbEUzaFViX1FKYlJUUklpczB1a2FIY0dDVkdpNVJaa0s0RVpqSVBfTFhldGF5VDUxWmFseDJuMTl2dnRpU0hJZTVmdEhicEZJeW9UNm4teUg1dnBPSXR0b25mZVBHRVFfWkQ3NTd1OGhJdWtRdkhNbWwteU9iOF8zd01idmd3MTZIZHVraFplOTJMZnRGZDlKVlB5Qmt6NUdwTVEyMFotejVtU2xDWXVpTnlKUnhlZm9aVGtQUnVrUXhKUmNBVWZKeThwdFJBWHZ1bUNabDY4bVEtVmdpZEhKMG1ha0JNOE1JTWtIMDlTeVhwSnNTdw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 09:06:10 GMT",
-      "description": "Los jesuitas expulsan del sacerdocio a un pederasta que abusó de menores en España y Bolivia a lo largo de 30 años elpais.com",
-      "source": "elpais.com",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Elon Musk cumple la orden de Trump: SpaceXAI acogerá la “Superinteligencia” en su nombre",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWNybm0xN1lJRXVLd0RJc2w5X05zQklIbHNQdkFXYUZhcFdXTmZjbWNieDAteE5XWUl5UXAwWjRqUkFPX2Q4Qm5BbkxjX1BWX1pnOGFiRG0ydGZjZnJHWlE0RktlVDZRZEpqNDVxWUR6T1diQUNTQ3Q3a1R3aXlEaW96SVJURHlSSnlNSlZ4VU16YzAwT3U4NEpON2dWT3dSY1R2Y000SmJfOE0xN1BiZU1hZzI1UUhWdENDai1lRDgxZTZidUdYdtIB3AFBVV95cUxNTU9wRHUxeGQ1UktoNEJtc3NYTWJ0WjBpSFdTVmtMQVN2emk4bTRKN2ZEaTFZclVEVXRCLUpXNkZhUUl5NVZQNFZNUjg2aVBZaXRXdlU0TWtnV2RNNm5FMlhwYXhuaHBGc1BFQ3YyMVJiRWM5aGhuS0pGc3MtTW5TRzZpUFBCSnBGZlEyVWtOQW1XY2FZQkVIazViOVpMak8yT202a0VnU3VUOWtnNHAxc2VuUTdEMmg5Z0I2ZzZ6a0ZXZllHTXg1SzhlY2pjTlhVWDUyUFEybFVHenph?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:48:00 GMT",
-      "description": "Elon Musk cumple la orden de Trump: SpaceXAI acogerá la “Superinteligencia” en su nombre elpais.com",
-      "source": "elpais.com",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSHdwMkJ4Sy1Hc1NFcEUtQjlyWnB6c3VBeUxuaktRMkhsNGZxVDR2LVFPS0FZMGsyVy1NWnlhVXNMbHctZHZlaWNGUnRlZ0xNNkhCMTM2UEhoWmVmWFQ3c3c3Y2xTMjVGdThYWWdNTUUxcEJrMmNuRkxrRTIyeDBrVkozTGFWU3Z6NHU1aVUzT1k5VWw0QXdjMWd6RXVVNHJyekxZU0swYWs3Y3N1a2tkNHRONFhyMXF2QldvbVB1ak9OcnpkLVo4cFVCMTlveXBuNWZN0gHTAUFVX3lxTE8yeHU5eE52ZEJMWWtoQ0t6bVE4MVVOakFYeTRYMmZreEtOSl90eGxGMlFNMXRBOFpLbHQ3MFJBV1ZfWFQ5YlpfQWtwdXNNaVhveFBEdWVjdTZJcW9WWGlYclE5T3NlTmlpZldvTUxNU0c3QzMtLVkxRjVjX2ZSaXlITklLRFlWNnhKbWV3cTZUMk1sSE9yV3ZqWjF6ZndBTlBqM1NHUzY4V25NSlF3YWRkNXhtUE5URzV4emhiV1VBbmZQelhXZVV6SE55elJ4cElidDA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:40:14 GMT",
-      "description": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUXFiNHM3eE0tclM2QUNSZTNVODU5MEF4T0dNX010Nmtmdk1OU1FlaGYwZGRJWmFDUFp4MVhXZ0JaV0VHR2VHTmRISWdfU2xiMHhEaGNybnd0T0xvU1hac2FLazhyM2JaXzNLQ0lDS3d5UHAybDhJeUxNNjFMOEZUS3dYNE94aFBwSlA1MldkQ2JybkNqNTduQTE1TkhucDQ4dHdrWTJmejZ6Qm92eDFudWNMUWIxWHdSenlKZUtOYUd0S0tZaUNpVF9VQUdTaUNNN0lnVy1YR044cmpueVhhdQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:36:12 GMT",
-      "description": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Pedro Sánchez anuncia la disolución del Parlamento español y convoca a elecciones generales anticipadas",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMzBKUVN6eml5TEVnTjJDanFxMHM1eVJtYW5VbEVUSUhuaWlaVjBkN1YxcTliSXZZZmI3ZURSUmZEendzZUZ3Q0pMSlgxSjVVUGZYRlE4ZkpNQ2Q5OG1iT1F4VGh5LW5uMjFlOG9PbDlFZUdSUHhzTHN3ZUpZRGtJMExST2lOSTBuUUhacTg1Yi1CT1pWclpNODh3?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 07:27:00 GMT",
-      "description": "Pedro Sánchez anuncia la disolución del Parlamento español y convoca a elecciones generales anticipadas CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "México y EE.UU. realizan “operación espejo” en su frontera",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMExqNWVrTjdhSjVkeHNnQ3dVLVhSeUVqLUVnRFd2Q3lEWklQNUN2V3FGOWtHZzR0TUcySTI5NUUwcUI5SjluMzNTR0J6RkFVTUtPYWNZb05LZ0xXMk4tNUQtSnlhMmptWFRXUW1GM1ZCVGpXN1RpZnhkc015SzJncWYzVWhtLW5IYjlXU2hGZEtpR2JJYklGSkp1SFJkd9IBngFBVV95cUxQeEowdkZOVFFLdElFX1MzNkVEQjdmMEUzZWxwTmlqQ2lab2I5MHlzdDZiMUNFOGdDVy1rSEVmdDNrSjBYX3F4eElkZTJHbFFjUVdPaUY2TU1YRm16QkdQVmhqZnNoWWxydlRzNDNCUzJ1V082S3VWeE5DdWQ2RGJ2ZlpzS05kYzdWV2VDS0kzWlNsalhjcXVsdnluZ2k3Zw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 03:20:03 GMT",
-      "description": "México y EE.UU. realizan “operación espejo” en su frontera DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "description": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta",
@@ -361,24 +397,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Christa Pike no ha recuperado la conciencia tras fallida ejecución, dice su abogado",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmdrRjlobW4xY0xGTE9STW9ReFJ6WEloRWxFZEhLZjZtT2tnTEMtTjZnLWxwSzdDWXZDbUREeTlvWVVvc213VXFBMUtyRE9kcWRiTzVWbUtXYWZaNkJUejdvRkREdDZCZXN3N2N3UkNfeEFPUVhEREswVmN4NTRMS1ZtMnM0U2ctNGl4TlV3QmpXRmk0TndQYUR5WHlLWWtlYnc?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 18:22:00 GMT",
-      "description": "Christa Pike no ha recuperado la conciencia tras fallida ejecución, dice su abogado AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Mundial de Tejo 2026: India se lleva el triunfo y deja a la anfitriona Colombia sin el título",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNT3ZJOTc0bzk2RDZHNzJYTEhoX3lTZWxVUmRlbnpOQjlxanBJRnNSSFZtbFU1Q0c1dkVfM2dNZmgyMXpfbE44MUR3UW5JRDJ6UlRQa3VCdUdWWFRLUnBUeUFHY2JJaFFhZ3otWWN1SllMX0pwVi1hM0YyXzliMDgtbmxHN1Q2M3ZhM0tKaTZpYXRFWG12RE55OFMyRUh5U2IwY0xnYmt6aTVhWDRxdGIzR0hTZjFJSEt6emJSTEN2dm1Ga2dXN21xdENXM3BPWlFSWWxVamJGSQ?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 17:09:12 GMT",
-      "description": "Mundial de Tejo 2026: India se lleva el triunfo y deja a la anfitriona Colombia sin el título France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Lula tras la primera vuelta: \"Es un resultado inesperado\"; Bolsonaro defiende que \"Brasil quiere cambio\"",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1dheUM5am9CcEdwckk1cXZFemI1Q01qWjJGOXRXbWhFeDdRM1B0SDZtYzdZMVNJbVBYTE5YTzZFVkh2WU9iRkUtWXNXTVlHTU5QNE5uc2hLUlpBc3lkNU9QdlJCZWJOSHRIQVh6SHhRdndCejRsQ2tQTFNlTW41ZXUzQko0bEJNbDhTaHVjaXNVcUZoUWtqeWJZSHBlWnczSEE3ZGNvbUpqOWJZV2duUGFGQkNWc3N5ZmM3NzJqY2JGamF3Q3dWMnhyd1NHd2YtSERr?oc=5",
       "pubDate": "Sun, 04 Oct 2026 11:49:59 GMT",
@@ -397,15 +415,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Lula y Bolsonaro a balotaje por la presidencia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2Ytbkl0UndManNKTF9fRW84NjdwcVhXVlRRUlF0RlVaV1ZIdHNicjFzSXVMaDRCME9kdTNfNEZ0OW9hUjlPc1BFcFI4VWloNDdyb0ZxQk0wWmJwcUU5aGZMM3J1NUdfR0ozbXA2SlZ6TVl6RG5yd204c1lLdjdmZHNsQi1NTjJwd09Sa2hpMFN1eE80bkZz?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 07:33:15 GMT",
-      "description": "Lula y Bolsonaro a balotaje por la presidencia de Brasil DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "¿Quiénes son los pilotos que salvaron al avión de FlyDubai?",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjdUVnA2NjAxUzMyZExDUThaZkRMVjVRbTFlbm10Zy1nYW0tdHhMMjg5MlJydW43WHBEakl0alFfdnlaTFpWQmpnUkNzSzZsUGY2VTZyWHBoLU5BR1dXSXdBZWFMQnZmV3hhWWpITTlFMmRHdjNCRDZZQUFEMlpYOHloamFDeXJyNS1HOHpPMW1fYVdMbml2QktOVHZLLXNaSllBa3VOZnRSdnZzQUtmNFpQUGl1eklaRkdwbDlObGhzRUl0Zkt5enFpMmxuSjU3NUhndnBB?oc=5",
       "pubDate": "Sat, 03 Oct 2026 15:19:00 GMT",
@@ -415,13 +424,13 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Verificación: Video de objeto en el cielo no muestra ataque hutí sobre La Meca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1EyTUtZREQtYlNwQlpwanhqdm1udDZjdHRpUF9IZUFyZWp0Mkl6dVZCMzFJSjM2S2Rtenl5OVRuUV9GMFA1b2R0bGZ1bGZfNWRzZDNwX0k5LWw4TjNiOTFwODZ1ZUswcFluOWFOSVpyenFVQ2pMMFFQSkJEWGY5ZDZHRl85UVJn?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 14:07:20 GMT",
-      "description": "Verificación: Video de objeto en el cielo no muestra ataque hutí sobre La Meca Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "El Reino Unido y Francia abandonan histórico acuerdo migratorio",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZm1Pd2pSRlJRQ183bmpQdDBkOURfdm1FVnlQbnY2TFE4a1lKQW5TeGdWVUJ6bDdpcDZoRFU0ZjZDQzFxbzdOTno5Z3UyWkZzcW0xdFBja2NXRWk5THBETXRrSi00Ymlfa09mT0hOYkViVy1BS25PZ0hiaGpPdEhTVmRPWnpENlZuekhncElLUWJCS3NWYTNHeWZfTQ?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 04:01:19 GMT",
+      "description": "El Reino Unido y Francia abandonan histórico acuerdo migratorio The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Venezuela's oil exports down in September amid high freight rates, data show",
@@ -467,15 +476,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejR3R0IzcGxsZUN0bnRrTWZ6ZUxXZ29EaG9xSVV0MHFmLXpXWGRaUjZ2Ry1qZmlCenAzbHBpRFNWSmdzMzVxMHBHenNhdGVHYW9jVWM4aV9TUGN2WTllVHlBVjdBaXlTcUdiZWZsVEdueWZGTzROYlRrSDFqTEd0NG1WcTd5Ti1ycFVNSw?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 17:11:30 GMT",
-      "description": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "¿Un nuevo auge petrolero en Argentina puede salvar su economía?",
