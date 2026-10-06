@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T19:50:08.861Z",
+  "updatedAt": "2026-10-06T01:34:40.377Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,19 +64,28 @@
   ],
   "items": [
     {
-      "title": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 19:38:43 GMT",
-      "description": "“Los Chicos Phoenix”: Jóvenes en EE. UU. venden armas a cárteles mexicanos The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Quiénes son Lucas Pavanato y Nikolas Ferreira, los jóvenes influencers de derecha que lograron las mayores votaciones en la historia de la Cámara de Diputados de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZ2pmQXJCSjJXeDVEdjAwRzlwYVhrSWZvZmFOZUgxNmFrSXVhSUl1OGZuTFZWR0JhUzBrOHRMcFdIMTdSY1Bvb0p2Sl9rci0xUDRiZlFIc1d5VE9R0gFiQVVfeXFMUElBLVZYeFNBRW0yVGZQTEs5dkt5dVA2eGY1UlUweURoQ0ktZGk5TmQ3b01UVUI2S0RWa3ltNVo0dDNPMU85Nkc0NjRjX3NYaDFHMmZYcmVQQ1g5NWlVR1BURWc?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 23:14:10 GMT",
+      "description": "Quiénes son Lucas Pavanato y Nikolas Ferreira, los jóvenes influencers de derecha que lograron las mayores votaciones en la historia de la Cámara de Diputados de Brasil BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "El \"interruptor de luz\" para neuronas por el que 3 científicos ganaron el Nobel de Medicina y que ayuda a descifrar los misterios del cerebro",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDQmQyTktXSHJMVHdaR3kyMFBOT2hXLXA5cXQ1RVFvcDZvMktqVDFJdE90ZE5tXzk5UGIxaHBuZVhNS092NE85b05DS2E0ei1TeTNfcm44eEd3aTVh0gFiQVVfeXFMTU5YX0hjcjUwRDg2bjg5WHF2aTRNXy1OQlhfZHVJUDc0di0zUlZKaHFqdlB6R0NfYmxpcXAyc29nT25ONUxJbjdUUjhlSlVlYnhqeVA2My1xd0F2UW9zdDZxYVE?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 19:24:12 GMT",
+      "pubDate": "Mon, 05 Oct 2026 22:39:12 GMT",
       "description": "El \"interruptor de luz\" para neuronas por el que 3 científicos ganaron el Nobel de Medicina y que ayuda a descifrar los misterios del cerebro BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wMGlCMTdKaHk0XzJvcEYwQ1dQUGdVWUVRUi1oM0dXU1BybmRHTWl0OVY4Z0ZUT1BJN19EU2EwdkJVaDNvUU1lS09leG54VkhTUW9FMnk3ZVNlc3Ni0gFiQVVfeXFMTjRqbEdxc3BvOHhQUFVlbnVlSko0QUVHaHVnRzB3V3RoVzl0VEVDZEZmUGFrQWJLUnVqWWlpQWg4cVZUb0Uybk1sdF9taXFJeGt6dGNpeUhFbW9wUVRhcHMtUlE?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 22:34:25 GMT",
+      "description": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -84,11 +93,29 @@
     {
       "title": "\"¡Otra vez no!\": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNEp5TklKQlBOU1FaMUVmd3c1T0JhNGtDWjF5SDZnSFhOU0xkRHdCcFdzQk9hWlhYUVpmX2VfekFOemRmTy05YU5Vc00wZjBocUtEa0RBZ2pZWFlG0gFiQVVfeXFMUEVCdjBVTHlGNXRkeTNUbVpRNl9yZ2FTZ1dxaVJhQXh2YjA2VzhkclR6X1pobC1scU8zekJ2c1BGUWdfaDBYQk9BU1Joc2pHNGE0YXR4RXVTVy1jdHl1VXNDMVE?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 19:07:30 GMT",
+      "pubDate": "Mon, 05 Oct 2026 22:14:34 GMT",
       "description": "\"¡Otra vez no!\": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "¿Qué es la peste neumónica y qué tan peligrosa es?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtd1cwS2ZYRVlGZkFIYjZFQ1RNRlBhOGltMFJNVk9JMXdJVXBEVW1PQVdITGxhUXdRcy0wTmZFUkU0ck9DZ2gwaVpNUktsQUlSRTVQTWxQc0lrTW91czBZam9ZSk9GZ3JkZUhnUkdEMURVc2VkRUZxdm4wMA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 19:18:00 GMT",
+      "description": "¿Qué es la peste neumónica y qué tan peligrosa es? CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "EE.UU. vigila posible brote de peste pulmonar en Rusia sin despertar alarma",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWkydjRpQmlhSzNHak81NlRNU3FTUlBnblk0WkV4NXRHODZYVFVLaGgyMDRmQ1Y0N1lQcTJPS3FjdEpxamF4M0NJb2tUX0xtR0RzN2o1cUxPSXNaNUJaM2xTRWFjVDBUWFV5MDE1bUpmNHRUUUhJYVU2TU5za0wtT3pFcnZvT25DZmRVV0cxVG9ES2REVm9kUnZMUE0zZVBaYUY2STUwTGpMd9IBqgFBVV95cUxNSFRRZG1LUEloaDBQNmF6V012UjdaZFV3eGQ5VVI5SFY3a1RRVmZCSWYwT3R2MUNmVmQ2eWh6aVBwMUhaeWx1VFpHN1paMzh5YjJ3d2wxVXhLejNZNWdtaWhzejNybEZmN1A2Zjk0SXJiRElZdWdBSHJIdHhhYkF2aTJ0ZloxMEdBb3ZEYkhMV3d3UkFJYnktc0dCdmcwZWlIckVpeVpSUGliQQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 18:31:59 GMT",
+      "description": "EE.UU. vigila posible brote de peste pulmonar en Rusia sin despertar alarma DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo",
@@ -109,15 +136,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wMGlCMTdKaHk0XzJvcEYwQ1dQUGdVWUVRUi1oM0dXU1BybmRHTWl0OVY4Z0ZUT1BJN19EU2EwdkJVaDNvUU1lS09leG54VkhTUW9FMnk3ZVNlc3Ni0gFiQVVfeXFMTjRqbEdxc3BvOHhQUFVlbnVlSko0QUVHaHVnRzB3V3RoVzl0VEVDZEZmUGFrQWJLUnVqWWlpQWg4cVZUb0Uybk1sdF9taXFJeGt6dGNpeUhFbW9wUVRhcHMtUlE?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 16:46:34 GMT",
-      "description": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Pedro Sánchez convoca elecciones anticipadas tras el fracaso en el Congreso de sus decretos para enfrentar la crisis de la vivienda en España",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ia0Z3Z25FQUpObjVLYTlGY003aWlMUmpub29hczY4T2RKMDR4YU9UelpXMlZ2eTNKX0N3Vy1IdmRYT3g2V2dqRV9TcDI0bVBpR196UmtLS2R0S0t10gFiQVVfeXFMUFMzQTdKMTUtRllNQU1ZaHF0cHE4a3BQMVhueW9fTVRBVUVlY29JWXIxSVFYSmlzNzlYRm45THc4a2VWRWFtdHlGVGl2QVU0M211VzEyazB5UnpoMFVyTC1YVmc?oc=5",
       "pubDate": "Mon, 05 Oct 2026 15:57:34 GMT",
@@ -127,13 +145,31 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Jóvenes de EE. UU. venden armas que terminan en manos de los cárteles mexicanos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnc2M0l6WW13eHdocEZxcU1RT0NraV9IYnhhMlJ3R1F1SjI4YWJsV3c0MEdpWWlYaVlpZG1EUGdfU3gwSTVycVlaVjloN0czZXpJWnUyVWFNMFNSWFlSMnJ3MEhubldwRnRQNkE4ZXhQZEp4dUdOTHZJMWxGMUMzN19DQTh0LW9RVEhtZ0N1eU9JRDlCU3JtaDZETFB0OG5tMnY0?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 15:49:00 GMT",
+      "description": "Jóvenes de EE. UU. venden armas que terminan en manos de los cárteles mexicanos nytimes.com",
+      "source": "nytimes.com",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMlRadmRTQndWY0REZjhtRGp0SVFJQ25zOFRyR3FGWjFKOEQyaWdjTmNidUNUOGNFQ3JsRjhWb0dlR2FxaWd2MllmM2I1cC0zeGNwei11aWUzamdTeGtJQmp4bHRldGNtcm5IRTlZOEVtX1NJQ1lRdWNLUjlDeTJMZXZmVEVzSDZqeEZyVHVmUnBJY3VadUVfdjJ1RlRpLS1HUGVwWEZsRkxCZHpaSWtvSExsOGRiaFJES0FTdEh4Ujh0QVRmRXZxaVRoTEU1X1dzci0taktXTFMtWGlheW1URmhOVU9Od9IB5gFBVV95cUxNNlNxY2pmSTdkZ2hheHFZUjdRY1RNTExuX3JWekdpa2ROajZwNWhXMHZ6UE5qWmM3Rks1cC1OLVRRU0hHeV9PS2JJVVFOYmZGTjkwOUhJeGJseWFMRlFJMDdySjhJS0pIZHdqaTN3b3drY29YTmxQckZRbUdWNzgtcVltX2pleHY0V3lOdjhPdDVuWVdDbklwNUdlZUZETHU3Z0N3d2dLbGQ1SXF6MWl3eHVLVWZKSnBvUWNNM0Q3cTJXbHV0ME9vLXVMOTRaYS01ZmxQLXdjaTVQcWMzQmgxSEs5d0pYdw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:13:05 GMT",
-      "description": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar dw.com",
-      "source": "dw.com",
+      "pubDate": "Mon, 05 Oct 2026 14:16:43 GMT",
+      "description": "Imponen cuarentena en varios hospitales de Siberia por sospecha de peste pulmonar DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "Más de 400 colegios bloqueados en Francia en la segunda semana de protestas estudiantiles",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZnB2NVN6V0FpekdwemNxakhWNkJNU240QkdaS2NMeWVIcDlLVE53WWloczh2aEtYNmtHLVNwVFpnSjgwRWp0M0xYTU5Kc084Q3VtRXdTdVdUejQ5b0hRdGZBR0VhUjlTdHFUTWE0NUxaeEptbG8ydjNiMVJXYXpGRXVPS0dIdVhqaldvLXJITmdmRGVSQy11TkRJSGtCTnlSTnhrZWZIYXEwcFZYeGxZSTlqMnJzemlOQjlUY3k4amdoQlVHd0k5MmlVQVo1S0FWeDJYcg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 13:50:38 GMT",
+      "description": "Más de 400 colegios bloqueados en Francia en la segunda semana de protestas estudiantiles France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Investigadora de laboratorio ruso especializado en la peste muere por infección “desconocida”: hay decenas en cuarentena",
@@ -163,19 +199,19 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Muere científica en Rusia por una neumonía de origen \"desconocido\"",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXVfOUNOaDNaS3VYVVcwdzJfaHZfZURwOTFoc1M0UEFSRC1wNmlibTVWT3I0VHZ5Vl90M3lkZW81QVptQkp0R3ZKRWF4MUpfcU9BV1B1d3N3ZXB0WUVlSDMxWnJmZzlvbFJ1X3czX0hfcFRIODROZ2ZycExSWjlzMTd5UVd5RVF1Yy1CT3lxRlJIMnJLMFFBczRB?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 12:03:35 GMT",
-      "description": "Muere científica en Rusia por una neumonía de origen \"desconocido\" CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "El Nobel de Medicina premia a 3 científicos por investigar la actividad cerebral",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnhLZXVzWGNUSVVWWXNRU3NIdVo4OV9GaUExSGtuWGJfaTd0d1Z4U0N4a1VwY3hSZGIwa05YN1g1MzZzQVZSS013NktFYmhZd3pvQlZrNEMxQzJUVmNtYnBnZEREblBVWF9ja252Qm5hOUZoR3VpNUY2WXZoRXZ2N2hjaXU2N1d6U3RHajE5TllPb0NRUXNGanRnY0dyb204anhMWWpsajRXbks2?oc=5",
       "pubDate": "Mon, 05 Oct 2026 11:28:00 GMT",
       "description": "El Nobel de Medicina premia a 3 científicos por investigar la actividad cerebral AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "LO ÚLTIMO: Tercero en la votación dice que no respaldará a ninguno de los dos contendientes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmlMbE9CTWE5b25Fc0dKRXNvYUVXaGdKWExLRHZJbFIyZG0yYkxfUW1WejZOZ1RxdUIyVUZmTzdPeHpHNkNmYnNIOHZiSUlOSzM5ODMtazhSRndXX1ZjRnJlbmRDV1QtaUJ2dHpWZU1OenRGYjV0WWZPRjM4RFF5TFVJYlhSaVBsRncxcC1fZnZSdzB5NUMzZkxZSHpjdmlJamY0aQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 10:21:21 GMT",
+      "description": "LO ÚLTIMO: Tercero en la votación dice que no respaldará a ninguno de los dos contendientes AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
@@ -190,46 +226,55 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Lula y Bolsonaro a balotaje por la presidencia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2Ytbkl0UndManNKTF9fRW84NjdwcVhXVlRRUlF0RlVaV1ZIdHNicjFzSXVMaDRCME9kdTNfNEZ0OW9hUjlPc1BFcFI4VWloNDdyb0ZxQk0wWmJwcUU5aGZMM3J1NUdfR0ozbXA2SlZ6TVl6RG5yd204c1lLdjdmZHNsQi1NTjJwd09Sa2hpMFN1eE80bkZz?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:59:35 GMT",
-      "description": "Lula y Bolsonaro a balotaje por la presidencia de Brasil dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Muere a los 70 años Ángel Arroyo, el ciclista de El Barraco que fue segundo en el Tour de 1983",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2ZVcnpiaDZMTjlKSXpJQUhyZ0tHcTFJZHoxbFVoWEpGSUcyMzI0X3VSU0UxUG45TmMzUHlYaDYwUVlmSjFfZ1l1ZHkzbkFlZkp1anROem1pRE1sU1pvTmNSd0Z4cXdwQkZoUG9WblFhWUJCcDRsV3FpSVVZUHJEQi1xNGNSR3FORlNrNHFRdjNsNFJIVXRCX2sxb0tIZkF3Rk54Mm9FUnFtc29ma1BZM1hR0gHGAUFVX3lxTE9DRnd4clh3QmpEQlFYVkZBeWxLVEotcExyS05OQ3g2TTVDZlBLSGI5M1NBajlZRXgxcE5aX1Z0a2x6SXRTaEpOYUlkNEZ4UXQ3S2t5UlktZS1MSE4tSjh0a08xc21sRWVheHBNbm0yb1JLbFhZdVFXMTFBQm4ySU9jcU5FQXRwWVJDcDFUcEpxLWs1azBLYkJraU14bzhJUC1QbndxdXZWYkVFdW5DbGduY0E4eUdwNjU5cWhSUHllQk50d0U3QQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:52:11 GMT",
-      "description": "Muere a los 70 años Ángel Arroyo, el ciclista de El Barraco que fue segundo en el Tour de 1983 EL PAÍS",
+      "title": "Rusia pone bajo observación a casi 200 personas tras morir una investigadora de un laboratorio contra la peste",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNanZ1eWtQRkRuRlVqdjVjbHhEdGFIbkpybF9Ib3FYeThZUmxGcEdUV0lVbHJKcVYxQzdDaXRoMVFpbGtKeW1nQmhJRzI1T1FwakNMbFpPTWg1RGFUcGtSNnJNVjVXZVZ0X1lFalRMRFZPLU5KdmdRTFlSMXNEcFl2QW1TWXpTeUFiTDVFTFRXbjN0bnhsUDhfa2Y1ei1QQlNSVjhHUzlhMzVyZXZDU2hBVTlGY2VSX1VZaW5YZWdFaFhtSXd0Wk9vaGJ3MjV1N2NNWDlDS0xBNW83SmJVWi1kaWZSQmtOYWxLMmFQclJxdWY1UFHSAYcCQVVfeXFMTlRNU3RlMXVGRFI0dEpILS12QmpVMXFkUFlsYnBETVU4YUluX3YxVXhEbXY2REdIYlpDbXl5OXViYVJjMFMzRG1RYi1xT01uckU4ZUpTLUpKeEtTQ2NFcDVTRTdYXzh5ZmdUSkVYWHFDamRTTnBfZG51RndmZExndDdDd0ZsQ2dPa0lMWlRma2JvdHQxZ25PeFFWWkNKZG82VXF4elphZDBtclhMdUlVeTZwTFFaY0tFLW9SdE1IbUE4OHlIcnBieXdGSXhUREVmU0RETGlRYXdhUEx6VHdsS2NpeW5ZbE9oX1FCVGhYTHFlZzlad25kUTdsclVSdzFmMjhFQklZV2M?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 10:06:05 GMT",
+      "description": "Rusia pone bajo observación a casi 200 personas tras morir una investigadora de un laboratorio contra la peste EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUXFiNHM3eE0tclM2QUNSZTNVODU5MEF4T0dNX010Nmtmdk1OU1FlaGYwZGRJWmFDUFp4MVhXZ0JaV0VHR2VHTmRISWdfU2xiMHhEaGNybnd0T0xvU1hac2FLazhyM2JaXzNLQ0lDS3d5UHAybDhJeUxNNjFMOEZUS3dYNE94aFBwSlA1MldkQ2JybkNqNTduQTE1TkhucDQ4dHdrWTJmejZ6Qm92eDFudWNMUWIxWHdSenlKZUtOYUd0S0tZaUNpVF9VQUdTaUNNN0lnVy1YR044cmpueVhhddIB4AFBVV95cUxON0xPT1NSWW1jZEloNzgtSnR0Zl9EamxoMDlOekE0cXYwcURmOFMtenJ1TTBsSU5KbVBaQjhwMU1CaDMyMllCMVJZN0ZySVBFdUVWc3BoNjVGOG5ERlQ3b3JNWk53U0N0ZXQwZnVVUi1SbjU3bDhNdGh4eEFHVlE0TFl5NVRiejlkbUF2WmlnUnVHVzVvQzRUXzhaQW5hNUVfODBBcXR5Q2dUUGFNa040aHhmVFJ1dFZmZkw5QkIwczJsYkxlbGduX0FRMGw3bkdHYVo2dTJaamR0OGE2UXdzMA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:35:11 GMT",
-      "description": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Jugárselo todo",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tdDZfSjFqUW5uSXphUU0zY21ydVdwZmdreUVRRE9ROURfU1Z2RVYxaU8tMEFLcXlqMkRESzVUU0hodjN2eThDWFk3Q2V6ZHlnRzJzQjRDRXh3WWxVSU10VG5uT1pRbzB30gF8QVVfeXFMTzRsSl9GbkcxdWZsV0dhM2E1N1pxY0Vfa0JLRW1XeGdrU1lZbHlMWUQ5Z24zcUtDckdrUG8zeUJmYTUyOXg2VU1uU3hZbnVPYmFrZ0doZnRHMi1RRk9aQ2pGUGJPSjEwSkd0b2NMaU1oNDhmUklQOVdyRVFNVg?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 09:28:22 GMT",
+      "description": "Jugárselo todo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Los jesuitas expulsan del sacerdocio a un pederasta que abusó de menores en España y Bolivia a lo largo de 30 años",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTlJYT3pxbVZXcTBTVkkxa2VRbEJleG56UG9tSXUzbHpzWGIxZlU1ZVBOZlg0S0NBaFdxcmhyOWRtVEtiMnBSVmRDNkRPMnRtNThPVEVqbURmQ0laMXJfZjdsRTNoNldJcm9TaUNuS1FpMTV6Mkp0RlRGc3J1SzYxNHFCUC1HZE4yRHlQV2U0ZHBKOGFDNXlZUkVrdVBsT1g2aVUtVHhYU2x0M0phUUFLXzEzTlJER3B3R2VSdEU1VlBGME5WUHhuWGVSTm9WRXhpaVNGWUdhWm4wakNjX0hjTmVoZlF0LVVGNGJLT3NR0gGCAkFVX3lxTFB5R3JpN0JNcm9OQl9EbEUzaFViX1FKYlJUUklpczB1a2FIY0dDVkdpNVJaa0s0RVpqSVBfTFhldGF5VDUxWmFseDJuMTl2dnRpU0hJZTVmdEhicEZJeW9UNm4teUg1dnBPSXR0b25mZVBHRVFfWkQ3NTd1OGhJdWtRdkhNbWwteU9iOF8zd01idmd3MTZIZHVraFplOTJMZnRGZDlKVlB5Qmt6NUdwTVEyMFotejVtU2xDWXVpTnlKUnhlZm9aVGtQUnVrUXhKUmNBVWZKeThwdFJBWHZ1bUNabDY4bVEtVmdpZEhKMG1ha0JNOE1JTWtIMDlTeVhwSnNTdw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 09:06:10 GMT",
+      "description": "Los jesuitas expulsan del sacerdocio a un pederasta que abusó de menores en España y Bolivia a lo largo de 30 años EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSHdwMkJ4Sy1Hc1NFcEUtQjlyWnB6c3VBeUxuaktRMkhsNGZxVDR2LVFPS0FZMGsyVy1NWnlhVXNMbHctZHZlaWNGUnRlZ0xNNkhCMTM2UEhoWmVmWFQ3c3c3Y2xTMjVGdThYWWdNTUUxcEJrMmNuRkxrRTIyeDBrVkozTGFWU3Z6NHU1aVUzT1k5VWw0QXdjMWd6RXVVNHJyekxZU0swYWs3Y3N1a2tkNHRONFhyMXF2QldvbVB1ak9OcnpkLVo4cFVCMTlveXBuNWZN0gHTAUFVX3lxTE8yeHU5eE52ZEJMWWtoQ0t6bVE4MVVOakFYeTRYMmZreEtOSl90eGxGMlFNMXRBOFpLbHQ3MFJBV1ZfWFQ5YlpfQWtwdXNNaVhveFBEdWVjdTZJcW9WWGlYclE5T3NlTmlpZldvTUxNU0c3QzMtLVkxRjVjX2ZSaXlITklLRFlWNnhKbWV3cTZUMk1sSE9yV3ZqWjF6ZndBTlBqM1NHUzY4V25NSlF3YWRkNXhtUE5URzV4emhiV1VBbmZQelhXZVV6SE55elJ4cElidDA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 08:30:55 GMT",
-      "description": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta dw.com",
-      "source": "dw.com",
+      "pubDate": "Mon, 05 Oct 2026 08:36:12 GMT",
+      "description": "Lula y Flávio Bolsonaro disputarán la Presidencia de Brasil en segunda vuelta DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Abascal pone condiciones a un futuro gobierno con el PP: “Prioridad nacional, desregulación y remigración”",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR0FSQWdMSUNoNWI5WWoycFlFM2JFamxHVXBrbXdaTzh5SUxvczVFVm5RUkxXTGJ1amZWcG16bnV5VURNYWl1Y0FVRWJROGFpczROMHEtY3Y2dDJKcjNEcUNqcVRWRzcxc0pXQUx0MXUzZU0tYlBGNWY1SlpOdXJSaVlHVzZkTEpITmRCeld2cnNKRUZ3ZGRQNGdrc29MdmxnYXZfa24yRnI5ZVY1NmlOdUppMnU4Ni1rc1JRZjY3Und3VjhXWUhzQlJrTkM3d3REMVBzU2t4ONIB6wFBVV95cUxQaGFKZ3FncllHY2JPYnU0WHVZTzFWYnJXQTU5aXN5cnhzbzRLTTFZdnhLNVhPWEN6T3VSekh4cllEUzhucThkYk8xeGR6VEp4cm53a3ZTbGdsekpNdmVQR3cwQ0ZZTS1fUFEwWFVURTBIV2xBWnBONnFHZERiZkRaSldyYVp0Q082Qm1jMXl1X3RnZ3pWeTVTem5UOEZRYmUzTkx0cVdlNmFoSl8xTFRxYTYycWprWHFHc0prY01RWkpjVnpTR3pRNk9WY1pINFU3aU8yeWs2VHBwN0RCNDkzTV9uZjI1TzhYbEhN?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 07:54:40 GMT",
-      "description": "Abascal pone condiciones a un futuro gobierno con el PP: “Prioridad nacional, desregulación y remigración” EL PAÍS",
+      "title": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUXFiNHM3eE0tclM2QUNSZTNVODU5MEF4T0dNX010Nmtmdk1OU1FlaGYwZGRJWmFDUFp4MVhXZ0JaV0VHR2VHTmRISWdfU2xiMHhEaGNybnd0T0xvU1hac2FLazhyM2JaXzNLQ0lDS3d5UHAybDhJeUxNNjFMOEZUS3dYNE94aFBwSlA1MldkQ2JybkNqNTduQTE1TkhucDQ4dHdrWTJmejZ6Qm92eDFudWNMUWIxWHdSenlKZUtOYUd0S0tZaUNpVF9VQUdTaUNNN0lnVy1YR044cmpueVhhddIB4AFBVV95cUxON0xPT1NSWW1jZEloNzgtSnR0Zl9EamxoMDlOekE0cXYwcURmOFMtenJ1TTBsSU5KbVBaQjhwMU1CaDMyMllCMVJZN0ZySVBFdUVWc3BoNjVGOG5ERlQ3b3JNWk53U0N0ZXQwZnVVUi1SbjU3bDhNdGh4eEFHVlE0TFl5NVRiejlkbUF2WmlnUnVHVzVvQzRUXzhaQW5hNUVfODBBcXR5Q2dUUGFNa040aHhmVFJ1dFZmZkw5QkIwczJsYkxlbGduX0FRMGw3bkdHYVo2dTJaamR0OGE2UXdzMA?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 08:35:25 GMT",
+      "description": "El presidente del Gobierno español, Pedro Sánchez, adelanta elecciones generales al 29 de noviembre DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El Consejo de Ministros aprobará mañana unos decretos de vivienda similares a los que cayeron para que los vote la Diputación Permanente",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVDFUenpva2pLMUIzMk1hMHhDTU5nZWFMOXZfcEd4bmtBR2hEX0R4c20wS1FQaHdHRWZjc0tpbGdZWWxaUEQ4ak4tVUJnSUtRVW41RHpmeG9vekRKYWdNM2JjWHl6eUFfS3Rzcmx6QWpXTjhVODQ5Rm92ZlkyZDZqWjRBQ0htdk5PQ1d4aHZWVGpCSDY3UHgtbnVMdWZ4UG5DMElVTFRwdVEzRUF2QUpJUXZ5cFNFZDFoTG1zX2VObU4yX05PbjBXeFBzX2Z2MUp6NW9mb3dUbk5hVy1sV2lRa3pkd9IB9wFBVV95cUxNVFF2Z2d0cjFrV0NQLUdRanhlMVcwR0hfTXdQa0wzQVd3cVd3d0RHbWFLNXhyejdjVkZobGU4VU9mNmlqYmZSQWJVNXpuVHpvcU5nY2FHUV9MQjFPTEhQclVBSFQ5NFJsT1RGZlBleVRsZmhyd200d3pHRnBLd01VT1E2eDRvOFRIa1FNRkExUlY3NVpiY1lMRXNNb2xrRHl2UmhDbGtYS2hObUJfYVVYMmlwSkpPR2hMRXNZTUItZ2o2Mm8yV2pMQUJUMUw1R1hlWGRiREJSWEhsRElDLXZSaTNLSUNZdEhvdWhHZV9iTU9fY2Vha004?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 08:16:34 GMT",
+      "description": "El Consejo de Ministros aprobará mañana unos decretos de vivienda similares a los que cayeron para que los vote la Diputación Permanente EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -256,8 +301,8 @@
       "title": "México y EE.UU. realizan “operación espejo” en su frontera",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMExqNWVrTjdhSjVkeHNnQ3dVLVhSeUVqLUVnRFd2Q3lEWklQNUN2V3FGOWtHZzR0TUcySTI5NUUwcUI5SjluMzNTR0J6RkFVTUtPYWNZb05LZ0xXMk4tNUQtSnlhMmptWFRXUW1GM1ZCVGpXN1RpZnhkc015SzJncWYzVWhtLW5IYjlXU2hGZEtpR2JJYklGSkp1SFJkd9IBngFBVV95cUxQeEowdkZOVFFLdElFX1MzNkVEQjdmMEUzZWxwTmlqQ2lab2I5MHlzdDZiMUNFOGdDVy1rSEVmdDNrSjBYX3F4eElkZTJHbFFjUVdPaUY2TU1YRm16QkdQVmhqZnNoWWxydlRzNDNCUzJ1V082S3VWeE5DdWQ2RGJ2ZlpzS05kYzdWV2VDS0kzWlNsalhjcXVsdnluZ2k3Zw?oc=5",
       "pubDate": "Mon, 05 Oct 2026 03:16:05 GMT",
-      "description": "México y EE.UU. realizan “operación espejo” en su frontera dw.com",
-      "source": "dw.com",
+      "description": "México y EE.UU. realizan “operación espejo” en su frontera DW.com",
+      "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
@@ -269,33 +314,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "LO ÚLTIMO: Tercero en la votación dice que no respaldará a ninguno de los dos contendientes",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZmlMbE9CTWE5b25Fc0dKRXNvYUVXaGdKWExLRHZJbFIyZG0yYkxfUW1WejZOZ1RxdUIyVUZmTzdPeHpHNkNmYnNIOHZiSUlOSzM5ODMtazhSRndXX1ZjRnJlbmRDV1QtaUJ2dHpWZU1OenRGYjV0WWZPRjM4RFF5TFVJYlhSaVBsRncxcC1fZnZSdzB5NUMzZkxZSHpjdmlJamY0aQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 01:18:00 GMT",
-      "description": "LO ÚLTIMO: Tercero en la votación dice que no respaldará a ninguno de los dos contendientes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Lula, la batalla final",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SjJlU1pUSkZDZTJFZlBsM0wwcUl1a1pTVlZwaDlKVGlrc25pNzJ6WXZRUG5Ld1ZxOXpnTl94SFAwVDk1aTNBLTBScUUyY1VOdHhHblF5anBNZE9UbHVyNFpMLS03MWpUcndEeE9mZFNhZ9IBhgFBVV95cUxNZW8yV2l5RTdQSi1Fa3FqMm8zY3VSeXhrYng3aTZ0bnhMRkRYNTlvS0hSM0hHeXBoYlRqVGxqS0NFV29OSFJkR1htd3hrcmtYRnNVWVdNZUtjc2dseTBTMWZTanY2UVZ5OEFtUnhWZjZXbGlPSFBvLTJfcGc1ZHhXQzd5SHgtQQ?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 01:12:00 GMT",
-      "description": "Lula, la batalla final EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MkhzcEJpeGVHWF80YWRyYmhjc2lmdzJsaElOcGJjUG1JajF6SkRpZjhWWkwzS0o5QUhHMl9PeWRKZFFFbzdqRV9EZWxtdWozNnh5TGN5ZWF3b1BC0gFiQVVfeXFMTUgyY095R1dlYkhyb0VlWDVTamhRRzBPajNWYzB2dUJwMFBrcDNVU0tCXzhieC1JNXdJVG1PVmZnZ0JWT0UxdEtidDVvZXZWUDZUSGI3OGVyYS0yOGlsTjRHX1E?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 21:34:13 GMT",
-      "description": "Elecciones en Brasil: Flávio Bolsonaro y Lula da Silva van a una segunda vuelta en la que el presidente enfrenta una difícil remontada BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Mapa de resultados de la primera vuelta de las elecciones presidenciales en Brasil 2026: dónde gana cada candidato",
@@ -316,15 +334,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "El Oktoberfest marca un nuevo récord con 7,4 millones de visitantes",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYXRPallHaW1aU0h0V0FZR3oxbzdIdmlUTUFjRlhSdVZ6SXF1YVpNWkRuRVJKTGJrMUZTLWR5djd6aUhrWkwxS18yWmIzTVVPVWxZZjRZaVJKN3ozcm1vUE5GYk9xVUJSTXRCWjdlVU9xUm5HX3hzZ0ZqanliSEoyaGpzZm5VaHMzTWdhU3Fzajk0enFnTWdtVW5iVHFXS05YVTl4WlR3Y9IBpwFBVV95cUxQeC1SSENJYlhGZklMSTNwajVSY1l2dmlvWUtVZmFRRVhob2pZQlg5QlQ2eWl5S2VIOFRQTllncG5Vb192UzFNSmhBX0NlOXlrblk4THRxRWJjT05SSDc2Y1REbWdqcXhvc0ZwNGpHdkowSS1seTd1dXlqeXp0UTNndjB3SFNsS205Z1E5ajlHZWVPYWtvZFQ1NmJlOXRySVFVZ1U5dWkxNA?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 12:11:41 GMT",
-      "description": "El Oktoberfest marca un nuevo récord con 7,4 millones de visitantes dw.com",
-      "source": "dw.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Lula tras la primera vuelta: \"Es un resultado inesperado\"; Bolsonaro defiende que \"Brasil quiere cambio\"",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZ1dheUM5am9CcEdwckk1cXZFemI1Q01qWjJGOXRXbWhFeDdRM1B0SDZtYzdZMVNJbVBYTE5YTzZFVkh2WU9iRkUtWXNXTVlHTU5QNE5uc2hLUlpBc3lkNU9QdlJCZWJOSHRIQVh6SHhRdndCejRsQ2tQTFNlTW41ZXUzQko0bEJNbDhTaHVjaXNVcUZoUWtqeWJZSHBlWnczSEE3ZGNvbUpqOWJZV2duUGFGQkNWc3N5ZmM3NzJqY2JGamF3Q3dWMnhyd1NHd2YtSERr?oc=5",
       "pubDate": "Sun, 04 Oct 2026 11:49:59 GMT",
@@ -343,6 +352,15 @@
       "domain": "elpais.com"
     },
     {
+      "title": "Lula y Bolsonaro a balotaje por la presidencia de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2Ytbkl0UndManNKTF9fRW84NjdwcVhXVlRRUlF0RlVaV1ZIdHNicjFzSXVMaDRCME9kdTNfNEZ0OW9hUjlPc1BFcFI4VWloNDdyb0ZxQk0wWmJwcUU5aGZMM3J1NUdfR0ozbXA2SlZ6TVl6RG5yd204c1lLdjdmZHNsQi1NTjJwd09Sa2hpMFN1eE80bkZz?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 07:33:15 GMT",
+      "description": "Lula y Bolsonaro a balotaje por la presidencia de Brasil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Cheques de 5.000 dólares y un número personal filtrado: ¿un impulso electoral desesperado de Trump?",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWEFTZjJNWmpTYXJCcTFjTmhEZ2Q3aHJOY1NrUDllZjdFQTZfQ1lOMmtZUTVyakhlQnFDM29xMXE4NF84OWpobHphQXRGUnN0RG5yQTF5ZGZoaDhZWGNReHVlNzM2XzhqSldnZnN3bi0xWlU2ci1OUU1nb0dySWdoUk9wcVlJNjUyQVpDR0pyY19Lb2J0NUN5dmNaVVBrZVdIRFpsdEhBZDF2X2ZOZzkwa21ySEgwVXpRS3hoVkVtbEpTOWQ3MjlhQS1NN2RNOTVYTjZ6dlJ4bVdkRnM3WjNiM3IxNTBmUzZlc3ljTjdlMGoxbkdoZ2c?oc=5",
       "pubDate": "Sun, 04 Oct 2026 04:00:51 GMT",
@@ -350,15 +368,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Ay, nuestro Woody...",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOWGFyMl9rT09xRWttMXREUE1EWS1idkFRLXY0eDlNemprekw0T1ZWMGtCYU1KcDZETk1RclpQR0lBMFlZQnhrdElkczd6XzlDZVRGaWsxN2w0NS1ubEhZT3NPZnJLSFJVQURj0gF_QVVfeXFMTlNnSFh0ZVZ2RVNhQ0dZQ0gxQ2tBLUtiS3U2ZXlQUGNvN3ZMNFdfa2hyLVhBaC1XVGtvTWlYR2tORHJjNGZnSWRnV0lxaEhicHRvR2liMFllWXMxVVVSaVJtUzBRVE52THhVWFVfTGlqU1RUOUxtNFVhSi1nUGZmRQ?oc=5",
-      "pubDate": "Sun, 04 Oct 2026 03:30:01 GMT",
-      "description": "Ay, nuestro Woody... EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Thomas Piketty: “El futuro que nos están preparando los multimillonarios es distópico”",
@@ -379,6 +388,15 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Verificación: Video de objeto en el cielo no muestra ataque hutí sobre La Meca",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb1EyTUtZREQtYlNwQlpwanhqdm1udDZjdHRpUF9IZUFyZWp0Mkl6dVZCMzFJSjM2S2Rtenl5OVRuUV9GMFA1b2R0bGZ1bGZfNWRzZDNwX0k5LWw4TjNiOTFwODZ1ZUswcFluOWFOSVpyenFVQ2pMMFFQSkJEWGY5ZDZHRl85UVJn?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 14:07:20 GMT",
+      "description": "Verificación: Video de objeto en el cielo no muestra ataque hutí sobre La Meca Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "El Congreso de España hunde decretos sobre la crisis de vivienda tras voto en contra de PP, Junts y Vox",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaGpadHRxUlFmUFRWdDRaUnZaQ0IwRGVvZDF1dVd5U2lpaXRoVHRXRng1WkZLc0hDSnZycGFtdWt6U25KRmFiNWNXSG12cU9PNVYxYVBja0Q4TklkVFUya0duNXNBdE9sOWIxQ2kxR0c3U3I0U0lYcmJIeVNsY2RWRHhRU1NQaVREaTBicWRTc2MxMkRMWXhIXzRxSThIQ0k0czZ1NE1RUURkSGRZLWw4SmFpOURHWnFJZ3FuWm84LXpaMzVVemRidG90YkhCUE5DNGFDU29DQk81cnIxUFpBY1BGREpBUExzNVhTS29mRjNTWWFFNVFJUFRjTzE?oc=5",
       "pubDate": "Fri, 02 Oct 2026 12:45:07 GMT",
@@ -397,15 +415,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Verificación: Discurso de Delcy Rodríguez en que critica a Trump en asamblea de la ONU es de 2019",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlh4bnpvY3BLUkpOX01Ed3d4WkFtQ1VVUnAzQkZYV280aHVoR0hLeUVtTUh4UGdwYlU4WXZDN2EwbUpCWG9sMWk3R2JuZkV6V0hQeURtN2RYa2toSXZxSVlzOFNSLVJrUjQ0bERkSTI4Q0x3UVJ5ZWk2eEpfRFIteHFxYnh1a1Jr?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 21:40:28 GMT",
-      "description": "Verificación: Discurso de Delcy Rodríguez en que critica a Trump en asamblea de la ONU es de 2019 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Venezuela's oil exports down in September amid high freight rates, data show",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
       "pubDate": "Thu, 01 Oct 2026 18:33:58 GMT",
@@ -415,20 +424,11 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Estudiantes endurecen los bloqueos en Francia: rocían con gasolina al director de una escuela",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnpzWEZuWnhyLUIwWENTdk54QVI2Zmh6N1hBMXlkc1pDWjFheTZkQlJmcDM1V3ZtYzNoRXhHU1pWSmhWaS1uS1VUQUpLVWtOOVg0Q3kzTmZOY1FOQWg2aWduazlKSFNtdkhPaTFuTjdCcGdNV1p0X1BFcG9RZjM5ZWVUSC1fSTJ6RmExVkZzMGQ3YTlESzlXZkVmOVF2TVFqTkJ4NHl2eFRqSnpwQjlkNkxuZWUyYWZvMXU3b1haSjAzb1pWdjdJTi15c0Y3YUo0TEE0V1pPblozZw?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 15:23:08 GMT",
-      "description": "Estudiantes endurecen los bloqueos en Francia: rocían con gasolina al director de una escuela France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Brasil, bajo el yugo de las deudas aplastantes y las apuestas en línea",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXJ5akJfbWRRQW52dnRLbHhuSmREZXM3R19oZUFDV21RS2lzZmdVX2o2VUZkemU1bi1BRVpJS1VDV3FudGJ1eXk1RklCY3BCQ3drZnVrQVFrSkRkYmUxclNnX2R1MldBWWcyaVhrV1dTVGhmN0JmMldHTXZXVDM3VXAybjVJMC1zX2x0T2pNdXZLQVJHYU9CdHdiNTdRUQ?oc=5",
       "pubDate": "Thu, 01 Oct 2026 09:10:09 GMT",
-      "description": "Brasil, bajo el yugo de las deudas aplastantes y las apuestas en línea The New York Times",
-      "source": "The New York Times",
+      "description": "Brasil, bajo el yugo de las deudas aplastantes y las apuestas en línea nytimes.com",
+      "source": "nytimes.com",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -463,8 +463,8 @@
       "title": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejR3R0IzcGxsZUN0bnRrTWZ6ZUxXZ29EaG9xSVV0MHFmLXpXWGRaUjZ2Ry1qZmlCenAzbHBpRFNWSmdzMzVxMHBHenNhdGVHYW9jVWM4aV9TUGN2WTllVHlBVjdBaXlTcUdiZWZsVEdueWZGTzROYlRrSDFqTEd0NG1WcTd5Ti1ycFVNSw?oc=5",
       "pubDate": "Tue, 29 Sep 2026 17:11:30 GMT",
-      "description": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA The New York Times",
-      "source": "The New York Times",
+      "description": "Javier Milei promociona a Argentina como un refugio sin reglas para la IA nytimes.com",
+      "source": "nytimes.com",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -472,8 +472,8 @@
       "title": "En México, la polémica en torno a López Beltrán pone a prueba el legado de Morena",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmdSUFJVbDNOVHBsaDRXLW42Q2RNS1VnT2cwNG5qbUR1VzE5OTdzWkJ4Ung1SDV6Mjl6aUZpbTZvRFpiY3NDYzJyUnZOcERfUGVROFU2MTN5SHZGVHJUQlNUX3djNV9HUFBER1pjSXpuSXJEV1JlX3pGYTdiQlF0c3hxYjhiZjdTMHIzdTRhVlo0aTlXaEtBQWx1a1YyMy1hZXRv?oc=5",
       "pubDate": "Tue, 29 Sep 2026 09:10:14 GMT",
-      "description": "En México, la polémica en torno a López Beltrán pone a prueba el legado de Morena The New York Times",
-      "source": "The New York Times",
+      "description": "En México, la polémica en torno a López Beltrán pone a prueba el legado de Morena nytimes.com",
+      "source": "nytimes.com",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -481,8 +481,8 @@
       "title": "¿Un nuevo auge petrolero en Argentina puede salvar su economía?",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFlyMGRVR2RTLVVGeXNuWlF5a1RRcTA1Y2t6Ny1uWk9hY1RrSFIyVTBjeTdKV1J6RGstU0JCMk9uaUFhNmkwMGlHQVNUUVhzVHowc1FwTHVIaXdKOUxYOVdJNjRWdGlUU2YyVFNETDB4TVlYakNtMTR2MTVrUVJXcGliaEdtcWdzSm9ZT2ZXQWV1LXVOTDFPVXNrSUdtRFYxSEE?oc=5",
       "pubDate": "Mon, 24 Aug 2026 07:00:00 GMT",
-      "description": "¿Un nuevo auge petrolero en Argentina puede salvar su economía? The New York Times",
-      "source": "The New York Times",
+      "description": "¿Un nuevo auge petrolero en Argentina puede salvar su economía? nytimes.com",
+      "source": "nytimes.com",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -508,8 +508,8 @@
       "title": "Hay una poderosa razón por la que los universitarios ya no leen (Published 2024)",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2RzN3E2U2FTNTV4MFY3QngtOG1tajF2Y3dPQ2dWaWQtZDNuV2ZZNjk5X2RwQUlhajFvX1dIdTlmRExQZHU4M2dIWDBkWHR4cHA0ZFYtdFNkZmpWUmVsb25obkM2SGUzdXVDQkQxWDYtakdxS3lPTUVTeGRhUEZJYk91ZjI?oc=5",
       "pubDate": "Sun, 27 Oct 2024 07:00:00 GMT",
-      "description": "Hay una poderosa razón por la que los universitarios ya no leen (Published 2024) The New York Times",
-      "source": "The New York Times",
+      "description": "Hay una poderosa razón por la que los universitarios ya no leen (Published 2024) nytimes.com",
+      "source": "nytimes.com",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
     },
@@ -517,8 +517,8 @@
       "title": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamF5Z2VwSnlHUXdFVkVOS0ZndTVHaTFpS3YzVHNmUHZkRkh6U3NSVENrc0FBaWJkQXVOM244OUhjTjV6RUdWTDFlVjFMZVNSVDQwS1lwUzlSZlB6NVNDZXZySnE1bHNWcW1SeVZBdHR5X0lRZVQ0VUVMYi1qUmZZR01NMm1hN0Vwbjl1cjJuLXlKRzZnOExNbDM4N0hJRFFrNzlUSkI0QUE?oc=5",
       "pubDate": "Mon, 24 Oct 2022 07:00:00 GMT",
-      "description": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
@@ -526,8 +526,8 @@
       "title": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9JcDFpdWdfelJSbzg2RkluOTlfcFJHTmxJYzhteGcwaTA0WXdKQWw5YlJjQmN1SXRRWnlPY2xjYW85SjZYSzVsVllWQlNvTlA4Ti1CdFBJVWdLa2k4TUZReE9peGpqcG96aDVzV21qZFpYLUtrYnpiUHNxZDRyUlRIaFJ2c0hBY2twUmotb0sxOFlXeFFDeXowTW43MmNkV3ZRUXpTWU80VDctS3lsa2NhcDJiRGdHUlVib3RQdUl2T1NW?oc=5",
       "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT",
-      "description": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
@@ -535,8 +535,8 @@
       "title": "Opinión | Honduras: Los narcos del patio trasero",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd281ZTVEQ3ljdVM5NWQyY3ZjZU1FUUpXRTNFQno2MlBNUlNqRlhsUHNGRTFHb1RJWkNzWjJtR19UYl9jM29wMGk5SU9QZ2NHLUtjS1dGa0NVZXNqRTZPay1Wak5xU0FRT3RZVVZvQm9IbWJvT1BHaGtkY1ZBRUFZVVBuMTdMM0pmRkVCbkVfTFdZckNPUlRDeWZOTzZ4dFlsWktQc2dZZHJlbUZKTXF5b0N3?oc=5",
       "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
-      "description": "Opinión | Honduras: Los narcos del patio trasero The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | Honduras: Los narcos del patio trasero washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
@@ -544,8 +544,8 @@
       "title": "Opinión | Caso Homún: La Suprema Corte puede sentar un gran precedente ambiental en México",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN1dEazVlM1BRN0pDYUo3VGJhYkN5RU1wZ25JcW8xWGdsUDZaaGdxNjFFZHoxU0lFelJFWDlUV0M3bDRqcXk4eGxnUVUtdm9kT3VXUFU3blhhbW0zZkIxNEpJVC02S0t0alZHS29JNGhOdWV6Y0ZfMEx1RmNTSGZXNDBVX3lmc2FlSXkyeDZ1cTl3RVRhb1AwV3BZTDVOUlNGbVpaYjFJSkRtQQ?oc=5",
       "pubDate": "Thu, 20 May 2021 07:00:00 GMT",
-      "description": "Opinión | Caso Homún: La Suprema Corte puede sentar un gran precedente ambiental en México The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | Caso Homún: La Suprema Corte puede sentar un gran precedente ambiental en México washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
@@ -553,8 +553,8 @@
       "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
       "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
-      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
@@ -562,8 +562,8 @@
       "title": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd0ZDTElvc0s0cWJya3FiUzN0NXJNUHlqM3NwdFhxUXA4ZjJxZmpGel9qLTVnWXUyRFhtYUdYMHhUVUdBOERzV0tEdWxLcy1WNm03N0hOTERzVUx2ak5jNV9EVW1zcjNWWFBBSkxEYnlzaUQ2Y1A0MlBBRk1LdFFjUnNfN1R4b0FiTnQzR29faFZ3SDc4dlIxMERFSGUweDJiMXNfX05rOEUtTzZxeVd2OGFicFdQOElzVEgxejBRM1hMLVRwNTJVSnVqREc1aG51MUtLdzhsRXJpOW5ybEdhdVFB?oc=5",
       "pubDate": "Sun, 31 May 2020 07:00:00 GMT",
-      "description": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina The Washington Post",
-      "source": "The Washington Post",
+      "description": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina washingtonpost.com",
+      "source": "washingtonpost.com",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
