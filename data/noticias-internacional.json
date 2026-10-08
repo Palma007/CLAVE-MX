@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T18:01:35.672Z",
+  "updatedAt": "2026-10-08T00:30:55.715Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,76 @@
   ],
   "items": [
     {
-      "title": "Premian con el Nobel de Química a dos investigadores que revolucionaron la fabricación de medicamentos, fragancias y nuevos materiales",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bTd3bzlYUHFpbnE4cjh2MmUzQ3BiUTJnVjVTSG1DQm1XXy1remhlUF9FT1VCYlRsN0dtQkFnb0hoRUZQNHJIR3BqQ0hqanNfNnB3WDBnaFJVUHZK0gFiQVVfeXFMTktCTFUzUVdpU0xrWVJ6VG5PQ2FCQ1NnWXkyc0tvb2d3M1VpMkZjSXZ6U2tDWDZXX3RTbHlfa2VZcmRsNzdmQnZuaUxMZk1kSklhR2diczlOZ3RYdTRuUWpfOGc?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 16:41:15 GMT",
-      "description": "Premian con el Nobel de Química a dos investigadores que revolucionaron la fabricación de medicamentos, fragancias y nuevos materiales BBC",
+      "title": "Muere a los 81 años el icónico cantautor argentino Piero",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WN1FBdGdFdjNFTkVHTy1aZWJ1c3JKOGE3RE1KbkhoUkhvcGtNcks3QjdlVXl4U08wd2g0clJjTGd6dWFOTVRZbzV5VFVZemZ2Z1UzMWtQQml6Q2JZ0gFiQVVfeXFMUDVqc3ZqWllSWmplcTJDS2RDcFUtbWVYWDljRkdhcHZEYVo4VlpJVTR5eWdOT3g0aURya0FDQnZQT1dOMzhUV05BRTlSOWszeGpNblNITW9xcG1IaWlMUVR5blE?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 23:20:33 GMT",
+      "description": "Muere a los 81 años el icónico cantautor argentino Piero BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Exclusivo: Nicolás Maduro y su esposa podrían enfrentar nuevos cargos por la presunta tortura de estadounidenses",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMjVsV3lTM2l4ejNWaGlSbmlWMTZvZXItRzFjbEpNYnNNU2pLdUlDY0pIbExyUjFZU0c5bnFqcEZhZWpLR2s2UE04bXJ2VEh2ZlpXTlFRUG9YLUcyMTR4TDlzMk1vVU9CX19vX3d6aVNEdjRicUtPcnpEMUItUlBvZU9iZHVyWVZsd1Z4eTYtYjhUUVphVThGdzZhQU1Kd3VOd3BjV25lTVByU3Js?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:00:00 GMT",
+      "description": "Exclusivo: Nicolás Maduro y su esposa podrían enfrentar nuevos cargos por la presunta tortura de estadounidenses CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Murió Piero, una de las grandes voces de Latinoamérica, a los 81 años",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmh2Z3NFdjNfMXZObzg4WHd5cll0NkVmbU1Ec1poU1VvUk53Y0Q3WHpJRndiRUpYWkZZM2Y4M2VIOFljaFVOYlhoTHVqelhPMkRFSTBzY2J1eDJLaTBRZlAxZzhkTDduanhuazZ1U2lIdUFmU3JqZmRSazZ6dkVOLTR4dVhtaHBIVFJkaVQ1SXlkS3p6bVpwQkpzSjVrSFBaR0JHYXRCWEE0a0F4NkZ5Z0xrTzFYLWV1czBQMDl3MkhndTRJS0E?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 20:08:28 GMT",
+      "description": "Murió Piero, una de las grandes voces de Latinoamérica, a los 81 años France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Maricarmen murió horas antes de firmar su contrato de alquiler para ocho años y recuperar su casa",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnBjcXRJZjV3N0M0NjkwT2h4N1lKYlJzR1B2eGREcUpDd2F3MDl0YWhjbkpYWTNWWGFSdEkzTzl5OEMwUGJpQzlJSmwzRW5BUWRKWVVPY2xPZTV5eGQ0WXZTRl9ZaEFTNDJ4Q2p5NFdabHhZZDRIOVUzdXBSby1pQXExdHpuckNydDI4d1R4Y29zdnlBc2EzSFJ4aGh3Y1V0TEdTRHphV2RTLV9UZnJoSnFWWHg0ZHhEa2VNLUNxYUdabk4yWWtqc1J6ak5QVGF3cG51cFVYSkRYd080eGM40gHzAUFVX3lxTE1MeF9ZWjRWZEVtMThIdWt0My1peDItOFUxR1NYQ3AtNmI0R1NCd2VndUt2MGx5TVNyd0lOZDV6aW9yU3REeWlUUGFQZF9idExhU1F1aUR1RWlicG9qV25LM1QyLS1uV3NWT1VVM1RBTDRyaFNVRExOTFVPdVBqczJkMno5YjJwMVcxYXRsTm5QVVRDLWVlTDNQUG4xbFpjTENHRFVsMmJWeE1hVGxaZGl0R0M4NWhTaGh5TDB2MUk5Vk5JQjhaam01QzlxTDVkRXQtb0JwcGRzREVETXBvV01qVGpmc1pCZU1jcDY1QjR1eV85bw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 20:05:20 GMT",
+      "description": "Maricarmen murió horas antes de firmar su contrato de alquiler para ocho años y recuperar su casa EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Un alcalde francés protege a los estudiantes durante las protestas en París",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOERfTExEUnFrUFlRWkozSjdpQUZzaEFJeFFWREh5RFF1MmF2QlQ5WGM3UzNZcWtmQXVScDFaNndpUGFXUnBrRkJ5S3JxTXhyRzVtNFFpcm1OalFXQzA5X3NzMm9DcUxFdGNFQTNSNDlvY2NRb1FhTU1ZUFAyODRITUs3cXFHMWZNcFE2MWplMWRIdw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 17:24:23 GMT",
+      "description": "Un alcalde francés protege a los estudiantes durante las protestas en París CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La \"casa del horror\": la pareja acusada en California de abusar en su mansión de al menos 14 niños nacidos mediante gestación subrogada",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmM1JkbWo0Vm1NeUgxczFEa0gwYkdOaDBSRkU0M0pFcnY2TGJrSkkwbk90bGxQbWM2WHROYVlWRzR1c3luemkzSXh0Q1A1dDZvcjRwVjZKWHE1aTFf0gFiQVVfeXFMUDlEUXlXTHlfcENFLUQ4RnlORXZvNGQ2eHB5dDdBNU42VHBUUFVPM21VR1FUNWJyWnB3c2FJU2kwNWVSUk5kNUtteUQ3emVDaFJTeURYSzdEaWtkSDVzNHFWYXc?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:50:33 GMT",
+      "description": "La \"casa del horror\": la pareja acusada en California de abusar en su mansión de al menos 14 niños nacidos mediante gestación subrogada BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué es el misterio de las asimetrías de la naturaleza por el que dos investigadores ganaron el Nobel de Química",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82bTd3bzlYUHFpbnE4cjh2MmUzQ3BiUTJnVjVTSG1DQm1XXy1remhlUF9FT1VCYlRsN0dtQkFnb0hoRUZQNHJIR3BqQ0hqanNfNnB3WDBnaFJVUHZK0gFiQVVfeXFMTktCTFUzUVdpU0xrWVJ6VG5PQ2FCQ1NnWXkyc0tvb2d3M1VpMkZjSXZ6U2tDWDZXX3RTbHlfa2VZcmRsNzdmQnZuaUxMZk1kSklhR2diczlOZ3RYdTRuUWpfOGc?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:45:45 GMT",
+      "description": "Qué es el misterio de las asimetrías de la naturaleza por el que dos investigadores ganaron el Nobel de Química BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Así luce la primera película creada con IA que se estrenará en los cines de EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdTVleml0TVFWYkFzNElVcmVqSkNLcjFZZjZDVzBZSFYyUUZvdU9IRnF1OS1XVUJMOXEycW16a0tBMnFuZlB4U3hXcFMxVC1lSlp3RVhhdHU1MVQ5SEw3d09td3hqb2xqNm0xYXlBWnVCbnZqMTRobTNWdjZUNWFodExOUVQySF9MN0NhRDUwbEpiZl9JeVBJVHBNRXFJRzFsc3N6M1FDeW9aUk1VSTZqQ3c4UENKdw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:25:00 GMT",
+      "description": "Así luce la primera película creada con IA que se estrenará en los cines de EE.UU. CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "La BBC entra en Gaza: campos infestados de ratas y miles de niños que necesitan ser evacuados de una zona devastada por la guerra",
@@ -82,15 +145,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Listas de control, mascarillas y misterio: ¿qué pasó con la alarma por peste en Rusia?",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNDhUdGRuckQzNTB1YWN0VWZhejVFb1hVRE85Nl9hOHhLRzJscFA2a3dzSy02YjhqYl9FNk1scnJ6MjNWSHBYT2g0Q01KZXFFWmc2SU10VFNZNF8zNGctTXFWYkp0eUh2cG45VHVUdkRHSDRPYVZJWTBPVXYtWHZVb0Zn?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 13:50:00 GMT",
-      "description": "Listas de control, mascarillas y misterio: ¿qué pasó con la alarma por peste en Rusia? CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Israel rinde homenaje a víctimas del ataque terrorista de Hamás del 7 de octubre",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbm9mSW1WbzRVc3cwRU5qVzZWNnMxNnB5UmhzdWNCRGdFTU1CVnd6MUR5NTZKYUtIM1pSclRsdDJmU2VMeGVnRTNNaEZlc2lRNFAyNHl4aHFwWU15aGZwN3BTUGF5SExDbzlkcHFtdEt2cHgwR1NNbDNMSTBsMThPWkhMaUxCXzFONjY2a2NaclU5ZFd4U0tBbE96eEJ2ekhER1lsYjlQVURDQk9fcUs3T3JQcW1NMEJLLUk0TnFJcjLSAcABQVVfeXFMUG1ETk9SdjNuYVp6OVEzY3l5alR2MG5TMGlWS0otMlFnNGVaZ0QyLUVfUzlzNXQ1ckRCcW0wbUJNWE5lX3VEb1NuNHFzRFBKX3c5Y1VnSTgzcXBGa0JHNlRmVzlXSXVHWjFYaUFWYnM2Y2o4QzhqMGFrVWxoYTJ1RU02eE5VXzZZRmtkUnllMERUNDZVdFBxMnAwOGo2ZVJjYVJUN2ZEalplY2ktRWpRUkU4eFA0OE9lYkpVQjZ1R2Y1?oc=5",
       "pubDate": "Wed, 07 Oct 2026 12:47:37 GMT",
@@ -98,6 +152,15 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "Israel conmemora el tercer aniversario del ataque del 7-O en vísperas de unas elecciones cruciales",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMXgwTG9qeG1DOThBem5RcVpJNzVacmV0b3lQMmZIZWM4Q3JRdHZtY2xVcnR2UWZaXzVsb252cFZiN3BPUExCaDNOYW9GTjlNaDh5T2ZmdG0tcjg3b2pkOEw4OUhWMlVUOV9NRHZLNk1rWW81bEg3aDNDTmpIRGFzWUlUZlNHYXVsaEJuVmFDTGRaU1RTbGNhXzYyZHhSZXpHQThYU1ljT2lHOTVGVXI4NklrcGMtRHExYzlkemJnc0dlYVdEb0RBZ25yMzY3WHcxUjI3OWZ5R2V4YzFiWDE4ZklUSEhBLUJGM2FF?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 11:56:45 GMT",
+      "description": "Israel conmemora el tercer aniversario del ataque del 7-O en vísperas de unas elecciones cruciales France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Ante la falta de cooperación de Rusia, EE.UU. presiona por más información mientras intenta planificar posibles consecuencias",
@@ -154,10 +217,10 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Abogados solicitan que se preserven las pruebas tras el intento de ejecución de Christa Pike",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb01yNGVOUUpQbURqSVUwWWFMc1FXN3NlOE9zU2dkdUNlRWFqQ2s5LTh0ajdfWmxvdlNXamdDZUNBeUxLazVrMjBMSVktR3pwdkE3ZUtLeTRDOU5aak1mQ2JiNlljQWMyTk5hSjNLVmdwR3NxX3B2RWdDRTh3MlUtNnVVWndOakJPVmNqZXRlYw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 09:00:00 GMT",
-      "description": "Abogados solicitan que se preserven las pruebas tras el intento de ejecución de Christa Pike CNN en Español",
+      "title": "Video capta cómo un tractor con remolque se estrella en Nueva York con 21 personas a bordo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWNtZmQtb3pNUjYxR0s5VWlGbTdSTTdnSUJRSDVfYkFIbEZMV3pTYlU0cEtXcFBLMmZZMGZ1cnM5NkFzdnBYeVdzOVM5X0ZUNzdSM1JFV29VMXlTQzNPUDB6dVVsNXZsODhJTk9faEk5OVZYSzBJSHk0Z1llN1RlNDJSb1luZnUy?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 09:09:51 GMT",
+      "description": "Video capta cómo un tractor con remolque se estrella en Nueva York con 21 personas a bordo CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -190,13 +253,13 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Por qué el creciente acercamiento entre España y China causa tensiones dentro de la Unión Europea",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXT2NXWmtORW1WLS1vZTVwUzR6LVZmZngyYWpCc3l1TFRlQ1VnSVFxM3A0enN2QzNPdGlIZ1BRMW85dkN4MGE4QXB4am1lVXlNQWFlQ01yQ2pxenJv0gFiQVVfeXFMT2EtbDhidnVQRUZYX0lWUkRpV2NxMF9JR01iWGVoeGd4d1hpZmREaXpydzI0bjNvZVRGby1xNFZoUXJnMW9fZ0tEV1RpS000QXlLUEk4UGlsbmJzX3BtWHctYlE?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 04:09:05 GMT",
-      "description": "Por qué el creciente acercamiento entre España y China causa tensiones dentro de la Unión Europea BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "EEUU anuncia para el 3 de diciembre la primera ejecución militar desde 1961",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnVJT1NBX0NhS0tuSGZhTW92Ny02c0QyeDlMaEMwQkhIVmxIM1I5dEtmb1lmS1UyOGdKWmlMUFdNX2lBN3Vpci1hZlNDSmVGV1FTUXdTYjAyWjRUU1A4andmeUlWSmpsamJJdW5ITUJ5b20zam01b0xKTkdONFprbUdMV0U5MkJmbGtfcVFHd3R1aXhUYVVsdFV6OVFyZU9pNGJURnptendWMTFxRGNjLUF5NNIBswFBVV95cUxOeXEwaERLenphYndVVUlsaTdUZ0M2RU53Sk5NTURoTkFIMm1RMGpUODM4eFozYWp5N0hSSEEwYjJCYkVMV0ZZNjZYSUhyQVhoZXRJZzZYV09kaEFQY1dZNTU1MHcxNUxUbzd4YkRmeHVrSnhPQWtvVTllMGlYcklYanREZ29QVXNFQU5IZF9wcEREbXlfbHNDbEEwSE5iaVgwSXdGbmxsS0hUdUNnWGVZTENWbw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 04:15:52 GMT",
+      "description": "EEUU anuncia para el 3 de diciembre la primera ejecución militar desde 1961 DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Haití posterga las elecciones indefinidamente por crisis política e inseguridad",
@@ -208,6 +271,15 @@
       "domain": "dw.com/es"
     },
     {
+      "title": "Los sindicatos ultiman la fecha de la huelga general en noviembre entre críticas de la patronal y la derecha",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQnhpWEIyNHFON2dYUzRZT0tmOEN3b3JWNkhJWEJ2TEtxR1lvREc0R1BpR1BhRVRWYTJOQmdGcVp1MFlxQzNLUUNab2JNTVVNNHpVVmZ3NHNBT2stMFZ2c045NGNONXdQYnFZNEhzZy04aUhOY2dDWGpBOVVrQ2hDZ2p6a1pWQ3lUYVBzSE5yd1pVZVBwMVcyMDV4MDJ2Q1g2YUhxYnZxbHFRTjF1TFFuWDV4VHNvYVVPVkZwbi1CaFBSbk42Vk5qU2FVTEUtYU5GbFRZbVV6LXBNeG02M2prQUxwTHpQZDjSAfsBQVVfeXFMUHpnQllVX3pJVlRPUjd4c203czRkN0g1RG1OeWU4bDFlN0F0NDBCanVabllhWVctSlJTZ05vTkEtR040aGVYcmN3b2JNOGZjcjNDNlluMDN5TV81WldnSzNGREJvd0lTdXBjUmxKYS0xc0ZlcHM0cFZsNjl1aVVHYWstLUk0UUsxd21tbVNxWFRTOHJTbnEyNVQxamNGY2RWYzNOd0F5cXB2TUFPRG0xWG4zNjRBRmVBV3RnV3kwal9iVFROSS1nMVNXaEs0V0Voancxd0h6em52V2I3Ti1sWXNBbEtwX1BCemdSOTJJZlVMdW80bjNlYjliM3c?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 03:45:01 GMT",
+      "description": "Los sindicatos ultiman la fecha de la huelga general en noviembre entre críticas de la patronal y la derecha EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Personas, empresas o grandes tenedores: ¿de quiénes son las viviendas en España?",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT0c3U09LZnlDNnJjS0hfVlFzY3pfR2FuNVBXT0x5RkU3eWpwakdxSW5nWEpWOW9wT3pqWjBFVUptU0lPQXZqcEUyeXdoOURaNnpJV1E0ZzYtXzZrMGRCYU92QWtsVVYwbFJmczNkZ2l0cVB4RFpEbHRZWGczVmhWeG82NFBHRGFFbmVpNncyY1dVaXdDMEt3OFl6Wk4zb3hhUXg5SWVNTHpuenpDaXh0RW5fOVZRMHVRQV9kQV80cnlwRG1ZNmlxUw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 03:30:01 GMT",
@@ -217,49 +289,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "¿Cómo se mueven los votos desde 2023? Las encuestas por sexo, renta, edad e ideología",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQW9NY1plWVZzb3RkUTliemZBcy1hcFk5aFM2ci1MWmZsM19kQkQ5NkdRUE5aMUNIV2VMcGR3WjZxWWc2cUtUckd4LTFJekt3OUVPcUVnajRIaFFZVlFfZU5Jb2xlVUlxNGNUUEtRNnFQWllzYUM3Qk54QXRBSmQyZDFNMWN6VTFSc1FMTmNvOG1PYnZidGlROGctUUltbmxrRWZsdVRyb2Rucjk4MlhSZ0pId29vSXM1ZFE3OXlYcUszRWwtQjE5TUZjUnM2TDJ0M2N6SFpESDgwRHZC?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 03:30:01 GMT",
-      "description": "¿Cómo se mueven los votos desde 2023? Las encuestas por sexo, renta, edad e ideología EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "De Sheinbaum a Meloni: las líderes mundiales impulsan medidas para protegerse de los ‘deepfakes’ con IA",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcXpGczZXUDlFdEZsUUpVaDdqbXlULTdseFMzLWhmdmNVZHBtbUdvYm5fVXpLLW15MzZ5UnpDNnNrdFU2V2h6N2gtcm5GNGdJLThESlBDUFBwczRXMTBfdEV6cmFUbHBqdFhRX1U1X283eC1RNUhFMmg5Y3loSmdZVDhFNFZrNm45MjZmOUF6VVpfVDg2RE1SNWdYT1JzTzJIQzYyaUJjOVZlQzFKQU94ZHBESW1BUTJKS1BsRHNPWHVsX3ZXd3VHMnlLcGxSdzZmRjJ1czVQbGM3eFZ1cEpF0gHzAUFVX3lxTE5IcDNDb29Pd1NtcXoyQTdEWnBRTzdYcnBQTzdxbjlQUDZsUGRTUFRhenNxb2dPOUtTQ0hOZzFyZldmNkRnZ2VobEdpQkh3OUQ4dFlrd2RKdTNFdmNxUmZicnNKa0ZUQkFEYmhvZ1lvZnVVMl83RV9TMFBXWHJ2REFIQ3I3M0hvU0JpUm9XVFpRYlZsU054QUprc1RUNXo2NmZyUm5zemhsaEl0Z096Mlhqdkpwa0FrcjFSdHNVVDBTUk0ta010bGRqYzM3T0hJRmNjVk9jVGFoeWR5bk5WYWJVY1l6SkIxRHZhSUFKc2dNY3BDZw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 03:30:01 GMT",
-      "description": "De Sheinbaum a Meloni: las líderes mundiales impulsan medidas para protegerse de los ‘deepfakes’ con IA EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Los hutíes atacan aeropuerto de Yemen con drones y misiles, según la prensa estatal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYkFsczh0WThBY2MzNEk2RE10SlBqenVGcmI1TGZIRTNGQnM4cmNTLU1PN2FVNDZ4eEdRVjdMTnBBdy05dW80N2U1UGNJVHVwVEdBV2NjTEJ3SXJHSFM4N0RrbmVKVFZCSS1VRm9LYlBrWm0wN2l2a2RSVHY1dlZ2MmFPb3BFd0h5ZGFXYXNHcnNKbWxHcU5VN3g4VHRSRzBKTkZhR1BKaEUtQ0hmTmdSVkVFbDBYNk1ON2dOWnhHRndzbmvSAcMBQVVfeXFMUFBPYy1acE1KbjFWanBjaHN1Sjd5Q2cyVmtVbzVGVUN4WDRrYngzT0Q4ZUJBN182MG4ta1FSQTlHY09wVDlzRVhwamxsVW0wUEVoVTVranRpaTBuNG93SXpLR0Q3c3dlU3FTX3lSNEhYZlZQblV4VUVMdzJtaXU3dUxETjFsUWhGZHFpVERfX2ZtdjVRMHptakd0LVhhcjdiSlZiWjNmeVEtZmJkLUdEcVh1X01mc09LUUVaY1EydnpsdXVN?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 03:24:58 GMT",
-      "description": "Los hutíes atacan aeropuerto de Yemen con drones y misiles, según la prensa estatal DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "\"No cumplió su palabra\": la explosiva carta de Cristiano Ronaldo contra Jorge Jesus tras el escándalo",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVItUEdSc2ZJY19qb1VKWFRSaktWdnB4RTM2WnlsY3ktdU9rRFBXdnQzVy1NUS1yR3c1ZjRsT3hCNC1xbmczdDkzdzEzVHBmT0tza25NSFN2Tk8wZkpkRkN2cmQ2cWNQdDNEbHoxU2hwa01VWTVNQS1acXZlU2JMMFZISldhY1U3MFhqVXFiclQ?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 21:18:00 GMT",
-      "description": "\"No cumplió su palabra\": la explosiva carta de Cristiano Ronaldo contra Jorge Jesus tras el escándalo CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Las mayores señales de que Trump y el Partido Republicano están entrando en pánico por las elecciones intermedias",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR2xMV042WDdObWNqSHhvTG9fMzVJMXFxQWlwNjFHVkh5ZlEtcUFqRVM0NEstWkp1anZzdG9LR1g2Q0tJQ09Day1EMFV5XzlxRHFSSEtTWGtXMTh5YW55NEtDTTBIT1lCa2FRNEFNQXJRV2Jpd1RQTl81YUtqaXcxZEtHQzZxdmpDc1k2VHFuQlNGSTUxRXE2aENUSTVRZG1OTjdybGRn?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 20:38:00 GMT",
-      "description": "Las mayores señales de que Trump y el Partido Republicano están entrando en pánico por las elecciones intermedias CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Del 7 de octubre a la guerra con Irán: tres años de un conflicto que transformó Medio Oriente",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR09iQlNobzFHZVpWRWNhN0pXRUVsQWY2dnZ4d2toMTVWNXhJcEFTVXZ1MjNHTWNxS3labnVjWHJsT2tWREZ5V04yX2VIaFJQbUk2NTNfRXR0R1NFNFVOZFVRa3RuRDEwZ1RYa3o0TzVZVmFwNmljSEFpTGx1X0E0cEdDTXRLUXZoMzFFUEVMNXlfSHJELXZxVDdqQmh0Y1B6QlFMLUFMQmY1VzBGS3Y2dGJNR3ZPdGt0NkJoRlhBWTdFeGdNNkVkVjFURjZJTHFtY0EtTWY3OWpDT3Jhdy1ZTmpuVGJfVGNrUVBwT3VGbw?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 23:05:00 GMT",
+      "description": "Del 7 de octubre a la guerra con Irán: tres años de un conflicto que transformó Medio Oriente France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Venezuela's Cardon refinery halted after fire, no injuries reported",
@@ -280,28 +316,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Qué es y cómo se propaga la peste neumónica que se estudia en el laboratorio de Siberia en el que falleció una trabajadora",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KcXZoOG52NThXM1ZqaVJxcVlWbTMxSXlla200Qy1renlzb0Yzb1NKWWswTncxdVJSZUFvel9XdWFiWFN3VmhDcllJM3IxMTNEZ0tadW90c1lEOUpZ0gFiQVVfeXFMT3Fqb193ZmpGMy0zT3pmZ2gyZnhSOGdwWnpkTUJwck5QVUxhTFA3VUM0cFl0LXc3RmZKcUY4dy1fbVpFckhNRDRuMnBVWFNPNzgxSlIzdzlwNVBubGJabmhJMkE?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 19:44:43 GMT",
-      "description": "Qué es y cómo se propaga la peste neumónica que se estudia en el laboratorio de Siberia en el que falleció una trabajadora BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Francia afronta una nueva jornada de protestas estudiantiles mientras crece la presión sobre el Gobierno",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOT2h5Zkx1c09FTU5SbGNpaWpZM2c3X3J1cVdJUzI4Rm5zX0J0NlpJYWwxNnF6X3V2NUMtWFRQN09uZm1MekJxa0dldURhLUJUY2pGU29COFlIUnpUbGZ4c1JwNEtXTEFUcFVad3U1UEJheWpDYWM2SXRLYlVMQ2VrUjV3My1RLUw3TGd5dWhqNm91dldnWnJCcDUyc0NfSmhfLUtMN0hTaDVjUlhlNDBSQ1lrSmFqak1MNEFhVkJaQTFJTTRlaHFfakhjRU94Sm9uQmxOMWJ0U0R0dTJNTUhxVUFWN0J4NEZMWkE?oc=5",
       "pubDate": "Tue, 06 Oct 2026 18:59:03 GMT",
       "description": "Francia afronta una nueva jornada de protestas estudiantiles mientras crece la presión sobre el Gobierno France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Ni cese al fuego ni reconstrucción: tres años después, Israel sigue ahogando a una Gaza devastada",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcWlyeXhRQ0pZZzNYM0VmMkJMbGFtSTlqaFJ3cWJYM045VFNFUFdTazg4QUpPb0IxdEo5ZkFncUlMTktwTEh2eEMxVFBhRmRqX1lMOV9KbVNBVFRVVnplU2RQcmJTSGZxYXNRSm5YSm5oSl9mZmhGWDJxZmM0elpYclR4TjZYRU5MX21OdkZrTXRLXzRJVTQwcjdNQlVzc1FzanZuYkpRM0VZT2hEc0pZYk5iV2EwdVQwQm5LNGE4aDlFdjFoT0JFS0w4WEVkRFJ3ZXBwdVZjVHV1VUVKZDV6YS1CNWxNNndMQThWajFTVWdMYlk?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 17:15:50 GMT",
-      "description": "Ni cese al fuego ni reconstrucción: tres años después, Israel sigue ahogando a una Gaza devastada France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -332,6 +350,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNME5mNWI4S1ZzcGRoUDk1R3NETnJ0R2NsRk1hV0pVYUp5cUs4MmhZbm1JNHNNMWhuTVBmM1p2NWl0Vy1LTEJrdVhtOXppM0loSldRS1lWUEZoY1RZR0FCcV9QYnJ1MXRUY2Eza1pkcmpTcUxNdU85bFczLUxDWndRaWdSWHRLSko3a0ZHQ1BVTjUwRnR2OVA0OUI3dDdndDFOWW4wM295OE91X19UZ29fUjhZZDJ3SmdJamlr?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 09:43:13 GMT",
+      "description": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "‘En otoño, sin duda moriremos’: el hambre amenaza a una ciudad ucraniana cercada por Rusia",
@@ -370,22 +397,13 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí?",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNVZsVXBVdGNkVnZKYWdpdUF3MDc0U0FONFM1QU51bzNtb3pqQ0o1bkJUeEttS09aaGYyak5FcXFJLWhEdkk0aFUxZjQtVWpPTWM1eUpnTWlCSnpVRWgydmd1UUloSFUyeC15YXpqUHlDcV9UcmowTWVPSnh4THc1Q2lWSHZXYzdxMVFhRVcwWnNFRzdla3VEY2pkM2I2VHQzSEw5ZXRrTVczMUdiNDRVZnlxRmZlS0p3SjU1bTJkblNrSjlvZXY4WUdYaWVFd21oZ2VFaWNpcFVOY3Jld1pUWmZERjdaZlVrZjYwNGZlU2g0WlMwNDNv?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 22:41:00 GMT",
-      "description": "Arabia Saudita, Turquía y Pakistán activan su alianza militar: ¿qué implica ante la amenaza hutí? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Nikolas Ferreira y Lucas Pavanato, de influencers a ser los diputados más votados en la historia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQLWo0WG1tdzkxMWt3X241eEI5U3lhVzVsTC0zRF9pemQxbE1pcmFYdkdQR01kVTk4eHNPSDVQU1Qyd29qNkJ2R1VDWnNJRzdZQ0ZmX3R5azN0ODk5WnBxRkZVQnhUYjB1VlU2TDBfV2Z5dFZ2azlGNlMxMWRPcEltQWJ2eWJMR3V1X3Z6bW8zaHZNX0dLU1U2VGdyQ1Bod1pEWXQzUUEzWGRGbTRNWUJqNzFSdWpjWUh1aXNXQ1BXWE42VTJQRHUyUFo2d01jZXRlbURGTUMzdTA5RFR6ZlM3NEFJX1ZsVzdIaWJNZHo5WkFPSl9BYmlqV0lWMA?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 21:21:17 GMT",
-      "description": "Nikolas Ferreira y Lucas Pavanato, de influencers a ser los diputados más votados en la historia de Brasil France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0NLRjl5cVlHczRJT1NPZ3BsNjlGSE11WlhhUkY5TmtONEVYdmc4VlFNb1BRMWRERllSYVpYdFRqYUZscVp3NDZjaEFBdVhZd2NrWVh1TGFCOW5XdXhMYnVmc2taUEp1SnM5NWlGcEpFVFdfYl9mZEZsWUVXQXN0OHZ5YS1OTU5TMGFSZmljU1FzRmRjNExIQ1VvMm1fck9D?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 14:50:59 GMT",
+      "description": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Baker Hughes signs agreements to expand Venezuela gas infrastructure",
@@ -424,15 +442,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0NLRjl5cVlHczRJT1NPZ3BsNjlGSE11WlhhUkY5TmtONEVYdmc4VlFNb1BRMWRERllSYVpYdFRqYUZscVp3NDZjaEFBdVhZd2NrWVh1TGFCOW5XdXhMYnVmc2taUEp1SnM5NWlGcEpFVFdfYl9mZEZsWUVXQXN0OHZ5YS1OTU5TMGFSZmljU1FzRmRjNExIQ1VvMm1fck9D?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 01:45:00 GMT",
-      "description": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Lula y Flávio Bolsonaro irán a segunda vuelta por la presidencia de Brasil",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWY3WHIzcXViSE5MYUpCZzRIRHZBcHNvTTQzOHJYcE5zNzduMzRYM2tGS3ZfdzVORlJRclRSNXBoallwb0k2Z2ptcm9qdFNYY0x2S05sUE5raEVBY0xUYmowY1VJNU9pdEFHUDZUdnRmZG01UHZVOVhWWGZlMzktaG9YczBXNkNuU3prZ3RCT05YOTA1N3hoXzBpUGNPMVE?oc=5",
       "pubDate": "Sun, 04 Oct 2026 09:10:08 GMT",
@@ -440,15 +449,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "¿Quiénes son los pilotos que salvaron al avión de FlyDubai?",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjdUVnA2NjAxUzMyZExDUThaZkRMVjVRbTFlbm10Zy1nYW0tdHhMMjg5MlJydW43WHBEakl0alFfdnlaTFpWQmpnUkNzSzZsUGY2VTZyWHBoLU5BR1dXSXdBZWFMQnZmV3hhWWpITTlFMmRHdjNCRDZZQUFEMlpYOHloamFDeXJyNS1HOHpPMW1fYVdMbml2QktOVHZLLXNaSllBa3VOZnRSdnZzQUtmNFpQUGl1eklaRkdwbDlObGhzRUl0Zkt5enFpMmxuSjU3NUhndnBB?oc=5",
-      "pubDate": "Sat, 03 Oct 2026 15:19:00 GMT",
-      "description": "¿Quiénes son los pilotos que salvaron al avión de FlyDubai? AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Venezuela's oil exports down in September amid high freight rates, data show",
@@ -473,15 +473,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHB6aGY3Q29Ea0NidEwtMC1QY0swbk9uY1gzU3NrVHlIR1JlVUR2UmhTa1oxVFBLYUNkaXhNa1ZQWkVyWGF1MS15M0I5bjJhcGQwNGVjSGQ1N3ZEajRIdzhRV25nUWE3XzkwUTlKZ2RBOThGdy1KRnF3akpBTVE1R3lGWmhtMjVXbFh6Rm4zZEZ5LTRIZk1BXzI3YVB0MkVlVWNOcnJrTWJVd0RST1VMaGxUdw?oc=5",
       "pubDate": "Wed, 30 Sep 2026 23:45:54 GMT",
       "description": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 16:37:11 GMT",
-      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -557,6 +548,15 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Thu, 20 Aug 2020 23:27:51 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Opinión | Datos y llamadas de celulares, en riesgo de espionaje por antenas falsas en América Latina",
