@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:30:55.715Z",
+  "updatedAt": "2026-10-08T09:36:18.234Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,10 +64,73 @@
   ],
   "items": [
     {
-      "title": "Muere a los 81 años el icónico cantautor argentino Piero",
+      "title": "Me diagnosticaron fibromas. ¿Ahora qué sigue?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ObWtRR1dtS2xCQ1NTYjVMQ21TdGxSUlV4TmllRzI4NzlQYjBLaEd5QUpSUFB5Rk03bDMxU2pBX19SVEJuaGZHRHhxVTdDd01CZFZYdjlkaVk0VEN0WkNEVkZwYXhRQWkySnQxX0tmNEJJY2hKbUl6ZDdBdw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 09:03:54 GMT",
+      "description": "Me diagnosticaron fibromas. ¿Ahora qué sigue? The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "El Gobierno suspende el programa Jóvenes Construyendo el Futuro en plena desaceleración del empleo formal en México",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQaEJ5TDZ4TkNKZzVLbC1UcTBwS2NCZlQ3WXVCb2dYTjJHN29xUDZoWmp5TzA1TE9QblJGN2E2dGlnVS0yemowamVFX2x3Y3RoNTVhd1dQZk8wOGJnUVhjQmdpdXBaWHAxMERRdkJYRUhkYmI3RDFFQmMzSElBQlNPbjliTnlLUnpJNkMzVG9sbGJMZk1lSHZGV01BN1NmWVZzanNCWWpDdUNKWUN1b09tUFVOUU5MTDRHM3duU0RfNS1vN05aMzh6bmpJSG84SUt0U2tSMzYxRExVZVVUTmpFY1lYMnMtSGRIQ29tRlFORENTMDIwT2NzQkdn0gGOAkFVX3lxTFBhRGJlS0ZwQldQb3Y5aFExcmhNd0JKS09UajU1SXJhaFNvemJDaU5QdjJkYi1STDl6QUlQTmlWQWgxSnYxUlB5S1ZJaF9SZHZyal9ITjFrMHBnTFAzc2k4ZkNvY0ZackNLN3diQ29LeFh6Z3pzUGFWbWpqSlhpbWxtWGdpQUUzOGJUNmZ2NS03X3FfQkF0NjcwSlBTcl92ZHZFQTJDOXdzS2R4THRIVFdJOU52RFFod0NQQ2d3RUpKbXE3emFlbFB4SEk1Xzg4eVFNeWRXNDhYYlpqanRVZmdhcldESEMtenEyVkVvNWRlOEdLU09FUXVHU1FnR1E3d0pEQ25PVkdtRDZiSXhUZw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 01:57:34 GMT",
+      "description": "El Gobierno suspende el programa Jóvenes Construyendo el Futuro en plena desaceleración del empleo formal en México EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Canadá descarta indefinidamente la eutanasia por enfermedad mental",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUU5rcFZNV1lQd205OGRjczAzU2JrVDlSWlV3c0xVV2F3NFpqa1VYZlNQMFRVMFZpdlBIai12ZlBoX25YS3pzd2VYVndvZHJFZlQtMTQwUThoN1dOd3FsZFlRMlZoYklGdlFwNW1NczVYejR2OXlsbEtJNzY3WXdhY3g2RDBwdGZDMzhKZVFoci15S2t1czE4eURxMVg0VkQ2cTJOOG5ab9IBpwFBVV95cUxQT1FNV1E1M1VzczE2Sm9zakdQdzBiUll5al83LTAwak16Q0FjOHo1QWV5cDRtMXlZVHc0YVZYRm12aEtaQi1zNTlhU2ZNelVCTjViTmJ4SFlETm1ibDNjS1RzUG9fTTAzNG1vWmNneTdQaFBZVDhua0tVV1F5a3M0aG9ranpFM0tEUzdSSXk1OHJxdHh1RWpoQXcwamxRZXZyanZzZDBGaw?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 23:55:23 GMT",
+      "description": "Canadá descarta indefinidamente la eutanasia por enfermedad mental DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Muere a los 81 años el cantautor argentino Piero, ícono de la canción popular y de protesta en América Latina",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WN1FBdGdFdjNFTkVHTy1aZWJ1c3JKOGE3RE1KbkhoUkhvcGtNcks3QjdlVXl4U08wd2g0clJjTGd6dWFOTVRZbzV5VFVZemZ2Z1UzMWtQQml6Q2JZ0gFiQVVfeXFMUDVqc3ZqWllSWmplcTJDS2RDcFUtbWVYWDljRkdhcHZEYVo4VlpJVTR5eWdOT3g0aURya0FDQnZQT1dOMzhUV05BRTlSOWszeGpNblNITW9xcG1IaWlMUVR5blE?oc=5",
       "pubDate": "Wed, 07 Oct 2026 23:20:33 GMT",
-      "description": "Muere a los 81 años el icónico cantautor argentino Piero BBC",
+      "description": "Muere a los 81 años el cantautor argentino Piero, ícono de la canción popular y de protesta en América Latina BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Violencia escolar: ¿se está replicando en México el patrón de los tiroteos en EE. UU.?",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT3hod0t0Z2x1R1YyalMwYXVsZmZUd0pYVUh1Y0poSlQ5emJneTc2dHpIMGJmcUtFZEpPcUxILVZQOWFpeTRmLTF6Q094ZV9nQ2hnTHpNRUN4YUtSNmpqWElXdmtGQjc3TzNPSllFTEFyb1ZuVi1sZUYtQk44UjFBUE1ZSlpmQmNKelZXQzFHNS1qWjlBT0gyMGhfcTd3Vjh3bktvLVBXUTE0NEtHRk90M1YzMHBVMlJTb2V5YjFRZ0xxM0lsUDU3aVFjSUhWV2szdXNJTFhfUmdpWVV4RDZ5ZUxjbkxLTUVF?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:56:55 GMT",
+      "description": "Violencia escolar: ¿se está replicando en México el patrón de los tiroteos en EE. UU.? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Dos buscadoras de desaparecidos son certificadas por primera vez por el Estado",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVWxtd3FVRHhtQ1FfSERIYUpZdUlqcXZXd1JCTHZGa0toZkt3ODNfcEFTeU5QWlU3aDJ1RTdaQUFfR2JTQlBiUlpBQjJudS1DRVl3ZWJNRGhROHNkU1dlWlBCaEgtZ2RWRzN1Z2VZZzA0Tlh5RkoyX3JocXJkWHJERWFQSDM2UW9iSElqak9jSTFmSzF1WlRqZFNWQjk2c1pGMTctY2w4Q01XTXNtS1NyazJaNDVoM1nSAcsBQVVfeXFMT24tQmktVTF1YUpiWnFhSUtLNGFFbHcxZzc2Y0dFSjc0LW5jd0Q1VHE0X0UtMnNJZl8zOTBIaFQ4S1RNbllZVGxJSWQxclJIUjd5YnRORzhqSnJseUFhMFkxcFRDem5MdUFfUkItbl9xNjdwaHdxLTFkTEZzMVZheTgxaFEyYUxpLVBSaDdwRXhYNF96ZWVmRl9TQXQ4TkFUUTZocjRsdjFVQWZ2MGVpay15UklWVkt0dXBpeG82RFlOYWxnRGdiV01rUzA?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:53:56 GMT",
+      "description": "Dos buscadoras de desaparecidos son certificadas por primera vez por el Estado EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desalojo provocó una ola de protestas en toda España por la crisis de la vivienda",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpYjU4dVZ2al9zZGV1N21qUWY2RWZBNW9xTnR0WU1ONkRBMXRrNXJ5eVE2dHNEQS0wYWhzYkJsaFhDcnJvUmdzdTV4OEtDRi05RkNBZlNJa2VmdHJw0gFiQVVfeXFMT3BWb1B0QVhybGNRQzVrRkNuLVpZb1BuYVRBMkJyU3VQM1dFaEhkM0pDSDZxRGc4dFZtZnpVejhITmExeDhLWTFINTlxQzZnN1Z5b0J4WE5TblFiNzJ1NHk3YVE?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:49:56 GMT",
+      "description": "Muere Maricarmen Abascal, la anciana de 87 años cuyo desalojo provocó una ola de protestas en toda España por la crisis de la vivienda BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "\"Está enojada y confundida\": por qué Christa Pike sobrevivió a su ejecución, según su defensa (y qué ocurrirá ahora)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DWFdWTnh1WGlFcXlSVmFnb29BRm1vbUtSWTNSejN0dHhRbW9UaVNWRVNMcHRrdjZKSFBpMW9yQUVqNldMMXBtaHlWaGEzWXhNSDlUSHdDTXZRdjkw0gFiQVVfeXFMTlBuZXhLZ2YyWFVuRGxudV80d0tFelFLQ3FGSlpBUXpWZ09FUFNPMU03c2Vwb245YlFBMS1fOG5pc2lYODdmSUk0SHZUWmFOaDM2Y0diejMxY1NkUFd4NUdKSmc?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:49:56 GMT",
+      "description": "\"Está enojada y confundida\": por qué Christa Pike sobrevivió a su ejecución, según su defensa (y qué ocurrirá ahora) BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -82,6 +145,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Muere Maricarmen, la mujer de 87 años que se convirtió en símbolo de la crisis de la vivienda en España",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUFiUGdDRlN1eVJCR0lxRGxfLXc4cHJnUHpDYjRrQjFXX3RwMS1FWDNkbTRGdk12OGxQX2E0QldobUxvNldZTUZDVk9VaWNoN0ZBdjJuUVpTOE85UGJDZmkyWjdDM2JyRkFreWhnQUtSWlZnTS1yZnlSWlpSeDlWdmdjOFB2WjQzMWp6LTgzODFRWU5N?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 20:30:00 GMT",
+      "description": "Muere Maricarmen, la mujer de 87 años que se convirtió en símbolo de la crisis de la vivienda en España CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Murió Piero, una de las grandes voces de Latinoamérica, a los 81 años",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYmh2Z3NFdjNfMXZObzg4WHd5cll0NkVmbU1Ec1poU1VvUk53Y0Q3WHpJRndiRUpYWkZZM2Y4M2VIOFljaFVOYlhoTHVqelhPMkRFSTBzY2J1eDJLaTBRZlAxZzhkTDduanhuazZ1U2lIdUFmU3JqZmRSazZ6dkVOLTR4dVhtaHBIVFJkaVQ1SXlkS3p6bVpwQkpzSjVrSFBaR0JHYXRCWEE0a0F4NkZ5Z0xrTzFYLWV1czBQMDl3MkhndTRJS0E?oc=5",
       "pubDate": "Wed, 07 Oct 2026 20:08:28 GMT",
@@ -91,15 +163,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Maricarmen murió horas antes de firmar su contrato de alquiler para ocho años y recuperar su casa",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTnBjcXRJZjV3N0M0NjkwT2h4N1lKYlJzR1B2eGREcUpDd2F3MDl0YWhjbkpYWTNWWGFSdEkzTzl5OEMwUGJpQzlJSmwzRW5BUWRKWVVPY2xPZTV5eGQ0WXZTRl9ZaEFTNDJ4Q2p5NFdabHhZZDRIOVUzdXBSby1pQXExdHpuckNydDI4d1R4Y29zdnlBc2EzSFJ4aGh3Y1V0TEdTRHphV2RTLV9UZnJoSnFWWHg0ZHhEa2VNLUNxYUdabk4yWWtqc1J6ak5QVGF3cG51cFVYSkRYd080eGM40gHzAUFVX3lxTE1MeF9ZWjRWZEVtMThIdWt0My1peDItOFUxR1NYQ3AtNmI0R1NCd2VndUt2MGx5TVNyd0lOZDV6aW9yU3REeWlUUGFQZF9idExhU1F1aUR1RWlicG9qV25LM1QyLS1uV3NWT1VVM1RBTDRyaFNVRExOTFVPdVBqczJkMno5YjJwMVcxYXRsTm5QVVRDLWVlTDNQUG4xbFpjTENHRFVsMmJWeE1hVGxaZGl0R0M4NWhTaGh5TDB2MUk5Vk5JQjhaam01QzlxTDVkRXQtb0JwcGRzREVETXBvV01qVGpmc1pCZU1jcDY1QjR1eV85bw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 20:05:20 GMT",
-      "description": "Maricarmen murió horas antes de firmar su contrato de alquiler para ocho años y recuperar su casa EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Un alcalde francés protege a los estudiantes durante las protestas en París",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOERfTExEUnFrUFlRWkozSjdpQUZzaEFJeFFWREh5RFF1MmF2QlQ5WGM3UzNZcWtmQXVScDFaNndpUGFXUnBrRkJ5S3JxTXhyRzVtNFFpcm1OalFXQzA5X3NzMm9DcUxFdGNFQTNSNDlvY2NRb1FhTU1ZUFAyODRITUs3cXFHMWZNcFE2MWplMWRIdw?oc=5",
       "pubDate": "Wed, 07 Oct 2026 17:24:23 GMT",
@@ -107,6 +170,15 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Rusia descarta “riesgo epidémico” por supuesto caso de peste",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2J1bGM0VEliMHBwa2R2aVVGcDRheTZlRTRnVGJFcUtrcVhNem5lT1F2cE9XS2VYWXdPTXV6OHZwNlY3VUVOMFJBM1BkLXA3SnhKQmlXN21jNUVJb1NqUlNXcVc3LTJvSGw3VFQ2amkxNFJVYmFENW9qS1p1bVQtYmNVUFRIby1zekw4dXVvdXFXbVNGY0lEOXRQanVjeTlwZURWbExVZ0dnRU3SAasBQVVfeXFMT0VIWElFU1hOWXZVYUZtUmh5czZFYTRRWkFXaDFWbU1FbXFON2ZKY0xhV2JyM3prWGQ1M1RwdGVNckx0aVhkdFg3aGtsMlBHZURNd1hIRGc2cnlwTDhfR1pWdHVvV0VURDB1ell6dHlHck1udU1WRzZLWmNKcFQzQm5lektqU2V6cmFlVmR6cW9HT19WajlUOUljaWZ1Ni1iQnZrbU1uWUNiT2VN?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 17:02:42 GMT",
+      "description": "Rusia descarta “riesgo epidémico” por supuesto caso de peste DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "La \"casa del horror\": la pareja acusada en California de abusar en su mansión de al menos 14 niños nacidos mediante gestación subrogada",
@@ -136,6 +208,33 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "La tormenta tropical ‘Isaías’ se fortalece en el golfo y amenaza con llegar como huracán a Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQm1uV0twLVVwVUJpTi1mSjhLN1JxVEpBZWhoX2s1dWZnMWZDVVJSb3hLMjV6c2lXdGRJRXk4alhTTnNtRHZ6MjcyamUyVUJBUFoxV3FPUWNmN2g1eTdLcU9xLUxlRGlxOUZ5NlhhbW1mNXBsZV9UNlAtRFlZdmdjQjFXUnJ2emlFRUlFREk1TXRITEZkUVh5b0thVjROa0E5U0hma001TFpXeVRRdEk1LTNzOGpGS08tZTBOR09QN2REOGZHT1RpdzdwdHpxdWFSN2VjYlBteFHSAewBQVVfeXFMTnhtTGhwLWYtVDB4ZjFmSVFWQXRDSmxqRTlsQ0FkYjNTRTVUVFhVY213N1d5T0dsdlVzaHQ5ejhCeFlVMjZweDV4dGlWczNWT1oyWHl4T1Nvbkl0TFpSclgwLXRWUWotTXAzVFRQWklVQ3VqQVFkS2dBcXZKajVJMGZTRXZNbC0waHZjVl9KeDJuWlpSOWU2TGJxZDg3TTJLRkdBVHVLQW1RNWtpSTVzVi0wanl0MDFwa0N0Q3RhM1VXc25hVXk1Z21raUZPMC1NVmxtRVY5MDZzOGswLVNRb2N4aXBVNHRJY3VJdm4?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:21:52 GMT",
+      "description": "La tormenta tropical ‘Isaías’ se fortalece en el golfo y amenaza con llegar como huracán a Estados Unidos EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "En busca de Amelia: la incesante búsqueda para resolver la desaparición de Amelia Earhart",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdHZUWU8zdzFFMm5mdXpZVThJZDdqcm5XSnlIVk1RZExzTkV0R2kxbmVhekI1RFpqRFFDNWxmMEFBcXVta1VIUW55dGFQM2g4OG1zWXNsSk53Y2w3cGtBTlV5WF9XQzZ3MDdoVndMbkR5bFBLbHlSWHdXaHg5NzBqelhneVRVOGM?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 16:15:00 GMT",
+      "description": "En busca de Amelia: la incesante búsqueda para resolver la desaparición de Amelia Earhart CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Christa Pike, quien sobrevivió a ejecución fallida en EEUU, está consciente y habla, según sus abogados",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORFgwS2JYcEtzZUJJd0NxRHI2amk1Wkc3cjhPMGpmWks2WTc2VWNhdDU1ZFhOYjJkUkYzLXhRQ3VMYXlZQzYycUdEcENsb1R1UVpQSUhDOVBpOXVzWW8tNHk1WWlyZFpxV1ZUejFnbkprZW04TUo3SkU2MWxXVlJacjdPMTdmd3RwdGVfVl9GbXEtdTVQdXNFX1A5STlFZUxfaWxnbl9KLUZ6V3VhOVpDczFmeVBXMlNObERQM0RBdS0xVUNfNTFsWktSUzBSRzRMYVUxSlNGX1E5UTlrQ1Q5eXljZUtIVDZl0gHoAUFVX3lxTFBwSS1aaXdsQlR2eFQtQU1rbExQLWhiU2tmRndkQ0MyWFNHVE1MUjQ0VlQ0ZUFTdTVaUUtJa294bDc4Z2N4UUV6dEQ5Z1FGd1lMal95dkFvWUloVERUd2JYZmhvOC1sbDlDY0RFZW5qMERpRjRORWY1X1lUc3AycXFaS29Kci1rYlpRcUFzRW5kLXhNbU9WbnhRZjFCQVNqNmpJbTE1SUthemstV3NDb0UzV3lPYS1DZzVzS2dGczJTNDBwZlFaak1KLVNISEFsWHhabzhhTm01UUp0U1d0aS1jbWlyQWxkdC0?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 14:49:13 GMT",
+      "description": "Christa Pike, quien sobrevivió a ejecución fallida en EEUU, está consciente y habla, según sus abogados DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "La BBC entra en Gaza: campos infestados de ratas y miles de niños que necesitan ser evacuados de una zona devastada por la guerra",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00aWF0bzc4M2ZfbS1pWEhBdVJPU3R1aHg1NWVITXJkR3NpV2Z0WWVIcFh2NmFLN2dXQWE3TWVOdmJlNjRXd2d2TXhyQmx2bThYdXRtNkdHcmREQ25r0gFiQVVfeXFMTTl5dXNGbXp5NFk4RUo0VVhDVXFOVUlTaGhRQnB1dzRmeDNfclNiRVVoNmhEb2puTlJaWmNVQ1Y2YjVGREVIaUhkUS05ZU1Dc2VReTBZTEI2RnRFQm13d0NTZHc?oc=5",
       "pubDate": "Wed, 07 Oct 2026 14:45:32 GMT",
@@ -163,55 +262,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Ante la falta de cooperación de Rusia, EE.UU. presiona por más información mientras intenta planificar posibles consecuencias",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYjhjeEhCWDFyaUlObzRsQnU2MW8yWEdOWVhwNjZScllsdThGb0E4T0cwa0pvRnVZcjdJM05PME1xeUNZTllKMWFHOHVzWkQ0Q3U0aTdwemw0REk3SjRZajZ0b1lkVTJWYkhPc0tVY3hDRkZYZEdyd0Rub2VLWndSbXk2QQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:53:00 GMT",
-      "description": "Ante la falta de cooperación de Rusia, EE.UU. presiona por más información mientras intenta planificar posibles consecuencias CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Cómo se ha degradado la \"relación estratégica\" que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13c0RvY2dzUzVwUXBqQlNMLThySDJpSTFITlJPMTJVZzh1bXR3SXdYUmNYUUJmNld0NC1iYmt0NTdZTmpkMEJOYkdOQ2k4VWljSUZxV0d2amJBQ29X0gFiQVVfeXFMT1lJOVRxOXFlWXMtNE1pUDVhVHNWdW5BOGFUZVZXVmF4cXcxWUVWOGpoc0RhR1lzQ3Q0UGdXVXRGallRNV83WHgySG8tVlh5eWU3ei1aTDQzTzdiNFNzSWhVYWc?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 11:44:05 GMT",
-      "description": "Cómo se ha degradado la \"relación estratégica\" que mantienen Venezuela y Cuba desde hace años tras la captura de Maduro BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Christa Pike, quien sobrevivió a ejecución fallida en EEUU, está consciente y habla, según sus abogados",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORFgwS2JYcEtzZUJJd0NxRHI2amk1Wkc3cjhPMGpmWks2WTc2VWNhdDU1ZFhOYjJkUkYzLXhRQ3VMYXlZQzYycUdEcENsb1R1UVpQSUhDOVBpOXVzWW8tNHk1WWlyZFpxV1ZUejFnbkprZW04TUo3SkU2MWxXVlJacjdPMTdmd3RwdGVfVl9GbXEtdTVQdXNFX1A5STlFZUxfaWxnbl9KLUZ6V3VhOVpDczFmeVBXMlNObERQM0RBdS0xVUNfNTFsWktSUzBSRzRMYVUxSlNGX1E5UTlrQ1Q5eXljZUtIVDZl0gHoAUFVX3lxTFBwSS1aaXdsQlR2eFQtQU1rbExQLWhiU2tmRndkQ0MyWFNHVE1MUjQ0VlQ0ZUFTdTVaUUtJa294bDc4Z2N4UUV6dEQ5Z1FGd1lMal95dkFvWUloVERUd2JYZmhvOC1sbDlDY0RFZW5qMERpRjRORWY1X1lUc3AycXFaS29Kci1rYlpRcUFzRW5kLXhNbU9WbnhRZjFCQVNqNmpJbTE1SUthemstV3NDb0UzV3lPYS1DZzVzS2dGczJTNDBwZlFaak1KLVNISEFsWHhabzhhTm01UUp0U1d0aS1jbWlyQWxkdC0?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 10:14:35 GMT",
-      "description": "Christa Pike, quien sobrevivió a ejecución fallida en EEUU, está consciente y habla, según sus abogados DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Los hábitos ocultos que empeoran tu ansiedad social (y cómo romperlos)",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbUEyWnZqX3F5QTl0MXVyY2NlMHJyb3NlREliZGdKZXZjUTR6YVJlZE9RV2REcmdtLWRBZU5pSTVqeHNjMWtUcFZMWkNDTzRhSUtuLW14R2JjbXRK0gFiQVVfeXFMTmlVUmpoX2VpTkk2VDJ6LW5PMDFIM05kV3ctei1BX0hYQ25UQ1VVckJCalpYbHZHMVdLU0Izb29POFpXdVJKVzhHbkhpOEdjT1VMSmhuQlBrUTdaM1ZsTkFtU2c?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 10:10:50 GMT",
-      "description": "Los hábitos ocultos que empeoran tu ansiedad social (y cómo romperlos) BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Rocío San Miguel, expresa política venezolana: “Mi sentencia ratifica el derecho de los civiles de exigir transparencia a la Fuerza Armada”",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMXVVUGlHVFRkZkJRdHhfdENtdkJ6VUNuUUJ3T3Bha2cya3B1Ym5iMmp1VUItLUhQbkV0VncxY3BwbHBMTjkwQkFkOFJyLVpwY0ZsR2ZSZ1VYbDJQU3dnTV84dG5oRl85VldKMzZFV2ZVdXBWVVZvSzZkV29ERFhwZ0dmNkVPVURxanRqTU1vclRIWmxOaklGQkV3bE9nbnp4cDdZX29URmNVNEcxRklqWlNHWHN0Wmg5akV6S3pBZ0JBQUJDa3dWNWNWemZMMmNVRWMwcUJodnpPRWFIREhscnk5cVdLdVlmSHNsUnltSEx2Q0hsR0g4UHVoeDdxUjdlSDR6d1ktM1JiUdIBngJBVV95cUxQWEhOZHZmMGVLNE5ST1lMeG1KejFXMFk0MmotYjExaDVaSWwydkxpWHVXMkxLTF92U2JIcjdyM3JIR05uMkpJOE5NQVRYSU8wMXVTdldBalBFYUZSRnZUS1RyTnhhczdLS0xoZDlsNGdBOXBPWk5ESUtEUGphbk5LVDFya1RfUHpPbXd2THdUVEZTaHF4N1lZMmFqMjEtZDVHaEVDdENBNVEzZFBFbWxISXpUd0hDTk5EdTg5aWN4Z2VtT29jam9SMmFWem9xVUpzR09HYnYyeHpodE4yUGszVF9QcnczSTdUTmxQd0JLVDNyR2NndEV3VmZvZ2I3ZXVFZVZjbzdfeFo2U29ldnQxNjJrR2lUUGtJeGpHYmlR?oc=5",
       "pubDate": "Wed, 07 Oct 2026 09:30:00 GMT",
       "description": "Rocío San Miguel, expresa política venezolana: “Mi sentencia ratifica el derecho de los civiles de exigir transparencia a la Fuerza Armada” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Sargazo, pocos turistas y baja conectividad golpean a Tulum, el proyecto turístico emblema de López Obrador",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa05XMUY3ZmxxTEFlUXd2ZWYxdFRzVGVZZGJUR1BUWGk3X1V1MVMzelJzanFycjhxUlJuTElaSi11b3NmT18yeUlVTnpmTUJuSF9wUDBYZWlDVjBETlJuN1ZTZjBUa0tEOGduZDExOG9jbnJoOHRQSHcwSVI3bEd3OFE2ZXNlLTBPbWFneFZxSEZLdk5jcVZEd0loYktseFdrb1JIYkg4NDc0UkE0X2toZk44aTl1TTBaOXllSHJwVmx4Uk1tNEVYVXp1ckozd1Q4dlBRakxiWW1vTENxYkJUdEgxeWFqQTc1ckFUbdIBgAJBVV95cUxNNGo5NmowY1Nya2ZqaWczS3czMDJOWjVIbmREYW82RWpDMDg5QVJMZWFEQU5rVlRRYVM4SGNFZV95elRfc1M0Nlo5TVlUVHpzOUZkUkpCLTRWeXk5NHhtQ3lNdUEtZkZrdXhORE1Pdkh6T2JUQmpkeUM4QnZTNzZoX0UxUjYzRUl0NFFyWHNDUkhiY1NEWDNYWHN0VE1LbGVrd0NkVm9fb2labTFobzUxbGtFVWZSMjJ5UzN0MVFsZjN2aldSbjhXbFdFaUo5UVg0c1BOYkdqQ0tqMFY2SXRZTnJ5Wk9sRTkxX0pjNXhXSzRsOEN2ZzFkQnU5cW9tZXhx?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 09:30:00 GMT",
-      "description": "Sargazo, pocos turistas y baja conectividad golpean a Tulum, el proyecto turístico emblema de López Obrador EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -235,49 +289,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Barricadas y violencia: crecen las protestas en Francia y los trabajadores se suman a los estudiantes",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUFZva0lLR0ZuWVpZUUtnMER0dmU1ZDVvQ2FyRjdQZUtxVlZfMHZUQ1pFTDRkaWR6TVhJMVFJNGRDUmMyZnZqbFJqZzFzZ3dqYlhvQm9tMThyOVdGRjZuZWZHdHpFa3g4UURobGxuR0VybG1wbXUyUmkyeERBUVE4M2JLRVRCR1QwNHJIR1A0ZW52cVViRFJyeDNTOGVQQQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 06:46:14 GMT",
-      "description": "Barricadas y violencia: crecen las protestas en Francia y los trabajadores se suman a los estudiantes CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Dos muertos en Kiev tras un ataque ruso con misiles",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV284ZjM0ZUdlc01UX0Zsb3VJMF9LcnJrSzJ0NFdEcDl2MnN2S3hUTWxFbHZneTRZYkhaSlp6Tm9MSVZMOFJZZUJBbnI3TlU0R252Y285NXFKb0llVGpmdGgwamdoeEV0eTlCanFzMUJhTGNlTmFsODNvNnBpQkRYblpZdWtUazI2QnpWSdIBjAFBVV95cUxQa2E0c0hGanBobktPcEk4SFBNcjA3eEpabDhFdHlhYXI0TVh1TkN2dEJqamJyVnlhdzNkRDlCYmpndFFBRk5mOFlRb3F5cGFJbU5yWU9DSmM1WS0taFlEbGlCLXQ0X1VkY0YySFAzUWZSdjY0ZVEwUjVQMTl6QXdZaHZYcWVJdjFhZ1lvQg?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 05:15:13 GMT",
-      "description": "Dos muertos en Kiev tras un ataque ruso con misiles DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "EEUU anuncia para el 3 de diciembre la primera ejecución militar desde 1961",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTnVJT1NBX0NhS0tuSGZhTW92Ny02c0QyeDlMaEMwQkhIVmxIM1I5dEtmb1lmS1UyOGdKWmlMUFdNX2lBN3Vpci1hZlNDSmVGV1FTUXdTYjAyWjRUU1A4andmeUlWSmpsamJJdW5ITUJ5b20zam01b0xKTkdONFprbUdMV0U5MkJmbGtfcVFHd3R1aXhUYVVsdFV6OVFyZU9pNGJURnptendWMTFxRGNjLUF5NNIBswFBVV95cUxOeXEwaERLenphYndVVUlsaTdUZ0M2RU53Sk5NTURoTkFIMm1RMGpUODM4eFozYWp5N0hSSEEwYjJCYkVMV0ZZNjZYSUhyQVhoZXRJZzZYV09kaEFQY1dZNTU1MHcxNUxUbzd4YkRmeHVrSnhPQWtvVTllMGlYcklYanREZ29QVXNFQU5IZF9wcEREbXlfbHNDbEEwSE5iaVgwSXdGbmxsS0hUdUNnWGVZTENWbw?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 04:15:52 GMT",
+      "pubDate": "Wed, 07 Oct 2026 04:22:29 GMT",
       "description": "EEUU anuncia para el 3 de diciembre la primera ejecución militar desde 1961 DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Haití posterga las elecciones indefinidamente por crisis política e inseguridad",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLTNYSXQ0Y25vbl95cFdqVnVEZUR3cW1vdDBhNFZNWUtWLUkxdGFpVFFaYUU5NnRZUDNqbndtS3NzVzVuYXFjaE9fX2NWRzFGYlMyOVdJQzE5NE5lc1ZEdWJQSWF1ck1rTDBWck9hUC11UjRnaEc0MUtyeEt0WE9mcTZMblR3Uk9FWHFxQkdGMEZscUk3N293azRhN1ZObFVPZENZaXdycUluaDVqbWVxaDNJVGNPZm5uRlBiM1dqQdIBvwFBVV95cUxPU28yYXpTUmx0NnI5NEViZkJKUU4tZW9CY0Jac0YxSG1hOEd3bE1iY3pmd0h0YVZQUFlVSUpicGhRR3prWE04TGtkb2VibzBrOXdNbDBqOUk0Y3R3QjdnTUVlb0FTNVVnQmR5SnBUUVZFTjg4LVY2RFZnQUxkOUM1YXlPLWN4UHpscldqUDduUGx3bkZ6T2JvY2kybE5xZnlUazNSVFd4QzlfM0xGTlpxRHBTNkt6Y1FjZjAyRm8wWQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 03:52:32 GMT",
-      "description": "Haití posterga las elecciones indefinidamente por crisis política e inseguridad DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Los sindicatos ultiman la fecha de la huelga general en noviembre entre críticas de la patronal y la derecha",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQnhpWEIyNHFON2dYUzRZT0tmOEN3b3JWNkhJWEJ2TEtxR1lvREc0R1BpR1BhRVRWYTJOQmdGcVp1MFlxQzNLUUNab2JNTVVNNHpVVmZ3NHNBT2stMFZ2c045NGNONXdQYnFZNEhzZy04aUhOY2dDWGpBOVVrQ2hDZ2p6a1pWQ3lUYVBzSE5yd1pVZVBwMVcyMDV4MDJ2Q1g2YUhxYnZxbHFRTjF1TFFuWDV4VHNvYVVPVkZwbi1CaFBSbk42Vk5qU2FVTEUtYU5GbFRZbVV6LXBNeG02M2prQUxwTHpQZDjSAfsBQVVfeXFMUHpnQllVX3pJVlRPUjd4c203czRkN0g1RG1OeWU4bDFlN0F0NDBCanVabllhWVctSlJTZ05vTkEtR040aGVYcmN3b2JNOGZjcjNDNlluMDN5TV81WldnSzNGREJvd0lTdXBjUmxKYS0xc0ZlcHM0cFZsNjl1aVVHYWstLUk0UUsxd21tbVNxWFRTOHJTbnEyNVQxamNGY2RWYzNOd0F5cXB2TUFPRG0xWG4zNjRBRmVBV3RnV3kwal9iVFROSS1nMVNXaEs0V0Voancxd0h6em52V2I3Ti1sWXNBbEtwX1BCemdSOTJJZlVMdW80bjNlYjliM3c?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 03:45:01 GMT",
-      "description": "Los sindicatos ultiman la fecha de la huelga general en noviembre entre críticas de la patronal y la derecha EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Personas, empresas o grandes tenedores: ¿de quiénes son las viviendas en España?",
@@ -293,24 +311,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR09iQlNobzFHZVpWRWNhN0pXRUVsQWY2dnZ4d2toMTVWNXhJcEFTVXZ1MjNHTWNxS3labnVjWHJsT2tWREZ5V04yX2VIaFJQbUk2NTNfRXR0R1NFNFVOZFVRa3RuRDEwZ1RYa3o0TzVZVmFwNmljSEFpTGx1X0E0cEdDTXRLUXZoMzFFUEVMNXlfSHJELXZxVDdqQmh0Y1B6QlFMLUFMQmY1VzBGS3Y2dGJNR3ZPdGt0NkJoRlhBWTdFeGdNNkVkVjFURjZJTHFtY0EtTWY3OWpDT3Jhdy1ZTmpuVGJfVGNrUVBwT3VGbw?oc=5",
       "pubDate": "Tue, 06 Oct 2026 23:05:00 GMT",
       "description": "Del 7 de octubre a la guerra con Irán: tres años de un conflicto que transformó Medio Oriente France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Venezuela's Cardon refinery halted after fire, no injuries reported",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUzg2YXJYRzVZM2tjYUx4U2ozUHo4cy1jZnFlYkRLOWlITnBFRjJES2ZtMGVLMVdnUDluVDl2b0pFWURvOWNYOFNQbm1WdnNpeHd5Q05FUlVnQVhNZkkwWFpLUkdLVlR5RHFuSjBGazhKcE1FQU90OERlLWoxWVJnTlkxQnplTVdITkhvVHE0TzFTUmtJSHlQX0E3VVZaaGsxNy1HVUVwX3g0aHc?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 20:27:00 GMT",
-      "description": "Venezuela's Cardon refinery halted after fire, no injuries reported Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "La esposa del primer ministro de Armenia lleva la violencia doméstica al centro del debate nacional",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUk52MGttVzVOR0Y1WDdzbWdSMVBVY1F2cUxnU2ZOMVJFbXBJTzBJRWpOOVphZlhESXF1M1BlTlJ4TGtWRWRrc3I2NG1oeHVqcS1hRHRSNUxHbUlZLXJBY1RvVVR0OC1SRktwcHY1bzZqdUxHdV9HR2JDT1JmMGFiSGhROF9sLS00YzYwTndUX0M0ZmFwekkxck9COGhCWnpiSkJPbFE1SUxCYVhHS3NHTFVEQ0xaODQzZFcyVnR2d3BzMk5UZ1c2cUFkVG1kbTF0WDNUOG5uOUtOU1dpVUJCRVdR?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 20:14:08 GMT",
-      "description": "La esposa del primer ministro de Armenia lleva la violencia doméstica al centro del debate nacional France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -345,20 +345,11 @@
     {
       "title": "EE. UU. envía drones de ataque a Sudamérica para combatir a las bandas del narcotráfico",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFDZ3lDR0NWMkEwa29sbW0yZTZ0akxGRVlmS0ktOXdoQ2FiX0RpZUZkalFJSXRacUtCaHJJeDNSU1dVTUdfcWxvSDRmVVVyVDVldjUwZkxrekNiS182b0RFbER0TjlCUjlrR0VkOUpkWUlNNExvNFg1VFVreVpQNnZFLWE1YVRjdy03dGVmbEV6RUQ5R1lRMWg3LTRNcFAyWUlVNkNMT0tiZVZa?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 13:53:06 GMT",
+      "pubDate": "Tue, 06 Oct 2026 09:10:07 GMT",
       "description": "EE. UU. envía drones de ataque a Sudamérica para combatir a las bandas del narcotráfico The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNME5mNWI4S1ZzcGRoUDk1R3NETnJ0R2NsRk1hV0pVYUp5cUs4MmhZbm1JNHNNMWhuTVBmM1p2NWl0Vy1LTEJrdVhtOXppM0loSldRS1lWUEZoY1RZR0FCcV9QYnJ1MXRUY2Eza1pkcmpTcUxNdU85bFczLUxDWndRaWdSWHRLSko3a0ZHQ1BVTjUwRnR2OVA0OUI3dDdndDFOWW4wM295OE91X19UZ29fUjhZZDJ3SmdJamlr?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:43:13 GMT",
-      "description": "Shell CEO sees competitive advantage in Venezuela gas versus heavy oil Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "‘En otoño, sin duda moriremos’: el hambre amenaza a una ciudad ucraniana cercada por Rusia",
@@ -397,15 +388,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0NLRjl5cVlHczRJT1NPZ3BsNjlGSE11WlhhUkY5TmtONEVYdmc4VlFNb1BRMWRERllSYVpYdFRqYUZscVp3NDZjaEFBdVhZd2NrWVh1TGFCOW5XdXhMYnVmc2taUEp1SnM5NWlGcEpFVFdfYl9mZEZsWUVXQXN0OHZ5YS1OTU5TMGFSZmljU1FzRmRjNExIQ1VvMm1fck9D?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 14:50:59 GMT",
-      "description": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Baker Hughes signs agreements to expand Venezuela gas infrastructure",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODZwRnlLSm5GQ3dRbmFhUVozQUJvbWxRek5Xc2R1WlVyWmp2ZGZlNVpxeGRvZUNoVFRmeWlESnFUWlB3N2dfQ01wdFJyb1pFNGRveHJmZm9UWDYxUFBpOFdzV3oxMXRqdmZTOFl0Y3NPVGV6ZFBxd0tRLWFqNGZyYk5aU0FfeXdQa2FRTjRkVHgwUzk2VjFmRE1Ob0FhMlFkdFFERXBLRDFQX05tTnV3UXUxVXVlS1da?oc=5",
       "pubDate": "Mon, 05 Oct 2026 12:02:00 GMT",
@@ -442,6 +424,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM0NLRjl5cVlHczRJT1NPZ3BsNjlGSE11WlhhUkY5TmtONEVYdmc4VlFNb1BRMWRERllSYVpYdFRqYUZscVp3NDZjaEFBdVhZd2NrWVh1TGFCOW5XdXhMYnVmc2taUEp1SnM5NWlGcEpFVFdfYl9mZEZsWUVXQXN0OHZ5YS1OTU5TMGFSZmljU1FzRmRjNExIQ1VvMm1fck9D?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 01:45:00 GMT",
+      "description": "Flávio Bolsonaro y Lula da Silva se disputarán la presidencia de Brasil en una segunda vuelta AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Lula y Flávio Bolsonaro irán a segunda vuelta por la presidencia de Brasil",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQWY3WHIzcXViSE5MYUpCZzRIRHZBcHNvTTQzOHJYcE5zNzduMzRYM2tGS3ZfdzVORlJRclRSNXBoallwb0k2Z2ptcm9qdFNYY0x2S05sUE5raEVBY0xUYmowY1VJNU9pdEFHUDZUdnRmZG01UHZVOVhWWGZlMzktaG9YczBXNkNuU3prZ3RCT05YOTA1N3hoXzBpUGNPMVE?oc=5",
       "pubDate": "Sun, 04 Oct 2026 09:10:08 GMT",
@@ -460,19 +451,19 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Brasil, bajo el yugo de las deudas aplastantes y las apuestas en línea",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbXJ5akJfbWRRQW52dnRLbHhuSmREZXM3R19oZUFDV21RS2lzZmdVX2o2VUZkemU1bi1BRVpJS1VDV3FudGJ1eXk1RklCY3BCQ3drZnVrQVFrSkRkYmUxclNnX2R1MldBWWcyaVhrV1dTVGhmN0JmMldHTXZXVDM3VXAybjVJMC1zX2x0T2pNdXZLQVJHYU9CdHdiNTdRUQ?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 09:10:09 GMT",
-      "description": "Brasil, bajo el yugo de las deudas aplastantes y las apuestas en línea The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUHB6aGY3Q29Ea0NidEwtMC1QY0swbk9uY1gzU3NrVHlIR1JlVUR2UmhTa1oxVFBLYUNkaXhNa1ZQWkVyWGF1MS15M0I5bjJhcGQwNGVjSGQ1N3ZEajRIdzhRV25nUWE3XzkwUTlKZ2RBOThGdy1KRnF3akpBTVE1R3lGWmhtMjVXbFh6Rm4zZEZ5LTRIZk1BXzI3YVB0MkVlVWNOcnJrTWJVd0RST1VMaGxUdw?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 23:45:54 GMT",
+      "pubDate": "Wed, 30 Sep 2026 23:40:00 GMT",
       "description": "Australia's Lynas Rare Earths to buy Meteoric Resources for $672 million Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Oil executives worried over lack of essential element for Venezuela expansion: power",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVdQMWR6UG9meDhlbWVzZ1dxNFVRbEdSalh3TTdPZU90RUtSYkVjLUpXd2wtODZMOVQyVExxOUJkcGt0RFFZbm0wNUNRbVM3ZlhBRmFpZ3UyLTBTc0FTUGtoVHZJT0pEdk5JNVNLWEJDUE53RGdHdHpQM0ViaEEwY0RNblRmdDBQV18wYnhDc2tLZ2FYTlVWRU1oaFEtUVhaRGlBN3lRa0lJbFhfTWNrM1pxZGR5VWpmclkwZF9mbVVIdWd0ZVpZ?oc=5",
+      "pubDate": "Wed, 30 Sep 2026 16:37:11 GMT",
+      "description": "Oil executives worried over lack of essential element for Venezuela expansion: power Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -485,6 +476,15 @@
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "Venezuelan oil sale proceeds no longer routed through Qatar, US energy secretary says",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDJmcjdSWmg4ZWd0V3NOTjVNN3NzVDFFMWJwQV9Oc0RNTU4zWVAySndqTm91ZVJSZ1ZhaDBGMk1pZU9vVG1oN01OZnRLZG1nUDcxQU9nV0oteW9xYUdLY1lUaVpEXzd5bnR0Y1A3R1BpbEJ5NTlYRmhsYjhUV0JNclNQRk42TE14ajY0eWEyQ3NYeXZ0b2hQTzRCS0N3WEJ1MDViOVpodmwyd1RiOW9FRE85d2VqN0VDTUpPZm5Kd29EbnBMTGhqTUV3?oc=5",
+      "pubDate": "Fri, 27 Feb 2026 08:00:00 GMT",
+      "description": "Venezuelan oil sale proceeds no longer routed through Qatar, US energy secretary says Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’",
