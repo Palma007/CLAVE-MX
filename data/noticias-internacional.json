@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T09:43:07.454Z",
+  "updatedAt": "2026-10-09T17:37:13.330Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -47,7 +47,7 @@
       "name": "El País",
       "domain": "elpais.com",
       "status": "ok",
-      "count": 6
+      "count": 0
     },
     {
       "name": "France 24",
@@ -66,17 +66,107 @@
     {
       "title": "Deportes",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 09:04:47 GMT",
+      "pubDate": "Fri, 09 Oct 2026 14:53:32 GMT",
       "description": "Deportes AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
     {
+      "title": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vYU9PUlVTSDRQNVNscmZrWElaQk5sVXRXYU1KcTY2UXNWWFE4eXc3VmpoZXdaUTFDLVFIVnFCT3lra3dGc3dQMF9XWFdMSVFubGExT0gtZXFoYkJD0gFiQVVfeXFMUDg4ZFdJYkN5M2l6eE51VFdBRFZWTkZ3S2RZdHgzaFhNZVBRQXdiRV9ZaHNvSlVxSWRIYkUtMm01X1QyUEdfbV9UNUZjLVczUjhjNHU0ekM3Y05hX3dWR3JublE?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:41:45 GMT",
+      "description": "Quién es Navi Pillay, la jurista sudafricana ganadora del Nobel de la Paz: \"Lo dedico a los sobrevivientes del crimen internacional\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QX29ZaVpxcGdOblVmUW1PMjIzUzJteHlPWFBUN0E5d1JmNnUybUNURmdUYk83NDludkdJaU9tRWl4WVpKbVpVdUMtVWpyNTdYU1RWQnd4X1lNaDZk0gFiQVVfeXFMTTBCMUNIMTIwNk5DdkhOTE9ZWnFqb2VQdFE1UkdvTXJyc3djaUxxQ094Y3d5REV5ZGV0SWN3bGNlWERJTWs4VlFaenFsWnhXRUp0RHJiUTdrbE4zYl9CUGUxa1E?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:41:45 GMT",
+      "description": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Las protestas estudiantiles se endurecen en Francia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMERVRXFqWVNiQzBNZ0RPSVZicnpyaEFaaVNGQ2NNRXh0VVZ5N1FHdi1YLThZSFNaMkRsblU5b0QzRmIxMWVMc2ZrOEtWM3VKNWgtODBEVEp5WTFmNDFQVjhua1VnNUdFemNjZDBRd2lEeU04RTh3dVN3a2V0ZzlsZDBiNGlLT2FUVXg5btIBjAFBVV95cUxPVnJIMGF1RUJtcWZrMEg4Smk0S2F6bExfTnNQZVNvRE9xVzA1bnV1ZzcyTXdSVGh4cFJqWWNnR0VncUU4dVFoc2ZEWUozZGxnV3BNcG1LWVNtdngyNXJpclVZNGJ4b2FPWTQyM3NJTjdFckg3SmZUN2J1TVJuSTZzS21TaWh6ekRrX1V4dQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 08:20:32 GMT",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMERVRXFqWVNiQzBNZ0RPSVZicnpyaEFaaVNGQ2NNRXh0VVZ5N1FHdi1YLThZSFNaMkRsblU5b0QzRmIxMWVMc2ZrOEtWM3VKNWgtODBEVEp5WTFmNDFQVjhua1VnNUdFemNjZDBRd2lEeU04RTh3dVN3a2V0ZzlsZDBiNGlLT2FUVXg5bg?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 14:23:22 GMT",
       "description": "Las protestas estudiantiles se endurecen en Francia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Premio Nobel de la Paz para la reconocida jurista sudafricana Navanethem 'Navi' Pillay",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZXAzaWI0ZFJHUnBCeHk4NVVaU0U4d0ZrazdWR0dob0tacVVLMHotTGNBSWk4V3BmeVRFeFcwYlNBZGxlTWY5MTZwLTJhM1Z2R0dfU3QwWVVheHZPdGpqSm9zclVRbFhDU3BhcXFXUno2SzRCelIxQVcxSXVUdldTNC0wZlc3VkhtWHJTd1AxY3NNYVlBVTFyd0ZIU1dyTllvWnhMV29yaXduM25XakpBMDg2Tk80LWw20gG4AUFVX3lxTE1GanAzVnNDOEx0Sm94bzNsSlVfNmxoRjRmbF9tclk1MERzWVNrMk9yR21Ld1FhMFpYeTdjUllmSnVDMVBkYUh6SVZyMWVzb2R2TVFUVXhOekQwdmJ0a1pRMzNZdVRKcVZVX1dRdlduZEdwWDFfTER0X2VsdGM0SWhTMEZFS2hTRE1jN2hMNW00SjliZWcyNDNGZVFvTkt3MGdJdXVhejA3cW1ycjRiQmFLRjhEZTdjV0w?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:39:35 GMT",
+      "description": "Premio Nobel de la Paz para la reconocida jurista sudafricana Navanethem 'Navi' Pillay DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El Pentágono planea transmitir en vivo la primera ejecución por pelotón de fusilamiento en décadas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdy1BUFo4Mkw4ZlBqRVBlc2FPVlQ4R3FNd3pwM3FtQnhYMlNQX053R3RWOS1HM25xQnN5d05QVVlBRVBXVXRVWkZLRzdNWGEzVk5YQTZHRlI2Z3labmNHcUJTeEVpbF9JVzBXYzBneDV0NWJqeHp1bENJSWpydjJCVl9tOE9UZFpZbXlIbHpodWc5Wl9PX0pTQXBR?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 13:05:00 GMT",
+      "description": "El Pentágono planea transmitir en vivo la primera ejecución por pelotón de fusilamiento en décadas CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfTHZDU1RBbml4c0VHMHdGV2JWMmRLRXZBekxvZ3BfVVNTdG5IZmZaS284aWF3QkJBZWpqSXhVZHNUZ3FXdUxPb2M0bDRQRlZzQy1Reks0bEdmdklw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 12:51:36 GMT",
+      "description": "Especial BBC Mundo: Isla Coiba, la brutal prisión a cielo abierto que se convirtió en paraíso natural y a la que Panamá vuelve a enviar presos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Nicolás Maduro y Cilia Flores tienen más de nueve meses detenidos en Nueva York. Esto sabemos de sus vidas en el encierro",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTZoUHdxQlA5eDZLZXc3VWpVeVR0N0JRTWFoSmlWTVFrUHpDY2cwNHdzNEtQMmlTanRCSHZrNGtmNmEzZldpcWZoOWZLWWhpNDhwWkNxbDg1VFFoZzRMWmdiOThnRkl1MW1KaklGcFo0OWpVc0gyTFFqRlhjVTEwUkVnRFRmbzdReDVpZ3JBWlQxVU41Y2c3RGI3NTIzMzVaWXlJMXFDS0RYMVFZeUpQRQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 11:48:00 GMT",
+      "description": "Nicolás Maduro y Cilia Flores tienen más de nueve meses detenidos en Nueva York. Esto sabemos de sus vidas en el encierro CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zcm93NlBvMUs3NF9tYWN5dDh3T2hlNUJWLXFqT1hja2NOVDJrb2owVEExNGdTbFVUN205RTZTTEtyQzl2UVJvcWtvV3JOWC1KSUtiQ2tLcXY3VTU30gFiQVVfeXFMTlBGZi0zRW5kOEdjYXV5dzFpRFNkVnNzUlBJb0tjVnpibHRwZUpzSk00WUFSQUg1SEI0M05jTGcta2J2ZnkyRTR0M2tnU0pvcTRXZXBLWDR3OEhzRU5EM0pla3c?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 10:49:12 GMT",
+      "description": "Qué supone el fin de la nieve eterna de Papúa, el último hielo tropical entre los Andes y el Himalaya BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Navi Pillay, pionera sudafricana de los derechos humanos, gana el Premio Nobel de la Paz",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQU9jdWVzU2NTRzVzYW4xZ29VbEJYVlFCejhNM3NJVjFIaEJydDRSWHNvRFcwSFJGS1pXYzdSRmJMUkNSY3lKa0x2Ql9hZXZCNll5YmNwODJPY2NfeU5POW54YUV4cXViZXVPWlA4WnFPbHVraC1TVHduY1A2QTBRR1ZSbkdEbHhKV3djdDhwaUxFUQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 10:43:00 GMT",
+      "description": "Navi Pillay, pionera sudafricana de los derechos humanos, gana el Premio Nobel de la Paz CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Trump anuncia que no habrá ataques contra Irán en octubre",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0gzbjY4MkJZc0UwZl9udVFFUFBxdlpSRzNXdVk5M19xak04UVF0NlQtSHc1Q25VZlpPWUJzYjdzZTY4OVkyV3FQblJsejhYRUVoOFFKcmxteF91NzJtMUVEcFVVWkRRaVJXZGEwWUgwX1pVSm9Jbzl2S0x0YkNFZjROVGlPOTdjYnNZdjRXY0ZibEpuQTNXVHdzaE0wOHgxR1HSAaIBQVVfeXFMTWZ3eExlYUpRQXlFMUZhSnVyeVZLNGlVckw2MzBoaUQzMU5NbmF1OVZSQUtLUWFBQy1DcjBXaE54TFdCM0hLVXpqcjlkQkwtYU54Z3pxYVBQS25aVEJ4QTFiTnVrTHU4RUVLQ3pUcHhUVWNmLUdqOFhzMDFsb0QzOEVGZGpGMGNDRC0yM1ZTS0J4OFdaRllHNHhGbWN1UE9GcDhn?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 08:36:24 GMT",
+      "description": "Trump anuncia que no habrá ataques contra Irán en octubre DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Tres muertos en un nuevo ataque hutí al aeropuerto de Riad",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdG9Nd1hzUkJiXzl5NGwzMVdvR1VXdjB1am44VENmckVONW1IWGlHVlRfazF6VDJYdUN4bzVyVVhMTzhkZlhGVkFqSkVDQ3VSS3VzNDREeWgzekhXWHNUZE5xUTdSSmszaS02dkJkTmx3ZzFFR29QVnZPa1VzZUxZdWw0MXJmYXVnTWVVOWVjb2lKNjJpWmVMTFBMeXhnQTQ1N1ZPM0dJLWZPYUUwY1d1LWRTOW5FNXB0Q2paRjlFSGlvektLb1lkMXZZd2dJdDBlTjA2Q21NV2NBcng4MHRDNHNHSm00bDFZODhlNmU0VdIB7wFBVV95cUxON0VXNGlFdldoUldod25pUW1iZWJRY3N5RnFuT1dIMUxHcFNRcVpVaUFfaERMeHhsM1d3N0dLVE9VMmtxS0hMbHRTemNCcWI3RzBpT2hUS3NxVHNUdEtXT1pGaEFJa0twRU9LV1JYSHFka05ZN0dDWlFuRGkzbU1sbnl0RVJ5eDNhR2dvTlAzUmo1WjluWml3ZEtyNlAybmx6TW5QQ0F2c253VmhnSlVMdTFPSDdTaHFlVUlkRUExWGx3eWhyMkRoS0JaZXVWOXZkZjcxUks3VVI4OGJiaFRaODZDNGZRT2RWQ1M4QkVGdw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 08:11:30 GMT",
+      "description": "Tres muertos en un nuevo ataque hutí al aeropuerto de Riad DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -100,19 +190,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Cristina Rivera Garza: “En Texas puedo ser blanco de violencia en cualquier momento”",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNemQtQllpb3hzVXE3RlprODBEangtZmFySTVBYkNJeE1DcDRxaGozdS13azJkTTN2Y1ZqNUdLRGNub0RXYnktWW14R3RHdHpnaVZuVmswdjh6OUtEb2hBcXJwTzI1SHhYNVNheFF2VlI4QTZnSlRwb3NMTFhNeHhKOW95QjFlcTNfZU5JellXZ0VuRzhmRDV4bUI1Z185NmlOMkVpeGF0d2FYdDVzSHFsYnlnanE0LWw1cXBKWDRHa1hrRGU4ZmZWN0w4Q01hZG1tQzIweG9vdnc5R0HSAe8BQVVfeXFMTlYyRzZ4TS1oUXU5X3B5Ylk1c0pPNThhOURXSU1kSmp5UHVIZmVfRjlSS1M1ZHNKcXRmclI4YWNpZTNndUF0OXR2UjRFRUNtZjBDZF90QUlGSXpCVWgzTElYVmF4S09PNzl6MFluVnZHWFJQdXpCZ2MtNDhaVDgwSWNsQnYzY09QaXc1Wno2dUx1VW1Ydmc4cURaa1phc0lhMEdLaDFVekVSYnluc1p6YnV3LWlQbFBKNDI2cTVuUm5qUXlJc2doWXFTTEREVGctdDVHSURiQlllM3B6VF8xUmVtYXNMOUNTSERfMHdYTnc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 03:45:01 GMT",
-      "description": "Cristina Rivera Garza: “En Texas puedo ser blanco de violencia en cualquier momento” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "¿Quién es Nidal Hasan, el exmilitar cuyo fusilamiento el Pentágono planea transmitir en directo?",
+      "title": "¿Quién es Nidal Hasan, el exmilitar cuyo fusilamiento las autoridades planean transmitir?",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa1cxV2JFSVZNbHpOMUV0SnNKeUZsNDhBVzRJRDBlSlpFSDhBajJ6WkJ2ejlHQy1mb0ZUd05hUkE0dXJUOUdNaVRWT1R4b2Q4eTJvSTFNcUhuZDduUGdtdW5ZVUhpTXhvZGphZEtlcFFTV2htNnFxYms1Wl8wOVB0dU1kOVRic0IyUXlsTGhJdFVReFotanFyTTVxQmlkVU5oaHh2emN4NFJKaHdjcDkyaThjWFBmS2Y5RkE2MklFbTNvMDlMQ2s0NkZtV01UUmw0OTFSMXhrcUxycjZUV0dkUWpJblltQkYtbi1heDJsb0xOUQ?oc=5",
       "pubDate": "Fri, 09 Oct 2026 02:13:01 GMT",
-      "description": "¿Quién es Nidal Hasan, el exmilitar cuyo fusilamiento el Pentágono planea transmitir en directo? France 24",
+      "description": "¿Quién es Nidal Hasan, el exmilitar cuyo fusilamiento las autoridades planean transmitir? France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -127,76 +208,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lRldsZms0SHdrdVF3UTZDd1dBa0FyODVZT2pGenNmanF6SWF2aE84T29iN2p2Ukh2TlNYcGZfUWRnRVMyaXZXc3N4VkpCdHY1cDJyYmd2TDZBeG040gFiQVVfeXFMTlhYb294aHRpdXFGY0lwZ2FTczAxMUxubVJEc3ZWRzFjNGlGSVF6M1JNMFFhZUJfbUgxTDJqOUtGa3pLTkU3cTU0bXI5c1JGb2IwWUdyYTZSMzJsc20yTVlVbVE?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 00:30:38 GMT",
-      "description": "La Casa Blanca acusa a Microsoft de hacer fraude con las visas H1B para contratar profesionales extranjeros BBC",
+      "title": "Protestas estudiantiles: cinco claves de una crisis que tiene en jaque a Francia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUNBVTdqNDhzZkRGU3NxRmJiZFYzamJmNEFFNWRhUDB1ckFpUWtkUDN1dE9JQ2luWDlkMkI0N1JScEx4UmJqZkpydTB4MUIwOUxPZmZLMUxJdFE1U2pKLXVfT3E2bzlRZ2ZzYzdfUVlJUjN5cE5URHJEOEhrMm5aVXo2N1RtWWJZM1FiTTFGbFN2QmlaUlMzajdRSHBXdklGOUFNcEpYNHRmUS02Sm9iV1FpcmhETldvdHVFVGw2bkhxUQ?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 23:42:00 GMT",
+      "description": "Protestas estudiantiles: cinco claves de una crisis que tiene en jaque a Francia France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "\"Bluetoothing\": la peligrosa práctica de inyectarse sangre ajena para drogarse que podría estar alimentando una crisis de VIH",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PZEJJWUlMQmMySGZVR0RZdmRna1hRelp2VWlBdFFIYWpNVDJ0U29rOWp2cUVGRnFUUnQyaWxXQW1ucHJCWks1Z1BBeEk0LUJCdXU0TjBfckl1dUFh0gFiQVVfeXFMUFZEX3JUOE5kR0tmdmdJQTNqZ2ViMmplYkpzV3ZOVzV6cUxlVVd1U1N3bWw4UzNCS0E0NzRUUkdxWlpTQkt4WnEwcm80Vmp3ZmJENDl6ZUEwbnlHUHRFTEVnY2c?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 20:14:11 GMT",
+      "description": "\"Bluetoothing\": la peligrosa práctica de inyectarse sangre ajena para drogarse que podría estar alimentando una crisis de VIH BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QX29ZaVpxcGdOblVmUW1PMjIzUzJteHlPWFBUN0E5d1JmNnUybUNURmdUYk83NDludkdJaU9tRWl4WVpKbVpVdUMtVWpyNTdYU1RWQnd4X1lNaDZk0gFiQVVfeXFMTTBCMUNIMTIwNk5DdkhOTE9ZWnFqb2VQdFE1UkdvTXJyc3djaUxxQ094Y3d5REV5ZGV0SWN3bGNlWERJTWs4VlFaenFsWnhXRUp0RHJiUTdrbE4zYl9CUGUxa1E?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 00:10:37 GMT",
-      "description": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Los relatos de tortura en la acusación contra Maduro coinciden con patrones documentados durante años por la ONU",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZlRCemxqWHBueXl5eWNyelhNd1VPNnpsemtIb1JIdGNSenF3VGZ1XzZlN25Bbl9NS3FPUkFYODdvZGw2ZmpqbDN5ejdwZUxUd3VvdkYzbVQ5ZkVuazBMUkY3TGZ3bEE0UW9ibm1kRmoxal81Q1o3YUtxTVFhX1ZIYWZwSXdRUlpvMU1OYTRjamRDNzNOWTRrYzRBUTBPTTA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 23:36:00 GMT",
-      "description": "Los relatos de tortura en la acusación contra Maduro coinciden con patrones documentados durante años por la ONU CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Isaías: el primer huracán de la temporada en el Atlántico se fortalece y pone en alerta al golfo de México",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRNWJUeHR6TkhpczBkakdlSFdTOGF0SVp3cVA1QkcyNWR5NzhXYlBGMC1qaVJvSWhnQ1FJdnRpRnJoVTRRT0c5LUlnMi1ybm1DR3ZjT1luVi12SlFs?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:40:36 GMT",
-      "description": "Isaías: el primer huracán de la temporada en el Atlántico se fortalece y pone en alerta al golfo de México BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Trump anuncia que no habrá ataques contra Irán en octubre",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0gzbjY4MkJZc0UwZl9udVFFUFBxdlpSRzNXdVk5M19xak04UVF0NlQtSHc1Q25VZlpPWUJzYjdzZTY4OVkyV3FQblJsejhYRUVoOFFKcmxteF91NzJtMUVEcFVVWkRRaVJXZGEwWUgwX1pVSm9Jbzl2S0x0YkNFZjROVGlPOTdjYnNZdjRXY0ZibEpuQTNXVHdzaE0wOHgxR1HSAaIBQVVfeXFMTWZ3eExlYUpRQXlFMUZhSnVyeVZLNGlVckw2MzBoaUQzMU5NbmF1OVZSQUtLUWFBQy1DcjBXaE54TFdCM0hLVXpqcjlkQkwtYU54Z3pxYVBQS25aVEJ4QTFiTnVrTHU4RUVLQ3pUcHhUVWNmLUdqOFhzMDFsb0QzOEVGZGpGMGNDRC0yM1ZTS0J4OFdaRllHNHhGbWN1UE9GcDhn?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:40:15 GMT",
-      "description": "Trump anuncia que no habrá ataques contra Irán en octubre DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkMzJSZDA2SjFLOHFIaEtQSmZQUTZCOGpKNnQxWnJaWkgzcFRJcW1YYVBZTjJ5T1ByczJzTk1CN0FfM19PdllXams5Z084Z2VWd19oaV91Q3pTS29t0gFiQVVfeXFMUFFLdURvSDZSYUQ3Q0lnZ3VlaUFNcUNYOTd6N0VlMzNveC1wOGV2RFVlMGxULWpMa09zU0VKbkFxVnhtNzNYek9lWXM4dUpqZ3lCc0gtXy1YZXJDS195MEIyblE?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:37:45 GMT",
-      "description": "Presentan nuevos cargos en Nueva York contra Maduro y su esposa por presuntas torturas a ciudadanos de EE.UU. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Al menos 10 muertos en una riña en un centro penitenciario de Mazatlán",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVkR4UHBCanR2YnJHVld5RjlzTl9WRVhiQ25aZnlvWnlQQmFfSkVkT09xSC1MUjdPRnlhWlJ0Q0I3clFBazk1WWR1UnBENS04RGJwSkRMVU5DVGFTMF9kd0F6RlgtVndQZHVJeWNlRl9HV0psTklPc05wR2oyRXVFeHRqZW0ycW1sQ0w2a0FMUG9ITmJ6eG4xX3hHdHhZMTNPS3BOZDFlLXlJdDdtNjRXRUx4ODVJRFRLQWNZ0gHPAUFVX3lxTE1nME9oRzF4a2l3eGFOLXNlOE1MQ01oTk5PZ09icnBqdWx0S2s0bTR3bjNPNk4xZzUzZUwwV05aN291U3RucEN3QWJZSDB6b3RqZ0xSOTR3bndXN3dGNlFmczJkcmpHVkIwelJITmhlczU5TFdWMVA1VHZCcjR4ZE5HX3R1VnB0bk1COHNjV2d6NVAwcFNSaXMxdDdKbmphZnRBS1lObkNxVkkxSkkyOW04VE54dGV5dVlGNS1OZ3FsQTlldHVVa1VVZ1dBSmZSZw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 20:44:17 GMT",
-      "description": "Al menos 10 muertos en una riña en un centro penitenciario de Mazatlán EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Rusia pone fin a medidas profilácticas por supuesto caso de peste",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdXU5aWdRd3ZReWF4ODNWMEV5U3BXdHVtR3N0WS15aUdZdFluVmR1VmwxSlhXWmlaRUdLZThvcldkd1VTZDdocVBSdmc2VUNtbU9wSW1fcFNNd1pmWTVpMHVzV2dPVVdBeHBZdW5rdUQ4NmEtdGpxVlJ3QWJnVzkwSVJNTGVsT3B0bjhyMlhvZzdOSFFINkt1VTZuUEZhelZHVTlpc21R0gGmAUFVX3lxTE1UNjM0VEpTWndFbWhrZEx2ZDlTcmxpUkU2ZmZ5NmxPbUlUd0YtcVNYYTFvQ3d4TF9zbTNmVVFHUVZFQks0SE9wU0hoOWZ2TXhOa2dBYTIyVU1BZXFud2FPVVFwLW9CbW9OQzVMVHE3dDkwU3RtYlZQU3NEWmtwNWhZdnBLRUhUZEdGWXh5NUYzTnFVYWNwUVdIZW5SSmdNSm5UNTR0Zmc?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 20:02:05 GMT",
-      "description": "Rusia pone fin a medidas profilácticas por supuesto caso de peste DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Premio Nobel de Literatura para la autora canadiense Anne Carson",
@@ -206,15 +233,6 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Cae la red de extorsión de un exfuncionario de Michoacán que suplantaba a trabajadores del Gobierno con IA",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMlZRUGNpYzNlNVBwcXJhZEtnVER3MnBNOHBVaVVseGRmSUVHT2RRZzROeHVYcnRGSEtZbUFaSWV3VGZYeVFpMVJyY3BrUjNkcFZiMjVCRFNnTldKTkt0X0FzMDZsZEI1SC12Y0hDaEVuOWhuVUxVRFllY3NuNEdMdjZ4YlVOM25uMmcyek9RTUg0dTA1dklJOFFmYUJ1RENiRTN2Tm5oQllVSFFVa2t2MtIBxAFBVV95cUxORzNSS3BQdnlHQ3hHeXVPZ09qaGxFYjd5ZXZoWDlFWTczRGFVS2NHNUY4eUQyUDRtM0hKc0p6a3dXS0F4UUtuVTR0ZGNXaGh4N1N1b21xRkptR2F5U0gwcGpscms4cGtjUFR1Z1Q2XzJ5MmZnZzdQWWV6ZHI1T1BTWXk2V3RnVzMzeVdGT29vMVNDN2M5NFFmWl9lam55SDVlWndaRGVUalZzbkNGVmJDSDJkTm51MnhZM0IwLTVBRGpxdFFJ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 18:20:36 GMT",
-      "description": "Cae la red de extorsión de un exfuncionario de Michoacán que suplantaba a trabajadores del Gobierno con IA EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Un juez de EE.UU. rechaza el pedido de Cilia Flores para pasar a prisión domiciliaria",
@@ -235,15 +253,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Quién es Anne Carson, la poeta canadiense que obtuvo el Nobel de Literatura 2026 \"por su obra audaz e inventiva\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRTlqS0gzMV9MaVo5X09ncTdnYnl2M3k0bW9Kd3lXWEgyUjNScHhPRWppY0oxSnpoT0R0SmJ5ZFRiWWE5THJnN21EelJVT19BWnZ0SU1RQ203V3oy0gFiQVVfeXFMTnUzR201eXh5aEpfMlRaUzZYNndXZ1RGWjMxYlYzWlVLMUNCX2Y4N3BYUWNYTG0wSHFxN3ZZZzBQYU95b2NKLUx6YU1CRVFFYXdTcEVETVBRekVYZ1pUMkQ3UlE?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 14:45:36 GMT",
-      "description": "Quién es Anne Carson, la poeta canadiense que obtuvo el Nobel de Literatura 2026 \"por su obra audaz e inventiva\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Maduro y Cilia Flores, acusados en EE. UU. de conspirar para torturar a opositores",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNczlCNWhJc1AxQWJNdFR1ZmNHVnJGS0JHYjdnelR3UnQ4VW95TFJvQ2NlSVdDQWl1WWtyX3VjR0FNUE9fMU1SdlBabUg3MjdpSUdqMUplVTFtNDFIUklFNlNXVUNQaWducTJpWkhWa2RyTzljbTBqVGRyckhFeEVhZEc4RzgwOXNISk5WZ1RIRURkckNDTWtveGlmc2ZQTF9VUEJSXzNjVVdWRDZ1dzNXMVlFZHNMRGRKTzhfVUZHa25jQno2dmNodE9hR0pFN01RWXpOVDYzYk9MQ0hhNklfa0MzOWtuUzFLUENSRzlBZi1sR2x6clE?oc=5",
       "pubDate": "Thu, 08 Oct 2026 14:28:43 GMT",
@@ -253,42 +262,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Anne Carson, la escritora canadiense que fusiona diversos géneros, gana el Premio Nobel de Literatura",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NZDk5UDQydTZ5MFNuYUVBNG4tNVJrNjNsaGxkUzNRZXBKT0JfYXBVTElJNGZENk0wbGlKMW9vbnhRblJWSXozVVFhVGdQdE1PdW53aVQwUDFqSUtXa25yYjJwR2JxMUhwOXl1ZkgxR2lyYklJY0hrWkh6cF9aOVk?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 11:16:00 GMT",
-      "description": "Anne Carson, la escritora canadiense que fusiona diversos géneros, gana el Premio Nobel de Literatura CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Muere a los 90 años Margaret Hamilton, científica del programa Apolo de la NASA",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQXhtUXoxeU1OanQ3Mk0ya1Fad0poUjdPLWZjSkw1N1pPX3VIa3MxRWpsSkpaWmxBTmZ3WVhRMkFCS1FjOHJyaVd3eWJJU0dRLVBDYU1MY2NONElFZk82ZTMyRWdKbUJQVGZKei1DekREM1BCTDJrWEtGSkhFLUxkelZsYVJGMUt2MTVmQjFfeEpmaGVkZkhuOVBCZXRlTXFOVGk1eXlOX1drZk5xRVU5ZXJHdW94YXR2YkdwS1pQVdIBvwFBVV95cUxNZGFsdWtXelR2TmhVUm11eDktRWtwTTZvcEwyTU44M3V0ZzEzemdBcFZRdktPSDB4eXFWOU5PZFBmVjdfWDI3TG5BV0Z1QkNpdnNxczZiQV85Szh2WkJWZDh0TmxNbnpzSUNuTjRfOTdBand3TnAwYlUtaGlMMUJIQWQtUHhkamMwbHJCT3hHaHhKYnB3bThBUHV6ejhXTlZrSEE2VGJ2a2FKMlp6MFFIYno5ZjdjQ1FGUndnVkdhWQ?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:41:39 GMT",
-      "description": "Muere a los 90 años Margaret Hamilton, científica del programa Apolo de la NASA DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El bulo ultra del “asesinato” de Maricarmen: “Procede una autopsia. Zurdos de mierda. El PSOE hará todo para ganar las elecciones”",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWTF2LWVBRVF3OUZjclo3WXBsYWt3U1p0blNCZlN0eW9sZDZ3QmYyVW5tWkpNWk16U0NlQlpCX2NNVmZkMTdSVGlLbFltMUJEVjh0SzhDc1V5R0JDLS1DZGIwY0dtZzBNNWVNWHVHSnJqWmF6Q1p4Q3dNellERVQ3WGJ2NWZMNkpydmpJS2NUTkJ1M0REekIzNFgyVFNHc3E3ZkJhOTRzb2sxT0NFYWlPYjZzTXV4ZV9sYm1mNVZMRmYyVkVCYkdaV2oyNGM1MTZMNFJRUkNCNzFiYlRqc1ZyekdTZUo1bEwtblBIRi1NcmdCUlFZT1NjOV9IemhsLVBycUx4Z3VZOW9oV3V3ckRJVlE2WF_SAagCQVVfeXFMTWxOWjl3QzNKZmN5Yjh4NWx2YzFFWFBGRHljalZ4OW1BYlJmVzN5SHRDWmQ0NFM3NzgxMFpGQzh6TmY4SE1NaWE3MFBZN0I0ZW9Xc1l0QTNFeExjcjFiNmN1T1hUb0c0R0tNR3lMc1pvdFFNUlVnekNucjFuLVBtVnJCYjd0bnp1NU13cE1RSDFpNXVieUpDcGpUdXlKcWZnaWZkR3pPTkpKeDVZMkVubm1fQWhlYUhjaU41VUZPYlUtOElrb1MxeE83bDlOdGk3WnJBUmhHQVU2ZmNfSVlGTk9xX2ZuVXVkcnR5Njh2YjhEY2J6aVBuSHpHYVgzczdfd3ZfNkw1ZXB0dkZOV3V5bEY4eU1DOU9VTi0zSmRBOW5mWm9FR1lJWHY?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:29:54 GMT",
-      "description": "El bulo ultra del “asesinato” de Maricarmen: “Procede una autopsia. Zurdos de mierda. El PSOE hará todo para ganar las elecciones” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Las cifras de la peste neumónica",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IWWdiMklNenZqY2JuQXFYdjFRclQxSjJ2cEo1ZnFPdVlCVThyOXRWVmExNTIyd2FOUDduOVFkQVd1SXZOTzBaTmNnMVpFc25HZlhXWXh1Z1FMbzRKaHZlbG05QzhxNERyeHJxdV9UMHdRU21sVkVNdFNhcw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 09:08:00 GMT",
-      "description": "Las cifras de la peste neumónica CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Tengo fibromas. ¿Qué debo hacer?",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ObWtRR1dtS2xCQ1NTYjVMQ21TdGxSUlV4TmllRzI4NzlQYjBLaEd5QUpSUFB5Rk03bDMxU2pBX19SVEJuaGZHRHhxVTdDd01CZFZYdjlkaVk0VEN0WkNEVkZwYXhRQWkySnQxX0tmNEJJY2hKbUl6ZDdBdw?oc=5",
       "pubDate": "Thu, 08 Oct 2026 09:03:54 GMT",
@@ -296,24 +269,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "El Niño se intensificará hasta alcanzar su máximo en diciembre, alerta la ONU",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcW9qeEFJQmNFbWtFR2FsU0VpQjFlaVp3Vlpnb2dpWlBTaVVaU0pxdUdEQ2R5cXN5TEhoS2ltZ2pLT2FuOVpzTnB4LTc4YVNLVEVubnB1dkR3MzQ5V000N1gtMnM1ZEtOMVpzNXgzdmhJdHJWZV9aVkxmZUtuMGdEeXNyaHlfMEJQVEFzNjBsbFlmT3NCTnZDVVZkdHg5Tk9SMVVUcnFLTXdpVmVRYmFJckNVSmN1WkN2TFU3VHc3VjQ2d9IBwgFBVV95cUxNWWhBaFJ1NzN4NGJZSmJCZENJQm4xZG1KOEpDa3FJNU1UMF9FNW9KNFJ3aGRDbDJKQXB6RS1PNEdxUTc4V1A1dlNQSUFqcU9VOXB6cUtTYmptSmMwcnNSbDVHUGdVTEtyZE9zeGdsWEh0M2l4NTdMSmU2Sy1CczFLZ2JyZGFZcl9mZmozZ1dOY3JrWFh6LVdLa2FjNUN6UEtLN1d2c0RkaTM3cXF4UWRacVpFc1BVcHdnRzd3TGRYbURUZw?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:57:57 GMT",
-      "description": "El Niño se intensificará hasta alcanzar su máximo en diciembre, alerta la ONU DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVkp6RHdQR2JMNVFhSHBlMXNISWdRbk11WUNWd2dXbXpSczYteVZBTDNLS21SbDlscVhSbXdfcXNGNGEza1RHeTdDY3BTaTUwSEJXQlpXeDl0YU00UEhJb1ltbXdkNk5feVNCWG1TdHBnLWRXYXd2VU9jR3B0dHl1aEZFLTRJYmRadjNjMVRrbWhtSUp0bHk0bmVnQkNuVHFBRHltOXRXb2hOS2dhLWlQdXAxV2Uya2pNLTdCWXZPQ3ZHUjl2N0s2aTVUVEpJUdIB4gFBVV95cUxPT0hBaHVMdGo5aVpSajNqZFBNWDl0dGhkdS1vRTJpeVFvNFd5WXBYWks1aHFmWW1DeXlGVUM0bHVGZGhOd3ZoUGQxOWE5OWRSWVNQQW5oZ3FIZTR0aXdhS18tb3VOTi1kc096VDFibmdrZkhhc3lobEtzZ1N0Ny1BMzZUVGF6MkdCbjQ0QnRIeERiVzlyTnY1NnhJMlhULVNxWjczaTdMSEU0UDMwS3doaVJNUHFLVGYxWXNzcE5TZUlJYzNOMlN1LXFqMldZWU1TTGpLUE5lZFh2b2JUWFpCRzJR?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 07:02:37 GMT",
-      "description": "Muere Margaret Hamilton, la mujer que enseñó al ordenador del Apolo a no perder los nervios sobre la Luna EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Interferencia de fan le niega a Volpe el jonrón del empate de Yankees ante Rays en serie divisional",
@@ -334,28 +289,10 @@
       "domain": "apnews.com"
     },
     {
-      "title": "En directo: enfrentamientos en Nantes, gases lacrimógenos en París y miles de manifestantes en Marsella",
+      "title": "La ONU sigue \"con preocupación\" la violencia en las protestas estudiantiles en Francia.",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRW5OZElFV2FRRzVKVHdxblk1X2VFMmI0NVJHSFMyWHdzNDRPYktNdGp5LVA4bmFJV0FyaHo1UEhEb3BEbjVDQl9ybXd5VTF0YXlnaVUxNm5LQnVZZFQwb3N2eUtBTDE3Z1VDVGRGOG1weHdudVFYWFZkaTU1dGswWWdsT0dzVVZlZ1QxUV8wYk8xMEdDNFg4OHN1MkhuMVNkM1V4RU5DYTVBTlo0ejVjS1RESDFicnVkLVVTQzdkdUpQWjdDZUczYWYyak9PbHdOSEZfNGpKR3czRl9RdEEtbVNfcGhpRHk0Q3c?oc=5",
       "pubDate": "Thu, 08 Oct 2026 06:10:03 GMT",
-      "description": "En directo: enfrentamientos en Nantes, gases lacrimógenos en París y miles de manifestantes en Marsella France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Los que decidieron atacar a una anciana desahuciada: “Era una jeta”, “jugaba al bingo”, “si fuera Morocarmen tendría casa”",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONU1WM1p3S3lLOXgwRWZqbzZpUHhrQWFlS1Q4RjZ6dmVSdTFJR1ZGWUJiM0lWbGdxc0lSYU9xWXYwSmlVcGY2dVFrZzc0OXhDUWE4ZTRzUXNmZEJsb0pNM2lpcGpQS0V3aUluSXY3N3ota19nOERjeVBWWHM3MW9GeDhGb0RJYzhibjBmSXVUd0pVR3VTeU9VSHF5WkpoZlJMSS12T2JGcXlPcFBzNzhzMnQ2aDN2dGdRTEZxUDlLTW1nTzIxMFZSb2F4OFpWX2lmNzBwb1pSTjBXaUY2dGRNSlVDckNIdmxqVk1v0gH_AUFVX3lxTE5LZl9iNXhxdFR4Z29JOGRudC05UzJjLVFybEJjSUdWNWN3LTBEMlg2SnpKV1NSQzNjWnNJM2prQXJCc05OVlBBbVdtT0M1OGdiSjN2WlhhQ2tRMmRlS0RmRGRzYU9rWDI0Zm8yY0Nfd253dTN3cV8waVNNY3BWUDQ2a1Q5Q19zNEg4WDY5Nzh4TF94U202Y0pNX0VHLTIxaWkxUXhMa1BnSklLSkcwdy1IcHJVUURpVU1HNThMU21NcjR5ZlgxRXluNnk2VjlEd0RELVdUdXNsbHZZSUdSTHFNNTVIcWdNVEtWRUNaWWQ0T3ZCTVhWQXIwZ2F2SXI1NA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 03:30:00 GMT",
-      "description": "Los que decidieron atacar a una anciana desahuciada: “Era una jeta”, “jugaba al bingo”, “si fuera Morocarmen tendría casa” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "\"Dictadura nunca más\": marcha masiva en Río contra Bolsonaro a días del balotaje con Lula",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd2NqWkQzelFDRXF5TWlyQkxIQWN0Nm1WOUVnbG15cEExQmhHTjlIV28yZ3RvdHZyZ21OS2hDSGVCMlc2Z2NMVHVoOUtVdThqVGpOT3dzVl9IdWVqUkdGUVIwTkhSQWF2RjFyRkg2d0tvenI2ei1RTzE1Y2hpVzJSTFNkQ0VLM2FMT3c3Vzg5OGo0LVRUNzdWRU9pQmNib0I1VlFjdjNMNHpXY2d0RmpZVERjY1pReVFKdHdoUGgyRVgyb19fNURGYkV2U3h1Q29zWFVrZUNWNFV2WGdJZlAxbENYVi1haDNsNmRUc0R2MA?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 01:42:25 GMT",
-      "description": "\"Dictadura nunca más\": marcha masiva en Río contra Bolsonaro a días del balotaje con Lula France 24",
+      "description": "La ONU sigue \"con preocupación\" la violencia en las protestas estudiantiles en Francia. France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -386,6 +323,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Esposa de Maduro con \"un problema delicado en el corazón\"",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ3p4NGxjX05FOEFacEJhUGtvLXVtcGxVbW55QTBKR2VsTnJ0LUtweHdNank3RmpaenBTcHBxTVpzLV9Vc0c0TGtoc3dyaFZCLWthakJqb0NxZTNZeUx6MnFkNDhzT2JKSTY2UjVvSjRlWF9jUVlhUDBXY2ZrWWttU1dqZExjOFBmdTdtTWVGWUd2NDB0V3hrb9IBmAFBVV95cUxNSUk0bkxhWW94aHE2OW53UFF4cHR3bE5NVURRekxhSENUNng5SURhSTNWd3k3ZzM5Szc2Q1ZFNjYwbU0tbDZQWm9pQWctd0Z0M2hPN0wyV005UTI1TV9ya21wMmt1Y2YxWkVNWjd1d1JfVzQwanBfcHFtaW1fZTRYc2tPVDR5SkFNV1FXc1Jza3o3NXZaQlJ1MA?oc=5",
+      "pubDate": "Tue, 06 Oct 2026 05:55:31 GMT",
+      "description": "Esposa de Maduro con \"un problema delicado en el corazón\" DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Sarampión: Nueva York declara emergencia y Pensilvania supera los 1.000 casos, su peor brote en décadas",
@@ -444,7 +390,7 @@
     {
       "title": "Venezuela's oil exports down in September amid high freight rates, data show",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 18:33:58 GMT",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
       "description": "Venezuela's oil exports down in September amid high freight rates, data show Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
@@ -500,6 +446,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnV2ZGhVSHJNOC11enV2N25uVDRSYms4QV9scFE4MTF4YlJCU1V0bzEzazhyN1hCalF0Y2NSSXFMd2RySVZKUHRmUkltbk5DajZnTmNlNW93NGpIcHF5NTZrcjN1UHJMdlA3X1NXWGNsdW5kWEZFX0lxdTk5VU9PYXhGa25VcUZSdTNEdlRKTDNyY1R1cjhLRW5pSEJvQQ?oc=5",
       "pubDate": "Fri, 13 Jun 2025 07:00:00 GMT",
       "description": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’ The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmFjZzZQNHRiWHp2Z2FWMFhNb29TazA4NHlTNmZMR0tZWlhxczlIOFRQb2dCV0RFYXlXQnJibXFSNDA2ZzBSU2NuMy1KOEJoeC1ydHo5ajhQbC1YTDhNdUVYNjE2UTlFeHNmS01IY2xaVkF2SkZ3Q29nSWpLWFlBOEpJeFo2TUcwRG14bFJrb0xSeFhQSU83Tll1M2l4dlZaa2hhNTBNSGplekJYQWxPTjhCdTF3TEsySk9PU2dpQi02WnR6SGVIc0VvdHRud3lLS2lmWE13?oc=5",
+      "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT",
+      "description": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
@@ -566,15 +521,6 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "La Liga table | Football",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBVGo0czB5V2lvOU5od2otaG4wUHpNS0s5SWRlaTlYcm1Hbkl6TDl1RG9KN24taG9uTFl2Qk5ibFlRb0hFMDRVNzluU0Y2aFVTNzJkdmIwV0hXVGNhXzQ1X00wWWU1STJz?oc=5",
-      "pubDate": "Wed, 11 May 2016 14:07:25 GMT",
-      "description": "La Liga table | Football The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
     },
     {
       "title": "The Guardian in Spanish",
