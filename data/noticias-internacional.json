@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:17:16.971Z",
+  "updatedAt": "2026-10-13T09:48:49.527Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,94 @@
   ],
   "items": [
     {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 08:58:12 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Muere a los 34 años RJ Mitte, actor de “Breaking Bad”",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXBiYUVNdnNnM0Vadzk5UUdlMDQ3NUpxY2tlQ2ZOSlBQV2FHNkNzeG9VZC10cWVObmY1VUJMMURYRWxPV2lMc04zTnVqUzUtbmlMNnljblJPSl9JTEZ6VHV5NG1hcGc1bkFZWjNKcWNhY0NNb0t5bWxKWlJfeXo1djF4a2g0MHhORXQwZER4dnhvRnVJbThB?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 08:05:00 GMT",
+      "description": "Muere a los 34 años RJ Mitte, actor de “Breaking Bad” CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6cXlZbk1UMXM2SEdrQUZqcFlkZF9LU1VGTkUyUHE2c3JBX0R4cmFIWVRUZElfTHBWcmZtaFd0MWl1cWZmQjlZZ3ZGdDA2VldQUEJweFdEZnpIbXhH0gFiQVVfeXFMTW9jMFdRVl84S1dmSEV3ZFFGZW5QRUY3Z1RzZ0x3VlhsS2JjejlNSk5jYnZjSDJqV0VPeFk4dkxRQWJTMm1WWXctTmIwOUwzU1Y1b1NseTZ4eFlJek9OTDhaRVE?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 08:00:23 GMT",
+      "description": "Un muerto y varios heridos tras un accidente en una montaña rusa de un parque Six Flags en EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "¿Cuánta IA hay en los libros más vendidos? Mucha en novelas románticas de Amazon y en el superventas de Alvise Pérez",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdWVwR0VUbWJ2ZWtneHdkX0N6cjdRbTFOOEhON1dSQVgxX1pjekJGUVZjQnpFc3phdUx5ZHNBTGI5cGRTSElLN2o2ek1FZTlSNWRiY2xOUVc1aUQwbkI1SHBpWTczZkUzMlhBVmNXRmtFXzBNMW84THBBU2Q0TG8xelF3VWljendJZWNQd1poZmYwQV9CT1E3SE1aYl9xSko2anVsMTh3cWhONENibUVXZVlKRzFQNnQ1SzVsaThhRXpLYlk0MXBlRHFhWHRmRDVVVTRKWnJiSDVVU0XSAe8BQVVfeXFMTmUxWDdjWDJIREU4MWxEdVBnU1dsNTFua1JOTFRmZXpNa2I0MmtOUTBEdjNWZjBYMjRNT1BvaURWbVVpSFlxUl8wTmdEZ0MxN1U2YWhjTWsxRHE0eHEyb0ZvVEgwUUVId1RrdzdvQ3RKSjFsWUt3RmpoUVdCY05BN05sUFV0TXhvclBNQTllVmlXdURqc1NUTUl4bGx5eTNnUlB3amdJRVlLazBaZk1SZjBjbVFmSkYyX1htYUFFRGRTSnoyOVhJX1YzR2F3RUsxY1J6VGZmU2g3Ti1tSU50eHRNNVdOaVBNeXEzb2JkaGs?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 07:05:13 GMT",
+      "description": "¿Cuánta IA hay en los libros más vendidos? Mucha en novelas románticas de Amazon y en el superventas de Alvise Pérez EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Por qué Arabia Saudita no puede derrotar a los hutíes",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTldvLVhtUnJGU1JuTnNuM3lTVU5vYXRxcFNESFAybmI1TE9HRDNieUY4a2JmY3g4YVI0bG56cDVydGtXUlBxWjl5T3JwTGtDN085c3J4ZHFVM1R1b2syTGp3RUtocnRkUU5NYmlzdHRwazZSazZNVDd4dGdaU1dfaDRpVEpid0ZRYlBDdHB6RWozR0hKMnllVGZmQlR0NkduQ3hPZDd2UG1ZV29rdWV0Wk5n?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 05:30:07 GMT",
+      "description": "Por qué Arabia Saudita no puede derrotar a los hutíes DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84ZTgwLTdwX0lrcVV3YmhjSnQxSGh2SldVZlNGOWM5eDRDcmhRVlgyM2NOVVpLUlp1TVUzWF9OaEVObUlZQjhreDlrMk9pWTZoTVNld2xWVTl1NGhu0gFiQVVfeXFMTk9BTHJ5TUJOOGthbEpkeWZ3YzlYVkNCUThicXhCMDllcGJKei12bEREQ3NjVTBIanRaekhXeVFhVkd4STNKMk1URlJwdUNfQlpfbWFqQTNHSjd6NU9wTTE4VHc?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 23:52:02 GMT",
+      "pubDate": "Tue, 13 Oct 2026 03:08:58 GMT",
       "description": "Muere a los 34 años RJ Mitte, el actor que daba vida al hijo de Walter White en la mítica serie \"Breaking Bad\" BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "En el campo de batalla del desierto de Yemen se libra una guerra con consecuencias globales.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PQjQ1YWZoQXYxZWpfQVN1SFVKeVJmTGhWQU1WVlEyWmRMUWEwVEtETUxzZGpGc0FncFlTLUUwRDNDdkpkUWFFdnJFTV9YeVJNaEpnMGd4UUM2Y1B60gFiQVVfeXFMTlp6UWNSQVZfTVpnUk5rN2h4OEJ4RG10LVl6X2NFZUVZd1ZRaXVSZGFOcGZONmVsZE5hbUI2elRxeVczSlByUENYMGlZU3NSbE1TZUh1RWRJTF9mcmtrbS0yQ3c?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 03:01:16 GMT",
+      "description": "En el campo de batalla del desierto de Yemen se libra una guerra con consecuencias globales. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Expresidente de RD Congo forma movimiento con grupo armado",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDFTUkR3dlhQcDFhT25rV21qVk14Ym9HSVc5ZkFtVzFBYTJ1bkh6eG1STXQ0MXplUGFmZzRjeEFtUjgxY1htTFVMMVlqT0Z3OGMxVl9kTi1DVlB6dzNTUlM1MGxKWVJvM2YwQVZCaGswczNLQXhObE8xRDY4NnpYVkRlb19mSFdxTG9kc3BaMzVobnFBNVkyOUZOcDRFd9IBngFBVV95cUxOMVlQT1lfZ2x0Zko0UTd3bE4yNVd4VUJlcjA0ZTRuMDFfUENpUVhNVE03LVZuV0JlQkJkd3lVeEp0WGRXRFdSTHI3cmNGUFhyVmxPVmJ5Qk5QZW9SSHNTb1BIZlE2Szh2c3dTOGRwOXk1eGxGd0xTeVhzd1NDeFU5aW1CU1ZoLTVQNWdxeDhFMVgzbnFfODFIaEJDQkRfdw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 01:17:39 GMT",
+      "description": "Expresidente de RD Congo forma movimiento con grupo armado DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Fiscalía de Bolivia investiga a Evo Morales por asesinato",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM3FIT0t1NUNZc0NSajE4dENPcV9uTFlaX1VOaGxvT2FlVGZYbTJVRVlGX2VtQ3BTRFpOYlV3cmRiQzB6TnBlM1kxNW9aMjNKMjFnSnhUQWZfUS1YTDVVMVh1cE4zeWRNd3pTOTFmaTM3N1Q4SzNkY0ZCNS1pU0lGSkxzWVRvQW1qSnoxbTFIUDdaUTVSdlkybnF1WdIBmwFBVV95cUxNcm9UTDk5eE9NbnJ2b2VPSlJ5WlBhZUNQeWV3UEFUbkVoTTIyVjBGTE9FQ2ZTQnB6elhHN2pKakxZbDhoZWZyNzdKVUd6aHJIT05DVXA2enU5TWhuYzU5N2NDczRUaHEtNnBRZW5rZXpaY29fS05MNjlTLXhDWUtweFVLWVJWRU1YQ0Vvam11TjRuMXpndmprV2hCTQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:57:08 GMT",
+      "description": "Fiscalía de Bolivia investiga a Evo Morales por asesinato DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Ciberataques a supermercados europeos: incendios, comida descompuesta y servicios fuera de línea",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcEJGWktZWG0tME43UGhMRmZsanVzRzFkT2w1OWNYck5ocXRxbmh4LTQtNzJCUTZGTk8zV1JRLXpvVDRSbUJSdDdqUi14eWozSUFXbzh1V29ldFBIM3FvRDJYTjNRUE4xRHQwLU01TlgybUNfUEl1SVFiaDNfYUJXMGItQkZLVDdkd0xrR0UzMjNjYWxmQkN3N0dLZDF1eGh1VV8tblBxbGlKUUhmZ3RlTldMQXhGUHk3N0EtSTcwOVZqM3NhZVdsaC1uWnJXQ19DZVBYd2Q1UVByLTg?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:49:00 GMT",
+      "description": "Ciberataques a supermercados europeos: incendios, comida descompuesta y servicios fuera de línea France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Un ciberataque contra los refrigeradores y congeladores de cientos de supermercados de Francia provoca pérdidas millonarias",
@@ -80,24 +161,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "\"No me silenciarán\": Ilhan Omar denuncia \"intimidación política\" de Trump tras allanamiento a su casa",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNW1MWTV0dEJFV2VsTDhLVnc3b0d3NXVrdVRMWE5VR2w4OXppdTBGemNyemp3R0c5bHdPNzEtaExBeERQR1dVbWxfMHBwcy1yUXhPVnN0NUJBcXBsOEdMTUJTZjcxeTlRcDNOZTFhZXRDY0hPWjJfdHhFM1JMT20wcG1FcmJXTTUyem5zYm1YOElMczB6Wjc0aWRxRlNYRmhWajlWVmVKWlp3VW9FMUNmNUcyS19RV0d3b2w2aEtpZEx1UkptRnRVUzBpeFd5QWhhc0VrTWNaa3Y1RmZtanBlRE0yaXh5cFlxa181aHF0ai1TNm15dHdRSG5Hb3M?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 23:09:00 GMT",
-      "description": "\"No me silenciarán\": Ilhan Omar denuncia \"intimidación política\" de Trump tras allanamiento a su casa France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 22:56:06 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "La actriz estadounidense Selma Blair es acusada de agresión tras un incidente con las azafatas durante un vuelo",
@@ -118,15 +181,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Muere a los 34 años RJ Mitte, actor de “Breaking Bad”",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXBiYUVNdnNnM0Vadzk5UUdlMDQ3NUpxY2tlQ2ZOSlBQV2FHNkNzeG9VZC10cWVObmY1VUJMMURYRWxPV2lMc04zTnVqUzUtbmlMNnljblJPSl9JTEZ6VHV5NG1hcGc1bkFZWjNKcWNhY0NNb0t5bWxKWlJfeXo1djF4a2g0MHhORXQwZER4dnhvRnVJbThB?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:58:00 GMT",
-      "description": "Muere a los 34 años RJ Mitte, actor de “Breaking Bad” CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "México expone el supuesto plan electoral del ultraderechista Fernando Cerimedo para “reventar” a la presidenta Sheinbaum",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQclpQNnd0bmdiUno5akNObk9Ma1VzdmpQLVRvZXBRV3pJbzhIOTVJMjdRZ0dvNlp6SXE5eVpkNmtMMXItWmsydkVTM3lYaFdMNlY2Xy0xMGpyZ21Ga1p4OENrVmpoVDZGV0hKT1NaQVZUT1NWTFNYZXFrTFpJdEJYSXdiN1E1UEVCV1ByVXE2UEF1OEJkWDliX0tYUUpvRmxHazBhN1VjSXRQMXlnWWZNR3hGVXZseUVrOGsyQTE4UnRWdkl5ZEZ5OGowNWh5c19EQUxDQWhqY0hFU0p5OUhqNnFQUzBQVFlyNE15OGh0clN2Z9IBhgJBVV95cUxPOVpKWFE4RDRoMnYwb0w1bEtDSjF5UFo1R19SS0VTQ0l6emktWHRZN09uUkJJdXdEMnlLbnRRNzJoZzJWemFDSl9Mellub1ZvLXZTNk5rYnA0WHpiWW1yaDRrTzd5WjdJZTZKQ3NhdTJydk1DRnFtRU45XzFWbkEyemdEb0JkbXNBS29SQkVKYWJTOTQyUHM4czE5dS1BY3YzdXJjVS1MdTVZaUhfcEttUUdoazhwdW9WbmRqVTBnSV9wdWJhUEplbHA4c3NSRmVWQ21yQmZGTlJSLTRSVTBrRjNISm1PMFFPWWRLZWNrakFYeVk1dWNSTmstS2VxcUVnOUdyV1B3?oc=5",
       "pubDate": "Mon, 12 Oct 2026 20:30:18 GMT",
@@ -134,6 +188,15 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Abuso infantil transmitido en vivo: EE.UU. es el mayor comprador",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNV9kQ1pEQWxtTG11aHNnTG0wZTVSZHE0X3Y2dDI2bHpOVDJNWElUOTFoeEt6U2VEcTdRY1NpeUhPMk5GWkZLTk9Yc0FTdE1mNHlhTDZKTlhkeldNT01Nb2VYVVdBajlSMWV6VmJqQW1HempESHJTVGNWRWduaWx0eUwyUXVhWWZyQ19HeUdMUXZzaXFROEE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 20:05:39 GMT",
+      "description": "Abuso infantil transmitido en vivo: EE.UU. es el mayor comprador CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Zelenskyy dice que Rusia sigue atacando sitios energéticos pese a supuesto cese del fuego",
@@ -152,15 +215,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Digger: la nueva película de Tom Cruise se proyecta como uno de los mayores fracasos en la historia de Hollywood",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YazJ0ME9zNUM5Rl81SFhxekVGZG1zRXhfNUR5WnNNU21TVk52MHViNXhtRUdXb25pLUthQ3hMQ05MUk9ka3B3dkRSVzM1Q283R0E0djdVZllyckNV0gFiQVVfeXFMUDhXMTlCTVJUSHZqR0Q1VWJMTW1jUE9Ta1pzS29tN3ZkOF9kbG54Zm5lVzRGd3Q5b1ZFZFZheGlfWEtVN0d6NzQ2clJuRkZPR2FEcDNIdWpEM0gwOE5ESnFKU1E?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 17:26:15 GMT",
-      "description": "Digger: la nueva película de Tom Cruise se proyecta como uno de los mayores fracasos en la historia de Hollywood BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "El papa cancela sus actos hasta el 20 de octubre: ¿está en riesgo el viaje a Latinoamérica por su cirugía?",
@@ -208,6 +262,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Justicia de EE. UU. ordena suspender los anuncios de Trump financiados con dinero de los contribuyentes",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdUszSk9BVnFHWFdqdHByNlJveEtPM1QtYmdYa05uMm1sRnVscEJYM3VJNUpkNW90LW1WTVI3cUpoYVhMZTNrSHJONmlBXzhaNUl4MEk0MGNVT3JoMkNTVnhWVkM0enZiR0RGYkhaWUotSnBhT0pwWEpHWkFtWGlrbWJNMWhnY1lrWXZDeEVFVi1pdUEwNFBsclVBZF84eFBJOFpMUi1qUnVlbE1KSk9zYXR0ZUh3VEY1UUtONDQxQzV6dFlheGtkRmVualk2eHRCWUtxeXBVbUhVbjYzTkIzc0t30gHiAUFVX3lxTE5MZVktbVFoUlY0dlBBVl90UWc2bm9xTTBERmkxc05yZHZFa2tjWkZCUklhR1ZfczR3em1IV1VKVlV4TjN5QlFLX0dXbnpaX2JUb1ZZaFJEY1NrOC1VakpjRW1TQlZORmF5bHBCWk1LUWlRbWtGb0ZTUEc2Uzk3al9xMV9vTlBxMkY4ZzlDQ1d0RzRDTUpSb0Y5TXpITGhYaVdiNmNYc2MyazVDQ3JSRklWeHg0eFAzYUNIbzd1RTdEX3JpRHpGb21YQ2RWdHZRZm5tMmtTTXYxRWdIQ29TN2E4TkE?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 15:07:49 GMT",
+      "description": "Justicia de EE. UU. ordena suspender los anuncios de Trump financiados con dinero de los contribuyentes DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "La menopausia no es una cuesta suave, es un “precipicio”: las consecuencias de la última regla son mucho peores de lo que se sabía",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdlpERHh6NXVEd3NvT1I2YnFqTzFpRXQwaE5kWGV1b2lyRjl2S0RtR3NmbldOTkNTdGZ5alFmRlFqbjByeUwtTlVJM183bG9paW0ySENpMktCRkk1TTFFVkZhTnVfTzQ2NEI0U0piZFh2c3RXZktsa3RZdzVfYmJRMnMyZUI5YXlzd2w2V0pGZ0RhZS1RTUxkRTJGZ0JIYU1nWXhTMzMxSHNidm1QYzZjUExsM2wyMHZEblp0ZHhqU3NqX1ppNkl5ZzltTVFkZ3hMNF9lWk9XakxXVURaaGpTdnJGb3FDTUdHM1Z2NDVQSU1pSE5BZHFESnI2SW9qa2JjRTBfeTR3VmtqSG_SAZ8CQVVfeXFMTkNUcG10RXU0UXRZSGJydVZIUk9jRnF4SFdBejFYZDZrekVSclhTeTNFTHpNQm5oYXlUR0s1RnV6dDVDM2hyVDVLMnV4TFlTckhSd0djNWRMcWxVd3MxVUxhZFVVb1V0ZTdXaEktTjhYWU1CMFNSVWk0UzBIVzF2b2R3S1RVX2QwQm56ZG1tWWJrQzV6eXl5R1hEOTRPYlg2dXdPQl96NFRaY3VPN1pWVUVWZXlQV2xsV0c3V1BEbTAtcHdwaDhmM0I2ZWNBQ0V5RXQzcFVEbURENHlXNVZMazJHLUVWOUFTWG5RdnZEOFJkaHBCS2pudDM4cEh4OG44c2RsRC0wZFo0QTRSYVZVandIZUpLQXNEYjZlTU92Tkk?oc=5",
       "pubDate": "Mon, 12 Oct 2026 15:03:18 GMT",
@@ -226,33 +289,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Robert E. Hall y Michael Woodford: los estadounidenses que ganaron el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zNmxKcFl6bnlUcTZZRG5QXzh2Tk43S0U4UmxzbFFDREZ5dTIwak1KdHZGXzhqVGE1WS11VGxyQ3hZQWt0SWYwSENDWENnWUJHejl1OUZMSkRxX29i0gFiQVVfeXFMUFhmUXQ4UlVmSGR6dktxWk9wNWdUS2tKWGNZUDFJVjBnX3dvY3JDaWVVMm9ySzU2b0p3SVo5YTA0SjhBcHF0YTFQcnBwVFNSNm8xOTRELWtacURKVnkwOHB1S3c?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 13:06:41 GMT",
-      "description": "Robert E. Hall y Michael Woodford: los estadounidenses que ganaron el Nobel de Economía por su innovador modelo que ayuda a gobiernos y bancos centrales de todo el mundo a estabilizar la economía BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Firmó una orden para salir voluntariamente de EE.UU. y volver a Venezuela. Meses después, sigue detenido por ICE",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVTQ4cnNqRzF4dkZfVjFNYnQza1V0QTB2SGx1TTU2NU5aX2JQeERWT01aaWlJc1RTZk1jVk80V3IxeEp0NEQ3LUdIX2huMDlXZC1RaHo1aFQ5RWJFY0dsRTdKckNyV0w3elJBdUpPV0VCYlZkQWZ4YUFFVU1SdXNpdzhfRVBkclJOdk12MnlR?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:29:00 GMT",
-      "description": "Firmó una orden para salir voluntariamente de EE.UU. y volver a Venezuela. Meses después, sigue detenido por ICE CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Cuba denies involvement with island-bound fuel shipments seized by US",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTdXQkZiNmZlU3FaSUpwSjVIdXRNM0dOYWhzaDU2a2Eta2NIUkNLODZuOXVycnQ1SFVLalFMRUd3cmNHT2NtVHhiNTVpdDU1bndRa2JDSXo4MFk3VDlHWUprRVBkaTZtU2FoOUF1ajdNNWFJcDgwQmV3MGRGUUFyUkw0dVBGa3I0bFBlZnNjSWJibVFTc2NGdWNsUENKeG5vRC1WaHNyaVY0aFJ0anNUdW5tMVlZRjIyMnJlQ2JB?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:06:09 GMT",
-      "description": "Cuba denies involvement with island-bound fuel shipments seized by US Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Los estadounidenses Robert E. Hall y Michael Woodford ganan el Premio Nobel de Economía",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVEhZMXh4bW5qaVFHcW5ZSlVobXdFZktyUjFtYUpqZEJDaG9Va2hCSm1fNGwwR0JDM3FQcXFfdGpZYmE5bWF0ZVFOektYdmRjMU9yLVlCUnZvLWFkQ0VPWVlabC05ZzVNOUpqenN3WEZuaVpXcW9CSWVsRllydkNUelpJT3ZFYUdXa0JQaTloNWg0YzVmVjFQOWFJTm5NQQ?oc=5",
       "pubDate": "Mon, 12 Oct 2026 09:55:00 GMT",
@@ -262,19 +298,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "El huracán ‘Simón’ inunda Jalisco y Colima en su camino al norte",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWHhEVzI3U1FzazA4R284UGZHRGhjMFYtblB4MEhQTndsdVNvQktSaVFNRjZnc3A2dlpjcXpzbFZWd2didTUzdy1tb3ZhUjZOcktPLVgzWjNDUENvN1R2MXpqSWVlRUQzSWozNlpkLWJyd0ljcmRrVXJPTWVaQW5kTW9YUDAySnd0cWVqQU9VQThpRHp0N2xjdWFSRTZuYThiUUprUnM4RdIBuwFBVV95cUxQM2phRTVUYnFKNEUwZmF3MVc5SDRJQ0RwYkUyVnhWT3BDSk1LMVNTZGlMTlNXWTZXOXp4VmZoT1dSNl9ReTVCNlBFUnJjVFF2V1Y2NGdxckJ4WXRQU0N0MUVwSzdwS1dZZlkwZDRhUDJwb2E2YVNKdmNCS1dsT0FOWnlPaTFNUmZWRzFYZHpfbkhmREN4cW1oNXlaUm1aVW01c0Zib3FhbUd2a1dHS2tKeG0yY2lrTFcxWmQ4?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 09:30:00 GMT",
-      "description": "El huracán ‘Simón’ inunda Jalisco y Colima en su camino al norte EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Justicia de EE. UU. ordena suspender los anuncios de Trump financiados con dinero de los contribuyentes",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdUszSk9BVnFHWFdqdHByNlJveEtPM1QtYmdYa05uMm1sRnVscEJYM3VJNUpkNW90LW1WTVI3cUpoYVhMZTNrSHJONmlBXzhaNUl4MEk0MGNVT3JoMkNTVnhWVkM0enZiR0RGYkhaWUotSnBhT0pwWEpHWkFtWGlrbWJNMWhnY1lrWXZDeEVFVi1pdUEwNFBsclVBZF84eFBJOFpMUi1qUnVlbE1KSk9zYXR0ZUh3VEY1UUtONDQxQzV6dFlheGtkRmVualk2eHRCWUtxeXBVbUhVbjYzTkIzc0t30gHiAUFVX3lxTE5MZVktbVFoUlY0dlBBVl90UWc2bm9xTTBERmkxc05yZHZFa2tjWkZCUklhR1ZfczR3em1IV1VKVlV4TjN5QlFLX0dXbnpaX2JUb1ZZaFJEY1NrOC1VakpjRW1TQlZORmF5bHBCWk1LUWlRbWtGb0ZTUEc2Uzk3al9xMV9vTlBxMkY4ZzlDQ1d0RzRDTUpSb0Y5TXpITGhYaVdiNmNYc2MyazVDQ3JSRklWeHg0eFAzYUNIbzd1RTdEX3JpRHpGb21YQ2RWdHZRZm5tMmtTTXYxRWdIQ29TN2E4TkE?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 07:08:21 GMT",
-      "description": "Justicia de EE. UU. ordena suspender los anuncios de Trump financiados con dinero de los contribuyentes DW.com",
+      "title": "Socio de testaferro de Maduro bajo custodia en EEUU, dice fiscal general",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQk5VQ3U5Nlp6WC1nYkdPV0ZMelJsdHQxY01OaEg0dFQ3bE9FaXRtY28zYlBwc2k1RmI1V210bVFSWGd3cVJ6MGlhaHQtMHNGaW9KbmhtU2JEdXotVWp5Vk53ZDM1NkRUdDh3Ri1mQjRMMkNZYTZMbkNhX0RlWlk1MVJHelV3MGowTUhGS1l0WngtS2lpOTBBNUpsaXJSRS1EUHYyQ2Eya9IBpwFBVV95cUxQbkZIaUlBd1gzX2hfLUhwRTNHeXFuUnZDcWlwYmo1M2N0bV9HckF2SGFiOTNjYlF3QlRvR0ZGYTVUZFNsT0J0LXltV01JTkZrcDZrU2ZiNmFiV3A4THRXUlVaa3ZmeDBDeHYyTjcwX0RUVW9hZ1NMUjhIQkFfNzNwUkxTQy1SZDZyU0V0TXZUdGt2UElRVFpSTWdrRld4QjJjRUJDZm1nYw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 06:35:47 GMT",
+      "description": "Socio de testaferro de Maduro bajo custodia en EEUU, dice fiscal general DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -282,7 +309,7 @@
     {
       "title": "China sanciona a ministros de Belice y Paraguay por contacto con Taiwán",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMC1MSnJYRVo0MjhiYUxjNG1FR241ZzBUaFZjVk5ZdzFfTkpHZE93UGVrLTNjdTRpVDdOejY2WkZNejFQalJXSkpQUmdUUVItZ0tFaEt0UTFhVzhQcFdBUWtEVjI0cHU4Z18wNldmWFlwSnFya1BES2I5amNnYy0wb0dqcUxKZWIxVFQ1eE1uNTVmWHlCbjJSN0pEblpjRmtwTEEtdjB3OFlELUdXUGfSAa4BQVVfeXFMTzFTY3ZFM3MzMzAwUFBzS2ExVkRUWWxvVEpSLWJkaDBwNkdWQXVkNlh0dE1yOVdSdWJ1Tl91OW5lZk9FdkpQbDRxRVU3VXlUYjNvdnVCcWdGUU1hdm9Lc2tyZkZweGRveFp2YnQyd25LUFBEYk9KWWdZTzJsbXJMaEhsS1haTlVlUDJQdU5tLVRzTWlnU015YWRlNjhETUEyQU1QeTdtalBvd3MtYmRn?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 04:16:04 GMT",
+      "pubDate": "Mon, 12 Oct 2026 05:28:11 GMT",
       "description": "China sanciona a ministros de Belice y Paraguay por contacto con Taiwán DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -298,15 +325,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Socio de testaferro de Maduro bajo custodia en EEUU, dice fiscal general",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQk5VQ3U5Nlp6WC1nYkdPV0ZMelJsdHQxY01OaEg0dFQ3bE9FaXRtY28zYlBwc2k1RmI1V210bVFSWGd3cVJ6MGlhaHQtMHNGaW9KbmhtU2JEdXotVWp5Vk53ZDM1NkRUdDh3Ri1mQjRMMkNZYTZMbkNhX0RlWlk1MVJHelV3MGowTUhGS1l0WngtS2lpOTBBNUpsaXJSRS1EUHYyQ2Eya9IBpwFBVV95cUxQbkZIaUlBd1gzX2hfLUhwRTNHeXFuUnZDcWlwYmo1M2N0bV9HckF2SGFiOTNjYlF3QlRvR0ZGYTVUZFNsT0J0LXltV01JTkZrcDZrU2ZiNmFiV3A4THRXUlVaa3ZmeDBDeHYyTjcwX0RUVW9hZ1NMUjhIQkFfNzNwUkxTQy1SZDZyU0V0TXZUdGt2UElRVFpSTWdrRld4QjJjRUJDZm1nYw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 03:04:53 GMT",
-      "description": "Socio de testaferro de Maduro bajo custodia en EEUU, dice fiscal general DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "¿Por qué Trump quiere reemplazar “inteligencia artificial” por “superinteligencia”?",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXhWTVh4cGU5bnJpUjViTG0wM2kzQW9KQzBrbG5rWTNaXzY5Ym4xcG10Q3E4NXpaTXh2Mk9UZEtTMF9iQnp3eEFKbXEyeUFGbzIxV1Z1bWl1WUpiNUtXVDl6bWphQkdrX1ZCdTRYc0hfYVhtRVVtc01FcnhpZFNuZVVxXzVYaWRubEN2ZUdsYkcxbDNoVnV2Sw?oc=5",
       "pubDate": "Mon, 12 Oct 2026 02:08:00 GMT",
@@ -314,15 +332,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Francia pide a la Autoridad Palestina que rectifique decisión de aplazar las elecciones",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVl6eGJPdXRXVFV2SEx5Ui12M2Y4OUZ6SGYyV21pZFJodlR2U0JSZG1ZUG93YkI5SUJ6Y3l4V19md284QUh0Vld4QS1OZmVoOEh0dVFEVUExZEVsY0ttZlpKbnBLRUNjZU9fa0pMbERQZUtqLVVhdlRvSkhHSDl2eDFCeURVQlcyU3dEYTVIbmg1a0psaV9LVWdMMUllejhZVFotZUdvT0dPMUVSWjYxUHVEOVU3QWQ5akRjWGltS3I1eDTSAcMBQVVfeXFMTTN4aldySkEtN1A1WUJMYm9GZGh2OWpjWWVwaWhKS2ItSGNMLXdPdW9kbUhQN1BKZy1nYUl1QzhLcVNkUXI4UHZUQzBLN1VjUEFueERZVjJLNktUMmJ6ZVhSREh1ZHlyLVlEQ2FCQU5DcERKeWlwdE04MXNjTU1pTkFIbmtCcEtfdThRMHhPWE5KUTF4U0c4WFlRQnpWMmFvM3ZObkNpcmI2bUt1cUhXcHpVeDdEQkxzUHRKR1JobkRjMUN3?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 01:35:17 GMT",
-      "description": "Francia pide a la Autoridad Palestina que rectifique decisión de aplazar las elecciones DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Arrecia el asedio de Netanyahu contra ‘Naza’: fuentes del documental serán investigadas y procesadas",
@@ -334,37 +343,19 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Inundación en Nepal arrastra casas y deja 5 desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0FQZGlOUTRiSEhIc214X1RER1pHM25pWXotNmh0anhUam9XMU9BcFdYV2k3bDduNnJNLVFtR2pjNW9OVGtIQ25KcEk2YXdQdlN1dWhfSExzX0FrYzd4ZWpGOXNZM003MEN2UVV3UThvcDFCWmRhd0tpRkZEMWpnN3hZcUhHYjZUR3BLY01RLWtlc25rcTl1cGk4SdIBmwFBVV95cUxPRGpJYm9wcWdzZTNMaWdUY1ptVTVBWEs2VE9NaGNSREdyR0ZpTDVwY2U0T0YzRzcxSFFjSTlnNUhBaUpUVTQ0Vkp3X3ExQ1k1cEZXV1ZQX21uUDhucEVsa0ZGUlhmeXZBZUFYOVhkWnl2Vmk3WEFtdklzeHQwZzJ3YkV0RFlPNUpoLWZnUUF5X05EcXI1YkFPWjBuVQ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 22:56:48 GMT",
-      "description": "Inundación en Nepal arrastra casas y deja 5 desaparecidos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "\"No, Marine Le Pen no llegará al Elíseo\", Raphaël Glucksmann ganador de las primarias socialdemócratas en Francia",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjZ4UkR5eVlucS1GSFlhVC1kYlVJVW5TVEhPbHY4MWcwUXY4T0hVMzJ4Qy1HekZJY2VMVjVZRVV4R0NUOEphTmptd1BEd0gzX1BWZ0haRm5VaEpITVVVaVBYdzFraVZqZjlyS1B5bEE0NklBc0ZaQUhCSnA0TWNaRjRUVXkxUzZ5azJTSlRIak5nZlNINGZUMWE2TkVBeDNvU2FXX1dINlhuaDlmZkZzNDJpU29UMWhrZXBDN2lqOURDUVA2TWJjeXUybV9CSXRIaEFZaGVkMXIwNnRHMHlkZXgyMW5HaHpKeHZzSFhrWFNDSHFkMlo2aGZEQWtKTjljaXFuag?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 18:08:31 GMT",
-      "description": "\"No, Marine Le Pen no llegará al Elíseo\", Raphaël Glucksmann ganador de las primarias socialdemócratas en Francia France 24",
+      "title": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\"",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjJnR3ZwOUJFX29obmFDZmdwcWlRY2RqSE43YkZuYUszNUtCZFBQVU5HRl9LdlV5ZXprakl0ZUI0cUNMcHBHYlZncVVqMWlDRFdDLXNkc3FDRk16bjVnczdzX3MyU01kVERqcHdpQ1ZxZ0lwSzBXQngtV2FENjJXLWtsejlfNFIySUVtU0xWTlh1RjMwVXpWck9jOVFXQXIwTjBmeGZQRkdIUS1LZTMzYVYwX3dfRk1mRzd2MG5EZi0xYmVNWmpDQTJZZlZDRHQtNFk0N2xDMm8?oc=5",
+      "pubDate": "Sun, 11 Oct 2026 11:39:28 GMT",
+      "description": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\" France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
     {
-      "title": "Zelenski a Trump: “Corresponde a nuestro pueblo elegir” presidente",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmJ3dF8yYXprTXM5LTNVc2hUWF9wRkV0emRQZlBlVmZ2RW9fbHlKOTVibXF0RjNlM1hlNWhETlo1dmM1RUhQa1N2X1prb0x2UjE2TWxoc3NXc2pHejZWdnQ5ZTNpOGNKNTVzN21TeWVKa2dEUllkZGZqVE9QbTlhVnF1aDZmQ2ZadjZ1czR3dmZEMm9kM3dpNzN6alfSAZwBQVVfeXFMTW5KVVlmQXBUTEFnVEk1R1JZdGt0eHZXUS1ZaHlGX19raXBETVkzSHlwSFlDRVNWZm8tTUlvc3JWQ1gtM2t2TzBMSWhVNWt2ektPcjFxQWNOMWNYZjYwQWxVYlQ5M2V2VHhUTVMybHdyVmFFdWVDakN2UWNSZ0Fid19lZVpPWWRaeVJBWTlUQzRhdlJRbXUxVFhBZEIx?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 16:00:32 GMT",
-      "description": "Zelenski a Trump: “Corresponde a nuestro pueblo elegir” presidente DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\"",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjJnR3ZwOUJFX29obmFDZmdwcWlRY2RqSE43YkZuYUszNUtCZFBQVU5HRl9LdlV5ZXprakl0ZUI0cUNMcHBHYlZncVVqMWlDRFdDLXNkc3FDRk16bjVnczdzX3MyU01kVERqcHdpQ1ZxZ0lwSzBXQngtV2FENjJXLWtsejlfNFIySUVtU0xWTlh1RjMwVXpWck9jOVFXQXIwTjBmeGZQRkdIUS1LZTMzYVYwX3dfRk1mRzd2MG5EZi0xYmVNWmpDQTJZZlZDRHQtNFk0N2xDMm8?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 11:39:28 GMT",
-      "description": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\" France 24",
+      "title": "¿Qué se sabe del tiroteo que dejó nueve muertos en una misma familia de Erie, Pensilvania?",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWVpaa1d4ZHoxTElGdEsxaGRRWFZZdTlqbHdSWDNxUVhOZzctSkNZZnc3S3dsZXpjLXFtcFdHc3JiU2JJckM2bFd4NWhPbDVXN25HQnQtOXk4LVl2QkNVZlc4N0xKbUYwN1FnaVk3Q3pMd3h0dUxCZ0R2OWFSY1NONE9qanpySGpGVWFtQnBvZTRucmJzTml5Yjd1ZVh4bzhlV0xEZHdUc0Nxc0lGcW1Dalc2b2Q5THNneEFpbE8xbE1LeUNVdFEyX1RjYThnbmZ2UUg4aGhmRF80eDRYNjgtR3ZPTlVMUkdGOVE?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 23:58:00 GMT",
+      "description": "¿Qué se sabe del tiroteo que dejó nueve muertos en una misma familia de Erie, Pensilvania? France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -386,6 +377,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Trump pushes Mexico for more cross-nation tie-ups between energy companies, FT reports",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ3FaaF9LRXZRSk5zZWY4WmYwd3hWbmQxSEUtc0JVdXhxNllkNkIwSnNFZ2U2MGozd1RJTUlQa1laUjU2Q0RsRk1LU2otV2dpSjF1dDZzam9QQ2ZWRWprVFQ3djgtdXJzQ1I0T182eHJHTUowYS13T19rQ0Y4UUh6QTlLUHlVbURZS2c0WmFEbWpZaVB5SUNTUVlUQ3pNRnJGOUl1MUtxb0FlOWN2NGxoWi1vY1BpTGxKV21lZWNDWWZFc28?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 17:47:43 GMT",
+      "description": "Trump pushes Mexico for more cross-nation tie-ups between energy companies, FT reports Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA",
@@ -451,6 +451,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "Me diagnosticaron fibromas. ¿Ahora qué sigue?",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ObWtRR1dtS2xCQ1NTYjVMQ21TdGxSUlV4TmllRzI4NzlQYjBLaEd5QUpSUFB5Rk03bDMxU2pBX19SVEJuaGZHRHhxVTdDd01CZFZYdjlkaVk0VEN0WkNEVkZwYXhRQWkySnQxX0tmNEJJY2hKbUl6ZDdBdw?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 09:03:54 GMT",
+      "description": "Me diagnosticaron fibromas. ¿Ahora qué sigue? The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Interferencia de fan le niega a Volpe el jonrón del empate de Yankees ante Rays en serie divisional",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclVMX2w5QjdZbjdaUXd4UnFBVU5GQk9VZmc5cUJJaFVRRzl0bllPVW5nczlsOFJrT25UNW9zYUlOclRaYmVNSy1MZ2lUaHY3LXlyMUVYbjA5LXhDdHV6SFR5MzRjYkhUNG80MVRMRDdndmFRQVpxQnVMdHhpd1E1Z2dKdkMtVDlWZ0VqaktHNWFnY0hHeGJqQmltUQ?oc=5",
       "pubDate": "Thu, 08 Oct 2026 06:34:00 GMT",
@@ -467,15 +476,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "EE. UU. envía drones de ataque a Sudamérica para combatir a las bandas del narcotráfico",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFDZ3lDR0NWMkEwa29sbW0yZTZ0akxGRVlmS0ktOXdoQ2FiX0RpZUZkalFJSXRacUtCaHJJeDNSU1dVTUdfcWxvSDRmVVVyVDVldjUwZkxrekNiS182b0RFbER0TjlCUjlrR0VkOUpkWUlNNExvNFg1VFVreVpQNnZFLWE1YVRjdy03dGVmbEV6RUQ5R1lRMWg3LTRNcFAyWUlVNkNMT0tiZVZa?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 09:10:07 GMT",
-      "description": "EE. UU. envía drones de ataque a Sudamérica para combatir a las bandas del narcotráfico The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "Baker Hughes signs agreements to expand Venezuela gas infrastructure",
