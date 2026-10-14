@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T14:06:57.460Z",
+  "updatedAt": "2026-10-14T19:00:07.487Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,10 +64,37 @@
   ],
   "items": [
     {
-      "title": "France 24 - Noticias y actualidad internacional en vivo",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aWUVWQTV5LXdHUFdVOVFxRS1zYlM1UHhDR2kwdVotN3hEU2ZsUEcwekRVT3V3VzM0R0JlTTF5VThRUQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 13:40:23 GMT",
-      "description": "France 24 - Noticias y actualidad internacional en vivo France 24",
+      "title": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcnpleHpUNjgwRmoyOUtOZ3d2c2lfZVRFUjgtVXp4X210bEFZdENZajRuTDBEYjRqcFFmMjJ4bmxzTVppajN2N1ZjcjNwcElVRVpETWlLNktSRnJP0gFiQVVfeXFMTnIwdzhEZXhmSXFsQXR2QzdydmxCUXlGbWRIV0ZaaDBaS05KRHBHaEJ0a2NBQWVvWHRvRVhpMV9lYWItQlZveFpoN0JoVG1rMjh1MHAwWUhlejg1aDJXRGVOV2c?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:22:48 GMT",
+      "description": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "En directo: Colombia vive una jornada de movilización social y protestas contra el Gobierno",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkF6QzZpUVBXVFN1RThaOXRBUVBOSnhZWFVSdlBremdSREhPNXQ4d1Y1MFQ1SlhLaTQ5dkM5VW5MNjF3ZG1VbzFldmhIVjkzNlVYZTFWUVA1Rjk0TVFVWlJqX2RxZkZnYWItMW1wdVk3U1BzenJLb0dRaXhoaXNKS29ndnU2dWR5Zmp2RHNBV3gzbE1hektBN1JjUm9oYUwySmkyLXk5RVdTbDl5V2JPY0xlWWo0RVIxa0dzcjRQNjVzUUcwNDVFcnhqbzN1QTNnNzBoUzVoRWwwLTk2aHQtRHRISFYtY1U?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:15:18 GMT",
+      "description": "En directo: Colombia vive una jornada de movilización social y protestas contra el Gobierno France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Trump anuncia exploración \"masiva\" de petróleo, gas y minerales en Groenlandia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWdjOVZpVFF0ZWQwUUI3VXd6SVJydDNQWDZzY0ZoWEZQVmxPalloR1dpLUpqbXRiNkNXeWRNSXZ3Zk1XX1hWbElJZFI5dTl3clh0N3Jfc1hlczd3cWI3VTB0R3pZYzZ0QjZzdHUxX2VDUTlIRUkzcC12VVJvV3dLRllNc1VpUDRObzdDMi1GM29RVEVGYmxNckV6SUdCbURad1Y3b1JWclZFcXBtdUk5V2hDU3lTajkzenfSAboBQVVfeXFMT0xMMlRPdklvOXZOelM5UFR5QjVVYUlMWW0xdTZDX1EzbUJNUkR4enBrSnE0MWJDeFJ1WC1sSF9ndE50OTZhbXRyaVBYcHRucEM4ZXREei1SQ1NoY20wSzV6SnNCY1JSZy1LczlQTEpZMGZIVGZ6X3lHNXA0U2dZZ3JTVTAzM2RzTkJFTmFpaXIyTjRvaGFhRW96a0ZYUVBHWHhnX2EyYUJLOGVSbUk2LVNZNUhLUTZzNzVR?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 13:44:29 GMT",
+      "description": "Trump anuncia exploración \"masiva\" de petróleo, gas y minerales en Groenlandia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "En directo: Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0llNjZfbTJkX1RwbjZmdzdqTEZJNVpEOUZWVkRzQW90NDA1NmtQYm0xRENZdXY2MHFhd2JabUJhdDJQdW5LaWZTNHhmdGNLelRGZ01QdDJobERzZTlBZE15N2JPUXNDSk5LYzN5RU1GVzFYS09LYlN3bnM2bDY0ejZDSTVycXFobXpnanJDM0xGNHRlczB2TThxTGhvRVNGaFB5R0d4UnA0TVJFUFFMaFlsMkhRMEk3LVRXaVdOVzE1MDZnLW5VS013?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 11:59:33 GMT",
+      "description": "En directo: Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -82,15 +109,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "La presidenta de México en redes sociales niega usar drogas",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3NWcGFJNTJCaE4wZkdrMzlrVy01WDdwS0ZmVm95VlVuUkxfSTMzQW0xVkM3U0kwVDJNMTJyUXAwMTBPa1FwMk92NlNEall3QmxaT1VPaENqX2R1WFdsWGdRYlVmbjYxOUVNa0hoTDAyczdkd000Vm05eFc5VEZ2YUpvcTRxQVRqY1Zqb0dnaFppRW5PYmRMYURobXl6d9IBngFBVV95cUxNbXlBWE9kX3VqWlVZY0JVWVFvejBYY1RqVjc3b2FrbktGLXpTclVxcnB1bVVUUm5mM0sySFlXalF5TEtieFhBQ0VZVVFDYmhXQ3FPWEVfRnozMnVQQnRTUHRMX1RTZWYyRDEzR29JSC12bDFvb3p3ektCN0doRHhsY0dUTUxhNFlUQ3BzY3B0UGJ4WlktX0hEeXRxV3NPdw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 11:02:04 GMT",
-      "description": "La presidenta de México en redes sociales niega usar drogas DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "El papa León XIV es operado con éxito del pulmón en Roma",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmdOY2VqUGdSOWhkZDg1bmJoZlR0bXlqX3ZsdTd3MWJkclEzZHpQOVg2V2NYX18yRFllNTZ1amJpVE52d2tPS2RlbnpqN25NUTlkNFhyRGZqbVExSEI0RXYzaGFHQ3BzNERPZXRBZERfVnVNLXNrYlYxRUp1RmF2Y2hrVnV6U09XYV8wcHhuVXBHbmNxdk1RVzczYWhLejZnUjd6b3hIc9IBpwFBVV95cUxNdEotXzhsLS00QUN0bi03akdqN3FXUm41WTJWOFUtWjNXV3RxVUVLUnl4VkVzS256dzVnX0FUYkpKTEZ1b1hwSW5GM3Z5X25rTnNGQnBTc1VTTTQ0SDVVWVoxY2hyS29OWUN6ZV9WdGNhVmtBUThLeW9qT1FiT2Y1MnpZY1ozLVNyNDYzZFFMYWdMUnVpd3I1cmlzS2dYNnBQTUtjYVpCNA?oc=5",
       "pubDate": "Wed, 14 Oct 2026 10:39:57 GMT",
@@ -98,6 +116,24 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "Millones de personas inician seis meses de racionamiento de agua en Guadalajara",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk5fUXZSb2hMS0VidnJWXzBOTWZVWS1ob3IxY2lKSEpCRlFwZXlSQkpmN2FoOW83bDl3bFYzYkszZm40aHUtejF6enlzZGQwVUE2bmVPaEtCSHcyVHE0SmxrZmFnbWdfTnNGbmlzUnA4QVloNmVDQnl5bXQ1c29SVWdlVVpjLWh4U1VPUEVQZEFha2h4V3liZ0NtbUJKVzg1cmFxX2l6NEU5VmhkenktMVdzQzFsZzVFMzZ6R9IB0AFBVV95cUxQQmJFSXZueGlIclhma3BUWGxyUm56RzMwMzZsenJ6QkJuSkN0UmNEandiWnJpUDN6bFk2cXdOMldvT00weVdwVkxnaUtkWXlFT295d3hYcmVxOXVwQ3RnM2p2VU9ycC1kMmdmYVJwd1ctb0c3aXBtekRnVDZPaHNDSHBBYjVvZ2xFVWt3bU5nRzJWQ2tLRm45WnJSUWc1WXhWbElXd1M1YXc2RnMyWno1eUN1WlcyOGVldVF0MkhJT0dLNUxnVUVpeHBZMmp5Tllz?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 09:30:00 GMT",
+      "description": "Millones de personas inician seis meses de racionamiento de agua en Guadalajara EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "‘La caída de El Mayo’, la serie documental que sigue las pistas tras la ruina del fantasma más buscado de México",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0VIMzFHcUhocVBqME9PSUNfYldRLXpTbXpBNmxMcUJEYzRfcGZJd0RuZUdEQ3l4cmlRRHRxcmNwWmVBY1dWcVRyaGdGSGliOExMRllaN19DTWFYNGNOWTRQQ09GelYyQ0kxVmtaclNRTnlFRWl5MFZKMWxHWXRzSmZNWE1TckpnNzNmcDh1U1lZY1VIdkRfOG1zMmp2NUI0QjU1ajNtUEFyZDZqNm8xX1NjbkNtbEV6WDZRWjhWVzB5UThxSkFnOTRKR3Jsd0VtLTRnNVpyaTZybU9NdGdBR3RRbzFMQdIB-gFBVV95cUxNWHFlVV9JM1p2VHpmdElVT3VEMUJMNHNCVlBBYWQybUc5U3BaeUZBcnp1ZkJZeFlPRkJ1MXl6YXRrU21OY1NmaTIzZk44VUt4RjVYd2dhOFhvNzVwVlpheDVxV20wc2R5SXFlTlJOOXl0NXBiXzgwSWdZNC1FZGxVQ05MX0laRG9xWTVJbWxtZi0xM2F1TUI5M1k3XzBzbXd3aFlFeG5sT0VmckxzYlBiS0pNMkYxX2l2dzNTUFQtNVVMV1dNc1BDN0d5enRvQ0s2Zk85YnpvYXJGaEpHUkNjVGFWQjZOUy16UDZFY2ZFNmRCSmJZLU5zNFNn?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 09:30:00 GMT",
+      "description": "‘La caída de El Mayo’, la serie documental que sigue las pistas tras la ruina del fantasma más buscado de México EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "De la Espriella firma decreto que regula la protesta social",
@@ -127,6 +163,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "La presidenta de México en redes sociales niega usar drogas",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3NWcGFJNTJCaE4wZkdrMzlrVy01WDdwS0ZmVm95VlVuUkxfSTMzQW0xVkM3U0kwVDJNMTJyUXAwMTBPa1FwMk92NlNEall3QmxaT1VPaENqX2R1WFdsWGdRYlVmbjYxOUVNa0hoTDAyczdkd000Vm05eFc5VEZ2YUpvcTRxQVRqY1Zqb0dnaFppRW5PYmRMYURobXl6d9IBngFBVV95cUxNbXlBWE9kX3VqWlVZY0JVWVFvejBYY1RqVjc3b2FrbktGLXpTclVxcnB1bVVUUm5mM0sySFlXalF5TEtieFhBQ0VZVVFDYmhXQ3FPWEVfRnozMnVQQnRTUHRMX1RTZWYyRDEzR29JSC12bDFvb3p3ektCN0doRHhsY0dUTUxhNFlUQ3BzY3B0UGJ4WlktX0hEeXRxV3NPdw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 05:52:49 GMT",
+      "description": "La presidenta de México en redes sociales niega usar drogas DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41dXBFcXY0MmZyM2t0SnlxdDZSa05CaWJHSDZHdDY5NDdvNDhVdUl0eEFqOUFONHhTYWJ2d1hPX1V4d3lHUjZBR0thUnZBRXR4cHNqRGlGdmV5RWhJ0gFiQVVfeXFMTWxXeU5CcVBXLUxwbV85UDRUanRSQWRPdFRvbV8yZk9aQWgwRG1mbTg2M0VvZS0wQlZTM2FNLUNqb2N4RnBoLWNmVmhIYlVmRm5GYVMzU1hSdHBEdFJtN0VIMWc?oc=5",
       "pubDate": "Wed, 14 Oct 2026 02:36:11 GMT",
@@ -136,10 +181,28 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "¿Qué sabemos sobre el diagnóstico de cáncer de pulmón del papa León XIV?",
+      "title": "Bukele propone liberar condicionalmente a cerca del 50% de los presos acusados de colaborar con pandillas en El Salvador",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWURHN0o1d2oxSlVTcW9CNEtVOThnaGdWeDd4alNKLTR1RzZJNUVYMEE0YUVadmhqSmM5Mnc4d0RmeDgtb0trQTRmQjVETVdNMWR2bTdLT3ljVHZWdUZSUGJacHpBRkVSMFdKaHVxMi1GcE5rQWw5Vld4cUxsZUY5OUQ4YWd1elQ1VV9lenhfYTNoalZPWkxEeTRyTmQyMjBKd1NnWkVHeVVLMUlvd3NDNQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 01:50:00 GMT",
+      "description": "Bukele propone liberar condicionalmente a cerca del 50% de los presos acusados de colaborar con pandillas en El Salvador CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "En imágenes: la impresionante crecida en las cataratas del Iguazú",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzhiaGRoT1lHQ0J4UmxyM2JTWC1IdGQ1WFQxNUZ2WTNDNFpFNVhrOEp0WXIxS1ZWbGVWRFZKaWNDN2UxOTMyUjZCczhoMTRORkFhSTN2bjdKYzdkNkVqOWNOWWdSU2l0M0NLSXB4aDludTMxbzlwUldxY0pYbGxpUU1kbkNWVFdaUEJqcGV6WEVHZnJZT1VyUm9TWllTSkJLd00tLWtMUHJ1WkZjOTY0emhuM0d6Q3VIcTc2ZFF1NEpsdTRxOVpFTUNBOA?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 01:08:00 GMT",
+      "description": "En imágenes: la impresionante crecida en las cataratas del Iguazú France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Al papa León XIV le diagnosticaron adenocarcinoma pulmonar. ¿Cuál es el pronóstico?",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzIzZzVybnowN2xSMk5tUUl2ZjVQdDdUampaRlRzOWIzbzljUDR0TzZ4RTVvbFU5OTdrbW94T3VCZ19iTUNicTU3dE5RcUhQUlkyMVJCMGFFWjE0cER5VEV6WWZUQWxBazJod3NTU0xoQ3R5UkdnUVRlNmZuekpOLXM3T1NlYkgtRGhvWFF0dDRFQQ?oc=5",
       "pubDate": "Wed, 14 Oct 2026 00:24:00 GMT",
-      "description": "¿Qué sabemos sobre el diagnóstico de cáncer de pulmón del papa León XIV? CNN en Español",
+      "description": "Al papa León XIV le diagnosticaron adenocarcinoma pulmonar. ¿Cuál es el pronóstico? CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -172,13 +235,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Masivas protestas estudiantiles en varias ciudades de Francia",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3RTczZDcXhIYUpORmFLSTdRZUFKTms3bFBmQUMwSDBfV2dCVHBUZXc1aGV1V1d4VzIzS0JwS1NVS2JOc3lCQWZMcWxoOHZZRkZGMnhyZ0IwOHdHZTRXYWo1Q0ZXaUNqcmFNMTlLRjNqU0F4Zmh4SWdDNlZ2dFR2WGV5ZU1RT09fTlF4TXVIenVnRU95aVFGZTRR0gGaAUFVX3lxTFB0SGlIX2dhLUVidXVxYjdnQ1dNR2hUNE8yZ0dfOUYxMmx4d3N2aEdTdnltWmRiVW5oUW1pa3JlNU1jbjlrQnVhTUp1TE4tU0k5ZXMwTDUtY1I3eDVUSTVaMGVBNVdFamtSdlFuNWVCeXNvVDNUeDVLMzh4VEUxb2JVYVFQNXVsQmU4bkRiZUpPYmY4YVoyTWhsS0E?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 22:55:02 GMT",
-      "description": "Masivas protestas estudiantiles en varias ciudades de Francia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "¿Qué es el adenocarcinoma de pulmón, el tipo de cáncer que se le detectó al papa León XIV?",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVlJUUJLbkxKQTNVNFVUMjI5dEp2SE5EeTZ1WkFXS2laTkxqUHlpbm9HZk95d3VCemhFRGZLSi15MUJmQVo3b2JfdTFCM3h1N3J6UUhqOW1UWDVBbmtnbzU0ZWRCeGlnbWR5QTZMQnoyUkV1UXNlR1o0SWhDV3NOMVlFMlJkWmFGbzZUUjFPZEprRTVJODdvOEZ4MmIzYk1vM0lwY21VR3UtMlVMY3AxQ293QVFvYXppX2N6QjdJM3A4WVVKVmFHc01zYmtlSFdOdkdmSzBpS2k4RWVJYjhfWEJ3UFJnT3ZmT1FiNw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 23:17:00 GMT",
+      "description": "¿Qué es el adenocarcinoma de pulmón, el tipo de cáncer que se le detectó al papa León XIV? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV",
@@ -190,24 +253,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Los trabajadores del IMSS toman las calles contra salarios empobrecidos y desabastecimiento en los hospitales",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRlMzeXFQYktlRlR3RDM2dWFBRnp6VXliRUhoOGRoUlAtRm5UU0dRbk1GYkhQTTdfaFpCblgwRlhGUUYycmlzZDhoV3NpZzRWUW5Fczhfb3Ezb08ySkFMRlh6c09SWFVzdUdDQkpncmVJb1VSWTZ4RF9kR1YtX19uZGJ5dHdlWnRGRmdpeE5KT0x1TTk5eUNzVXctcVh5M0lUZzRGcU1mQ2YwWDZtUUNwdnpwbkVvZ2F3ZmlYVzhGSmNZbW1JcWstaU15S3p5UEpMY29qbmxaU0otZDFVTXBzeWQtZWlJbWZSQjFOaHUxeUFyZ9IBhgJBVV95cUxNdUFIUV9SQWc0LXdVd3hKcVR3VVFtM0g2RkFhazgzODVobDJ5a01YdXJjN0R0ZXE0cG5rTThIOXJxMDB2OG9WLVl3YVc5WUE1V3lZMWpwblhWcUI1cW9uNGxia2cwOGNiWHdNWkx3Q0F0UlJ5bE5IZ0g3Y25MaW5rYjlmZmhuRDJtOURkcDFaemFRV05jRFBWTGJqZU9DWFZPbjlPcndSbkVvZDB2Vi1aUXZqLVBLVEhzMThiR3NFMjU0dHdEcjJUZ3REdnh4ZHZ4aHU0V3N4bjhzQ3l1YVk5YlRfMkZyalNUNzNfRmJFS1pyTWN0TUR4R1BsVkE4c3VPcE02M3JB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 21:18:43 GMT",
-      "description": "Los trabajadores del IMSS toman las calles contra salarios empobrecidos y desabastecimiento en los hospitales EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Diagnostican cáncer de pulmón al papa León XIV y le extirpan parte del pulmón derecho, según el Vaticano",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkVtOVNtb1BSbWdyMU1OUXFteDBxS0t1TFgzREFvWG0wNlowZnhrY2g1UENLY3F5LTVTWjd0WkVWRU1teG9BejE3bjRQT1NTUklydlJvRHN1cVRRR1UzR054LVFzTnVwLV9oUmN2UDVnc0hfUW9Yb0UxMGJmREI4Rl9DcjV4WjRxTEV0Mg?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 21:15:00 GMT",
-      "description": "Diagnostican cáncer de pulmón al papa León XIV y le extirpan parte del pulmón derecho, según el Vaticano CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Shakira cierra su residencia en Madrid con un show de drones",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2c1b3BQdnA5VWpsQWhxQ0lhZlQ5WEtxVG1pMHIycHRoMHNBU1llMk9kTG9femVNZmJpZHprT1dsMlJCa1FNZldWQWRIbmhRV0t4YTE1VURsaUNzOVE1cVZhSW1hVE14clhQZHJKdFJaZFRxQW9jMUltQUE4V2FFdl9yMHg2NHp5Qi03SF81ZzRGb3N3VjNGN29PRUlzd2Nla1NlaENUNA?oc=5",
       "pubDate": "Tue, 13 Oct 2026 20:01:19 GMT",
@@ -217,22 +262,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Condenan a 40 años de prisión a Duane Davis, el líder pandillero que orquestó el asesinato del rapero Tupac Shakur hace 30 años",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wX1o5Z0NmQlE4TUdOYmwxcEdQSGFqQjI5OGc1Z2E4S2p4TFhncE84WWtnVTBxMVIzSVVHNUpTLWdjaXNJZ2ZIcjl4b2xxQU1FcVFQUUhWX3lrWDdv0gFiQVVfeXFMT1J5V1h2djFwX1lrLVRRbmxVaFRrY1FvRmlWWmtHczhod21WMlFnNGFvcnNITnF0RHpaVTFvSE02WEE4UkVUdDRtajZIZUwtQUltSkRTc09rZnZDQWRsRC1zZ3c?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 19:51:16 GMT",
-      "description": "Condenan a 40 años de prisión a Duane Davis, el líder pandillero que orquestó el asesinato del rapero Tupac Shakur hace 30 años BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Así será la cirugía del papa León XIV: el Dr. Huerta explica a CNN cómo se hace, sus riesgos y cuándo podría viajar",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanVZV296eS1sSTlLMnpvejQzR1VwRUVfdWZlZ1c2VFZHNF81SXV6ckZhZGRnR3I3Mmxhcm9KcVktSk1CeThyeWY2NHNQOW9SS3RKakZ2bEU5c0xvdklndE1XeG9UcjI2VHZGc3hQanVYV21kUEE2T0ZhMlZCZGtiRnFJcVRfYldHNUlyRUNYczA1SmxJWGozSGFSS1BfczA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:15:26 GMT",
-      "description": "Así será la cirugía del papa León XIV: el Dr. Huerta explica a CNN cómo se hace, sus riesgos y cuándo podría viajar CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Masivas protestas estudiantiles en varias ciudades de Francia",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd3RTczZDcXhIYUpORmFLSTdRZUFKTms3bFBmQUMwSDBfV2dCVHBUZXc1aGV1V1d4VzIzS0JwS1NVS2JOc3lCQWZMcWxoOHZZRkZGMnhyZ0IwOHdHZTRXYWo1Q0ZXaUNqcmFNMTlLRjNqU0F4Zmh4SWdDNlZ2dFR2WGV5ZU1RT09fTlF4TXVIenVnRU95aVFGZTRR0gGaAUFVX3lxTFB0SGlIX2dhLUVidXVxYjdnQ1dNR2hUNE8yZ0dfOUYxMmx4d3N2aEdTdnltWmRiVW5oUW1pa3JlNU1jbjlrQnVhTUp1TE4tU0k5ZXMwTDUtY1I3eDVUSTVaMGVBNVdFamtSdlFuNWVCeXNvVDNUeDVLMzh4VEUxb2JVYVFQNXVsQmU4bkRiZUpPYmY4YVoyTWhsS0E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 17:19:59 GMT",
+      "description": "Masivas protestas estudiantiles en varias ciudades de Francia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "La presión inmobiliaria se cobra una nueva víctima: la librería Pérgamo, una de las más antiguas de Madrid",
@@ -253,19 +289,19 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 13:54:43 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "La recuperación del papa León XIV transcurre \"según lo previsto\" tras la cirugía para extirparle un tumor del pulmón",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSkVtOVNtb1BSbWdyMU1OUXFteDBxS0t1TFgzREFvWG0wNlowZnhrY2g1UENLY3F5LTVTWjd0WkVWRU1teG9BejE3bjRQT1NTUklydlJvRHN1cVRRR1UzR054LVFzTnVwLV9oUmN2UDVnc0hfUW9Yb0UxMGJmREI4Rl9DcjV4WjRxTEV0Mg?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:53:12 GMT",
+      "description": "La recuperación del papa León XIV transcurre \"según lo previsto\" tras la cirugía para extirparle un tumor del pulmón CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Tras el desencanto de los empresarios latinos de Texas con Trump",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTk3d1BqR1kta2h5QVhsMUtlV1ZLZ05PWnoxbXprZmFOWTBmSDJMaWdUOHFZWkltMHJwQ0NOS3RjeVRaeDFyY0J2SjRVUXZWbGxxR0JuaHpGdEpwOGFXX1phNWxDRUs3TE1XaXAtR2thcksxQjVuWTVWSUZEOS1EaDJ6cUpsNnhWU0N0M3dIWnpobE1DV0lsQUkxVHN6em5Sc0N5MNIBuAFBVV95cUxPYThPYzVQSGI1T0tzQnZFLWlDNklhcmVJWTZveE1hcGd6QnhWZTRYbVlraFpDN0lqQmZCZnVCQmk3aFpKR3JDVFBPSmtBWUxrUDBjY1hfYlNGVC1CU3MwUmszVTRER2ZCVGJiMmdtbk9pdVZ6bUs5RV8zYUdwZ1dVM05yYjVESnpsRDNJWnNDdDZZOUt1RUtTUTNWWjNCdXpGNU96Q0p1eGt4MUtqRjlkU24yZTRUcC0x?oc=5",
+      "title": "Los videos que muestran los últimos minutos de los siete campesinos desaparecidos de Guerrero",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWltMDI1TUlzV1c2MVprX1I0Y2JxTFlBdVVGV3dMWW83WmpOMm80WFR4SWJqeVZMM2ltZnhWd3BaeWRCTUpLUG9rU21kSGVsX0s3NjBTWl9pMThMQXVrQnRtVkVrQkpPbWFZaVhUbGZIa2RJbGp6V2pCRktYS3YzN3RtVUY5QmRzR0JIMnpock5xT3FUd3Z2Wm9yVWRrZTRDS25PUVM1OTZwNlQzbkdCQXFB0gHGAUFVX3lxTE82NlFjWVpDb244NV9IV0w5WGlORzF4czFETWVaZk11dGdtb0FzczZsVUx0SEs1aHBNN2dxc2swbVhQeldLZUd3T3Rtc0RCMWF4U2pJTFhxYjdudmNGOXk2eU9MM2l0N3VxaFVhQ3FBR3pQdHpRZU5vd295MVk0Nzllck1CcTRTTVphd3VCamJrNnY5Vk81aktKWTR0U1pzaVNlTElRdkZocE14VE1qV3RPR0Vua2NaaDRiNlpWTjhETE5DdlJiZw?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:30:00 GMT",
-      "description": "Tras el desencanto de los empresarios latinos de Texas con Trump EL PAÍS",
+      "description": "Los videos que muestran los últimos minutos de los siete campesinos desaparecidos de Guerrero EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -278,15 +314,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Por qué Arabia Saudita no puede derrotar a los hutíes",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTldvLVhtUnJGU1JuTnNuM3lTVU5vYXRxcFNESFAybmI1TE9HRDNieUY4a2JmY3g4YVI0bG56cDVydGtXUlBxWjl5T3JwTGtDN085c3J4ZHFVM1R1b2syTGp3RUtocnRkUU5NYmlzdHRwazZSazZNVDd4dGdaU1dfaDRpVEpid0ZRYlBDdHB6RWozR0hKMnllVGZmQlR0NkduQ3hPZDd2UG1ZV29rdWV0Wk5n?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 05:44:14 GMT",
-      "description": "Por qué Arabia Saudita no puede derrotar a los hutíes DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Britney Spears estrena canción inédita que compuso junto a Justin Timberlake",
@@ -334,40 +361,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Mientras Trump duda, ¿hay vías legales para evitar el primer fusilamiento público en EE. UU. en 90 años?",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdTRSMlNSRG43aXlsSzdfbV9VSHdwci1ueENMODEzMjluWk16elJPYzdJOE9oZWtWNGVQWXV1aFlCYkJ0Z09OQlZqeDMwRnhaY2EzMTBVVFh6cUJtekVQLTh1NFhzSXh3X19TQkpOTEM1ekNpX0ZzbkwxanhXRVB3ZmpCcUw0LW00QmZ4dTVkdk5PempTbGZQMzFqZmk1ZkVZNTloTms0enBKTGkzMkw0eWxMOVBGRDdqRnBicmZiQ0ZwbDFMSEZLZWtyZ08wMUU4bmVsNmRaZ0lKVG81WC1yVHlxLVdvS05jaDV0d21IVFh1ZDhHb1JUWXdKTE1FcTRK?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 18:38:30 GMT",
-      "description": "Mientras Trump duda, ¿hay vías legales para evitar el primer fusilamiento público en EE. UU. en 90 años? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "La menopausia no es una cuesta suave, es un “precipicio”: las consecuencias de la última regla son mucho peores de lo que se sabía",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdlpERHh6NXVEd3NvT1I2YnFqTzFpRXQwaE5kWGV1b2lyRjl2S0RtR3NmbldOTkNTdGZ5alFmRlFqbjByeUwtTlVJM183bG9paW0ySENpMktCRkk1TTFFVkZhTnVfTzQ2NEI0U0piZFh2c3RXZktsa3RZdzVfYmJRMnMyZUI5YXlzd2w2V0pGZ0RhZS1RTUxkRTJGZ0JIYU1nWXhTMzMxSHNidm1QYzZjUExsM2wyMHZEblp0ZHhqU3NqX1ppNkl5ZzltTVFkZ3hMNF9lWk9XakxXVURaaGpTdnJGb3FDTUdHM1Z2NDVQSU1pSE5BZHFESnI2SW9qa2JjRTBfeTR3VmtqSG_SAZ8CQVVfeXFMTkNUcG10RXU0UXRZSGJydVZIUk9jRnF4SFdBejFYZDZrekVSclhTeTNFTHpNQm5oYXlUR0s1RnV6dDVDM2hyVDVLMnV4TFlTckhSd0djNWRMcWxVd3MxVUxhZFVVb1V0ZTdXaEktTjhYWU1CMFNSVWk0UzBIVzF2b2R3S1RVX2QwQm56ZG1tWWJrQzV6eXl5R1hEOTRPYlg2dXdPQl96NFRaY3VPN1pWVUVWZXlQV2xsV0c3V1BEbTAtcHdwaDhmM0I2ZWNBQ0V5RXQzcFVEbURENHlXNVZMazJHLUVWOUFTWG5RdnZEOFJkaHBCS2pudDM4cEh4OG44c2RsRC0wZFo0QTRSYVZVandIZUpLQXNEYjZlTU92Tkk?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 15:03:18 GMT",
-      "description": "La menopausia no es una cuesta suave, es un “precipicio”: las consecuencias de la última regla son mucho peores de lo que se sabía EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Arrecia el asedio de Netanyahu contra ‘Naza’: fuentes del documental serán investigadas y procesadas",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVNTb0VJQ3FKQ1lVQ0FVYmk2aWM3U3RwMU5HaWdKYjVzQWV3ckhvbHJWV1JIWWVJNDR5QTEzdDNHanpwUkd4enZabUJ0VW5QaXlVeTV0LWFySl91Snd0MVBfSkpyMmxXNktBNzJmVURpajRjN0s4VnUwa1Q1WEZLS25ETG5kSjZiVVdOTl9lYURRTHBGeS1TRTV0aUxadndBMjVDQ0NHNTBONzQyMDVJQW5idFhrUnZWdFNyelh6SGJsSnlTeUllckNZRVBETTliMWVOeWNlRE9yS3pNZkJldWdtWTlmWnh4?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 00:40:01 GMT",
-      "description": "Arrecia el asedio de Netanyahu contra ‘Naza’: fuentes del documental serán investigadas y procesadas France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\"",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjJnR3ZwOUJFX29obmFDZmdwcWlRY2RqSE43YkZuYUszNUtCZFBQVU5HRl9LdlV5ZXprakl0ZUI0cUNMcHBHYlZncVVqMWlDRFdDLXNkc3FDRk16bjVnczdzX3MyU01kVERqcHdpQ1ZxZ0lwSzBXQngtV2FENjJXLWtsejlfNFIySUVtU0xWTlh1RjMwVXpWck9jOVFXQXIwTjBmeGZQRkdIUS1LZTMzYVYwX3dfRk1mRzd2MG5EZi0xYmVNWmpDQTJZZlZDRHQtNFk0N2xDMm8?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 11:39:28 GMT",
-      "description": "El papa León XIV será operado de un nódulo pulmonar \"en los próximos días\" France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Cuba denies involvement with island-bound fuel shipments seized by US",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdTdXQkZiNmZlU3FaSUpwSjVIdXRNM0dOYWhzaDU2a2Eta2NIUkNLODZuOXVycnQ1SFVLalFMRUd3cmNHT2NtVHhiNTVpdDU1bndRa2JDSXo4MFk3VDlHWUprRVBkaTZtU2FoOUF1ajdNNWFJcDgwQmV3MGRGUUFyUkw0dVBGa3I0bFBlZnNjSWJibVFTc2NGdWNsUENKeG5vRC1WaHNyaVY0aFJ0anNUdW5tMVlZRjIyMnJlQ2JB?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 11:06:09 GMT",
+      "description": "Cuba denies involvement with island-bound fuel shipments seized by US Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Dos potentes sismos de magnitud 7,7 y 6,6 remecen Panamá. No se reportan víctimas fatales",
@@ -406,15 +406,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Residentes y Guardia Nacional se alistan mientras Isaías se acerca a costa estadounidense del golfo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQl9Jc2UxdUdjeTlJV3ByT3FDaHp3eVhtUFl2NWY2NTdBWldqTUJWdjhoU0FackhnSlV0NUQ4Y1l3US10cGpWVFpoRWNROS1SZGtCZUxiVWU5ZE9nZExGWEEzWTlpX1EzQktpa2l6aXg5TkFjbWZ5SUJnZHJkZUc2VzVDa2xESzdQTFJpd0xXVlpQOHZ0WlF4S09STmx6RXFU?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 06:51:00 GMT",
-      "description": "Residentes y Guardia Nacional se alistan mientras Isaías se acerca a costa estadounidense del golfo AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "La poeta y ensayista canadiense Anne Carson gana el Premio Nobel de Literatura",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFl5cjVGdUMyQm5NWTA5dmNJSlVNNGM2cGtzZk1WbXVoQkZ5cWFvanZMRi1KQllvZkJpdDhiVVBVdmVtS0lkSzFaOENEdFlrQmFuZWtlZ2xSTWJmUnlyNVlNQkR0QkFvQ0d6VEJWblJtcU9kVjBVQzJ1a200SjdLczJZZ2F1V3BTLXBuUS0wenpESGstajFIbkRQWWp6OFRTX1NRZDctVEQtZkFrelUwaXJoSHhiU1U?oc=5",
       "pubDate": "Thu, 08 Oct 2026 21:12:00 GMT",
@@ -437,15 +428,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0RZV1lyM2tYSmg5TWlxMl9OVTBaeWVybFBjWXNmZEdsTVo1SWc4UUdabWFJcTJLRmNPYXY4cWdNZDFScEpZM2xYYmtCelc0dFo5cWg4OGZELVgxYlNGcHVNU2lKY0FDaUdOOE9Od2lSRld6RmU0d2RfdG1YalBJODFxaHlzT0lh?oc=5",
       "pubDate": "Thu, 08 Oct 2026 19:18:27 GMT",
       "description": "Verificación: Video compartido como si mostrara protesta en Atenas por visita de Marco Rubio es de 2025 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Verificación: Gobierno mexicano no anunció “cierre” de programa de empleo, suspendió nuevas inscripciones hasta 2027",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzVlY1NKYXdEdnFhZ1c5cGNFU2ROMTh5VFRGamdlR0RyUXctcUhVemdpbjR4RUlXWlBLSjZtallDVHlkZGJHSy1hVUoxRVJlaHRuaGt2Qjdzb25pSm9McUNGMkF5U0tpT1A5dmkxeXFqRjJJYU1VZGdLWkZDcnRpOF9GRHZzWWc1?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 18:30:28 GMT",
-      "description": "Verificación: Gobierno mexicano no anunció “cierre” de programa de empleo, suspendió nuevas inscripciones hasta 2027 Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -478,6 +460,15 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Rays barren a Yankees en serie divisional gracias a jonrón de Mesa e interferencia de fanático",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjBJQmhDbUZpcThNWTkzc0o5NWJzUkVDQy1ZTzd5cHQxTmpZTFVuRk9aQnk2cmZaaDlEMnZCU0w4alBFZ0h1VkYtV0FGclpLa3daVHBSUWZnb0ZZc3lYUFJGYUI3enlobmstM2ZjSFRlTHBPbDd3cUVXMW5XSkhoZVBZbW5HX2tITDV3bk91UVNlTmJT?oc=5",
+      "pubDate": "Thu, 08 Oct 2026 06:21:00 GMT",
+      "description": "Rays barren a Yankees en serie divisional gracias a jonrón de Mesa e interferencia de fanático AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX21CUmMyUXJZWXJ0U3BuOTUydzVtQjNpZ0VJTmhfY0xyazVEc21oNnBocEhmTkVEbEIzejZJUEtaMHNoaW8xZ2RNc0hrOU5DMm95UGtUbS1LREEwaVFZLUVFTXdqOVlPaVpEVXBtV3E1eXdiczM4X1RJQXpDbzRaN243NVRoQ3VBcjhHRXV3c2pZV2ZhcElVYy1oOTIzWGRZMnBiM2dXVVdXb1JPX1ROT1R1WWFpQk13Z1FRVDctQWU3UQ?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
@@ -485,6 +476,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "A un mes de las inundaciones en Nepal, miles siguen desaparecidos y la recuperación se prevé larga",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQldTN1hZRkxvaXN6U1JnVEVSNEw2ZHZEaU85TlZOR01LYWlJQ3ZTNF9BcmpvRlRMOFlkUi16SERKZHlOYUUtNE5hWDBPZUdPcF9FZlMxekkyeEF3NklwbzdPeExaQWNHYWdSOHhjMXhqUnVLSHRTMUVhNUJFNjM1WllCZVJ2OEpyNHplbWNtY3k2YUkwM3pFMXU0Ui0?oc=5",
+      "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
+      "description": "A un mes de las inundaciones en Nepal, miles siguen desaparecidos y la recuperación se prevé larga AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture",
@@ -509,15 +509,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnV2ZGhVSHJNOC11enV2N25uVDRSYms4QV9scFE4MTF4YlJCU1V0bzEzazhyN1hCalF0Y2NSSXFMd2RySVZKUHRmUkltbk5DajZnTmNlNW93NGpIcHF5NTZrcjN1UHJMdlA3X1NXWGNsdW5kWEZFX0lxdTk5VU9PYXhGa25VcUZSdTNEdlRKTDNyY1R1cjhLRW5pSEJvQQ?oc=5",
       "pubDate": "Fri, 13 Jun 2025 07:00:00 GMT",
       "description": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’ The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWNxYWd5OFpXMzFlSDJPM2NnTi1xR1dVc2RPVWRzTjJvREF4d1VuZ1Rqeml4dVpUcERwOUZlQUJwUXF0a3Z3Y1BrWkxUcEtmbUROYnI5Ty1fWExLSmJYSlhLMXJ4MHNXRFFmZTF0LUNZam1Za09JZ2JmdGZ6RVdzcTlxVkgxeVB0bkJpb25Ub1JOb21vVWl3MHd2a3VWd2M?oc=5",
-      "pubDate": "Wed, 31 May 2023 07:00:00 GMT",
-      "description": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
@@ -599,6 +590,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
       "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
       "description": "La crisis del agua de la Ciudad de México The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Rise of the middle class: lessons from Latin America",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
+      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
+      "description": "Rise of the middle class: lessons from Latin America The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
