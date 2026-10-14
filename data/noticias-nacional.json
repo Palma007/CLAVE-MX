@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T00:00:16.846Z",
+  "updatedAt": "2026-10-14T08:05:13.376Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,13 +58,76 @@
   ],
   "items": [
     {
-      "title": "Colapsa puente peatonal por maquinaria en avenida Constitución en Monterrey; cae encima de un automóvil",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjctRXVvU1FTWElxYWh4dGh4VW9GLVNDaEVQcENSb0RoWDJTdU8yODRKMEFRNjFoNF9QWlV2SVU1N0o2anljMW1SbFZzblpFUDFLcGJWRzZ2N0ZnUV8xQll2LUNZbGVxcVRTMHRTc3VVU2pqR3B4aVJub0VxZ0U5RWttd0FwcE1NbEJ4NEE4NVFhNGdfLVFQT1RsVXU4b2FC0gGgAUFVX3lxTE5BSHZlXzBvRURUX2Z5YmVnV09uMFl4R0R4RkJhNkFoaXlvN0NIQTE0T0RMLWM0ajRidmlUV0JUOFp4dFJYM3BWV2UxMnpWTUVtZGs0cWxCV0hPMmx6QlhhYjdFR3N6LVkzNjVyUkJKaWphZ3doTFl4ckJrRU5IVVBhSm5lbDVWLWc2MF9Xa3d2V2UtVUZJeXJBM0lQT2xRbVI?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 23:33:24 GMT",
-      "description": "Colapsa puente peatonal por maquinaria en avenida Constitución en Monterrey; cae encima de un automóvil Milenio",
+      "title": "Exigen trabajadores mejoras frente a sede del IMSS",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnFETG44NHRIOHpOWVkzYmhYVWgtVWV3bzlWczFxZ2VjV3FhcWNoYmcxQmU2UDI1MFJfUHRfb0hSU3huUHEzT1VUZVJxMGNOOU9HOWRUY2s0YXNwUVpZMlVua2lWYUFtU1dYTXVyenhCank0SVc2ZUVrcl9yVXpuRW1PVW1WN1JPUHlzTg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "description": "Exigen trabajadores mejoras frente a sede del IMSS Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Tri femenil vence a Jamaica en segundo amistoso y se perfila al Premundial de noviembre",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdDJPN0ZwOEZ1c2pXWlZiVzc1VWYyYXBuMHh3ZnVZQ3NqcmZodU1wVHZDcFlOdU5jYTNpa0ZhUk90RGJaY0dLdDZKdmVCY3VUeG9OZjlkcUY1ZzFldV9tM2pLVW1tY0pKUWhYSllCVS1hOVI2NGVtQlZ5bzRUYnl6d0dOTmVvYWZac2V3d3NjczNHcFlnS3I3di10ZUlVZ0lQRWtnUW95WlU2cGJOSHdmcTdfX0FYTE02Y2ljcmRUbXg1STRFX1l4U0FENHU3ZmljY1VMandCLXF3Y2I1dzVV?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 04:23:00 GMT",
+      "description": "Tri femenil vence a Jamaica en segundo amistoso y se perfila al Premundial de noviembre Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Sheinbaum niega en su primer live que fume mariguana y acusa de “fake news”",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTnNXQThYbXk0ODVMbWRrUlhyOGZ6dDhPV1h0em9SZzZWVk5TbVdUdzdrZWxjU25iWVpJRnRFSFFhTnFSS1ZEVWh3c0Y5YjF6NXhkeXNyZ0daak8tRG1QNTYwNlRSWldzeXdjTGdfQkJ4UnFoY0FlNHc0TVd3NlE5X1JDSXJkcDFEUG5qWWRhNnF4ZFpNWmw4Y2RuU1puSG5jaEo3S2liZDY2bmFOX29pa2IxV19VZ2VkRVI3UlZyWTFBTFdhcjBKZ1J2a2E?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 03:46:06 GMT",
+      "description": "Sheinbaum niega en su primer live que fume mariguana y acusa de “fake news” Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Suman siete fallecidos por “Rachel “en Ensenada; dos víctimas eran adolescentes",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjBTTmFRZzc4VWJJWjc3STFNQmcwSHBqNnd1M082N0lqQ2xNY1hJZ0tEVzVnLTlIdnpReFdLREc1ckNyQkt5NG5NekRRQzJwc0lBNFo5Wk5Rc0xpVmhpQUhoeG9kTExjbFZOS3pBRE1BaEM3SHZWQ2d6eUJ1Wi1PRDhTS0hyZjVBYXZ3bVpSTDhPTG9NbHNpUUxsblg3dURiQ291Q0lMb1VUeVR0RTV2cnY2Vm80NFQwOGdHNTI1UlVVYkNfQngyRkpzWjl5dGpCYmp2cTUwa3pOMjA?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 03:31:52 GMT",
+      "description": "Suman siete fallecidos por “Rachel “en Ensenada; dos víctimas eran adolescentes Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "México vs Jamaica: ¿Dónde y a qué hora VER partido amistoso HOY del Tri Femenil?",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlk2dnBaVGxqTzhoZWJrUFltSnZNWGoxRnc3NHJIRlMzd0c1b1lUOG1OaTFPOU9HVGxlNFVXUVl4dVZIUEx4TC13Ujk4alNyUmpsVldrVTFialdyQzYwUmczcU1BcW9MdHBOWGpzQ0xlTkQ0Qll0MHktRW1KcWtjZkJocUk0NzJyLWdfOWxBdlVxVlhVUmdNUk9iYVpwM3FMeEUwQ2Y3RTVleWpVTEFjVGxRV1d3MzNyYlhvU0ZNSkfSAcABQVVfeXFMUFA4UndSZ3dSZDg3T0lEN3h1MUdmUnphUEwwQ3ZfNzJvanZkVTQ2YVN6ckI5UXpsclV1NkZrcndYakdiVDF3aWFOTENrRXVwZzcwN3cySGctUk5BMEd5MjdkVTlHdXgyWWgzWVp6dVJ6c1NUQjFXaXJ1TV9HZ0F5LU9EVnVsUGt5VW9vczVzdnpHSy1JRmxaeENST2lKeUtjamdiNllSTVVCUUEwazZBaXJVcHBjdjNnMGN1cGptbjdO?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 02:55:08 GMT",
+      "description": "México vs Jamaica: ¿Dónde y a qué hora VER partido amistoso HOY del Tri Femenil? Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
+    },
+    {
+      "title": "FGR iniciará proceso penal contra juez señalado de reducir condenas en casos de narcotráfico",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYkdyb2d5dXktcnQ1dGthOWd5UE5KVEswT0lJWkhrbnZsVVZUSGJLdWdBNGtxZHdHQThTb0VlREVpWFgzMEFqZ0hic2VvSWJjU0xFTHZIaXBPNG5HZVMtSjFQcHMyQ1dKT00wMks3ZF9OYzFzYVU3TEdSVGZDTGVJUkRILTJIQWpFQU4yZUtPS0FGTkg4elVFSE0xRy1hajQ0STB6OGhpaDFoLVdURzhyRTFqOUJ3U1ZuOGptWnIyNlAwcDFxc21ON0VSN0duQ1ZaSjQ2SHhldmhFVWtCakpCODZnTXZYZw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 01:37:14 GMT",
+      "description": "FGR iniciará proceso penal contra juez señalado de reducir condenas en casos de narcotráfico Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Adenocarcinoma pulmonar: qué se sabe del cáncer del Papa",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXhSN1lMNjc5YVkxT01jZWR5N3hUX0pucm5SMmdFbUUxWXNQVXhwdkhBSmJZdm5sZ19Qb0szaXJSREFlMlpEYS1hMGRKY3UxeW5vMW5keHN1eWlFX1cxeGlzdkJxWmI0STVnckg5TWtLSFJqMl9SdDdINlpBWVV1Q0FESTZtR1V3blloRS1NR2N2OEk?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 01:20:12 GMT",
+      "description": "Adenocarcinoma pulmonar: qué se sabe del cáncer del Papa Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Ofrece CSP facilidades fiscales y menos trámites a IP",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbnRVR1hZQi1Hb2NkRlhkQ3lSUTZKUWptWjI3VU1hLWVKeVZWR1lNV3FiYXRRQ2I1bHBSTE9yWG1tejhxY0ljS0gyaWNNY09Dc3lNOU1SS1lCMGNGaE1ScjQ3eVhnb2NnQlhZSjJPZVB5bjdVQ2pod1hfU3IxV1BtX2NpRE5TQno2dFdMcWVQbHo?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 23:54:57 GMT",
+      "description": "Ofrece CSP facilidades fiscales y menos trámites a IP Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "México paga menos aranceles que China en Estados Unidos: Ebrard",
@@ -76,31 +139,22 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Sindicalizados del IMSS marchan por aumento salarial e insumos médicos",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnRvTngwTzF0Y2g0dGgzdWxGVDZpSHpmdHlGNkZPMHBGTEpnVExXVGhxWmRua2VXVVZLVXpOSnk3UjRBSkxlZ1NIb1dwUzBuaGV2LWZVdlJqdkxDa1ZDcDA0QzFOSFpWc3gyR25WeVFDVS1QUWtFR21mUFNsV1JzaVpOT3FydXNkMEltOVZ0eFJlT2lpUVZxdkdIQ3lwSGRUeU5uZ3hyaENUODVEeWJ2RHZtMDFqeEJaUlRBRHNyQ1c4RHJoNUJUbFhma3ZhalU?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 22:52:57 GMT",
-      "description": "Sindicalizados del IMSS marchan por aumento salarial e insumos médicos Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "En fast track, Senado avala reforma a Ley Aduanera",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa3U4azdGWjRNTGtaQkg5R2VGRWprMXZGU0pGemd6b1gxeEM1bDB1ajk1cWlpTFlNVVRobklFZlVTcDNWdWNWUzBZZnVJVWZlVDBtV010WDVuTDNNVmtCY205TDk5a1ZKSmFEaFg4aE9sc190Qnk2YVloSlBHVHJRYmRHWkJ2X2oxTzFvdi02VWJmMFdLUWtNMDZzZm1wN3JhWDRHZk9JWGJXX2g0TEhFejk3eFc3NWllZlVEM01QSdIB0wFBVV95cUxNamowbFN4a0NlWDhRVGpaMDdPM3dJZTRKa1N2LTlJbWppNXpiTE1vZElscnBJRU9YaExxT3JaYTJHVmE1MkI2dS1tbWp5R2w4YlNaNklaZldYaF9LTnVnNTVnc1owTFdrM1djdlctUW0tTVh1ZjA1b2dqeUdKWFBETWlUUkd0bVk0SXhLc1JHTHhtV1hmZlQwRkFVSUVCeVM0Qk1UbFVPdGNvT3JXMlY4MlpnN2lrUTR1cVpTMmJMVldpWnZ4SW1YeTVKZXY4aTFRVUxR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:19:00 GMT",
+      "description": "En fast track, Senado avala reforma a Ley Aduanera El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
-      "title": "García Harfuch afirma que Amílcar Olán está “ubicable”",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjlfb2FoV1lSS1B3RUdpdVZLWkdZMmtWRlNhTjN5SnBXOGNNVzg5Snp0dmlFaUthS3U5VWJaMjl3WTJTUUxLQ3cxVE56b0VmcnR6WU9BM0R0eUltRHpvN2VwX3h1ODlNV0NyLVlnbkR2cW94aVlxU24xNG5JNnhJY21Va1I3c2hnOW1teHlEWi0xTUlhYVBOektvdEM4dHZDNHYydUNvdmYwSUlFUEZPOQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 22:15:20 GMT",
-      "description": "García Harfuch afirma que Amílcar Olán está “ubicable” Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "EU multa a Bank of America con mil 200 millones de dólares por presuntas violaciones antilavado",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUVk3RkRyWjd1ZGowRy11WFRTb3dHMm5tV0VmNE1neElKQUpPc1loN0ppb3VTX3VhVjBHMUpjejVDcC1NVzM0ZDNRVzZKZTRFaWZiQjd6Q2RXQVk2SnIwZS1CVnJhajJ4MXgtdWVPMGpBWnpBY0dCblRmU1duQU9ES1JRMU5BMUFBSDM1WGkxbGVsbkNaYUl4aDJmdXhXT1R3ZDMxOFZuaGdJV3lvaTZDcHdoaWd4bmRnWC1KblNuMTdKcXBmek8wNGt3RDVYNjVBWWV0ZGZrcFdiTVlCd1FsWERjZG9rZGVyMHl3cWxmVEg?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:51:54 GMT",
-      "description": "EU multa a Bank of America con mil 200 millones de dólares por presuntas violaciones antilavado Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Televisa y Fintech comprarán filial de AT&T en México por 2 mil mdd",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNC10Vzk4X1ViMHh2QlNkakFFbC1OQnhjQjlVcF8xcEF4N2dFZ0s3aXBJQmtpOGhkNXNhU05mTVIxTjlnSGFTZW5vRUlkZHctVXlndWZzdktkZ21aT3RRYUhMdEZxNVZoNl92TERQbDdxSUt2RTBrOG9ZR3lxWFNNV3BDVDI0QUc5d0FJTC1VS0prVG8yQ0cxSS13QXd1UGdM0gGmAUFVX3lxTE1kMng3Y29nZGdnOWJmQ1loTUIyZ1hWNjBpQTE5MEJxckItNXRsczRCS043TFZsNWQyZ3g4M1NwV0pWdXFUWlBCMTZEbFptN2pnZHhMa2xkRjBsbEJRalNKRkhuc3JSSXY3TGVlQUZIU3JWU2dETERxb1ZoMElOSjlFX01jYkl2dUtLMDhMV3NBNC1HdzF3OVJmUTBvVGNfNFNTWHRZbWc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 21:55:35 GMT",
+      "description": "Televisa y Fintech comprarán filial de AT&T en México por 2 mil mdd Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Amílcar Olán está ubicable: García Harfuch",
@@ -112,49 +166,13 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "El papa León XIV tiene cáncer de pulmón, informa El Vaticano",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGtMYjA4VDk3YVVrXzdQaDV3R2dhUExPQVlEMkx3a3JFcnlqWDRVSWYwa1V1bjAxU2tTYkw0bFRINFNXYzlSazdYRWxmNVdLaVJpWGR6b0gtLVBzejNhcUozVmMtdEhBWWFldmVmSjlTMlpWTGhxT2hQZDgxUlVhSVZjdU5Jekt2NGZuSFVSMHpCbzFid25zVmg0dVRNS3g0ZXg1UU5lU1FkeFZWTmRsel9ucVA3YkdsZXdlamlFMUM?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:49:00 GMT",
-      "description": "El papa León XIV tiene cáncer de pulmón, informa El Vaticano Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Papa León XIV padece cáncer de pulmón",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeXpjV3FmX2xnQVdreGxFS0NlZENqcHVpUG9pbVN5ODRISFBORXVLSzFBTl9xRHpPWkVhLVZWQTdaQkJRQnpKNDlLaUFILWo5VVhnb2FncVhTaTNidGtVUTBzaXFROVl2dFU5UHNwdU1meHNiOHI1aUN2OHljNVhPQ3A0N0lTZw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:46:29 GMT",
-      "description": "Papa León XIV padece cáncer de pulmón Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Vaticano confirma que el papa León XIV tenía un tumor cancerígeno en el pulmón",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnJCbkRqRkdvQW1fb1FrVml1Y2lhdElNZEI5UzVqQkdEUzNhc0lpVV81am1hbTdZQk1xSlI5RDNibEZHZWh3WU1Dek5kU1k0azNIa2doNllZd0xXLWRsdHJfZldQeDNvSWNyVHRyUnVKdlRnU0JIYW5LRFEtdFl2N1h2QmlnaUN3aW1rQmtHQ211dWx1X2FodnV30gGfAUFVX3lxTFBIcVkyUUtIcmE3TERURmtGUF9PZkRRT3plc3dKOFBrNlpOd09XQks4WUhQX0d5cGpUUVpnSC0wdVVYZDA2aXpnb1VOeDA3ZG5GcFdrcHJmaUpuZVE0VzFMYWUwQS16YnVZdm5KdkFPR0k4Y3JLNlpMVVlMVkhZaF8yUG5taHdQOWVkNzZPX1lQNTcySTBqbHhzcll2Y01sbw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 20:17:36 GMT",
-      "description": "Vaticano confirma que el papa León XIV tenía un tumor cancerígeno en el pulmón Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "De \"Los Zetas\" al \"Cártel del Noreste\", la red de lavado de dinero en EU con carreras de caballos",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONVJPVUtsWWxzRlB6d2stSHNPZ3J6R1lwSjNYNXdUMFgxclBZMnJsY1NSQlFHTGtQQk9OaXhPdUhDUmM2TERUR0lpeXdTLXJNNDJlWG9Lb0VGOEJHMkFsQUtET0ZwbzFqcXhoWHZOTnh2c1daa2ZmMER5ZmlLS3MyWU10RmJEcmxPSmdfcXJEZXFLYU1YWTNwcjFaTnFOVFNKREVzT0tKQ0Z6VEJZeU1jZExxTmJONTdhdThwLUhDRFZCRjJuYkdjRXdFcDJidXI5MTNqLW4xRkg5SUpyQ2xPNHFrbkFoNWU3MF9EQ3hSbnYyMUxfQmVJ0gGLAkFVX3lxTE5maktIOHhTQjU3WXl2NGd5eDFHeWFFUUpxcGF6MFk0ZUZDR3dfbU5iYnR2M2hsRW5CYzJjVHVzazVjelNNbmU5a3BQd1pBWHJKLWlBMllpTXlXaFZIUVdiZW5xUm94MlF2c3pYelFHc0F1N0h4aExBa0xHMnBkX09mOHJGbTRYaFZFTVNlMDNUejlyVDh1cVhUZFBxLVNoYjdBWVFKWGE5SU50ZnVOcDdTLXlQX0FRU1FobHdBNDA2c3JZQWh6TG1EN2xJdHRXX1QwWGhCcGtocklrTkRYeEFNOXlkSk1iQjNZVEpUU0NlYmY2QnhqSmpvcjhDM1NIWElCME1iRHh5czRwaw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 19:39:00 GMT",
-      "description": "De \"Los Zetas\" al \"Cártel del Noreste\", la red de lavado de dinero en EU con carreras de caballos El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "FGR detiene a cuatro extranjeros en Cancún por falsificación de dinero",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSmNabE9FTDZING5QMHJrclZCSVdSendvX1k0X0ZyNE1oY1UxSXhrY1k4RlFpenZIT0F6OV9ZcEh2U01HX1BIREJoREpMeFdyeGtuVnJLRTB5Q0RqR25XbF9ZR1hkWlg5cmhVMnBmME1FQVVCd2NhRWd2WDZEY01vRTBYSFZOdVdyWTJtUmRNUlNwRnhlbGx0NmRB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 19:11:18 GMT",
-      "description": "FGR detiene a cuatro extranjeros en Cancún por falsificación de dinero Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Colapsa puente peatonal por maquinaria en avenida Constitución en Monterrey; cae encima de un automóvil",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTjctRXVvU1FTWElxYWh4dGh4VW9GLVNDaEVQcENSb0RoWDJTdU8yODRKMEFRNjFoNF9QWlV2SVU1N0o2anljMW1SbFZzblpFUDFLcGJWRzZ2N0ZnUV8xQll2LUNZbGVxcVRTMHRTc3VVU2pqR3B4aVJub0VxZ0U5RWttd0FwcE1NbEJ4NEE4NVFhNGdfLVFQT1RsVXU4b2FC0gGgAUFVX3lxTE5BSHZlXzBvRURUX2Z5YmVnV09uMFl4R0R4RkJhNkFoaXlvN0NIQTE0T0RMLWM0ajRidmlUV0JUOFp4dFJYM3BWV2UxMnpWTUVtZGs0cWxCV0hPMmx6QlhhYjdFR3N6LVkzNjVyUkJKaWphZ3doTFl4ckJrRU5IVVBhSm5lbDVWLWc2MF9Xa3d2V2UtVUZJeXJBM0lQT2xRbVI?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 20:02:00 GMT",
+      "description": "Colapsa puente peatonal por maquinaria en avenida Constitución en Monterrey; cae encima de un automóvil Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "¡A todo galope! Así es el negocio del Cártel del Noreste para lavar dinero con carreras de caballos",
@@ -166,27 +184,18 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Clama Burgueño a la 3 de octubre: “De corazón se los pido …ya no estén en la zona”",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc2J3eGxMUV92ZUEzUXZaX1FuT05HT1dOdFVYLXRhbjRNaFZ2WHhIYXZ6S2N0ZThTdk8wYTZra1NQY2FFWnhNLXZlR1ZlTGpCS2pQaFhMRTNGSHdGM0lqejE3WW9VcTZfdGFtTXo4cjlTU19CU0d6eWhNamtrcktsaEZLYlVtVERTSVM4U2dkeWQ5cjMyQmoxTmpoMXZfd2Q0VDgwVjY1bTY1dw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:11:40 GMT",
-      "description": "Clama Burgueño a la 3 de octubre: “De corazón se los pido …ya no estén en la zona” Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Exentan temporalmente arancel del 10% a autopartes",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVNuUFc2Vi1uWVptUnM3RThZQkxWQnlSaDFqZ3BGX0YwVkRhX2xGRm1VNmxvQWl1cEJWaHdMQWdZRk1zNUZ3X0FvdGZaLWtSQTM2V0F4ZmJ5Rm1DYThYRXplWUZMVmRVdHpvVmxBTmRubnNYMFZnZ3lySk1yRVo0LUJySlpibHdFMlVZ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:09:57 GMT",
-      "description": "Exentan temporalmente arancel del 10% a autopartes Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Lo mejor de Aristegui en Vivo: Intercambian a detenido por agentes en Morelos; Marina coordina operativo con EE.UU. (13/10/2026)",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNk1oNkdOeENnN3FfSk8zY3VSdU1HYjhpbXB1UDVVUWs2R0hKcUgwS25hUjIyejZkSEhxWUtjWm5fRzJ1aHN0Zno5OWdmVWtfaEU5ZER1cC1NZk9udDVjaHRIV0Myd3N4US04Z3dVN202WmE1VlBYY01wNnVCZ2NvY0VVMWY4MXZkRnRVRmJ1bUVrUlBFbEpiUnhLcWYySW9KZTdScnRTOFZvSUE0Y2QwQ29YUjRNWUZ5MlFPbjcyTV8zblgtRzVYSl9sMTZRN2VpamRjaVhEN3ZPWHBzRENQSmVBQVVUTjdsREE?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 18:17:57 GMT",
+      "description": "Lo mejor de Aristegui en Vivo: Intercambian a detenido por agentes en Morelos; Marina coordina operativo con EE.UU. (13/10/2026) Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Trasladan a Puente Grande a 7 de los 39 detenido durante protesta por el agua de Guadalajara",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQY1lQbnZZbEZxTVMzdVlOVGV6UVF0cjRIREZYVElXSkNFeWdiaG9GVmItbmxxWmRHVEllcUdyVDRwd3Y1QTdnaENFRE5vM2VoR29lYUU5cy01Q2dJNlVIMWFpSDdwS09jT1NkTWpnV2JjWHRuaHppMUkxdkJSLTFZRXhDeVJJNjNoVkZ4QjFXTUpkOUstYk5IOXhIZ2RmMVc1V3EtU3RVOXpmT20yQUdQVmlxVUVMU3dRdjEyU2N1UWx4cXpRcng2LUlWaG9iRVAxeWNINVdaTlBiWElTbkIwMnh4c3FxS0hWMmZYaGlKSkdNa0hzaXZjSDlCd1Z1MHhlc3hnNWRWeTFRNHc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:09:00 GMT",
+      "pubDate": "Tue, 13 Oct 2026 18:07:00 GMT",
       "description": "Trasladan a Puente Grande a 7 de los 39 detenido durante protesta por el agua de Guadalajara El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
@@ -238,13 +247,22 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Tribunal exonera a Noroña ante denuncia de violencia política contra Grecia Quiroz",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWRqeV96WXhFV0gyRDZLWm1YTEhISEc1ZmQzTWdhVnh3ZktJcGRNbUV5bEtTWE9WUjZDYW9NRDhlY3l2NmdmdHFjWXFhcnVjNDBZYi1TVGRoVHVyT1UyTUk2ZTRpUU9RbFBFZTJMRWF4TFhhd3ZrZFA3b1hNR00tY1p0NVZOVmw2TmJOZzJucDFMUU9VM2JXdUtlVHpkTl9QckpUTGN4RWRkTUFBMG8zcm5ZckdGV29Td3BmTnZOdWRYLWdKR25IZ1B6OW1GbE9BOFRVZHpJSEYtblhYVmRPbjFwbDFuSWJ2VEN4a9IBgAJBVV95cUxPcGZDRlAwOEJyNHd3UlUweURDN1lGQzBKZG9YYkxmVlc5Z3lDLTFmdHNjdlpUZWk3WmZuS181aFo4UFBVall6cWpzenRLWFlGR3VQNDhzWDRJeEoxaDRKV3dvTmlMVE1DZGxfWFFYT24xOVBQSW5mMmFLZ1VBOFpVY25rYkFKTzFKd2RqV2FvQmE1cFNWSzYtS29IWTUxYmtBak5fdWRjUFJKWnNkTF80c1EySzFaUFhWXzFENUxPLTRGQW0xNDRfTUhVTC1oOXl3U1BHZFhNLUo4WVY5Y3gtcTlGUmpUWHVFSkdFc3Q5NnRzNnpjVG5mSlJYcGxabmNp?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:52:49 GMT",
-      "description": "Tribunal exonera a Noroña ante denuncia de violencia política contra Grecia Quiroz El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "Admite CSP carencias y fallas en sistema de salud",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmxuazVibi0yWGZGVXQxMGhlOTRvUXJYWUVDUUhCYkZpOVl1MWpoU1NXYmlWeElGWk1hb2xvck9pYjkyOEthakhPUkpURlpXM1E5eDV6UkUtYjRGek9jSmxJaFdWSm9mTEgzdllvVVMybTJxT1Y2Q3doTTBTVlV5WGZMWjltcS1mSFFV?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 15:19:56 GMT",
+      "description": "Admite CSP carencias y fallas en sistema de salud Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Explota gasera de El Ranchito en Coacalco, Edomex; captan VIDEO",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2p0ZmVqRUwxQmRnNGNoRnhwZU1ZWjlnNUt0eVdXYTdJLUF6TE1qRU9ZckhjNERVeVRTclhpRlhGUXZtWXNfdVB2VnoxU2lPM3Vzb3dTQl8zNHN5QjFtNzg5alNCUklYWDl3emxQUTRPQnVZTWF3R0xNVUNoWlI2S2F6dmgxSHg2alHSAYoBQVVfeXFMTTZwRHJoaWtMbUJMajRzejltYWxGVHI5V1F1YW56dktaTnlzTzhmUHV2STd0dnpRR2NNS1hBdTl1bjFwQzVUVEtIY1hvM2FEWF9zaHRaTXZXVGhfUlJ0ckVFcTB3TXBJdV9JX2xTQVltd093WFUtd3NxNzJuMDUxVEdOM1RvRmJxRWpR?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 15:09:00 GMT",
+      "description": "Explota gasera de El Ranchito en Coacalco, Edomex; captan VIDEO Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Marchas y bloqueos hoy martes 13 de octubre; horarios y alternativas viales",
@@ -257,12 +275,21 @@
     },
     {
       "title": "De liberación de líder criminal en Morelos a nuevos penales: Resumen de la 'Mañanera' hoy 13 de de octubre de 2026",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmlaODF2dVRNaVNQUFN0cGRrZGRBb08wbW1PRGZpX0o3ODdtbWVIRjFJaFRJYS1BZXZORXZmYURrR3BnUnlkRzBjNVhhMlAzc3MwdjFJM2hoUTd4ZDdNdTRnMEVYUWpWRW1kYllIZFZjUi1qYzBMcHE3MzVRWFkwdU85N2otbDBHR0taMl90SDlOLU5wOWhuTjBn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVmlaODF2dVRNaVNQUFN0cGRrZGRBb08wbW1PRGZpX0o3ODdtbWVIRjFJaFRJYS1BZXZORXZmYURrR3BnUnlkRzBjNVhhMlAzc3MwdjFJM2hoUTd4ZDdNdTRnMEVYUWpWRW1kYllIZFZjUi1qYzBMcHE3MzVRWFkwdU85N2otbDBHR0taMl90SDlOLU5wOWhuTjBn0gGfAUFVX3lxTE5mR0t6SERWcTZsUnZOSnhaNTlKbnJMblZTLXduSUVVMXc4MzN6N041ZmxzS3dfWHhITXUyZ1ZJZEtLVmxzLVVwZGZuT09RRnF3QnpMRjNwRUs4X3UtVW03SDJoVDJ4Z2VLWWZMc09oaHpKRi1KdXBCRGhKRnM3SmVPTXhIdV9kSFZuZElNbjNGUmJGRWdQT1cwc0lGYkV3WQ?oc=5",
       "pubDate": "Tue, 13 Oct 2026 13:45:20 GMT",
       "description": "De liberación de líder criminal en Morelos a nuevos penales: Resumen de la 'Mañanera' hoy 13 de de octubre de 2026 Excélsior",
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "¿De qué murió RJ Mitte, actor de Breaking Bad? Confirman la causa de su fallecimiento",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQandsUUJTQ1ZzWE9BRHBUOXBmMEk3QnBhUUxFVVlnTU9MeXM1ZFJsUGZiMG9Rb2hIaHIzTDlNMzNXaVVrWnJ2ZEM5WHNDVUItaDVKS2dpc21rYmtYM1BsX1R5ZXRHWThmLVZkQU5WWUN0VzM4eVM2YVRDVEtudXc2cWZGWV9DUmV0T1hnTEd3eWd5TUU2X1BqR0U2ekVFZ3PSAZ8BQVVfeXFMTVNmeXYtUndXRkFMVVpVM3hDMDQxakxlbkhZUXdKdmt2QkNPS2lKbUZNMVo3YUJtUV9lc2I1UW15MmJpNnVfcXdQb2xuQ2NDLTA0UFFIZ2V3TU52aERmcUtWTW02eWtyYVNRUHQwcGphRVhLeUlxZ0hpd2ducFp2bGsyX3pHM0hXeWthZ05KM0g4RXVZNzJDVnNENjZoOFRv?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 13:30:00 GMT",
+      "description": "¿De qué murió RJ Mitte, actor de Breaking Bad? Confirman la causa de su fallecimiento Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Huracán ‘Simón’ baja a categoría 1 y avanza frente a Nayarit y Jalisco: ¿Dónde lloverá HOY?",
@@ -283,22 +310,13 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Avalan con Adán Augusto casinos para Olán",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTN1YmdkZDRQLWZjSkcxX2Q0clg5WnVXc0pjazlMc09CZWxLN1lFNWFzQTVwenlKTkh0ZUxNMjU3ZHQ1eFVLSllRRzA4bmQ4ZWdSNk5nbl9MMzhaUVpVVWxZQ3ZLX2UwTDJIUFpEWmVMUllQS1RTYVB2WlB0d2d0dQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:04:57 GMT",
-      "description": "Avalan con Adán Augusto casinos para Olán Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Avanza en Diputados cascada de aumentos",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00eFFfZjRRYUw1UV85RWstdThZdGIwaFA5c1dGSFZidzdLTUlfWVZPWnZTZURiMzBmWXBmWVg1ZVByWDBBclZQdmc5REo3M2REWWNiWnRERDZxN3ZmQWZfeVp3RFlDWkwtYS0zaUtzNzJHVHdEa2J0Z2kxSnpyQQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 11:04:57 GMT",
-      "description": "Avanza en Diputados cascada de aumentos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Entrevista con Arturo Castillo. Consejero del INE alerta sobre trampas, recortes y falta de arbitraje",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdDZ6d3NGdDlERFNWNk5udnlnNzJ2QmFVckd1M3I0bEY3bXdkRFRtSzNVd0tzNFNZVG4tMlMwU0dtT1B2anVYMXBma3NzMnlheERJa1dRSHd5OTVjNE10SDNFR29nMUZKX3djSGRaZURiN01VZkhPeC1IQ3U1V3VMUkxHUV9IYlRfX0M5ZTU3em5FX2g5cWE5NkFhcFFCYi1FeHpzLVMwRXFBcUx2UkszdG5UZGtyaW9fYjdyeDgtaWFXd0JEelZWQWpWUDJQb3NQVnZsQ0tUcVNHeUhic0xJTG1xN284ZHZCazhoS0dlU1Judw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 11:00:00 GMT",
+      "description": "Entrevista con Arturo Castillo. Consejero del INE alerta sobre trampas, recortes y falta de arbitraje Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "¿Fin del superpeso? Una explicación para no economistas",
@@ -322,16 +340,7 @@
       "title": "Piso por piso",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MQTI2ZmNCWUNHVldzZWxpNksyYkVNZ25Lajk1dTZIcHdlTU9acmpkZUhmdHlOd21ZU0ZWbkY2cHFSQWtibWVFSFZGZURpelgzU3VvU2kzRWthSW44OE9Ba0VONzBDR2dndmkzSkIyOWZ0U3FQSlFIUEliONIBe0FVX3lxTE8wdHJXU2EwbzJCUE5lY0RrN190T2R5ekpOa0hBSzZ5TEM1cXBwYXJUT2IyUkdQN2RQVU50VFprYjlZdzEzZF9tRElkZjJKTkxVTS0tcUFodUwzSUJweGhlQVk2MDl3QjZLczlvNmN3X0RFMzI5SEI1VkE5aw?oc=5",
       "pubDate": "Tue, 13 Oct 2026 09:41:58 GMT",
-      "description": "Piso por piso MILENIO",
-      "source": "MILENIO",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Salud, la herencia criminal",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTNIUGh5Qkpwb0o2d3RDdURhUUFtZklLeTRZRWM3Q1hoTWFScjFzNXlDUDRBWGhFVVF5Y0RWTUlOb0piTW8tUDhUQ3YzTFBXZGNLejYtcnFxTzVSbmVOWWZZZlNFUXpJc2tNejJsUVItTWlGQmIyV3VFeHRPZUR0TzFJRXVmVkE3LWxuNjM0UkI0ZEcz0gGUAUFVX3lxTFB2akJiQkJJVGNzU1VyeFl4RlpyN3dQVjdNWG1ET2RjeG1vX3hxNHcyWmNpMGNNZDJiaHNiTjU3cUdha3hUSllybkZKaVpVVi0yakJTa3NFdk4xZENVZ3Z0UWFYMnFpR2U3RDFHdjR4VzFyUDVCdmozdXkxUGhtWmNUbnJreGVlbnNmSFdoOVBhQ25vMnI?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 09:30:45 GMT",
-      "description": "Salud, la herencia criminal Milenio",
+      "description": "Piso por piso Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -355,6 +364,24 @@
       "domain": "eluniversal.com.mx"
     },
     {
+      "title": "Arranca en la UNAM el registro para 90 mil apoyos escolares: Fechas, requisitos y cómo aplicar",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaW5FR3NrQ2RyLUdaT0RMejA1c0c1THJMTzNVM1NETy1raWlUMGFCUTRSTlROb3dWeWVKd0c5WEV5ZjFONTNaVDlJWEx6VklEM0tBcU10SUVTMXB0ZUdyWFlkREFPVm8zLUVMeURVUTVyQnNVS0FseWItWEU3QXh3WEdfTVA5bHM5LURlTk95WjJJdzI4UWVyaHBBS2d3S250OGVNSHpYSDRYN2hXWkdfb1RYcjg1cVc2VnZIZTJ30gHDAUFVX3lxTE92eWJraFdQUkRXc2JjMEt2R2dDVkhacE5TQTJ3S1BWeXpvcHpjZkF5cnNlbEhObXV6NzNwcEQzdDBwN1dvLVpLbUxaQ2g4eGowbFliQXVtMXowNEJ6bW91cGZtLVVRT001RW51b2Rqc0l5M2NuaTI3Q3N4RVhtdjFFYVRRUVptbEN5bE1LVnJwRHgtNmNOeUp2c2l2enloYWNqeUFsNllZVHJFYVVWTUJPNWRlZkJYcFRGRVBlb0FuMDlyOA?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 04:54:25 GMT",
+      "description": "Arranca en la UNAM el registro para 90 mil apoyos escolares: Fechas, requisitos y cómo aplicar Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "FMI: Exportaciones ligadas a la IA apoyarían la expansión del PIB de México en el 2027",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLXNKRFRsRi1aYnllalNhZ1lobXQ2cU1kWkpVekkybDd0Z2RmelVSTTF4WldleTNLRDNucVUtVlpLdnF4OGhyTnV0ZXJzRnNaUUpEdHhmQnZVem1WUFJ1SjhMYW9rWGZ3TTJueUVZT0Zfbl9RQmFyajFRaTdhTUpoWWVJdDFxVjVrV0g2TVFMQ1NXNGlESmJhMDBTOWdLRHBMamtTbzRoSi1oNTZhTXVma0Q1eHA5TnJQR3RCbE130gHDAUFVX3lxTE5aQ1RGYzh4NTE1YkI3aHctdUZkb0ktV3daeEc3Y3NOQ3pzV0JhSzkwYk1rRzFNNmthT1MyMVNKZnJBTlJJNm5NNndLNVlGS3hMZFBEMDZDRFlrLUVIMG1EOU9NRmlndUZqdFJDNHk5czlFR0d5bF9QYmpHd3BLd2VYLUEzeVVEUXdENHZ5QlJNNzdmemJiQk1ONFZvbDdkWUZ2YUw0UjJDd1pHNURZUDdsWXRXZk8xcTlRTW9fakVIaTNUNA?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 04:19:00 GMT",
+      "description": "FMI: Exportaciones ligadas a la IA apoyarían la expansión del PIB de México en el 2027 El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
       "title": "Sismo de 6.1 grados sacude el sur de Panamá; reportan más de 400 réplicas tras terremoto",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kSFZQRDV3VlhTTElybGcyVGNWeGMydTBrcHpoMnhSS2xvdG4wTnh3bGh5dXpRNUp2SFRLam5FWEdkMUp3eUNmMXF5YWRTaVI5LTFXWHg3OWw3TVduZEU5TUZOMUh5WnpOS25qVFB2OXk5RkNHMDJF0gF8QVVfeXFMTjJQQnRsNko0RHQ3ZG55d3hqRWRIUXZQRGtSZmEzbFY4WFJBYjlUVEVkR0FLQUp5T19xdFpURldHN3Z3VjJIVGxfZi1mWFYyVGJpdUd1bHRPODVISE1CdjM3OHA4T3pTOF9zd0JKaEpobHlyVVdmbVVRVXdMag?oc=5",
       "pubDate": "Tue, 13 Oct 2026 00:31:47 GMT",
@@ -364,22 +391,13 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Declaran culpable a Gabriel 'N' por abuso sexual agravado contra su hija Dafne",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVS0tT3o1eHlnMVRieHVta094Vm16Q0JxY0tNYUEyODd3WEMtM21iWkVBRjVyUFVNdUdNV2pBMHpZX0UyU3lQWlpjYkhRSVB0WUppT2ZkQjdwd1Fka3VxWnlNQnJJcWoyY2MwMG83NEhKU0VvRXdWd0JlSDJOVFpndzI1SdIBgwFBVV95cUxNRk16S29wZU1PN1l1UUs1VnlJbDktemNCOVBXZ0tGRTlYZkxiLTVvMWJBYVU1Qjg2MnlMb2ZFNU9aS3NJZXkwU2tObWVLU2h5VjFQd2FTaGFqVDJ5aXBQX285V1YxbExqQUhOMU1zZ0ZVdDltZWJFQ2pFWjUzY25KWmJ5NA?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 21:35:00 GMT",
-      "description": "Declaran culpable a Gabriel 'N' por abuso sexual agravado contra su hija Dafne Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Muere RJ Mitte, famoso actor que interpretó al hijo de Walter White en 'Breaking Bad'; esto sabemos",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0FrTEJHbnprSW1BWHNXLUZQcUhwYUdsQ09kOW5oVlZqT0diVWdTbHBVUmRFUFgyNVg5bFc5RzVIdWd0bVRnZmNtLUVsQVhCTG5sYmJtQnZ1X2IwUU5FRTFaenZraDItQTFVbkNrTXhWV1d5bW5uZVk5NllvQzdXTkJyT0VLQ1dPTFlPNUgxc9IBjwFBVV95cUxQTHNzMEFuS0s1NEJLblNFV3l2SkxyU3FLUGhzWkUxZVBLcTU3YmNORnEzemRyLUh0SkJfX1BhemliTVZUdEV2Ny1LTWxaRG9HTzBBcFpHb29TNGZ2UnA3MGZTc0c2a0p5VlJ3bEUtemtUWFBTOUEzTktfTkdZNVlaUThvX2xxYS1UT3NDSnN2MA?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:35:00 GMT",
-      "description": "Muere RJ Mitte, famoso actor que interpretó al hijo de Walter White en 'Breaking Bad'; esto sabemos Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
+      "title": "Padre de Dafne Zapata es declarado culpable por abuso sexual en Tamaulipas",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU1N5UjVGQTZjeG1MTWc4cEhsek1jb0l5eG1KenU4WUE1SEZHdFRiRFkzVXNkeHFRUXpESXBPckNUUWt6NE84UVdOUUVGeTBiYThLZEZYazZZTTVWTlFPMm9tRFZTbHVwWmRWWE1wVnBSVklfeUdjZjVxRTRKVEV6YWJPdTVmRFVMWm5LcDFpUjRnRjdaMUR4VHViV3lId1QtcGtXQXQtTE13TmFhcnJMWnl5TzdPdzNISVBHclBuNGF5U0JyN2hiWlFrdW1RSmZQNWU3WGJwcFJRWmRKNVhHTU9ibXZxaDFw0gH8AUFVX3lxTE1OVHhnRGczMUl0dDV6ZFJSTjVXZWhnRkNDbmgxaWpRdmVnVkhLQ2gzdVpLWUNtdXRHUUJaN1JGZ0ZYNFB2Z1VpU0tQaE1HZjVqTnpNYWdiRGZVcU5iRDZqUzJzNlNFWG5Oc19mYVctOWRRWF9Ca2Q0TlNWcjBScHJWMkFmalBKb2Vxc2FsUEhyd2VPWWNnSDFJaHBsblBkMFg0VkdVNk9nRTItZ0xYOVRKLXNxVzdzU2x6cUwtdGc2UDEtSHRKSEZtM1F3QXg3RW4wMW9xS2dTR21nb1ZBTFp6VE9LNWhIZ0FoSFcwWEp4eUNmM3dtWFNrVFVZcw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:24:54 GMT",
+      "description": "Padre de Dafne Zapata es declarado culpable por abuso sexual en Tamaulipas El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Meta lanza sus modelos de IA \"Muse Wonder\" para competir con Anthropic y OpenAI",
@@ -398,15 +416,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Gobernadora de Baja California reporta una menor fallecida y 10 personas desaparecidas tras paso de 'Rachel'",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdUVYRkpoUWY5cVhmNlFPWjRsajliUEhZbkdZMHZ5Yi1sY1pZdjZKUFVnRWpmRmdRaUh2T1NSMkxUT0otX3Q1MFhDUjBycjNaZG1MYUN2MEFNdnhFWXFfYk9rOWduVXdjMDFqRjZ3UmJpaUo2Nkh3LWZEM05IUi1SYXVHZnUyMEUxeFR5WkJkOVJjaHNGVTk1SHJ2UVlqM0gzbXQ3RkhWZDFWY0ZZeFZBVGxWN19UY1Q0V2ZXYXhPb05ZbU5xMTZ1VFpuaXhyR1HSAdQBQVVfeXFMTnF3MENRcXVQd1pfUGJpSUp6T1B4T25wVmZTU1lqR1VsTURIeEtMcGQxSF9NN0RoSTlOS3RPd3otOUVlWEY3ZlRsa1NlR2dIR21rM2x6NU1pSzltVHhmaWZyZVNUeFVEWjR6VTJxdE9BLVVOdVJtMjlnazRqajZUVWxVbHBxSkxlTDhDa3lJNHJqNEZPZnQtYlhnSDhXLWtxaTk2TXhycWdHVk9aNW1OY3R4ejlIaEQ2d2hnWWFfTm9OUm1sMFpsVEw0dEpvMEJnVURBLW0?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 15:33:03 GMT",
-      "description": "Gobernadora de Baja California reporta una menor fallecida y 10 personas desaparecidas tras paso de 'Rachel' Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Sheinbaum pide aclarar detenciones tras protesta por agua contaminada en Jalisco",
@@ -436,15 +445,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "El gasto “autónomo” en la UNAM. Capuchinos, restaurantes caros, máquina de chicles e hilo de pescar con dinero universitario",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU094cGhlc1BfTEtncEdVSUtfUnhtWU81TzFUZmJmV1lxYkJuWnFycXBwcXNBV25IWXRmRXhEaEVjdkpvSzlhUkt5YUI4NnFqaDlOU2daOGFiMXk4WjNCSGVBLU1pR3hObHh5a193Y2RoQWJHc0VyNDhSVFJZV1BzRUptNXVVbHk4TmVOeWFGRGttalhGWVFuVkszRi1fQ2VpUW9pNGFZVENkd1FfbHJOX1ZMRGxkbHJ4QTd2dmlsVTcwT2hwZnl1d0tBczJSXzJvejNFUUtMU0pBWExESnFmYlBDM3A5eFc0emlfWFVwbWlkd1k?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 11:00:00 GMT",
-      "description": "El gasto “autónomo” en la UNAM. Capuchinos, restaurantes caros, máquina de chicles e hilo de pescar con dinero universitario Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Piden a SCJN rechazar proyecto que niega amparo por omisión legislativa sobre desplazamiento forzado",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVHhsZXk4WksxZVBORzZYQ0FmQms4WUlfaXZnQ3NNVlBiNHBhR1Rwek10clFFU1BYXzJVZEhYU0VRZ0pGN0lwMHVnNWQwX1lBSkdELXFKc244NmswYXpFSXZCcndVNE9hMkU0Nlh6a2Z1WjA0aDdGbWM1MzJLMV80ZXB0V3dkSjBObHI3aHl6c005ZHJiSUFJNjAybk1KWThZa0toLXlMaFBocFUwTDAxU0dIUDdENm1QOVl0aGpUelJZU0hvWVdBSDYtV3BLclBSb3RHYlo0RG9obms?oc=5",
       "pubDate": "Mon, 12 Oct 2026 08:16:00 GMT",
@@ -454,28 +454,10 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Admite CSP carencias y fallas en sistema de salud",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWmxuazVibi0yWGZGVXQxMGhlOTRvUXJYWUVDUUhCYkZpOVl1MWpoU1NXYmlWeElGWk1hb2xvck9pYjkyOEthakhPUkpURlpXM1E5eDV6UkUtYjRGek9jSmxJaFdWSm9mTEgzdllvVVMybTJxT1Y2Q3doTTBTVlV5WGZMWjltcS1mSFFV?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "description": "Admite CSP carencias y fallas en sistema de salud Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
       "title": "Ojo del huracán Simon continúa avanzando paralelo a las costas de Jalisco sin impactar tierra",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORW5qY05XSzEwTUR5STY5LWloeEtjM05lZTdsM2QxdmI5akoxc2poTzZ2bXlCVzdGM01ZMV9RNU1EM1REcXVxUDVrNG1QcUdkaVRaZ3luaDdJTFdSQ1JNVlhvWmNBSlZ3RUpPTlFFU2h4eUFSMFFqSURZZW41Q3FZLXdieXVMMzU5NjFtMmQwNEhoTlp6Qi1oSnlwTWI5aS1DcUJwRGMwRk9TWl82ZHpXbUN0MkxyUE9DVFdmVTVFQ2dsbHRVU0tUNUY2a3lTeWZHV3k5etIB2gFBVV95cUxNR29VNjFFR2Q5SEhnc2ZvWjJGZXBjY0htMVVVTU1FQklsUTE1NXZJelJZdHBQci1QOGVaYWhSQjRyRUxWMWIwODc1eUpjdzdSWmlWSVdMRW1uMnZMeFpMOVk4Y1FJenBfQ1o2VTlnVTJlYVoyVGZzcU9jLXA4V1V1QldlNEE3ZHUwUl83Z0Q5OFRvSWlLLXNhMXhPRFF3djZwV1A0VGJGZ2wwMkJIWWNxdTlpTmpXbXpKNzVVWjNJVWdmOU9wOW16THFZX2pXWm1QSXpZZnhPNGExQQ?oc=5",
       "pubDate": "Sun, 11 Oct 2026 22:35:48 GMT",
       "description": "Ojo del huracán Simon continúa avanzando paralelo a las costas de Jalisco sin impactar tierra El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Chocan policías y manifestantes que exigen agua limpia en Guadalajara",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2taNllWRzN2ejk2Yk82bC1kVzBla2VhU3JEZHJXLTlYVTJxRkx5SzFnWXFtWGhUaFJGTV9CaGRoTkgwalR6WXpVcGlKMnhfWHpMaHNodkN5dHFvbExvb1ZSYUdWTmFSbUIyVm94TVF6MzBTVk1ONmk0QzgteVh6MlB1MHoyM1daVkVYa1NNcUJlNlhQSk5OUVhySWdvZmFCMW9kRlRzbi16WnB0V0t4S3BrZ2xtRUppTFhiV0F30gHDAUFVX3lxTE15UGhRcWktMlMtc1cxeUgwMnZkbWFmUVhMZ3gxM1JGcmxldnFHcThZNGJVNnJKQXBGQ05jVTdvSU1nMzB2UllwZDNfVkl1T01JSTFVX3lvN3daWXVIdFJvd0d1VkxfdF9CZ3FYckJ3ZFJwUTNKQVVkNUJ3MlJzdVo2OXh2TVJQcEFPY0JRc05QdGpoZHBEZTVCRG4xUEZmRkNERGgzcGctbGhvaEJtNXpycVlORTBFRGVWZWlWUmw1eWl6WQ?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 22:04:19 GMT",
-      "description": "Chocan policías y manifestantes que exigen agua limpia en Guadalajara El Economista",
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
@@ -499,13 +481,13 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Familias de Chenalhó piden auxilio: denuncian que grupo armado las obliga a pagar balas y a sus niños a consumir droga",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNeEZRY1dxU3hSRUFnWVV2TklqMTZNZHJNd2lIX1ItTzNZWVN1ZF9pWGZsQTNJSEVpMjh4NUtXV3Y4S0JEOFlscDZvNGtmLWRYc3hCT1I3eXVJNTlpb3gtMkpVTlBYcTNVcFZuQVRTb1ZlWWxEZFU4SmZfN2hLUlZNdDFTSTlJcEtxTG5yMFU5V1Z1U0dwYjBUdXpHMUlIc0JkVTJheWlLdmlXUllTa2l3ZjFoQzFpdTc0d096WmxXOGtKSWpLLVVRWTJHOFM0NFN0clV1S1pRSnlsZHJUZ2NBc3lzUkNJNDMwZXg5RkdXZVhJdw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 19:22:00 GMT",
-      "description": "Familias de Chenalhó piden auxilio: denuncian que grupo armado las obliga a pagar balas y a sus niños a consumir droga Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "Niñez migrante, promesas de papel",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oU1FFVk5jMUdEX0VoQ0pGVTd5LU44aGl2ZVpNMzBjM3dXMGhJRFE5cTZJc1hvcW94ck1uaXNuZEJUVFdoTndOWTFKZXZsX0xyb21IdDdjMmhkNGtnekZXTDBxSndnOHlQRFBqTzBPbHY?oc=5",
+      "pubDate": "Sun, 09 Jul 2023 07:40:43 GMT",
+      "description": "Niñez migrante, promesas de papel Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
     },
     {
       "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
@@ -513,6 +495,15 @@
       "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
       "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
       "source": "NarcoData",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTkVzTE1oWFV0YWE1cWwyZVFxQU1RMUJpbXF4V1I5Q2ZiRkQ2cXJRMUd0UThXaVpmeE41YXlZR25tYWhINXBTWDRndUZ1ai01azZIZjBQZ2V2bGFvRFlyQjFpM1UxaG5GSW5OeU5sU3h3QldpYkpxRUFUYw?oc=5",
+      "pubDate": "Mon, 19 Aug 2019 07:00:00 GMT",
+      "description": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos Grupo Animal",
+      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
@@ -539,6 +530,15 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVi1FZ1VlaGZtZmJZT1pIZTQ3VkVSYzJPSVBfM2dFbk5JcURscFJmZHBJYUJVeGZqOEphLXRoWlpMWUNjNTliRWR0ZVVZT1d1djFWT0hocnp5NmR1WnZqNE9jb1NvOWJWcS1vTlV2cHotclRrVDJ1VkFGdGN6cVNPX1l5dDVWOUo4SHk5dXNsZHJuRFhpdXdfZUQ2TmE4NHRf?oc=5",
       "pubDate": "Fri, 08 Nov 2013 08:00:00 GMT",
       "description": "La transformación de un veterano de guerra alcohólico y sin casa Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "¿Quién es el modelo de los spots de EPN?",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBydC14cW8tdHpOQ3VCc2JXZGI0ckVHS2IzMGUzN0JDdHFPYmpoWWtUOVFqM1Z4QTJjT2I0dVQxTmI5OFViMzFFazFyNmgzUWpXdzI5TXd3eV96Q0N1YnpNY25naGR0ak81NmVERnpPV1I5ZE9Ya1BDTWhFWEE1UQ?oc=5",
+      "pubDate": "Sat, 28 Sep 2013 07:00:00 GMT",
+      "description": "¿Quién es el modelo de los spots de EPN? Grupo Animal",
       "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
