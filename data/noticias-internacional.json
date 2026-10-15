@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:46:45.973Z",
+  "updatedAt": "2026-10-15T13:45:09.519Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,22 +64,85 @@
   ],
   "items": [
     {
+      "title": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hV2xDbnBYVUhWVEctVE1weHVHeVh3NkVhUFdIaS0zWkpJS0kySHVaSzM3Nmx4Y1lBbjJSSnZMNWd2cFZpQWQ0TTQ2dGlLc0xHRmFzMlNfeTBXNmM5?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 12:02:23 GMT",
+      "description": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Miles marchan Colombia en primera protesta contra gobierno",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzhLY2k5cktTekZUa3FVQUxxWDdOYnlhOGt3VUJySS1Cem5iZjI5VE5FQmJuVTR2Y2hSYmhPVUZpaVQ5RUpEbTloM1hEMVFyMEF5S3VrS2E3THJjZGppYzBBd1Q4eTVuWlhId1dMLTM0NjhZMlZmNDg3RnQ0TV9ZZlJoVzZ1SWF2SkZvR3pYTHc4ZzhSX2fSAZYBQVVfeXFMTXNabkR3WXN4eWlkb3hBOWZUa0RPQm1pU3JIS3JVVnZPWGhRTDI2aE8zRjZHQzJqeHNMbl9va3F3aEc4YVZYY0tkZ1Y2c0Zub2pLMEgxT1RSbnk0V0gzZUQ5UVBnenV1T2paMEJWbTZQQlA5YTJrUlg3TV91UlJjUWd1blRjVE90OE9hYTV2c0U5T1FLaDdn?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:54:45 GMT",
+      "description": "Miles marchan Colombia en primera protesta contra gobierno DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Mueren más de 30 niños y un maestro en Pakistán tras el derrumbe del techo de una escuela",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95TW5nSGFfczN3dE5zcUQ1aXdPTktURFlicWdncVMyUHRnZHRicEZnWEo1akVhMmdCM043dEJYT2J1X0pnWXFYNVZ5T2R2WEswYzd4X01LelI1akZT0gFiQVVfeXFMTUd1NWhfSm1ibUJjUlBFcVM4TUN3YkY2dW9oVGJVM1RBRGdfd0VLUXNWYzlqWndXS1Q2LWVpQV83clFKcG9oSmJyY2RtVTF5bWFzSnIxa2F3YU5tRGdQZjlZUkE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:32:13 GMT",
+      "description": "Mueren más de 30 niños y un maestro en Pakistán tras el derrumbe del techo de una escuela BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Brasil aprueba reducir la semana laboral de seis a cinco días",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTG5iSjJJWnBUR1psb3Iyc2d3cTZHNUMweVFTYlhLTVV2SF9pZ3ZGUmNwbExyNG5mRVRLOGRKbUJIVnRHZVRPbEI1aTRwQUtTOEZLeTdpeEQydWdocVJ2WnI4UkxVYUFMbzlIS1VRT0pCSzBVTEllOWNrOGhaMXpZSVg1SG1LUUhiR0hwWlktbzkyMEFOVm0ybDlaM1FCM1Vt0gGgAUFVX3lxTE8tZnNXdW5CS01QYWdhWDJ3ME5FaDAwMWhGUHlWQ0x4a0U5WVkzSDRZbXkyNXpaRm55dVRRUmtGQWN1d0dsMFJLY2p4Wl8zV2gxa0RMTmlpbk5Nam93RV9ZSW15ZThHbDg4SksyeTFuQThGbjJsanpsX3NyVDVTcU5NaTlyejU3VV9taUpqMkZBMEhpLXhyVWNUQVE5NEV4T0Q?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 08:03:32 GMT",
+      "description": "Brasil aprueba reducir la semana laboral de seis a cinco días DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Exclusivo: Estados Unidos considera usar la \"madre de todas las bombas\" contra Irán, según fuentes",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzkzYWI5ZEE0YUZRTU5OQVBxLXgxSU9MWTlTQTFpWTJNYzdMSHJzdzhPRzBTUXJzLVVNV0gxUTB5clNyNTVTTTk4UnlNNV9ZMUpRVzZ3MjZ3Smo5Y3FQNy16bzVqc01qOW5UbzhyYXpjTU1JUHdUZi1MOHRUUkZRMGRuQmozcVhyQVI4eE5B?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:11:00 GMT",
+      "description": "Exclusivo: Estados Unidos considera usar la \"madre de todas las bombas\" contra Irán, según fuentes CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "\"Un golpe inesperado\": un impactante diagnóstico de cáncer genera incertidumbre sobre el papado de León XIV",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWpVbkxvX05rQ3o2eGw3Vk9zemNMemJnNXJwNG5JOEZic1RmLVpUN0RWR3BNZ3BCZ21QNHZYZ09fRjduaFRfVEMtV3JzUEkxeUl0MWkzeklhdlpoUW5OaVQzbHlHcVpTQVJtRy1kU0JOb3NuS0lwcmk2VWlvRi1YUnJ6Q1phQ253NEtPcEhR?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:40:00 GMT",
+      "description": "\"Un golpe inesperado\": un impactante diagnóstico de cáncer genera incertidumbre sobre el papado de León XIV CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La nueva estrategia de Putin que busca que las ciudades de Ucrania sean invivibles",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZGo5WUhzNVByNHF4dWxzTW85bGNQeXpDSlEwb2tJREozMGREcG1aV1B2TDlnZG54Q0QxcWVpRmFxa3VkRFV6MmhNVzYxYnN5SlZnN25wOGNzMGFk0gFiQVVfeXFMUGd5dmI0Q0Q4NUJNRWx4S2JLTDc5WUI0NC1RNzhIa3NoNWFkVU1fV2h3LVN2NGpmemZuNFNib0RHZGxCXzMxZzhMU0dHX0FEdjFHSDlEV05NazYzMHQtZTdtSlE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:21:24 GMT",
+      "description": "La nueva estrategia de Putin que busca que las ciudades de Ucrania sean invivibles BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Cuba publica Ley de Vivienda que pone fin a confiscaciones",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTRPWjVmWktDR2pCbl9hQ3U1MDEwNDVSenhabDhCTGpMeU9uOWhhX2RqVmo5TzREcG1yNFdxN3BGQzQtRDlHeWN3QUNjbUltWVRxV19QZE9pMmpfMTY4ZVFhbzZBSnAyS29FU1JsRzVLMWZNX0hPQ2JzaHZTNXN0c2cwY2J3NTd0bHl2UGwwSkZVQVZXSUHSAZYBQVVfeXFMUHdnWUxOc1I2b0E2ckpIMl90aU51VDRKZ1JQa2xtSXVmNGZESjZ6VEdDU3VtX2NQdVJzU3A2UTZRWlFoVDF6dFh1VHFfeFJxeWpYSTg0aUNPSWZkbXNGdjVsckx3WjJ2VDEydVhpZWxwSUl0NUZjdkZ6WkVCbjJQWTh3azBBZTVrUVNnTGVyb3RjdEFFYkJ3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:18:07 GMT",
+      "pubDate": "Thu, 15 Oct 2026 02:19:12 GMT",
       "description": "Cuba publica Ley de Vivienda que pone fin a confiscaciones DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IcmVxX1puYjZfV29jbVR0al9BRGRsQjR5VGVGZC1vQkt1ajFIeE15cUlBSFFsNVR3ZklGcE5JYmprNFdsaEYxY1NYcnJvSkVSUGhPMVpKSGhSSzZQ0gFiQVVfeXFMTWZXTmY0TXBkNGtiTGlFUlZLTnAxRU43ZE9YMkIzbFRSLVVMTmtCRVFHNUx0WXZTei1KcDlTTFJpTFA3Sm1vVC10cl84UkhQZndWU1IxSHk2TldVeGxqS000cVE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 23:01:18 GMT",
-      "description": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Las razones tras la caída de popularidad de Kast en Chile",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlIMWswVEE5SFh6ODY3TTcwdXZ4SG13X0FQSURYdm5CR2ZMQUdKNWpGY0lscUFGeGp5dm9tdzJtNG1NeXExS09kRWpWYlpSMmR3Y01YWm9KdW1HSzg5b0RwS3lXX0xuZTV1M0dVSjBNWUxoS1p0ZjZUa2szc2lMU1pITGdIeklGZ3VnRmR3cmowMHcxSGd3dm85Z9IBmwFBVV95cUxOM0ZGbGd3RkV4Z0U0d2RlSEhZTENELVZCRkVmNTFmQ0F1WVR4UU5kZVZyY3hLS3c5TEwzZ0RhMnRsa29JYTNrY3NKZGxWUTVHMGNEbWpoV2ZYMmdWdldUTlNvamRsb3BvMHcteC1CcUFINmFCdDF2bklvWkRQZEg0NHlaOF9aVzdvMUdkbWJMdmFUM0c5aVhURFVvQQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:02:52 GMT",
+      "description": "Las razones tras la caída de popularidad de Kast en Chile DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "EE. UU. está enviando a cientos de soldados a América Latina",
@@ -91,6 +154,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "¿Qué es Starshield, la versión militar de la red satelital de Musk restringida en Ucrania?",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOXzFoUnhjME1kWTJTSnFjQTc4UFRKTzFVdURYMFJ1UE9kNEtUTmZOV2xNNXB1S3o2bjFnUi1oOF9rTjh0Skpxa1VaNlg4UkU2VFpwbnVuWHlmN25EbXRYMU5XMm5NbldRYkVEcWw1bWZNLWN6SXhaQmJpY2t4ODJnTmV0SWFzN0JRbWFlenZmajN4UFRBMnpVQVpfUzJPSWxEQTVyNUVqeFJWaVlHNEpNWVl3WjMyY25PRmpjX2Iwal9mbEZEMnJuVEQ1ZzlnRjZLZU45djZ5OHA?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 22:12:00 GMT",
+      "description": "¿Qué es Starshield, la versión militar de la red satelital de Musk restringida en Ucrania? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0eldiOXZnVll3WTBQMFhhNFR4YUhNbmV3eHlkeGRaQWlnaGlyZUg1aVgxQlByQU5fYkFHX1RtZk1INmlXZjNtMTVPUjlJR0hTUkN5WXlfTHozcThC0gFiQVVfeXFMUEF1TDcxdW45R0s4Q3JYaVhrV1p5TW1XTkRWdDRZcERLdGw3Vl9WalRndjZRM0ZBazVBbEt4UDVjOG4tTzNycVN1V21QWkx4M01lVGNtLV9hRV9feVRxaDQyaHc?oc=5",
       "pubDate": "Wed, 14 Oct 2026 21:56:18 GMT",
@@ -100,19 +172,37 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas”",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMFgyVVNFbVRqZ3lWeGdFanB4WXJlR05wNWczd3Zxei0zMFota2RpdVVESmVXMVJXQXRpUEV5VTZvRmtHUFBPSUdqYkhTSFBpMkxwUTZMSkc2UVUxVEh0X1JrNXM2cVllOXJEUlFPNzdPQkl1OUVrLTJCYWM0YXlVajQ4aDc1Q0dvSGlxelBveEMweDRpcnV1Q1pHbTZ3a0dtOE1ZMDZKenc5OUp6RE5pVDlxRDktT20xUk5FZzZMMm9SeW9WdW840gHbAUFVX3lxTE03MDdvV09Lbk9xLTIySGFGbzJxdF9oejUtUDFBejRwT3NKYUVNSVJ4elhRNHR0bUtpUGcwS1RpbEtYQXNrNmZoTEF2bGczQ01oSFYwMUkyQmFTcXRHNlowVUF4S3I3d1l2cjlmNmxiaDJNbzltNklZWGNXRlpORDd1UUU1SlhEZllob19lYXFxQWtXZlRCel9JRWFyaEx4d2JHTW5zajN1dTZPWHg5OHN5VXNoNWFBaVhTaDRhcUdaT191NHZhemhOcHc1UVp1OU5oUlZ6WUMwalBTRQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 20:50:45 GMT",
-      "description": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas” EL PAÍS",
+      "title": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR01hei1UaDZKUlIxLTRVdklhMVRKNWR2X2xYalhmOVlUS094aEdyUGJUMjdRbXF0ME1abGxTeXVTRzdTazl3bEJEMjJDeW1lbk9mSm1VQXFsMV9ubWtHdFBMeUJvWlN0ajR1N1FKaGs2R0tkeWI2bDlWZnR2S3FDdkozUGJIOVgwNk95anpRTEdEQlRWaHNDaGxYSWN5d1HSAZ8BQVVfeXFMTzN4VmlnNzk4VERZdWRGU1JlajJCTF9NakJpM1ZzUHNrd2J6a0pmczJ6UEZYeFh0dDNJNzB0RXYxc3dJempzU3Itb3p2bE0yVXZnSG01R0FIUExYTmdNU0FUVUVwZXJCU1UxZ1dIZkZVSGhOdmRQNjNQU21KTW1pZm4xOGRIT0luRS1hMlFTc3NRZkxQSDEwcHc5OXdPb2s0?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 21:35:13 GMT",
+      "description": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El abandono de la justicia mexicana a una víctima de violación: Daniela denuncia que el mismo político de Tijuana la agredió otra vez",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNb2sxeklVVnF6djlyYnlHNzlXOEJUbDd1SzlBam1DQ2xSWjhFZldoajFuRUhHRGhPNWc3VFBrYXdFOHNWNFFXSGJ2dVM1dkRuYllWVEt1blU2dVVKNldwekIyX2NzeXo4bF95US1KTi1JeE8zWFV2d3FPczNvWVlmVUFabDFjTjJ4b2RoNzNndzhyd2ZKQVJodGlZUXNieGVucWd3QU5aUXFVNmpMNkx0SE5uSkRoRU50akpHRDMtZVlULWRNRm9TM3ktb2kteEYxMFZfSVB0ZU1NVlhDQjl1aVZKbTgxa0ZoVVI0N292RUNxME9TSVM3MXZJdWtGSzVuWWpYWNIBmAJBVV95cUxQYWI0Z2lLSHdCM1FHeDl4YzViVVhscG9fVDJFV1Y5VVJhRjVLNE15cWg5WktSUTZSdnlBUHFCNXM2MTdpaXdfRUNFUHVvSXNfa0VORUg3dm5SMXdsemNubVNEVE5sVDFyckhMd3hJX2lKOGl3b2dRZmtlbGw0SXNyS2FFOE44SG1nc21HdnctVXFUMWo1YXlhUHkxc2IyUHlFek9sMW9VVUc4Yk5oYkxLdWw0QjEtQUtEc05CV0V4b0o0SlBybWlrOTZPX2o4UnpobDIwWG5CTnFjeHJRakhZVXdkTU15UUdoOXdUOHE5ekdnb3doaDdoUUVzb0FtNDBJY19mRVVuZWdHRWVaZzVHUi1XNWxYOGRo?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 21:22:17 GMT",
+      "description": "El abandono de la justicia mexicana a una víctima de violación: Daniela denuncia que el mismo político de Tijuana la agredió otra vez EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "La audiencia de Caro Quintero termina en Nueva York sin un acuerdo de culpabilidad",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaXZUcWVpdFJGanMxMTlGZDdsZEhBMzNFY0N6NjBUTHUxNDhJTmU5ZkQ5b24weWRKcWZCcnVIclVhcTBxRTNVbXVUZmd1QmtqaXp6VHY5ZHVHZDg5RUJRYXZaQ3RCSURBWXBSc193VjdfR3JzcjBfVkJsaFJ6cmRWV1dGaTJtQlNJYkoxbGdYaHBCbEJTNDRuQ3ZRQ2c3ak10dlZSN3Ffa2VtVGU4NWRZTUlSR2tJdjYzWTVoNEpfS2xtUdIB1gFBVV95cUxPd0RRSnRaUm8zMHh4aGg3QWdfdFAybWJTQmUwTmxpUnFydkVJbi1ZY1puX3AwbnFSUkVBa1hKZFo2a3c4UlJMaV9lVkxRVVRmZDNyT3VVX2toWlNaUWRmZk1PRE9GYlZzeEwzXzFOMVRPbm1TUlVCQzE1Zk5pV05JaTRzck1ueWFSbnc1Q3IzTjZ6Y09YckdYeEVZQlNTbDNicVlhcTBkOW5NdURuY3BaeGN6TGVsT04zTVoweWh4NklXNXhXMlNLcDhPcTVIejh4NWlmZlZn?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 20:09:07 GMT",
-      "description": "La audiencia de Caro Quintero termina en Nueva York sin un acuerdo de culpabilidad EL PAÍS",
+      "title": "US company announces progress toward resurrecting the extinct dodo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXpTd2FjSWZKQWZXVEQ5ZFhnNTdIVnZxellBRW9jOVktaTgzaHh6ZzlLX3dldERXSjN2VzhTWUZuRVduRndNSHVYeGphemI4QkQxSHNBZGhUdExCd000dlNmV2hBQnlJcjRwTWpub0xuNzZKZVQ0Nm93VWhwSU05cGRuZFRodVlKYkctLTYtenYzbTNhVjlpUmpQSU9NSVY2bnB3NGdnMmdYUQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 21:04:03 GMT",
+      "description": "US company announces progress toward resurrecting the extinct dodo Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas”",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMFgyVVNFbVRqZ3lWeGdFanB4WXJlR05wNWczd3Zxei0zMFota2RpdVVESmVXMVJXQXRpUEV5VTZvRmtHUFBPSUdqYkhTSFBpMkxwUTZMSkc2UVUxVEh0X1JrNXM2cVllOXJEUlFPNzdPQkl1OUVrLTJCYWM0YXlVajQ4aDc1Q0dvSGlxelBveEMweDRpcnV1Q1pHbTZ3a0dtOE1ZMDZKenc5OUp6RE5pVDlxRDktT20xUk5FZzZMMm9SeW9WdW840gHbAUFVX3lxTE03MDdvV09Lbk9xLTIySGFGbzJxdF9oejUtUDFBejRwT3NKYUVNSVJ4elhRNHR0bUtpUGcwS1RpbEtYQXNrNmZoTEF2bGczQ01oSFYwMUkyQmFTcXRHNlowVUF4S3I3d1l2cjlmNmxiaDJNbzltNklZWGNXRlpORDd1UUU1SlhEZllob19lYXFxQWtXZlRCel9JRWFyaEx4d2JHTW5zajN1dTZPWHg5OHN5VXNoNWFBaVhTaDRhcUdaT191NHZhemhOcHc1UVp1OU5oUlZ6WUMwalBTRQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 20:50:45 GMT",
+      "description": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -127,13 +217,31 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Sheinbaum pide a la CNDH que investigue la represión en Guadalajara y las denuncias de tortura: “¿Quién dio la orden?”",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZUlnMmpodHJUYjZqUHAwMmFOVDQyalVfcUZ1elBLZFRYRUg5MWdLdGFCSjBQZE9admhJcHJtaHlYYWdJU0ZJSGVrVnI0UEZEWWI5WDJmRHNOTEZ0X1pkZjdRalZLZVV3SmNtM1RCOHFfOTdUbjczcy14VnNjY2JZU1RFSTRVMGxXLWRZd29EQnhxNHo5R0hyWW9DMWhGZUZ0RFJHOUxWOGs4OGRTQ3g5QkZpSGhoWS1TYnp4cHhkRk1lU1VvRFNwWnppMml3NEd1SGxIMG1BaHRTelpxMGl4UDNkMmFETGpFTk5r0gH_AUFVX3lxTE5RNW0tekZXUEhqM1pYNWRLRTgzX2pkOHNFTDZ1NGlreEpZRVNBQXIxY1doZ2xXd3d2QnZ0Z0tIMEhBUlMtV1N6TFNEcHhUUjhicm9LSTdkOTNzYjRSVWtwV3p1NFlIeDY2cEltUHdibG9XOXFvYkVlMDdUQ1JTMGRsdl9hMV9GcEhJS1hVWWtJbm9kWV9QdmsxUDlhdTZIU2R1ZEFyRHNwSFU2T3ljSEZ4dzBRbGhhM1pkR3FLN1U3M1FIdnpnZ3JIX0Vjclp4dmVSQkZ5LUlJaUlRSms1U2lHck9wY19CLUJNbGI2X1RRa2xuRU5IazdrWnk5R1c1SQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 18:22:34 GMT",
-      "description": "Sheinbaum pide a la CNDH que investigue la represión en Guadalajara y las denuncias de tortura: “¿Quién dio la orden?” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "En Contexto - Pelo corto y faldas largas, las medidas estrictas de Keiko Fujimori en las escuelas de Perú",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ2RJbmRKYTF4RjdXM01HS1Jld184aFgzczBzc1lKSmJZYUcxZDR5RXNpYVVYT25VSUstSF9vQ09YVFNpdVRGWTI0bDBmR0ZlS3pmZXBSWXdrWklQRjhJeFZmRi01MDVEdVRpV3BudmVSaUlaSURORk11MlJ2OU84NlYzaGxPSXM3UVRWcU5BSDVuSmJEamg3QWs3ZFk4YnNMMFBlNFlhcS1EYnhURkJJLVpYRmNySFBfcE1CS0Y3YWZQNXJGNmY2U3BMUFJUTzV3VFBmZHREX0xrQ2RCZGZidlEySjRlMWtFNmc?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:57:21 GMT",
+      "description": "En Contexto - Pelo corto y faldas largas, las medidas estrictas de Keiko Fujimori en las escuelas de Perú France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Trump intentaba que los precios bajaran antes de las elecciones intermedias, pero Irán también tiene voz y voto",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTFF6ZGdXdU9xWTQ2c2phNDhNdmFzUTAwSXh3SEplX0JpMFZNdHVabnhhaFJKckl1eXYtMlM2Rnl4ZHJCRWRvYmR1d3pRM0s2N09lUUpFNGFFV3dHSFR0dEE3a1JpWWdadDZmNEtNbFBLNHBZWGFKQWRRcXZuaWtsLTNuTQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:54:00 GMT",
+      "description": "Trump intentaba que los precios bajaran antes de las elecciones intermedias, pero Irán también tiene voz y voto CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La impactante foto de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TLUtMNE5VRDNjUjlpajhWWWdsNXZSZWo0T2pjZXIwSUVING9UMmRTakxUVjc2RWozUlpkTmVPY0E2SldHVjFVSzY2WXIyV2ZsNnV5blBja1RydWpa0gFiQVVfeXFMTmhFdUpuenFmUVZiZ2dkWmRzREw1ZHRkdmIxcmhieWlOTnRGTVhqTmlMRVcwVWxLSExjWFRzc0R4dTdiZU9ua3ZiUkRKWGIwNnA5Z0NoVEs0aVJKWUdocnA0emc?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:06:18 GMT",
+      "description": "La impactante foto de un migrante cubano sobre una pequeña balsa improvisada frente a la costa de Florida BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "‘Digger’, el gran fracaso de Tom Cruise, es una obra maestra encubierta",
@@ -143,15 +251,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Juicio contra el actor Russell Brand por violación: Fiscalía lo acusa de ser un “depredador sexual implacable”",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWmhaeDByZlY3N1BTQmxqRFUybUNkbl93OFp6aTdFNkh5bkhlRGpPOW5WNDFWNmwyWGZScWRsdENodmp0dmxudjFyelBYbTFRT3BYZGg1cF9KZkstWVhONEUydTdOY1Y2YjJwaVpndkVKMjRaaGtDTlJvaWZoVVZodV8zUmhxY0JhV0FFSnFLRGFfeHdYNDFRU2dPd0NRTVBBLTRMbnZiTG4tVENBMDd4U1RQZTREa0R2eVRERjFoU0hTT0x0NHRDTGYxVzRTamQ4emFLTU1xeEVmUzlPMTc1LW1vTl92Ym5EQzVyTy1HbGl3Vlk?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 17:44:12 GMT",
-      "description": "Juicio contra el actor Russell Brand por violación: Fiscalía lo acusa de ser un “depredador sexual implacable” France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "El papa León XIV comparte su primer mensaje a los fieles tras el diagnóstico de cáncer",
@@ -172,22 +271,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Este es el verdadero problema de que Katie Zacharia no sea realmente \"abogada\"",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UR0JHallFR3FDWEZZNmtwZjZpWWg1SFdfdHZWa1pFeDZqQkdBamZ3bDJYVU93aFlOOEtRamU2aEZBODRHNHF3cmgta3J4OFBXbldUVmdBakt1azBkSXR1LVdkYWFYbzVOV1VUVjdBZW9CVEV1Ni1mQkVR?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:20:00 GMT",
-      "description": "Este es el verdadero problema de que Katie Zacharia no sea realmente \"abogada\" CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GcnpleHpUNjgwRmoyOUtOZ3d2c2lfZVRFUjgtVXp4X210bEFZdENZajRuTDBEYjRqcFFmMjJ4bmxzTVppajN2N1ZjcjNwcElVRVpETWlLNktSRnJP0gFiQVVfeXFMTnIwdzhEZXhmSXFsQXR2QzdydmxCUXlGbWRIV0ZaaDBaS05KRHBHaEJ0a2NBQWVvWHRvRVhpMV9lYWItQlZveFpoN0JoVG1rMjh1MHAwWUhlejg1aDJXRGVOV2c?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:22:48 GMT",
+      "description": "El impresionante hallazgo frente a las costas de Turquía del naufragio más antiguo del mundo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
-      "title": "La psíquica que hablaba con los perros de Javier Milei",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmVTNEloa0FFOXlJUWNBelhmTjMxb3NNU0hJTnMwbjR5YVNRV212cm9VTV9KZGxQa1d5U0NOS2t3dTFYY20yMFRHa1JCLWozeVFVbmdXbVMxclAwRWhRU05yMlFGMHg3TTRKY0hMRDZfeDV3RTBDc185X1k1aHQteUxycDVxWXR1ZEhnVUZ0dldCd0ZVTmtQWFFKd0FJdw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 15:36:42 GMT",
-      "description": "La psíquica que hablaba con los perros de Javier Milei The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOekZrTUJ3RHJoT1l1ZUtyYk1rUDFUVmdJQXBNTVRqMXByWHFyRTU1cEI3OURMbEo3c2JkQVJLMzVaaTUzY2ZkeGhXMWVwdGcxMFV6eGY0VnQzMnEtRXRyc0YxQTFEZWZFbHFNQ0tZWUhXVXlmbXJQRXFxRWJDd2QzMUxFc2U1QWFtY2tyTUNieXVaLVF5QmhZdFBsX1pVMldHVFl0cUIyaEFDS3c0aXBmS1pIRU5PT09KRWVmWUx2Nlk4R21oY3RnY1lVU1lpNURlOTFzQmViYU_SAewBQVVfeXFMTkgteldvblUyekdna0FLRDVGdzVBdVRPODItOWpjX3ltb1ktVHJid0xqNDVRMXJhQzZkMnFNV3hqM20waVNyUlh2T0NhXzZJaGsyNEc1Um45dGRQcXpUNlBldDctT3hOaWVpOWpINUZMVTBxVE01ZHZPazlEWEJfZmFUSUU5RVFMaFQzTGx0YkhTQ1k5cWR5YjFiZjVTZzNFcnJvbFZMSHJHTGJ3NUJNS0ExdzNIM0QzWXRiYzZpRlBhQlpXZ2tNcGZ1dUFWR1RrYWdHTVNtT2JqUUVERllxQ0dRdnB6OGpEakp1aEY?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:21:31 GMT",
+      "description": "Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "La oposición colombiana denuncia \"intimidación\" a las protestas contra el Gobierno de De la Espriella",
@@ -199,15 +298,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Las razones tras la caída de popularidad de Kast en Chile",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlIMWswVEE5SFh6ODY3TTcwdXZ4SG13X0FQSURYdm5CR2ZMQUdKNWpGY0lscUFGeGp5dm9tdzJtNG1NeXExS09kRWpWYlpSMmR3Y01YWm9KdW1HSzg5b0RwS3lXX0xuZTV1M0dVSjBNWUxoS1p0ZjZUa2szc2lMU1pITGdIeklGZ3VnRmR3cmowMHcxSGd3dm85Z9IBmwFBVV95cUxOM0ZGbGd3RkV4Z0U0d2RlSEhZTENELVZCRkVmNTFmQ0F1WVR4UU5kZVZyY3hLS3c5TEwzZ0RhMnRsa29JYTNrY3NKZGxWUTVHMGNEbWpoV2ZYMmdWdldUTlNvamRsb3BvMHcteC1CcUFINmFCdDF2bklvWkRQZEg0NHlaOF9aVzdvMUdkbWJMdmFUM0c5aVhURFVvQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:54:57 GMT",
-      "description": "Las razones tras la caída de popularidad de Kast en Chile DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Ucrania denuncia restricciones de Starlink en el frente, mientras Rusia escala su asedio energético",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2pTTndheDUxUHBkcHZsWlppaENDRXRTSEdldUVDQVp2ZEhTcUEwMGdhREF3ZE9vTmRacVRpUVJURWdKc285TnBtVkw5aElmSXdiZUJlSzd1cGlOblBwbnJfMDJaT1B2dG5LUFoyX3BSWG1rV0w4OWFWZUQwNUd6V1hOUHZ1ZXIwdWlfRTFlZmVRa3EzOEZaemM4REpwRjc5SEhqeER0RFVtRkxvMGxKZERWcTM3UUZBYXQxbW5TVmhCb05Ob2NFWnN0Y1kwZHJod0x5MjVFaEVzbENJMjgwcw?oc=5",
       "pubDate": "Wed, 14 Oct 2026 14:25:25 GMT",
@@ -217,40 +307,13 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Seis cosas que debes saber sobre El Niño según los científicos",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjMteFVyRzllcEUwX3lqNXRLTjB1cGU0LW1oRTZIOXZjTGpFbmw3VnNTUHZoSlRCeW5hSWl1WW1GbEVvMTdVLXk5empGVTJuWFdDSUlGeEFENld1LVdtdkVuOUhFbFRNdk1nMHlnakhGLU4tZG1sUGpwa2t5ZTNmZDFmS1BZLUxtT3UzVFJ2T2ZWUGM?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:05:00 GMT",
-      "description": "Seis cosas que debes saber sobre El Niño según los científicos CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Top economic adviser says Venezuela aims to publish debt sustainability analysis 'very soon'",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ1lFMnZBTXJ2UC1VZG96Mk1UMHZmS2JjWXBwZDFBME9HRC1tX0U2RC1wR2h2RGgzdlhYU3hwaXhnTVctclY5dDVPYU9NeWhCalgxWHNscEtmTW83a0IxSmZEdkdnOEk3UkstUVBzcWJGc1JmaGp3NGEtczRzYXJJWG1fY0NOQ25tSjFtM0tzY2xBY200Qlg2UFFvRk13NTdBSDZWTDZEeEhjbHlDdHA2VXVUUkNnNVFZbVFsenNMVldLRGJoMkYyaA?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 13:06:11 GMT",
-      "description": "Top economic adviser says Venezuela aims to publish debt sustainability analysis 'very soon' Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "En directo: Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia",
+      "title": "Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV0llNjZfbTJkX1RwbjZmdzdqTEZJNVpEOUZWVkRzQW90NDA1NmtQYm0xRENZdXY2MHFhd2JabUJhdDJQdW5LaWZTNHhmdGNLelRGZ01QdDJobERzZTlBZE15N2JPUXNDSk5LYzN5RU1GVzFYS09LYlN3bnM2bDY0ejZDSTVycXFobXpnanJDM0xGNHRlczB2TThxTGhvRVNGaFB5R0d4UnA0TVJFUFFMaFlsMkhRMEk3LVRXaVdOVzE1MDZnLW5VS013?oc=5",
       "pubDate": "Wed, 14 Oct 2026 11:59:33 GMT",
-      "description": "En directo: Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia France 24",
+      "description": "Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxcDZTMk9nTWItQlFBTmlyOVZZZjZGMGlJSFN3SjhfaFR5QnVGRWpVY1lBWnYtVWZadVJxcFVnQ2hybHA0Z0Z1Y3NLMHdTYmU4MmNMbHV0S3lYVEZ40gFiQVVfeXFMUGtJYlpOakRIQTd4bnVuLVFjaWltTTczSmsyZmlYdGxrN2JnMEpuc2RrbVdoOV9UclVHWEY1dVMtNHNMbmZfRDRPNkdqUEs4NW92dTVkMWdpcmN3Zzl4d2lDX0E?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 11:56:12 GMT",
-      "description": "Por qué las exportaciones de EE.UU. a Cuba alcanzaron un máximo si el gobierno de Trump ha endurecido el embargo a la isla BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Groenlandia contradice los dichos de Trump de que está a punto de comenzar allí una gran perforación se petróleo y gas",
@@ -271,15 +334,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "León XIV pasa la noche en calma tras operación por tumor maligno en el pulmón",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWF85bm1ONkU2ZmwyQXBqbTJRdFhZVE1iSDdOVTRLdTdBOHhEelJLTVhjUlk4VHh2b3ZQSlpRbkZMSmlUMlhZOVRPSV9yU1V4Y256XzBRbFZ6MlJDZlNndG9ucmZRX203MExlek9MaGZadzdkeWV1RnR4OTY4Q0pycjVjUXNXbHBSbnlCM2NoX2VuaWYxalZBZVJzSnhJX0RKUDdILXFTVlJ5RFU0V0FKNFlXdndPVE1tb3ZBeHQ5WllFTmfSAcMBQVVfeXFMUHU3cEp4VUtFY3RrMVpPeWdCQ0tlSGkwZGJ3NF83ZEc2Rmdsb1NQZE93Nm1tbzJ5YmZlWlE1UjlJNDA5Nkd0X2drOHRDd3ZQZ1owS2FaRlRGOHFKcV82bEhOTlRwbDI5YzJXb3BRUnlsSDl2M1dVSENGdmxBV25WdFNFTXJLRlBVUTQ0eGE3NG1PbjJ1SU5BU2RiUmM4VzZrQ1FuOVNCUjlZcDhwT0VYeFZiN3BTcWZtZ3FRU0pJM3VPSHUw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:30:35 GMT",
-      "description": "León XIV pasa la noche en calma tras operación por tumor maligno en el pulmón DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "‘La caída de El Mayo’, la serie documental que sigue las pistas tras la ruina del fantasma más buscado de México",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN0VIMzFHcUhocVBqME9PSUNfYldRLXpTbXpBNmxMcUJEYzRfcGZJd0RuZUdEQ3l4cmlRRHRxcmNwWmVBY1dWcVRyaGdGSGliOExMRllaN19DTWFYNGNOWTRQQ09GelYyQ0kxVmtaclNRTnlFRWl5MFZKMWxHWXRzSmZNWE1TckpnNzNmcDh1U1lZY1VIdkRfOG1zMmp2NUI0QjU1ajNtUEFyZDZqNm8xX1NjbkNtbEV6WDZRWjhWVzB5UThxSkFnOTRKR3Jsd0VtLTRnNVpyaTZybU9NdGdBR3RRbzFMQdIB-gFBVV95cUxNWHFlVV9JM1p2VHpmdElVT3VEMUJMNHNCVlBBYWQybUc5U3BaeUZBcnp1ZkJZeFlPRkJ1MXl6YXRrU21OY1NmaTIzZk44VUt4RjVYd2dhOFhvNzVwVlpheDVxV20wc2R5SXFlTlJOOXl0NXBiXzgwSWdZNC1FZGxVQ05MX0laRG9xWTVJbWxtZi0xM2F1TUI5M1k3XzBzbXd3aFlFeG5sT0VmckxzYlBiS0pNMkYxX2l2dzNTUFQtNVVMV1dNc1BDN0d5enRvQ0s2Zk85YnpvYXJGaEpHUkNjVGFWQjZOUy16UDZFY2ZFNmRCSmJZLU5zNFNn?oc=5",
       "pubDate": "Wed, 14 Oct 2026 09:30:00 GMT",
@@ -289,22 +343,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "De la Espriella firma decreto que regula la protesta social",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEpBUVc4WUw1RV9MMVBqZldmWkxKVG0wVF9wU09Sa0ZxNUJDckdiQXZ0Zk1DdUREZ0JtbmhaX2NDRnVXVEZ3T241d3JETHNSeURGLW9GMnZKWjhJekxjdmtNOEh2NDJkTkJud0ZUN0pHb2VqM3JmRzl3VDMtSmhsZ1BTUHMwdHVxeXVaWUJkU1dyZTVLZVQw0gGXAUFVX3lxTE15NGE1NXJoR0EyN1dWdFZKUjE3cTVqYUp0NUlnMklQaW5fSGdUTjVNV0pxYnRqY3h4dkpLSEh6ZTNmVjVPSWNxdXd3elVnZzRKak5POXFaVEhNTmU5RXBDRk85WVAyN3ppdkRCeV8wT09LMHVDQ3ZsVGJ5OVZBRm1uXzBxM3R0Q3hJOHRnV2ZCOXNxZWR0cVE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 09:26:05 GMT",
-      "description": "De la Espriella firma decreto que regula la protesta social DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Trump anuncia exploración \"masiva\" de petróleo, gas y minerales en Groenlandia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWdjOVZpVFF0ZWQwUUI3VXd6SVJydDNQWDZzY0ZoWEZQVmxPalloR1dpLUpqbXRiNkNXeWRNSXZ3Zk1XX1hWbElJZFI5dTl3clh0N3Jfc1hlczd3cWI3VTB0R3pZYzZ0QjZzdHUxX2VDUTlIRUkzcC12VVJvV3dLRllNc1VpUDRObzdDMi1GM29RVEVGYmxNckV6SUdCbURad1Y3b1JWclZFcXBtdUk5V2hDU3lTajkzenfSAboBQVVfeXFMT0xMMlRPdklvOXZOelM5UFR5QjVVYUlMWW0xdTZDX1EzbUJNUkR4enBrSnE0MWJDeFJ1WC1sSF9ndE50OTZhbXRyaVBYcHRucEM4ZXREei1SQ1NoY20wSzV6SnNCY1JSZy1LczlQTEpZMGZIVGZ6X3lHNXA0U2dZZ3JTVTAzM2RzTkJFTmFpaXIyTjRvaGFhRW96a0ZYUVBHWHhnX2EyYUJLOGVSbUk2LVNZNUhLUTZzNzVR?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:50:24 GMT",
-      "description": "Trump anuncia exploración \"masiva\" de petróleo, gas y minerales en Groenlandia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "La psíquica que hablaba con los perros de Javier Milei",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmVTNEloa0FFOXlJUWNBelhmTjMxb3NNU0hJTnMwbjR5YVNRV212cm9VTV9KZGxQa1d5U0NOS2t3dTFYY20yMFRHa1JCLWozeVFVbmdXbVMxclAwRWhRU05yMlFGMHg3TTRKY0hMRDZfeDV3RTBDc185X1k1aHQteUxycDVxWXR1ZEhnVUZ0dldCd0ZVTmtQWFFKd0FJdw?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 09:10:10 GMT",
+      "description": "La psíquica que hablaba con los perros de Javier Milei The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Un nuevo parte médico del Vaticano informa de que el Papa se recupera favorablemente tras la extirpación de un tumor maligno",
@@ -316,24 +361,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Trump recurre a la política del miedo ante el deterioro de las perspectivas republicanas",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ0VtekhYZDNnZGVUcHVJOVBZNUZuUS1zb3p4dVI2UGFMOXVmQ3JIWERteGl6U05FakExbDJvRjVJSGpWMkx3VHItRGVRS18xc2JmNGFHV2NjcUk2dmRTRVFPUVRyWG9TbXNSSWU2eEJmYjE3WnB1cXE1T1BmZ3dJeTgxZjF4Z3dNMUdPLXlFWm1EUQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 06:53:00 GMT",
-      "description": "Trump recurre a la política del miedo ante el deterioro de las perspectivas republicanas CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41dXBFcXY0MmZyM2t0SnlxdDZSa05CaWJHSDZHdDY5NDdvNDhVdUl0eEFqOUFONHhTYWJ2d1hPX1V4d3lHUjZBR0thUnZBRXR4cHNqRGlGdmV5RWhJ0gFiQVVfeXFMTWxXeU5CcVBXLUxwbV85UDRUanRSQWRPdFRvbV8yZk9aQWgwRG1mbTg2M0VvZS0wQlZTM2FNLUNqb2N4RnBoLWNmVmhIYlVmRm5GYVMzU1hSdHBEdFJtN0VIMWc?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 02:36:11 GMT",
-      "description": "Cómo los conflictos globales se han convertido en un dolor de cabeza para Trump a pocas semanas de las elecciones de medio término en EE.UU. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "En imágenes: la impresionante crecida en las cataratas del Iguazú",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzhiaGRoT1lHQ0J4UmxyM2JTWC1IdGQ1WFQxNUZ2WTNDNFpFNVhrOEp0WXIxS1ZWbGVWRFZKaWNDN2UxOTMyUjZCczhoMTRORkFhSTN2bjdKYzdkNkVqOWNOWWdSU2l0M0NLSXB4aDludTMxbzlwUldxY0pYbGxpUU1kbkNWVFdaUEJqcGV6WEVHZnJZT1VyUm9TWllTSkJLd00tLWtMUHJ1WkZjOTY0emhuM0d6Q3VIcTc2ZFF1NEpsdTRxOVpFTUNBOA?oc=5",
       "pubDate": "Wed, 14 Oct 2026 01:08:00 GMT",
@@ -341,33 +368,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Diagnostican con cáncer al papa León XIV tras someterse a una cirugía en el pulmón derecho",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sYkxROXk1ZjJVd3ladE5LWkx6elp4SDAtSHk4MDBhOHR4LWpoVXhvNDBBeU4xclNJWkRYNm1lQTRMSUFGLS1QS2J0SHpQYm1HX0ZiM2pjOHRqdU810gFiQVVfeXFMTUhMT0FYcEx6T2M1Y3lHaFNacFZZTGMzaFJPSkQzcHN5MFAxU1dqUlZYUXpxNnZCOUtxeGFVVWl2ckNuQnZVaUMxWGx1bXV4dWlfYjAxc0dGQmVRYlBMLXJIS2c?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 23:32:44 GMT",
-      "description": "Diagnostican con cáncer al papa León XIV tras someterse a una cirugía en el pulmón derecho BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "¿Qué es el adenocarcinoma de pulmón, el tipo de cáncer que se le detectó al papa León XIV?",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZVlJUUJLbkxKQTNVNFVUMjI5dEp2SE5EeTZ1WkFXS2laTkxqUHlpbm9HZk95d3VCemhFRGZLSi15MUJmQVo3b2JfdTFCM3h1N3J6UUhqOW1UWDVBbmtnbzU0ZWRCeGlnbWR5QTZMQnoyUkV1UXNlR1o0SWhDV3NOMVlFMlJkWmFGbzZUUjFPZEprRTVJODdvOEZ4MmIzYk1vM0lwY21VR3UtMlVMY3AxQ293QVFvYXppX2N6QjdJM3A4WVVKVmFHc01zYmtlSFdOdkdmSzBpS2k4RWVJYjhfWEJ3UFJnT3ZmT1FiNw?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 23:17:00 GMT",
-      "description": "¿Qué es el adenocarcinoma de pulmón, el tipo de cáncer que se le detectó al papa León XIV? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpX1ZqVkk4WmRfVnRHV0RlbFlkczVDRGpoMFRkb241cGFCalhCbG5Pc0k5RDJGQXZQQWJvOVBMTTl1UmlwYW5IZ09UZ2RrUXJZVzc3SENoZzdsVFVm0gFiQVVfeXFMT2NWVTc5bnFSTTNCRlc5R3A5Y0JZM0ZyU3RKeG5jbVg0UGtuSFJiYUR3RjR3V0lCSnhkOTB5T2dfZXBpV1BPUXVrMko0U0JWUnVpdEQtRkdvRXhDdWdSREgwMWc?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 22:41:26 GMT",
-      "description": "Qué es un adenocarcinoma pulmonar, el tipo de tumor maligno que le extirparon al papa León XIV BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Zelenskyy dice que Rusia sigue atacando sitios energéticos pese a supuesto cese del fuego",
@@ -415,15 +415,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "La poeta y ensayista canadiense Anne Carson gana el Premio Nobel de Literatura",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFl5cjVGdUMyQm5NWTA5dmNJSlVNNGM2cGtzZk1WbXVoQkZ5cWFvanZMRi1KQllvZkJpdDhiVVBVdmVtS0lkSzFaOENEdFlrQmFuZWtlZ2xSTWJmUnlyNVlNQkR0QkFvQ0d6VEJWblJtcU9kVjBVQzJ1a200SjdLczJZZ2F1V3BTLXBuUS0wenpESGstajFIbkRQWWp6OFRTX1NRZDctVEQtZkFrelUwaXJoSHhiU1U?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 21:12:00 GMT",
-      "description": "La poeta y ensayista canadiense Anne Carson gana el Premio Nobel de Literatura AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "‘Algo no cuadra’: lo que los expertos quieren saber sobre la alarma por peste en Rusia",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHh2SUVlOW9VZ2kzUzJ5S3NJOEZtUnMyVjRLTW1BT3lEYVZxdXRJVXlYMUV3Q0ZQSEFpcmc1aDBFLUlHMjNNUmZsd3JqaGtZRW1yNVptR1BzM3lRSW0yT1drY2JSQ0xTTXc5TmF3Sm5rVGkzUFpYdlQwYTJhNkpPb3NmcEZfb1dVeUhhRnNPR3lfeDNUeHc?oc=5",
       "pubDate": "Thu, 08 Oct 2026 19:49:07 GMT",
@@ -469,6 +460,15 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Baker Hughes signs agreements to expand Venezuela gas infrastructure",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNODZwRnlLSm5GQ3dRbmFhUVozQUJvbWxRek5Xc2R1WlVyWmp2ZGZlNVpxeGRvZUNoVFRmeWlESnFUWlB3N2dfQ01wdFJyb1pFNGRveHJmZm9UWDYxUFBpOFdzV3oxMXRqdmZTOFl0Y3NPVGV6ZFBxd0tRLWFqNGZyYk5aU0FfeXdQa2FRTjRkVHgwUzk2VjFmRE1Ob0FhMlFkdFFERXBLRDFQX05tTnV3UXUxVXVlS1da?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "description": "Baker Hughes signs agreements to expand Venezuela gas infrastructure Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX21CUmMyUXJZWXJ0U3BuOTUydzVtQjNpZ0VJTmhfY0xyazVEc21oNnBocEhmTkVEbEIzejZJUEtaMHNoaW8xZ2RNc0hrOU5DMm95UGtUbS1LREEwaVFZLUVFTXdqOVlPaVpEVXBtV3E1eXdiczM4X1RJQXpDbzRaN243NVRoQ3VBcjhHRXV3c2pZV2ZhcElVYy1oOTIzWGRZMnBiM2dXVVdXb1JPX1ROT1R1WWFpQk13Z1FRVDctQWU3UQ?oc=5",
       "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
@@ -478,6 +478,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Fuertes lluvias e inundaciones matan al menos a 62 personas en el norte de India",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lKX2tGcTAwSGdkbm9kSzlhRFlFWWFXajRXU1dxSHZNMFl0U3hjeHpRQ0FlNVlGc3RKamNhQ3pLYTZnZk40MnJIS3dRY2xvXzNEYkdVUkw2UU1ud19CM19mUnJnelRBREYzbHlBZk1FMlh6U3hFMjltN1R1WU5wSTdraXRBTDJiaExRbkhqd044Z0xJSVFV?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
+      "description": "Fuertes lluvias e inundaciones matan al menos a 62 personas en el norte de India AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "A un mes de las inundaciones en Nepal, miles siguen desaparecidos y la recuperación se prevé larga",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQldTN1hZRkxvaXN6U1JnVEVSNEw2ZHZEaU85TlZOR01LYWlJQ3ZTNF9BcmpvRlRMOFlkUi16SERKZHlOYUUtNE5hWDBPZUdPcF9FZlMxekkyeEF3NklwbzdPeExaQWNHYWdSOHhjMXhqUnVLSHRTMUVhNUJFNjM1WllCZVJ2OEpyNHplbWNtY3k2YUkwM3pFMXU0Ui0?oc=5",
       "pubDate": "Sat, 26 Sep 2026 07:00:00 GMT",
@@ -485,15 +494,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC16N2FEN1QtSGNHWGFtbDRiVGx6Ymp4RWtNSG05bG9relBsN0dXV0V1czZ6UzM4cXNVVVVNZWh4b1lqQkN0ZnEyVk15dVloMl9WaDVPRkJRTnBudHprOUJ3Yk10azlJcHlremJFLWxTOXp4ZjlfaUtrU0xNamVZZlozQ3M1dDJGZGE0QUxxSW5Pd3VjUXRJWGs0cEI1aF9YQmhNZzQ2V1RlWldGSDNkRVN5azlzQQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "description": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",

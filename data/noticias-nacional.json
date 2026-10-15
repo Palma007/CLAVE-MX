@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:46:44.991Z",
+  "updatedAt": "2026-10-15T13:45:08.190Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,58 +58,121 @@
   ],
   "items": [
     {
-      "title": "Cuidado del lugar",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jWUpzaE5HYmhVQ09nNHI5RmRoZ3cxQ25XdEw3ZlZUWVltc2RtOUN1Y2xuR1NVUE1FclFhQzlDcnE3NVFGalpTT2R5Q210UkZ2c3MyNU5oTU05a0RmM2xIR0RmN1J2VDJUaGNpMkEzN1NnOXNRejkxMFg0TVbSAXxBVV95cUxNSWl6ZVZ6WnFEWjVVWGQzVjRaT3l3T0IxV1cyeHBzVElKQ0lSemJBYmdYNDVHRURVcHJXVTh5QnB2a3lVOElFNFBXQ0VITjdqT2IydURLN1A4c0ZSWUZ6TVh4d0lpMGhRV0xaLVVIMFJvNDNpZ21XNjJwbFFt?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 07:33:01 GMT",
-      "description": "Cuidado del lugar Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "'La bola negra' y sus pantallas",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVndnZ0E2Wm5Da05VX3ItTV9mODJUYlp0U180d01tUUg4Rm0wYmN4azFEUjZNZm5VelZuVzFGRndtallrUlZkUkdzd0gtdDdaVDZUYndMS3oyaGd0WXpSQk9VY1NnaWFVamZRUkdibE8tYmhkaTFkeUsyYm50cV9DdERpY0NrNjU4aXFwY0sxUjBIWW4tMHRV0gGXAUFVX3lxTFAwUHBDSXpWdEtGZ1N6UW80QXloUlFONFFVdlI4eW5HSEY1U1NxNkNjMnZjLV9TRnFWRUV6OTlzT05nUDFzRFdCUHZSS2tla1NPbnVzR3VoYVNHNWJLSVJ1d0poNTlObVdiVVo5UUIzQ1ZpWGlDbWhBQk9ZTlRaSFVtXzVONHRvX1BmSmJvQ0JXWktRc3o1X2M?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 07:27:53 GMT",
-      "description": "'La bola negra' y sus pantallas Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Trascendió Puebla",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzB2ZktTYnk1RXRxLU4zTDZWQVdpVkN4N25kM0xiYi1Tb2g4dVRmSzFGT0JxVmk5bmJCd1BSNGl2amgxbVoxSXd3Z2FkczRVLVdtNFVES05PbHFsb2dvVE44Sm41ZHM2NmgxNGZfX3NmOC1xOVczUkg4TzJuS2J4MldmMks2bEhnZUFJONIBjAFBVV95cUxNaGVpbEFzRUxIQm5yWXh3NWpTMWpIYWRuMDQ0RFU5VExicmk1VUJId3JiVXpfbExmNzVCeW8zRnd5ZV9wdzBLOTdMUjZxZGFiV1RJdmMyYVBjMVVGcHktT1ViQlcwTFozdnJwYjlXRC1aWDlfenVWY0xuUHBXRS1zN1N0dS1QSmszcl9CTg?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 07:19:42 GMT",
-      "description": "Trascendió Puebla Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Hallan ameba comecerebros en seis lagos artificiales de Yucatán",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQU9kYjNSWFAtQmpVT0lkQ3NqR1NxdHRmbFZSYl9XVXFRQURQd05GLVZHSXVEaC1wSk5pelNmaEtOMHZWRktTcUVZTzZzMk1NWGZzTlNSa3N2TTNpOUg5MElpME1DU3RGbU9DUTJXNUtuUC1XTjFseFZFVmtnYVNuX1FxZnRUdEx6d3VOUzJIR1oyeXIxR09vc0JGNF85T0NKdm5kUzN1YlJKM1BsVUtCSVVoVS1CMjF4eUlfT0hMTmtpUTA3U3Qtdzh3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 05:41:50 GMT",
-      "description": "Hallan ameba comecerebros en seis lagos artificiales de Yucatán Proceso",
+      "title": "EN VIVO: Conferencia mañanera de Sheinbaum (151026)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZEcxRGtLX09IWDJkMXNWc1JSbGU3TjhuRUVHaGJXX3Q5R2xSV3VoYnBkQks5S0Jib3dzbi04UzJ5TDNTb2p0MHN0bi0yQkpkTDNuSlNfaGVSOWdreFFhNUdoSTJhZ1U0Qk5PbTBfVGo2Z3FZRVE5VF9NeVJENzExUW1TMlo0eTJVaU12MmlZODRKd3UzOWVSYlp3dkFXNVFFckl4emo1NEtLVkE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 13:25:00 GMT",
+      "description": "EN VIVO: Conferencia mañanera de Sheinbaum (151026) Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Consulta salarial en el IMSS: jornada con 60% de participación e incidencias “menores”",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzJGeWtnR0NrdGQydElXcjhQbFBmYVp4aklUT1I5VzVlV0wyOTY2S203V0I3RWVHNlNwVXR6LVpLLW45UWdhS3FLbW9pV21lMDZhX0tuUXNpdE5YY0wzVDhZNzdLSFk2cUlfNDNpOWZTTjRqc1ZsUl8yUHdiYVhxalhoVnVKbnhrSVRLWkRadVhoRmYxUWxEa0tVRndiMkVheW9UOUFKRTBtVzNsNHh3bUVTTGxpQVl0bThMVXA2UlhqNm1FWnF2ekZfZEZCX3ZyUjUtME1DSlE?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 05:21:14 GMT",
-      "description": "Consulta salarial en el IMSS: jornada con 60% de participación e incidencias “menores” Proceso",
+      "title": "La caída del Mayo: Proceso presenta el tráiler de la serie documental de Netflix",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGZqTjVGc2hweHItTlJ1MU5wRjRUSUZHWm5NVGZjMXBFLXpSOVp4ajBFNk1tdG5hYlRwcFVuX05yS0ZtODZmeXRzdFpHS1ZIYXJoSTRlY05ack5CNmJHeFdKdVhCdEFiSy1LRVlZSy11UENrQUpNT2FfZWhOeUY2MW1yOG80YWk3QlhySy14SHVEcFJLV0hnYXE0bG9tVUxGLWJwV21fYWdDTE5ncnZVaEhqWm1TUlJ4V2thWFhseHV0NkUtSWtQZ0pPR2toU2RGbm8wYg?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "description": "La caída del Mayo: Proceso presenta el tráiler de la serie documental de Netflix Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 15 de octubre: Síguela aquí en vivo",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeklScEJDQW9kVnhjVmI4Rng4dUVwZ2tsWFVTNTF0eE94enRrVEFKcENXaWs1UE1YZ1dxallpREhNRUp1OEIxMTM4Mk5TelFlazVscVFfUnVzdldoVGdRcE14ZzBpa3dQakRmU1RUN3Z2Wk1KNnE3ZjVraHVfM3JNNU53MkxMWkpwT2RhSGo2bVRYYUhYbXZzY0RrUk5qZEhhN1BObkM5Qzg4S3FxdWdiREtkdzk1UGttaEJJ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 12:30:00 GMT",
+      "description": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 15 de octubre: Síguela aquí en vivo El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Aprietan diputados a empresarios con reformas a Ley de ISR",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVNmVHRWNTBPeWNNUzRrSlJGYlA3LV9UWGJfY045bDlTNmdHZ24yaXVna3VMOWF4alNPMjhzdXF3X3V0b3NqUC1GUDNjMEVyUjAzWTRTeHFaNE9DRG9HbXF3RDhfV3hta00xVmlEV0hDaHVrdG1CcDBPdDBQMEZla01GallBeVJ5X000VXJ4bktvWGpUZ3o4?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:00:00 GMT",
+      "description": "Aprietan diputados a empresarios con reformas a Ley de ISR Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "ICE rechaza pedido de que cámaras corporales se activen automáticamente",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0JrSWRPV1RiTjhVU3lWZGppSVRTVkN3ZFlvZG91SkNNX2ZyZnF1aUpyRFNKSUZuM2ZWcnk1b0VtLU1BY0dDYm00S1VUM0Z5Q3V1T3R6bzZQeXpBd09DY2tPeE9TNWtJc1hieDBLY3hUMHlDbUZKQTBOeW1keFdRazFvb0kyRjRJZDVCdnF2MDZ4bmhZa3JocEFSOHozSmxvd1hpdG5qTURnYXBpSGVFbzVQb0dtSUxNdk9Cb254eUlkb0pjenlsRU1FZEdCazdO?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:59:00 GMT",
+      "description": "ICE rechaza pedido de que cámaras corporales se activen automáticamente Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Gobierno: votó 60% en consulta del IMSS",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVDJzOTkxY1B5QjU0R3FSVDM5b25FYlRjNUdzbThzX01pT0ZtLWNKdmduNEtDV0RSVEFZcldNRVBhemRFd2FGZnpycDdJdUFxWGM0cm54dXVXajZhTlE2VGlMUGF5dkx5US1LZ3BrdnVLU0l3Nlk1RnhjQnJnZjN4dTF5M21ISExHdzFYM3B5ODVNX25vajNJT3VyS0JhV1ZlaUHSAbYBQVVfeXFMTlkyRjJZZFZtd0UyZ2VNVzB4MmxHMzExYktCZDluTXo3T2dhNVJXUU5SdlVBRG5kOE9CRldFWDJzNFlCOGFOYWt4NDZuQ0FCc2RvNUpmWC1MZGpNNkJqb1dzNEs3QmlIQ2JqWkU4c3BURFFYOUlYT1p1VVMtTUFYQjBVdVZSQjJKVnBjd2JPVm83MTF0WFAyUWNMZUx2c0lzbmpnTnctdjMwRHVtT0puZ1VNTENfcUE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 08:30:25 GMT",
+      "description": "Gobierno: votó 60% en consulta del IMSS El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Erosión institucional, freno a la productividad",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdlJyYlN0bldDRkVlTkZ3VEY0QzdHTklBZlF4MTFBOS1zN1p0XzRIVU00TzFIYVhWUm1MNGNaRUttalVxZHVLT3lfT0hGNGstNTlJTnZzSXRlVXNHNWZFTTROQkxIemFDN29LM0t0Nnc1dFBYdVVkYjhoeDU0a2tMMzNUZzk5MU0ycXhQSy1XYzFKZzhuYzRDcUFnc1Q1TmtnZ3FN0gGoAUFVX3lxTFBXZGRXYzVQdFA4ZWVER2JmZTI3Z1o1TkpwZkJydHpDTTRMUS1UTFE0eW1pd3lkdncwbWRfdzI0VGxrR1ozNlZOWURMNW1iaVhtcUkyXzNZYUhZWWhSb2NJaHdWRk1YQjh0OXF1bWo3V1dPZTFHZFJFOFpOYlNvOEt6ZW9ENVplcHVkMkNLYXpuOWpuZWVtNDQzT3lmZkFYaGZwMUprVmlPSw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 08:00:00 GMT",
+      "description": "Erosión institucional, freno a la productividad Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Ilusión o realidad: ¿gana México con los demócratas?",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb09VaE9nVkxDdHBNUTk5YzdIRHY0MUhKU0JBQ21QeFhMenhBTHdIWHktUnlfbXhmM29VQ3BBWHFPZnRCWlZqU05lVzVHd2lRbjBnMUM1S25MWlpJbGpkamU3UjRoRVRucFM4ZTBJRmxXRVVzbjhtX0VheXZoeWZqX2tGcmhNZDlGZ0dhM3BIblpXNFlZNmZlVlVISG9VcWU4UFlVU3VzUWJBUkgyUEVKaEp3Tmt2NGhoeFdtUdIBvAFBVV95cUxNakdxTG9qS1hsSl9SRUtkOVZxRFlTOHhVTjVRRlI3clB3dFpQTjlOSF9TUWxyNGZOZ0VTSU5qT2h5MVdOOE9RT2FCMTFUbGl0UVBvWUJvakk4Ny1UMC1QZ2w5dXVqM1ZkWGJnVzZlM1pGMGZGX0RkSmg2TmNSaTdXWHVBWkJmalBZMFJURlBseEVJQ291SnJsQUhzNXJxd1daYllkQXoxSVE0NjdwRVVnOUJxbjQ2ZzVfelBhNg?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:03:19 GMT",
+      "description": "Ilusión o realidad: ¿gana México con los demócratas? MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "¿Qué hará Ariadna con Clara Luz?",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1pZSE94SzUxZDBBTlYzU3dKekpEcEpHdkt5bUhUOUM1MEMtaGNsaTJqTVNwOGN4Rl9XV2Y4QmoyXzB2MV9FQkh0TlpzS1ZFTXE3TG5DaUI1azF3U2NyMWxVLUZpckpuaHk0cHktTjlUa2FySnZYbHpQdUJkT3VnSnBtaG9qbEZZeDViVWM0YzhVZGvSAZMBQVVfeXFMUEN0YkxVZUNVSjZsQ0VocXV6cHR5M0E4Q0o4OVh5Qnk1SW5qQWFFTjRjRG03WUVtNjBYeVNLRVA5LUZqNk03NmVGb090SUZHSEdrMHVJSU9UcFRTSGhIeWdQOHA1Qno0YzFKSGVxYjlQRUtVLUt0eHNLaWpxT1dEWWk0dXphdmlFNnFXWHRrNlRValA4?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:38:26 GMT",
+      "description": "¿Qué hará Ariadna con Clara Luz? MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "PT deshoja la margarita",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JnUFV5Y3Nma3RMYVRoSDlFVU55dHktQUJYeWMyRmhhYk1WSVJTVk5ENHpNbjY4R1prendNLUtZaVZUYks1a1VySzM1M3Q5WVl3eWc1c2hXOWh5d3pYTElxWFdIMHQ2VDVZRDZhcmdXUEQwekM5SXZHN1pJejZpN0RfRHVtZW5EYVNvUUdn0gGOAUFVX3lxTE5pYnpFS1J6YzNQdlo2U2ZtaHdSem1seXgza0p6ZldXZVQzNFhlM0NRS041V3ZNV2ZxRjhoTUVhN05ET0hLcFE4NnJXMTduY2hnbzVxa1R0YWRaOTJicmFXY1JCbDJhUFhYbmdxVTg5MWVwbXBxUXRCVFBqVWF1VG9oR1p3VFRUbDhKU2NvaEE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:25:10 GMT",
+      "description": "PT deshoja la margarita MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "El IMSS, otra manzana envenenada",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUERlek95Nmhud1R4R2dCQ3ZITldIOWZCVUJ4QWVzWG1FMVZOcmlTR3BlYnU2QnhadnBNMWFmbk1PLWRBWnpaUm9KdjlDek5QMllYejJCQ3N1LUxaTy1YTFI3SWEzaXZKeEl4cjVaSk5SSzYxOHBGQU1FLWczdFZJMHJqTmF2R0Q5N1VSV0RtWlJKaEI3eUNXWmd5NNIBmwFBVV95cUxOZV8xUEJfcmdGb0xFd3NWR1hUS3ZYemFQSGNBTTBwZko3SHF4US1SenE4aGdFUENFdTJndHlEVGY3U0dwS2JfZVc5UHdQb3IzeUpxb1UwMkVYcEhWa1gzRVoyY2tmZGxjcFJEZWVvbm1USGZPTHZ1dTlxV1RMcHJ0aDAzN2UxTVBmcVhTTmQ3SjdCdTVaWFcwSFItSQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:21:32 GMT",
+      "description": "El IMSS, otra manzana envenenada MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Reportan 60% de participación en consulta salarial en el IMSS; casillas siguen abiertas",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOGppNk5iQ1NLbXNKMVpCajhtMWw0WGtxUkZJZE1FeGd6SjJDNXRFSDlQa3VscmdmazZMNXZrVVVocUJvc2NaRjZTb19UeXRBUTZILWRiYXZLMEhicHFPQ0xYQ0NzNlVHTlJ2WnQwZGN1dk1ldTM0NW5HbjFPUHNsOGEtcExxQU1GdmM1S3hlWEpuaG1WY0ZxZ1NGYXFCTFphZUw4RGhQR3dBdVZHMHBVRU9pNW5QcWg3MnlYQjBhRVZqd9IB1gFBVV95cUxOMXliRFAxMl9Rblp1alh6Tjhtd0Zxa3hMQ1dzeHVndzZORnJBeFp1TFcyaFlWbW1XTnlkQXh1dFVwZXV1VVFyR0FhVlFSdHk1TkRpQllJTFZuSjdKVmo0R2xCdTZyV0RDb0hvMklCeGtzYTF5c095aHhVWFF3ejloX0VKNnlVRXo2M21sVEdEN0FzUmJwM1NReFhFMXo0SFZpUFR4YWQ1Q1lUYmRZSHB2c1NISVBGeUpwUUJNdk1hZ0t2WHhKMTdRMmduZWNWQTNjRWZYMV93?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:11:00 GMT",
+      "pubDate": "Thu, 15 Oct 2026 02:29:00 GMT",
       "description": "Reportan 60% de participación en consulta salarial en el IMSS; casillas siguen abiertas El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Cámara de Diputados aprueba más deuda; es para pagar la nómina del gobierno: oposición",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUUlCa2RjMFVPZ2doMWkwSjdVbmZqQVdvcGZZdFU3ZW9SMWJTb3FJTGhjakt1WVZJdXlsTjNWTGY4REFabE1LVURESUpKcFdIOGVCc1VfeTJXbTZNN1JfckQ0OWltQlhaaVlPcklYVXNrYkltQnFDVURxUFFNT2JqczBKLUx0aTNieC12UmRXX2h2dWgzMkhjZ3ppVFVDT0tBQmEyUk5FWG9KWjA3MW9zT1ZLWDlMcFZ4X1pwRGRfSUd0bEZjWWo4eVdaUHB4WEJaRXB0MzJObHFxTVlaV19TcVNjaHFzeVk?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 02:29:00 GMT",
+      "description": "Cámara de Diputados aprueba más deuda; es para pagar la nómina del gobierno: oposición Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "SSA refuerza estrategia contra Mpox; implementará vacunación focalizada",
@@ -119,15 +182,6 @@
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Cae 'El Wicho', presunto operador financiero del líder de Los Rugrats",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dnNldRVUVwTzVIUDYxQzZ1WWc1a05JMk1Ob0ZzLUJoakkzT0tWWGJyNjEtWUdZV3Zja3M1UjRsVEFCX2lya0YtY1pITXgxT1NMNFgwOXRHbEZFb0ZmMkVTSFdKcUNyci05aFFwTkVLaXVDTVNCTW4xY2tjaG43VkhWbmsxeXJiX0o1dEdOMjZ3WWlGaEtqb2pXeTPSAZwBQVVfeXFMUFJ3ZG9fTk9xZWZZLUN0RDZkZmo3T0NlWWItdUN5NVh1b2hFZ0p1SW1MT0JBTWhxS3Y1RUcyaFR5R09zMHlva0xTV1VBc2pUbUNFaThadTJIRC0xV3QzdmxURjQ2Y2JFR3Y2MU9LaS1Ba1A5cmN6V1FoY2U4ZFBxbnJyLTJuMDB0NS11bkZkS2VON1B2NU9rbEc3aG91?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:04:00 GMT",
-      "description": "Cae 'El Wicho', presunto operador financiero del líder de Los Rugrats Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
     },
     {
       "title": "Cae operador financiero de 'Los Mayos'; lo reclama EU",
@@ -148,13 +202,22 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "JUFED denuncia persecución contra el juez de Colima, Sergio Alberto Sigales",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObGVCVzNRZ3ZxTl95MndoZUYyX1dCenZzTVY4eFY2cUNXS25aTm9wYWVGZjVrNnZ2UGRiTnZ4cEFsTl8wX005N0thRGh3WUdfLTB5aFpZT0hNb1Q0Q2lnLXI0VVJrYWNmR2lNZHdXdzlFbWhMZlgzR3ZrOTlaTGhiNnJkSkwwT3Jsa0lhTkZEeXNOMjBBaEFPakZvOXFxX1JRMkZESnhLWkh0ZFVUSnM2LWZFNnIxY2x4ZjlHa280SWh4M0dmTmx5amhUX1d4SzNSRW5mYlRqOU8?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 01:21:11 GMT",
-      "description": "JUFED denuncia persecución contra el juez de Colima, Sergio Alberto Sigales Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Sindicalizados del IMSS exigen que se cuenten los votos de consulta salarial frente a ellos",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOc0taY1M4aUVXZENLVFQ5MDJzMXU1X0RSSVhHYlFDQ01vbmVHbDU1cnAzbEZYX25jTXFyTFJ2UUJGUEJMRndyTU5HRmlGN1pwSG0ybWU5TXJaS1JDR0JuNVNJV0t2VWV6cVdVM21TMkhUVzdpM0FUa09YN2NwOTNocHExWUxRRGU1YjRDUVB6SURrbUVwVXZWeEhLU0d2N0RrV1lsTWpVMEhIZ291cmcyeHpYVFdfSEhWQjBfYmI3aGVXNkNSYW9rQm9ISWNEeE5LcFc2dTdCNXpMTGFITnpMUUVzUERPV2R2SThMclhjYk95SnpkREtj0gGLAkFVX3lxTE05bWhWZjduSjRQaHhhV2lDUDA2MXhMV3U3Yk1TWi10Znd1Q3g4blBiRUd5b1BKNHg2bUJiV2FSWXlaaHZkNXdBcHNYaHpxMGxoanhOd1JsbWdCcmZvWlp0bHVYYV8zRjFyT3Q1SUp0ZExrTWVhX1FFYlFHUHFILUtZX0lzY3pFTEhPSm9ZbFNLUHpzeEYtR0hOeGxWQmt4Z2ljSTQ5dVg2YU8wTHE1SGk1RnFGdFhTS01iZ3dEZ2V4dnZfM3FPbmZld1d1V2J3LVZvUFNpZGNHR2ZLdlZyNU5CLTNmVUlpMllNaGtrcldrdFFnUHNmUktFbzlua0gtcnRPZk5SVTRKQTd0MA?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 00:01:00 GMT",
+      "description": "Sindicalizados del IMSS exigen que se cuenten los votos de consulta salarial frente a ellos El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Sujeto acuchilla a su padre por pedirle que consiga trabajo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazBuMEw4NlZVdEw1Nm43dlBJQnRLRjh2aWFtM2w1UWI0YzR4d1FCbjl6OEt6N1hsWl9rVkpTN0VwNUt6NTFyd3g3dld0QVVfN3RTRUR6VUFRcmJmT3l0eFp6SFYzZTY4Vk9hMVJ3YXlESm8wUWR0d2R2LTlOUEl1TFdhVUZJQjlodkJBVDVNMkliUVBWZ09J0gGcAUFVX3lxTE12dWNxekotb0Y2MVNjZHlLdGx6dEJDTExVNlI2RGd5aUtTSXF4alhSR2sxX21kUTFnQXA2YjFyU3pGX2VBdHkwVTVOeTF1SmtZYUdOWmhrODA5Y2p5b2tTMTZmSUNnSjhZZFBtOUdsNWhNZV9mYWdtVWhTbjRhTlFHRkd1Qm5iWUVvN0J4MDJsR19JZ21KUEc3Rld5Mg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 23:18:22 GMT",
+      "description": "Sujeto acuchilla a su padre por pedirle que consiga trabajo Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Crecimiento de autopartes demandará fortalecer las capacidades nacionales de moldes y troqueles",
@@ -193,15 +256,6 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Brugada anuncia nuevo plantel de la UNAM en el suroriente de la CDMX",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2NkZTlNUVZfYUNSX3IyeUhtdkpsOE8tLWtrV2ttN2FQTkZFLTVTUHg1UGtrRUx0UEh3T2tfZEFqQWc0WFpGYll4SElHZ19VV3dzVVRTa1U0bGhHR0JTYlFzNGNycnNVQlA4YUhGWHNiNWd3R0wycl9mamlTSjNnWUlneXJuSXRnanhOdFF3VW9kbW11S3lDZFd4NW5mMkZoZnc0bGktSWNtanIxcm5LVThfajNfajlqOXdXUktTVDdqLV85bGRPZ0p0Y1E?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 21:14:00 GMT",
-      "description": "Brugada anuncia nuevo plantel de la UNAM en el suroriente de la CDMX Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Aprueban ‘apretón’ del SAT a grandes contribuyentes: Diputados avalan reforma a Ley del ISR 2027",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPd0U1QnpEYTRiOFloRUtKLUU4aGZXN3dGeE9say1taXhBeGlCaW51Q2lzcGdnVVZXcWZkZjJRRHFJVldkYlJ0ZDBMLVllQmxvbHp1OUo1WG1pVXBkTnFHdHpzV1ltZW8zRmpSM2k1aFBBVkVEdlY5T3h1Zk5mYmlNcEZCdGV4MGttVmlHaFYyYWFabjlNZ3FlRjVDS3hzckhrY0tjYWdBVm1MY0xIU3Eyb1AzN2hma01FRnBndWZBNDljWC0wSHhROEJZTzFvSUZ1eWdRUThMSzRWUTh1LUNJ?oc=5",
       "pubDate": "Wed, 14 Oct 2026 20:34:33 GMT",
@@ -209,15 +263,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Aprietan diputados a empresarios con reformas a Ley de ISR",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVNmVHRWNTBPeWNNUzRrSlJGYlA3LV9UWGJfY045bDlTNmdHZ24yaXVna3VMOWF4alNPMjhzdXF3X3V0b3NqUC1GUDNjMEVyUjAzWTRTeHFaNE9DRG9HbXF3RDhfV3hta00xVmlEV0hDaHVrdG1CcDBPdDBQMEZla01GallBeVJ5X000VXJ4bktvWGpUZ3o4?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 19:54:57 GMT",
-      "description": "Aprietan diputados a empresarios con reformas a Ley de ISR Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Hospitalizan de emergencia a Laura Bozzo en Acapulco",
@@ -229,20 +274,20 @@
       "domain": "reforma.com"
     },
     {
-      "title": "| Club El Universal",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zU2hNcDZNY1dPeFpKWnV0bzgwcDlDMXNoYmt5MGNFY2xyWEpTU1c1THR0R29LUVRPb3VBVWZvSjV3RThUc3AyQTVWcndENlNldlFIMDduOHBjRGJ0eVhZTGIxZGVLSVJENHVLUkRidXZsX3BVRlE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 18:41:09 GMT",
-      "description": "| Club El Universal | Club El Universal",
-      "source": "| Club El Universal",
+      "title": "Diputados aprueban Ley del ISR para combatir la evasión fiscal",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGZqbDlRaXdpRnEwUG9iUmNtSUl3SHdIQnlyR29xY1J3dUF0VlNMam9EeHR5cWdDWFFEZjNVMm5UcGJCTmVWNmFTNTNvaHJHdERkUWJkTk1BeTRxXzdISlZfWGJRQVZXaWZud3RNUDRpY2NxNE1mNjlWb0NUd0tVeWtvZFNRN18zR0pBaDhxTWlVamFrRDZ0U0t6dk4tcUVVSExENTdLdXlDbU5DcXc2WWZOU1ZZZjZoSFBtTjEzd9IB0wFBVV95cUxNbXFQQXY2eUpNSUNRczdFZmUzdXFDNEhLZEtrVDJORzVwN09DSF9hU1d2Qk9VVTJ5cGo3bnVmczJvSHZoTEFUWVpVTHg5X3A2eWpLQ2Rid2RWdjBtX3AyQ0o5Sjd6d0ZzdS02XzNUNnVHLXFnN0RFVWVqYW4xNFJKV1NMUnFaa0Yzb2Y0T3hpVndsLUZZQWRqc3JmS1lDbWtneFFSSVh3aFNtZGFyRVBDcWhxSG5TMVZqWTJ3dTlVT2dDRWdMcEwwWXg4QUZKRHlQNHZr?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 18:41:37 GMT",
+      "description": "Diputados aprueban Ley del ISR para combatir la evasión fiscal El Universal",
+      "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "| Club El Universal",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44OXR0al9DUUhpbk1ibktLVWl1aFFGWm0tSDJpNEZITlhnVFRsdHhnVzdnajNIR3BJZE9jak9ydXQtTi1saERlMlNMZFlDU1FIZWdvOE5mLVVwQlpJQzh4cnh4eDZiZGNIZ1BzeEJvdnhkRTdWdnMwaHBR?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 18:24:16 GMT",
-      "description": "| Club El Universal | Club El Universal",
-      "source": "| Club El Universal",
+      "title": "Cae en Jalisco Iván “N”, líder de “Los Cromos”, célula afín al CJNG",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPblcxV1NSY0Zqa2hBOUl4SDNGM3dCV3pVUXUxYkx0UmFDaDd2cTJOMUhmSzd5WDVQSlNabjhVLTJrdkVIYnZlSWRfSGkyVW1Ham5wVzF5SmdtbTU4MlFUSXMyUWQwb2U2MW1LTEZqeVY5cmtRUXJNNU9ZNDR4OXVmTkQ5cmNfamFjbWpKMjFna1dkdUdDYWNXRnRhVVlFN0NJMWNFb0hLV2x1RGE4OHNRYkRBN3lpUzhTOE5vdVZfSE13Nnh0S3VQbE04NHhrLS0yam5PYm1IV1RkQk4yX2dyak9mODh3cnfSAfsBQVVfeXFMTV9sX2M0b2lCMGJXd2pkQUhfLTNUam5QV0ljcVpUMjUyN3hGQkUxSGFCVFVFZHA4dXBQbEhRcl8yX0hrb2x3dUc4OGE0MTRWSDVEMkRPOG04NENPYkI0MnZaVVJEZ3hMNGlwU0dIY1BYSWE0OVZnVjM3dzkxWTcwMGNqcjNCVHptSUtnd2dPX3hPRTFsSTQ4a01GWVQ4aHJjbjE5M0hDc3M4X2poaVYtdndxelJRdnUxY2hjdnNxakRNbnR5d192cTlSWUpwcnpuVGNQYm1ITGZGMDE4Z3pOckR0OWRsbkk4R0NTckNfMkF4dldKYWhxOVNYNDg?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 16:47:00 GMT",
+      "description": "Cae en Jalisco Iván “N”, líder de “Los Cromos”, célula afín al CJNG El Universal",
+      "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
@@ -250,8 +295,8 @@
       "title": "Detienen a Naim Darrechi en Madrid; esto sabemos sobre el arresto del influencer que huyó de México tras acosa",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzFnVWl2d1BYNjIzYlo1QlJ2amkxNXp2OG8tV2VxT1RSUlcybzJKYk1aT1ZfQU1OQWRJeE1UWG1iMGR2QlppZlBSYnlXSDlqaG4tTVhoLWNGNml3MXJFX1FXbk55REhHdHJmQ0ZYRG52YTNXQUpxSlFxZzJoNER1RmstZ2JISWp1amxWeVBlMHVpa19M0gGUAUFVX3lxTFBCWUg4Y0RWd2FFcEtfWWh6ZG1PSWFRdVd3ekRlNWhUNEo2Q3BwLUg2azNnMUVRWi1CODA3bnhYb01YOW8zZWRWSVlwT1B6MmRKMU9sMll1SnV6cFBzSXRua2xLeXZvTjI2TEVwc01sZnU4Qnh6QTd2YmN0cFhZYTZrMWFIUUlwUEJwTEcwU0lUVGV5VWY?oc=5",
       "pubDate": "Wed, 14 Oct 2026 16:22:00 GMT",
-      "description": "Detienen a Naim Darrechi en Madrid; esto sabemos sobre el arresto del influencer que huyó de México tras acosa Milenio",
-      "source": "Milenio",
+      "description": "Detienen a Naim Darrechi en Madrid; esto sabemos sobre el arresto del influencer que huyó de México tras acosa MILENIO",
+      "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
@@ -274,13 +319,13 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "El semental de los millones",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GeXRnUEdJaWpFRmpuVnV4cjFzVDZWdFZiV0dWUjZRWVB6MDFHc3poVTVhc1RjOXlJaExkLUNCUzFsRU9jNFJVblJOOGMwZUtlSkUzeks3OG9oRVJOZTB1MHc2Z0hKSVA3STV1elF3?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 11:02:26 GMT",
-      "description": "El semental de los millones Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "EU no dio pruebas sobre financiamiento de empresas ligadas al Cártel del Noreste a campañas en Tamaulipas",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUFTcXNYYVpSN2dockxJeTNSUEUzcnhyX0s1ZzZtbVVwOWJOV3B4ZDRSNndad2dLeGFGUUJsb0lpUnpFV1NkQ3I4Uk9mNVA3SU5XR2ZvZG5DSTBuekhZbUt6d2V0T2hieDNvbVVFNGZMbGdPeVBTemxUQ2I5dlF4YXdvQmdMb2VoVGd0LWxhbEU1X05hUFp5VGFVQkZMc1FnTzV2UXlwdUJ3TndNb2s4SEFfajM2ZU16VDVn?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 13:34:00 GMT",
+      "description": "EU no dio pruebas sobre financiamiento de empresas ligadas al Cártel del Noreste a campañas en Tamaulipas El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
     },
     {
       "title": "Tira la toalla AT&T en México",
@@ -292,13 +337,13 @@
       "domain": "reforma.com"
     },
     {
-      "title": "T-MEC continuará por 10 años más con revisiones anuales, asegura Marcelo Ebrard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSnBMZEZLendSSjVGTTQ5blhXSzd3Qk9OekhLQVdWcUJhelR6SHhhaEpSR2wtOW1taVhnbENMVjloZkFkYlY0NDhJMjZkTG1CeGUzRXZDeDF0cEVaUXZmeTlvSDlROU83Nm5NZDFCZjVOVWJLMUR5NFM3QmxWMzlhUWdZMDZWSTM1eGlQWEdrYTdTMnlnTGRoLWUwQS1NbVVIQmozeHFlVnpsRVduODA0U2JCNmtLWFRUaUNhdGQ0MUhZZnVNTTkzRmhHdw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:29:15 GMT",
-      "description": "T-MEC continuará por 10 años más con revisiones anuales, asegura Marcelo Ebrard El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
+      "title": "El semental de los millones",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GeXRnUEdJaWpFRmpuVnV4cjFzVDZWdFZiV0dWUjZRWVB6MDFHc3poVTVhc1RjOXlJaExkLUNCUzFsRU9jNFJVblJOOGMwZUtlSkUzeks3OG9oRVJOZTB1MHc2Z0hKSVA3STV1elF3?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 11:02:26 GMT",
+      "description": "El semental de los millones Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "De la infalibilidad a la transparencia",
@@ -313,19 +358,10 @@
       "title": "¿Crisis en el IMSS? ¿Y si construimos más cárceles?",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2N4Z0RZV0s5U1ZtZ0NiQ2NpRGhhdHlCZXR5SFByc1RCSEFwRTYyVDE0a1F4NU5Za2VUOXBRS3llTGhkMEtXY1o4ZmhNUzJBcEpkZ0E1SFdDQ1pRRElPMXJLUGluTXNjYmFQOVc1S21HLXB6MEJ5QjMxVElKclU4TTdYQWczSjNHRVcwZG5DYTRZdFZFbVpyYkZveUg2MVduT1prQTlxWGF6QdIBqgFBVV95cUxPSnNzbmtySU5iWE1vS3ZweENacVRrZ3pJUjBZWjFyU1M2anlGZFNSTVlQTk1CUVZUUVpJcE5PVWdQLUJ2M212VzZmOE5sX20tXzVKWG1HWDc2X3FCc3NRMTUxYVVuYUVEWVpVMDJrWVBlbVY1M1djcGgwUlVkVGVaODRYQ3pESXpyT00zd2JuODM2M2l5NE5IR3JHUk5XUGM3NDdxMHJkZURuQQ?oc=5",
       "pubDate": "Wed, 14 Oct 2026 06:16:00 GMT",
-      "description": "¿Crisis en el IMSS? ¿Y si construimos más cárceles? Milenio",
-      "source": "Milenio",
+      "description": "¿Crisis en el IMSS? ¿Y si construimos más cárceles? MILENIO",
+      "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
-    },
-    {
-      "title": "Exigen en el IMSS 10% de aumento salarial y régimen de jubilación y pensión",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOTZzNW5qWFFVcUlQNXFTYXN0WWVVWkRzUjR1dzhZQUZBOWFfOHQwRFByTm5VX1BqTmlGY0ZVZTl6SE9yX1ZRb1JOc09Wek1VSU91azhFMzZzbVBhT2d4N0VWTGJyeXRnOHFYdXFQV2R0aFpXYnNRTWl1dGdHRzJzbDM4VDlidFRBZU9Nb1pyNld3TC1uWm1EREtZTzVINXpWT0HSAacBQVVfeXFMTlNiMEZKM0VINVRLc1FHMThacGpQdllfS1FhbFh2VXlmZVA5NTRNaEd2VFEwNGZCdzEzeG5zU3RMNjZYZUxDMEVsZHpyR2M4U0V6d1dDTUNrM0hoR1Vsb2l5TWVNUXgwdzJmVV93ZUxOaXZQSnRtVXkyTW9rM3FiZjRvTllpeG1TUDNDaTdhQWd0OU9VSks1aFViU1AzNzRqWGJrYVJqWjg?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 05:08:41 GMT",
-      "description": "Exigen en el IMSS 10% de aumento salarial y régimen de jubilación y pensión Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Televisa y Fintech comprarán filial de AT&T en México por 2 mil mdd",
@@ -344,6 +380,15 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Colapsa puente peatonal y cae sobre auto en avenida de Monterrey, Nuevo León",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzU3YmhoMDZsTlVWbnhqQ2o0bFRCZU51UjM3dE5JOGc0OXZZV2NUWk05VmxrYVU5cXdjVG0tWENTbFJ6ZW9MWlItYWNBRDBjeWZRNmVjcm1LbktDa2g3d3d1ZS1BR1RGaHI3RmUyVEdxN3dBYTBCWXZ5NS1UZkFPdFREOTdWcXVlSmRvZlFOajBfME5GemFRVndtSUVpWmVnXzRpT2ZXOXjSAa4BQVVfeXFMTmFpcEhNT21uTi13QTNXc3d1bFIyYlFrSzlfSVJ1SzNhY2NvT0hRUFlVbEFfZENlMndZZWx4N254cWdNa0wySk5LOUZNbEN4SG1jUVQ3RnVJWHY0LXJyUmJBWWJHbWR6Y3lIeXdGTWdmRURJV1ktSUhfUEVCSU03R2lCWmRkQjJ1dTFTZ200RldVWHl3Vk5iN2RyMXVLdHBuTHVKVTBkVDc2VVZ6eTRn?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 21:22:53 GMT",
+      "description": "Colapsa puente peatonal y cae sobre auto en avenida de Monterrey, Nuevo León Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Grupo Televisa y Fintech Holdings adquieren AT&T México",
@@ -380,33 +425,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "En 120 minutos y sin mover una sola coma: Comisión de Diputados aprueba Ley de Ingresos 2027",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTRjQ2oycGtPLS0wXzE5RFpweW1iTHpDcDl0RmhNZmhyNUx2d3NVLThJdXQ1MktoSWs1aXhmQk82VGE1M3FZOEJfcEVsSzhYTTFIcnNHYUV3SG4yOUJ1UEhjUzJXeGVZRzg5X2RzMURSSHJ3NEV6aURnZHZSRUNDMjRYcVl2aWdYbXhNTFlscjJ0dVZQTk5WRFZrRTRRbGllMjdfWFl6QkhFTXRsams1SS1NaDZaajNmU3dLZWRibU4yUC1zZEl4WA?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 17:51:17 GMT",
-      "description": "En 120 minutos y sin mover una sola coma: Comisión de Diputados aprueba Ley de Ingresos 2027 El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "García Harfuch anuncia seis nuevos penales en México: tendrán 18 mil 480 espacios",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1NYaTdSM01mTFNINW80V1dOcGxvblNBN3hlWmNmWkZxY3h1S1o5TFBqUzV4RVNZNzBMVExwd2dGc2poRDNYeXJ3dXVYOE4wQnRFOVY5MFJDbU9vREswV0l0V3hyQUNVUzlwSlFyNFFtSUxaZDQ0a2hVXzlkX1E3SGxXNnBvaXVmZEY0SEdWa1FCZ3I1cWFqVmZKT0pta19YOGdZQ1FNWWUxVFN6c0N2ZFpSMlB1Z9IBuwFBVV95cUxQZjBITVVOQTVmZFU0M0l4dW5BLWwxMENWT0pqM2tPSG1iejdyNmlSSkNYUEF1dXB2SXlpOHp6XzB4ZGt6enN4QUNuRFhlYWMxSzF3MVpELW9Vb0ZmeEt0M181QnlXVVJ2SHFhaEJkZG54dnpKY0c0QWpnWE1xSHJHT3lFQ0YxTjkyb0hQcjJheWU2eVIzN2l4T3pvamFlNFBOVmpGOUdpU2hTTTVZd1ZMZlYwYTIwc1oyZFpn?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 15:26:02 GMT",
-      "description": "García Harfuch anuncia seis nuevos penales en México: tendrán 18 mil 480 espacios Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Marchas y bloqueos hoy martes 13 de octubre; horarios y alternativas viales",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR1Z0TEhDcUtfS2pJdHN5cTFLWVduQ0pXLUtIUmpVYWhDNzExbVBuRGpoU0MxZHZqSmszTHByb2c1NU5SQ2Z3WnRlYjByeExkejB5cl9rb2VWQUlzTE1hVzd5czdkaEswY3ZaV3lsV2hreldqM01EOFJCNWpEQUpLaVZ2SUZwQ1g1TjIyV09oYkctSmwtVXNFU0N2ZmZhdWNPRE1HQmExcXRLdFVWWWNER1RCSDTSAboBQVVfeXFMUFhWQ25ZSTZJa1NVNTlSS2FwMkZRSG9PN0g2UnpRSVU4eUprYmcxTnd3VEhuVDJ1SGJjUXBlRE1ZNE8wTTloR25tbVd2aU9vNUJWYml5V0FQNDBiWm5pYVpTYVRrc1B5aWQ2RXdYd2dpYXl4ZjRDaTc3TUl4dTk5SjY0eDQ2aTgxNkc4bDZ4d19JNjZmM3N4ZnlTR2VjNGtIVUNpRkU1S1luRzVPYTRucDhsa3BOTUtaUHpR?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 14:08:28 GMT",
-      "description": "Marchas y bloqueos hoy martes 13 de octubre; horarios y alternativas viales Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "FMI: Exportaciones ligadas a la IA apoyarían la expansión del PIB de México en el 2027",
@@ -454,15 +472,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Fallece el periodista Francisco Garfias, columnista en Excelsior",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd1lQOW5tdU1JQWhsZHdrZlZqM0dueWZmV3RhMHhqQndsWkFuSkpGdmctdkdNWVpHYXBBRWtsTkhkOUNDQ3Y0Nm9WbnItalRicVdPdjZycW1WSmdaQTBSZU9LNFVVaFcwWmxjWFQ4anlocUY2VWd0SE1TTHBSZEQ4NmptR2YyQzVBRG1aeGtNZGxmUWQxb1ZYRnFycUVVTkQ4aWZERGdLX283ajA4dThnUUQ3QmtKbnFzQTU5WmV6b0ROeDZSQUNOcUxIOU5OYUNHMTduM9IB6AFBVV95cUxPdFZteUgxNnh5LXRzS1lBS201YWtJRHlSUWl1MEVXbjFwdklkS0hDTDRGMGJyU19HeHVXRVBVLXFRYndVS1YzUG5YVk5wWU5WcEdzZ2tidFhsVzNEWWx1YTU1QVRtV0cxSW5zeHVubV9VZ0UxVkJQM0V2dEVFdzQ1UE4ySUlkWi1leDc5dFRNOGhYRUZsMnpNeTZRZXh1WXBFZnpMd25jdENoUjF4YTdCdDVSOFR6UDUzZG1neW5rQXhoX1Bab19XMHRhZWRpUkJYUWpmVHgwb2VNcUowb254anlRRmV3M0JT?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 15:05:53 GMT",
-      "description": "Fallece el periodista Francisco Garfias, columnista en Excelsior El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "Netanyahu acusa al Comité Nobel de haber 'perdido su brújula moral' al premiar a Pillay",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDZpN2VDTkJjRml3QzcwYUJBQWpnNkVNNVV0UUVLQ01TTXUzTW04anBINzJHMFljdDhOUEt4bkRYUC1HdjgzdFN6SDZwdGpaODNRMmh4WjVIcXdEa0NQT1RIaW9wdElBeDI5TjViRmtJbEttaVh6QnJVN2tsNEFxSlJfUDhDYnNNRGdvMGFyV29sRFlieWlFazh2eHpBdENKemhFck1Qazh3cmh1cWV3eWFYUFNHNHdjcXNXVUxCZTFDa3FQSXc?oc=5",
       "pubDate": "Fri, 09 Oct 2026 15:36:00 GMT",
@@ -497,15 +506,6 @@
       "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
-    },
-    {
-      "title": "El Universal | El periódico de México líder en noticias y clasificados",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3a0tkaHFGV3d3bXQzQ29WS3E5SGVuZDBobHJyVWJYSFVXN2JsMVdyenRRNjhrVFZfaDcyOGhybnVkSGpGbVE?oc=5",
-      "pubDate": "Fri, 15 Jun 2018 11:42:51 GMT",
-      "description": "El Universal | El periódico de México líder en noticias y clasificados El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "La UNAM explica cómo superar el estrés postraumático por el sismo",
