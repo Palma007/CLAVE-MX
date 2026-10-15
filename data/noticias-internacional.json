@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T18:44:19.704Z",
+  "updatedAt": "2026-10-15T23:21:43.192Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,76 +64,121 @@
   ],
   "items": [
     {
-      "title": "Miles marchan Colombia en primera protesta contra gobierno",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzhLY2k5cktTekZUa3FVQUxxWDdOYnlhOGt3VUJySS1Cem5iZjI5VE5FQmJuVTR2Y2hSYmhPVUZpaVQ5RUpEbTloM1hEMVFyMEF5S3VrS2E3THJjZGppYzBBd1Q4eTVuWlhId1dMLTM0NjhZMlZmNDg3RnQ0TV9ZZlJoVzZ1SWF2SkZvR3pYTHc4ZzhSX2fSAZYBQVVfeXFMTXNabkR3WXN4eWlkb3hBOWZUa0RPQm1pU3JIS3JVVnZPWGhRTDI2aE8zRjZHQzJqeHNMbl9va3F3aEc4YVZYY0tkZ1Y2c0Zub2pLMEgxT1RSbnk0V0gzZUQ5UVBnenV1T2paMEJWbTZQQlA5YTJrUlg3TV91UlJjUWd1blRjVE90OE9hYTV2c0U5T1FLaDdn?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:57:04 GMT",
-      "description": "Miles marchan Colombia en primera protesta contra gobierno DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas a ciudadanos estadounidenses",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDdralU1LTg3NjBfVHFONUtwLWpCc0tLWlJoVnkxRnQ2aERSdUpUQ1Bzc2VxeVViUm53dFRNUFVCQUhVVmw5LWhkWnE0djNzaUZZYWFWMmMxcXBpT3VOYkJ3LUw0a0ZTMEVld1JjTkFLbTlGdzVQTmVpSDFjTkVUa2NMeUtsY3NMZjRUUmdJMWJKX3JrOEx1N0p3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:57:00 GMT",
+      "pubDate": "Thu, 15 Oct 2026 21:47:00 GMT",
       "description": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas a ciudadanos estadounidenses CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Katie Zacharia se presentó como abogada, pero no lo es",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UR0JHallFR3FDWEZZNmtwZjZpWWg1SFdfdHZWa1pFeDZqQkdBamZ3bDJYVU93aFlOOEtRamU2aEZBODRHNHF3cmgta3J4OFBXbldUVmdBakt1azBkSXR1LVdkYWFYbzVOV1VUVjdBZW9CVEV1Ni1mQkVR?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 14:18:00 GMT",
-      "description": "Katie Zacharia se presentó como abogada, pero no lo es CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Los rancheros que se cuestionan el apoyo a Trump en Nebraska, gran bastión del presidente",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11OFhmbnNvYkdjcWZQY2hfSXUtazJYVXJ6UzNBdzJJZ0Zta0VSQzZaRU5kMjdPSVN2bndVZWZMMDlQWmp0YlFPRE5WemRxM09nTWRUM1RTR0xOeXBo0gFiQVVfeXFMUHJIbVhZUEtDZkZidkdzNFNWcDhoblZta2MzSE1Jc3JKSXNUaGtlakFkZDEtYkNCU000dTI5TF9MNTdVbHVHTVNGcGg4Wmd3ejZpTktsX3NfWWZTWVZxRjN6SUE?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 14:02:27 GMT",
-      "description": "Los rancheros que se cuestionan el apoyo a Trump en Nebraska, gran bastión del presidente BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 13:49:09 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR01hei1UaDZKUlIxLTRVdklhMVRKNWR2X2xYalhmOVlUS094aEdyUGJUMjdRbXF0ME1abGxTeXVTRzdTazl3bEJEMjJDeW1lbk9mSm1VQXFsMV9ubWtHdFBMeUJvWlN0ajR1N1FKaGs2R0tkeWI2bDlWZnR2S3FDdkozUGJIOVgwNk95anpRTEdEQlRWaHNDaGxYSWN5d1HSAZ8BQVVfeXFMTzN4VmlnNzk4VERZdWRGU1JlajJCTF9NakJpM1ZzUHNrd2J6a0pmczJ6UEZYeFh0dDNJNzB0RXYxc3dJempzU3Itb3p2bE0yVXZnSG01R0FIUExYTmdNU0FUVUVwZXJCU1UxZ1dIZkZVSGhOdmRQNjNQU21KTW1pZm4xOGRIT0luRS1hMlFTc3NRZkxQSDEwcHc5OXdPb2s0?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 13:11:06 GMT",
-      "description": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink DW.com",
+      "title": "Miles marchan Colombia en primera protesta contra gobierno",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzhLY2k5cktTekZUa3FVQUxxWDdOYnlhOGt3VUJySS1Cem5iZjI5VE5FQmJuVTR2Y2hSYmhPVUZpaVQ5RUpEbTloM1hEMVFyMEF5S3VrS2E3THJjZGppYzBBd1Q4eTVuWlhId1dMLTM0NjhZMlZmNDg3RnQ0TV9ZZlJoVzZ1SWF2SkZvR3pYTHc4ZzhSX2fSAZYBQVVfeXFMTXNabkR3WXN4eWlkb3hBOWZUa0RPQm1pU3JIS3JVVnZPWGhRTDI2aE8zRjZHQzJqeHNMbl9va3F3aEc4YVZYY0tkZ1Y2c0Zub2pLMEgxT1RSbnk0V0gzZUQ5UVBnenV1T2paMEJWbTZQQlA5YTJrUlg3TV91UlJjUWd1blRjVE90OE9hYTV2c0U5T1FLaDdn?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 21:00:16 GMT",
+      "description": "Miles marchan Colombia en primera protesta contra gobierno DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Nicolás Maduro y Cilia Flores regresan al tribunal para afrontar la nueva acusación por torturas",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkhaeHE1SlhDRFJ2a1VNQ1pEWUtMVkhlckNsTXJjUXVsRHI3eXhKNVRLVkQ5U3ZfU01vc0U2UWgxY1NqQ3hJakRVaFdkbmpUaWU2SVktX2l6YlFlOGZqSTVnZGdweFBSU0ZPNDZUOEVhWGJQLVlmODJVQ2pzMlJXNm9oRFdqOGRyakxVeVZpVlB1Z0hoM29VMjRWSHNtZGZBeDFGYm1CWk9Zam1sdUtoaWpRazJYNE1zSU5wTmdjSjJkQ0sydE5jZFJwZ29TdUHSAeMBQVVfeXFMTkFlcDJzQW94eUFZR0QzUFFxZnhoTUdhYmI1LVp1Tmw1ZkppMndzV0t6R0kyTExlUGtPNF81RkFWZ3dzX3BmNG4zcUozVHA4RUpBY3o1RnRPNlpheXZ3RTZLdG9MSUNqYnVlWDV5TTdyRlZlMm05aXhyVm0tM2VPNUViMndkbWVzWERqaGNSNDVDRXhaRXlrV0dkb0EzQ1Q1cDIzMW9CY1IzWDlkSU5mVEY2VW9lMXhtVmZSc0hrUk9PSTBScS0zcnkzU1lrLWtnbDFOUXZIeE11aWxGT1NJVi02RFU?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 12:59:16 GMT",
-      "description": "Nicolás Maduro y Cilia Flores regresan al tribunal para afrontar la nueva acusación por torturas EL PAÍS",
+      "title": "En fotos: así es la nueva megacárcel de máxima seguridad de Costa Rica que imita a la de Bukele en El Salvador",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81OWFkRWZIck5hQ1UyRXpUdzhYSW1sdVh0SDVJenVZQ2RkRW9pT21kTFlFZTctSWVuRmtaTXpzaWdQcUN1R2FtRGJFN3U1WkNMMGg0V0hpVkxLZzhR0gFiQVVfeXFMUGVoUHk1VVUtdGFYNU83S09SNVA4Y2xEa3EweE5obXNfRmF1OWlFdkxYMUtOMTZRQWNXZDhNbjRkRzIzeDJlbEgxel9rcGswVU1qZzBPOFRLLUh3SFJvbzJORkE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 18:12:44 GMT",
+      "description": "En fotos: así es la nueva megacárcel de máxima seguridad de Costa Rica que imita a la de Bukele en El Salvador BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5INVFJOHJSR2Z6di1Fc1c2YjExNjdkTk16WFV5enZCZ0NLQ3BoZmlnbUhFcE1fcEw2eGRsWWZOeGg1RndETUZCd1llOXExNHlMZ0E0UEhjeDVwQV9C0gFiQVVfeXFMTktlMEoxSjZRZ09CY1RrQUZ2N3hxc1lhQnRqZ09DSUw5X254a1dNZ1hGa043VWxaOG1uR0pVSGhSdXRqa2FYYV9xREkxamNuSm40bWM4aDN1TGVoZk40NGY5T1E?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 17:51:42 GMT",
+      "description": "\"Soy completamente inocente\": Nicolás Maduro y Cilia Flores se declaran no culpables de los nuevos cargos de tortura BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El Gobierno de Jalisco investiga a 17 policías por el uso de la fuerza durante la marcha por el agua",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRHhRcjZlbDFkRTRKNEl4WDRYMl9PNC0zQ3NFbzhUX1VjX3pGVWwwM2N6V196LU0yMFFpX3NSMVZ6N1owbW4yekl1RXA1V1JUT1dPVElwdm9xX3p1V3g2eVdBaW9OSExkZS1tUnV4X2RwWVlRbTE1alJSaVhDd0lGT3dwb1JZOGczUVdpdFdjWEZMSlh4UzdueFRoQ0U2YjIxbkJIWTM1MS1uTUh2N2owTW5xLU5wT1BjNGR0U19qa1hsS3pLRTRKWV9Qa2hScVBaMXhteE9xZi03Z9IB7gFBVV95cUxOQW94WHROaVpod2J1SC1zQTh1ZG1WZXRYQTBId3c0Tk42RGZDTk9RdTNBWmV6aU1MOVNDbk1VekpMLXpHZFpRZFFoOThqeU5mOFRRU203dUdaZ0UycWhaT1F4d3hjMXhYRG9iU1o5X0hxdHA3QnVtM1NHdFpDZUJPUkRRUlVKQmFEOXJWc3p3QWpTallMaFZVYUFGVm1lTzEzckpjeHFPMTV1b3dEU3N5d0psNFZ6VzNRVnpZaVJUSG1FN1FVV1lraWxhVkloV3hFdnpKVWNTT0FIMFdkVHVHbkxNRDR0NGR3ZDlhdHFR?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 17:04:39 GMT",
+      "description": "El Gobierno de Jalisco investiga a 17 policías por el uso de la fuerza durante la marcha por el agua EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hV2xDbnBYVUhWVEctVE1weHVHeVh3NkVhUFdIaS0zWkpJS0kySHVaSzM3Nmx4Y1lBbjJSSnZMNWd2cFZpQWQ0TTQ2dGlLc0xHRmFzMlNfeTBXNmM5?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 12:02:23 GMT",
-      "description": "Quién es Katie Zacharia y por qué su designación como secretaria de prensa de Trump ha generado controversia BBC",
+      "title": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19yRXRJclNSZzFMUW9XbkZfb3lWTGxucHFnVnl5SGZwWGJHYTJpbVFZei1KRGwwMURlQjBGQUd5Sk1ZZGYybDdtX2Nyb3h0MWJ0TkF3X1Uzbm1OOEZfLVBJYXNaMUJHaGF2Qm1RaXVuX3JMMk1Bekp5ZW5USjk5NmF3T0ZnTnJa?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 16:57:59 GMT",
+      "description": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020 Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "\"Denuncio que Russell Brand me violó\": el testimonio de una de las 6 mujeres que acusan al actor y exesposo de Katy Perry",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaZEVObXI4SWoxaHRsT09mbHFQUkFYWEx5TzVTY2ZNZktRMGF0YnVEZm15TDFlY055SHgtdXNNZ2RpMTVoSDVMc180S0t5dnVncXJmMHlJbk5HVXhm0gFiQVVfeXFMTThaU0VYUVRHRDVDTnl3ck1pdUV2d2RjOFY4Nnp1cXBEaWdHVzdkWkJ1bVMxMHBIMFJTeGtFX29ybDFaMmhXaXR2S1hLdC1hbzQ2X2NkQVBqd1NCWGluLWFqSVE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 16:41:39 GMT",
+      "description": "\"Denuncio que Russell Brand me violó\": el testimonio de una de las 6 mujeres que acusan al actor y exesposo de Katy Perry BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La UNAM y el Gobierno de Ciudad de México anuncian la creación de un nuevo campus: la ENES Suroriente",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWmw2dmlMaHpTQUVLTW1ScUZjSnlaTUx6WURLeU1ZWXNJYkVvbEFFTVI0TkxUN1lQcU84NXN4b3RENDlleFIwZnBuR0I2bzJNVkVscFRjT0R1UGRlRXAycHNUQUhXYU1kVDRjWU5oN1pLWTBfNWd3VVF0bnNNcU0wMmxHenl3YU94QUtQbUg2MGJhVHFnbTVhN1lISzQ3dS1IZzN3TU56RHRjSEFsMlpkUmxsTUZPd2VOWmNQT3M0WlZiOUFTeGxmOVFEOFlhVE1xMzF2RXF2NFVkQdIB7gFBVV95cUxNVUxack4zX1BGWUJtN04zYWdIWDhOdzlPS3ZFWFI0NEdET1U2b0lzbHFnRTNKb0l0ZHBoNUVGcWRSdGdpODh3NUh4WkdnajkyOFIzZ2NiNEVzZV9Qaks0eUNwd2YyaDBYRy1uX05NNU1ROUFtWUNsUUw3aENvMHFpVkFMOWluQXBwYVR5TmRGRTFNLUpCRVRocWNZRkg2VDFsV01RenoteTh5bG1Sa1N6NExUcFR6ZHkzYTRaeDc0cnpGSDdOYjhod0hDX2FCdEZ1LWsyeHNDcE1HNXJ4SEdKdS1BYVdjNkd6UF9rM3Bn?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 16:06:43 GMT",
+      "description": "La UNAM y el Gobierno de Ciudad de México anuncian la creación de un nuevo campus: la ENES Suroriente EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El Gobierno de Yucatán clausura seis lagos artificiales en Mérida por la presencia de la ameba ‘comecerebros’",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmU4a1F3N2tUWXlEUjM4TllQTHpzRHlhUzc2cmxBVnhMU1ZpMFRiblByNzhQWlJrYnY4U2ZZbk1oREY2THVmaF83Q3BObEJ0Mmk3cVc4b2FUeWhKaVZtZUEzS3hMaVRyek91cE1VeFRpdFl3MHlsYlNqT3FHMERBY0NkS1hON0g0N3JDQ1RCLXN0emVlMlRzZGpGaUs5NE14VVhWQW9qbHMtN1NJUzhLb0JZeVU0NDhNVENtazBoMGVCRnN2TFRfYjN3TFhxSHdlaThmTkFqNUI3SjNHcF90WHpSa9IB9wFBVV95cUxNcVFVcWQ1cUpHRXViWXo5QkRlMTlYdzVDZjlXS3M4WXV5czU0QjhxVnZBZ0tmdEFSR0U1U3FmWlRmLWIyN29LTE5ETVpkTFJqOWZ6WnB2N1VtVzhKTVJtRHRJVUhjeGViMDJnNGFJQWtGQWNiZ0dFOVZJZXBkR21tb3NTYVJYRVh1WERTTEJyQWN6RFdjTzVsQ19qMU8zcG14VHlFa0ZNTlhVQXhyWnY1MFpmYWN4ZG02by1MbXdEVjhzUmRLS01FeUpScTZrNFc2WUNVSXpTWFhLaWhfX3NmWm9SOU1IU1hYOVNFeEhNT2xnQjRXaURN?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 15:43:04 GMT",
+      "description": "El Gobierno de Yucatán clausura seis lagos artificiales en Mérida por la presencia de la ameba ‘comecerebros’ EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0RZQ25qd2lQQ0pTNFVoRkN0MDg2VXFHbTVlaktkY1JkMjVfWDFBNWJTb29ja3Y4aUdQY3h6SlFQS3l4WlhIZGgzRXlPQ19kbHE0TlVsZjc3THg1NDVpQjRncHRKc00xT2hlVm9SY2JvZ2hjcGRYZWFtZ01jLXpnMXdGWk1qeEFUcDFMNHl0WHNHcmRnUnppaQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 15:11:00 GMT",
+      "description": "Trump cancela la transmisión en vivo de la ejecución por pelotón de fusilamiento del autor del tiroteo en Fort Hood CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11OFhmbnNvYkdjcWZQY2hfSXUtazJYVXJ6UzNBdzJJZ0Zta0VSQzZaRU5kMjdPSVN2bndVZWZMMDlQWmp0YlFPRE5WemRxM09nTWRUM1RTR0xOeXBo0gFiQVVfeXFMUHJIbVhZUEtDZkZidkdzNFNWcDhoblZta2MzSE1Jc3JKSXNUaGtlakFkZDEtYkNCU000dTI5TF9MNTdVbHVHTVNGcGg4Wmd3ejZpTktsX3NfWWZTWVZxRjN6SUE?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:02:27 GMT",
+      "description": "Los rancheros que se cuestionan haber apoyado a Trump en Nebraska, gran bastión del presidente BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Las potentes y conmovedoras imágenes ganadoras del concurso Fotógrafo de Vida Silvestre del Año 2026",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MSjFKbktVbWFVTGFyWDZjTHEzeWVnVndMVmxjaWFqNnpDTEY5Z2tja09IOGU1YS16SThSVHNxNGthU3VYUDZNMWF0T3ZaaEJ3Z0QtaWF6VEIzMVVk0gFiQVVfeXFMTUxYNnhOVFpQOVRNekZtc1d4XzBWRXFVVFVhTnVvQ3NRMU1UcHlmZVdsY1ItX1ltNmt2dVlzOTl2blBVeFpDN2IzZXN1T2pfZ2tfck1iUkprUTJQbjhaOGZfNXc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 13:07:54 GMT",
+      "description": "Las potentes y conmovedoras imágenes ganadoras del concurso Fotógrafo de Vida Silvestre del Año 2026 BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Las razones tras la caída de popularidad de Kast en Chile",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlIMWswVEE5SFh6ODY3TTcwdXZ4SG13X0FQSURYdm5CR2ZMQUdKNWpGY0lscUFGeGp5dm9tdzJtNG1NeXExS09kRWpWYlpSMmR3Y01YWm9KdW1HSzg5b0RwS3lXX0xuZTV1M0dVSjBNWUxoS1p0ZjZUa2szc2lMU1pITGdIeklGZ3VnRmR3cmowMHcxSGd3dm85Z9IBmwFBVV95cUxOM0ZGbGd3RkV4Z0U0d2RlSEhZTENELVZCRkVmNTFmQ0F1WVR4UU5kZVZyY3hLS3c5TEwzZ0RhMnRsa29JYTNrY3NKZGxWUTVHMGNEbWpoV2ZYMmdWdldUTlNvamRsb3BvMHcteC1CcUFINmFCdDF2bklvWkRQZEg0NHlaOF9aVzdvMUdkbWJMdmFUM0c5aVhURFVvQQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 11:14:17 GMT",
+      "description": "Las razones tras la caída de popularidad de Kast en Chile DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Por qué decido regresar ahora a Venezuela tras haber estado preso en el Helicoide y pasar 12 años en el exilio",
@@ -190,6 +235,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Dos buques de carga se hundieron en el estrecho de Ormuz mientras Irán aumenta los ataques antes de las elecciones en EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1ZQLU0xVEpheGlhMFFicjYzMnp0RU1GZnZOck1nc283X1NOT0VuLWRnS2h3T25neUdDVnJVZ1d2S2MxMWhsQ3RNRVV4MGtlMDlESGlTREZEaUp3bDNyd2dZemQyTFpaN1M1S19ZOGpxZnQ2Q2lROENHaXFNWE5iU0FleWZiSXJ1Z2ZPQ3ZR?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 06:24:00 GMT",
+      "description": "Dos buques de carga se hundieron en el estrecho de Ormuz mientras Irán aumenta los ataques antes de las elecciones en EE.UU. CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0xVZU9nX010ZEFGM3ZHRndnTnJtWFZaUVJzc3IyUjMyWGlfSFhheEEzcXdpSURMdmpsWHJtSG42VkZ0dlhDQUVUY2VRUVRGNkxiSDE4SThhZUt3YlFlMXRwWmZTMmdPcWVNOGJQSWZhNnptV3VteExSbzEzQmd2a0loUlJWNTVTQnNhb2xJSGc3ZnpXU053?oc=5",
       "pubDate": "Thu, 15 Oct 2026 05:07:30 GMT",
@@ -201,29 +255,11 @@
     {
       "title": "Cuba publica Ley de Vivienda que pone fin a confiscaciones",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTRPWjVmWktDR2pCbl9hQ3U1MDEwNDVSenhabDhCTGpMeU9uOWhhX2RqVmo5TzREcG1yNFdxN3BGQzQtRDlHeWN3QUNjbUltWVRxV19QZE9pMmpfMTY4ZVFhbzZBSnAyS29FU1JsRzVLMWZNX0hPQ2JzaHZTNXN0c2cwY2J3NTd0bHl2UGwwSkZVQVZXSUHSAZYBQVVfeXFMUHdnWUxOc1I2b0E2ckpIMl90aU51VDRKZ1JQa2xtSXVmNGZESjZ6VEdDU3VtX2NQdVJzU3A2UTZRWlFoVDF6dFh1VHFfeFJxeWpYSTg0aUNPSWZkbXNGdjVsckx3WjJ2VDEydVhpZWxwSUl0NUZjdkZ6WkVCbjJQWTh3azBBZTVrUVNnTGVyb3RjdEFFYkJ3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:27:55 GMT",
+      "pubDate": "Thu, 15 Oct 2026 01:36:24 GMT",
       "description": "Cuba publica Ley de Vivienda que pone fin a confiscaciones DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZGo5WUhzNVByNHF4dWxzTW85bGNQeXpDSlEwb2tJREozMGREcG1aV1B2TDlnZG54Q0QxcWVpRmFxa3VkRFV6MmhNVzYxYnN5SlZnN25wOGNzMGFk0gFiQVVfeXFMUGd5dmI0Q0Q4NUJNRWx4S2JLTDc5WUI0NC1RNzhIa3NoNWFkVU1fV2h3LVN2NGpmemZuNFNib0RHZGxCXzMxZzhMU0dHX0FEdjFHSDlEV05NazYzMHQtZTdtSlE?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 02:21:24 GMT",
-      "description": "\"Ahora Kyiv es el frente de batalla\": la nueva estrategia de Putin de hacer invivibles las ciudades de Ucrania BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IcmVxX1puYjZfV29jbVR0al9BRGRsQjR5VGVGZC1vQkt1ajFIeE15cUlBSFFsNVR3ZklGcE5JYmprNFdsaEYxY1NYcnJvSkVSUGhPMVpKSGhSSzZQ0gFiQVVfeXFMTWZXTmY0TXBkNGtiTGlFUlZLTnAxRU43ZE9YMkIzbFRSLVVMTmtCRVFHNUx0WXZTei1KcDlTTFJpTFA3Sm1vVC10cl84UkhQZndWU1IxSHk2TldVeGxqS000cVE?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 23:01:18 GMT",
-      "description": "Qué son las ondas Kelvin detrás del oleaje destructivo que está afectando a las costas de México y el sur de California BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "EE. UU. está enviando a cientos de soldados a América Latina",
@@ -235,22 +271,22 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0eldiOXZnVll3WTBQMFhhNFR4YUhNbmV3eHlkeGRaQWlnaGlyZUg1aVgxQlByQU5fYkFHX1RtZk1INmlXZjNtMTVPUjlJR0hTUkN5WXlfTHozcThC0gFiQVVfeXFMUEF1TDcxdW45R0s4Q3JYaVhrV1p5TW1XTkRWdDRZcERLdGw3Vl9WalRndjZRM0ZBazVBbEt4UDVjOG4tTzNycVN1V21QWkx4M01lVGNtLV9hRV9feVRxaDQyaHc?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 21:56:18 GMT",
-      "description": "Los médicos del Papa informan que camina y se recupera \"según lo previsto\" tras su cirugía por un cáncer de pulmón BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR01hei1UaDZKUlIxLTRVdklhMVRKNWR2X2xYalhmOVlUS094aEdyUGJUMjdRbXF0ME1abGxTeXVTRzdTazl3bEJEMjJDeW1lbk9mSm1VQXFsMV9ubWtHdFBMeUJvWlN0ajR1N1FKaGs2R0tkeWI2bDlWZnR2S3FDdkozUGJIOVgwNk95anpRTEdEQlRWaHNDaGxYSWN5d1HSAZ8BQVVfeXFMTzN4VmlnNzk4VERZdWRGU1JlajJCTF9NakJpM1ZzUHNrd2J6a0pmczJ6UEZYeFh0dDNJNzB0RXYxc3dJempzU3Itb3p2bE0yVXZnSG01R0FIUExYTmdNU0FUVUVwZXJCU1UxZ1dIZkZVSGhOdmRQNjNQU21KTW1pZm4xOGRIT0luRS1hMlFTc3NRZkxQSDEwcHc5OXdPb2s0?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 21:11:06 GMT",
+      "description": "Zelenski pide a Elon Musk que restablezca el servicio de Starlink DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
-      "title": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas”",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMFgyVVNFbVRqZ3lWeGdFanB4WXJlR05wNWczd3Zxei0zMFota2RpdVVESmVXMVJXQXRpUEV5VTZvRmtHUFBPSUdqYkhTSFBpMkxwUTZMSkc2UVUxVEh0X1JrNXM2cVllOXJEUlFPNzdPQkl1OUVrLTJCYWM0YXlVajQ4aDc1Q0dvSGlxelBveEMweDRpcnV1Q1pHbTZ3a0dtOE1ZMDZKenc5OUp6RE5pVDlxRDktT20xUk5FZzZMMm9SeW9WdW840gHbAUFVX3lxTE03MDdvV09Lbk9xLTIySGFGbzJxdF9oejUtUDFBejRwT3NKYUVNSVJ4elhRNHR0bUtpUGcwS1RpbEtYQXNrNmZoTEF2bGczQ01oSFYwMUkyQmFTcXRHNlowVUF4S3I3d1l2cjlmNmxiaDJNbzltNklZWGNXRlpORDd1UUU1SlhEZllob19lYXFxQWtXZlRCel9JRWFyaEx4d2JHTW5zajN1dTZPWHg5OHN5VXNoNWFBaVhTaDRhcUdaT191NHZhemhOcHc1UVp1OU5oUlZ6WUMwalBTRQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 20:50:45 GMT",
-      "description": "La presidenta Sheinbaum se estrena como ‘streamer’: “Es completamente falso que uso drogas” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "US company announces progress toward resurrecting the extinct dodo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXpTd2FjSWZKQWZXVEQ5ZFhnNTdIVnZxellBRW9jOVktaTgzaHh6ZzlLX3dldERXSjN2VzhTWUZuRVduRndNSHVYeGphemI4QkQxSHNBZGhUdExCd000dlNmV2hBQnlJcjRwTWpub0xuNzZKZVQ0Nm93VWhwSU05cGRuZFRodVlKYkctLTYtenYzbTNhVjlpUmpQSU9NSVY2bnB3NGdnMmdYUQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 21:04:03 GMT",
+      "description": "US company announces progress toward resurrecting the extinct dodo Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Burnham recibe a Zelenski y promete que apoyo a Ucrania “no cambiará”",
@@ -262,22 +298,13 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "El Tesoro de EE.UU. retira las sanciones contra Jorge Rodríguez, líder chavista y hermano de Delcy Rodríguez",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNnh5RjZidm5ENTBic3VHTGd3QVp0YVExek16dk9saVc1VWhjQmJOdGU3b1JMbmlVVTBzNFdZRXhrM0xwWkhPbTdKNFhUb2hLeHZyTkhyMXVWeHNpOHJleVdWRGpyQThoSE1qdDBtQ2hkcjRVcnFKZlNNTmE3eXQ3dzVvYS1kejZZMUI4cTZyM0VGQjNiVkxfMGt0bTNrQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 20:04:00 GMT",
-      "description": "El Tesoro de EE.UU. retira las sanciones contra Jorge Rodríguez, líder chavista y hermano de Delcy Rodríguez CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "En Contexto - Pelo corto y faldas largas, las medidas estrictas de Keiko Fujimori en las escuelas de Perú",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ2RJbmRKYTF4RjdXM01HS1Jld184aFgzczBzc1lKSmJZYUcxZDR5RXNpYVVYT25VSUstSF9vQ09YVFNpdVRGWTI0bDBmR0ZlS3pmZXBSWXdrWklQRjhJeFZmRi01MDVEdVRpV3BudmVSaUlaSURORk11MlJ2OU84NlYzaGxPSXM3UVRWcU5BSDVuSmJEamg3QWs3ZFk4YnNMMFBlNFlhcS1EYnhURkJJLVpYRmNySFBfcE1CS0Y3YWZQNXJGNmY2U3BMUFJUTzV3VFBmZHREX0xrQ2RCZGZidlEySjRlMWtFNmc?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 19:57:21 GMT",
-      "description": "En Contexto - Pelo corto y faldas largas, las medidas estrictas de Keiko Fujimori en las escuelas de Perú France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "US floats fees for Spanish ships, caps on olive oil imports over port dispute",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXRpYUFVSjE0b3JzQXZzOEhmaDlxUkpjY29qM25GX1B4N3RkcUlJRTJXZG9JOGhGMEN0OWhKWFgxSGlWS0tEZ1ZCSy11SDNyVkVGMkVQellWekh6UUNEZU1sY3F3MklFVk9ZdXBNV2duUnhmQkhQbGdsVGxWcnpQX3p0alowcE91YnhtTFREUnRYbE1qdTlCQkwtb1l5Qk5BakpQUDhvM01nYmxxemttNlZfU0E?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 20:14:16 GMT",
+      "description": "US floats fees for Spanish ships, caps on olive oil imports over port dispute Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "‘Digger’, el gran fracaso de Tom Cruise, es una obra maestra encubierta",
@@ -305,42 +332,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Estados Unidos plantea gravar a los buques españoles y restringir la entrada de productos",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVXBFblJkV3piQzRGMjU1cG8zNC1yRnJaQTcxUERSZTdQeG5IMDhUV0ZJNVp2cENKWmRpcU5TVzh5MmJjbmNBM1VkaUZHODN2dnQ0S1hIaW50a2xCVFdkWGxOOG5aM0oyREZ1aVpsTi0td09CVkhDWm54YWNMOUFZQ1k2amJPMnFYMGM2d0VHbDRDMWV4SGNsS2ZfUmtQODNjbVB6Y3BELWM2eDB0QzZwTzFiUTJmYmhMQ1ZLcVBHT1dEZldYSVpYVnV6MWVQQdIB4gFBVV95cUxPNFNLTkE1b3FjYzJWUXgza285UDNsdGpZcmRsLWJfT1N4aFdrb2xIU1FXZnpob0FQR05RNlA0WE9qT2owdWxYMlFVVHdOWE84QjBaelBCSDVpQjhuRUtsd1NMVFNOUlN6dHFhQ1AtUFhmN1d6VHlGcUxHMjdaZWNQRDlKbkVrSGFYcHZNWEk1b2xkdXZReDUtZGcybl9KejNubHRIVWw3NHlJcjFMY25BR2F4N3phOVB2VlcyME5aQ2VtbjFIT2xGX2xIQ2NBMnA1UXZHNXpEUG91bGtYUDlXVWpn?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 16:33:18 GMT",
-      "description": "Estados Unidos plantea gravar a los buques españoles y restringir la entrada de productos EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "La oposición colombiana denuncia \"intimidación\" a las protestas contra el Gobierno de De la Espriella",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkF6QzZpUVBXVFN1RThaOXRBUVBOSnhZWFVSdlBremdSREhPNXQ4d1Y1MFQ1SlhLaTQ5dkM5VW5MNjF3ZG1VbzFldmhIVjkzNlVYZTFWUVA1Rjk0TVFVWlJqX2RxZkZnYWItMW1wdVk3U1BzenJLb0dRaXhoaXNKS29ndnU2dWR5Zmp2RHNBV3gzbE1hektBN1JjUm9oYUwySmkyLXk5RVdTbDl5V2JPY0xlWWo0RVIxa0dzcjRQNjVzUUcwNDVFcnhqbzN1QTNnNzBoUzVoRWwwLTk2aHQtRHRISFYtY1U?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 15:15:18 GMT",
-      "description": "La oposición colombiana denuncia \"intimidación\" a las protestas contra el Gobierno de De la Espriella France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Ucrania denuncia restricciones de Starlink en el frente, mientras Rusia escala su asedio energético",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQN2pTTndheDUxUHBkcHZsWlppaENDRXRTSEdldUVDQVp2ZEhTcUEwMGdhREF3ZE9vTmRacVRpUVJURWdKc285TnBtVkw5aElmSXdiZUJlSzd1cGlOblBwbnJfMDJaT1B2dG5LUFoyX3BSWG1rV0w4OWFWZUQwNUd6V1hOUHZ1ZXIwdWlfRTFlZmVRa3EzOEZaemM4REpwRjc5SEhqeER0RFVtRkxvMGxKZERWcTM3UUZBYXQxbW5TVmhCb05Ob2NFWnN0Y1kwZHJod0x5MjVFaEVzbENJMjgwcw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:25:25 GMT",
-      "description": "Ucrania denuncia restricciones de Starlink en el frente, mientras Rusia escala su asedio energético France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Las razones tras la caída de popularidad de Kast en Chile",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlIMWswVEE5SFh6ODY3TTcwdXZ4SG13X0FQSURYdm5CR2ZMQUdKNWpGY0lscUFGeGp5dm9tdzJtNG1NeXExS09kRWpWYlpSMmR3Y01YWm9KdW1HSzg5b0RwS3lXX0xuZTV1M0dVSjBNWUxoS1p0ZjZUa2szc2lMU1pITGdIeklGZ3VnRmR3cmowMHcxSGd3dm85Z9IBmwFBVV95cUxOM0ZGbGd3RkV4Z0U0d2RlSEhZTENELVZCRkVmNTFmQ0F1WVR4UU5kZVZyY3hLS3c5TEwzZ0RhMnRsa29JYTNrY3NKZGxWUTVHMGNEbWpoV2ZYMmdWdldUTlNvamRsb3BvMHcteC1CcUFINmFCdDF2bklvWkRQZEg0NHlaOF9aVzdvMUdkbWJMdmFUM0c5aVhURFVvQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:15:38 GMT",
-      "description": "Las razones tras la caída de popularidad de Kast en Chile DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Zelenski afirma que es \"doloroso\" que Trump tome partido por el otro bando, en referencia a Rusia",
@@ -388,10 +379,46 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Huracanes en México: Simón y Rachel dejan al menos dos muertos y 10 desaparecidos",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVBjV0NGRXVFM2MydU9SUm1ZZFFXb2Zxc0NhemhzNEdCaUw5Qm9VQVVBLVkwcThiZTNsZXBVX3VjODJZamtJUmx6WmRWNmxZdHhBX2NsNnAyVVFvVnd0MWlETVhDQWFsNGpHN2tUOGlUOXRQRjV1MV9HU0c4aFZOclAzdnZ0OWtzZlYxcE5kWm9ZYVZsVmo3WFFFVG55Q1NPc3VlSVljOFdmZlZJa3BqS1RjMVRaMXg2bXpVUlJqdlVzTmVSOXd1MmRlY09aQmNnUXJmNXk5OGJ4bmJjb3VoUg?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 21:34:00 GMT",
+      "description": "Huracanes en México: Simón y Rachel dejan al menos dos muertos y 10 desaparecidos France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Zelenskyy dice que Rusia sigue atacando sitios energéticos pese a supuesto cese del fuego",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NYUM0WEp6eUlseVExUlFFZWZqaUtjazdCaGVtSUhCRmlCM0I3YzItejgyY3I3SEtOSkhlMFI0UTNqNi1HRlREMVRIVmZjeTRLZXJXVVR3VGRMdFBWdWVsWjlEQV9rQ0VwZFdXX1ZFV3R2YmxuMGV4Tko2UWtSeUE?oc=5",
       "pubDate": "Mon, 12 Oct 2026 19:38:00 GMT",
       "description": "Zelenskyy dice que Rusia sigue atacando sitios energéticos pese a supuesto cese del fuego AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "¿Qué tan saludables son las algas?",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOalBBbHJkWk1XZ2V4UURQNFFSbTFWNjhuLWQ4V090UERPWW9NWFpVV3hSVFlZTy1MbTFfaGllcVotT0JnQVBpbGx4WVhPSWZJOU1oM01HeDdfWkZpM1hFbjYxNGdIZlNSZWUzU0JiTTNNSEF2SE16OW1fY1FwN19XNw?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:50:03 GMT",
+      "description": "¿Qué tan saludables son las algas? The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Mientras Trump duda, ¿hay vías legales para evitar el primer fusilamiento público en EE. UU. en 90 años?",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdTRSMlNSRG43aXlsSzdfbV9VSHdwci1ueENMODEzMjluWk16elJPYzdJOE9oZWtWNGVQWXV1aFlCYkJ0Z09OQlZqeDMwRnhaY2EzMTBVVFh6cUJtekVQLTh1NFhzSXh3X19TQkpOTEM1ekNpX0ZzbkwxanhXRVB3ZmpCcUw0LW00QmZ4dTVkdk5PempTbGZQMzFqZmk1ZkVZNTloTms0enBKTGkzMkw0eWxMOVBGRDdqRnBicmZiQ0ZwbDFMSEZLZWtyZ08wMUU4bmVsNmRaZ0lKVG81WC1yVHlxLVdvS05jaDV0d21IVFh1ZDhHb1JUWXdKTE1FcTRK?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 18:38:30 GMT",
+      "description": "Mientras Trump duda, ¿hay vías legales para evitar el primer fusilamiento público en EE. UU. en 90 años? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Dos potentes sismos de magnitud 7,7 y 6,6 remecen Panamá. No se reportan víctimas fatales",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBIQlM2cnk1eV83ZXg1R2JfZUdqOXhHYk52Vjd0ZWxRU1RrbmtMNnhiRmNGVEY4bDR2OTJsdTF2Z3BRRDVjWmk2MVBEenUzWlB5QVVGR2RfTVVMb2QwTXE0NWtEMmNGbTlydFp5aWUwbVVoQnNyLWMyNWdHRDM?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 03:11:00 GMT",
+      "description": "Dos potentes sismos de magnitud 7,7 y 6,6 remecen Panamá. No se reportan víctimas fatales AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
@@ -424,28 +451,10 @@
       "domain": "reuters.com"
     },
     {
-      "title": "‘Algo no cuadra’: lo que los expertos quieren saber sobre la alarma por peste en Rusia",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHh2SUVlOW9VZ2kzUzJ5S3NJOEZtUnMyVjRLTW1BT3lEYVZxdXRJVXlYMUV3Q0ZQSEFpcmc1aDBFLUlHMjNNUmZsd3JqaGtZRW1yNVptR1BzM3lRSW0yT1drY2JSQ0xTTXc5TmF3Sm5rVGkzUFpYdlQwYTJhNkpPb3NmcEZfb1dVeUhhRnNPR3lfeDNUeHc?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 19:49:07 GMT",
-      "description": "‘Algo no cuadra’: lo que los expertos quieren saber sobre la alarma por peste en Rusia The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Interferencia de fan le niega a Volpe el jonrón del empate de Yankees ante Rays en serie divisional",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOclVMX2w5QjdZbjdaUXd4UnFBVU5GQk9VZmc5cUJJaFVRRzl0bllPVW5nczlsOFJrT25UNW9zYUlOclRaYmVNSy1MZ2lUaHY3LXlyMUVYbjA5LXhDdHV6SFR5MzRjYkhUNG80MVRMRDdndmFRQVpxQnVMdHhpd1E1Z2dKdkMtVDlWZ0VqaktHNWFnY0hHeGJqQmltUQ?oc=5",
       "pubDate": "Thu, 08 Oct 2026 06:34:00 GMT",
       "description": "Interferencia de fan le niega a Volpe el jonrón del empate de Yankees ante Rays en serie divisional AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Rays barren a Yankees en serie divisional gracias a jonrón de Mesa e interferencia de fanático",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjBJQmhDbUZpcThNWTkzc0o5NWJzUkVDQy1ZTzd5cHQxTmpZTFVuRk9aQnk2cmZaaDlEMnZCU0w4alBFZ0h1VkYtV0FGclpLa3daVHBSUWZnb0ZZc3lYUFJGYUI3enlobmstM2ZjSFRlTHBPbDd3cUVXMW5XSkhoZVBZbW5HX2tITDV3bk91UVNlTmJT?oc=5",
-      "pubDate": "Thu, 08 Oct 2026 06:21:00 GMT",
-      "description": "Rays barren a Yankees en serie divisional gracias a jonrón de Mesa e interferencia de fanático AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
@@ -460,24 +469,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Venezuela and Colombia must reopen gas pipeline, association says",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVVMeTRqNVVLVFh6VlpzdTg1OUUtM0NfRVZTa2xvenloSElReC1kQ2JxSkNCbS1EcjFKRlpnbExnSENKLWJDemphcjFFcEk2QzRTa2JTa2hhSU5KTWxRQ3JvOHRvdGNZU0tuZGxHOEVqa0tXSEFxR1RJTlJaNUFlcW1NNjgxcmEzLTlOdFlDMnNvVGdhTzlLQWFYWXhCRFZVbXN1VkQybGxWNktKZk03c3lB?oc=5",
-      "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "description": "Venezuela and Colombia must reopen gas pipeline, association says Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX21CUmMyUXJZWXJ0U3BuOTUydzVtQjNpZ0VJTmhfY0xyazVEc21oNnBocEhmTkVEbEIzejZJUEtaMHNoaW8xZ2RNc0hrOU5DMm95UGtUbS1LREEwaVFZLUVFTXdqOVlPaVpEVXBtV3E1eXdiczM4X1RJQXpDbzRaN243NVRoQ3VBcjhHRXV3c2pZV2ZhcElVYy1oOTIzWGRZMnBiM2dXVVdXb1JPX1ROT1R1WWFpQk13Z1FRVDctQWU3UQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "description": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Fuertes lluvias e inundaciones matan al menos a 62 personas en el norte de India",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lKX2tGcTAwSGdkbm9kSzlhRFlFWWFXajRXU1dxSHZNMFl0U3hjeHpRQ0FlNVlGc3RKamNhQ3pLYTZnZk40MnJIS3dRY2xvXzNEYkdVUkw2UU1ud19CM19mUnJnelRBREYzbHlBZk1FMlh6U3hFMjltN1R1WU5wSTdraXRBTDJiaExRbkhqd044Z0xJSVFV?oc=5",
       "pubDate": "Sun, 27 Sep 2026 07:00:00 GMT",
@@ -485,15 +476,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC16N2FEN1QtSGNHWGFtbDRiVGx6Ymp4RWtNSG05bG9relBsN0dXV0V1czZ6UzM4cXNVVVVNZWh4b1lqQkN0ZnEyVk15dVloMl9WaDVPRkJRTnBudHprOUJ3Yk10azlJcHlremJFLWxTOXp4ZjlfaUtrU0xNamVZZlozQ3M1dDJGZGE0QUxxSW5Pd3VjUXRJWGs0cEI1aF9YQmhNZzQ2V1RlWldGSDNkRVN5azlzQQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "description": "Trump meets Venezuela's Rodriguez for first time since Maduro's capture Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
@@ -566,6 +548,24 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Thu, 20 Aug 2020 23:27:51 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "France 24 - Noticias y actualidad internacional en vivo",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aWUVWQTV5LXdHUFdVOVFxRS1zYlM1UHhDR2kwdVotN3hEU2ZsUEcwekRVT3V3VzM0R0JlTTF5VThRUQ?oc=5",
+      "pubDate": "Mon, 06 Aug 2018 08:41:09 GMT",
+      "description": "France 24 - Noticias y actualidad internacional en vivo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "La Liga fixtures | Football",
