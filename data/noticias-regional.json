@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:29:13.375Z",
+  "updatedAt": "2026-10-16T23:05:00.219Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -53,7 +53,7 @@
       "name": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "status": "ok",
-      "count": 0
+      "count": 6
     },
     {
       "name": "Periódico Central",
@@ -76,6 +76,26 @@
   ],
   "items": [
     {
+      "title": "Vecinos de San Rafael Comac defienden el suelo agrícola y piden clausura de naves industriales y depósito de chatarra",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZEsxTXpjVmVWd1F5MXAybHA3TGFnWlA3Y3pGUHdwT29uaUxTQ25WQkxpMWNlUTFyUXpkem1FeVg5czZ3TDV6VTFwRnlhRlZ5Mm4zbnA0MHhsYi1RSUNVMDRkQ0ZXUVNyWFd5RWN2MjNYUnhkdHVQMG9EZllQXzBwMmd0c0R5WUVzSlhoNmdfTWdJQzQ3NGFLMlJhbkRzSGFsUkkzaldJX21iZmZidHBEM09FRVFvaVpRNVgxaUowblJjZkJoV3Njc3JXUkwzaVB5VDk0TnAyU3hGX0FzNVo1eVhYd1VuTVpLZnhQcGcyYTUya2tLQUU5cQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 20:52:44 GMT",
+      "description": "Vecinos de San Rafael Comac defienden el suelo agrícola y piden clausura de naves industriales y depósito de chatarra El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Ayuntamiento de Puebla recauda 42.9 millones con parquímetros, pero desconoce cuánto aporta cada zona (VIDEOS)",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFBuSjBhYlQtZmdKdXJyZ3VpZE04T3l6SzRmaXlzM0NuSW1zaXFEMnVjUTk3cHR1ZnZYX1kzZ1c3SFNIbmFGMHE4YThsVnA3bTFubEYzLXRqRmd3WXZGWE50bzZLVkhNcVRhUHlMc0pHUmQ5QnNrRVBmRTFfYVNHYldSNTE3N2hyaWdDQ1lCUWNVaU9tVkZYWUpuVm9VWjNvSWo1SVhZd0gyOUlMRFhnSUR4S0p4VnBsT2lIUXJJSmVTVFl6WUw2WmppcGRsMkNMRFp5Tno3ZFR3TmJjUmhvQmlGVmhwTUFYTDAzWnZ0Xy0xTWFjRnZIQzVMRUMzaEdFUlZUNw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 19:45:32 GMT",
+      "description": "Ayuntamiento de Puebla recauda 42.9 millones con parquímetros, pero desconoce cuánto aporta cada zona (VIDEOS) Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Cuerpo hallado en canal de Altepexi es de una adulta mayor",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXpmVGp2OWhWcGJEdDZwN0ozTkJIVnBWRUJZaEI5LWtKVThhYjRrOVlsQnAza2Y3a0lmRWdMOGdqSnF6d21LaVhndWdTMjhxMXFxX1hRcExJZXpPekZLZ3dWU0V6eURLTFNvcFVMWWkxM0JibjlyXzFaVjF5elRSMHZpQzJ1R1VWQm8tMjZNYnR5NXNxelc1czBnYU8?oc=5",
       "pubDate": "Fri, 16 Oct 2026 15:36:51 GMT",
@@ -96,6 +116,16 @@
       "group": "estatal"
     },
     {
+      "title": "Un informe con mensajes a descifrar",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQkVpeDliNzJDaGJlZWVrbnpSd3lSTTYtRklDN2d5dVdFZ0F3TjBWZklEd09kaFRLVWQxNzdmOGFucTdKOURGUUNFb3ZPbE5jakNYRUVTUDg4OHo2OFVndTJ4Nk9yclRKbWExeU1xbTNaRmFGSXYwNl9MRF9sbkxEdzlMb29LS0ZldzNqTEdUTDRCZmhCc21tRk8yQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 06:44:49 GMT",
+      "description": "Un informe con mensajes a descifrar Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
       "title": "Por inseguridad en tianguis y carreteras, compradores piden mercancía directa a maquiladores",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmpPNUw0ZzJLdkNjT0xTNWNWQm9PQUhKNVdaTWE1S2tMUHlGbDhLYW9aQWdMVElHWHpndkJWcmZaZWJ6aGFJYmQtdmhsM0pDVGsxUDZKeW5vbVBLZ3B6NFZtejRxSXZSbzdSQmREYmhOc1FBY2p0dURwQmVmR1ZrbGNFWFNTMmU3eE43aWdsTTRZbVBCVVJEQkJUVENEck5IcXBGNkV5M1JkZXh0M2VuNWxMUDhRTkNSVnVuY2pzWm83QXBYd1ZVcVlBSFowYVFYZ3F0ZE5B?oc=5",
       "pubDate": "Fri, 16 Oct 2026 04:44:57 GMT",
@@ -106,13 +136,23 @@
       "group": "estatal"
     },
     {
-      "title": "El futuro es hoy: Tesla presenta con éxito el primer auto volador ¡Hasta hizo volteretas! (VIDEO)",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX0Yya09GV0tIVU1SNmo3MG5qUFp3bldXMHNZR3BwbVRHdWd3MUhDbU4xZEhxSXc2di1XRFE4WVJyNjJBQ1hEd1ZNWTRGZ3ppRVdhakxkMmF1TmhSTWJhZlpWSTdwNVRRZ3RQQnNSd1NLQmYxWXJ0RUFONEhFYUtDY0ZKX2xpY1BxOTRvdkZ6NjFOOUNYbE5DS3hlcjM2UXB0SHAyNUx2VGkyY1RuRUg5Qno2aVloTFl0RlVNczZLNTZORXdLRDZSbmpPbkJJR0dpMDRfeElJOXV2NTQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 04:10:27 GMT",
-      "description": "El futuro es hoy: Tesla presenta con éxito el primer auto volador ¡Hasta hizo volteretas! (VIDEO) Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
+      "title": "“Nosotros también somos jóvenes y con mucha calidad”: Club Puebla no se achica ante Gilberto Mora",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS1lrd1dnOThJVW5fTWpmVXFUeWEyU2steWg1SENZX1d5YWgxQjRteHEyamF0UEhIdF9ZZ1EzTmJULUhHUmF5cGVzN0JKSm1fNnItYXdsaUZNS1ZFaGlFWFVPMUQ0aHhiTDBZUW9Bb1BtVTNXbF9Zb2Q2RzNQSUtMbG5iR0xZR2dWUE1NT3g3X0hXNl90YldZdllNd3FOT3JGZFVsTFNMdFloRUpkNVdaV0NmODNCU2djN2NOdFJWWlY2Sm81dEVXb28wa0FYZ2Q2NWdiRlYxZ1hMMngyOWc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 04:01:16 GMT",
+      "description": "“Nosotros también somos jóvenes y con mucha calidad”: Club Puebla no se achica ante Gilberto Mora El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "El futuro de Puebla capital se construye juntos: PepeChedraui",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XdmNobXJZMGVnMlJVYmRYbWFUU0lSLWRYYjJlNDBwTS1QSnQ2cGp3VmhmYkZ6YWRhYkw2UGFlaHFqSHV1aU5xdmo0QnpFa0hRckpvSkNUU1FUVmxqRUpjLTBCQVFzMlV2WWVKTFJwNUIyMVlLc0p0QUJn?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 04:00:47 GMT",
+      "description": "El futuro de Puebla capital se construye juntos: PepeChedraui Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
       "group": "estatal"
     },
     {
@@ -146,16 +186,6 @@
       "group": "local"
     },
     {
-      "title": "BUAP también suspende clases presenciales a causa de las posibles lluvias en Teziutlán y Tlatlauquitepec",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWnF2bjRFR2E4d3dzVWVlTzM0LTVGYzZxV2FiUzg1ODREWmhocmtYamlHX2dIT09MOHk4bjIxcjF2azBWaVlIM3M0cFRIUnkzQXRaSGYybXFVcDJPLTU3WTBCbUx3ZzlhU1dzaFNWOEVxeGJ1alFzeUxOUnd1cVZKREg4STVnRldvOW0xU3ZQRUJuVU13QWVMZktFTV9odlRyMGFwR1F5VVJuMXhBRzNpWWhXUzBYeW1NdkFQZ2ZHaDBkMHhEWVBrcHE1RG9oX3JfV19WM0taTzJpM3JLQ1JBb1ViM2dEQm8?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 02:44:48 GMT",
-      "description": "BUAP también suspende clases presenciales a causa de las posibles lluvias en Teziutlán y Tlatlauquitepec El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
       "title": "Vecinos de las Cholulas se organizan contra el ruido de la pirotecnia",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc09pbkNJODMzRHc5UU1mVkowOXl3NDVwV09GQ0pLbnBfSHFwLWhpcW55Wk9Yb0VxdlNqZ0gtOC1TbVlQUFlHdGJDbG5SeDZFaDVxX3Q3X0VwMTlRRUZWbzUyQ0IwMjJxN1pnamRFb19aYnpVdE8tZ1RiVXRBM0JoSFV0OU85QndEZk9zcy1RY0l0TUdEQktHZXR6UkYzb2RiUW4tczRRdldOZGs?oc=5",
       "pubDate": "Fri, 16 Oct 2026 02:23:31 GMT",
@@ -163,16 +193,6 @@
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Aumento al Derecho de No Residente afectará a nuevos vuelos internacionales en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmhaOWZpazljXzZXRktyZU9tTHhzc3ZzQ0w5T0NWSEZKUUlnUTk0ZXlDY3M1SC1XNEFYRUktS2FNSF9QcHJrRURJZk55amNuaThTVUtwYnh4VmdpVXV0RDQycEgxLWhVNzFkSmVyeE1FS3NVRTQzTXYwY1R2T1ZtQ1hQYUVZQTFGRWx6djBYdFVwRGxLRHpVNzhDY3dIQmFYWDI3UllyTVdBWjIwREhsQVpkVUJaYUZlRUVZd3hWZmFkTm9OWlRzYmJZQmRXQQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 00:55:18 GMT",
-      "description": "Aumento al Derecho de No Residente afectará a nuevos vuelos internacionales en Puebla El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -236,10 +256,10 @@
       "group": "estatal"
     },
     {
-      "title": "Proyecto de Carlos Slim se olvida de las periferias de Puebla: Eurípides Flores",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb0dtNTd2TmJTaEtlQlFEbnZCNjFEREVUbUhGbWJSZXIwQmZBcldkTFZfV3M0ZDlLMEFhdXRYalQxT2J6RldCTXh6VV82SXNfRUFsSWZoaGtpV2JDU0JPQ09lenFRaGxPNWFsclBSQW9vcmVuZWcxc1ZPdjB4QlpHdHhkWGY1ZHBMdk52ekxkcnRWcHk3X3NOeHFCZThOazJQaGNZd1RSeFlVNVR2REhXRmxWSmRZZVEtMlNV?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:54:36 GMT",
-      "description": "Proyecto de Carlos Slim se olvida de las periferias de Puebla: Eurípides Flores Ambas Manos",
+      "title": "Caen cinco asaltantes del transporte público en Las Hadas",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm0xbmdMc0hQZHhJWGdvbHZwZlNlU3dHbGJoQXNIdEI1Qk0zQnVxUzhKYlhTeFJkaWxIS281NWppM2NtczZVTXhJYTBESlV2c0I3Rm5PS0ZjY0c3c0VWdTRqT1BacGhSLW03cjR5Vk52bGk2SGpSaDFQTHZiZjhsYjdESWlYU094eGhidjgwbm5CM256Zl9OYl9SQ2pjaWRLV3lr?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 19:02:21 GMT",
+      "description": "Caen cinco asaltantes del transporte público en Las Hadas Ambas Manos",
       "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
@@ -266,14 +286,14 @@
       "group": "local"
     },
     {
-      "title": "Ópera BUAP celebra su mayoría de edad con su 3er Festival operístico",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdl92aWg2VHNlRURYNU5OdmlrMThKNlU4RlY3ZnYtVXZTekhyeXdmYnczd2xEYUNrclRhcy1uTmU3YmtMRUxBazh1ejhwcTI3VG8ydkpfb0NRMVY1Q0xsd1BGQXNBdnF2a1R1R0VmbmtMSFZFWWJ5SmNsdUQycHNOel9uWE1xRHI3X05tVEZxcFZ2LU1MR2Yyb000dEFMeWw5ZE9PZFF3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:17:34 GMT",
-      "description": "Ópera BUAP celebra su mayoría de edad con su 3er Festival operístico e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
-      "group": "estatal"
+      "title": "Detienen a dos militares en Tehuacán tras reportes de detonaciones en un taller",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORURZU3A2cFlneGtpLXJ1cWZzREQ5S2Z2bFVxTVd3U25IZlhReEhrdGJxSG13dEkwQTd3SENiaTQ5UU1Uekd2N01yWlRwQlo0NTdod0oxSnZFX29IODdyYUhaQXZPeDVMWGZCbkxsQ3RNYTlVZG10RjEzQzNqNFFwQjdQeGVhMmZ5Y2JwSTl6Wk1LOHBEV3dldzJzU0VjSmdSNGprUmZISzBBSFRNQ2NjMHk2UG5kV2pOTlNZ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 15:42:00 GMT",
+      "description": "Detienen a dos militares en Tehuacán tras reportes de detonaciones en un taller Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
     },
     {
       "title": "Roban decenas de celulares en dos tiendas Coppel de Puebla; hay dos detenidos",
@@ -313,6 +333,36 @@
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "La Batalla por Puebla",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVNYQUhyMHlId1JaV2FEdTh4WTEtQmxHUHV6dkdpd1pRWVBKSjdZOEphVnM0YnB6ZGRCSTVtakdpdlJaeE5kVi1kY2xYODFjVE5tQm5taTFseHlLOWpUSDBjWGRGRW5WcjMzd0tTelQtUk5xcDA5c0dSWE85NnZWR1RpRHlxb3NJ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 05:24:48 GMT",
+      "description": "La Batalla por Puebla Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Puebla combate el",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV1NaLWZoODdoTnctZTdyV3dya3prTFhVeXNqMW1YUGhpWkxkWnhnbWFmalVoNjNWQXdpdmlzbGpWdVpNcHVDZGNzRXdHTWdkQkFLdkxhOTJQeW5SWGpBcHB1RThJaEdxTHRqS1ZOTVJuUENObl9jQTB3?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 04:04:49 GMT",
+      "description": "Puebla combate el Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Puebla, con 60% de avance en primera etapa de proyecto contra lluvias",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDV1QnlpTW94b1dYcDUxamV5NlNqa205eDdCd0gzdVdVYzc1ZDRZa0UtVDNvZlg1VUUySDk5ZTNFak83MXN6SzlZOGM1MlpvcE5DcjdXak5iZkQwanJuZWFqUmtOTTlVc0NCR01TRHlUYnctenplNjg3MkZQSUFFZURucUs1X3JvajA2RFpxS0lXd2ozdTFFeFlIWEMyb3N4d3R1OEJB?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 03:23:11 GMT",
+      "description": "Puebla, con 60% de avance en primera etapa de proyecto contra lluvias e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
       "group": "estatal"
     },
     {
@@ -356,23 +406,13 @@
       "group": "estatal"
     },
     {
-      "title": "Cumpliré con los requisitos de Morena para buscar ser nuevamente candidato: Chedraui",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSko3UU56N251a01pdF9yQVNCak10dlVxYkxPb0xwenFuUVFkN0VjemYzbXJtNUhtdFNVY3dRUnJFSm1BUzFyRzlnRk16NV8wUzQ4OVA1T3FGdE1PLXM1R0o5d2loNnp0SkhZdnBVUVlJdlJ0czRUVWZwNk9MRVRFaGZ5VTVGeU1fZmlUb1kydTNpOTNHSzhlOEduYkpOekdhQUpfR0ViSi02MHlJeHY0RE1VUTJIRzd0YVZuckFoaHVuLTNEUXhBOA?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 19:40:43 GMT",
-      "description": "Cumpliré con los requisitos de Morena para buscar ser nuevamente candidato: Chedraui La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Cierran circulación en la autopista Acatzingo-Ciudad Mendoza por choque entre pipa y camión; reportan fuga de gas",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkpNSTN5N2lEckpiR0pBNnlkRW1kbzRnVUlUY19WdmQyM1R1RVFmV0I5RFl3eHFIZUFoXzZfZUx6ZE0xaUpocmhRVEdkZ2ZGWkZTY0hpdmZsSlhSeHRiWl9hWU5IQmYtbTZzQXhmZkRnOElxQ05ETF9JSDgxQUhIYmxzMGxoZnU5UXVGVWhiRE01cU84bElBTEtuYjhWdnlkQnJleFVLbHpfV1VydXpPbkVDWW50TVE4OFVLYWg5NGY2S3BfN1NkWlJ1ejNsbnNoaEhEakRBclhtV1hwUGk5MUVOSWl6dnNLaXYtenpWU1NNdw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 19:16:24 GMT",
-      "description": "Cierran circulación en la autopista Acatzingo-Ciudad Mendoza por choque entre pipa y camión; reportan fuga de gas El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
+      "title": "PAN medirá a 11 aspirantes a alcaldía de San Pedro Cholula",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkgzejhNM0tfQXJZWUFsRER4QU5aN3A5by12WkZRT0xrSHZlVEZFcktiQ2ZsWGw3dnczVHdsTG0tczk4Z2NMMWUtdDYwWkY1bHpPcmZYMlRYVTJhYjBGVFZQTUJ5M1I4a2pWMjVMeGhpcTFOc2RieDBKejlfMDVrV2lEV0hoOEdCQk0xYUttRVBHVzUyd0JpbXYtZDAtRGxSLVpZ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:09:11 GMT",
+      "description": "PAN medirá a 11 aspirantes a alcaldía de San Pedro Cholula Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
@@ -380,6 +420,16 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbG5QYUV6cGtaek5MdE4zUmY4MlNPczNaWGI3d2hZR0JxZmJfZU9kTDJYaHdjZV9QcmtmY0U2bHI1cnFSc1FlSGlwa0M2NXRYMGtncklPdjQ2Z2pNanRzZnRxUnp0NzV0NFlpSnBfUm9oNVpfYXJnbVM0eW5qVm9fbmVabHQ0elJYTjZDLU1KQ1RVTF8xWHNWYUhvN1NLNTg?oc=5",
       "pubDate": "Wed, 14 Oct 2026 19:08:22 GMT",
       "description": "Copiosa votación en la consulta salarial del IMSS; reportan incidentes menores La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Suman 11 los diputados que dejarían el Congreso para buscar candidaturas: Gaspar",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3BqZUxWNlM2clVGem5naHlLYU9VZGdSVFBXanY0RGUtMHJ5QjFWZC10ZG14bmZaUExmQzQyeFJPemREZWEzQUo1dVY1bE9aUDFfUFB2VTE0UEN5TURfaElQd0Vzd2pGZFFkbmhiU2ZtekxwbEVQQ05tSGRQNUVFVjRFQ0wtNVpGb1c0OFdUZG50QVR6dG1lcWVDT3A3b2xTTHhVdnRzZTFDX21DQ3NuQXEtMXctOVVkTW9CbEF0eVczV2M?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 10:04:07 GMT",
+      "description": "Suman 11 los diputados que dejarían el Congreso para buscar candidaturas: Gaspar La Jornada de Oriente - Puebla",
       "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
@@ -406,26 +456,6 @@
       "group": "estatal"
     },
     {
-      "title": "Protestan trabajadores del IMSS en Tehuacán; exigen aumento salarial, insumos y salida de dirigente sindical",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0tqMGloblNLaHFodHFkQVhBWEVyWkNJNGo0YlJ0UlhXMFNOT3ZJTGQ1VVVlWURsVXRKLUtwalNZWmtFeGFlMTRNYUZnbU1oMDc1aFIwMmdSdWN2U0VVNk04M1dUOEx4RlJOLTVJOFdkR2daS1hUb09UMFlkY0FLdTVlN2diM0FxbEQ1WkhjOWM0ZzFwdVpDSWlYbndBNUpWWWdxMkliTEY4Y1o3R2JrZnl5YjBRckg2MU9HM1pxZGJJcTZsY3pRM092aw?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 01:04:00 GMT",
-      "description": "Protestan trabajadores del IMSS en Tehuacán; exigen aumento salarial, insumos y salida de dirigente sindical Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
-    },
-    {
-      "title": "Banda MS encabezará la apertura del Festival Étnico del Mole de Caderas en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2ZPd0dnSWEydnl1WUxGT3hNRXpFZzczemotbXdLOG9kb2pDbEdFNThvTmp5MVdDbmJpUXgtc25wZlNMUFE0R3JONWcwaW5jQjFDWFQxNUJ0Q2V3T0tUaVdhbFhzT1Rmclp5OU42bnVGZ1BaZHdmTDQ5XzV3SWpuSHJwY0tvNF9GS3JGckg1bUNzNkJfU182eVhkR2g5cTgzdnhOSkdqaXpOXzIxMWNWMGZmZGZtc0ZS0gG4AUFVX3lxTE5PZk93R2dJYTJ2eXVZTEZPeE1FekVnNzN6ai1td0s4b2RvakNsR0U1OG9OankxV0NuYmlReC1zbnBmU0xQUTRHck41ZzBpbmNCMUNYVDE1QnRDZXdPS1RpV2FsWHNPVGZyWnk5TjZudUZnUFpkd2ZMNDlfNXdJam5IcnBjS280X0ZLckZySDVtQ3M2Ql9TXzZ5WGRHaDlxODN2eE5KR2ppek5fMjExY1YwZmZkZm1zRlI?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 21:27:35 GMT",
-      "description": "Banda MS encabezará la apertura del Festival Étnico del Mole de Caderas en Tehuacán Noticias Tehuacan",
-      "source": "Noticias Tehuacan",
-      "outlet": "Noticias Tehuacán",
-      "domain": "noticiastehuacan.com",
-      "group": "local"
-    },
-    {
       "title": "Denuncia Simesa desigualdad laboral y falta de pago de prestaciones en IMSS-Bienestar; marcharán mañana",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNam00Ny1JakQxX2VHQlN1UWFZS0hyUXktMnFnTXBvUlJVNEtqSnZITXh6dTdLWl9va0dwTkNJTm1QaGJNRUNJY1Uxc0xTeVFiZDdIY1BDUk55b3lscVhNOVlNLVZEc2d2ZXJlMXNkZ29QVHJmMFp1MlRtZjg1T1RITGpZSXdzLWFBWll5ZGExN1VxSU1fWG9UaEdwa2IwWXB5a1hN?oc=5",
       "pubDate": "Tue, 13 Oct 2026 19:38:34 GMT",
@@ -439,8 +469,8 @@
       "title": "“El Toñín” tiene de cómplices a gobernantes y empresarios, por eso no es fácil detenerlo: Armenta",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeDk4b3FLTFpwMUY5RFV1VjdDOW9tZ3p5OFVRbEo1MzhORXd5N1A1cEd3cjc2eWVhZVFITDMtU1NTX05kZkJMSjFjYkZWTEZROERlNUFaN0d0LVpfM0pteEtwY0p1RWJBTkRBY3U4aHZ0TFdIX3VJMzRmMjJsUGtYZ2RMS0wtUUNBeWNmY1ROTWgxNkNlbnUtVmFRU095T3F1UGkyZm0xVm11XzdfR0x1R3R6dFVoeXA3anpLUzJDcmI4U292VTNjNm9zMUE1UkNtUkxQa3QtS1E?oc=5",
       "pubDate": "Tue, 13 Oct 2026 10:09:44 GMT",
-      "description": "“El Toñín” tiene de cómplices a gobernantes y empresarios, por eso no es fácil detenerlo: Armenta La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "“El Toñín” tiene de cómplices a gobernantes y empresarios, por eso no es fácil detenerlo: Armenta La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
@@ -454,6 +484,36 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
+    },
+    {
+      "title": "Con tecnología de punta,",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZZjNsRkFkSEdZdHZUXy0yUm96WjlOZGpVTXZDbVUyYmtYY2xmdG9abVM0a3VMR2c0bkFucEJnN1huRndCcTZoMjlvbE0wamJvY0w2YnlGTU4yVUI4NGpPV1JOS3pac011cjdFVWhqaDhnRHkySEVibFhn?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 04:02:41 GMT",
+      "description": "Con tecnología de punta, Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Ahora, dos drones y un avión no tripulado vigilarán autopistas de Puebla con alta incidencia delictiva",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQks5MXZVNUp2X2pZLWRjQlZabkZzMy1XU2tHV2VWMFVqMGJHbVVNSDhZd3BjYm11YWRocl90azYyU0FZcF9ab0ZRZmV4VXE4YVJsZ0pmZHVqcEpkMWpFN2xJV1BrSUdZbFh6Q3Vidk15elo2WEQya0hKeTk1Ml9kNFJRQzNjZXl0NGI5QUtPOU9wQXM0ZG5VUGVHSklMNFhhbzU0MS0tTmo1b2d6VHh0Mk4tb3JwdElRVHJIdURXQ0NhSkM4cVpVLV8yMlJiU0NxQUJTWC13?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 23:09:24 GMT",
+      "description": "Ahora, dos drones y un avión no tripulado vigilarán autopistas de Puebla con alta incidencia delictiva El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "BUAP reúne a cuatro países para debatir retos de la administración",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnJEeWtMYkpybmloR2ZxaUlSdUNzT2dqaFlocG1yeHJZUFE3Y2lJYzY3QlltUm1xSG1lb3FMMUJkTTNQdktweGo5Z2IweTNLUGlnak5YYmJ5YlVsYmFWM3d0cElFRUdobHhrY2tPZzdoVmJ2cU5CNTN4djZFSnVYalBFYTNMLTVGUUN4QnN2YVNxbGZZQ0I0clQ1MloxWDNVN19MMkR0cHJQMGlDaGdPZkpWcmVhXzhWZkVZUmV4bndJVE9TZXo4em1pTTBUYlpEZGxya0NaTQ?oc=5",
+      "pubDate": "Mon, 12 Oct 2026 21:02:26 GMT",
+      "description": "BUAP reúne a cuatro países para debatir retos de la administración Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
     },
     {
       "title": "\"Atrapar a El Toñín no es fácil, administraciones pasadas lo protegieron\": Armenta",
@@ -476,14 +536,14 @@
       "group": "local"
     },
     {
-      "title": "Así cayó Juan Lira “El Moco”, líder huachicolero de la Sierra Norte",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWtIS2tjYlZHSjFjekItWElFQkYyV25tcUc5YTQyaHNhVmY0R1VUVzJlWnYtVEtiRUVMREFpWEtYdkJOU19nTzI5YTMwWlRIcXZCZnBRQThsWmFSOXg1YTJsOWR2a3JUNnBIQTBNV3hRcGVKMGVxRFZqQzVZaFhJOEVmNnllQXRGYTdVVU1EODl0ZWxhNFR2WE5tRDJrZmNhcFY4NmdPMVo1SG1J?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 04:15:32 GMT",
-      "description": "Así cayó Juan Lira “El Moco”, líder huachicolero de la Sierra Norte Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
+      "title": "Detienen a hombre tras reporte de robo cerca del parque de Tula en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDlHeXFybDEwVWo2cFNoLVVsc3lseGpfcG9RUDZ6TEZKSFQwc3JjaGdUdXN0TDFFeXIwR3F3SUZHaDJIaXROekNsYUV0cGpobDZBQkNUUzh1aUJNT3ZuUXcteGxSZU5fMlhHNGU3UnEwcnF6eENXR3JZbENaSXRBMmo4dEdwdGRiWlUtS21jdGw2bXpjOU02bGVhMFdVTEVXUDZHWXVtODPSAa4BQVVfeXFMUG9oS2NRT2VNelZTX3htcjhKQWI5MTZPazhOR2d0OVY1SFdLb05Dd0NoV1BXcm9wM1FQM2hEYWJpdm9DRFltUkFOdDhzV0tKNGpfaVM5bnd3ZEZSVWhUTk9BV18ySWhqMEpYMHN0NjNXUUEzU0JNclQwQm01di1lQ1Ridno4Z2Y2UWN5TS1KZk1BbHR5V1ZrRVplam9VNnhWNU5Wc3RmN01IeU52WkNn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 21:01:59 GMT",
+      "description": "Detienen a hombre tras reporte de robo cerca del parque de Tula en Tehuacán Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
     },
     {
       "title": "Impulsa UTTehuacán vinculación académica con el proyecto estratégico Olini -",

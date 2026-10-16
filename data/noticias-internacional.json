@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T18:29:11.993Z",
+  "updatedAt": "2026-10-16T23:05:00.219Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,49 @@
   ],
   "items": [
     {
-      "title": "Trump despide a Katie Zacharia como secretaria de Prensa de la Casa Blanca, dicen asesores",
+      "title": "La polémica por la retirada de decenas de obras del Museo Nacional de Colombia (y qué dice de la \"batalla cultural\" de De la Espriella)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hT3hfaTYxZzNOQy1UQ3Vfam5IVlJXWEFxbkR3WDhfRXloQ09qQ1I4c0pwRzA4OFV5TVFNMng5T19sLXpVcy0zWWpFRjdpRkJWUl9teG1LMTRGS1g30gFiQVVfeXFMTlJsUVBpZWRjSTdnQlNIMEhYc0w5Nk91NVZWZmVGc29xSUx0OUthSVE2OVM0Tl9GR2FocjhZc1owQXc3bkFTOFVUSDJJRm1qR2g1aFFpQVhXSFVNRkZ6NnpqMHc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:08:45 GMT",
+      "description": "La polémica por la retirada de decenas de obras del Museo Nacional de Colombia (y qué dice de la \"batalla cultural\" de De la Espriella) BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La secretaria de prensa de la Casa Blanca, Katie Zacharia, abandona el cargo días después de haberlo asumido",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLY1dIUW9MVmt0STdhanFVTEtmWVdNYnpNSktEMDBVMGxWMXFpb1QxanpPbWZLYXFHOTA3ZWtIUFhOTG1GeV9VTk9NS3h4MkR5dmVfbU1aVEN3Q1FC0gFiQVVfeXFMTVFTWDk3aC10NFAyQlhHSTdYYlFtZ3Ywb1pfSEZMX0J5a3NZejFORk5aSGpqRkczSEVTbFFoOTZjbTdDUXFZWUNqX0g2S0ZkLUJ0bG5aUWZsdGRaRHJoZmt0NkE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 20:01:53 GMT",
+      "description": "La secretaria de prensa de la Casa Blanca, Katie Zacharia, abandona el cargo días después de haberlo asumido BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Trump despide a Katie Zacharia como secretaria de Prensa de la Casa Blanca tras cinco días en el cargo, dicen asesores",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGhwRlBySkVCNS1HM1plOE02bElSZVotVXNJcUFsRk82bWNHN2pDM25wOFlhVjVfVFkzNG13a3JRdWJ5T0ZhTU1Mb0oyOFMzeC1WLUo3QnNTTkdxR2xwQ3hlU0U2ZW1TRmc0VDJadVZuQlpTSDZjMG5odFVBS09IcW9CSTNFNFlhTWZuSWljOE9KZTZDSjFnRA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 17:53:00 GMT",
-      "description": "Trump despide a Katie Zacharia como secretaria de Prensa de la Casa Blanca, dicen asesores CNN en Español",
+      "pubDate": "Fri, 16 Oct 2026 19:14:00 GMT",
+      "description": "Trump despide a Katie Zacharia como secretaria de Prensa de la Casa Blanca tras cinco días en el cargo, dicen asesores CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La madre que fue condenada por dejar que su hijo de 5 años paseara solo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wUlhQUjRpdkIxdjdQV3pBM3Y5NjlvQXdVSVVjQkY5VDNWSGZaRTNCOTlESFlTa2FGeTR2VXdzZ3YyRVhrd0dIaG45ZnJROC1NeHBkV2J4aER4Z3VJ0gFiQVVfeXFMTW0zTzQ4MTZfOXhTU05VSm9jRW9ZczhnbnZGeEI3bFlYYmEya0lCYXhxOUktamJxV0ZiNHE0SUVLZ01TQmV6WlZsenA3Q0R6TGdUay10N2JqZTJDZ2xvYmRMSUE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 18:03:43 GMT",
+      "description": "La madre que fue condenada por dejar que su hijo de 5 años paseara solo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOREh6T0NtOFlYRm9ZZGhQeVdsdm5mZGY0UERLc2F6X3FRYlk4OFVJZzdTUXFkNThrOWNEUFBBdm9kOGNib240UlZNZENkRG55ZTRsQ1U1NEg0ejBIUkNUb0JHOF9IUDZPenB2ZjlWektjQ1d5WGZNdlJ4bk5PRFhaRVh3al94TDcyYTFRZ1BBcXRQa2dMeXlhQTFMOFhneWZyNk1RR0RLUEFDdWh0TkpwUDFzYmpULTU5bG5r0gHPAUFVX3lxTE1CX1B6OVhDelpJZ1NNRmVTZ3UxZzg4dks2Slp4ZDJzcjVxMXRZNkRLNVc3RFVub0xBQzdjSmY2c0dfT2RwM0pLTGhIamRTSWphU1FFVGJyUV9kOGFyNXBrenlvMHhFVDNqSTJJSkVEaDB2ZzdtejdNWGNNNnJjSXZrQndCZC1oMTFWWHZSeFpGdmFMdGx1eXYxSGZVd3U2SzRRejZ2RV9PYWVqUm5ZeXhJRHVzd3ZyOWZLTEhJZTVGNWNhWEwzMzFzZlh2OGxpdw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 17:28:46 GMT",
+      "description": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Verificación: Sheinbaum y Bukele no discutieron públicamente sobre sus sistemas educativos",
@@ -82,58 +118,67 @@
       "domain": "reuters.com"
     },
     {
-      "title": "La herida que sugiere que los neandertales eran más violentos de lo que se creía",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYXNFV2RMTWE4YjZSYTZvRVJxcW9DYnQ5SWhZVllMdDlCRl9OZFBmNWJDcHFBRnRYdUZLNEZHQTFxWkdYMlRvU204eVFma0lQTGFOUWlTX29ldjFn0gFiQVVfeXFMUE5zRmloeUdVNlljb0V2OU1fVUJfbUI4TkVhUXAxb3lyQmpFU2g4d2JETDZCTXhMbFZFclRLLVByTm93WHRuWkcyZFVrWThzVnVWYXdtT1ZwcTVzMzdTZW9VR3c?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:50:30 GMT",
-      "description": "La herida que sugiere que los neandertales eran más violentos de lo que se creía BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Suiza levanta el bloqueo de bienes a la esposa de Diosdado Cabello y al diputado chavista Jorge Arreaza",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMEdZdklQelZlbVFOXzJRLUNrUkc3OW84VmhJdmlBVmwxVUF0NVZNZm56OGVxQ2xQRWc1VFlvY19ZRE5tQ1E2aHExOUNFOGktYy16bU01LUk0TGNkTEdDYnV6eXpweWhFWTlGejYzREtqN08xY05DaXloaDNxRmVveTN2YzJJcllHbFpWOFVEbHRjcUp4SXpTbDhlMjAtNDUtTnFXZngxazhyY2xULUhTcGNXODJNVkRBMEp1ckZnV2hFV2hfek83WWI2N3JDMHN3cFlGQ01PYUxGaTBXc21V0gHzAUFVX3lxTFBfSkVVYjNqU20yYWRrTW8yYmw3dWVTVmd6RkM1aHhBNWxqdHdYb292RXA3cGtGWDMwY2lPbXJkRC1kcFJoQjQ3Ujg1TXYxMy1JdktwN09IRk1yamVveDVCTmJwOU1URzdKakYyYUhXYkNfQldTSWxBMmd5el9yYzFhYnVwdlBFODdBQ0RJMVFtaEhNamZJRFRmS290TUZUYTBfWXBfVEx6T0d0VUlRZ0ZWejRhYnB3ZGdGc1g2RE9QWFFTcUNWdVhwZVBDSjJ3UWZWeGVfTnFhQktEMnh0U1l3dTJIZUhURHA2UmdHYXNQYUIxUQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 14:10:21 GMT",
-      "description": "Suiza levanta el bloqueo de bienes a la esposa de Diosdado Cabello y al diputado chavista Jorge Arreaza EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Cómo los centros de datos se convirtieron en el tema latente que podría decidir las elecciones de mitad de mandato en Estados Unidos.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMSlNSY3lmeDRsNkZaeXhpUEFDVXJuSHJ1UmExTkR1ZTdxOXdlazB1YmtnbnRHVnJJa1EwcmNreUtRREo4cWNpb3JyaWZhMVRWU2hmTUc3NGcyQTQt0gFiQVVfeXFMT2xFM0N6ZWRSSTFtMFMwOVJWUHkyYVRVOEVZY0Zrb19KVUZnN29nLWpuaU1jWmZ3VV82TnFucXdJSC1HLXdTTFNWbHQ4OXpwdURISEIyVDZLMEs1ZkxuOFRWNGc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 13:01:45 GMT",
-      "description": "Cómo los centros de datos se convirtieron en el tema latente que podría decidir las elecciones de mitad de mandato en Estados Unidos. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "\"Victoria colombiana\": el fascinante descubrimiento de una planta acuática gigante en Sudamérica que se ve desde el espacio",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRSFEzLXFUQlZLelBiME1lYTRrbHRjS094d08yZGp1SGN3RUExQWlxakdCa3lUbzRpbm9kQzhhV1dvN3I4dlNvWTVuZGRYU1Y0cmpHZkMyNUx1VkIt0gFiQVVfeXFMTWtHNTU2aS1JNlJ4eHJuMlFLdHlvRVZqcTNjTHNhZGNjeWdSeGFQSDZ2SVR2REpBQ1NEVGpyc0lzLWhVa1NRa1RjejZtOE5MT1UtMDFRbHBHd1hMNTNqWm5ZS3c?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 12:23:33 GMT",
-      "description": "\"Victoria colombiana\": el fascinante descubrimiento de una planta acuática gigante en Sudamérica que se ve desde el espacio BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "“Llegué a EE. UU., el país de la libertad, para perderla”: el limbo de un nicaragüense deportado a África",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZ1B6OFRhQkxueklhZUxxSGtDTFZZaVF4UXBwSHpyOVRmUjJHcmVhM1RudDlYZTZHb2RFdDlSdm9CczVvaWREeDRKcGZiRVBtRl9xRWtPeXhpcElFdnpfcURobU9ySmxiaXBiWVN6YkYtRVM5MVNwYWw2WjlMdVlDek1SOURfNm5QWS0takNlM2dOWG9kZFIxRGdPYWx2elRfQWlJYmFGV1FfVVdZU2hmUS1KcG5vYWRIMTA2dWt0NGl6ZjdLc2ljUGUtVFo4R1dONnNPVDJpa3Fra2hiRUNuYjFTSF83WXhBQXRDQWRua1VNSkphWkdDRTlmcnlvLVJDcUU0THRR?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 16:42:02 GMT",
+      "description": "“Llegué a EE. UU., el país de la libertad, para perderla”: el limbo de un nicaragüense deportado a África France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Acuerdo Francia y Alemania para flexibilizar la transición de los motores de combustión",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX29YNHRKM08zRE9GV1Z5WVpxTUUyY3dINlA4VjVXTTM3WFVzVTNQQnlrTHRVNEtlRmp0Tk9VekdDQ0Z0R2EtVXpNMW53OWxsTkM0ZTRySjE3ZU1TVEtsTzRSbjhIeWlKMDEzT3cyMExHLWtUVFN1Y1EtMXVwNU82MWtaRk9oMFhCS1ZlRHhTNFF0TnZSbHZfak1ONHJGdUlMNUlTSEtWaFVISW9mTzh3cjRHNmZjTkVrelFSNjk4aVlmbmRrQUJTVWpEMU1Td0JsNTd5aHdvSmpwSkVDcWtj0gHfAUFVX3lxTE1LdzBTRkxUMjF5MHRVUG52amVtb2N0VGYwZ3FCQWJEYXR5TTZqMUNUU0hRQk1KQlFfMFVvTUwweVFaZzBkWlBfNlN0STNJWmpXYlFBcEcyWVFMbzJxejBKWFJvWjJXTU1WQ0lPM3VENjZFV1kyLUR0ZWc2WVZ3WjZMeEhON3VQTU5DSnhkNE83b1lkOUtmajV6QmxmV0dZNW92OEltMm5kcmhUYTNTczZiZ0pYekJPaVpVdTZZYWM4eWpNMDNuZFRORUdqYzNiZk9UN3FfVEVnQU5GLXJmSHc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 10:45:48 GMT",
+      "pubDate": "Fri, 16 Oct 2026 16:38:14 GMT",
       "description": "Acuerdo Francia y Alemania para flexibilizar la transición de los motores de combustión DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Por qué me niego a que mi hijo de 12 años tome suplementos de proteína",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5T0pUUGNYMVVnN2NUZHBDOFcwbW1KUHVLNnI0SEtBaDdjQnRGVmJLX1NPYmdFUVA4eGRiV1JwZmg2UHdmVVdRQ296UWpxUURxWkNGUzlBZDlwNzUx0gFiQVVfeXFMTTgzbVdUMjdlYlNBM1BIQWJ3T0lhZk9RTnhJZ1h4RC0wTjRVRnowa18tYVpoTkNsNVBSNkUwV0NrRlRDalZzVUJFR25TVllaLU9Ba2otU0QyVWpKTVhTVkF0OXc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 10:36:32 GMT",
-      "description": "Por qué me niego a que mi hijo de 12 años tome suplementos de proteína BBC",
+      "title": "Exagentes del FBI que investigaban a Trump alegan despido ilegal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlRhLW5zczhRM29ZRjlocG9rT283a01WM2V0WWtadS04Nm95dnh4UFJRak5xa3NrUTIySGwwSUZPT2FXYzJoVmZyZ0hEUnh5OFczN19ocUVXejlEb3VaSVJKUGpvcFVNY0UwYnllek1ORUtXbENqclA4QW1McFJDMUhrVzU4ODU1dldWOUFHUXBYTVM1dDNnV2lreTVZZ9IBngFBVV95cUxOdHBpSmFYLWZESm9WWVoxMEtiNGRMMmxZVGpJalFTbFNnUHFHUFNzcmc5SlFyVG5rZ0FvdmJFN0dWekJnZWF2U2UySTFSM2huemU4a1NIT05NZ2VyajNaX200UzY3OVYtSEtNYzAxZFVla0dhWFh5Q2o3U0Q4UUVNQ2RTUEFPTElHcFlHYkU2dS1aVTVCOENDb3ZJMkg1QQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:25:59 GMT",
+      "description": "Exagentes del FBI que investigaban a Trump alegan despido ilegal DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Isabel Allende gana el Premio Planeta 2026 con la secuela de \"La casa de los espíritus\", la obra que la hizo famosa",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GSURvcExsYWZIaWJLODRsOExQQ04tRXZLNzN4bmdhOFAwczVpV3hwRjZCbFBBei1ZY08yMllvbkcxZnd5UndCOEpxMThDd0V0Qnhuem9wYUotcWFq0gFiQVVfeXFMT1A2ZUJGdGpKOHJ4UHlfeXlGTU9LZVJST1V5VEI2MktJb180M0JWd21hVjBmSHphM2FJUEhfclRwSWtodmYzbS1KaG1ZOThhcC1iZWV6MGdCN29aRFhWRzRWSUE?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:53:25 GMT",
+      "description": "Isabel Allende gana el Premio Planeta 2026 con la secuela de \"La casa de los espíritus\", la obra que la hizo famosa BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "\"Victoria colombiana\": el fascinante descubrimiento de un nenúfar gigante en Sudamérica que se ve desde el espacio",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRSFEzLXFUQlZLelBiME1lYTRrbHRjS094d08yZGp1SGN3RUExQWlxakdCa3lUbzRpbm9kQzhhV1dvN3I4dlNvWTVuZGRYU1Y0cmpHZkMyNUx1VkIt0gFiQVVfeXFMTWtHNTU2aS1JNlJ4eHJuMlFLdHlvRVZqcTNjTHNhZGNjeWdSeGFQSDZ2SVR2REpBQ1NEVGpyc0lzLWhVa1NRa1RjejZtOE5MT1UtMDFRbHBHd1hMNTNqWm5ZS3c?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:23:33 GMT",
+      "description": "\"Victoria colombiana\": el fascinante descubrimiento de un nenúfar gigante en Sudamérica que se ve desde el espacio BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Los aliados de Ucrania \"analizarán\" la petición de 70.000 millones de euros de Kiev, afirma Macron",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjZqbmVzYXBSOHBKbzNBUXlOSVFMR0Nnemlic21lVERYU2RGbl90aVh1Vk1TREoxYUNDMlNva3RobWp5bHlYRWFiSjlBOGI3MFhaNDZKd09waENVX2tfZnJHeGNTUHVLSE9oVlBzdFYzWHRpNmdWUDA2a280MHZ5UXg4ZWk4enJPZzdjcEl4WmJmTi1TZDVQZ2dGQzZ4MXhIQzlfcG1kQlA4SjFkY01kRXA5czJKUDlJZEVWUUN0UnZRaW9MaUU3cw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:04:57 GMT",
+      "description": "Los aliados de Ucrania \"analizarán\" la petición de 70.000 millones de euros de Kiev, afirma Macron France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "EEUU sanciona a banco de Cuba por colaborar con banco iraní",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkt1bWZrV25UbzMtcFF1LUNTTW92eVVZM2tRcmEzYzhzZ25qWlcwTWFlcXc5QU16YlZ0SVZIck16TWVqdWpQUktvQnpqRDNTMC1mRGZta0xBUmFmRkVmOWdwaHVwUDlmUFBnMUhocXlRcjZqTldYNzdGUG94bV9RNEw5MVc5M0FIcmNNdWNlTi1DYjlMTl81V2Rwa3BJR1RtTktXRkFhNFgtSzDSAasBQVVfeXFMUGFINUNJeVByVFZOcjhZZjN3bTRoWmpIVkFmTFlXS0RDYUVpTS1OLUtYN2FsSlJjaFNFLU5yczQ5aHVVZW4tS1pCdW9GTG9jd3RSUGZna2otdkwzU0gwc2tmaEgtbW9NRk9XTnVZd0c4ZE1YSkRTNi1QQ1RVWmtZczJhX1V0aElVcnFFM0RSM1pteXlfV09tVHMwalV6VEs3aHAyLXc2bk1uLUZ3?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 10:18:18 GMT",
+      "description": "EEUU sanciona a banco de Cuba por colaborar con banco iraní DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Por qué el internet de Starlink es clave en la guerra de drones de Ucrania contra Rusia",
@@ -145,10 +190,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Un acueducto sustituto y una inversión de 12.000 millones de pesos: a prueba la solución al problema del agua en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNajF2UHhxVk9wNUJoRlRWUGRTWXNxMDd4cTgzNHZQc29wS2RYNmh2TG9pYUg0RjljUDhhdlF3RFVvekZXYXhTcENyTmtKNkdJV1pLamVEMTA4M1JCX3ptZGUzU29BemJhSW0xcWJoTWI0NlRJTnhjM09jSVpYYzV1N0V0TFFSdmlGQWZXZERQQzBXaGtOZGItTk5wTmN0bDk4am9NalNOZHlVenNWWHR2ZXE3eXJFVUczS2hJS0NIX1dfWXItNGp4UndvemsyclZ5QUFYUXQzMFFJQ3lXb1RoT0tZZTB3UDFnUXQtRmNPdXBXUQ?oc=5",
+      "title": "Los Rugrats, el brazo armado de La Mayiza, flaquean pero siguen en pie",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaHdrSU14THlqaXpxNHROcUNVTFVjR0hoSy1MVzBjZHBURFNST1dmNkdxZU1ldkM1TG1nSGdVUEpPV0tfX1FraXRmcnNHTDlJeDBBWHVQRGtPYmhCNzZIb3FOR1RVcUVpRW1IdFQ1YlV3bUVqZDJad3dkWjkwMW11MVVmMm4tVG9OdEhrYkNrSmlHRHNKVURTWE9vb3hYYTE2dU5FSzZpYmRObTF5Y2Iw0gHDAUFVX3lxTE1rSFV4UlI2M1VpQjcxcWEwVU55MFA5eXFwLVhmT0s4eWtCVVhjd2VwNThjOWNNakt2Ui1KSV9KRldaazdTaEpmWDAxSWd2cUFnc1Q5d2xqY05zR0pZWjNRRlhCdjczNjZuMXBuYzQyZUN3dExncTJOWDh6UUVUYmtWWlV2NXZRVnMzYnY3SzgzSWdNTS1vWVkxOVhIYm9jY1dDS1NObGpPUnBLU3lsd01BbzJRb3M5SzJmSFkxaWlkMlRkbw?oc=5",
       "pubDate": "Fri, 16 Oct 2026 09:30:00 GMT",
-      "description": "Un acueducto sustituto y una inversión de 12.000 millones de pesos: a prueba la solución al problema del agua en Jalisco EL PAÍS",
+      "description": "Los Rugrats, el brazo armado de La Mayiza, flaquean pero siguen en pie EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -161,6 +206,24 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Un acueducto sustituto y una inversión de 12.000 millones de pesos: a prueba la solución al problema del agua en Jalisco",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNajF2UHhxVk9wNUJoRlRWUGRTWXNxMDd4cTgzNHZQc29wS2RYNmh2TG9pYUg0RjljUDhhdlF3RFVvekZXYXhTcENyTmtKNkdJV1pLamVEMTA4M1JCX3ptZGUzU29BemJhSW0xcWJoTWI0NlRJTnhjM09jSVpYYzV1N0V0TFFSdmlGQWZXZERQQzBXaGtOZGItTk5wTmN0bDk4am9NalNOZHlVenNWWHR2ZXE3eXJFVUczS2hJS0NIX1dfWXItNGp4UndvemsyclZ5QUFYUXQzMFFJQ3lXb1RoT0tZZTB3UDFnUXQtRmNPdXBXUdIBhgJBVV95cUxPVGhjVmg0LTM2aDVjNlRqRy1SeTdzY1h2bTdxS29nSU9PNWR1a3pIV2hvQmE2SnRUd2x0MWpBTkZMOUpDcVNUaExoNW83cWxJbGVwVE5rYVc2TGl5blVLUll5alRWdF8wQXJDNnZld1gzUlpHRFV2Qlo1R0dtQTBwVFB4dDk4b1RSbllHMWdMQ1ZQekRaaXlSTWJ6c3pKWTVWNDVOSzVhSzBTelpJNUFLNVJTQWRZdmcwVklQaHZLbTdBalQtTXdrckR1cDZBcG5OTVdIejhlbVFzeXlQSmxWcU8tOElNbVIxUlg5eU13dGFSWDk4NF95RUpLSGNMd2QwSUJWOEF3?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:30:00 GMT",
+      "description": "Un acueducto sustituto y una inversión de 12.000 millones de pesos: a prueba la solución al problema del agua en Jalisco EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Tesla presenta lo que, según dice, es un automóvil volador",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScXFyV01Xb2JobGxMZWRmTlJHdFBBVXBBTjJBUGpnZTNLWDBDOU1fZm9QQmdZemgxaUY2UEtISk15T3lSdy1RNE1fR1pqbzRHNTBFUHpsZ2NGazdCMG9TZWcxbFNmWE5xNEl4R3o1SXN2UHZLUHFqRzRIMldfek0?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:24:00 GMT",
+      "description": "Tesla presenta lo que, según dice, es un automóvil volador CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Trump califica de “vergüenza” la reanudación de los ataques ucranios contra las refinerías rusas",
@@ -181,10 +244,10 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Exclusivo: Estados Unidos considera usar la \"madre de todas las bombas\" contra Irán, según fuentes",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzkzYWI5ZEE0YUZRTU5OQVBxLXgxSU9MWTlTQTFpWTJNYzdMSHJzdzhPRzBTUXJzLVVNV0gxUTB5clNyNTVTTTk4UnlNNV9ZMUpRVzZ3MjZ3Smo5Y3FQNy16bzVqc01qOW5UbzhyYXpjTU1JUHdUZi1MOHRUUkZRMGRuQmozcVhyQVI4eE5B?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 03:48:00 GMT",
-      "description": "Exclusivo: Estados Unidos considera usar la \"madre de todas las bombas\" contra Irán, según fuentes CNN en Español",
+      "title": "El nuevo enfrentamiento de Trump con Ucrania va más allá de Starlink",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHpXX0YwdG91My1HS2Q3QVozODdCU0gzOWhIZl9uMjlBX1prenkyZEN1SmxKLUx1R2xPVUtqZ3ZYaFBnRUpacmMwQUtDcGlhcnhSZXBENEJxUk9GeFN4NFI1UjlvSXJXYUlQNGRqd29uWElaTGFMeEVqN0pPeGVoOFVFQlZzbEp0RkhyeWtPdWNVa3NC?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 05:56:00 GMT",
+      "description": "El nuevo enfrentamiento de Trump con Ucrania va más allá de Starlink CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -197,6 +260,15 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "Marcha universitaria culmina en disturbios en Buenos Aires",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWF3NnB1b1FESm1xdkV1THlVaVlVTTdyT2cwM21YM3RqMFlQanYyWkNXVHVfa2dOa0hsdi1vN3NOc0E2UlhYN29Qby1vUnJMY3NQMzJSbVItN0d3Y0xtdld3UDZROEJYR3R6ekZRTkktQTc1aWRteUZiNDFmTm5zcGVwUDlnU003d1gwU2JnbGdxczlBOHfSAZYBQVVfeXFMT3dDTGJ4WGVCdEFPTlBFaHd2dnJRZUF5NzFXTmc5VV9ndnZGYUo1ZTJ6OEVULWdmVXN4MmFsRm9rVU8xQktTbV9NcUxSVjlPaFhVOTVTbVVVNGxuLVZjeGVINmtwR2VVR3FHQ0NtZ2ttcWl1ZmxGZEx2aTFUdUJxVDJLTTBaT3FsaW5td0c5ZTR6U1g5Uy13?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 01:46:28 GMT",
+      "description": "Marcha universitaria culmina en disturbios en Buenos Aires DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Autoridad electoral de Brasil prohíbe a Meta limitar contenidos de las campañas políticas",
@@ -217,15 +289,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Marcha universitaria culmina en disturbios en Buenos Aires",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWF3NnB1b1FESm1xdkV1THlVaVlVTTdyT2cwM21YM3RqMFlQanYyWkNXVHVfa2dOa0hsdi1vN3NOc0E2UlhYN29Qby1vUnJMY3NQMzJSbVItN0d3Y0xtdld3UDZROEJYR3R6ekZRTkktQTc1aWRteUZiNDFmTm5zcGVwUDlnU003d1gwU2JnbGdxczlBOHfSAZYBQVVfeXFMT3dDTGJ4WGVCdEFPTlBFaHd2dnJRZUF5NzFXTmc5VV9ndnZGYUo1ZTJ6OEVULWdmVXN4MmFsRm9rVU8xQktTbV9NcUxSVjlPaFhVOTVTbVVVNGxuLVZjeGVINmtwR2VVR3FHQ0NtZ2ttcWl1ZmxGZEx2aTFUdUJxVDJLTTBaT3FsaW5td0c5ZTR6U1g5Uy13?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 00:55:47 GMT",
-      "description": "Marcha universitaria culmina en disturbios en Buenos Aires DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Elecciones en Israel: las claves de unos comicios marcados por Netanyahu, Gaza y los ataques del 7-O",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcWFweUJuZFA4bmhXSWdPX2pGVkZra1RYV3drZkphc0NDc3pNWDh5cXlXSm40TjZNNkhXTjJ0ZWxVbW0wYkUzNUNfMWNZVnAyRHNiNTdUbG15RmVjUkk5VEMwQTY0UXlodE1oUzJIR3hWT05WV1h0QjNKRnR2QUJrU3RiWUxjSG9aYzYwRDV0SGdkdk5EeF9nWGFNSUw0RzdMVmZGZzhLbllUSGtnRVNFWWg5ZjFBcEdNQk45VW5mSmNmal9XUUtseVpiVGtJbmcyOEI3Q2hQTGp5dTNPVlZTXy1ZTQ?oc=5",
       "pubDate": "Thu, 15 Oct 2026 23:56:00 GMT",
@@ -233,33 +296,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Un adolescente de 16 años mata a 3 niños y un maestro en un tiroteo en una escuela primaria de Oregón",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM3IybDhsMjlRTTJzejFaNVJWamE5MWZhU0xfb1FmLU0wbTFXYlpqMmNDeFI4UmdHYm84WTJYN0xJd1gtU05VUzNIZDNfSjFISzVDV3pvSGdNMmJV0gFiQVVfeXFMUDFUSUJYcGhucXlVcWRSUVUzYmE5NzJXZlpnN0hZRUZzRzgtTXVWN1YwN1dMU3gycTJ0N2JqWDMtVG1Odktvc25MVmtkTGp4WU9FQ2FPZkg3NXZiYnBkNEpFUHc?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:06:53 GMT",
-      "description": "Un adolescente de 16 años mata a 3 niños y un maestro en un tiroteo en una escuela primaria de Oregón BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR2J4ai1HRXZGaWdfX0VKdEVpQUtla1dIUlE2SE9rRHBoZGNnYklfNjAzYTMtLV9ad3V0S1NCZjdEVV84Q0doXzFDZnJFSjVQaXNSR25JVWpNamVKMENlWnhacV9ORnFpZ1ZGSFFrZ0VLVk5aRVZCM09uRlB2TmpJVGh4SUx1Q1ptWlJIb3NNdUZ2VkpNV01FWmg5dnJJNzc1TDJ1THRpNTNmb2VvU0ozbm1jaEVyZGN0d2dYR9IB0AFBVV95cUxQUmFzSTduSVE0eU9QczFUM3BKb0d2UTJ3WUFzR2RiQllRQnBSSlBWSEpsV0hqckhjRmF1cm9qb3NNb0Y0bFJ5blo5ZnlyaFVLMHR0aV9hbm1LY21OM2NHY3IxZEFDTnlJRDJWMlhZdUxZdndQU3J2d0Y4dWFPTk01UGxPc1UxeFJPamVsNzBVczdjOEpQcUNsZlc3ckRreU9VWUZMbndvM3A1M0ZSdmRTd0ppR1lVUmotaFJ6a0lRSGN5ckkxc0JNNEZweVh3dTBH?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:05:07 GMT",
-      "description": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Exagentes del FBI que investigaban a Trump alegan despido ilegal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlRhLW5zczhRM29ZRjlocG9rT283a01WM2V0WWtadS04Nm95dnh4UFJRak5xa3NrUTIySGwwSUZPT2FXYzJoVmZyZ0hEUnh5OFczN19ocUVXejlEb3VaSVJKUGpvcFVNY0UwYnllek1ORUtXbENqclA4QW1McFJDMUhrVzU4ODU1dldWOUFHUXBYTVM1dDNnV2lreTVZZ9IBngFBVV95cUxOdHBpSmFYLWZESm9WWVoxMEtiNGRMMmxZVGpJalFTbFNnUHFHUFNzcmc5SlFyVG5rZ0FvdmJFN0dWekJnZWF2U2UySTFSM2huemU4a1NIT05NZ2VyajNaX200UzY3OVYtSEtNYzAxZFVla0dhWFh5Q2o3U0Q4UUVNQ2RTUEFPTElHcFlHYkU2dS1aVTVCOENDb3ZJMkg1QQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 23:04:59 GMT",
-      "description": "Exagentes del FBI que investigaban a Trump alegan despido ilegal DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Condenan a 20 años de cárcel a acusado por asesinato de opositor venezolano en Chile",
@@ -289,28 +325,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas a ciudadanos estadounidenses",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDdralU1LTg3NjBfVHFONUtwLWpCc0tLWlJoVnkxRnQ2aERSdUpUQ1Bzc2VxeVViUm53dFRNUFVCQUhVVmw5LWhkWnE0djNzaUZZYWFWMmMxcXBpT3VOYkJ3LUw0a0ZTMEVld1JjTkFLbTlGdzVQTmVpSDFjTkVUa2NMeUtsY3NMZjRUUmdJMWJKX3JrOEx1N0p3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:47:00 GMT",
-      "description": "Nicolás Maduro y Cilia Flores se declaran inocentes de los cargos de torturas a ciudadanos estadounidenses CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "En Contexto - Liberación de 50% de presos: ¿Bukele reconoce errores en su estado de excepción?",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaE5pbUlpWUN0Mlc3ZUlQdlJsdHRCcS1MTkRZeHZvb1BQU1J5YVB0VEZERktOeTF2SlRjMnZpVzFfamZ2MGdaUkNwOC1hd0VTMXRhVTRfaXJnb2JQWjJ1Z01UOW9TQl9WMTI2OTFxbjJ1MWVUVGlodjY0ZnRINklDeUVuU0dXdHlOMFpYQUN3anF6bHhfY3E2TkluU2R2Yi1Ud2JXNE1OZmZFV3h5TjB4TlQ0QWZkV0o5WVd4SVp4X2wtUHlGa05VR1ctMFFpMTFrSkVjQUhwRl9BZXZBV2c?oc=5",
       "pubDate": "Thu, 15 Oct 2026 19:40:16 GMT",
       "description": "En Contexto - Liberación de 50% de presos: ¿Bukele reconoce errores en su estado de excepción? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Aeropuertos, petróleo y religión: ¿cómo desafían los hutíes el poderío militar de Arabia Saudita?",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS0ZxT0FlajVSQ3NyMUpRSkpSNmRJQnBQR1B2Ulhaci1lZWNRaWRaZEJRazJTRjk4YXRqejUtVHNTU3BWcnNublJ3SFkzRWxncnRXWHQ3UHhfTENldXo3VFNHR3I2RmtRTi11dEtHMjgtNFFaZDFoeHQxYmFHNzdNQ2YwVVZJTnAxTlhXVGo0T2pZbk1BZnBIdTYteG55dnR0WVliVWRiS3pRNDRCZzllRlNfR0x3S2tiOFZyYTdIQUtTLXhXRGpQbmxmREpFZDB5X01MY3BXRXIxTlJNajJURkFORjJfb2RXVDg2SlpNNU1tZUIxalZNMFZ3ZmhFVEU?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 18:09:44 GMT",
-      "description": "Aeropuertos, petróleo y religión: ¿cómo desafían los hutíes el poderío militar de Arabia Saudita? France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -323,6 +341,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19yRXRJclNSZzFMUW9XbkZfb3lWTGxucHFnVnl5SGZwWGJHYTJpbVFZei1KRGwwMURlQjBGQUd5Sk1ZZGYybDdtX2Nyb3h0MWJ0TkF3X1Uzbm1OOEZfLVBJYXNaMUJHaGF2Qm1RaXVuX3JMMk1Bekp5ZW5USjk5NmF3T0ZnTnJa?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 16:57:59 GMT",
+      "description": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020 Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "El Gobierno de Yucatán clausura seis lagos artificiales en Mérida por la presencia de la ameba ‘comecerebros’",
@@ -341,15 +368,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Pakistán: aumentan a 33 los muertos por el derrumbe del techo de una escuela",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMEVpV1pydW9oQTRwMTlMYzZaQkNVcGZZcV83akZnb2tkcXpmeUpHQXlYWWt6bnhWdGZIZ1p5OTV4dXdjV1ExUl9TNlhteUxWdk1FdXE3NmFKVUoxdGJ4ZXduVnlBZENDYlhkY2o0dGFvbjZ4alZpbm96VGlhS1RjaXY4S3gtU1Q0S2I4NURWVWVaVUNmVVRHZ0RLdG50N3hsSjNueWJIRFFVbXFqM1RTQVV0aXFodzE3eVc5UVVHRmtmN09ZVUtMajIwaDJRMWJrME5ETjNuaDlZdw?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 09:06:07 GMT",
-      "description": "Pakistán: aumentan a 33 los muertos por el derrumbe del techo de una escuela France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro",
@@ -379,15 +397,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Las razones tras la caída de popularidad de Kast en Chile",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzlIMWswVEE5SFh6ODY3TTcwdXZ4SG13X0FQSURYdm5CR2ZMQUdKNWpGY0lscUFGeGp5dm9tdzJtNG1NeXExS09kRWpWYlpSMmR3Y01YWm9KdW1HSzg5b0RwS3lXX0xuZTV1M0dVSjBNWUxoS1p0ZjZUa2szc2lMU1pITGdIeklGZ3VnRmR3cmowMHcxSGd3dm85Z9IBmwFBVV95cUxOM0ZGbGd3RkV4Z0U0d2RlSEhZTENELVZCRkVmNTFmQ0F1WVR4UU5kZVZyY3hLS3c5TEwzZ0RhMnRsa29JYTNrY3NKZGxWUTVHMGNEbWpoV2ZYMmdWdldUTlNvamRsb3BvMHcteC1CcUFINmFCdDF2bklvWkRQZEg0NHlaOF9aVzdvMUdkbWJMdmFUM0c5aVhURFVvQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 14:15:38 GMT",
-      "description": "Las razones tras la caída de popularidad de Kast en Chile DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "La psíquica que hablaba con los perros de Javier Milei",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbmVTNEloa0FFOXlJUWNBelhmTjMxb3NNU0hJTnMwbjR5YVNRV212cm9VTV9KZGxQa1d5U0NOS2t3dTFYY20yMFRHa1JCLWozeVFVbmdXbVMxclAwRWhRU05yMlFGMHg3TTRKY0hMRDZfeDV3RTBDc185X1k1aHQteUxycDVxWXR1ZEhnVUZ0dldCd0ZVTmtQWFFKd0FJdw?oc=5",
       "pubDate": "Wed, 14 Oct 2026 09:10:10 GMT",
@@ -413,6 +422,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "El cambio climático impulsa el aumento de los precios de los mariscos",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjNNb0Q1bWJra2MwOVB5b2dSSDlCUUpfNW1mc2xyRm5fYXNod2lRZThtNHVpWDQ0aTdBTHpMQ19kelZiZ1Y0WUhOZ2U4NU9aT2JCYnFZdE1WaEsxbkdRUVFZQVR5TW5YaXM2V2gybkdubGIza1NVN2Y3TVBwZGlVaThNdTRvSnZVWW9hblEySUtDZzRVNjQ4TkJ6RklON3R3NHc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 09:10:09 GMT",
+      "description": "El cambio climático impulsa el aumento de los precios de los mariscos The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Fundadores de empresas de IA y capitalistas de riesgo celebran exhorto de Trump a la autorregulación",
@@ -442,15 +460,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Con Isaías en el golfo, 2 ciclones del Pacífico se dirigen hacia México",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzlzTXVLakVhZi1QMkxPbTFNWS1BcXltV01HWXNVa3M2cUNLZFZ3b3pwTkhnRWdGc2o3TGs5cUZuUHp5SlZibWtaUzFZbnhvOGE4ZGVuRlJRRWZzODVjSUJoczYwRVdQVVJEejVvdk1DNHJTOTlKdm84Sk9GZ1VyRk5kZEV3TkZqT0xOWUFqMkYzc2dVX25OVjdMYkp1VlVRNHc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 20:02:09 GMT",
-      "description": "Con Isaías en el golfo, 2 ciclones del Pacífico se dirigen hacia México The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi11Q0h2dzdNc1k0V0JHbU9lZ2RadENhM3hnM3E1VE1oOHVuYmJmM0d2cEhQUWVfaUFVTndUMGlXZU5XOW54US1OVTc5bm9CdlR2bXlPMmpuX0RfdzNlemItaDVQcGh5MlRDckFFeWtva09WSG9PelJtbTZucFhERjZaWDkzcTFkY2FfYUNmNV9YVGxuZ1ZfcndRRHNwa0VmaW1EX2tTYTF4SlVHNE9Zc0s2UE9fQQ?oc=5",
       "pubDate": "Fri, 09 Oct 2026 15:45:43 GMT",
@@ -473,15 +482,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDBETGFfUm9VTTZiakNPQjY0TTFBa2puMGNXR1ZSRlQzbDVZWWtSVGMyM2I2WXJGREk1Vk1nbzdRZV9kUFk5SEtQbjBiZWJ5RHFTWXRSZDR3ZTdZSmZGUGwtakJfTDVYNnFYU3hiaFJJdDdjdTlGelZ0VmRqdzEyaE14UUZDYXlp?oc=5",
       "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
       "description": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX21CUmMyUXJZWXJ0U3BuOTUydzVtQjNpZ0VJTmhfY0xyazVEc21oNnBocEhmTkVEbEIzejZJUEtaMHNoaW8xZ2RNc0hrOU5DMm95UGtUbS1LREEwaVFZLUVFTXdqOVlPaVpEVXBtV3E1eXdiczM4X1RJQXpDbzRaN243NVRoQ3VBcjhHRXV3c2pZV2ZhcElVYy1oOTIzWGRZMnBiM2dXVVdXb1JPX1ROT1R1WWFpQk13Z1FRVDctQWU3UQ?oc=5",
-      "pubDate": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "description": "Cuba's top trade official says US impeding reforms, denies talks with Trump associates Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
