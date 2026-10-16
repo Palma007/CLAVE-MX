@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T13:35:04.370Z",
+  "updatedAt": "2026-10-16T18:29:13.375Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -53,7 +53,7 @@
       "name": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "status": "ok",
-      "count": 6
+      "count": 0
     },
     {
       "name": "Periódico Central",
@@ -75,6 +75,26 @@
     }
   ],
   "items": [
+    {
+      "title": "Cuerpo hallado en canal de Altepexi es de una adulta mayor",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXpmVGp2OWhWcGJEdDZwN0ozTkJIVnBWRUJZaEI5LWtKVThhYjRrOVlsQnAza2Y3a0lmRWdMOGdqSnF6d21LaVhndWdTMjhxMXFxX1hRcExJZXpPekZLZ3dWU0V6eURLTFNvcFVMWWkxM0JibjlyXzFaVjF5elRSMHZpQzJ1R1VWQm8tMjZNYnR5NXNxelc1czBnYU8?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 15:36:51 GMT",
+      "description": "Cuerpo hallado en canal de Altepexi es de una adulta mayor e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "El futuro no se espera, el futuro se trabaja: Chedraui rinde Informe en cordialidad política con Armenta",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa2FQT0FHWEptcDFjbTZ5YjBxTjFpbk5kVHdqd2l0LUZUMnNfYkNUd1phVzJ5a1ZyYlZJeWExOFh0c25BRDNZMVptaHNzNWl5ZUZlUVcxeGljandrT2RWSk1qdy1IR0l0U0JYX18zUFQ5aEZGUTBkTUEzQWVDRmlINENqczNSXzhlcnpFOFpFSm9LLW1jZjdQVUk0UVdHaV9kR2VWYlNSUlQzdmhnNEY4aWZOUHF0WXVGMnhmOUtYa3ZQeE81SHprc09Wb3RuS3FPczREQlB6UmhNcTZ2cm4xOU1MclBldlpJS1lhbUpSc1hCQ01IYjhKY0pIZ3d3Zw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 11:30:00 GMT",
+      "description": "El futuro no se espera, el futuro se trabaja: Chedraui rinde Informe en cordialidad política con Armenta Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
     {
       "title": "Por inseguridad en tianguis y carreteras, compradores piden mercancía directa a maquiladores",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRmpPNUw0ZzJLdkNjT0xTNWNWQm9PQUhKNVdaTWE1S2tMUHlGbDhLYW9aQWdMVElHWHpndkJWcmZaZWJ6aGFJYmQtdmhsM0pDVGsxUDZKeW5vbVBLZ3B6NFZtejRxSXZSbzdSQmREYmhOc1FBY2p0dURwQmVmR1ZrbGNFWFNTMmU3eE43aWdsTTRZbVBCVVJEQkJUVENEck5IcXBGNkV5M1JkZXh0M2VuNWxMUDhRTkNSVnVuY2pzWm83QXBYd1ZVcVlBSFowYVFYZ3F0ZE5B?oc=5",
@@ -146,6 +166,16 @@
       "group": "estatal"
     },
     {
+      "title": "Aumento al Derecho de No Residente afectará a nuevos vuelos internacionales en Puebla",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmhaOWZpazljXzZXRktyZU9tTHhzc3ZzQ0w5T0NWSEZKUUlnUTk0ZXlDY3M1SC1XNEFYRUktS2FNSF9QcHJrRURJZk55amNuaThTVUtwYnh4VmdpVXV0RDQycEgxLWhVNzFkSmVyeE1FS3NVRTQzTXYwY1R2T1ZtQ1hQYUVZQTFGRWx6djBYdFVwRGxLRHpVNzhDY3dIQmFYWDI3UllyTVdBWjIwREhsQVpkVUJaYUZlRUVZd3hWZmFkTm9OWlRzYmJZQmRXQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 00:55:18 GMT",
+      "description": "Aumento al Derecho de No Residente afectará a nuevos vuelos internacionales en Puebla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
       "title": "Pone en marcha rectora Lilia Cedillo campaña Échale los kilos",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdy1STVBwT0x4LWN0ZkNWdkVFYWdHNnVrUnVCdWlWQ3lWY0lpRmZCWUtIeUJ4OFdIYWg3ZmhOZGpzUEE0VkhDM1FhRWVlU0dWNHJDYjl5WTJad0pTSEFweXd1aW9xNDQ5VzFvV1U3RVNvLU9kbTV6MG56RmI2NW93Yk5JcG5lRlUxRnFldDdfVDhvMkpHLUVYMEplNk8wU1U?oc=5",
       "pubDate": "Fri, 16 Oct 2026 00:42:29 GMT",
@@ -196,16 +226,6 @@
       "group": "estatal"
     },
     {
-      "title": "Romeo Santos, Carrera Panamericana, Banda MS y más este fin de semana en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODMzYm5obXVtZVpSWmUyVTJWSnM0NDlDZlFIS1BESkVabTJwam81amVkeDVUQ3FDWWtXLUE0MFNNS19jVnpCNGYxT2ZOV0ZFRWY0bmRqZnIzNEpIY3RRdUNUT1E0aU9oeGFTcW9EQ19zaHQwU3hxLU15LS1vUl9xbjR5MFNXb3Q1X0hmYXYwcWZhOFgwTnRvMmpBRmwtRzNEbDJyM1I3Vm9UTnhaMVZLYTlKRkw1UmtzVkNFNTZrYjUtdHJ1?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 19:59:19 GMT",
-      "description": "Romeo Santos, Carrera Panamericana, Banda MS y más este fin de semana en Puebla El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
       "title": "Primer año de gobierno fue para poner orden, segundo para solucionar problemas: Pepe Chedraui",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFp0ZjFWLVhONHloSDlXS0dUTDNURHhYN1g2V1pqS2Q4TjlCZFR6WERBUlM0aTBEYUxMYnRFZ3VNcHoxU0xWTjFQZmZ5ZzV3NDRfdGQ3Nk5RLXFoME5ZZkduY1lBbjM2MmVELWgtS0VKcVlhLVlWb3U3T01ON2FsUnRLWVdKLS1iRWFTbVhmeDFfd21HdFpsNF9SQTBqbWFjQmg3Ni1uR0dDTXpOcWVXYW00aW4wX3NmTGJENDY0Z2QyVUx1aG52WlpyMkltclYxY3c?oc=5",
       "pubDate": "Thu, 15 Oct 2026 19:28:03 GMT",
@@ -244,26 +264,6 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Ladrones saquean negocio de carnitas en Cholula (VIDEO)",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOEhEUFoyV3g0RmE1X2tiZDlZTkMzS0tMUWxEakhYdXhqamQ3Wlc0YlVOcHpnYXJESlhoUXNKeE5EUktOemUyN1dPV3pDUXZ3U0FCbmlvTFphMnVxYlBzQVJtTndEem00NEk2YVNEYnVjZEd3N3M5OVVrYk44ejNTeVBBaDBZZEFxdFlqR2stUkFNbGlIYnVZbGpsOEFGTm1CcDh3?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:45:10 GMT",
-      "description": "Ladrones saquean negocio de carnitas en Cholula (VIDEO) Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Asaltan a conductor y roban camioneta de trabajo en Mazapiltepec",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnRpb1RkMWJka24tLUlwY3A0NnVMcDdTNm5zWlF2U0RIVDZCN1RoY0ZWOHZnanN1cG56STdjSVNxRmJfaEZBNDhGM3V1LVZGcThjRXJWYlgwUEUyT0R5TjBuTFc2cHlOM1djQmphQmZnVFY5N2lOSTVtSGtYSTVESk5tOVZ4Wm00bXk4aUc1ZFdxSnVjd1ZOWXFCbm1kQmRVM1NlVA?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 15:38:34 GMT",
-      "description": "Asaltan a conductor y roban camioneta de trabajo en Mazapiltepec e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
-      "group": "estatal"
     },
     {
       "title": "Ópera BUAP celebra su mayoría de edad con su 3er Festival operístico",
@@ -306,13 +306,13 @@
       "group": "estatal"
     },
     {
-      "title": "La Batalla por Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVNYQUhyMHlId1JaV2FEdTh4WTEtQmxHUHV6dkdpd1pRWVBKSjdZOEphVnM0YnB6ZGRCSTVtakdpdlJaeE5kVi1kY2xYODFjVE5tQm5taTFseHlLOWpUSDBjWGRGRW5WcjMzd0tTelQtUk5xcDA5c0dSWE85NnZWR1RpRHlxb3NJ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 05:24:48 GMT",
-      "description": "La Batalla por Puebla Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
+      "title": "Revelan antecedentes de otro agresor de Uber en Lomas de Angelópolis por golpear a pareja",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQa3AzeFY0eTB0VEpGUzVHQWdvVVczSjNJS3FIanE2cWc0YU1seGJULXpMT0N3aDdBNFMtS0YzWUJmZGlURFhfZnJTOGM1NkRiU040cG1RaElzTmU0RW9ZOWtSZnlMbXZqM2NIRElOUjZyN2pDMGpMcnEzUVREYTVrcUNLRUZPcV9vYnBkamV5N0JqdEJTLVo5TVB0OHpIZ2psTzhFQlliaXJCblpqY0NuWWZiNXNOUXg4Mk5GOGRoZDl1NkY1WGhTQW9pcE92dFV0S3hsei1nWG9oRUo0eUNsUE5TRjVuUm8?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 10:00:00 GMT",
+      "description": "Revelan antecedentes de otro agresor de Uber en Lomas de Angelópolis por golpear a pareja Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -326,20 +326,10 @@
       "group": "local"
     },
     {
-      "title": "Tras cateo, FGR asegura siete mil litros de huachicol en Chignahuapan",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZXlvc3pGaVVXNV9mMFltN1BLZktyVFB6T2Z0VFl3Vl80d2NKVms0VjNBbDNjN2dHaWRLTm1jNWhtUEl6eXVCelRNQVZfYlZFOUZyel8wa1ludERxbE1FR3NzSFdmZ3FGWGJDQ20ya2NPMmdXaFJ1aWNqdFMwMzZkZGhrc2FaVGNvRml1QkZZRDY3OUFZd3hfQzUzeUtKa3VnY0dpQVU0U1JCdkl3YXBvYXlHeGFpcFlid0pObkktZ1FHU1A1c0ZXUnZheDVGQQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 00:10:19 GMT",
-      "description": "Tras cateo, FGR asegura siete mil litros de huachicol en Chignahuapan Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "PAN Puebla analiza alianza con PRI y Movimiento Ciudadano de cara a las elecciones 2027",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaGFvUTlxc0ZkUDg3dWlFYkl0WlFzTmtaYUNqdFRkM3ZOS2w4QTlTMlVHbGhSTi1kb3Y2UmU3TTJaZ3FwLVFzbFM0ZGZsN08yZXc3M2o0UTFWRTZob2F0M01McDJ5R0JSTzcweWVPTF9mcm16SEZzU3BNT2pmSlFhOWJxdE4yZzIzWTdaTk1jWGFtMEh2d2dTSGRrQktVRFBKYU0zU3ZaRUdkdFNqSFZtU0JHbW84eUxCTFBXOE1PdXpHWnZBcVcydmFQUFpPS3lwUmc?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 22:35:17 GMT",
-      "description": "PAN Puebla analiza alianza con PRI y Movimiento Ciudadano de cara a las elecciones 2027 Periódico Central",
+      "title": "Preparan registro de Gaby “La Bonita” Sánchez como coordinadora municipal de Morena para Puebla capital",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOTA2MVNFSWNMX1Bzb0pNYVg1ZGZrMm9SN0U0TXpUM0JGTHExUTBkbVhYTVA1bFVqTDl0VGNzeHl2RWRzenVsRmUxenN3S01WY0diZkJpZFZYc0I1VHZ5ajE0MTZGbEc2VEM0cHdmTVZNY3lCZDVJNFhhWmdiRjc5ZjRpS1YxOGpNMHNHUGQyU0lCQ0V5alpHMzhzM3Jqa2RQSlIxX1BFNjZWdEFJYmhnM3BWLVY4LW1wenN5N09UNkpTcmZLTUI5bWNTeFJaNnJ2eEszT2ZFSmRPQVB6SGZoZHFvWTQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 01:44:38 GMT",
+      "description": "Preparan registro de Gaby “La Bonita” Sánchez como coordinadora municipal de Morena para Puebla capital Periódico Central",
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
@@ -366,6 +356,16 @@
       "group": "estatal"
     },
     {
+      "title": "Cumpliré con los requisitos de Morena para buscar ser nuevamente candidato: Chedraui",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSko3UU56N251a01pdF9yQVNCak10dlVxYkxPb0xwenFuUVFkN0VjemYzbXJtNUhtdFNVY3dRUnJFSm1BUzFyRzlnRk16NV8wUzQ4OVA1T3FGdE1PLXM1R0o5d2loNnp0SkhZdnBVUVlJdlJ0czRUVWZwNk9MRVRFaGZ5VTVGeU1fZmlUb1kydTNpOTNHSzhlOEduYkpOekdhQUpfR0ViSi02MHlJeHY0RE1VUTJIRzd0YVZuckFoaHVuLTNEUXhBOA?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:40:43 GMT",
+      "description": "Cumpliré con los requisitos de Morena para buscar ser nuevamente candidato: Chedraui La Jornada de Oriente - Puebla",
+      "source": "La Jornada de Oriente - Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Cierran circulación en la autopista Acatzingo-Ciudad Mendoza por choque entre pipa y camión; reportan fuga de gas",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbkpNSTN5N2lEckpiR0pBNnlkRW1kbzRnVUlUY19WdmQyM1R1RVFmV0I5RFl3eHFIZUFoXzZfZUx6ZE0xaUpocmhRVEdkZ2ZGWkZTY0hpdmZsSlhSeHRiWl9hWU5IQmYtbTZzQXhmZkRnOElxQ05ETF9JSDgxQUhIYmxzMGxoZnU5UXVGVWhiRE01cU84bElBTEtuYjhWdnlkQnJleFVLbHpfV1VydXpPbkVDWW50TVE4OFVLYWg5NGY2S3BfN1NkWlJ1ejNsbnNoaEhEakRBclhtV1hwUGk5MUVOSWl6dnNLaXYtenpWU1NNdw?oc=5",
       "pubDate": "Wed, 14 Oct 2026 19:16:24 GMT",
@@ -386,16 +386,6 @@
       "group": "estatal"
     },
     {
-      "title": "Suman 11 los diputados que dejarían el Congreso para buscar candidaturas: Gaspar",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3BqZUxWNlM2clVGem5naHlLYU9VZGdSVFBXanY0RGUtMHJ5QjFWZC10ZG14bmZaUExmQzQyeFJPemREZWEzQUo1dVY1bE9aUDFfUFB2VTE0UEN5TURfaElQd0Vzd2pGZFFkbmhiU2ZtekxwbEVQQ05tSGRQNUVFVjRFQ0wtNVpGb1c0OFdUZG50QVR6dG1lcWVDT3A3b2xTTHhVdnRzZTFDX21DQ3NuQXEtMXctOVVkTW9CbEF0eVczV2M?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:04:07 GMT",
-      "description": "Suman 11 los diputados que dejarían el Congreso para buscar candidaturas: Gaspar La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Agresor de conductor de Uber en Lomas de Angelópolis operaría préstamos “gota a gota” en Oaxaca",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY1hXbFAyRnRTSkxnbTB3Q2RYSXRIT1ZjR19TOHg4eGx2ODczMHdxZGZIdG5ETWRwV2QzeGZQOGVjZm9yQVZvMWpGRmkwUTdhMHo5SlI1V1VBNHVib3lBUnhsd2c5LTctVzBqdlZLaGtveUg4RmZRaV9mS2dsWXI4aTBkQnY0cHFnQ0JiT3RyR1k4NV81RGFjWEFZQlc4MzYyR1kzcEVDdUFkbEpxWDg3SXVySHRnazNiS205cWJLSmlseWw5UjBSanZ1X2l1MnNVallNUHA4a1luQ0UtMlJSTHhPcnZ0MEx1eVAtT0ZTdXhfM00?oc=5",
       "pubDate": "Wed, 14 Oct 2026 10:00:00 GMT",
@@ -403,16 +393,6 @@
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Migración y Ceresos, los resultados ante la CNDH",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTdac21yaTJKNDBFellYMDA3emszeFFLOGNfdVFwUmRuSHNZMTNTXzd3c1d3V1NKUWZZUVJqX2NFQThXd0hHbllmSG1yMTRLZ1lzQnpZTUdfaDFqSDNNdE5WSHBMYzhrSlBLSUhMMllWTXl1Y0toVkxCc3dUX3BhNjd4eWxIcUJDTFhYeldJT2hIVFAxb2ZsbzYwdXFBT3ZNUDR0REZJcXFoclk?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 07:05:06 GMT",
-      "description": "Migración y Ceresos, los resultados ante la CNDH Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
       "group": "estatal"
     },
     {
@@ -456,16 +436,6 @@
       "group": "estatal"
     },
     {
-      "title": "Harfuch presume la detención de Juan Lira, “El Moco”, en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWw0dzk0V19FVTdIZGFOX3dtUlhNSnplRG54ZEhJaVNCLVd1RHhKZHdjeExVdUNUbk5HNVB2aVJJaUR4ZkVhQmJTTEk3YlVXb3ZOUkVaUmQ5WnlpS0RkQ3lZdW5CS0t1UE5mdkZPQW53ZDBtLU4wNHF4YlhJR2oxTVVtQkFWQ0QwcV9Cc2dFSEFuR2xIOWh1OGpiejYySVNaWHBOdlRB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 15:39:15 GMT",
-      "description": "Harfuch presume la detención de Juan Lira, “El Moco”, en Puebla Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "“El Toñín” tiene de cómplices a gobernantes y empresarios, por eso no es fácil detenerlo: Armenta",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeDk4b3FLTFpwMUY5RFV1VjdDOW9tZ3p5OFVRbEo1MzhORXd5N1A1cEd3cjc2eWVhZVFITDMtU1NTX05kZkJMSjFjYkZWTEZROERlNUFaN0d0LVpfM0pteEtwY0p1RWJBTkRBY3U4aHZ0TFdIX3VJMzRmMjJsUGtYZ2RMS0wtUUNBeWNmY1ROTWgxNkNlbnUtVmFRU095T3F1UGkyZm0xVm11XzdfR0x1R3R6dFVoeXA3anpLUzJDcmI4U292VTNjNm9zMUE1UkNtUkxQa3QtS1E?oc=5",
       "pubDate": "Tue, 13 Oct 2026 10:09:44 GMT",
@@ -473,16 +443,6 @@
       "source": "La Jornada de Oriente - Puebla",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Desabasto en el IMSS, ¿a consulta?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeEZ2dUFPZmE4djIzczRrdmNoeUpFeU50bkpuT2RjSTdyWktobm9UYm81UVcwMXZpbEF0UVFVRmFoYXJMakJNNUQ4Nm5YMjEtaV9CUmdkX0ZyR1gxY180LVdrT05YSmplclNIVHBsUUM2SUlVOXdPZnUxakhhTFdpMGNBNlhlaHZKRmhSQWNsTGtXc2RqclE?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 07:42:47 GMT",
-      "description": "Desabasto en el IMSS, ¿a consulta? Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
       "group": "estatal"
     },
     {
@@ -494,26 +454,6 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Con tecnología de punta,",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ZZjNsRkFkSEdZdHZUXy0yUm96WjlOZGpVTXZDbVUyYmtYY2xmdG9abVM0a3VMR2c0bkFucEJnN1huRndCcTZoMjlvbE0wamJvY0w2YnlGTU4yVUI4NGpPV1JOS3pac011cjdFVWhqaDhnRHkySEVibFhn?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 04:02:41 GMT",
-      "description": "Con tecnología de punta, Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
-      "group": "estatal"
-    },
-    {
-      "title": "BUAP reúne a cuatro países para debatir retos de la administración",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnJEeWtMYkpybmloR2ZxaUlSdUNzT2dqaFlocG1yeHJZUFE3Y2lJYzY3QlltUm1xSG1lb3FMMUJkTTNQdktweGo5Z2IweTNLUGlnak5YYmJ5YlVsYmFWM3d0cElFRUdobHhrY2tPZzdoVmJ2cU5CNTN4djZFSnVYalBFYTNMLTVGUUN4QnN2YVNxbGZZQ0I0clQ1MloxWDNVN19MMkR0cHJQMGlDaGdPZkpWcmVhXzhWZkVZUmV4bndJVE9TZXo4em1pTTBUYlpEZGxya0NaTQ?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 21:02:26 GMT",
-      "description": "BUAP reúne a cuatro países para debatir retos de la administración Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
-      "group": "estatal"
     },
     {
       "title": "\"Atrapar a El Toñín no es fácil, administraciones pasadas lo protegieron\": Armenta",
@@ -546,26 +486,6 @@
       "group": "estatal"
     },
     {
-      "title": "líder huachicolero",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrcXN0dHh1TUNjZTI5MVNZYmt5cDdUQmFuSkxESE1KT2ZJbmI0OFVrZDdnczN3SjIzRnRPeDRrYm81ZmZOYmx5emVhYlpDdlJ3QVlmOVZRMEpDdXZSMHN5R29DS2VSTzBDdTkybWd2T1dsYkFKVnRsUUhn?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 04:01:24 GMT",
-      "description": "líder huachicolero Intolerancia Diario",
-      "source": "Intolerancia Diario",
-      "outlet": "Intolerancia Diario",
-      "domain": "intoleranciadiario.com",
-      "group": "estatal"
-    },
-    {
-      "title": "Detienen a hombre tras reporte de robo cerca del parque de Tula en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDlHeXFybDEwVWo2cFNoLVVsc3lseGpfcG9RUDZ6TEZKSFQwc3JjaGdUdXN0TDFFeXIwR3F3SUZHaDJIaXROekNsYUV0cGpobDZBQkNUUzh1aUJNT3ZuUXcteGxSZU5fMlhHNGU3UnEwcnF6eENXR3JZbENaSXRBMmo4dEdwdGRiWlUtS21jdGw2bXpjOU02bGVhMFdVTEVXUDZHWXVtODPSAa4BQVVfeXFMUG9oS2NRT2VNelZTX3htcjhKQWI5MTZPazhOR2d0OVY1SFdLb05Dd0NoV1BXcm9wM1FQM2hEYWJpdm9DRFltUkFOdDhzV0tKNGpfaVM5bnd3ZEZSVWhUTk9BV18ySWhqMEpYMHN0NjNXUUEzU0JNclQwQm01di1lQ1Ridno4Z2Y2UWN5TS1KZk1BbHR5V1ZrRVplam9VNnhWNU5Wc3RmN01IeU52WkNn?oc=5",
-      "pubDate": "Wed, 07 Oct 2026 21:01:59 GMT",
-      "description": "Detienen a hombre tras reporte de robo cerca del parque de Tula en Tehuacán Noticias Tehuacan",
-      "source": "Noticias Tehuacan",
-      "outlet": "Noticias Tehuacán",
-      "domain": "noticiastehuacan.com",
-      "group": "local"
-    },
-    {
       "title": "Impulsa UTTehuacán vinculación académica con el proyecto estratégico Olini -",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNXczSm5IbUxlaU85ZWRpSWFOVm5rR2RFUjZpSlVlSF8xV1BSd1VIN2pveUZXbzZoR29MbC1VTWY5dk9tZm9YMGhqem4ydkRDaEowV0xfWU1wOGlxSVR0RUQ2X2JXY2U3eHpNSHJfYkJMSDhDdzkwemd0VjhDS2xNdWRsWmVSMDFRVzFJeWNRSC1MQTIwZ19lWFNGZUItc1dOcVdUWHk5NUJvV3ZnVVRLS2Z0WGNqRWU1RXRmZg?oc=5",
       "pubDate": "Tue, 06 Oct 2026 03:52:15 GMT",
@@ -584,6 +504,16 @@
       "outlet": "El Uno",
       "domain": "diarioelunodetehuacan.com",
       "group": "local"
+    },
+    {
+      "title": "Profeco alerta de otra BP en Amozoc por vender el diésel más caro del país",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR21BNmJ2X1dCMkx2a3lpckZnMXIxMUxxbjlDSVh4TmpTRHd6akRVNFhJUm5uNjBBblJQSFNxZEwySjB6eTVfOHhuUnRSLW5TdDI5UmZFUkNjWU9zSlZCZWl1SmdqOXhIYUo0TllGeHNoY0tldndmVERSNGFuMGJtX0w1ZHZHWG93WldfRlJqWnFNX1hLZzE0YVk3bkJnV05iSEFmZUpTX0ZOaUQwQWNMREdPQlRaUQ?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "description": "Profeco alerta de otra BP en Amozoc por vender el diésel más caro del país Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
     },
     {
       "title": "Choqu€ por alcance deja 2 c@lc1n@dos; sucedió en la Coapiaxtla-Cuacnopalan",
@@ -736,11 +666,21 @@
       "group": "estatal"
     },
     {
+      "title": "COLOCAN OFRENDA MONUMENTAL EN SAN SEBASTIÁN ZINACATEPEC (VIDEO)",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbTlKOUw4ZlJtbldRN0hkb0d5NUltdXAyeVplQ01MRDQyYUR0X1c1dG5TY0Q1MmVmdWM2eEZ2dTFHNDdFM2JVOXBLckdwbWVYMExQZ1NYQ29CbURCbjNXYVVONjlzUm5JSE80aTkwdlMtVTVwQ2VrT3R5NTZnUFBRNk53VWhzUDNaNTl0S3RMaGlIYlMxUnfSAZsBQVVfeXFMT1oyblpORlNjaUowd0Vid1piUGVabmJxMlZMcVRjYVIwNldYeXF0aXhkbFQwa0tvakw2c0pVV3NoOXJncWxPOS0zMkwyZzFhamVsbmJqOEN6ek9GVXk3VjYzekphTGlLajM1b1F0bWJJWFg1NlZhcjllZlpYUTgyd2s5OFVVcnRuRUM1QmNBV1Q2eHAteEVsM2ZEQm8?oc=5",
+      "pubDate": "Fri, 29 Oct 2021 07:00:00 GMT",
+      "description": "COLOCAN OFRENDA MONUMENTAL EN SAN SEBASTIÁN ZINACATEPEC (VIDEO) Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
       "title": "La Jornada de Oriente - Puebla",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoZHhfck41UWxfLWVldTdVRFhvc0ZOZWZQMElqSWIzaUNKLVUwU1F3RlVKZTVkWklzeDR4SFZsa0ZvXzdkU3JVYXZFbmNjUVE?oc=5",
       "pubDate": "Fri, 11 Oct 2019 20:52:50 GMT",
-      "description": "La Jornada de Oriente - Puebla La Jornada de Oriente - Puebla",
-      "source": "La Jornada de Oriente - Puebla",
+      "description": "La Jornada de Oriente - Puebla La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
