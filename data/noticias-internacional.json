@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:37:30.965Z",
+  "updatedAt": "2026-10-18T19:45:33.117Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,31 @@
   ],
   "items": [
     {
-      "title": "El papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón y \"no hay motivos clínicos\" que impidan su viaje a Sudamérica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Zb2NfWFlqbDdEWDdRUDgyRnFWekl4cGMwX2ZoZXJ3SDY1cXhlcEZ3TVFvMGxiY1N6Z00wZkJSWUFoX3RtaWI5bmlZaktwODRyUjNpNGs3am1sQnNW0gFiQVVfeXFMT0hIVEI0elcxelJDT0JidTFVRHBNNzFEcW9fdXlubEMzQ3d1MDJQOFJKQ1hsdHFCYk8tSFVyNkdPOVY3cUpCY0tsN3U3UUE4RTVyY284b1plR3RNN1J5T0NGWlE?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 13:43:20 GMT",
-      "description": "El papa León XIV hace su primera aparición pública tras ser operado por un cáncer de pulmón y \"no hay motivos clínicos\" que impidan su viaje a Sudamérica BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 17:29:54 GMT",
+      "description": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWl9EeUhiazlKUHFIMUk1RlRJazc5X1oxU2F5dG1PaEh1T1lnSHZ4TW94a3ByWV9nYldzVERldXZFaUdfc05vM3M3U1JsS2JCNmRpMDFVZDdMQ2FsRWNob3dvN184UmJGUEVYdEtnbXlHQXpGZnhPVlFSZzd4dUJqaHMzYXA1NnVScktYSzJyUWNxWGIyY3VuY2tsWFozNHBTLW9GaHdnd3dRT2Fwd3Q0SW5GWGxMZ0xWRXpRck5KVkNHMk5EdUtJaTR30gHKAUFVX3lxTE9OaS0yN19ORlhwclkxZ2wxU0RIYUlGd09kT2h6RHBQQkptZnJZUGdOTmtKTTZpZ2FKdFlyNlU2MUczSWF0TlBiS0NsNEZpVkxtbGpPOHdzdXc3VWJ6QUFGWVdCdDJqeWVBeGpMb1lmMVd4ZGM5ODBuTXBOcDE3Z2FuMFU5TzZqY1pUWUllYy1pd1JTZUpZcVU1VjRmMTlMSnRiQTVRcG1na3pIQUVtMnI2YWZVUGZGcVJaOC1mdTFRajNzZ0lSa0t0QVE?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 14:15:33 GMT",
+      "description": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaU5fcjZCNXB6bzRsZzRGM3ZkQk5MZno0eWVOclBBb01ISGlidV9rSE5GOEhIbzNBYU5PWV9pWGVMRl8wTXhhZ0dnQ0pDOEFFeHRDaWtTcERqbWdXSUJJekVySW45OTF3OVhIbDU5YzRkWUFSTEo0WUxZRFc4R0k0Sm4ycDdTUlFSWjNUampydTdDVUpzRmFtTVlEWEJhVHVNZG1YQkxWWDRJQkRDUlNqdEZLQUxaVFNtUWJsUkxR0gG-AUFVX3lxTE02RHVFdktaX0xuQmE0Y2JCSXZGUUxPTmpZYWZSa2pTUzVfbExFTC00UzRWbGFsY1NkV3llWTdrNGhYWlA0LXNBYVFyamJnczVIZGpEM1lSV2ItWkQ5LXJYY3dUbG4tS3pXbFppTXowY0JxczNaZlpnTmU4Zl9GdmNhaHNyNFdGYnRZMGhSZTFGeGgxUGxhX25IR3F1YzhBcVNOc2dvbkViOWhuR1hkU0lKZE5EdVNxVzRnVGVyOHc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 13:38:37 GMT",
+      "description": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
@@ -82,31 +100,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "El Papa saluda a la multitud en el Vaticano, por primera vez desde su operación de cáncer",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeEQtMlFkU1NHbHA2LW5kLWQ5Y0kwbko1M1RQcURwVWpFWERscjNxVTFQVXFZZzJuem9RM0lhSW1pQW9JaUlCUWc5cnh2ckRzSmRyc2tSY2pETWM5eEtSelF6c0hQM1I1d0sxWTNiSlhBd084ekRUeDRsQWxUM0h1VkxrRHpqYllMVGZFWjhQX09salgweWxQelE1Nm11Y1FJZG52djR6MmV1ZHAyTlVBRzB5Qmd5enVRM2NjQlNyWGlJbV9Ca1Axd2kyNGxxd2JOWHQ1Y29UREhGcHF3eWRVSHI2Wm5ITmkwUzhPM2kwUlLSAfABQVVfeXFMTy1NYmw3ZVhCWnV0b0RFM0dnXzN0UG44S2RqS0E2QjlxTUxtcWtnOHcwMUlnR2ZKU3hyNjdTb1IxUklkT2lLaHUxR3VwWGdSLU1ONjVQbGFXaWNlV2ZCbktjUVg2TGFEcG9zaU43M0piRG1kbUdTV3dWZXRWcVJDMWZ1U25kLWhVN2tidkE1Yy0tNGNCUGR4b1ZpUTRReGpLbVFOQThESkRKWkJUdUJlUEFDSld4X0U3V04wM0dXNk1sQTRwWnZGZXZlb0RHSHQ3Y21lMXo0UkdMcW5yN0RDSWphSGVXejhjWEdBaC0wTEI2?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 12:26:13 GMT",
-      "description": "El Papa saluda a la multitud en el Vaticano, por primera vez desde su operación de cáncer DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zVmU1enh5NjV0cG9OdlQ4UFBJcktvUFk1SUsxWmpJdzZwdG9oZ1BzbWJmZDE3WWdYdW5MMUcwQ29UNjUtbUIyaTE0NHNQOXpGQ0h5Y2kxMG1RZnhE0gFiQVVfeXFMUG5mRlN6SWstQjdjWG93Y25zT0JmVVd1WEQ0ZXB5SllKTndOT1Z0aEE0c2FaQlJJZ1lZV0t1RnhjMWNTTF9SNDBETUQ1cU1SRTFLVWhpTU1TLVRNZ1Zpa2RMT3c?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 11:50:21 GMT",
-      "description": "Perdí mi cabello por la quimioterapia y ahora las estrellas llevan las pelucas que diseño BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZEg4b2NPUk1oNll1TEZTdTF1dXRUZUw5YWZVV1BkeEQwRFp1RUJjOFZRTE9RUEdWVEc2aFhqZDhhaTVMdFNHanNadzZKT1FRanA4UGt0b0s3TDjSAWBBVV95cUxPNmMtMnFPRmtRaV9lazF2SEp5c0o2QkVtTXliaWZpU0liUEE0aER1NTA4SHItN0hVTUFoOEdMYTdZT3ZGc2VKVTZmRFVCXzlqdnZCSXpiS0NNSGFSYXc0TEM?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:45:21 GMT",
-      "description": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "En directo: Macron pide calma y reclama un debate electoral \"con los partidos y no en la calle, mediante la violencia\"",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbVdCRUg1ejZuLWJjTVF0TU14dkYtcWtnSmFHc204emlzdmxQdG5FYXc3YWVyZnFWcWZjeEtobDFicEljZWx1VmlVQXF0cmZJT001bzR3Q1U1cFp5WWhjYlBrTmNNSWRuV1NRV1RRQkh2d3RhRHhmVTR1bmJzcFBjYkc4QTMzd0haLWlaZGhWMGVWRUJmSVRSRFk3QVUzZTVOQkJ3T2UxYWZUTGdEcXJEOFN5SWJQQWR4Y0pIVEF0UTNEZGt1Mjd0ZGtSN0xzbzlna3RJVjhRaUpwOU1PTmZsMXlHWHAtUUlkMjRyLW9hRVZoa2st?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 12:03:26 GMT",
+      "description": "En directo: Macron pide calma y reclama un debate electoral \"con los partidos y no en la calle, mediante la violencia\" France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "La podredumbre en el Istmo de Oaxaca apunta a la clase dirigente regional de Morena",
@@ -136,6 +136,15 @@
       "domain": "dw.com/es"
     },
     {
+      "title": "BTS conquista Chile y promete regresar: “De todos los lugares a los que hemos ido, ustedes han sido los mejores”",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2NFQzdRZW9CTUVkWkRkTkRJQm1kdWRtbTVNLUJ5NkxHWlBQdTRKUFFTN3J4ZDloRS1CNTUwMHk0dUhYakYxb25Xb096R25xRWJHcjZZdXRVRU44SldQcUttOGxQQVlPUzlWZFhrSmVrLUdUVEIwa0hRcGFyaEM5WloxUktfM0xGNGNMNWFOcEFEWG9HSjNTWi1B?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 05:45:00 GMT",
+      "description": "BTS conquista Chile y promete regresar: “De todos los lugares a los que hemos ido, ustedes han sido los mejores” CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkNDU0Q0RWekJxdHRqbUQ3bVoyRVJVd3MtVHpQTzI1bUd2MDd2bWh5anBVUnQzYWZ2NktHWWtVUkk4a2R5eEFVSzgxLVRQSVpNdi14STFXaXNuZXV60gFiQVVfeXFMUGhrT21ZRHlJbWZpaG56dE9BcWc4TVhCcFhOQ2ZYdkpRdURMTjdXV25aVk9NOUFCR2Q1NjdQVjlabmU1TVYxamwyaDFyWHVlYVctRmNCb0tBbkR1VmNBRWJPMnc?oc=5",
       "pubDate": "Sun, 18 Oct 2026 04:15:43 GMT",
@@ -143,6 +152,15 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Rufián, el gran prestidigitador",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmhMems0V3hYeVIwOFY4eGdDWlhEWktaY3BQNFZtdVhqaHRFeExpeE5sZTlNV0FBcVBpTEVnT3lFcDVSWktfckRQU1R1OVJ6WlE2Y25pME9qSXFGWkt0SFphZzlRTkxMOElCTUZWcVBqdEJPbjhYOXlpWi1pYUJxU3lEY0R4eU1ieDlUSnlidHBKS1Z0OUhIRtIBrAFBVV95cUxOOVNVQTI0ZFV3anhqWmE5VzJKU25STV9XSVUzYzVocUd0WDVDdGJOMXEzaHdxcVM0M1F3Rnh3UGMtUEtzOXVreC01VmtONUkwWkphMW5COEw5RndnQVVZekxhbWJSdHV2QmVMX1RYcURxQmZINkFzS3Z3TFByYWNfZFNsV09GcDVLdnk3S3pvbnBNZmUyb2FXdmg1MnN0alBaS3BIdTVQTGtzUExU?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 03:30:01 GMT",
+      "description": "Rufián, el gran prestidigitador EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Incendian edificios y detienen a más de 1.000 personas tras protestas de medio millón de personas en Francia",
@@ -161,15 +179,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hV1Q3R1dXQjI1ekhlMmFnVlotUnRzenJlNzllYmpOVTNGazBBc1F1Q0VObTlEVE9WX1BxQUkwelFkUTRtY2dRMzBRWUZ3UEJRYjgwY0dIdTdrRkhP0gFiQVVfeXFMUHItSDZZcjBQd3BBczU1OWs1dEJrWUQ1SDB2Q0w5bmQ4a0pXUWluM0ZnSm1lX1ZhQjdBZHpycFNOS1hVRTRBQnhaNlFERTFjM1lNQWtKZjl6cjBtVExENEFRbHc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 02:18:42 GMT",
-      "description": "Trump levanta sanciones contra Rusia y se intensifica la disputa con Zelensky BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Irán reivindica su control sobre el tránsito en el estrecho de Ormuz, pero abre la puerta a una negociación",
@@ -217,15 +226,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 22:28:05 GMT",
-      "description": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "“Las cosas no cambian, así que hay que recurrir a medidas drásticas”: protestas distintas convergen en París",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eG5fYWNZLVRQWXltMWJjRURYR2lSaUxhUGNoTmloaF9fbFJWU3JPaTZuQTMzTHA1UmxOWU9yRWdBeE9JMkY0ZENUTHVReWRTMG9qS3BCc3d0QQ?oc=5",
       "pubDate": "Sat, 17 Oct 2026 21:25:35 GMT",
@@ -244,22 +244,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWl9EeUhiazlKUHFIMUk1RlRJazc5X1oxU2F5dG1PaEh1T1lnSHZ4TW94a3ByWV9nYldzVERldXZFaUdfc05vM3M3U1JsS2JCNmRpMDFVZDdMQ2FsRWNob3dvN184UmJGUEVYdEtnbXlHQXpGZnhPVlFSZzd4dUJqaHMzYXA1NnVScktYSzJyUWNxWGIyY3VuY2tsWFozNHBTLW9GaHdnd3dRT2Fwd3Q0SW5GWGxMZ0xWRXpRck5KVkNHMk5EdUtJaTR30gHKAUFVX3lxTE9OaS0yN19ORlhwclkxZ2wxU0RIYUlGd09kT2h6RHBQQkptZnJZUGdOTmtKTTZpZ2FKdFlyNlU2MUczSWF0TlBiS0NsNEZpVkxtbGpPOHdzdXc3VWJ6QUFGWVdCdDJqeWVBeGpMb1lmMVd4ZGM5ODBuTXBOcDE3Z2FuMFU5TzZqY1pUWUllYy1pd1JTZUpZcVU1VjRmMTlMSnRiQTVRcG1na3pIQUVtMnI2YWZVUGZGcVJaOC1mdTFRajNzZ0lSa0t0QVE?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 20:06:28 GMT",
-      "description": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Detenido el exfiscal de Chihuahua César Jáuregui por la polémica de los agentes de la CIA",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXBrbkE4cGV6aXpUeF9ZSDgwc3JMdlNkd3QwZUs4RTJKTUU0RExGeGY2LVNNRTVwSFRUMjl1X25MVS1pQklRTUpJdmMxZS15NFlFb1gya0F1bXNleHFhdmVvQlZYZ1ZRc29CVmVURjFnQXd0R05XTF9QbVp4dlViMjN1WF9nSU11MlhSWHdZQTVuTjRjWmxHUUNsd216M0pHRXlvYkhhXzB3amwwSXpHZnVFZEhGRlJoVnVWU1p2c1NrNEoxQkFPazQ5NNIB3wFBVV95cUxOdlRoY0wwM2F2WlMtdHhSaTVoWWVWUU1FV0tHZWZfdGlCSzE2RTRkeEZCM1VuZnJjV256Slg0am9ob29RSTNGb193cHc5NDJoV2lsdG80VFV5Q0xVNU9IdXNGYTI1Rl8tMTJrbHN2aUthQ01rNnR0cHZsSGt6WHpIQ29RbExlaUZaU2d6VkdheGJzRjVHYXRmSnctbm9JSUVkSHpLanlJNV9iaXhrdTFVSFpRT2lUNWd4aUoyQV83TkVnSmNMZEFKekJacDF1Y2NUWVloejBoZVNWMXBMeDRF?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 18:19:48 GMT",
-      "description": "Detenido el exfiscal de Chihuahua César Jáuregui por la polémica de los agentes de la CIA EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 18:51:26 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "El cambio climático impulsa el aumento de los precios de los mariscos",
@@ -271,15 +262,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 15:51:58 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Tras fracasar en los playoffs el año pasado, el Sureste de la NBA tiene más estrellas esta temporada",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnhlS3Vkb0dWUERTWURRaFpUYkk1SGZZRjZWSnJrODh4RjVoRU5LeTE1UkdlQlQxZ2tld1NvdF8tY0REekdJZklOSjNWa2lYNTM4aUJwR1FqQXNBOWR0aXJjS3pBZ2plNEQyVVQ4TjdwdzdRWGhsZ2pNV091STFTQW5YUzhRdzJfTEQwSW8wUmV4TU84WHpid0x2RQ?oc=5",
       "pubDate": "Sat, 17 Oct 2026 15:32:00 GMT",
@@ -287,15 +269,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Cisjordania ocupada: colonos atacan un convoy diplomático y golpean a un alcalde francés",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNYVRvMGNMYmNLa3hoUkxQd2UzclRLVVczUTFPR09sc1NKWGFTYlZqQ0x0RzFTNjFSM1NsYmRpVWVFV2lwNU91Ml83NG1nZFdkb2VlWFBvYWpDcUZUX2tMNHhrWkd3NzdwYXc3QWJVOEl1TlhfZUlfczdHWUVldzk2NlBxcXZadGVSUmNOaDdJN2Z0cjcwUGpZTHV0Z2xZbldkZk1nb2lHNFNyQTlpX1VWSmlOS3FYRHNmQkRJYUVyRWc1NVFJMzU5YldrNS1QTGhtWmVYR2RhNzJjQmtkOEtPZDZ3?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 15:22:54 GMT",
-      "description": "Cisjordania ocupada: colonos atacan un convoy diplomático y golpean a un alcalde francés France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "\"No hay lugar para la violencia\": vehículos quemados, edificios dañados y 1.800 detenidos tras las multitudinarias protestas en Francia",
@@ -325,6 +298,15 @@
       "domain": "dw.com/es"
     },
     {
+      "title": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aeVFteWtkd3BCalZ5WkhGOUNPcTdiRGxuUzI4d1F4QVBiQU41WE0zdVNHU2plTGlLSnE0X0lFZW82TmNJT283dkpXNDE3bjRYcE9PdDZNeEpfRTR20gFiQVVfeXFMTkVYQXpQb2tlUkxOMzVZQkxGdEJPTEtvWkpEbkN6OGpKUDdlQU10LS1IdE5IS3ZiUUxVekZXdmdoelhRSl9pLWszUGlGb1hXMUdkcGl1U0R3YmNRb3MxLV85cnc?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 12:41:48 GMT",
+      "description": "Por qué EE.UU. vuelve al pelotón de fusilamiento para aplicar la pena de muerte BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Arde el histórico Ayuntamiento de Limoges: las protestas en Francia afectaron monumentos protegidos",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVBVMjhtSDE0VVN1UmVkcFFmQmlRRHNPbzl2dWdtMjJoZjF0bGFOVktZVDRMX0ItR2FfY3hJWEdjbGJJV2tkTFg3TGFXOXNQeUtBNTZ2TndGeVBmZGRRV3laemIyN3hwcGxyNXdSOVhHcGk0VFVJM0pINzY3M3BwQ29BamhiZzFTQTlQQ0c4NWRQWnFaZmxxa280Zk5QMFVUUk9GYVBUSUZfQlQ2T3hHUjVaWmlTNDd4R25NbVdPel9RNTB1MnBCb0hkc0JYaktYbXcteDlpdllmaVNzb0ZBMnZxWmtNbWM?oc=5",
       "pubDate": "Sat, 17 Oct 2026 12:04:48 GMT",
@@ -343,15 +325,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "No, “El Pibe” Valderrama no se cortó el cabello",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRFQtU3VTcWpZclVJbFpDZWEzVEZYZmlWYnAyeWlLUDg5UDBDUkZBdUl5S0dyUWRycjVYTG5BR1NPT1F3d2RyNXV4aVlEaEdrWDBfWnVCS0JhRkRFdG90QndRc0tBNTFEQlVRTFZENkVNQ0xRNC1vZEIxblV1RzhMTnVyRGhpSFNGT2dsaw?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 03:22:03 GMT",
-      "description": "No, “El Pibe” Valderrama no se cortó el cabello CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Empleados de Meta admiten en mensajes internos que el alcance de las cuentas de Lula fue restringido y el de Bolsonaro favorecido",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRTZ3bTZqQUctSWF1bjM1c2o5ZjhKTVUxYnpvNER2UWpEUnFQTVBCOGlTMXhQeDlCSjRkVEoyQmJ4UVpEUzU0VWNOV1VzNnd3WW1Wb0stb3JoM0VvcUpfNnBzeU1tVDV2VEkwS1kyTmdxa3dwb01aNXlWZGRQWW5WT1R3Mm5vOFdNX1lneDFySmdRZEdwMjNLRDIzMmdqRC1KLWl3VzNrRFQwX2F3N3BaZWVGVDlXay1EZEptSXVKZjBQVVFFUVN3VTRHYndlUnVGX2d0eUtpZUtEblnSAe8BQVVfeXFMTncta2JEMmQtRmxmcG5pQzVjajY0d0lqV1J0WnRweVlvTjdCVjBvOERyVF9IcXJuNnB4YnBzWF8ya3N5WlNJcFhzQ1ZzcTlUQl9qbWt2OWhaRURYaGxYak05WjRGWWx3ZlZKYk4wR0NCUl9SLVp0SjZnVWU5bEdaaFNnSVQ5a0lYbUxzMkVuM3g4UFFwcjlpMzY2M1lrOUFXU3JiU0VMaW10Q1BoVkpXSXp3WEpUSzZCamwwWkJKV3ZFYjNDZnBMV0Y2bjVNb0pObS1NMFUwa3VYT0tFMGVVbHBwZTRKRVB2WU1mWHBVbmM?oc=5",
       "pubDate": "Sat, 17 Oct 2026 00:02:26 GMT",
@@ -359,6 +332,15 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Orcas vs. tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PS0MxYVVNU1pCNWxuWHpIVnZyWlkzNUlPS0h0MEJZVTFWbFRLZFlCY183TDlIRl9YVEdqMVM0TGI2N0hBem5IQ2JScVhNRVQ4bzNtVTJvQW5IRVlo0gFiQVVfeXFMT1RUWWNUT2xuSXlEVlV1d2dlVHJETUJRR1hDZVA5M09zMEdoWFJLdjRZUDV0YVZpaTNVUHFDRU9ic0xLN3VnUUpFUHVwYk1IY2ZXMWtEaWNsVW1WdHBUY0FKS0E?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 23:49:04 GMT",
+      "description": "Orcas vs. tiburones blancos: la sangrienta batalla entre los mayores depredadores marinos que tiene perplejos a los científicos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Consejo de Seguridad veta a todos los candidatos a jefe ONU",
@@ -388,6 +370,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Reseña de ‘La bola negra’: Los Javis dirigen a un elenco cautivador",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYjFwak9tNkJ3ZTJfSW00cmpqdGZfNXlpY1hhc3V5YWFCUzhmLTR5REVRZHpuVmRidlJiR3BULWhoN2s2czdENFhPWmNtZXF2cWFVLXJRMzVyVWV6YnRpMTBxWWFPNjhIMmRLRTdHNTAxQThoWmhYRlJ6WDktbDZyNzFldVBPSW5nRHZpczFKUHM?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 09:04:46 GMT",
+      "description": "Reseña de ‘La bola negra’: Los Javis dirigen a un elenco cautivador The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Top economic adviser says Centerview remains Venezuela's financial adviser",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQzhKbjZ6V3FHUlRfcGh6VGVrYTF4cUVZcjBkNnNQR05OZ1JVSmFGdk1PVkk1SGpCVlJfYXc3cVNpd3Zac2ZrMFBmcnlsamtsZlV4cmdpR192WDZheFAtaFFybU9MU3psWUUwblo0Zm9tOC1GUG9tem0tVXViTU1MTTRyVnUxZFMzLTRWYmJUeDBxNnBwZlhGLVI2d1pPWnNic3l1bmNCZU9hSlBPTjdnUWY5ZXN0YnUwci10UFgxcUktdw?oc=5",
       "pubDate": "Fri, 16 Oct 2026 06:10:00 GMT",
@@ -395,6 +386,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y una maestra en una escuela primaria de Oregón",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wM3IybDhsMjlRTTJzejFaNVJWamE5MWZhU0xfb1FmLU0wbTFXYlpqMmNDeFI4UmdHYm84WTJYN0xJd1gtU05VUzNIZDNfSjFISzVDV3pvSGdNMmJV0gFiQVVfeXFMUDFUSUJYcGhucXlVcWRSUVUzYmE5NzJXZlpnN0hZRUZzRzgtTXVWN1YwN1dMU3gycTJ0N2JqWDMtVG1Odktvc25MVmtkTGp4WU9FQ2FPZkg3NXZiYnBkNEpFUHc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:06:53 GMT",
+      "description": "Qué se sabe del tiroteo en el que un adolescente de 16 años mató a 3 niños y una maestra en una escuela primaria de Oregón BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Tras reacción bipartidista, Trump descarta transmisión del fusilamiento de tirador de Fort Hood",
@@ -413,15 +413,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0xVZU9nX010ZEFGM3ZHRndnTnJtWFZaUVJzc3IyUjMyWGlfSFhheEEzcXdpSURMdmpsWHJtSG42VkZ0dlhDQUVUY2VRUVRGNkxiSDE4SThhZUt3YlFlMXRwWmZTMmdPcWVNOGJQSWZhNnptV3VteExSbzEzQmd2a0loUlJWNTVTQnNhb2xJSGc3ZnpXU053?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 05:07:30 GMT",
-      "description": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "EE. UU. está enviando a cientos de soldados a América Latina",
@@ -467,6 +458,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "\"Niñas de 3 años con VIH\": la indignación en Perú por las más de 1.000 víctimas de abuso sexual infantil que no han sido atendidas por la justicia",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YUXV1RkNmWVVFN2Z6QWZURmJwcVBKQm93U0NsRFFzZFRlUzlMUU8wU0c3R1Jabk4tZk9sT2J6NjRCSmp6WmJ2d1hrRFNNbmpWSWcwdklWR3JHaXA10gFiQVVfeXFMT1l4NHA0QVlHd0llMC13NzZhdXRzaVdDSDR6QkkyTlpadFk2Z1NtLWpBV01NY1NqSGhwMTkzYWtBOFVTRnhPOGY5bkZJRnJxZ0dLVV9YTmhTd0t5RGdURHRtZ0E?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 12:11:10 GMT",
+      "description": "\"Niñas de 3 años con VIH\": la indignación en Perú por las más de 1.000 víctimas de abuso sexual infantil que no han sido atendidas por la justicia BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Report: FBI awarding UFC exclusive agreement to train agents",
