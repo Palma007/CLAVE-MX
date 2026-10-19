@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T02:03:21.620Z",
+  "updatedAt": "2026-10-19T08:09:47.922Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -66,29 +66,65 @@
     {
       "title": "Deportes",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 00:46:33 GMT",
+      "pubDate": "Mon, 19 Oct 2026 07:48:29 GMT",
       "description": "Deportes AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
     {
-      "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 22:58:00 GMT",
-      "description": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año CNN en Español",
+      "title": "Un grupo de 200 profesores corta la autovía A-3 en el inicio del cuarto día de huelga educativa de Madrid",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS1R6N3lDeWYyUjVld09LZkdKVFZPUnVtUzZycGczdFlJdUNGczlCaDF5SXZZejhMcnRqa1lhdURPVXprdlE3V1RwV0FrclQ1bDZjbTJWYnVheVN6TUZyZEluMGRMS2xaVk5feE1Ga3l5MUlFWmZLb0pOWngtZXM3b1F5WGtwOHJvTmtpYTRWWkV2SF9FUTZuZ1M5elM0Y1E2VlJ2TjJybjI3WlVnckpvaTB0NWt0dWh6SUZTbDZBS012N2xwQ3BxckJmWkpidWpjQnBNQ0s4NkdlSzBCRXJhNGQzb0NKR1JfVVE?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 06:58:59 GMT",
+      "description": "Un grupo de 200 profesores corta la autovía A-3 en el inicio del cuarto día de huelga educativa de Madrid EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El huracán Trudy se debilita frente a México y el tifón Champi se aleja de tierra",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlBpX3V3UUVFOWlnOVZXeWFSUHY3aWUySWxvQ3NUY0pERzhaeUFpMV9lN0NGRXRhZTdYRWpydWE5Y1BrLTJuMkVfdXJMYnlOZERUa1BIOXJDazFkRjdvRzFrMERsclZTcnZNQXdBRkdPbm9KQi1BLURrdktNMmVESnp1cWlGeGVEaG1OU2JsR3pzNTdN?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 04:46:00 GMT",
+      "description": "El huracán Trudy se debilita frente a México y el tifón Champi se aleja de tierra AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "“La cámara del teléfono es tu arma”: cómo las mujeres iraquíes desafían las amenazas de muerte para luchar contra la violencia sexual",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hOHhGV2Z3d2dpR015X0staWtsUG1yeTd4Y2NwNzZFd0VWMXFQd0ttMzJtbGxuMTlqbGhpclMxY05uRTVQTEg5aEc3Q1h4WkdEWF9Lb3U3R3hNY2VC0gFiQVVfeXFMT3Q1dUNUOHBpWGVaYWFJVkVlYjBBa2g3RHdTam14a0lpZ0RTeF9qSEF5TDNvTzliOU1KaEhXaFhqem1YRFZ5REFrcE12bVNMRzFQZEQyVF9VOVcyQVZFQXdNZVE?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 04:05:23 GMT",
+      "description": "“La cámara del teléfono es tu arma”: cómo las mujeres iraquíes desafían las amenazas de muerte para luchar contra la violencia sexual BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Cuatro muertos y decenas de heridos tras un gran incendio en una base militar de Canadá",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUlobWVhMjNKa2hEYVBlS0hWeDZ0SVJWcnk1alBvOFBubXY4NHhXTjgySzZTb1NHbWZhX3pkN3h4d3ZFTnVFLU1vUF9HNTFVOEJCX2w2SUpKNmhEY3lna291R1dzVjJhcW9TajVWcGFsZGZDYlBxMUIzQ19lQjZ3SHM5Sk50NUZ3bklUc05n?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 04:03:00 GMT",
+      "description": "Cuatro muertos y decenas de heridos tras un gran incendio en una base militar de Canadá CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Guadalajara vuelve a salir a las calles para pedir agua limpia y en protesta por la represión",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdmhqRDk3bVBpSkNYak9WSXRrWXlwTU9ET3RUbU9MVGQ5aUFGOFhRZDB0cGx3SUhMQ0hiMjdaa2E2ZzVTYkNSMUVZS0gydDhubHQ3X1B2ZFFwVnNoREt6WlhMZmZiaXE4WlFWaUJ5ZWxVbWxnamdYbXlDQnNhczhsUjA4UnVVNzJOOVRPZjBST2Vwd295WUduM0J3aGU1bk9WMTJVQXlXcnI5eEFzdUw4Q2VzUGlJNUw4WXk0S1ZCRUdGbm5ZdjVHWFZoeURZbXh50gHkAUFVX3lxTE9iNXV1Q0xSeUtJWFdib1E3UVpnVGtXY1Z4QW9mdGNFT1FmejJOX1Zjd3NuYW1Cd1dDc2YzU1VIemdlMXBVYk5DTWVIY3RyLXFHTDhZM0FsZUNyVllhUjJJekJSdHBMTXRuTjhtUmZ1TXcyRzZveW5RTDlCaVBpRjBxSU5Wa2RTM2dwS1VhbkxpZE1KYmJvT2hYdG8zVXMxWFVxU2J5VXhXbzNIMmQ5ZnlJLURVc1Rub1dmTDRKS0VQbGY0TTdpbHRxWUE4RTBuWkFiOFppS0Ytd2FrOVZvQnlSc3BQTQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:10:41 GMT",
-      "description": "Guadalajara vuelve a salir a las calles para pedir agua limpia y en protesta por la represión EL PAÍS",
+      "title": "Las claves del primer debate en Brasil: un Lula tecnócrata ante un Bolsonaro provocador",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOUR2ajlnMmIybHk1VWxSNk1SeG5aN0VNcGc2QWl3UWNoaGp2MHhXXzdPZC02d0tjWWFyUVVTZEw3cDdiM2VqMmpqYVBIeVNmOWRVaGIwdUJQOXBRNUwyNWdQcnlKLXg5SlhLVk5Gcmd1QVlDUnFXaGZjR0ZnWEpoc0pWSmNEVF80dFVCR0tHZklEWjh5T0NOQ0JVYUwzdzZZbm93aG1TZl8wcDgtWjRvTExfZElXRks5Vjd0UW9XSWVNTlluWXU3LdIB3AFBVV95cUxQQmdrWnU0UkU3SjZGMWJuU3pnTlRDWXVVeVVfc25JSUJuUUxDRDZpWXV1Z1RPVGszUVYxSDQzbk1tNGE5TWJwc3RsMndzRjduRG4yVzkwVzllR3ZzTFBVa2g3UUhrZFhLQzhGRFJQSmctS1QzdlBtaU5Pc01Xb3BHSWpZX0VaUUxrT1RlNEREOXpFaVpGazZ3TC1lYzRNWTVSemxhQTZaLUZXcEpQeWZ4eEhVREwwNm10eTFaRFVCTElTS0hXSWwxeE9TOER6Z1V6WDNQRXB3TUdJTGdS?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 03:12:17 GMT",
+      "description": "Las claves del primer debate en Brasil: un Lula tecnócrata ante un Bolsonaro provocador EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "París registra nuevos enfrentamientos y saqueos tras multitudinaria jornada de protestas",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU29CekVKMmtPbVdzRmVsZmkzdDU4R2Z2aW1CMHhtSTFQbXk2a20zN0Mwb2lLODF5LUd4Vlgxd3JUQVVlOGlwdF9FYzlxQWJkNkFzTTlqLUE1bGN3Uk9yRl82a1daaWxmYXRMLWxmdjl5MWQ2VXBIaVV6ZEdMLWM5OUtpR2k3aXJtRENKbXBhWFBxTUFMM3Utd3RTRl9RanprQkZwaDNScFMwdWRPY2tSUTFrSDJzaVlfeVZ1Q19rQmtXTWdm0gHEAUFVX3lxTE9WSkZBNzJfSWlfYkpyaHRkUkh1RXJYVFlkd2RpY3BsUVpJZlY1NzBoaE9TTDRnRzJQMDU1RlRVSlVrQ1hYd1lST2w5TkxQMElVT1NzaHdyX2VMd3RYWUxwVmFEZXBPa2k5UTJlajBYUDZaTS1qQkhVOF9aUGtFanVJQThkVEx6TXpxYlBTOE9aTHlGM2d5UTc0NEFOQlNadmQyanNoNUpBMUJJVzZ5SlhySDM2dUhqam5RU0w2SUJMb0ZXbXQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 21:16:34 GMT",
+      "description": "París registra nuevos enfrentamientos y saqueos tras multitudinaria jornada de protestas DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "La caída de Fernando Cerimedo, el controvertido consultor detrás de las derechas latinoamericanas",
@@ -127,18 +163,9 @@
       "domain": "elpais.com"
     },
     {
-      "title": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa2xzaHNvWXI2TVp4TlhHRU9xa3ZDNkVjZVJtLW41NWRlbUw5UUhvSUJaam9FeGo2QXlEWjlUZGZNRWh3cl91Zl90WlJONmg0SnJtZk5TWWZSUHI1bVFhUE1GWE5YWjYyakN0cTFhOTBFc3o0RHZtWmV3eVpnNmpEazVrS3NXeU1xN3A5VTlYR3BTeGQyQXpma1Jld2JrUQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 15:37:00 GMT",
-      "description": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaU5fcjZCNXB6bzRsZzRGM3ZkQk5MZno0eWVOclBBb01ISGlidV9rSE5GOEhIbzNBYU5PWV9pWGVMRl8wTXhhZ0dnQ0pDOEFFeHRDaWtTcERqbWdXSUJJekVySW45OTF3OVhIbDU5YzRkWUFSTEo0WUxZRFc4R0k0Sm4ycDdTUlFSWjNUampydTdDVUpzRmFtTVlEWEJhVHVNZG1YQkxWWDRJQkRDUlNqdEZLQUxaVFNtUWJsUkxR0gG-AUFVX3lxTE02RHVFdktaX0xuQmE0Y2JCSXZGUUxPTmpZYWZSa2pTUzVfbExFTC00UzRWbGFsY1NkV3llWTdrNGhYWlA0LXNBYVFyamJnczVIZGpEM1lSV2ItWkQ5LXJYY3dUbG4tS3pXbFppTXowY0JxczNaZlpnTmU4Zl9GdmNhaHNyNFdGYnRZMGhSZTFGeGgxUGxhX25IR3F1YzhBcVNOc2dvbkViOWhuR1hkU0lKZE5EdVNxVzRnVGVyOHc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 14:12:01 GMT",
+      "pubDate": "Sun, 18 Oct 2026 14:17:48 GMT",
       "description": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -172,13 +199,22 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "En directo: Macron condena la violencia y anuncia una unidad de crisis para apoyar a los afectados",
+      "title": "Macron condena la violencia y anuncia una unidad de crisis para apoyar a los afectados",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNbVdCRUg1ejZuLWJjTVF0TU14dkYtcWtnSmFHc204emlzdmxQdG5FYXc3YWVyZnFWcWZjeEtobDFicEljZWx1VmlVQXF0cmZJT001bzR3Q1U1cFp5WWhjYlBrTmNNSWRuV1NRV1RRQkh2d3RhRHhmVTR1bmJzcFBjYkc4QTMzd0haLWlaZGhWMGVWRUJmSVRSRFk3QVUzZTVOQkJ3T2UxYWZUTGdEcXJEOFN5SWJQQWR4Y0pIVEF0UTNEZGt1Mjd0ZGtSN0xzbzlna3RJVjhRaUpwOU1PTmZsMXlHWHAtUUlkMjRyLW9hRVZoa2st?oc=5",
       "pubDate": "Sun, 18 Oct 2026 12:03:26 GMT",
-      "description": "En directo: Macron condena la violencia y anuncia una unidad de crisis para apoyar a los afectados France 24",
+      "description": "Macron condena la violencia y anuncia una unidad de crisis para apoyar a los afectados France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXZfeDVra1g5eU5INEFSVFY1MU1RaHVCdFdJeks3bllZQWlaZEtSUlhWbFA1dWw1NVpfUnprVnlaTjFETUh4V3NubmdFdHFORlFWczBVekRBZTNWcWpEV1N5d2F4WmE0cTRBbWFrbzE2ZVBXS09XOGhtLVZWSUxCZXdqVVhmUFRLNFJoTndDMTduVDZTdjBiMnhEWWY4TzlCV2xCbVd6Q1E2VTBlOURxaVlycjhrdnZBanlrQnJNcnpTdDRudllheHJjVXBINldHejhlRXRmbHF0U1FIMUdRM185SXRMUWxVQlhyRWRTa1pXVlJNaWdCcVlIdVEyR2tYN2lmd9IBmAJBVV95cUxPNEJjNXZ1aDl0MXNJRkZSaThlYmxCSXExQTNlZmJISHhKVTFuX0k3eGMyTVFhUGR0Zk1YOW8tckFEbDYyZG55bms0ZDZhbWRndWViRnB6SjJ2Y2xWQnVSU1hQLWpyUmI1VnF1ZFRsOEhKNHdCcEltTHMyUFB0VEN3ZWJhLWhBS1JERzlRaGNSbnh2SHZOeWNET285ckZ6dWhqSnY5NHE2QVIzejllWnRuYmltaHhfNUtkSG02NzFfWnJzY1phUjRzUUg5Z2E0ZlFwV182ay1rbGpGbm81RDUtckJGUzNfTkI1Y1Joa3VOMndhOHJ6NGcyQl9JRFA5VjF6d2VFSjlYMlNzRkJVOEVsQ3ZDWF9hcmtn?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 11:46:12 GMT",
+      "description": "Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Cómo el arroz puede ayudar a construir las casas del futuro",
@@ -190,58 +226,13 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UZEg4b2NPUk1oNll1TEZTdTF1dXRUZUw5YWZVV1BkeEQwRFp1RUJjOFZRTE9RUEdWVEc2aFhqZDhhaTVMdFNHanNadzZKT1FRanA4UGt0b0s3TDjSAWBBVV95cUxPNmMtMnFPRmtRaV9lazF2SEp5c0o2QkVtTXliaWZpU0liUEE0aER1NTA4SHItN0hVTUFoOEdMYTdZT3ZGc2VKVTZmRFVCXzlqdnZCSXpiS0NNSGFSYXc0TEM?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:45:21 GMT",
-      "description": "El paraguas envenenado con el que se cometió un sofisticado asesinato político durante la Guerra Fría BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La podredumbre en el Istmo de Oaxaca apunta a la clase dirigente regional de Morena",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblZtU05sbXhFc0d1bjExdE01QUlGRE1KNmpIaE92ZGY5VDlNVTl3TnFTUGlFajFBV1p3NjBnTXl2WTgwMFdfLXJHR2o3aFlLLXlSNGtvSi1ZTkRfWm1HbktsQ05waHdRdFhsOGlvOXJYMGVVdFVuQzZaUnlzU1lqaGkwd183WHlDLWV4bmkxQWVKVHMtRTJ0dEI4ZU1ZREFlWlZrY1ZfNURzOUFCMjJKWVJFUkRZVnVMa216TjVSdXJQbzTSAdcBQVVfeXFMT1BPdzJ1X0dzblhYb2g3Y3Y5RzRpckxaUWlkRWhOdkREdlY2N3pma19UMkkxX08xVDFGdlNHM3JodEVUalJpUVI4YWsyNWZOblQ4c0JWc25CVGVLVENqX0tCR0loZ0x5X0tWUFRqRjcxWk1jNE83VGxnRmtxUUtrYXo0djFhR2hXRzBXM3l2VkcwZDFDbldZRDJvQzl1YzRGQXJuTDBjSlluWHhIam9LTnlaUVgySmw0T0dKcHpyS01JUUxpdVJlQW5UUE9aNmNfZ3RleTFlWXc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:30:00 GMT",
-      "description": "La podredumbre en el Istmo de Oaxaca apunta a la clase dirigente regional de Morena EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Cuatro muertos tras un gran incendio en una base militar de Canadá",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUlobWVhMjNKa2hEYVBlS0hWeDZ0SVJWcnk1alBvOFBubXY4NHhXTjgySzZTb1NHbWZhX3pkN3h4d3ZFTnVFLU1vUF9HNTFVOEJCX2w2SUpKNmhEY3lna291R1dzVjJhcW9TajVWcGFsZGZDYlBxMUIzQ19lQjZ3SHM5Sk50NUZ3bklUc05n?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:24:00 GMT",
-      "description": "Cuatro muertos tras un gran incendio en una base militar de Canadá CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Las protestas en París dejan un récord de 855 detenidos",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEZjUnFhVFN0ZmlsLVRIOXlEQldOTlF2elQtaEIzRTRwMHM1OEtiYmxLZmVGM0UwOGljNGx1cm9QXzU5S2xfMVo0NEJLM3hJWGIzQXBmVDYyOWNCelRXV1B1YklaUGxOTkNvd3c3LTdPQ0Q4RHdzRWRYVHgwMWJjakdBRnFySldocFdsMGdvNzdRbEVQbmJldThKZ000N0HSAZ8BQVVfeXFMUGEzT2VXREtVN1RCZndzamh1b0tQUll5SUhUOGIxTjZBRlB0d0U5TXk2a1daakJubXZITVpvcll4RXF2ejk5c2ZwaGZnMHJQYVRpWDc2ajM4TVVWNVVvMlhYZ0tEVFJrbkRqcE1WMERENW0ycUdmdGVNUkV3VkZhSkREMU5ZMGhCejcyXzRCWW9YMkszWUZKQWtGcENLLUVR?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 08:38:38 GMT",
+      "pubDate": "Sun, 18 Oct 2026 09:52:54 GMT",
       "description": "Las protestas en París dejan un récord de 855 detenidos DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "\"Estos son tiempos difíciles\": los legisladores republicanos afrontan la furia de los votantes por el Washington de Trump",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEFSMHFET0RLMDY1Q0h5SUZPVmtfejJEMjZXUFpCanBOcVgxRWxXN0RHUEpsY1pvWVBreVBBbkJGTHJjS1VGSk9kY2dtYUxudjlaeUZFZ1BxQTNmYy1HYV9BaVhuTF9ra243eHl0YVM2NXNib1JoUDU0aV93cUNqdTBNXy1fYXZVeTdqd2VtX09WaWF4dmxv?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 07:23:00 GMT",
-      "description": "\"Estos son tiempos difíciles\": los legisladores republicanos afrontan la furia de los votantes por el Washington de Trump CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "BTS conquista Chile y promete regresar: “De todos los lugares a los que hemos ido, ustedes han sido los mejores”",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2NFQzdRZW9CTUVkWkRkTkRJQm1kdWRtbTVNLUJ5NkxHWlBQdTRKUFFTN3J4ZDloRS1CNTUwMHk0dUhYakYxb25Xb096R25xRWJHcjZZdXRVRU44SldQcUttOGxQQVlPUzlWZFhrSmVrLUdUVEIwa0hRcGFyaEM5WloxUktfM0xGNGNMNWFOcEFEWG9HSjNTWi1B?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 05:45:00 GMT",
-      "description": "BTS conquista Chile y promete regresar: “De todos los lugares a los que hemos ido, ustedes han sido los mejores” CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Un yate con una piscina de 50 metros y toboganes acuáticos: imágenes satelitales revelan el lujoso complejo de vacaciones de Kim Jong-un en Corea del Norte",
@@ -271,6 +262,15 @@
       "domain": "elpais.com"
     },
     {
+      "title": "Macron promete exigir responsabilidades a quienes \"intentaron derrocar a la República\" durante las protestas en Francia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTRmak5jVjVGU3pHdDdaOS0yWU5YcklkdUNUZWRRNWtNcHJUVUFCeXh1cW9pVnI0enE4UHpHVmlxMDdFdU1MbEc5WVR4MXNPVHVXbmlIb0FIalZXcXNGRzdWc1p6QkVjbktFRmhwU2IwRnhMUUZzYmdSZklES1MxS2Z1VkhxcDlRbHRyYQ?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 02:25:00 GMT",
+      "description": "Macron promete exigir responsabilidades a quienes \"intentaron derrocar a la República\" durante las protestas en Francia CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Irán reivindica su control sobre el tránsito en el estrecho de Ormuz, pero abre la puerta a una negociación",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObDZYZjVlc0xILWU1QWVDMzZrYVJxNi1YNVlheGxxRThvYUJkckpoRkVfMVFFMmhBSFozN1FaS0dkWUJmWkZ6WE5PNlpaa0xZTm5naXpTNUprMkxERlRKNUlkOFBiWDhoWDZXenRnbkR4blZaS2pvX3dmY3k0aEk0YlRIaDRjUHhSYy1BbU4ta0FWZ1NlZzlsYkpBNUVRVDVUZWdkdXZCejU1Nm1DeVVfNnlscHpWR3F4eXNmZjFqdjhTWmxGM05rWWlKN3dmeWQ0d2wxbW1rd0hhM19KRng1TXVBYUxrZWNZTVNPRnQ3bEp6WS0yOXQyc2pJZlJWRG91THc?oc=5",
       "pubDate": "Sun, 18 Oct 2026 01:38:10 GMT",
@@ -298,37 +298,19 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Lula denuncia a Flávio Bolsonaro ante la policía de Brasil y la ONU por las supuestas ventajas de Meta en la campaña",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdW9SdEpUNDRISXdpSHkwNlFmeVZhb28wOE5yTHNEU3dmWTVJV2ozejRkUU5sTFAxeWxlTFVxWWtPTFZUZEE1ZmNQWHhVeHZVZDNMOTRLRzdYMFJvcXo3ZXdEZzZrQ05pWmVyVm1LRzVidWoyWHNnVEFZY1JlWHM5alU3T2hFQTBMaGt3cV9hRXNpem5wQm93aEFiRVg0bzI5c2s1ajQ4X3FxamVxNWhXVHZQeXJWa0pZVmdQZk1WZjZRR1ZWdTRINHVTbE5FbklxU1Z6M0ltMU9GTlpZQlAxR2hwcnl2VEQ5Tk50SE1HQzHSAYQCQVVfeXFMTWJQZ0Q5VEFjcXNqTmg3ZHcwdl9GNG40QUk2Uzk5SGI1OW5kOFl0XzJJTFZIVERKMGpEbTJ2emhHUHlJamllbW95bmJQVTZvdEJ2TTN3ZGpmMEI1RHpCbmlMV19zZUpZVFhSMGEyRFZQYmRlT0JEOS1DRVNpT0ZuUy15dGZmNjJ4UGpRTlZrZHVWQzRCY0c5dE5sVVRFTDgzT2dDdE5kYVkxU05tbHBRQm94clJtLWFyOVdPejYyY3A4T09qdHJJQi1SS0pOS2FjS2FFeGxGMFI2dThJRjY1bS1BVHc4dXNPQ3U2ZjVYNlNYNmRrZGJPV1M1cEdsY1ZiRFpIMng?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 00:02:40 GMT",
-      "description": "Lula denuncia a Flávio Bolsonaro ante la policía de Brasil y la ONU por las supuestas ventajas de Meta en la campaña EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor y provoca rechazo en Ucrania",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTUJiQkVRQjBDTWZ5N0VDZXJ0N0hTUGlnOUhULUgzNVkwRl9UZkJaR1luV1duZWxZUW41Y2IwckU2UDVHX0JSTlIwb29nUnJqbFBNakZPSXNtMy1xVGVNWlc1UzhwaFRxMWs4Q3lzcy1uNjBORVFLM1k4a1VibjNBeXdzS2J5MlRXN21vQm84b2tEWDV6cF9HaXhYOA?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 23:54:00 GMT",
+      "description": "Trump suspende sanciones relacionadas con Rusia antes de que entren en vigor y provoca rechazo en Ucrania CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5",
       "pubDate": "Sat, 17 Oct 2026 21:58:41 GMT",
       "description": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Una ballena choca inesperadamente contra el costado de un barco",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVA1cU95dGZGNUZGazFWZHFNdjdobEswcVhtZW5wUS1TelE0WnQ4Zy1kdV9jQnhIMFVadktmUWFSX0lLd0ROMnZValNrajFKenJhUnlaakFxbllRSVJQQmNZeG1YODdyRHZlVHp1a3NCZ2dRTktiQk5VNjMtSW40VC1MbF80WVRDNm5tLW50NGlHZEda?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 21:10:55 GMT",
-      "description": "Una ballena choca inesperadamente contra el costado de un barco CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWl9EeUhiazlKUHFIMUk1RlRJazc5X1oxU2F5dG1PaEh1T1lnSHZ4TW94a3ByWV9nYldzVERldXZFaUdfc05vM3M3U1JsS2JCNmRpMDFVZDdMQ2FsRWNob3dvN184UmJGUEVYdEtnbXlHQXpGZnhPVlFSZzd4dUJqaHMzYXA1NnVScktYSzJyUWNxWGIyY3VuY2tsWFozNHBTLW9GaHdnd3dRT2Fwd3Q0SW5GWGxMZ0xWRXpRck5KVkNHMk5EdUtJaTR30gHKAUFVX3lxTE9OaS0yN19ORlhwclkxZ2wxU0RIYUlGd09kT2h6RHBQQkptZnJZUGdOTmtKTTZpZ2FKdFlyNlU2MUczSWF0TlBiS0NsNEZpVkxtbGpPOHdzdXc3VWJ6QUFGWVdCdDJqeWVBeGpMb1lmMVd4ZGM5ODBuTXBOcDE3Z2FuMFU5TzZqY1pUWUllYy1pd1JTZUpZcVU1VjRmMTlMSnRiQTVRcG1na3pIQUVtMnI2YWZVUGZGcVJaOC1mdTFRajNzZ0lSa0t0QVE?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 20:33:35 GMT",
-      "description": "Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -370,6 +352,24 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "CNN presencia tiroteos mientras la Policía haitiana incursiona en territorio de pandillas",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaGVIUHpaVFdZaE9qSk1kTXp3TGRDbVBqQUhqQ2dhaW1ET09fU011TWVGbkRiUnZORi0wM0RwSmY0VEpPY0trNFJFa08zWmkycTFfSllzMEUxc0ZGWklLSThxcnNPTXc2V3F4aU53YnRnN0Vkc3JQaWtTWGpaYWpjVVNZejM2LXVLbzZ2X3Z2RGdjWFprVWc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 14:18:37 GMT",
+      "description": "CNN presencia tiroteos mientras la Policía haitiana incursiona en territorio de pandillas CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Diez propulsores y tanques de aire: así es el nuevo prototipo del auto volador de Tesla",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1Bfd0l6Tjlrb2dEeTlBNndxRHZrTC1Ick56NnBQTnpCZXI0TzAtU0pwN0JGZ24zUEtTVEJUdVNtTURHRU1ZV2RlQlNvNWE1SUh6eXIxX2RwNm4tWXpCN1JTWkpodHZfTkFLV1g3YjFDYk5OTGhfa3pJeEJRTzNLS0lOdW9yM0xkNVZOX1hJS0xhaE1WS21EUE1BSUVMVzVhZ3RN?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 12:49:50 GMT",
+      "description": "Diez propulsores y tanques de aire: así es el nuevo prototipo del auto volador de Tesla CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Caracas parece más segura. ¿A qué se debe?",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZ6bEU4Q3RBbEp6MUQwN2Mwem42MDl6M0hDbGoybjEzckFhX1N1NzlWTHhyZWpaRzJSUG5GUmFqWHBuWjM2akNnRGRNWENicUQ4LXJrSkVTWE9Nd1NNVUV3WUxyZzNqejNvNERuZEpDaWRiMHRSOUtHSVB2LVJQR2txZWVhUHBrdGMxV0ZEZkVyMm1ZVTFBN3hQN0ZjejFUYU00Q1N3?oc=5",
       "pubDate": "Fri, 16 Oct 2026 09:10:14 GMT",
@@ -388,6 +388,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Los peores instintos políticos de Trump están quedando plenamente al descubierto",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc19wRGNJd3dNWjRmWjJSNzk1RlgwTUtZTzFaN2lYSmRXelpnc0lSVGxaWjUzNUJOOGxKQWlzN19tUU0wOHZzTHpma2pBTU1Mak5oY0ptRHZBbmkxMUpCQ1c2d3FVdE44SHhNT01WbXI1WXVvbWQwV3VMLTVTYmtsNmxhcjdUOVY1T2JGOGtRWQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 17:34:00 GMT",
+      "description": "Los peores instintos políticos de Trump están quedando plenamente al descubierto CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Tras reacción bipartidista, Trump descarta transmisión del fusilamiento de tirador de Fort Hood",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaHFXOXRQOTdhUEJtQjRUYVNvQUhRbkNfWFpCUEVGMTFjRXJianE5SUZTUVVEOTdFSDNZMHdOOVhkNnd2Tm5zVUxxdEplaUlNaHdmcEIxT3hvakxyc3pSeUpTSk5adGVyb1RRSWEwdHltQ2o0Z3ZVZlpEeVlOXzI2WUEtVkFYUHo1cFFmd25VS1lsckluaFdRLUYxVEtxZEZQd3pyU2l0QjRuNW9KLV9sMW9mSV9HcDR6ZDNUdjYxeHlQZW5K?oc=5",
       "pubDate": "Thu, 15 Oct 2026 17:23:00 GMT",
@@ -395,6 +404,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19yRXRJclNSZzFMUW9XbkZfb3lWTGxucHFnVnl5SGZwWGJHYTJpbVFZei1KRGwwMURlQjBGQUd5Sk1ZZGYybDdtX2Nyb3h0MWJ0TkF3X1Uzbm1OOEZfLVBJYXNaMUJHaGF2Qm1RaXVuX3JMMk1Bekp5ZW5USjk5NmF3T0ZnTnJa?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 16:57:59 GMT",
+      "description": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020 Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro",
@@ -451,15 +469,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Report: FBI awarding UFC exclusive agreement to train agents",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0p3MjMxckJsU3ZYYTJyYktWQXUyaFZBZElwaVNlcVpUYTFGNFJ4YXlQUEstYWluNnh3dm50SEduV0JGdjIwYmpIMmM5RG1JM2pjRnF3RGJ0ZnExUlZYQnFSVXI5c0ZRdXdRdXR5bkk4d0lYZVQ4UUtLV2I1X2NfSkFESS1ObGItTk5WengtY0ZmVEpfN0pZQjJYTHY3em1IcmdVUmdFNA?oc=5",
-      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "description": "Report: FBI awarding UFC exclusive agreement to train agents Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUo1WGgwZll5cENWX1N0Nk81MHI5QnMtY3AtN3NTV2k5SzNiZ09NWS11Yk1YREdNYmdoZExwTkFuMTB3SGdrSC1xRWxwX2puaTFZUnJVUEdlZGxRTmt3Q215NXhoZ0otU3AyNFllS3lIcU1USjZKZlpWd2k1aFFsXzNBNm54S2s2aXFjbG9VX19QSUIyZjZubjhma3dzaHVhZkdlZ1lzMVM0Z0hzbzh1TFR6Q0dQWkU?oc=5",
       "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
@@ -485,15 +494,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Terremoto frente a Indonesia deja al menos 47 muertos y edificios derrumbados",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOENHUHprTzRVXzJnSFhXX3Vfei16azVJamp5ME53eHBRR0xzb3paeE1iMTRvRzZVQWZ2MFI0Ykg4b3Bfdm9lQmt1b3N0RVI0c0VVV1FlamlGamVnanZhUk16UHRvYU1lZS0tVGdMZlNOUHFFdks0NFdtR2lFeGVCNjBXZ3hJRUE1YVRmcjZYTHhmdHJ1MHc?oc=5",
-      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
-      "description": "Terremoto frente a Indonesia deja al menos 47 muertos y edificios derrumbados AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
