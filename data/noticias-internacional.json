@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T22:39:25.631Z",
+  "updatedAt": "2026-10-19T02:03:21.620Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -66,11 +66,20 @@
     {
       "title": "Deportes",
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 21:49:14 GMT",
+      "pubDate": "Mon, 19 Oct 2026 00:46:33 GMT",
       "description": "Deportes AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 22:58:00 GMT",
+      "description": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Guadalajara vuelve a salir a las calles para pedir agua limpia y en protesta por la represión",
@@ -82,6 +91,15 @@
       "domain": "elpais.com"
     },
     {
+      "title": "La caída de Fernando Cerimedo, el controvertido consultor detrás de las derechas latinoamericanas",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVWtWREhfZnpjS294LWhDNDFockdpenJoSGF0MU83SFJ6Umh1SzQ3TC1sa213czgzbEJzWXlwSWFGRDVIYnMtVGo3WWZmR2ktWVRlaHh6QUEtQmM2OHNqVVJOWUdqam5KWmZQMnRnTTY2RGtvQWZBbkR6dTFWVG5nR29lbW4yb2dreDhTY0lrTEU2WXdjV0NLbkRXUjVSOXAtZHJVejhLWkdSZlNEYnBKZU1ZLXpLRThLMTVBNk12V0g4cVcydktMcHdQMWxvZmhyZkV3YjEtTnVWN1NZbElPRFQyekFoaTI3ekpmUzRzQmZQbnBPRHc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 21:03:30 GMT",
+      "description": "La caída de Fernando Cerimedo, el controvertido consultor detrás de las derechas latinoamericanas France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Cindy Crawford habla por primera vez tras la muerte de su hijo Presley: \"Estoy más que destrozada\"",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzd3FMQVZuZV9Ka3lQQnBkYnd5OFJkSUp1dVptSUMtaUZFUjlBc0VLS29uMVdJZlY0RW8xOXFac1VHUUZLV2ViNHVGdkxKOW14bEVXaEpkeHo1ZlZq0gFiQVVfeXFMTUdnTzlFSDIyRzN0Q0tzT1RENFUyNThJbzRGcG9rYlhhdEZxYUtQc0owVDNkT0laMWJwYi1mUy1YVU5SUTRjOXVuWmdoVDFUcUl3V0phZTFRVzVpUTQ1ZWV1M3c?oc=5",
       "pubDate": "Sun, 18 Oct 2026 20:50:23 GMT",
@@ -91,22 +109,22 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 20:31:44 GMT",
-      "description": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios DW.com",
+      "title": "Presidente Trump ofrece \"apoyo pleno y total\" a primer ministro Netanyahu en elecciones en Israel",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTMtakoxblNtLUVIZEV5UFdteGY4VEVMckp4b2twSEpMbnFvdXc4bHNaVzI3RlM2MXBGSUg1LWtwd2JZS3V3OTFjY0E5ekVuRnFuTTI4MTdXZlZscGNDWWZpQlp2WG1MUk05aU9sbk45Z20tNng3NWpmemxjNUlibVpRVHAwaERNcWhUNlZqbXlFaXU2ZHZLTE55SzRlVjlYSVNiR3BpYlpucnJsNnNKZnZWV1h6d9IBtgFBVV95cUxNbDdnWHk0RWVUZXA3TE9CemFvZ3ZzSllicFpMUkVtd01DVFZYeWdKYVhocXVucWxMV01NNmdyazBtMUo1c1B6ZEJvaWRSWU8xYzlRdlJsTkVQaE11MUhWOWNHdEkzTUdfTXd0S29Pdk1rc0N1X2VXODI5Yk13RVlFY2VtWmJZZWFQdUFiRVo1R1JlNFNoeE5xY01XamVNWElOeXFvZGtvdmNVa1ZBbnR4akZnVGxBdw?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 18:32:38 GMT",
+      "description": "Presidente Trump ofrece \"apoyo pleno y total\" a primer ministro Netanyahu en elecciones en Israel DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Presidente Trump ofrece \"apoyo pleno y total\" a primer ministro Netanyahu en elecciones en Israel",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNTMtakoxblNtLUVIZEV5UFdteGY4VEVMckp4b2twSEpMbnFvdXc4bHNaVzI3RlM2MXBGSUg1LWtwd2JZS3V3OTFjY0E5ekVuRnFuTTI4MTdXZlZscGNDWWZpQlp2WG1MUk05aU9sbk45Z20tNng3NWpmemxjNUlibVpRVHAwaERNcWhUNlZqbXlFaXU2ZHZLTE55SzRlVjlYSVNiR3BpYlpucnJsNnNKZnZWV1h6d9IBtgFBVV95cUxNbDdnWHk0RWVUZXA3TE9CemFvZ3ZzSllicFpMUkVtd01DVFZYeWdKYVhocXVucWxMV01NNmdyazBtMUo1c1B6ZEJvaWRSWU8xYzlRdlJsTkVQaE11MUhWOWNHdEkzTUdfTXd0S29Pdk1rc0N1X2VXODI5Yk13RVlFY2VtWmJZZWFQdUFiRVo1R1JlNFNoeE5xY01XamVNWElOeXFvZGtvdmNVa1ZBbnR4akZnVGxBdw?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 18:03:29 GMT",
-      "description": "Presidente Trump ofrece \"apoyo pleno y total\" a primer ministro Netanyahu en elecciones en Israel DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Bolsonaro reúne una marea amarilla para echar a Lula y emprender el cambio en Brasil",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeEpyV2Zqa3Q3aERhb2RBczdRR09pbGdlSDNFdjdia1ZTVHZ4dE5Uc244NUxnck5oWi1HSkVRWlM1MTF2b3JGM3V1VTM0NHFYT3ltWG9ua2hnZmltRWlKbHQ0WmQ1SXdSalJYWXNkaXU4MlhpNzA1Z3lkQ0lzMlhRNzIzQ3JhR29KS1BLOWJyb01LUEJ4dGp6TTlKTnB4bmxMU3Eyb0hDZjRKY2V6WGhyZXk3SkpKU1FQY0VRSlcyZ1NyUEtaM0HSAdoBQVVfeXFMTkdLclZIZ01aZ3ViQXRoN0I5Q3YtTlBMa1lTcU9KSzJ3SmQycDRLZDJRQnBVRWg5d2pRSlczTVk3Ni10YXdhbVlGc05WNkZqaUJWa29lMDdFQ0JOY0NvV0FLWWFiNkJzQk9KTHR2YU51SlJxRDVjMzl5OEY1M1NtQjdhb0tSRUUzT3pkYlNxS1FkaDNMcDFnbTFIUjRwMlRRekFhSGFUb0JadEdtMjFuNXVrQS1JS2Jld1hvTkZsLVIzNWpic1NEUDhjeGZ4YUFyX21jUU5FTmdETGc?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 17:02:03 GMT",
+      "description": "Bolsonaro reúne una marea amarilla para echar a Lula y emprender el cambio en Brasil EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "El piragüista olímpico en el centro del escándalo del estanque reflectante se convierte en un adversario de Trump",
@@ -120,7 +138,7 @@
     {
       "title": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaU5fcjZCNXB6bzRsZzRGM3ZkQk5MZno0eWVOclBBb01ISGlidV9rSE5GOEhIbzNBYU5PWV9pWGVMRl8wTXhhZ0dnQ0pDOEFFeHRDaWtTcERqbWdXSUJJekVySW45OTF3OVhIbDU5YzRkWUFSTEo0WUxZRFc4R0k0Sm4ycDdTUlFSWjNUampydTdDVUpzRmFtTVlEWEJhVHVNZG1YQkxWWDRJQkRDUlNqdEZLQUxaVFNtUWJsUkxR0gG-AUFVX3lxTE02RHVFdktaX0xuQmE0Y2JCSXZGUUxPTmpZYWZSa2pTUzVfbExFTC00UzRWbGFsY1NkV3llWTdrNGhYWlA0LXNBYVFyamJnczVIZGpEM1lSV2ItWkQ5LXJYY3dUbG4tS3pXbFppTXowY0JxczNaZlpnTmU4Zl9GdmNhaHNyNFdGYnRZMGhSZTFGeGgxUGxhX25IR3F1YzhBcVNOc2dvbkViOWhuR1hkU0lKZE5EdVNxVzRnVGVyOHc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 14:11:27 GMT",
+      "pubDate": "Sun, 18 Oct 2026 14:12:01 GMT",
       "description": "Más de dos mil detenidos y seiscientos agentes heridos en los disturbios en Francia DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -143,15 +161,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS041UnhyRlF4S0c3ckxOWkYzcXVuOFlqd0h3WFRvdEdpa19Pa2xvSTVYaU9SRjRKSlhpVWZidllyYmZ2VU9icW13SkRMV01YWExHeTlwaEpmbHdyRTgxbUJuVWg4T0Z2bkhmVkpiLU15SE0tYUJFWmVjRjVmbTZRUDYwMW5Xc0VEVWc?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 12:58:00 GMT",
-      "description": "Ucrania desafía a Trump y lanza uno de sus mayores ataques con drones contra Rusia este año CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "El Papa saluda a la multitud en el Vaticano, por primera vez desde su operación de cáncer",
@@ -190,15 +199,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Las protestas en París dejan un récord de 855 detenidos",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEZjUnFhVFN0ZmlsLVRIOXlEQldOTlF2elQtaEIzRTRwMHM1OEtiYmxLZmVGM0UwOGljNGx1cm9QXzU5S2xfMVo0NEJLM3hJWGIzQXBmVDYyOWNCelRXV1B1YklaUGxOTkNvd3c3LTdPQ0Q4RHdzRWRYVHgwMWJjakdBRnFySldocFdsMGdvNzdRbEVQbmJldThKZ000N0HSAZ8BQVVfeXFMUGEzT2VXREtVN1RCZndzamh1b0tQUll5SUhUOGIxTjZBRlB0d0U5TXk2a1daakJubXZITVpvcll4RXF2ejk5c2ZwaGZnMHJQYVRpWDc2ajM4TVVWNVVvMlhYZ0tEVFJrbkRqcE1WMERENW0ycUdmdGVNUkV3VkZhSkREMU5ZMGhCejcyXzRCWW9YMkszWUZKQWtGcENLLUVR?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:37:06 GMT",
-      "description": "Las protestas en París dejan un récord de 855 detenidos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "La podredumbre en el Istmo de Oaxaca apunta a la clase dirigente regional de Morena",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblZtU05sbXhFc0d1bjExdE01QUlGRE1KNmpIaE92ZGY5VDlNVTl3TnFTUGlFajFBV1p3NjBnTXl2WTgwMFdfLXJHR2o3aFlLLXlSNGtvSi1ZTkRfWm1HbktsQ05waHdRdFhsOGlvOXJYMGVVdFVuQzZaUnlzU1lqaGkwd183WHlDLWV4bmkxQWVKVHMtRTJ0dEI4ZU1ZREFlWlZrY1ZfNURzOUFCMjJKWVJFUkRZVnVMa216TjVSdXJQbzTSAdcBQVVfeXFMT1BPdzJ1X0dzblhYb2g3Y3Y5RzRpckxaUWlkRWhOdkREdlY2N3pma19UMkkxX08xVDFGdlNHM3JodEVUalJpUVI4YWsyNWZOblQ4c0JWc25CVGVLVENqX0tCR0loZ0x5X0tWUFRqRjcxWk1jNE83VGxnRmtxUUtrYXo0djFhR2hXRzBXM3l2VkcwZDFDbldZRDJvQzl1YzRGQXJuTDBjSlluWHhIam9LTnlaUVgySmw0T0dKcHpyS01JUUxpdVJlQW5UUE9aNmNfZ3RleTFlWXc?oc=5",
       "pubDate": "Sun, 18 Oct 2026 09:30:00 GMT",
@@ -208,19 +208,28 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Caro Quintero: el narco legendario con el que Estados Unidos terminará haciendo un pacto",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVRBSktaLTNYYUwxaHNmXy1tSUlSc3FMUVAzSC05akFTNXN1ZmhnLVFjMmo1RmRUMi1EOWRhVm1wWXhyaEtPYVFjV0V4Um1MVnlWcWk5dHlxX1BtOTdGNWJ4VlZDRkN6bG9vUDNrckdURlhZUVNIMUE5MEtoX0hSZUh5clFPQXpnRzVBSEo0NTNoU2lvdENib294STEzT3JaNWp3RFFqcTlMMFN0VWdfOTdZcHlMM3ZRVjBPWW03ME5ERWF0Z1cxYtIB3AFBVV95cUxQWGs0UUdxb1c3Vk9oV0FvU3NIYU0ycVJHekNWcUE1SVdUQ0JkUkJHRHZtQ0gtMlVMU3RZVnRhRDE3X3RYb1JzZWpUUDZ3aktzbXM5WGFodUg1N2Z3Y2V3WEZQLVhGSU5FYy12T0R5X2JIWlpIZjBlcENITllWRkFCUnNrSzZxWjgwTkp4QVZybWw1VThwT0V4eDh4eE03VmYtM3RneEdCM3pySXRCZUFWRG9EVW1qTlgtMDFxdUFxdGItUFd2S1VfYU5LV1d6ZlBfdm9hVEw0Mnd6TDdY?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 09:30:00 GMT",
-      "description": "Caro Quintero: el narco legendario con el que Estados Unidos terminará haciendo un pacto EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Cuatro muertos tras un gran incendio en una base militar de Canadá",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUlobWVhMjNKa2hEYVBlS0hWeDZ0SVJWcnk1alBvOFBubXY4NHhXTjgySzZTb1NHbWZhX3pkN3h4d3ZFTnVFLU1vUF9HNTFVOEJCX2w2SUpKNmhEY3lna291R1dzVjJhcW9TajVWcGFsZGZDYlBxMUIzQ19lQjZ3SHM5Sk50NUZ3bklUc05n?oc=5",
       "pubDate": "Sun, 18 Oct 2026 09:24:00 GMT",
       "description": "Cuatro muertos tras un gran incendio en una base militar de Canadá CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Las protestas en París dejan un récord de 855 detenidos",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTEZjUnFhVFN0ZmlsLVRIOXlEQldOTlF2elQtaEIzRTRwMHM1OEtiYmxLZmVGM0UwOGljNGx1cm9QXzU5S2xfMVo0NEJLM3hJWGIzQXBmVDYyOWNCelRXV1B1YklaUGxOTkNvd3c3LTdPQ0Q4RHdzRWRYVHgwMWJjakdBRnFySldocFdsMGdvNzdRbEVQbmJldThKZ000N0HSAZ8BQVVfeXFMUGEzT2VXREtVN1RCZndzamh1b0tQUll5SUhUOGIxTjZBRlB0d0U5TXk2a1daakJubXZITVpvcll4RXF2ejk5c2ZwaGZnMHJQYVRpWDc2ajM4TVVWNVVvMlhYZ0tEVFJrbkRqcE1WMERENW0ycUdmdGVNUkV3VkZhSkREMU5ZMGhCejcyXzRCWW9YMkszWUZKQWtGcENLLUVR?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 08:38:38 GMT",
+      "description": "Las protestas en París dejan un récord de 855 detenidos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "\"Estos son tiempos difíciles\": los legisladores republicanos afrontan la furia de los votantes por el Washington de Trump",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEFSMHFET0RLMDY1Q0h5SUZPVmtfejJEMjZXUFpCanBOcVgxRWxXN0RHUEpsY1pvWVBreVBBbkJGTHJjS1VGSk9kY2dtYUxudjlaeUZFZ1BxQTNmYy1HYV9BaVhuTF9ra243eHl0YVM2NXNib1JoUDU0aV93cUNqdTBNXy1fYXZVeTdqd2VtX09WaWF4dmxv?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 07:23:00 GMT",
+      "description": "\"Estos son tiempos difíciles\": los legisladores republicanos afrontan la furia de los votantes por el Washington de Trump CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -244,6 +253,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Francia prende fuego al macronismo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUplYm9KUFVaNVdmOS1neENwZnhSanpIbzRDbUF4UGJBbHRpcHhyRnRraWd6QVEzVVExZC1RT2VGcmlJa2lxNWZkeHVlN0RFeEVlSEFwellMenlYaTJaMmVuaGVzMlprSkxsUWliam1yck5JZzV2czBoY1hVMHFRVXFfV1NwLWY4RWEw0gGfAUFVX3lxTFBGajJ3TUl6NmplYzdhV2J2TFZrVmN6ejc3TFQxMzc2WTJOQzhuTFVCMGZEM25yeXFla1ZIcDBoVUhsbW5DRXZ4Uzlucm80WXRzdXhpWlp5djJadFdoT2ZnQkJ1M2NIbURfbXN3Z1NwYTNlT19nRDZLODlqUzRRdURJbVRhWjZWTy12T3k4T1owVlRwdno5TVJYZThjWHRMNA?oc=5",
+      "pubDate": "Sun, 18 Oct 2026 03:30:01 GMT",
+      "description": "Francia prende fuego al macronismo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Peter Thiel, el tecnoligarca que cree en el anticristo",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2tnUUI0a3BKNzMxRmdMUXFpQ1E5Z282a1dwVFI0SHVwdDZjWEtESEo5dmRVLVVvMl8wTFowcjZ3SFYweWE0RzJQVmNqa2VmVWdGVXpMdEJRcnQ5SnJXZndPMGdSeEtrdlg4V2NfVmotMDhRaUZTMXVfZG5QT2VUaFE0NEo4VFZ4M3gxNHpaRjJVeFFtbGctRV9BbmpPcVpjVXZoZEZ6Q2p1S3IyaUw1dUFZNFFwYWtrX2N5WjhoONIB0wFBVV95cUxOZDQ0QndmR3FKWDc1dFZYX2V0QmpmOTV1bkV4Y2hlYUJ1end3cHl3RXJOd2ViMEZNd3RLVm5HXzdZSVRMenl5RzczSzNkajFPdndGdGowZHk5enlxWXBMQ1IyM2YxN3FjQkZqQTVPcmxkQ0dFQTBNZk1Dc3pPQ0ZSNHhOalNSZXZSSlBWb0pya3ptdW9EN2g0ci1Hb0JfZjFIS1AyX0IxVG43QzZLbWpDOC1hbV82Q1N1RzBJYkFTNjJjdWdwRGl5NUdSWS05Rng3ZzRR?oc=5",
       "pubDate": "Sun, 18 Oct 2026 03:30:00 GMT",
@@ -251,15 +269,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Macron promete exigir responsabilidades a quienes \"intentaron derrocar a la República\" durante las protestas en Francia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTRmak5jVjVGU3pHdDdaOS0yWU5YcklkdUNUZWRRNWtNcHJUVUFCeXh1cW9pVnI0enE4UHpHVmlxMDdFdU1MbEc5WVR4MXNPVHVXbmlIb0FIalZXcXNGRzdWc1p6QkVjbktFRmhwU2IwRnhMUUZzYmdSZklES1MxS2Z1VkhxcDlRbHRyYQ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 02:25:00 GMT",
-      "description": "Macron promete exigir responsabilidades a quienes \"intentaron derrocar a la República\" durante las protestas en Francia CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Irán reivindica su control sobre el tránsito en el estrecho de Ormuz, pero abre la puerta a una negociación",
@@ -280,15 +289,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Tres periodistas para descifrar el México después de Trump: “Una de las claves para sobrevivir al cerco es tener alternativas”",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTndpVTZxdHFBWVd5OTFPQTBGRDRzUk5UbU5HT0hCck1uMWNES2dab3hUV0pjQy1mMG9tMWVlZ2EwbTlFQ25XT3FPUDRZWEN3b3ZNY1hpOUZPS0NIZVJabEZxTW1JUlZfV21xcUJsV25pXzN0a3ZGb1FaQTNPM19iR2pGQ0JRb2E3c2liRGVLMG1qWG01QTRGVjJzRVpueFBEbXU2QnBpdVNUd0M5YkJ1bjFmaEJMdmpxTmd4MU5DSFdFcWF1XzlUSl9NazBiVk5qMHhuYUd5TU5uX205MjN4UFNTNHpwU1QyTWs0bzRTOWt6cHZvbmhibtIBjAJBVV95cUxQUEl5aTNaMXhxYmNqSEt5eTlWMWJRRjV4SnNSN3Q5SU1YcHBORTBBQmNkbnMzMGNFU1Z0MGZXYTRWVHNpRGpvbWNZbWctUTNNZU9KX2IxUDhGOEZSVFZHclRjMTVBZVlpZHVyWFV2YTNSOW9vbHEtc0NyRElfZ3FubzJTMHpaQ09yVUNYbmxtX1pXa1VGU3RVZ2ZUSUg5RTItY1dZc3BSdXlERDJSVndORjM1N3V0STFYZ1A5SmZXVHpkTmg1OHJidzN4dzVLbWVUT0FyWWd3bGtEUXJKazdYVE03YkJsek9BSXY2SG5ISEVBVHNuVGhTMlJpYkNXekNRbFk5R0hMNU5LdkhZ?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 00:43:39 GMT",
-      "description": "Tres periodistas para descifrar el México después de Trump: “Una de las claves para sobrevivir al cerco es tener alternativas” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Lamine toma protagonismo en la victoria 5-2 del Barcelona ante Betis",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWnpIcVdGLU9VX0ZTNDVlU2dQcnJvdUJTWkRyaTFXY1B6TTRod2Y0ZXA0ZFNydnVGYkFGbHZ4dnF5c3ZIejY2UTA2ckc0SW5QOUY1bF9CR18wOGVObzYydWRqaHVnVFFqV0tibHE3blFVRjY0STdKRXJjTE1TSEoxQ1c1bDRuc2NDWW8zZGw5WENOOFU3eTFiSmZMRW9VaUFr?oc=5",
       "pubDate": "Sun, 18 Oct 2026 00:04:00 GMT",
@@ -307,13 +307,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "“Las cosas no cambian, así que hay que recurrir a medidas drásticas”: protestas distintas convergen en París",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45eG5fYWNZLVRQWXltMWJjRURYR2lSaUxhUGNoTmloaF9fbFJWU3JPaTZuQTMzTHA1UmxOWU9yRWdBeE9JMkY0ZENUTHVReWRTMG9qS3BCc3d0QQ?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 21:25:35 GMT",
-      "description": "“Las cosas no cambian, así que hay que recurrir a medidas drásticas”: protestas distintas convergen en París France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWdSelBxS2hWWHg0SnByUlNCemtFQUYwWjNwTXV1c0dEVGc3M1NjTzNNMFdGX050WFlPOUFEM1NaMW1qbHgxSUJKNWdTaTFoa1JkVzhVWm44eFFlQl9idkd4dVZRemIzVE9uSGllbGNtdW5MdzZ6SndWaHhhVDJ2VDJyR2pza3phWUJFUC1UNmJhM21yTXpPemxyVC01WndKR2wxVzNyRUdSbXdjb1FyQlVQMVJoaERtNWktbzdldWlzYmV1WG16dV9KONIBywFBVV95cUxPUGhsc3E2MXoxRFZRYU5STDBVZUhhbXc0VlpkRVR6QlhVQi14bS03TlI3X3R3a29lTVc2S0NLSGtWd1AzSElKemdTd1d3UUNaa2NJUFd0Y0pjUlNzZzVpaDVzdjdxMzUwZ2dLMVgtc3ZCbGkzSDhqcEY4QzlZSVB5SnZCbTJQR2Vfa1VIY3NOWXJDUzB2U2h2aDkxU291a1pUcm9saHBKMWJrclVEejJNU2hvNVY0XzM2UUgyV0VtS0NSZEdKanJ3TVJNSQ?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 21:58:41 GMT",
+      "description": "Medio millón de personas protestan en Francia y unos 1.200 manifestantes son detenidos por disturbios DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Una ballena choca inesperadamente contra el costado de un barco",
@@ -332,15 +332,6 @@
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Tras fracasar en los playoffs el año pasado, el Sureste de la NBA tiene más estrellas esta temporada",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbnhlS3Vkb0dWUERTWURRaFpUYkk1SGZZRjZWSnJrODh4RjVoRU5LeTE1UkdlQlQxZ2tld1NvdF8tY0REekdJZklOSjNWa2lYNTM4aUJwR1FqQXNBOWR0aXJjS3pBZ2plNEQyVVQ4TjdwdzdRWGhsZ2pNV091STFTQW5YUzhRdzJfTEQwSW8wUmV4TU84WHpid0x2RQ?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 15:32:00 GMT",
-      "description": "Tras fracasar en los playoffs el año pasado, el Sureste de la NBA tiene más estrellas esta temporada AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "El papa León XIV recibe el alta médica y regresa al Vaticano tras su operación de pulmón",
@@ -379,10 +370,10 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Los escuadrones de la muerte dejan a Caracas con una inquietante sensación de seguridad",
+      "title": "Caracas parece más segura. ¿A qué se debe?",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZ6bEU4Q3RBbEp6MUQwN2Mwem42MDl6M0hDbGoybjEzckFhX1N1NzlWTHhyZWpaRzJSUG5GUmFqWHBuWjM2akNnRGRNWENicUQ4LXJrSkVTWE9Nd1NNVUV3WUxyZzNqejNvNERuZEpDaWRiMHRSOUtHSVB2LVJQR2txZWVhUHBrdGMxV0ZEZkVyMm1ZVTFBN3hQN0ZjejFUYU00Q1N3?oc=5",
       "pubDate": "Fri, 16 Oct 2026 09:10:14 GMT",
-      "description": "Los escuadrones de la muerte dejan a Caracas con una inquietante sensación de seguridad The New York Times",
+      "description": "Caracas parece más segura. ¿A qué se debe? The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -404,15 +395,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR19yRXRJclNSZzFMUW9XbkZfb3lWTGxucHFnVnl5SGZwWGJHYTJpbVFZei1KRGwwMURlQjBGQUd5Sk1ZZGYybDdtX2Nyb3h0MWJ0TkF3X1Uzbm1OOEZfLVBJYXNaMUJHaGF2Qm1RaXVuX3JMMk1Bekp5ZW5USjk5NmF3T0ZnTnJa?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 16:57:59 GMT",
-      "description": "Verificación: Video de manifestantes en Francia volteando un remolque fue grabado en 2020 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Lula da Silva acusa a Meta de favorecer a la campaña de Flávio Bolsonaro",
@@ -478,9 +460,18 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Spanish lawyer Gonzalez Durantez launches centrist party for November election",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUo1WGgwZll5cENWX1N0Nk81MHI5QnMtY3AtN3NTV2k5SzNiZ09NWS11Yk1YREdNYmdoZExwTkFuMTB3SGdrSC1xRWxwX2puaTFZUnJVUEdlZGxRTmt3Q215NXhoZ0otU3AyNFllS3lIcU1USjZKZlpWd2k1aFFsXzNBNm54S2s2aXFjbG9VX19QSUIyZjZubjhma3dzaHVhZkdlZ1lzMVM0Z0hzbzh1TFR6Q0dQWkU?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "description": "Spanish lawyer Gonzalez Durantez launches centrist party for November election Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi11Q0h2dzdNc1k0V0JHbU9lZ2RadENhM3hnM3E1VE1oOHVuYmJmM0d2cEhQUWVfaUFVTndUMGlXZU5XOW54US1OVTc5bm9CdlR2bXlPMmpuX0RfdzNlemItaDVQcGh5MlRDckFFeWtva09WSG9PelJtbTZucFhERjZaWDkzcTFkY2FfYUNmNV9YVGxuZ1ZfcndRRHNwa0VmaW1EX2tTYTF4SlVHNE9Zc0s2UE9fQQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 15:45:43 GMT",
+      "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
       "description": "Venezuela looking to sign 105 oil contracts by end of year-head of PDVSA Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
@@ -496,6 +487,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Terremoto frente a Indonesia deja al menos 47 muertos y edificios derrumbados",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOENHUHprTzRVXzJnSFhXX3Vfei16azVJamp5ME53eHBRR0xzb3paeE1iMTRvRzZVQWZ2MFI0Ykg4b3Bfdm9lQmt1b3N0RVI0c0VVV1FlamlGamVnanZhUk16UHRvYU1lZS0tVGdMZlNOUHFFdks0NFdtR2lFeGVCNjBXZ3hJRUE1YVRmcjZYTHhmdHJ1MHc?oc=5",
+      "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
+      "description": "Terremoto frente a Indonesia deja al menos 47 muertos y edificios derrumbados AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
@@ -505,19 +505,19 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmFjZzZQNHRiWHp2Z2FWMFhNb29TazA4NHlTNmZMR0tZWlhxczlIOFRQb2dCV0RFYXlXQnJibXFSNDA2ZzBSU2NuMy1KOEJoeC1ydHo5ajhQbC1YTDhNdUVYNjE2UTlFeHNmS01IY2xaVkF2SkZ3Q29nSWpLWFlBOEpJeFo2TUcwRG14bFJrb0xSeFhQSU83Tll1M2l4dlZaa2hhNTBNSGplekJYQWxPTjhCdTF3TEsySk9PU2dpQi02WnR6SGVIc0VvdHRud3lLS2lmWE13?oc=5",
-      "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT",
-      "description": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots The Guardian",
+      "title": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnV2ZGhVSHJNOC11enV2N25uVDRSYms4QV9scFE4MTF4YlJCU1V0bzEzazhyN1hCalF0Y2NSSXFMd2RySVZKUHRmUkltbk5DajZnTmNlNW93NGpIcHF5NTZrcjN1UHJMdlA3X1NXWGNsdW5kWEZFX0lxdTk5VU9PYXhGa25VcUZSdTNEdlRKTDNyY1R1cjhLRW5pSEJvQQ?oc=5",
+      "pubDate": "Fri, 13 Jun 2025 07:00:00 GMT",
+      "description": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’ The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
     {
-      "title": "The Guardian view on the snap Spanish election: Europe needs Sánchez’s gamble to pay off",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUVBkT1Q5Vmg3bGRKLXM5bEZ6N1ZFa2lwbDMtblM0bC04RVk5amlndWdmaWVlZzBTM2ZLalhBRUFjQy02N0E5djF5dVRMaDFzSm5wY1R5R1lkRG5MaTJyWkxNNjZ6RFZzcnFkSjRVUkw2ZUVQYnFRRnBGUUVscGVoZEZhVW5VT1N6ZmNDc2pKR2RPMFVsVHN0eEZNeHdlR0NBQTJCclBpOWo0c0JoWUxvcnRNMW96dUthNVFrOHJNZVVRT1l4SUwtWEhYVjdtTkt2bk1nV1c1bw?oc=5",
-      "pubDate": "Thu, 01 Jun 2023 07:00:00 GMT",
-      "description": "The Guardian view on the snap Spanish election: Europe needs Sánchez’s gamble to pay off The Guardian",
+      "title": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRmFjZzZQNHRiWHp2Z2FWMFhNb29TazA4NHlTNmZMR0tZWlhxczlIOFRQb2dCV0RFYXlXQnJibXFSNDA2ZzBSU2NuMy1KOEJoeC1ydHo5ajhQbC1YTDhNdUVYNjE2UTlFeHNmS01IY2xaVkF2SkZ3Q29nSWpLWFlBOEpJeFo2TUcwRG14bFJrb0xSeFhQSU83Tll1M2l4dlZaa2hhNTBNSGplekJYQWxPTjhCdTF3TEsySk9PU2dpQi02WnR6SGVIc0VvdHRud3lLS2lmWE13?oc=5",
+      "pubDate": "Thu, 02 Jan 2025 08:00:00 GMT",
+      "description": "Japan urges Australians to head off the beaten track as record numbers flood tourist hotspots The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
@@ -595,10 +595,10 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Is Viagra about to lose its pulling power in the UK?",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2JiZW1XMkRhQTZfOGVkRU1DMjlTMi1mSkk4TV8yWWsyNFc2SmxZWEQ2SXIzalA4WThkZFVFRFI5UzFTRWwzMlBJRzVrZk4yUWstVkFNWjBIUmJ3bngtN3hxOFRxc2lyYkpJdnd4S1FxUWZRNnN6cEhMVllQRWJUUHpsYzFoZ2JzSUpkSlZJTGFyMFNVa0xJ?oc=5",
-      "pubDate": "Mon, 03 Jun 2013 07:00:00 GMT",
-      "description": "Is Viagra about to lose its pulling power in the UK? The Guardian",
+      "title": "Rise of the middle class: lessons from Latin America",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
+      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
+      "description": "Rise of the middle class: lessons from Latin America The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
