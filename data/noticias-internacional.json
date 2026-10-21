@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:03:16.699Z",
+  "updatedAt": "2026-10-21T14:11:35.748Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,28 +64,55 @@
   ],
   "items": [
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:49:47 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Cuba es el país más envejecido de A. Latina y el Caribe, según censo oficial",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNGdGbjdLRUctb1gzdlh6N08zM1JkaFBJLU9EZnlZaFpiSHYxNDF6aUtNX2xsSlhRNlJoRVpwUmlXSmh4S2R6dGdGZjlXZXlzd25lNmV2M1Zrb3VQVWVyU1pWNFZ1WS1FSHVTNEVfTmZkaFhJR0JBOUpPQ1gzX0xndnJnVGZHU0tGM3JZM1Q2RUtUSWs5alNQaWVDRHhEVjVzaDg0dDlPV0pPMmJSSWdJRnFvNmVwam92aWNwU3hCWdIBvwFBVV95cUxNRnNYQ05vdF9fSFFQWGJfM0ZoVFpVYlJMVUxLVmxJTDZ4OUlWVFBnQXJtVVlCTHRMYXJ5eXh4b1NIc2pRRW5uZjkybm9BZ2FPMHRlY19qb2xoVkp2MmxUMGVpdHNfa1hENEVHbDUzNlNfNnNxUFJaZ1hRc05OdEY5WVlxZDc4clZ1aHFlbkVXMEdQZzM0aHZJQzF0VVp3Q0h3NWdWRUtROEhqZjl0aTZKU3g2bGVOOFhPNFlNMXpRUQ?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 09:33:54 GMT",
+      "description": "Cuba es el país más envejecido de A. Latina y el Caribe, según censo oficial DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDgxTmMtN3g2VkRvNkVDeUJiUFhXX3BFYkJZdTJtWmIzbmdZX1BKSWN1Z0dwaFI5MjE3X0dGOHo1SE5UT1N5VkxpeFp3NExDTFp2RFN6czRKYzY4VjRaZlZzZzduakk5VlVXal92WTFiSkszR1Q4VUtBNzdXQ1h4Y0g4M3JZMXRxRGl6M0c5ZmYtWm1faENLalJyUXRtcnJ3QzBtclZ5b2pZbUpsY01kblR3dnp2aUhwcVZiWFpiRlNfcGvSAdcBQVVfeXFMT0E0X0RhTlV6Y0RSUkgzZ2IxV2VQalZERHpKQlFSZ1RwQ1JVYWNORmpuOU9GNTlhTUVWeTBndUZrdEJidG96XzJ4akhRcG8xQVNoNEZ6Z1BFcTNnNFEzZFRxbXExSVd6aUpYYmdiWVJBZU9fLW1NM1lkbmtneTNCVFpRMHpudC1JYkNXaFU4THJBUmszY1ZhMkV3NHNKYm04TzlITUpHVFJsU1F5Q1YwSmpTUkxMdF9lWk9sbEp3VHhNS1FfU1VnaDVfcWpQNVgwRXZVenFoWEk?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 05:45:00 GMT",
+      "description": "Detenido el presunto autor del crimen de la mujer apuñalada en una urbanización de Carabanchel EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoVlZ6Qy14N0RxNnBzdWpQcU9FS003UHBPVWJOeDhpYWl6N2hKOFo4R083QXU0eWhRRFlVaGtMN3RLSFVha0txTUFqWHZwaG9qdGFyaWx4WjhEUFkx0gFiQVVfeXFMTjNwZDRlZTNZMXdDeXp0dmxFZE9FbUdqVC1ad0UtQ3JJQ2Q5cUFQMEhZVlppZWt4Z1E0Mm5qNF9vQ3c2YmZmUDRtRk4wZDhwQmNTWHBGUklBLXFGcTU2V0FCRkE?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 04:07:27 GMT",
+      "description": "Qué es el \"efecto bola de nieve\" de la deuda y qué papel tiene en la crítica situación económica que alimenta las protestas en Francia BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El profesor en prisión por agredir a una decena de alumnos fue sorprendido con un menor en su casa hace dos años",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQXzdNQlRxU3phSkljVmdmakpwQVBGU29RY1VRWHhOTi15UXlzREhoYTdoLXVyQVdfa2JDVUF5b1BuZzNwUVBNUE9sOWE4NU1LMTYtcEg3S1duNTFTU3ZJVEdoMXI0dFhaQS1INmlKUE5aOTZQdUZfdHNLMHlSNGJZM085UE40eGJ2XzhDc1VNeEg2MmRFdGJSc2pScjBmNm11UXA5cFg5WnNFX2pXR1ExWnc2RDRqTXRRN2FJanVVakFVbFhFenBaUDEtSmlOYXREdWVUTnN5bVowZzJObnE0SVBJOW9xX2JNLXBaNXBCWlNlc1nSAYcCQVVfeXFMUGNpUjZlbHExbk1VX3ZhTVRFVl92Y0xQVWZnUEkwb3ZXY0Z1ZzF5cTZNWW5QeC1rWjNqajdLT1pzVTFzak9fanpxUWl5OFkyS0JCbktQUlJuTGZzcEhOZ2EtdW9QTHF6bzBmcVMzcGRPbTRTYUZaVWhncHg5ZDBIenJXa1ZuZmItQk1PUlA3ekNIMGNFXzdGcllycC1Tbk5OeEU3VGJsVUxrbHptZk50LWxRb1hCUW1oN1EwZVR5QmFxVTNiRFFwVE1rWXhWMVRmWGhtWm1XVWJGUjhncW9HeTFVSW9iT2x1b0UydEliZzhIdGc5TzFkVW0xb2dQV0xYOF9obUZPeDg?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 03:30:01 GMT",
+      "description": "El profesor en prisión por agredir a una decena de alumnos fue sorprendido con un menor en su casa hace dos años EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "México pide una \"investigación a fondo\" sobre muerte de mexicano bajo custodia de ICE",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzNXMV9XaEdjUlRfRHB2aWRiV1p6aHhyWDdOQkp5U2NlMTh2Q3VFWGJrTFRsYWM3dWNWWHgzYkVqUU9NLXd6UmdGeTJSU0xKbWFydGdscWIxN1dRM2RrSTZPOGRWNnRvNVJhanlyemRNeEQyQ0kzT2RSLU9seFV3NkdOekJtWjFNZVY3LXZzQzRpcGFlOWFCNnl0NHpTUmhpNzNxNmwxUmNrNEQ4WUMtbm4wQVlHbWg3R2lyR2N3UEJ4SzRp0gHEAUFVX3lxTE94YWFWY1dBZG0xZ2xZMVQ0T3Qyc0Z1bC14Rzhxbi1OTnBZd25vU2pVVHQxX2tmTk4wMXVuMXBuUWEyZlhKS01aRG4tX25xdTdScVpJc3lKMWVKU0gxaS1ZSUE5R0lpTXRVWEZyN0RkZWxrYjQtY3FnWE9SQXYxbldoWHhxTVVlbVU4b3NBSm9XMktWaVladFFHNU42cFNnQ0xyMHJwV3l5YkNqekpreE9MdkpCelRRM3Y4b3dTQ3VheUJxOE4?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 03:08:43 GMT",
+      "description": "México pide una \"investigación a fondo\" sobre muerte de mexicano bajo custodia de ICE DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Nigeria confirma su primer caso de ébola mientras Kenia los eleva a nueve",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUEhlMjNlMlotS2NtZ3Z5Z1A5Y3pueVBxdUlid2hCWF9WR0htZ085a1Q4R2pXWHVHV3BMRkVQSUhkcURHeVM0OHZNN2x4V2cwZFRYQUItTXNMcHNnZG81akx2R2tEMHFFQ3MyS3k4VkdtckpLR1RTbTl6a3hSNDFBSHVzb3VReXVFY0JpekZHWkpzVUgxM0ZCa1QyMGpVaXEwZy1ZUk4wNUhMVndFUDRLWNIBsAFBVV95cUxOcVk4RHYyVXNMX29RdTJ2Q2p1QmYxU3YzZkVuOEw0UnRtR2V2VWZ1RmRTY080TnFrUWxFVE9fNlFFNVN3VUdxVmh6bTFYb2cteEY4ejJGYzRpS3hOV3liR0ZPOEQxUjZjVE5wb2MtNWxkQWtlX2Y1dHNIV1o2UE5yUU1UTGt2RUpKQUhLdEhnT2dmcjFlLUFLMFEwSHdjLVFoVDFuOHAtS0FHMnVFVlROUw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 02:09:58 GMT",
       "description": "Nigeria confirma su primer caso de ébola mientras Kenia los eleva a nueve DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Putin en San Petersburgo",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPallFbkp6RFQ0a0M0d2dwT0lfYUwzLXFvMnVkNnJqN1MzRXp3eDhfeVFBeFd5V3hrMVRsOTZGRjlodFhzbk90OEhkNDZIYzJjNVF5b0RYdjlvUGdpVlcydlRIYXdidlV5cGh1dXFEYTJ3Q2FjUnpnTDBKOTBBUFJGczQyMF9mNHBCWFNhMlJWQU1INU5LQ2VnOEZWNFFvNDRucXR0bnpZeUZzSVE2aF9Bam1XYjRYNmR5S29LZ295ejhXQ3ltX1ZfeDlJckJjWmhmYlNUWlRuQzFKODAxMVpF0gHfAUFVX3lxTE1wcjFLMm9UOVVuMXR6X0l6bU9jakRGYWRWYXZfcXFnV2poZjloNUNKVU1xbjFjRnJSZ0pFRWpxcEVxV0hXXzk3VVpCSlNwM0NEcnlJUUt2WERTWE5MckFSb0lYU0lad3FYSG5ZYW8wMzJvMy1TQklfTFhQVENDZGl2UnJOZnJDcGxtNzVsZ2dkZGwtZDF6dDhNemdsZ2pMTzJVWlFVU3hpUjRwdTRLY0F3WWp4eDZnUnRNWmd3TW12SWNNUDFIS3daVi1SRUR0bC1DZ296clpoQVFzazdRS2c?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 01:42:52 GMT",
-      "description": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Putin en San Petersburgo DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -109,22 +136,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La medusa \"inmortal\" capaz de rejuvenecer y cómo los secretos de sus células nos pueden ayudar a tratar enfermedades",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPOFRneHlaU2FrUENDMlJMS1BzY0tsS09fWkhsZ0RBLVdKQ2ZWQldfTS1uYnd4ZTg0elFnVnJuN3VMdTdEakpQX3A0SU91aUVWUzNwY1NlVFN6OUNP0gFiQVVfeXFMUHgzWTE4aFRpYTI3MmdsZFllWTc5OHdDVThDWWlvaFF4SE14RS11c183TTB0M2xxUFV4UmJud0xMSnRNbnhtaUVxVWhpMC13aHBsbF95cllPdmJ3ekVzTFlPR3c?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 22:18:22 GMT",
-      "description": "La medusa \"inmortal\" capaz de rejuvenecer y cómo los secretos de sus células nos pueden ayudar a tratar enfermedades BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La actriz Christina Applegate revela que estuvo 5 años diagnosticada erróneamente con esclerosis múltiple",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pVUVXWksxaXhrYl91MUc2UDZiTlBOQkpqcFFRYzJNVUFMRk9FQV85ZmVQanpoWG5tYkZ5cVo2THhSRzU1MUVZR19NUVlfNTVRUlc0a1JxSFJqU21U0gFiQVVfeXFMT1prZ2ItX1dYYlpSUUoyQmpZbEpqTFVkenhyN1ZfQ0owbUx0alBaOUpTbjlyekxZMkpzSmJTUW9wa3dGU3hTNnlRTUlkaFlpX2ZxMFJZNGxCRFNOZk5Fdlc3NkE?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:50:14 GMT",
-      "description": "La actriz Christina Applegate revela que estuvo 5 años diagnosticada erróneamente con esclerosis múltiple BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Putin en San Petersburgo",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPallFbkp6RFQ0a0M0d2dwT0lfYUwzLXFvMnVkNnJqN1MzRXp3eDhfeVFBeFd5V3hrMVRsOTZGRjlodFhzbk90OEhkNDZIYzJjNVF5b0RYdjlvUGdpVlcydlRIYXdidlV5cGh1dXFEYTJ3Q2FjUnpnTDBKOTBBUFJGczQyMF9mNHBCWFNhMlJWQU1INU5LQ2VnOEZWNFFvNDRucXR0bnpZeUZzSVE2aF9Bam1XYjRYNmR5S29LZ295ejhXQ3ltX1ZfeDlJckJjWmhmYlNUWlRuQzFKODAxMVpF0gHfAUFVX3lxTE1wcjFLMm9UOVVuMXR6X0l6bU9jakRGYWRWYXZfcXFnV2poZjloNUNKVU1xbjFjRnJSZ0pFRWpxcEVxV0hXXzk3VVpCSlNwM0NEcnlJUUt2WERTWE5MckFSb0lYU0lad3FYSG5ZYW8wMzJvMy1TQklfTFhQVENDZGl2UnJOZnJDcGxtNzVsZ2dkZGwtZDF6dDhNemdsZ2pMTzJVWlFVU3hpUjRwdTRLY0F3WWp4eDZnUnRNWmd3TW12SWNNUDFIS3daVi1SRUR0bC1DZ296clpoQVFzazdRS2c?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 20:04:02 GMT",
+      "description": "Volodimir Zelenski plantea a Steve Witkoff ideas sobre la paz para transmitir a Putin en San Petersburgo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Sheinbaum y Trump aseguran que México y EE.UU. están \"muy cerca\" de un acuerdo comercial",
@@ -154,6 +172,15 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "Videos muestran a turistas con maletas abriéndose paso entre manifestantes en el centro de París",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ2xCZUZjRmxKR2dIVUxpWF9PYmJWMlBqT0tTQ0l2S1gwZ1prVWtvMTcxUjhrY1YzTEl5Ymg4ZnVWaHB6Y2ttQ2JUZUZXYU52aFBnZWxNLUgwRjRMNVYyZ1MxWEtsOE1TMWlWZVVXeVhvUDJkTzJSSnhNLVRveTd3ak5CcllEVEstaEp5cWdwZzhXWkw1RnA2VVdJOUdYeVk?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:48:57 GMT",
+      "description": "Videos muestran a turistas con maletas abriéndose paso entre manifestantes en el centro de París CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Análisis: los separatistas de Alberta sufren un duro revés pero la tensión con Canadá continuará",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5DY1hSMWd1dk9wQ3ZzbTBfSE5PUzVERE9tOUp3TlcydVV2M2N4VUdDUHp4YkJob1B2eFNfR3FLT0hmazVPNHpDQUVvSnBJZzlhR28yajlOaGk0S2530gFiQVVfeXFMTkRMMGlvcnBBTjB0Vjk2OEVOemJPOG02dnk4NWJId2F3ay1uajdXZFptbm9ULUM5TThBSTBTQUNTaXZYVm91MnlWRTFPUU4tSTVMUU1rQi1BdzlhWG1pLWtpeVE?oc=5",
       "pubDate": "Tue, 20 Oct 2026 17:10:47 GMT",
@@ -161,24 +188,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El exfiscal Jáuregui niega ante el juez de Chihuahua haber autorizado a los agentes de la CIA: “Este asunto tiene un tufo desagradable a política”",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbWFvWVg3MllOX3FKWmFNMENZRE9SVXM0RnRjbVVGVWNMTnlGazZ3S0w5NXB4cGVRelRvYnE1SjhWTnFHVml5bklmUGNLbEtkb0RaVjlKU0t3ejRET2xBQmhFcVVJUGgxRjBwZll6bjk2enc0UFU0WUdxSjRvd0dFRUZ2c3B6Rmo4QUNJUXR0RWZ4OVhRV0VmSnlmWEFMd3lhcW95UHlFLUMxMmhncmxUbjJSYW11c1VSZ0tmSzI1VHRZWF9rVVU4QmxEVTExcU45c2diLTY4Q3lzS0QzbzR6NXZuWUpvMVlVcHNTZjIwM1NFZGxYN3NrQmxTMWhhUDFQQlkwazIzR3JLNzFsT1paU0lIUdIBpwJBVV95cUxOVUxWeU9peURtQ1o0WGgyTzh1d1FibXQwNEQ1YWZkcTJOSGJyOThUR19TT0U0SnlKU04wMEhXb0thZXlTNXNZVEtIN1dtanVOZHdGZDBralBkOUt1QTgzWFZGTWRMVjRvMHhjUDVlQ0cxUDdsSm1oRlBmWFF4WHpaRV9HODdOU0h5eUxuOHFaeFkxVl9Idm5SV2JRWlRPMUJoOXhWd3VoM2c4N200dU0wRS1CZHdGek5nTG5IR0pFbnNCZDFZYWdFQllvUjNybFcyVHhFSUM1bjNwa1FiQVZ3eVN6ZXh6QVJmZlNVQTRHNGdROUlLR0RFNW5LTWtfRF8zbGpLVGNnNktTeHJPX0swOGVIczNvdnBHOFpDZjFESXJuUGFBVWxJ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 17:10:02 GMT",
-      "description": "El exfiscal Jáuregui niega ante el juez de Chihuahua haber autorizado a los agentes de la CIA: “Este asunto tiene un tufo desagradable a política” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Verificación: Video muestra a hinchas en Polonia, no manifestación en Portugal por Cristiano Ronaldo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmltbVd2LWxrWmNHbmxsYmRGazd5eU5oNUJHa2V3dHdmZzlmWU1sb3hiSEF5c1dTSzhMdFNfdzFQZTJocGdXS1NqWnB2SmJWMlY5OFNtU2JTZE53NmxnSTFMd1dpX2pHaG5HTzkyekdYbXhLSGJGTTEzRTM5bkF5cy1Hbk1yODlh?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 16:56:51 GMT",
-      "description": "Verificación: Video muestra a hinchas en Polonia, no manifestación en Portugal por Cristiano Ronaldo Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Christina Applegate, una activista de la esclerosis múltiple, dice que los médicos descubrieron que no tiene la enfermedad",
@@ -190,8 +199,17 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Elecciones en Brasil: Lula adelanta los pagos de su emblemático programa social antes del balotaje",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVE1SQkFrVnhJRUYwYXlBUHh5QlBMVTFKdjZnMks3c3NqRW5MQUFHUW1XRnk4ZEd2RG43THJOZDZMdng2NEZoY1JnS3EwTlQ5NTFCeGRTcTRYRGItd3I4blRSSnVFWWpQeXk0U0I5VlVDcFpXbWc1enFOUEgtcVNzNE81am5oUFhWYVdTMkx0RWd6Z3ZzdzM4WHRFZGFNMU95R0hvYW0zSGxMRExiZ3RQLUs1UUFJb1RpbklHMVdWa0hZS3RkNXQtRGY5X0xDNGo0Vl9MaEVyaWNBVGxxXzVfdEFYbHhvZGJFZzNpOERnN04?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 16:55:27 GMT",
+      "description": "Elecciones en Brasil: Lula adelanta los pagos de su emblemático programa social antes del balotaje France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "\"Somos más americanos\": el origen del \"himno\" de los migrantes mexicanos en EE.UU. que vuelve a resonar por una reciente polémica",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2U1owa2J2d2JZTkZxQUtCN1k4ZTBjblZCOXdKYmNuSVdJOFk0TDR2ckZaR1dsTnlNNGR1UHA0TkJqVTBSUDBHamlBUDRGcDA1Wld0R2x4R2t6Rngz0gFiQVVfeXFMTlBLYnhteXJZWDNVSFBwS0xHa1pTRExHWVcxbWd5dFFiZERsdDNSVm1ZczRQZmttYlVzWmx2blR0LVdOOXNrR2ZOUVRyR0Q0U2c2dFB0RlpIdENkbnhVWnBGRXc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2U1owa2J2d2JZTkZxQUtCN1k4ZTBjblZCOXdKYmNuSVdJOFk0TDR2ckZaR1dsTnlNNGR1UHA0TkJqVTBSUDBHamlBUDRGcDA1Wld0R2x4R2t6Rngz?oc=5",
       "pubDate": "Tue, 20 Oct 2026 16:23:03 GMT",
       "description": "\"Somos más americanos\": el origen del \"himno\" de los migrantes mexicanos en EE.UU. que vuelve a resonar por una reciente polémica BBC",
       "source": "BBC",
@@ -235,6 +253,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:53:38 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Un profesor de un colegio religioso de Madrid, en prisión por agredir sexualmente a 10 menores de entre 12 y 15 años",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQXlxRUJCdFR6dDNvdDRielZ4TGpIWE5qNEpsQ182aXlPVV9xaUhjUk1KTkNLVTgzUGRHSTFHYkExb0Mta1lQV2xiaXViSFJYd25DcFNYbUhueFE0akZhSHkzZzh2aGJkX1ZDbm5uc2o4dXlxTTkweHJfZFRtVWtUWVg0cWItb0pJM0VLZEJMd2E4OERWZFl1UXI0ZnBXNTBRYy1DNlY0cllmcl9KekNEQ1Roc1FUTW9QNXBZUlVfNkNjVktkUmFOS2E0Q2l1ZkQ0d3o2ZWlNT000QdIB7gFBVV95cUxQVHBYbEs3eHpONjRMcnF2X0VwOUh5TG9RYkRWY0xVdUFjd0dMRDdxOXhRWkUxaVEwcXloRTJiTnVfNXNSWWpNcnlVUHJxNFFLWWVkYVdyZjF5N1FEVHlGNWN0WC1mYW03N0hubi1HZGJZd1lPSHFuUWlkNGFYSHJqYU9LaGVvS0NxVExHNEtBSEFPVFdLbU5pTTNEMnZqOTNleUdmNjdZY0h0RGdzQkVINzRyWHNZaXJ4eWJoWXY4NGZoa2Rsckl2c0NXZGUtT1RNMjJrVXdQSXZiUnFJM00zVTdsX3dGcUJlYVdKeXlR?oc=5",
       "pubDate": "Tue, 20 Oct 2026 12:10:53 GMT",
@@ -244,13 +271,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Victoria para Carney: Alberta rechaza referendo de independencia de Canadá",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDQ0QklnVlJQSDVXSXo1ZGR2UkNfTWU3Xy1oUVFDN05vSkZFNXB4ZEFXeHpfTkRHcm5GRHI3aF9pSmJFNnFtVkJIVHlXZllXNmR1S0Yybk1GRFNGSy1WaHVMVDF5eUVOMDBjV1d0Qnd3ZGN3MTM0Uy00YnZZMk5lcFNlNXdaVkdSU19lSW1xZFRkdldfV3g1ZlNUTzZWMUdfLVJ0VFVmLXVPTGowRDVIVA?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 09:34:29 GMT",
-      "description": "Victoria para Carney: Alberta rechaza referendo de independencia de Canadá DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDSW5DMExBcGhjc2M4bkhEenFQYkp2N0t5dTBPVXZOTVpaZ3VCOEZBT2FPSHRqVldleGFMbEZSNjJqbUVLaHFhRzNaS2hPdHdTS2xBQ3JZLXVlOHI30gFiQVVfeXFMT3ZPWk4xXzljUHFLM1Rzd3BRYy1MMU03Z0s5eDQ1YkU5VEdBbjJNc2tHNTdqbXB4TWJUUHhOd3JlcXdCbi10eTVmSEpXUTdQYWU1ZjF4Zy1ZWmxrOHI0VlFqd0E?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 11:15:49 GMT",
+      "description": "Por qué Chile enfrenta una crisis económica con récord de desempleo en medio de las políticas de austeridad de Kast BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "De heroína a “traidora”: Maru Campos da un vuelco en el caso de los agentes de la CIA en Chihuahua",
@@ -289,22 +316,22 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "México suspende importación de pollo desde Brasil",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY0RPSWpDREhCd2x1YktpUDdhYjkxX3Fjb01SaFJ2TGd2UTJxQzQwYTVQeEJQTnlHWW5lbldZRDNTakZFLXVSYnQ2aHpQS2UtR1EyVnZsTnVuUEhrQUJtU2hfdEpwQ1NZU0NqT09UVDNybFB5c2FBYVBiTVExTllWYUhBVm9ZRC10ZjNvZER5UTg5ajBrT3E00gGXAUFVX3lxTFBoZlIta3VTWUlVc29zRnJpYjZCcDg0QTB4V0ROT20wcXlybEFmNWE5dHRjSkRUTTdORWt3LWdXY0NYbW9oVHBYNnp0b0RLejh5SjV4YXhEam1UYTA0OVhURWRRdmpob09jTWJ4NURvSTZscmpKZlQxZzQyOEFNd2xMRmF0TGlzTnZBQUlLZEhqNlhoUGl6TkU?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 04:32:53 GMT",
-      "description": "México suspende importación de pollo desde Brasil DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "ALCS notebook: Freddy Peralta nabs MVP honors after second win",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObVA4OWdIUjNHYW15XzdyOUlyT2U5LUVmLUpiSTNNb3huS2hNb3dFdlVaWEtlZWo2d2lxclhCMkw3WFNxMFNaNUhIVkRtQnJaZEV6V0hkbFVCM0gzeEkxcmE0U2pMX3lpVk1iYkdMU2dnZ1dPaGZOVGJteTBrRnZ2cWtkYmNZT0VCSU84azE4RTNQTmtOS1UxbnNPS0FlaVZwRGZqUmJYX2hNbGpUSDA0?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 05:24:00 GMT",
+      "description": "ALCS notebook: Freddy Peralta nabs MVP honors after second win Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
-      "title": "Navi Pillay, premio Nobel de la Paz: “Netanyahu debe ser juzgado por genocidio”",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1BURlE4aWhENUNGUWMyQUI0WmZUNHgwOW5mU19zdmw2Q1ZkbEZlWGoxMzZGUWltaG1ka3g0U1lKMkF5XzV2S0V3ZUdZcDB4Rm9QVThpcnFfUlBEdjB0bXlDeHF4TnpyWGc1UXpiVTc4Q2Z1WDhSc1NoOFFPNGEwVjBodXc3eEVucWZHby1nUnZ5SzBvNzB2ZmhNY3l0eTJDMUxiZzBxbFdTZDZQZndQMU94dFhXX29iNktwNnNxN3pTUdIB1gFBVV95cUxQN1JZZHNMVFQ4TWNhTkNwcTllc3RGNnA2bFpTeDcwcS1VaU1HeWVFYno5dDVWUFhTWm95bWhNMDY0YXBMbFVoYXc3OVlkeVRNcHI1cFJvVzJ6T1dYbEpibzdGTi1IbzhIY0RSMWRQRks3cWxmZWJBZEdOSWVGZjdPTjRPam42cThWaFFGYm1mVGxnakVYaUVSWTlkZjhwTjNQdUkzR0tBUjBfZEIwZEg0TXk3ZkFYdXF2ZjBjUlpoaTcyVXlUWTRaOW9uZzB3c0pDMWxFdkRB?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 03:40:00 GMT",
-      "description": "Navi Pillay, premio Nobel de la Paz: “Netanyahu debe ser juzgado por genocidio” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "China adds extra Havana flight as Cuba fuel crisis strands travellers",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaEFNYzFnckJuaWpWZXVNT1BiUDBwSkJJNWpVVTBSS3ZCc1FDRzJhSW1RcFpCQU93cXFweDFoSUpqUG9QRC1BdlN0RTZ1bWpVV3g1cDB6eUFjRURrbXVVa05NaXRsUEJPT0ZTQUtKRUZVU09rZkJtYnVJcDIzYTdVS0NTMWQ4cWtpR29tMkFacjJIZ0RwOW9kTTU3a3VLSVJSVXVMUlJDMXN4Z2ZiR0hFck1MUmFkd0ozQ09rYUdB?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 04:05:00 GMT",
+      "description": "China adds extra Havana flight as Cuba fuel crisis strands travellers Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Rays se dirigen a la Serie Mundial tras vencer 7-3 a Guardianes en Juego 6 de la Serie de Campeonato",
@@ -334,15 +361,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Sanción a Cristiano Ronaldo: 30 días de suspensión y multa económica por abandonar la concentración de Portugal",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVNIb2lRZWRqMjREeTlKRkhNbEVRa3h3NjdzMFdUVWx0TWVjOUxCSW13akxJY0xaaFF3NWVNWHlnZ3IwU1VvLUpDQUxhdFpWZmo5N21najdZTlZHVHVRWmdSRnlpbjd4Y3dsdGxKUm1HZDg5TXVUcVNpc3NkejJWakZoNU9sSldHV2tySmdjMXktcTNqQTR4VEpRb2c?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 20:52:00 GMT",
-      "description": "Sanción a Cristiano Ronaldo: 30 días de suspensión y multa económica por abandonar la concentración de Portugal CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "María Corina Machado habla sobre el futuro de Venezuela y su relación con el gobierno de Trump",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXRMdmkySUI4dDRKVHhNUW1Pc2IwU2lkSGNjMkpXbFgwNUhnci1UYk1xOHJHbXBkSEtZV2FCdzhxU0llZ3JOY2Q1bXVBdnozanl4VTFXTlR1VGZlTXMxUFo0aS1Ud3JYRjNTbHMxbVZJOWpIYTc0UVQtSHFTd3dpc1hVMHpyRzhPeTV0MWc3Zk1Ba2xnOU9F?oc=5",
       "pubDate": "Mon, 19 Oct 2026 17:19:45 GMT",
@@ -361,15 +379,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Brasil da 24 horas a Meta para para demostrar igual trato a Lula y Bolsonaro o pagar el doble de multa",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0x5YUpFRXNvOGN3ZjNuX0hKMXVzWnNJOHNoQ3gyclVJcGs1cTN0Q3BlX09ZeC13cUUxTkdtZURpQ29TNV9iOTFaWEJSRjVjM1ZIc1Q3MXo3N1NySHNVZS1qQzdvZDJvam01M2RhWkhNdVpuTDVyVDVya1N6UGRGaVhRWEpCdk9zTTlsN0MwUEJPeDFtTUZYY3h2aHVDN1dXd3ZTNWV0V1NVajJiNU9NUEx5bkpWNnJUQXZTOFZRLTdDcVQzN3JqdGRqeTlGOFdncWIyYlllQVVnQzhGbV9YWmRRdlYtQUo4ZXc?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 13:52:01 GMT",
-      "description": "Brasil da 24 horas a Meta para para demostrar igual trato a Lula y Bolsonaro o pagar el doble de multa DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "¿Cómo de ricos son tus vecinos? El mapa de la renta de los españoles, calle a calle",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWlFfWkZZTUdieE9aWlVRWHU4TUZIaVY4bGlHYVktWnVqSW1mZXNiNDROU1Z5YWZzZ3Vacm9UT1dkSU9EVjYwRGJ1dnJueEZqaThubUhiZHV2djJOdjk5QVhzbHdLY3YyVmdPNGV6ZElkRjdkNExxMUJ0QVRVUmltbUR2MERjTEp5THFsS1ZXdFVPRXFxbmkwcTFfUW9RSV9ubGlaOVBhNGJqbmJDR2o3bWJzaVJCMVM1OTBaTll3VnhUZw?oc=5",
       "pubDate": "Mon, 19 Oct 2026 13:47:45 GMT",
@@ -379,31 +388,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Francia aplica toques de queda en varias ciudades, incluyendo París, tras los violentos disturbios",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR25wMFJmRmQ2cUZLVnFNeGJJbW53S2FVcGt4cml1eTc4Szl4MENHQTViYURtYy0zZjNHZGVla2hRdlBIcTJnMnU2MUxTVHhrZExXOWsyeEZWaGpkakd5RmR1M3hTSTN3ZjBrRmNMUHFpb2IwdXhyS3lkZXdud3NacUQzM1d5YU01b3d2M1ZMZDRkTWFseXk4Vi1vaFFvS0R0SjJXc3gzRzZkalR6bDZFcjUwdWZvb294bjVOdTYzZ2FZZ3lsdVA3a3NLb0VmSFdkc3d5clNxNENQZ3d1N2d6OXJLOEFlUC1yZFZJTVo3bF8tWE5WVGNMaHVkZlZ6Mk5UR1Qw?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 12:11:27 GMT",
-      "description": "Francia aplica toques de queda en varias ciudades, incluyendo París, tras los violentos disturbios France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "El tifón Champi se fortalece a categoría 5 pero se aleja de tierra; Trudy se debilita",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlBpX3V3UUVFOWlnOVZXeWFSUHY3aWUySWxvQ3NUY0pERzhaeUFpMV9lN0NGRXRhZTdYRWpydWE5Y1BrLTJuMkVfdXJMYnlOZERUa1BIOXJDazFkRjdvRzFrMERsclZTcnZNQXdBRkdPbm9KQi1BLURrdktNMmVESnp1cWlGeGVEaG1OU2JsR3pzNTdN?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:37:00 GMT",
-      "description": "El tifón Champi se fortalece a categoría 5 pero se aleja de tierra; Trudy se debilita AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Latin American airlines eye Venezuela return as ties thaw, hurdles remain",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeW1UbGFuODYwWjhYdG5HOGNTd3MxOFkwakEyMmVDZ0NiYklhV2ZCTGFmaExxM21qTVFrMWhqRF9VM1JjRkNnTGJ3bHRodkNJc2QwdlhucXlkRlVEbGxfVWNiYXo0Z1RjbXhqV09NSElUUk50S18zR2c4NlBFWk9FbHZUVk1WT2JvSVFhYncyTFBuSjhyOXp2VGE4Q2RzaXNhc3piajd3MC1wWWpFNktXclQxUG4?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 09:05:23 GMT",
-      "description": "Latin American airlines eye Venezuela return as ties thaw, hurdles remain Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "Brasil da 24 horas a Meta para para demostrar igual trato a Lula y Bolsonaro o pagar el doble de multa",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0x5YUpFRXNvOGN3ZjNuX0hKMXVzWnNJOHNoQ3gyclVJcGs1cTN0Q3BlX09ZeC13cUUxTkdtZURpQ29TNV9iOTFaWEJSRjVjM1ZIc1Q3MXo3N1NySHNVZS1qQzdvZDJvam01M2RhWkhNdVpuTDVyVDVya1N6UGRGaVhRWEpCdk9zTTlsN0MwUEJPeDFtTUZYY3h2aHVDN1dXd3ZTNWV0V1NVajJiNU9NUEx5bkpWNnJUQXZTOFZRLTdDcVQzN3JqdGRqeTlGOFdncWIyYlllQVVnQzhGbV9YWmRRdlYtQUo4ZXc?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 13:47:44 GMT",
+      "description": "Brasil da 24 horas a Meta para para demostrar igual trato a Lula y Bolsonaro o pagar el doble de multa DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Cómo un migrante dominicano en Nueva York se convirtió en blanco del ICE",
@@ -413,6 +404,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Ataques hutíes contra Arabia Saudí muestran la creciente fuerza de los rebeldes yemeníes",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDBkeGRkYzZRYzZBQkpzdzExX00xaXJmMUVfQzBYNmljUG5yUm1Jb1cwMUlRSGVVSnVDbERTSTlxcVZpX1BkcWF6ak0taW1fSTR2eUNkeE5aYnUtaFlkUUlTY2dhS3pXbkNlNjg3VFVtNTQ2TkFrNmI4SnNsRFJMMkpreTlSWUhUVHl5SERucWw2OFo1?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 22:35:00 GMT",
+      "description": "Ataques hutíes contra Arabia Saudí muestran la creciente fuerza de los rebeldes yemeníes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "La líder opositora de Venezuela califica de corrupto al nuevo socio petrolero de Trump",
@@ -487,10 +487,10 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDBETGFfUm9VTTZiakNPQjY0TTFBa2puMGNXR1ZSRlQzbDVZWWtSVGMyM2I2WXJGREk1Vk1nbzdRZV9kUFk5SEtQbjBiZWJ5RHFTWXRSZDR3ZTdZSmZGUGwtakJfTDVYNnFYU3hiaFJJdDdjdTlGelZ0VmRqdzEyaE14UUZDYXlp?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "description": "Verificación: Lula no tiró la bandera brasileña al suelo después de votar, se la entregó a un fotógrafo Reuters",
+      "title": "Venezuela's oil exports down in September amid high freight rates, data show",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "description": "Venezuela's oil exports down in September amid high freight rates, data show Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
