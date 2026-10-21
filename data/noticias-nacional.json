@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:30:49.486Z",
+  "updatedAt": "2026-10-21T02:13:35.676Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,6 +58,15 @@
   ],
   "items": [
     {
+      "title": "Ebrard afirma que el narcotráfico no se discute en la negociación comercial con EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTA4S050Ym9KLVZzZjNEa3hLbkxLaWc3dUkzX2xNU0JNYkxZd3o0azVQTzdLcGNRVHhfU3luZ2FwTHFvb2lxMHJfNlJnUE5mRXJVTlVDUV95eEpBOXMtalMtZExPMnVsRjBLQkpUWnFfcjVKV3pEVG9WclBUcDFPYm5DdjRyR0lQNHNKb1R1RHRCV3hsVVlIQktaWEZRMnZna3hueHhweWR2Nmd5Y1doeVN5WXhVdXZCdEtSM2dYNXl5QVU2TlNF?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 00:40:00 GMT",
+      "description": "Ebrard afirma que el narcotráfico no se discute en la negociación comercial con EE.UU. Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
       "title": "Caso Axe Ceremonia: Vinculan a proceso a tres empresas y a ocho personas",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVoyY3R0ZnVmazRyQW41enIxQjJMQVBGRzIwcjJ0UUVld241UkZENUZIdmJLQlZjbV9fb3dqaEkwR2NZazRTaFFCODV2cmxjZlUxVnlRWTFBVW9nSHBCRTdYVTAxck9qWVlQbGlVU2NHM1Q5Um5vMkpVMlRMR2ticVVjSXdFWGtjdUI1TXkzN0I0RWFWb1Rva05ab2lRcldUUVhzSTRkVDI4eFpNZnkzcG9UYkRIbWpNRTNkN0EwTkczV3llNGdhcjhVT1JCdUwz?oc=5",
       "pubDate": "Tue, 20 Oct 2026 23:07:53 GMT",
@@ -67,40 +76,31 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Diputado del PRI increpa a Álvarez Máynez, le grita \"asesino\" por agua contaminada en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzhvRGJnNXdLY0EzVDU1TDk1S1pZdkRXelcwWkMwekg5SjlqR2IxeWRWcWFLT3pDdW9PcnpjZXFXQ08zWXdQcWlsYzBCNTV2Nk1qa1ZreVBGMGswdHY0Mkg1NGpxeUZMUmhsWm1vY2RMTVJGQ0Q0VWJEN1ZoZ3MwRmVDNFhHNnJHRWJDUHMxNThweEpoRFg3YzhDb1dKRXpGS3hiWVFSbmxFb28zTG43RDJSSGJTWE1iWFF3dERndU1LdnllelZ5T212V1ZWck1rVTNUb2hYaw?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:42:21 GMT",
-      "description": "Diputado del PRI increpa a Álvarez Máynez, le grita \"asesino\" por agua contaminada en Jalisco El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Avanza ley antimemes en San Lázaro; buscan criminalizar sátira, acusa la oposición",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeE1ETnprcGxtUnpIVXFxMTBRRGFFbXctTm8zTnlOQ0MxUnY0S2FMRFl5X0E4ejV3d2g3RFdNQVZJX0tKcGVBU0otVC02eHBoYlhxMlJ5YWlsUGJHTmpsWUY2UHM0S3h2cjFpMVo0b0RUUlpzWFNGQlpMZ3dXMEg2dTh4LWExT2t0ZkZxdXJubHphOC1DODVNQjFlSFZMaWhzN2t4NzI2Ymx2NVhoY1hfOEJ4dmc5WGhSNGlsTVVVQVQyMHE5ZlBZcE1IQkJpUWxGZl9JTWtB?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 21:16:00 GMT",
-      "description": "Avanza ley antimemes en San Lázaro; buscan criminalizar sátira, acusa la oposición Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Trump anuncia recompensas para quienes denuncien fraudes gubernamentales y tributarios",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQUJtODdyeVlzYWx2blIyRnNwN1BLYXJadENXRlRjMEZSYmdzRDBpY2xqaFBfbjEyakJ4eFZTaERuVmJ6RVE4NThkMVNRR2RkWmxsYjJxLWIzbUlRZko5Z3lLZlhKYWdsRmdsRC1HRFdLT0pmd183Z2Y5bTBHTFc2SXFiMDdvdjFvTzJYOGVBLS1qNU53a3BjVHB3TDkwUnpWQ1Q1UDgyX0VoM2JLOEdYS05YLVgtZ0FueHNJU29RVllkTVo0TGd4cGU0Y0RzQ3Uwam5Fb1JUOHdxS0ZZM1gwMDRxWXM?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 20:53:00 GMT",
-      "description": "Trump anuncia recompensas para quienes denuncien fraudes gubernamentales y tributarios Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Aterriza aeronave de emergencia en Aeropuerto de Toluca",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPc291RGpSYXFWcFYyRlo5V0dlMjhoeU1hM2s2cF96emR6RFNhWk5kbE1fRkp4SFNSenA4czFiRkNUVllvdGhzbTZOR0xiODV2SHljcHZ3dUs3Vy1zRVg4cklKWUx1dm1pV2x2Vkt5RW9fbFFSeEg4ZUlHSXpmdnNTVjh2aTNsTlJwa0Z5aFVJNDZqQnM?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 23:03:14 GMT",
+      "description": "Aterriza aeronave de emergencia en Aeropuerto de Toluca Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "Aprueba pleno del Senado Ley de Economía Digita",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNOHBxM3o2SmVRQ2VsN3JEU25VNWRkdGVsaUhLTWdOeENCUFNxMWN4NmdNVlMzaWJ6eS1Pb2I1VjZCWXJmeFFPZmlubmV5cWMya2VIWDR3UWxpbmlIcW44Q1dnX2ZVLUdfTk05bFRac0FPSi01WlRSYUZxbVpUR0xpOVI0RGZMalNBNUFKMENmX0cxajFJSUlMWmZfTU5iWE5qYW5CbWdLS1c3ZllXYVg5clpFZkkwR25Za0hHTEd4M1BUdW11YnpqUjYzd21YYUtYazhkZDMtWFoxTGJGUzdTNl9mQllMbjQ5d2fSAf4BQVVfeXFMTjY2NEdiT3VSaEM1Umh2dk5NblhzSXdkMndOcElNS1gxa1ZqWl9sUWtaTE5Ddm9vMHBkS3ZtV1FxSkd1cjJjSXVpc3Vvbk5lU0xnZExTNEpESG9ScjJ4czhfMG1sem03SGNoQkFnZmhrWEROQlhLQVdIUmUwdUt3cDFaeU1NcDdpOUY3NTdtdXVtMnNZWl9GOUl6bnRpNFJlMG5sTmV0YzkzNW9DRmtqVEpiQkJLLVliTGVlZldSSXFaRnFONGJnbE90VDIyaEVyWWtLS1RQNmlwaGptWjd5Rm5TbzhHRzhCRXNVMElKbXZjdFVQUkQtaGRmbm9hb2c?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 19:15:00 GMT",
+      "pubDate": "Tue, 20 Oct 2026 20:48:00 GMT",
       "description": "Aprueba pleno del Senado Ley de Economía Digita El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Salud admite desvío de medicamentos y descarta culpar a médicos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlZUVlpudGhIRFREY0pxWk42YzBtQ205dUFTd1kyUGZRYjh0aXVwZVlRbWFmT0thSHJnZ1d5aTN0RV9NRkZicWprOGhJSm1yTE81eHVsb2ttam5nMDRNS0NRNFhsYU9OcFBiSlFfZE5OWEE4cFN4eXZlM1hWSi1DWkhUQk1SMzliV292VV9KYlMwSkU0MVlUcUtqMEtBSHBSZFhqbHlhVnJUUQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 20:03:00 GMT",
+      "description": "Salud admite desvío de medicamentos y descarta culpar a médicos Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Morena exige aclarar participación de la CIA en operativo en Chihuahua hasta las últimas consecuencias",
@@ -139,6 +139,15 @@
       "domain": "reforma.com"
     },
     {
+      "title": "Padre e hija mueren tras ataque armado en El Guayabo; militares tardaron horas en auxiliar a la niña, dice su abuela",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzE0Unl0VEp3YW95Z25fNzBUcTNGbTdSbFpUUmFwcVp4R2tlMEp6UkFJeWJ5RHJ4UTNzc19NMkx1ODcxbjQ2RDFHTF9ydTU2b0I3SVBUNEdvSGRDTkdzUWJfVEFRZWowaEx4cUx5N0d0RVBVS1dWclZfTHNnNDJ0aXg2N2xtRjloYy1UTW9NTDdsVHJkUFJjdndlVHFuNTFMU2JOS0pCQkpDbzV5Yi1NYWhJdmwyN1hmeHhLek1GQ3JIU1NvaUNGUFg2c01ZNlZPYVRNdFNRVHJ5dk1FLVliUkVwVnEtbElJTURLMmdR?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:39:00 GMT",
+      "description": "Padre e hija mueren tras ataque armado en El Guayabo; militares tardaron horas en auxiliar a la niña, dice su abuela Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
       "title": "Detienen a 'El Nenuco', operador del CJNG en Tijuana",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1dTQ3pGV2o4VWF0bmxfMi1EZmR2SUVONWNSZUpXOXd0VEpTdHc5VmpUeUFVWmZpVVZNa1IzeDlKcEhNdGowR29pV0xSTnNIOVhfTDZ1QzdBWE1SbkxmY21nbUZxTTlSbDcwcURMMWxaVEJFdTZsTkZTWFNNWGJPZUpuTnVvcy1ibHptNdIBkgFBVV95cUxNRlk4ZWoySHFSQW5nd1cyRjQ1aGJCVU9LNjdjNW4xdU8xZ1J2Tmc2eWh0NTVRZEcwLWpUM2hocTVpaERDNjd4elI2WVk2bHF6S2QzeWt1eFZwLVdOSnFkRHR5S2Z6dTVKYjVVdFVxWmJKLWV0dENEUHd2UnBvYUxYNzJ3eGJEcW5BcTVWd3NiWmN3Zw?oc=5",
       "pubDate": "Tue, 20 Oct 2026 17:29:46 GMT",
@@ -157,19 +166,37 @@
       "domain": "eluniversal.com.mx"
     },
     {
+      "title": "‘Tijera’ a gastos del IMSS: Sheinbaum pide reducirlos para mejorar aumento salarial a trabajadores",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGdUOTZSSnVBUDltcE5jSmctUHY4VzczcmtieTVGcFg1anpEalZrSWJTUVg5eVBmaWVuLS1jQnFncmZ6S1Qxc2NNNDk4UkdBNkdpTjJRTEZ4a3E2VVhZY2RBZy02eURWQkw1Y3A1U3RvRGNPNHNhLWRfRDItajFfTUJQMXJfN0k3aU0tVXdCOWhsa05ucVIwNTlrakJJVHY2LXlCX2sxd1dUSW1aZnlnN0Y0cGw0aUg2SklHWWVUMVJNS19wM3c?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:22:41 GMT",
+      "description": "‘Tijera’ a gastos del IMSS: Sheinbaum pide reducirlos para mejorar aumento salarial a trabajadores El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Familia de padre y menor asesinados en Apatzingán responden a la presidenta Sheinbaum (VIDEO)",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMUllc1Qzcl9Sb3YwUWFWb3VVQWVwN0FBcW9QX042U1JtalBBS05jRGpSX0t4cUktOWJtT25sQ2gtSjlMUVJ0S1VnNXp3S0UtZ2ZyRXdQN09oc1RfVlppVzBTTkRBdmpYTENBV2V6TVdpSWhwU0Q4ZXlUNExTTnhXYlpsMzFDVWFEcVZkNF9vNk9ROTJYeWxHQVJjSnF6aVhmRFM3Y0kyYzR5bHdjaHBuRkxndm5aSmFFeC1uSi1qWldsMUFUM1VLeHF0TktTd1ZvV1dtdlI3MGV3b0tucWRQdk45N1hWMVZ1MXpuZGNKOXU?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 17:17:00 GMT",
+      "description": "Familia de padre y menor asesinados en Apatzingán responden a la presidenta Sheinbaum (VIDEO) Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Eduardo Clark reconoce casos de desvío de medicamentos e incumplimiento de proveedores",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTVDbHhMQUR2a2xvNkp2b18tenNPdFRFbUJPOEVIM1lHSGpBM1VOa0NwajN4MjFiOEZjZzF1Ymt4MVpodXlSZWdCTDJ1ZVEybnNIcWVTOGJ6ZGhoZTZNeHFXaFM4Mi1MSks4QllfQThYZHBSWXVzSnhyYVQzbXFUUFhweFRiX3RzXzd6cmdJVGFCVFJBZV9icFZYbWNoTVE1ZHZEaE5nYk9iQm1MVTJsQmV1Y2lYd9IBuwFBVV95cUxQQVRUS2RjbjNOdV9zaVJoU24xMzBDR0xmQzhQTXFjYnFvM19kY1NQX0JWQ0kwVk1VSDlVSXFkUlh2NXFSVTNEX1lSZTNZaXEwS05FTGNHeGxtRGM5ZDdIQ1FBUUlYWHliV0YxanVnanB2YU1BLWltQk9rNVVSbXg3MEZoOF9ueUptQ3VfNDBRa2tDQXhrSVQyUkJ4bVNQM214Ti1MQUw4clFRTUZiakpsZGdRYXBhbnBPZ0w0?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 16:44:22 GMT",
+      "description": "Eduardo Clark reconoce casos de desvío de medicamentos e incumplimiento de proveedores Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
       "title": "Sheinbaum niega embajada para Maru Campos por procesar a Jáuregui",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEdzNmQ2SXlhanMwRlU4R3ZRNUNWSUZXMl9HUE9nd1ltWjl4eFdMYWtQcV9QSk1WcG40YTFJYXQwcEpuUTZNVmw0ZUF5eG1ZUThpQ1NPUFdKc1kyS2I1eHh6V0taazF2TVhpMEpaMkFBMkRzU3VicmJyd3cxeFdYXzJ4ZTRsTHVRaGxHYkREdFJudWZtcDZyNXlwbEdwTWlVRUhackRWMXFyQUk?oc=5",
       "pubDate": "Tue, 20 Oct 2026 16:35:00 GMT",
       "description": "Sheinbaum niega embajada para Maru Campos por procesar a Jáuregui Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "María Elena Ríos pide a la SCJN sentar precedente ante ataques con ácido",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFFaMW03YWJ6QlY1VjZOVWxoUDdlLVdzYUFQQktjT1oyOXdHc1dJZ09jQkpUNmxqRG52dzNfRkdaWjBjWHMxRU1MMW8xYnpGUHhwb2xmcmZuNTZveEFrd01EczhkcFZrR1RCdGp4NEtGWlBmS3o1ak13ZTdyMDdPc1BKdDNfcy1JWVhEMHZMUVpWY0V4bkhJeXFLbDRiVE1qZTJTWWV6NGxlclVoSUhyX2pEVTVodw?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 16:21:00 GMT",
-      "description": "María Elena Ríos pide a la SCJN sentar precedente ante ataques con ácido Aristegui Noticias",
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
@@ -182,15 +209,6 @@
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Anuncian ‘Concierto por un Abrazo’ en apoyo a familias buscadoras de personas desaparecidas",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNkRFLUx2M1JoN3k0MjJJZWxHMXo0S2dKd2lJbnZNRjdiYlpvRGgzc3c1YllxdjBTQkVReEFKdWV6VmpPVVZGSjdPV2FIelRlb2lHdGg4dVdKT1lqWjlvNklzQndELU9aVXRFZGthR0hweHdHZ2lQeDViMG80dGpkdlp0bk1McmRkTU5qWTZ4MHBqX2UxcmFRbVJyOFprVHl0cGRINVJtOG4tTG1fWGdINnVhc2tBbFIyNUNENklsa2wyTE9qcVhJZkhwR2k?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 15:28:00 GMT",
-      "description": "Anuncian ‘Concierto por un Abrazo’ en apoyo a familias buscadoras de personas desaparecidas Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Sheinbaum presenta nuevo modelo de atención al cáncer de mama; van por 32 centros en el país",
@@ -211,13 +229,22 @@
       "domain": "animalpolitico.com"
     },
     {
-      "title": "Diputados de Morena y PT participaron en marcha por agua en Guadalajara: Arteaga",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1l4RDNCeHlSeFFzYnpkTmRoWm9XN1hBTnF2ODV4aDZrLS16M3dFc041ek8tQUNIN01wckhTanVHN3ZSV2ZFU0MybzNXS25nRWtHdzh1ZXRpbXZ6RTZpa3RpMHVHempXdDlmZnJVV09EdExLWkd2NkItX3BlVERPeGk4ckdJeVlFMzRCZWwyWXpXNmhSYTAtcWFYdUJHclNsSWNVTGhzdDR1eXJ4bGhSNjdjamJTMlF3RFdWSkFnVQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 15:19:00 GMT",
-      "description": "Diputados de Morena y PT participaron en marcha por agua en Guadalajara: Arteaga Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "Abogado de César Jáuregui revira a Maru Campos y Sheinbaum: ‘Responsabilidad la determina los tribunales’",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZEtxUllxVnRLSFlhT0RUQXRLU01FR1RleHZ1T0lJZ251emRpaGxFZFNKc2RkYUlNeW00MHFuS21jTUN5SlVMQWIzS2dMaW4zRWRSV1M0d0ctTEw2TXpEZUduNEJzM1JBSlpYLUhXSktZWmRuOEp0OTJOMFotMWJmZDRnd2NCT0RBVm5TV1NGOF9SaXc4ak9XT0s0SEthWDlUU3F3R3RhNVdOQkNKSGxRUE5tY2hWMVBETDdyWWx3ek96Z2FlaUxqSzNsczdQRUdiczlWRWktTm5LWkVzVzV5UXBnSnB6dUlWaTRZ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 15:19:58 GMT",
+      "description": "Abogado de César Jáuregui revira a Maru Campos y Sheinbaum: ‘Responsabilidad la determina los tribunales’ El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Sheinbaum rechaza acuerdo con Maru Campos por caso CIA en Chihuahua",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWmh5NGg5TlV6SkNkNXlhV1FXQnhvTDJheFhnbFl6SV90LUF6cm43N2p6ZVpxOUxDVXZQdkdvQXVWZEh6SmczcDZ1M2tzTmFSQ2ZLQi1SZU1oeXNRVkw1dkNTNVAtRGNOMGlHdWVRWVhRZldqZUZwcE5IUHNicm16SWtxTERUMm9GcFVYXzVDay05X3h0bUdDUGtZbmZVZzFfOVVkZXBBT3J4QWhSMU5LYmNDeUp6WEplQnZjWlFvcnFpZnJRekF5TFotdUoweXBWUFBVczRKT1VZV1lMemxqaHgzcWFVci1OMjA4Wnln0gGCAkFVX3lxTE1ZMTk3VTdhUHFkRUVTdkRVeG5lTlNhakRwMGxMSWVLdGVpU2Rtdlh4MXNGV1NSczBiSEFub0RYcTZEVUtQbGpNdEtYclhCY3pISTVlUUlyS0hGTFpyOUU2ckF1dXM4cEtiOFRURTBvMGpkalY2Q29lVjFXdW1zWjM3dVExYURid2tsNjRnektvVFlxLXRpSnpOejFZVmZwdjQ3QUdnYVJKdnVxdW12RkpxbXdWbVYyZnBvM2FwZ1JULVpPem4xMDRzMER1clRZYXhjWHMyZllrVFpoSWpPVXl5N3VRTS1vNExVYjZLT0xRdk9wc1pRSHZUS1N1OWpjREgzdw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 14:51:00 GMT",
+      "description": "Sheinbaum rechaza acuerdo con Maru Campos por caso CIA en Chihuahua El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Chihuahua y la FGR llevan causas distintas por el caso César Jáuregui: Campos",
@@ -229,22 +256,13 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Muere Carlos Miguel, villano en telenovelas de Televisa; esto sabemos sobre la muerte de El Poncho",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5UQ2VkTzR3alhUUGZ4VEFoa2JnT0F1Z1pyQ0tteDNJMHZXOG5XOVMzSVMzZ3VYWFZ0elRKRUc0ZUVqWjBKdTh3MlNaZW16a3F1YldsaWVwVEZRNW9qUFhocXBWSGhGMXgydFFBWnVRSGM0TlFRbzRJdHF0UkJDdkZ3Y3hPcHUzaTMtR2hqZGNLQ2xWcEQxQ9IBmAFBVV95cUxQVmJXanI4eGRtWS1BLTNNMHRrZjVrcGdlbGx1Wk1UT2NwQW55aGlLdXBqZWNKdWZwUFlsNkV6Z3VUQ2VoWDIzNktwZlNxOGdNZEg2Ym9tTkpDbV9HREJpYk5uWEtlNjQ5bnNiN2pOQ2pSX2J3cVBqNDc0MWlhcVpDazJDZVFiYWtaQ0ctZTlvdVd0bFQwN1BzNQ?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 12:23:00 GMT",
-      "description": "Muere Carlos Miguel, villano en telenovelas de Televisa; esto sabemos sobre la muerte de El Poncho Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Se tambalean en Texas 30 años de republicanos",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLTdxTi1FTnZwSG1BQ2Radjg4c2cxWWtIX2ZaZldZMjg4MVhfM1dTWG9WcGxRWnRQandjVjBIdEtkNzVvWU9kVExodjNSZEJHMW5iaEJRSWlaYzFtUUZGZlhDZnNpOVdfUExQdV90OS1jRFVyQjd0cGFvc1ozWVdWNTdUdHlYdw?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 11:02:36 GMT",
-      "description": "Se tambalean en Texas 30 años de republicanos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "China envía fuerzas para vigilar un buque de guerra de EU tras una \"incursión ilegal\" cerca de las Spratly",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZDQ3TVAxdGE2YlBDdUtjMmdOLUFGS05qWlhiNTgtd25XdTh4SXBFTzBWaUliZGVXYjlDcFBrbmIwSzU0WnFwamhONU9VNUZxVE5wamVIa3QyX0Q4Y3VBQzF2U1pIZ2h5dU5ockhKSVZuaGx3OThBZzdoM2Rrb0xBQURBVUROUHdjZWd4dUlLTVR4OVBCZEtWd0dzZ3Fzc1owRVM0Ml9WdW00WHlrQkpxb2FZSkkyN1hXZ1k5cC1saDZ1eUd0R2kwZzJ4Wl9uVHhhVU9iRG1ROWt3SVV0T1ZhcXdlbmlLdlVlUlRLa1p3ZXItSTA2SDNj?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 13:35:00 GMT",
+      "description": "China envía fuerzas para vigilar un buque de guerra de EU tras una \"incursión ilegal\" cerca de las Spratly Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "Resulta 'fantasma' chofer de Taddei",
@@ -274,6 +292,15 @@
       "domain": "proceso.com.mx"
     },
     {
+      "title": "Inteligencia rusa afirma que Ucrania ha entrenado a cárteles mexicanos en el uso de drones",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEp0MENmanFJcldybFRsc1ZBLVFSSWdmblh5V2xNS0puTC1kbmZSS2RHU19xMmI3X0tQbU9IOUdxQ1lQeUplY0dwdURHWXYzeENaell2d2JqcVBEX1FUN0U5QTBZdm5rQVJNTk1Sc1Rxamktc240X0t0MDlyaFM1M0FmZV91QnZkVWxCOEdIRUlUMDA3UlhBeG55dnRIbkE3cTdLS2ZUa3NCN2hVMzZla2pKTnEyN2Rxb2s0ZDZaV0d1Xy14akJUQmlmX3lwZw?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 10:29:00 GMT",
+      "description": "Inteligencia rusa afirma que Ucrania ha entrenado a cárteles mexicanos en el uso de drones Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
       "title": "‘Sin rodeos’: DEA lanza advertencia a los cárteles de México y promete encontrarlos",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdnJ3U1JOWkl5YV9YYXhkUXlwamJMQzhUUVlVMXM1TnBobS1lQUdQQk9iVkwxWDFwVHRTRnpLenVadG1vUkhvS3hrcndoTFB3eGNxWDJTWFluTjltdDJtcVlidkRTaDNmZENZTmxnWUtGX3k3bTFZZFVSTGs5TUtpLU8zQVhjTE5YSTBWYlFCYWFxTW9mZWhVaUxxZks1aml1NHdkdzJVRm1UU3lPTWRYampDYzZRZ3ZkRUVMTlVqZzdxaHVuY3NjcTVTY2lzQQ?oc=5",
       "pubDate": "Tue, 20 Oct 2026 10:28:08 GMT",
@@ -281,15 +308,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Unión Internacional de Magistrados expulsa a representación de México por su respaldo a la reforma judicial",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbURKYlk3Y1VMSV9FdlYwbzlnUEZGWmN3ZDhrVFF2YzQzSHpTbFN4WElNLVE4N21EYTlaWjN1M05yS1hsRGNPSktkTklfa2Q5RW9jMEs3VVhjQWF2bDl6MHNrMnZBdzVhQWtGNnB3Q1dUN1JvR1RlbUZhc1ZEYi1Kck9NVGliN1N4X1hmMlJ5ZmxtbF84Wm9SZ0c5a2pzUzRaNVJULTdzQkpSM2xjLTVNWHVuUE4tRVNnV1ZRT2RsMHBrTUNVaWt3TV9CNExMUjVFTUZORHhfMFg2R0pqUFNOdlFMcnI?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 08:08:00 GMT",
-      "description": "Unión Internacional de Magistrados expulsa a representación de México por su respaldo a la reforma judicial Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
     },
     {
       "title": "De Guadalajara a París, la misma grieta",
@@ -323,6 +341,15 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVBHS29YNlp4YWd3NnJyQWRCVVhVSEVjbExfQnJrdEdPUkYtU29QNjE1ZUlqakh5Q3VoYzF2czczamwxZk5sZmtJUzhRMXlDYktvOFJDUWxqVmFFRGRscDVEWW9MWE1fTUFyTlkxX3RoVFdTU1FraXBjT0k4N3pXdXRpZldmVnNJcFlybTJCMmVvTjNPQ0twMGltcXpxRWVhRGfSAaIBQVVfeXFMTi03dE40b1hVT2MtX0RibTJ2VzVUdHdTaDJBanJOTUs3Rkp1QUFzazFlcFdjLTVBTVRBZlVObE1kU012MzZzbmVSSTdMSDY2TDJ0d05jLUU4ZVI0YVQxNHhlb3MtSjlZLWVTMXpfcXBvQVdvbktiMUNEdmtKS2pjcURkT0d2RFZxQ0VWMW56RE5BdmZ2dUlONVN2LTl4NFNkTDJ3?oc=5",
       "pubDate": "Tue, 20 Oct 2026 07:21:06 GMT",
       "description": "Prioridades, presupuesto y demagogia Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Acá, haciendo lo que nos gusta",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa3JBUmctdWRleEJSRUJlaTFQczJCZC1nZTZxM005aGp4VDlzeTNpT2ZGYkkwQ0x4ZmY3WmlUUTlZeDBtUUkwQ1RURDJtSHQ0cGFGWWhQV3JmODVJR1p2UDlqbW0wVy1QVEZ6YUdHTlFOSGtDV3BRd2pJZ3V4V09mdG9XbDdJSTUyaDN6ZjE1UUdrZ9IBkgFBVV95cUxPSHhVOFRXVGlXZFhkWXVrN0ZiQjFJM3VSVXVYQzJIbmNJc2kyWjMtSlo3ZXlXN0p0SzNBVkxLWjdvRnRYLWNsQ3lyaFVEaGhFUHg0NFROUzAyQzBJRjIzWFBuQUZDZU5IRGhtdDRLV1ZwamVqRmFaaFk1U0hkZEhYUDM2emxsXzc0blViLV9ZMUhGUQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 07:12:24 GMT",
+      "description": "Acá, haciendo lo que nos gusta Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -382,15 +409,6 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Ajuste de género frena reelecciones en municipios clave de la coalición Morena-PT-PVEM",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wa0I3SkFKSV9US2ZDSDd3UHI5UUQybjlWXzJvWERsdkdaZ1lDdklmMlRYaWtOdlFOUUV5RmZoU08tX1Y5MVpxWlVTUGczQ0xXdFhjZlh0MUZOcFA1QmlPRlJlbF9feGhBeXJFbi15ZVcyWnAtN21XUXFn0gF_QVVfeXFMTXVaY0gxZEE0TXJ5QVBhNVR6YjJCV1V6NkFTOUhCblFnWTFMX3d1cUJieWRRM1lOWlRhYV9YcXpyM29qYUpEWlNuNzZkM0pFYmthRkJHcjBub2ZtNTZEMHFNbXJpQllzcmFRUmlCaHJ5TVhSUFdMYkh1N0RYbWVKcw?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 21:06:59 GMT",
-      "description": "Ajuste de género frena reelecciones en municipios clave de la coalición Morena-PT-PVEM Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
       "title": "SCJN atrae amparos en el caso de la saxofonista María Elena Ríos",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0R2VEJ4TWFzYjd6LURqZnpqYUZHc1gtQWZ2UjM5blJYNmpGbmNZcXlfVnlfaEoySjBuclFyNW03TXFVVXZaNE1hTWxCRml1WWlQaTlsOXpKM3g1TVphbHdmaWpGRV9YTVRjZndzeFNTMUFrY3YtdVhhNXZrSmJYam9HcXNrRUFRT293bUlhd2Y1Y19F0gGaAUFVX3lxTFBXTU9HajRWdlFxV0tYc2JlN3ozckl6aE44Mmo4UXRIQkdlR254dlVNbHdrOVFpU0tNTGJqYjJEWjgxb0tTaEFpeGF4T05KMG16NDRobnVCQ1FhTHphVDZ3dDFVeVNhZEE3UWtHYkE3ZGtXS3FBbnQxSDJUeWh5bklvaVZUZ0FvUGdaTkxVVTZNRW9JcXJFWF9uSXc?oc=5",
       "pubDate": "Mon, 19 Oct 2026 20:18:22 GMT",
@@ -418,15 +436,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "¿Qué día te toca registrarte para la Pensión del Bienestar? Calendario de inscripciones en octubre",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaC1DR2kySi1qcDY4V1ZiWnV3MlYtQWtocHN6S1pqbXZsYm1rMHp1bEhmSVB6TGtXNmk2ZDRjTmhOZ3BUU0VMUmZVcEphbkVCLXFNcVBFcWZsTXhtQ1hONWFoZVFreEhpc2JYaHJpaFJyc3doOU4zbzNoa0VsSW1feTg2dVlTT09iamlvX1FPRWVrYURORy1SMlgwVE5pOGU3Z1pYRG9PVDlCQldySi1OTV9rVzgwR2FYZmtzNTZ0cEhWcnpx?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 18:55:08 GMT",
-      "description": "¿Qué día te toca registrarte para la Pensión del Bienestar? Calendario de inscripciones en octubre El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
       "title": "Chofer de Guadalupe Taddei es señalado como apoderado de empresa que recibió contratos públicos millonarios del INE",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdlljVW15Q0pZeHZJdHZZV2N0cHZPM3hkOUlXVXV6c25mV0tfYTE1RkhsYW41NkdFQWlLUVh1eHExRFpCUzhtRmZTUjR2VjNpTUdINC1SVWx3SUR1Rzc4UDduQ1U2VDFaTno2RF9USHJ5RE9BSVhJakRhSUxmM2RvOW00U3hpX1JCRGVCbTlVMmJWRDRBTnNBdVNQMVJXbWN0YllLNVJUcGZoMmszZlg2SU5Ock5ZNEF5cHpZdW5QcHI4alNEUzZOdDRGNUtFYW5CZk5RLTdoQjJkRU1sd01Gd2JRTHdHYjNOMlBDNGJmUHQ?oc=5",
       "pubDate": "Mon, 19 Oct 2026 18:01:00 GMT",
@@ -443,15 +452,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Abogado de exfiscal de Chihuahua ‘contradice’ a Sheinbaum: ‘No ordenó o autorizó a agentes extranjeros’",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWJIY2VQRmR6OFlGRUUzMkVldXR6X3g4SVlDcEVTOXFuY3Flc3ZVV0pVanQyTmZGWnQ1WW8yRndNSWhtTUo3OWFzMzNpelRnS2NUbkkyZFNrcC1VdVFiZ1ZLU0xwd1lGV2tWS2diMWxLbUxjNWJZOXl3Q0staWVBMXVJTjVMNGdNdW1DZnlDaFE1M2JHTHFCcS0tQmFLQW0tNmhRWFVGZVBBb05vX1JaMkFmMUdEcGxKcl9sNXk0WGFiRnE4anFJbVNXWFE5S3BPYU1kSllkcDZvbjVrT040RVZrV0hjZw?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 15:43:38 GMT",
-      "description": "Abogado de exfiscal de Chihuahua ‘contradice’ a Sheinbaum: ‘No ordenó o autorizó a agentes extranjeros’ El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
     },
     {
       "title": "México presentará denuncia por muerte de mexicano bajo custodia del ICE: Sheinbaum",
@@ -499,6 +499,15 @@
       "domain": "milenio.com"
     },
     {
+      "title": "Miedo, castigo y estigma: el fracaso de la política de drogas de AMLO",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90NUhGVUs0eVJwdzBSUGxmNGFLLU9EMlpJWEp3cTI3VG5nWWpsREFlM3lEVlhlTHZ0OG05dWJVOFNJa0tLQ0FHcGx5R2VQVUh4SWN3cjQ1TE9PeHVORWx4bkZkNmhvZUgwRkwtWDdtZw?oc=5",
+      "pubDate": "Tue, 28 Nov 2023 08:00:00 GMT",
+      "description": "Miedo, castigo y estigma: el fracaso de la política de drogas de AMLO Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
       "title": "México destruyendo el futuro",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2R3JrbGNFTU5MMzBILVRLOEdaOEh1QXBGN1k2ODV2MUtkVDhkcmNiakJBY1d4WEk4VXhsSTNZeG5FY3JBSGZIaFh1MGRWLUxMMHYtNnNKNk5EQnJBS0h0ZGNJZXdoRVhCX2psZ3AxSQ?oc=5",
       "pubDate": "Mon, 24 Jul 2023 14:23:43 GMT",
@@ -513,15 +522,6 @@
       "pubDate": "Tue, 22 Sep 2020 07:08:21 GMT",
       "description": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales NarcoData",
       "source": "NarcoData",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mTkVzTE1oWFV0YWE1cWwyZVFxQU1RMUJpbXF4V1I5Q2ZiRkQ2cXJRMUd0UThXaVpmeE41YXlZR25tYWhINXBTWDRndUZ1ai01azZIZjBQZ2V2bGFvRFlyQjFpM1UxaG5GSW5OeU5sU3h3QldpYkpxRUFUYw?oc=5",
-      "pubDate": "Mon, 19 Aug 2019 07:00:00 GMT",
-      "description": "Expediente Lozoya: Paso a paso, cómo presuntamente le entregaron los sobornos de Odebrecht y Altos Hornos Grupo Animal",
-      "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     },
