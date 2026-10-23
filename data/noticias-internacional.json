@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T02:13:13.341Z",
+  "updatedAt": "2026-10-23T08:00:26.359Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,31 +64,67 @@
   ],
   "items": [
     {
-      "title": "Venezuelans call for elections in first national protest in nearly two years",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPai1xelZ4bWdFeTJCYWZJeHJxVFVRS3RXMklSdlV4aXI2cjN2bWpvczlDUWVndUl0ak5vb2IxMmREVmsxaVgxR1N4Qi04WXRNX2dSbW1jX3pZRi1KOXQ1RDdfMWdSSGdRak1nSGhGdTFSbjQ3U3VXenNSZDlWNlR4aklLUHc4TFRnbGtnaVdlazNOQkZ3cE9YNk4tOVpTVkhCQ0pFU1g3OXhBUk1BaDNXOEtJcndCRHJG?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 22:30:53 GMT",
-      "description": "Venezuelans call for elections in first national protest in nearly two years Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Estados Unidos retira visas a decenas de altos cargos de Colombia y Bolivia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTg1X3JhN2pUZFNfRHMtVVotRktjb2JSYktsMklSZjd6XzBIb280LU82SzdaeEpFVTlFa21qdlRRS3VzNW1QSUZtbjEyOHRwdlRLbUlsSGVpZjRBUWlDaXNWeUtDWDU4M0V6eEhEN2xGb19qSDVzVlllaDBqbV9VSlZvajhqR1pfMHFTUl9KRGhWSmxZSlFzeWNkV2x1TURwZXZGNk9EcE1WZ1Mz0gGsAUFVX3lxTE5uQ2xGUTFqUWhDbWdFT3d5dVhlUUgwd1F3YjlMMkFyX0ZMdjZyajRMamdHMkRDeVBBZlB3d1JrYkF0YXpWQkNFV2t2ZHpLb21lcmRqQU1kZEFmRm5ERTJOazVBRE9rbXdyWlZyU3BGVXpBUjJjX0ZCWmt5SmFDRGhneUNGS1RlTkg1RDFFd1ZDV09yWk85VkNzUnFqX3VCTGNvS1lDNEpQQm91aFk?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 22:19:19 GMT",
-      "description": "Estados Unidos retira visas a decenas de altos cargos de Colombia y Bolivia DW.com",
+      "title": "Putin dice que Rusia está lista para negociar la paz definitiva",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEVPUlRBMEJzbGdDZ1dudnpPN2lyVUdIYkVTZFoxXzY0V3V2ZjRHTE82M2dLdFRENzMwTl82YkRqLU5oRkw1VjVCNTR5X3d2ZkpLbFJwVkxBZy1oakowek5lZzVGQ3hsZHR0TS1FYzZRMDZLYUNsQkxHX2ZyeHRNQ3pyZ05sUHllWXpNN1BESXZaWTVkb1B3VC1BZjJCaUxROGdj0gGjAUFVX3lxTE5zM244Ri05THBSYkEtaGR3aVM3LVQyUVFGSDg0ZFpiV29CamRwanNiM0dZV3l0TzhxWUJ3cHFmWnhmNUNabEVXTzVUdmJQeXlRdnYwX1lDeVBrUkFhUFlhQy14dVJRNlFmbUc4S2tpdWV4LUMybnRjSHRwOU9wVkdaQUowR2lXc0xvNTFrWDZyZmNFZFZxT1RaYTNOa19nTXp1WVU?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 05:33:59 GMT",
+      "description": "Putin dice que Rusia está lista para negociar la paz definitiva DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
+      "title": "Quiénes son los \"ciudadanos palestinos de Israel\" y por qué pueden tener la llave para desbancar a Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DVWplMW5LbHpkZkhKTXBMS3cySDJHNW00OGFWNFZnYWdLeTJXRDhLUzNCRmlwS1JNbzFsTlkyZldxZWNIMGVNMTRlVkNfcVlfTGJOVDEwTFN0MTU20gFiQVVfeXFMUEVpVExBTURQNW13Vm1WTHF0RkxLS3ROODlheG9USFpLSk12VG90YUlDTW5UZkllNWdfUHAwZ3hiOG1NS3RuTU90NU5aWEdMYzRFa25nZmdpczdScENpdHVmREE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 04:08:36 GMT",
+      "description": "Quiénes son los \"ciudadanos palestinos de Israel\" y por qué pueden tener la llave para desbancar a Netanyahu BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La violencia desatada de los colonos en Cisjordania marca la recta final de la campaña electoral israelí",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRThMZDIxMWVsQktKUzdyUjdaYl84TU9oM2JXWnRDZHNjZDFFRThWZ3Z4MVNFUzlNZUtvMFA5SUJETVFyZjY3SzNUUlo2U1R1M0xPdjBfcTBxalhLWEtjMzZDT3lBaEtPLVlxbW52T1ZXbGw3cmVubkFzVXBHOUJmZG1OWWVYcGljUG9EU3EwR1F1TWRkNy03Z0F2eEJ5VEdpX2UwdjRPc2VXNmNzUk40WFFMaks4eGdJUzdrRFRvVnR1RmE5LWxyU0xVRFNVNVEwODcxQUhNSXgwa241ekhaTWh1WFM4LVI00gH8AUFVX3lxTE51b0pqWEdmY2ItTjBFWUNqWjdocVJEa2F0NHcxNUltNGs1eWttMHhpczktOXUtVzA5VTA2Z1pQS3BHeHBRV1VIQi1TSkJzeG51ZndDUTFmRTBpVm5yWjdyNkhqT3hsSkpVcDZ2UmtKOGRIbDZsY1JmZlFEWW1vNGVPQ2RWUHFXMVRqVmswcjliV0lBaW5teHBzOHIxMTdJczZlTDhkZ2pGY2RVbzBwQWR6OGYtenFDVzZjMGRRczVTQ0JoeDVVOThYbE8yRllXRV9ER2kwYVN1NlZ6ZHRvT0xIM19XdkVxcmlGQW1FY1laYVh5QUJ6MEc5eHNXSw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:40:00 GMT",
+      "description": "La violencia desatada de los colonos en Cisjordania marca la recta final de la campaña electoral israelí EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Zkd2WlN1RWwwTFlFNXEyS0tpUnpqa1VnaC1uTmFTMENFRVk0RUZ6RDE1NVNSWS1UUkM1RDBvYVdWNTlkbVZxeUFYSWZTc3ptZTRGTW5DWE9xejNE0gFiQVVfeXFMTkM5azdyWmt5eWJ4ai1mNUpEajVHWGhzVlhoTVYyd0x0Ul9weGw0TktKUUoyQW93MDVvVi1UcEdnd2t2d1FnVFV3OGlxRWRyOTR6dFExN0FSSFNiNE4zTDdNNGc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 21:28:37 GMT",
+      "pubDate": "Fri, 23 Oct 2026 03:30:06 GMT",
       "description": "La justicia le ordena a Trump responder preguntas bajo juramento en su demanda contra la BBC BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La gira de regreso de Kamala Harris: la exvicepresidenta entra en campaña y coquetea con volver a presentarse",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNXZNdDZad05oMmxMaWgxMG56RVhSNzNGWlRURDdBYmRyc2o4SWd2VlNzZkZ3VV9fZ2VBcjJTcG9xbzFacVFJOGpwRTNhOHVqZ3hoSE4yM1FicnhDZXctczF6V194S0ttRjVIY0xpTXlTWld4V3o4aEJfY3ZGVndCa3ZDWHJMWFR5czdyd3VDNGY3SDd4TFBIakdlX2VNZGFfZHc2RnVLSm8waEJ6U3ZtX3JHb2JWdmE2c3dEWmVENUZscndoam5fa25Fel8tbE04VjR2RzRWM1BVZEtuZ3lF0gHzAUFVX3lxTE9oTzhHazFVbWlnaWJBRGl3OWxHeXRkUkdDZUV3Mm51aXlkQnduc0U2MXplU0FzYUY4S0FWRFpZYWNNa1NFaGs5b1pjVklPOWNJRmxVeXhYaXMtWC11SENNa1pTaks3ZTgtdXdRWjhYMnQzVExKRVpNdV9Ud2N6cnNDWkYtQlpPSHZ4Zk9TNm9TVU9Xa25qRDFQVkFLY0pxTHdkbDk5NmdzaFdZY2NYLWdjZVpkSGlDVHNWM1J1T2pXaU9hV3dvdVhLdDJVNFFUaklHRHdMaFNoTW5hTzlydDk3MjEwZVl2SG9sOXBiMUVWMm52Yw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:01:07 GMT",
+      "description": "La gira de regreso de Kamala Harris: la exvicepresidenta entra en campaña y coquetea con volver a presentarse EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Imágenes del terremoto de 7 grados que azotó el Tíbet",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1NRVVhKVWRMaHVIXzZabUJwNVM0aE9RTnNPcnJNVDlEYmM0em4xQXJ6dTVlLVhKZ2FDSUw3bFRmRlhaZkloQjZRX2tiQklFemN6a013Q3FxRFhqeEhVZl9XaXRyZWhobEZFcW9yYVlLVjNxaXdTWnd0a19VbTNYM2JaanhjaGFwNjg0Nl9Gb0loc0w2QzFOc2VEWk1kODN1R2ZSZVpqZS1kblRpOFE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 22:52:28 GMT",
+      "description": "Imágenes del terremoto de 7 grados que azotó el Tíbet CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Estados Unidos retira visas a decenas de altos cargos de Colombia y Bolivia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTg1X3JhN2pUZFNfRHMtVVotRktjb2JSYktsMklSZjd6XzBIb280LU82SzdaeEpFVTlFa21qdlRRS3VzNW1QSUZtbjEyOHRwdlRLbUlsSGVpZjRBUWlDaXNWeUtDWDU4M0V6eEhEN2xGb19qSDVzVlllaDBqbV9VSlZvajhqR1pfMHFTUl9KRGhWSmxZSlFzeWNkV2x1TURwZXZGNk9EcE1WZ1Mz0gGsAUFVX3lxTE5uQ2xGUTFqUWhDbWdFT3d5dVhlUUgwd1F3YjlMMkFyX0ZMdjZyajRMamdHMkRDeVBBZlB3d1JrYkF0YXpWQkNFV2t2ZHpLb21lcmRqQU1kZEFmRm5ERTJOazVBRE9rbXdyWlZyU3BGVXpBUjJjX0ZCWmt5SmFDRGhneUNGS1RlTkg1RDFFd1ZDV09yWk85VkNzUnFqX3VCTGNvS1lDNEpQQm91aFk?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 21:53:47 GMT",
+      "description": "Estados Unidos retira visas a decenas de altos cargos de Colombia y Bolivia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
@@ -107,6 +143,15 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Verificación: Video antiguo de simulacro se comparte erróneamente como incidente aéreo en 2026",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGxzd1FEd203LVdOVngwcG05dnUtbm53aXRBZXlIb1JGcS1QRXBCcVp3aDcxTW5RUkMxdDJ6UWlldl9BNTQ3SVU0MVpBMXk4bXVfVUVpVjdtbkwzZTUzOUJFbmJNMXg4MGdES0p4UE1fTENYU1YzR29wTkJ5TUZPVnRhWmRRdWJu?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 19:52:41 GMT",
+      "description": "Verificación: Video antiguo de simulacro se comparte erróneamente como incidente aéreo en 2026 Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "¿Qué es PHP y por qué generó una falla de seguridad en internet que desató una alerta global?",
@@ -136,6 +181,15 @@
       "domain": "elpais.com"
     },
     {
+      "title": "Macron anuncia restricciones a manifestaciones en Francia",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTI4NDQ3U2ZXNmZEeGFjU0JGZERWanBJeU03bktFRTQ0V0FpQXpCWk94RVRkRkpEMDVOMDNWNDUxNllwNWVsbS1MTkphRHd2U0h5allmX0lybGVxUzNlRGM1RnFnd2RDSmNtRU1fcUNVRWN0Y1NKa0xpVlpjTUFkOUt1RnV0Z25Ta1FsZUNJcUdEZDQy?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 18:37:42 GMT",
+      "description": "Macron anuncia restricciones a manifestaciones en Francia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Jueza advierte a Trump que su demanda contra la BBC podría ser desestimada si no declara y presenta evidencia",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM3c4NGFXeEVHaGhyTkU3Z0ZNZ3NISWl4a0ZZR3FWdk9pNDVuc1VSNVlZLXBOakM3N0tTeERNbFJ4VXRCX0tqc19nN0FiemxFU0xFWmF1UHVCTEhkUThqeGZ2em96eFllS3NaVEtpMUIzcWx6WTktZHNoM0liYWJURUhWVnQtRm5yRk80TldOWXB1UWRTNUNRUkVUOGlvQQ?oc=5",
       "pubDate": "Thu, 22 Oct 2026 18:20:00 GMT",
@@ -145,19 +199,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "\"La vulnerabilidad de PHP es el equivalente cibernético de una bomba sin explotar\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81MTZMRG0yeTVJWndsNl9JTjh1aWNkLWR6TkxrUVBYUVZMejdsbHpJamZZalN4X0xfV18tM0g5VkZBbFhOdUxNM1IyVkVmY2JGTmVRNkJfa01jc3lD?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:54:50 GMT",
-      "description": "\"La vulnerabilidad de PHP es el equivalente cibernético de una bomba sin explotar\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Una vulnerabilidad en un lenguaje de programación obliga a desconectar webs de todo el mundo",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkRBOEpXU1hkVmlDaE9JRUs0R1JkQnRqdjZ4b0pFeG5saGtMLVdheFo2b1VZampSRklQSXNxUllPa2FTNkN5Ynd6cWNBanNPMk1McHpjenJMcmM4aExLc054eklBLUJjenBMSGNXUlNtQzNVLWdNcFBiQ2JFLUxnSlB0OEJhdnVyWjFGSkV2RzEyYzY2UzNWZ1FEUjg2SDhqOUNkRENDdmNCS2lydUoyRG5CTXdzWDlPUmEzUzNfRGdXNDhjUVdWZ2xR0gHKAUFVX3lxTE1lWVRMckJEckFrZXdMc1BrZm9MZ3lpT09nOXFNLVFobTBsN2ZfRVhreE9DVFN2WFFiRGFXa2tmYlE0YXZZS0twYTB3RW1JbTlvTjBWQVZWTUQ2Y2xVcXhQZ2RIU08yMVcxVjlTR09wM2RVRjNOMG51bGw0XzRBWklGclRYaEpPT2dFZlVCZFQ2Q1NHa0xlVXF0NktqbDJscDk2UDdsVmZsNnNadDFVeFlhOTM0dlBHTEVwSzFKTnV0T1lTZFFrZlo4UkE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:32:59 GMT",
-      "description": "Una vulnerabilidad en un lenguaje de programación obliga a desconectar webs de todo el mundo DW.com",
+      "title": "Francia reporta primer caso de virus Shamonda en humanos y descarta riesgo general",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRRNDJCbFcxR2lOblFIWXhEUWxrRFZYR0VQeWtfSHNYTkxZb09wM0NnN2hXSDFuWmd6ZnIxYm0yZjVTUmpGRThOVngzdDRBLU1XUjhRRE94Nlc1TWtNYlFBcGY5TXk0aDQ5Yy1MdFNDV2s5YWtmVEw0WU83VENDZmZOVWF4MkRsWUFtZlhfZDJuWVVPNm56VDhIRDV5Mmdlb0FhcGJ3TXhFUkFRMXpJQTlaVEs3d9IBtgFBVV95cUxQUlc5eXNleVlGb21xb2U3R0JUNFB2WjJlcjFIclFhOFNxeDlISXFpZ2EzU3ZTdC1YaGRoWWF0UWpVMkRpaV9BT0NSNThxbnQwcmtoRTJ5bl9TMDA1Z0FUeklsYndVYUVHU3dDRmlncURubUUwSXhfV1piUkxIRXp1dzEzMlYzMmdwOXRmZHFJTEF5TldmVFNQdGJFTVZKa3QzVzRqaldFTVdreVdSLXNrMlNxRU1vQQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 17:57:41 GMT",
+      "description": "Francia reporta primer caso de virus Shamonda en humanos y descarta riesgo general DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -172,15 +217,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "¿Puede Ucrania poner en jaque el espacio aéreo ruso?",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0s5MUFSOEJwLTc5YnZzQlloTVlYdEdhWDVldTR5MzBzVnJSc2loQUZtU002WWVtSEV1Qm93YktVakNhalVXNDVVUEtFQTFxZ3B4M085QmdwQ19YYXgxcGpkYTVBajBBdWdpeGJRQzlOY2U4dWg4WDdFUHF6LVNPSWV3bTN5dG0zSDAtcDMxYndyTXFhWW9JelpB0gGaAUFVX3lxTFBzN2YyR05RbjFoMGF5c19mV0VZa1ZoeEhSZXlzQlZ3aGl3QzFFaHd0WjgyWDhGZkRDcW5PUXJJaUlDVVN4Um43dUoxOEZEX3BNRUNLS2lyQzNXY0ZQQjIxQ1hsbWhJQ1BtdHA3aU9MeDFTMl90aTlEWEszNXNQN1NPN2lEMkZ3bFdwdlpndGpIaV9IcUNWbElYdGc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:01:33 GMT",
-      "description": "¿Puede Ucrania poner en jaque el espacio aéreo ruso? DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Sheinbaum cuestiona la presencia de Jorge Romero en la protesta del IMSS: “Ridículo oportunismo político”",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGtYSzJhbTJ6eTFGNl9nS3NQb2ZzeVB1WEY2Y3JmLXkzc2RwNHgxbzBHTmREeVljbFBndDlRbmRkQnEwQTVQWjdDV2JQTlNQM1IyY3MyMjlMYVBTNGxuQ0RNTEdDZ3F3eVVPZ3h0RERfeV81WFNYVGFyWGpaNEpNM3ViMlBORmkwNHl1MGQzcFp5c2xvTWNyb2VId2w4OHVCODVndUxzMnJ1aDhmYnp4aWlzMS1EcUs1emx1dEVpVzRWempJWFViZTlRZTVwQUxyaDduaXNIS3BtRE440gHwAUFVX3lxTFBmRjdMWDhOdTkxU1NoZ3pYWEJ4YXoza3VZay1sUjJwcUNmZmt3UVVvcnhHWHoyNUNma3k2Q1U2LVMwVzdmMGp5SUR2VWZlV1dXcTZVbFVhSW9Dc2xQWGdBMGxQcG1vdzhHaF90VFF4WmNxMFJXYjBxa0tHQUQ1bTlqRmYwa1JiemJiNDVjOGtXcndlZmlfdHFCTE9MdDh5UUNvZWprSnJxWG9EXzR2T2hkYkJPWGRFTkMtVXFCV0xTRUI0RnJ6U011blE5d0gtdF84dkY2TUhNektMd2xDcDByYlFLem5iTWduVUtsdEdlRQ?oc=5",
       "pubDate": "Thu, 22 Oct 2026 15:22:50 GMT",
@@ -190,13 +226,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Francia reporta primer caso de virus Shamonda en humanos y descarta riesgo general",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGRRNDJCbFcxR2lOblFIWXhEUWxrRFZYR0VQeWtfSHNYTkxZb09wM0NnN2hXSDFuWmd6ZnIxYm0yZjVTUmpGRThOVngzdDRBLU1XUjhRRE94Nlc1TWtNYlFBcGY5TXk0aDQ5Yy1MdFNDV2s5YWtmVEw0WU83VENDZmZOVWF4MkRsWUFtZlhfZDJuWVVPNm56VDhIRDV5Mmdlb0FhcGJ3TXhFUkFRMXpJQTlaVEs3d9IBtgFBVV95cUxQUlc5eXNleVlGb21xb2U3R0JUNFB2WjJlcjFIclFhOFNxeDlISXFpZ2EzU3ZTdC1YaGRoWWF0UWpVMkRpaV9BT0NSNThxbnQwcmtoRTJ5bl9TMDA1Z0FUeklsYndVYUVHU3dDRmlncURubUUwSXhfV1piUkxIRXp1dzEzMlYzMmdwOXRmZHFJTEF5TldmVFNQdGJFTVZKa3QzVzRqaldFTVdreVdSLXNrMlNxRU1vQQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 14:58:38 GMT",
-      "description": "Francia reporta primer caso de virus Shamonda en humanos y descarta riesgo general DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "La construcción del arco de triunfo de Trump, de 76 metros de altura, podría comenzar en tan solo dos semanas en Washington",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOS01MTYxdWZWRGM0ZFZfLUlrbDI2RzFGSTFneDBfTl9sQ2lPV2JiVmlHak9fZU9Gb21lbHNSaUxxTjhLOHgwRVZqd19TRFR4ZmFuNk1aTG55LTdsTDlad1ZsT3pJR0U0Y3ZTRlJ5cE5VVTItSTM5LXZvd3h4eENyZFZCSFg?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 14:49:00 GMT",
+      "description": "La construcción del arco de triunfo de Trump, de 76 metros de altura, podría comenzar en tan solo dos semanas en Washington CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
@@ -217,19 +253,19 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Alerta internacional por falla grave en el lenguaje de programación PHP que afecta a servidores",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamh4bk1JOHJEM1dja2I3X0ViR0dWWXQxbXRnTmhJQmZEa0UzQ2hTQVp4SHJXYlVweWpDeU9pWGpCMHQtQ0FCQWY4eUFkcWlTYlZ2aDI1aEpNZ3NENDh4LXBnRnFLV3pkbjhfSl9IbUMzSFlYOGJSUzlpM0NEWC1HaFVudFJxOGtYNG5rRmVXMEdmTGJwcTBXTGJKd0RwNUU2UmdqYUgtOHRpUdIBqgFBVV95cUxNS3VQb3pEb2NPQWwtQnoxc3BHM1g1Q3Vsb2hFREpCMVFvZkNkSlpaOElMam1HcWtZdldiRlhQUk5kNEZReURDUFJKaVNTRjl2Q2hqWnByMjBCY1VpS0RMb2FNeE5SWjRQYzJFTlJFLVVsc21SRldrRWdQaWVyYVg3NWhLUkVwRUJKZmNJWW11M3lrS3BtVXVMU3lKT1RtdmxfU0RiaWg3MlFUQQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 12:54:46 GMT",
-      "description": "Alerta internacional por falla grave en el lenguaje de programación PHP que afecta a servidores DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Arabia Saudita evacúa sede de Aramco tras nuevos ataques de los hutíes y se dispara el precio del petróleo",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTmM3NWNYWmhCNU42S19xXzVPYmpUamhoQVh4cjV6SGY3ZHhVTTU0dzY4MVNtZm5NNUxTRF9CcjFjNFpvQXJjektYNVhFZzJDOEZLZy1uLXlqY093aTBQM01YUzc4c0RzSFBzUWxMdUZqeDNSVngxd1VZQjBFbnNOLXNwSExYRnh1c1AzMnhQZGNQMUN1OUVvalpzRzlwdFFUT2Y5dWNkdE9RSDF2X3pQWW1yNmZHeDlPaXdGcXk1N2hQVnNwdERpNmQ2QU8tNFc0ZnpOU2JfcmdVM21sLWRheUNiVHN2QmNfV3RhV0g5cDh0MEtROFM2RnRlUkpDeVlqY1B1ZkRB?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 13:16:59 GMT",
+      "description": "Arabia Saudita evacúa sede de Aramco tras nuevos ataques de los hutíes y se dispara el precio del petróleo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
-      "title": "Macron anuncia restricciones a manifestaciones en Francia",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLTI4NDQ3U2ZXNmZEeGFjU0JGZERWanBJeU03bktFRTQ0V0FpQXpCWk94RVRkRkpEMDVOMDNWNDUxNllwNWVsbS1MTkphRHd2U0h5allmX0lybGVxUzNlRGM1RnFnd2RDSmNtRU1fcUNVRWN0Y1NKa0xpVlpjTUFkOUt1RnV0Z25Ta1FsZUNJcUdEZDQy?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 12:31:08 GMT",
-      "description": "Macron anuncia restricciones a manifestaciones en Francia DW.com",
+      "title": "Alerta internacional por falla grave en el lenguaje de programación PHP que afecta a servidores",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamh4bk1JOHJEM1dja2I3X0ViR0dWWXQxbXRnTmhJQmZEa0UzQ2hTQVp4SHJXYlVweWpDeU9pWGpCMHQtQ0FCQWY4eUFkcWlTYlZ2aDI1aEpNZ3NENDh4LXBnRnFLV3pkbjhfSl9IbUMzSFlYOGJSUzlpM0NEWC1HaFVudFJxOGtYNG5rRmVXMEdmTGJwcTBXTGJKd0RwNUU2UmdqYUgtOHRpUdIBqgFBVV95cUxNS3VQb3pEb2NPQWwtQnoxc3BHM1g1Q3Vsb2hFREpCMVFvZkNkSlpaOElMam1HcWtZdldiRlhQUk5kNEZReURDUFJKaVNTRjl2Q2hqWnByMjBCY1VpS0RMb2FNeE5SWjRQYzJFTlJFLVVsc21SRldrRWdQaWVyYVg3NWhLUkVwRUJKZmNJWW11M3lrS3BtVXVMU3lKT1RtdmxfU0RiaWg3MlFUQQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 12:57:28 GMT",
+      "description": "Alerta internacional por falla grave en el lenguaje de programación PHP que afecta a servidores DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -253,15 +289,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Muere en Francia un hombre infectado por el virus shamonda en el primer caso conocido en un ser humano",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWU1YQkdYTlNZUWxSSmE0T0cyeURTR05BaXE2WHM3OHdtTjRaZWdtekRvNktlM3dFZ25zVjllWGViNlpwRWo4RXlOb2ZKZmk5LXJMQ3dpSWlXSTRlaHlSSkd4dXE0SDZwMzd2VzhJdXFTRFNwOUU3d0xXbnVTQjgxU1o2ZUNicmJ5REJ3UHNvbFAtY2lDZUk4dmNqMnp2ZUdqRWlkOGtfVEQyVXRycnpfTVBzRjNDN1RrdGNTQnh4c2J3YTRXT2tVemlDVXlpaDhxc0xnaC1udVItSnh2dHE00gHzAUFVX3lxTE1WcmZ3dUgzNFFPU1JleTdOOVJDSTMzVVU0aWxScGxtcUtORzJLSGFHcElJQkRsMDFjY25Fa01DZTlteVQ3Ti1wcXpjZThGLTR2c2ZfZGUwc2hWa0FEOFFienRaNkpOUWhXbEM4dXJJN09TYzg1OHNLU2xBTVJZX1JndkwzNWtmdTdlR2FpR3I1YjdqWGo4alVRdGcwRUlnLTB0a0xEYVhFaUFnd0lhMmw2bFRDUURvTU9ucDdxRk1IT0NVcjRBQ2RHWEF6S19iSk82NDk1N0ZMQlNXelRTRTRRYnU3X1BIWHBhenJMeG00MXo3OA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 10:50:32 GMT",
-      "description": "Muere en Francia un hombre infectado por el virus shamonda en el primer caso conocido en un ser humano EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Las 5 cosas que debes saber este 22 de octubre",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMXNpTFJCb3FIN2w5VWtEcnF1VkREUXZHOVpyVE1CbTVnN3dsVjFoLUpPYUQyOXpSM05TWFRyemhONUxTM29FdmJEQ3pRNld6VVBydWQ4QV9MUVljVmVJZWNZdV9aNUV0SUh0WVU5LWlhaGxJTmc?oc=5",
       "pubDate": "Thu, 22 Oct 2026 09:49:00 GMT",
@@ -278,15 +305,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Palmeiras vence en penales a Fluminense y clasifica a la final de la Copa Libertadores",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb09DU2VGbXR3bTV6bTU2TkRuTEN5SGdIU3ZYVEFQbndKZHR5a0s1RF9DNDdmOWk5OTRqU2ljY0pycU1WS1VFazhoVUdrZnJnY3JseTdPRU8zSlNJU0l1X1RRaVhLY1pfcXA3VzE4M0pOX0dVWWVhaUl2dW1JR3ZYdlVYLVFoQjUtaG9iVHNVRHRMZFFqN3Fwa3NOR0Z2WUNLZzJWdFNZdktzZHV3Y3o4REhCSTl5U25LZk1pTDlUa3JqN2FiSlJZNHZB?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 04:26:00 GMT",
-      "description": "Palmeiras vence en penales a Fluminense y clasifica a la final de la Copa Libertadores AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Milán, una ciudad rota por el lujo y la desigualdad",
@@ -307,15 +325,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Cinco claves de la crisis cibernética de PHP que encendió alarmas a nivel global",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOei12TFd3dFRWOE5YT3l2VlFrcTl0TjJGeFhFTmFZV050SmdlSmV0MG1LbjQxT0J3aGhSRXl0LWpqYWpLcnJqWlV6VS1odFlJaEtuanFSYnVhbXQycFdXOXo3b2RUUXFDVWpPZmhFWHU3cGR2THczckx6el82dUx6RlBuXzFrdVU3dTJ1VUx6ZkpKMlB4dnFHc1FURENxQ1ZLemZPM09GbEpfTW9TR3RvSmNtbEItdlhjcU9FTzk2T2hVWmwtaXdCSDJtSUl4YUFEVV9XWk9zZHA3dnh3UXFvUE5fbTJfWG8zQUE?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 22:17:00 GMT",
-      "description": "Cinco claves de la crisis cibernética de PHP que encendió alarmas a nivel global France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Verificación: Imágenes modificadas con IA muestran a manifestante en Francia con traje de la Pantera Rosa",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeG9MblZjSWpsRjgzZ1NqamwzZ3N0bmo2MHptNW5NYmZNQ1M5LVE0Y0tSUW16RnhPUDBuWHQ1alppckVpTjlJZTFNUDdPalloN2pyRnFxV2xHQ3h4QTVhRkoyZnhscjAyR2tnYXZ6dE80YWtWcWJBUmpsQ2pJRzh1ekpBdGRwX1Zn?oc=5",
       "pubDate": "Wed, 21 Oct 2026 19:31:56 GMT",
@@ -334,6 +343,24 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "Reguladores de EEUU dan luz verde a recompensas por stablecoins pese a advertencias de bancos",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVDhfaDEzWU9ubm1KMDJIMWJ3eGd0a0ItVGF4bnFFZ1U1a3ZxaGNUeG02SGFrRmpjWFBkOERHMHlnS25wSDdveG5Td2pTNEZXYjM5RHVScUI4emRPelhPUUI4My1yc21tS0FORTd3NWlWX1QxNnVMYjRsTnFiRFpoNUNkY29GWUxCWXNHQzQwOHB4RXZ1a0pDSA?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 17:14:00 GMT",
+      "description": "Reguladores de EEUU dan luz verde a recompensas por stablecoins pese a advertencias de bancos AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Una vulnerabilidad en un lenguaje de programación obliga a desconectar webs de todo el mundo",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkRBOEpXU1hkVmlDaE9JRUs0R1JkQnRqdjZ4b0pFeG5saGtMLVdheFo2b1VZampSRklQSXNxUllPa2FTNkN5Ynd6cWNBanNPMk1McHpjenJMcmM4aExLc054eklBLUJjenBMSGNXUlNtQzNVLWdNcFBiQ2JFLUxnSlB0OEJhdnVyWjFGSkV2RzEyYzY2UzNWZ1FEUjg2SDhqOUNkRENDdmNCS2lydUoyRG5CTXdzWDlPUmEzUzNfRGdXNDhjUVdWZ2xR0gHKAUFVX3lxTE1lWVRMckJEckFrZXdMc1BrZm9MZ3lpT09nOXFNLVFobTBsN2ZfRVhreE9DVFN2WFFiRGFXa2tmYlE0YXZZS0twYTB3RW1JbTlvTjBWQVZWTUQ2Y2xVcXhQZ2RIU08yMVcxVjlTR09wM2RVRjNOMG51bGw0XzRBWklGclRYaEpPT2dFZlVCZFQ2Q1NHa0xlVXF0NktqbDJscDk2UDdsVmZsNnNadDFVeFlhOTM0dlBHTEVwSzFKTnV0T1lTZFFrZlo4UkE?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 17:03:51 GMT",
+      "description": "Una vulnerabilidad en un lenguaje de programación obliga a desconectar webs de todo el mundo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Cuándo y cómo ver la lluvia de meteoros de las Oriónidas",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0lXZjlWR3JWQnpvTEY0NW9EWU5ybXhuUFdrM1RBNjlCOG1Od1lyZTFYTk5aMnZiM0YyNmIxNmdvYVE3UWI0UlV1UUtMVFJ0emM4Unk2dDB5ZkctdlJzdDhkakxjUDZGb0hVY05OclhTLXh0aWZWd21YRmJqa1NhYkZZSjgteWo0YXhyS0hDbmcyeWpX?oc=5",
       "pubDate": "Wed, 21 Oct 2026 16:29:08 GMT",
@@ -343,24 +370,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Un cura misionero ingresa durante años 80.000 euros a un peruano que le acusa de haber abusado de él cuando tenía 14 años",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMllLMThnd1ktd0tUOVNhaEMzaTQyTHZmUUNzU2ZBZE00ZkdSRGwxeTI0ZDhuZE9ZdDhNa1JjeEJwNDhjS3NBYklXemdrNGhDMGY2Z3VUQms3YjdYZlAxUWtGN2Z6Qjh2S2NXeXpPeGhXUi12OHpMNjlMNmVJMFdiMEdKWWJpWEhEQ24zMkZVcUdmNmcyUnZPc0M5dG1vUk1PT2hIMnRUTkcwUHE1dE9uUjZYaXZuS3VwN3lOcUczV1lobVVXb2EwWW9TWl95TFJPUUxmRjZlRjI5Ti1YQ3hjSnVzUjXSAfgBQVVfeXFMT25HX1A1MEhGaDBfQmtaMmtDRTFYelRxZFNibE5LdnhzVG9sbXF2ekhiWmRucE5YNE1OUWhlWFlhSVJQZUVvQ3liYlhCeU1YVlpJOXlvajYwc1hvdURIa19IVjI2MjJDVVRqdE9ZNlN5OTVWQzdkSy0wNFlOTXdGVnFfZUU1cDBFM3FETlVrSWptaE9FZWxFRC1sd3lLRU10ajdJbGdUZzRDbmlGR05vcGtYNktxekFZb3lOb0NMTHNMQWVmYzl0dURRQkx1Q1IxeWxZRTh1alh3SjRHRzNBYk1VSXE2VEJxaDRQZjJ0YnVpU3hXczZ5QzA?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 15:59:59 GMT",
-      "description": "Un cura misionero ingresa durante años 80.000 euros a un peruano que le acusa de haber abusado de él cuando tenía 14 años EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "El iPhone Duo es el teléfono más genial de Apple en años. Solo hay un problema",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2tiaEhCcloyZjNnOFNlcjZFZGdqeENzSTRBUUFNRmFTMFVZeXJOUUZON0xqeEpFYUw0Vk1fdHhtcmF5bFk2VXRyVE5NMWV3MzdmVzJpSVJZb29CekR3aERxYV9oT3AxQ0xoMDM2bWgyZWZuQmRxQXdxclI4R2tLM0p3?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 14:45:00 GMT",
-      "description": "El iPhone Duo es el teléfono más genial de Apple en años. Solo hay un problema CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Apple will have limited iPhone Duo units available in stores on Friday",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXZTMU9WWlI5RHdJWm9rSFN6SXF1Q2ZfRUxXM1Y4dzVwbUVzNjNxeFRjcUdnRUpJcXZMUnVweXYySjRBcldhTTNFTk1vR3lCOVBrU2RxMUltNUtvVklUb2tJVk5oUmhRWTdjYmhpYjlIazFpYlhkb0pGbVF6UTRqS19mWUVfVmh4UDRqb1pUVEFJaEhTdlF6YWd3UVZxZVBITlFJR2FLOGUweDhsd1hpTHhxeU5EbjJTTkNtazUwa0ZvbU0?oc=5",
       "pubDate": "Wed, 21 Oct 2026 14:03:00 GMT",
@@ -368,15 +377,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Dejaron todo en EE.UU. y se radicaron en América del Sur: ¿qué piensan de cara a las elecciones intermedias?",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUldKWGpRa0czWHZiaG5zWTRIVjh4MDVIckpuX3h5T1dYTTZIZkt3NnctUU40VFZQX3dHSndldnhjR054SzVLSUFoTnVQRWJpVWtUNkF5RWFHYk8xOExYR3hwemFSYXVLeXhEelhoZUZ1ZFd6TW9MV0Vya1o0YmZ4RDU5T1QtV2FEajdQanlEUFpBZw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 12:00:00 GMT",
-      "description": "Dejaron todo en EE.UU. y se radicaron en América del Sur: ¿qué piensan de cara a las elecciones intermedias? CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Protesta de camioneros deja estantes y surtidores vacíos en el sur de Italia",
@@ -415,10 +415,10 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Entre rumores infundados y fotografías oficiales: la incertidumbre sobre la salud de Kim Jong-un",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMVdxSURWMzYwZ0RRb1N0RGdGTjFidTJneTdpZ0dSZ1d3a1NzQ3RxQm1pSGFHd0ZOQVJZdXltdlJTQW1TVU1JVW0wVGtxVlJtel9NSTFsYkt6UzA2ejF5SjcyWk1BcXVFNEZQN1hvLWZfSUotUEdncS0tU18tSV9QY2lsWURWQmdLQmZwcjd0R01OX013Z29RRWMxWXdiS0FhclNHemtZZ0x6aEZSbFlZX0tuV0lOMzFUNTVVZkZfSExNcXRiV0tGMXZDYjczWkg0Z3ZyaGlqZ0RacnVLd1E?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 08:46:32 GMT",
-      "description": "Entre rumores infundados y fotografías oficiales: la incertidumbre sobre la salud de Kim Jong-un France 24",
+      "title": "Francia impone toques de queda en París y otras grandes ciudades \"hasta que sea necesario\"",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTVRJVFZxOVAyajYwT0V5YVV2YTlWM3RYNDNJTEZHTFdFRDRtNE9OekxqSElBWjBFYTVtLW9LdUU4UjBNd1FtS0ZkTE9hTW5XRmxFNnZlalJBYndhWFF5aXZDamtHd2tKckdRWGhfVzF2VUZ6b2dKMkxnMGZLQTFnU29sZkhxdzhDU3FzQ083X2RYUDM4Nkd2djlMM2dlWjUtQzNOaHhDMmJYdlIxWUY0OGU4bGdoZHZnLUFzOXc5dTc3am5FX0l3b1cxaEJucjZvc2VmeWN0WldPdXVoTEVESEhR?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 06:17:46 GMT",
+      "description": "Francia impone toques de queda en París y otras grandes ciudades \"hasta que sea necesario\" France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"

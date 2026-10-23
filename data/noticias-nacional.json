@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T02:13:12.209Z",
+  "updatedAt": "2026-10-23T08:00:25.124Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,6 +58,51 @@
   ],
   "items": [
     {
+      "title": "Trascendió",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEFVcEFacWVzNnh4N3JOX0JTcXl3Rkw2ZXJMR2kzUW1xQjcxa2JMd1RxV3haTjFwTXhBMzFYVEJqYTdWS0tCRDVUcVFPN3NkT0NBTF9uQTAtaTBkSmV6Mm01Y2RSVGprZ01ZallDdE1YeHZxaGFQWDNwRnY2YmVTQkVST1BqZ9IBhgFBVV95cUxNTnptMlFxcEpUWVd4enUyd2xLbWVOcDlObDFxaDlPZW5KbmlkT0hOMzFlTnFSQ3Njd0FHVmFONVh1emU0OERRQTZNTnA4emQxMHdtRTBvQVhRTjhQOVF2MVc1M2pUSHNqX2lUS0dsUC1LY2VpcjJDSm5UWmdSQXN5ZEVaUHZrUQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 07:18:48 GMT",
+      "description": "Trascendió Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Maru Campos niega pacto con Sheinbaum y dice que Ariadna Montiel está vinculada con el narco",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeFU3V1o5cVF5dFVhR05wY0d6OFBzR05vc055WEJyTlptbUZxR1V4dUJCVDFCT1ZqQU1ySHRsZnRNVlBnakdicnJvWWNMZVBMUkQ0TnNwUXFOd2tvOUpQQTViWE5XWGlPV0YtUmpvZUtZV1Y3QjFQQk13dDJrSGRyREdMN0Y1V19KMDhFRDl6NVVMOUs1Z3pWRGtDT1FlVlJWQVFCUERHcHRfOGQ5SkFIcFRhX2dwRk96ekhPa1BIVUw2blhBbnVlR0VKeFNDTDg?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 06:31:00 GMT",
+      "description": "Maru Campos niega pacto con Sheinbaum y dice que Ariadna Montiel está vinculada con el narco El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "El filme \"Nosotros\", de Joaquín Ruano, sobre el conservadurismo violento",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQkw1OC1Md2tSSmpCbml6dlNFX2JjcUdKMkw2b1hhVVBwQUJPTjN0VE1QM2QyZTNrUExyTUhqQ0x2ZVRnQ2VnekNOMTg5SEVHdm8zN2dPMHZiOWJPd1c5Z0VqTDlVZFVPWko0ajlRS3BqTGVGSmhtQXFSTGhXVkQ2QVZSYU5xTC1kR3N1YnJXdG8xQ1Z5enowd1lFNk9zeVlfRDcza1lUM2Y1Q1BIbGtOdEg1aUd2SHVQbFZRNU9CZjBIaFU5?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 03:32:48 GMT",
+      "description": "El filme \"Nosotros\", de Joaquín Ruano, sobre el conservadurismo violento Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Localizan narcolaboratorio de metanfetamina de “Los Chapitos” en Sinaloa; Marina inhabilita equipo y herramientas",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXlyMmQ3WFYzcFotT3lrTG82cFE3TTFvSXRKM1p5dlR4V0l2MmsyNnRaOXVCQ3ljc3g3Y1Jqbk5LWGY0Wmw5QWE2azB5UWhWMGZJa3dxT3JiYXhGaUJrcUstdmVwd0ZtY25fNmh0cmN2Zk9QZTd4MG00TngxcGpQZUQxQmVERXd1SFFrZ3hIaWF4RGpITDBjanMtbnVfeUxENkFnV1J3R05IOVllc2QzVngxZHRXNkdMbjNQLVNqbFd2dTFPS3dPczQ3Rlg?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 00:51:33 GMT",
+      "description": "Localizan narcolaboratorio de metanfetamina de “Los Chapitos” en Sinaloa; Marina inhabilita equipo y herramientas El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Corte ordena entrega directa de recursos públicos a pueblos indígenas y afromexicanos para infraestructura social",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNlhRVklzOEhjbE1nN3dhTG90WnBPZFE5MXZBdW5HLTZoWUxGRzhyTjhOVjI0d0k0Zk83ekRPdjN5cWN4dTYtNkRjQmhpcU1wVGgwV0djQjlsZjJ1VmxHSTNNbjhGTUMydGpVSm5HQnJxTXZOeGhqV2o1SGRZbXlaMjI1T1liZU9DU0N6eFdBMVVDT0p0U0pfemVoWFFFQU1PVElSN054OXhlTnRkQVN4bTNldU1OUWdBZDdvRXRUYWYxbzhRSXRqZmk4Y3JOUUE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 23:39:42 GMT",
+      "description": "Corte ordena entrega directa de recursos públicos a pueblos indígenas y afromexicanos para infraestructura social Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
       "title": "Atacan a balazos autobús con estudiantes en Escuinapa, Sinaloa",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcy1yT3RmR0R3akhKRC1sbEdoR29oM0Q2S3BtcUF3RTMwNXNDd2s1S1Ewdk1CZzhwY01vXzQtdHJ3X1FkVFdIZk1Hak1zYl80SlVMQ25rbkpUbkZGYm5sMjhfSlBKMnVYdmZhanllNm1hdUUwVTdxdlowTmN3SncwX2ZmRy1NVFcwVGdDa09yTWxuajlHRHN4aWZDckdXa3VFN1l1c0Y5Q0RXR2ItTk1QTHZ1a2tiWTNpaFJrSFpoZmdabndfVEJLMm5kenJBOU56bExYN3VPWmdqUGwtbDl4WmV3RjZxRlZ6QVhoWQ?oc=5",
       "pubDate": "Thu, 22 Oct 2026 23:35:00 GMT",
@@ -69,11 +114,20 @@
     {
       "title": "Atacan camión con alumnos en Sinaloa; hieren a chofer",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzBFNHZjREZqbUl0SExMVkptaHlCY2Q4a3RKV0U4WEl5X24zMUFoQTNEUmh0d3YzTTJxMW9KOW5pY2dyQWs0ckZLalJKZDdOcEZfX1NLY0V1QUxyT0J2blJUR05QRHpESUsyNXVQeVBYYWoxZHBWR0JtT1ZwX2haaXZrY0JBV2k3c2h2bnhjOA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:32:49 GMT",
+      "pubDate": "Thu, 22 Oct 2026 22:12:43 GMT",
       "description": "Atacan camión con alumnos en Sinaloa; hieren a chofer Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
+    },
+    {
+      "title": "Interpol confirma cancelación de ficha roja de Inés Gómez Mont y Álvarez Puga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY2tuYl9JN3BodV91TkwteUZ3NXU4NFpvckgtcGFBV19mYmJxZ3N3SEF0TDd2eURESVpGbHpnN0draXh1cEU1WXNwOXB1R0l2YnZFd18wOTNIeDJraWpzTUNLZFpZekl1Q1I3WVpIVUU2S3psQWxlTUtfckl1QzI0LVM0MndDbWdEY0tpMnlXSV9FcmlIRllsOTVHUU5JTHfSAZ8BQVVfeXFMT1NLYWtKdDZCWXd1aHRHUGVhWkhITzBQWXNibVFIdHROLTBJRHRQcWx4c2wzcTE3RTliM1ZlZjMycXhwdWhoV3BId3ZyWXpQRkFaeTRXUlFSVXNNUDAwQi11Uy1MZ2w4N2YwU2ZZSjZRNzhZeG9LMVNSYmZMUGQtaW5abzFIOWtLMmpHTVo4TVNsYlJ5cXF1bFI3ejIxWkk0?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 21:50:00 GMT",
+      "description": "Interpol confirma cancelación de ficha roja de Inés Gómez Mont y Álvarez Puga Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Caso Hernán Bermúdez Requena: Fiscalía de Tabasco concluye investigación",
@@ -92,6 +146,15 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Condenan a 37 años de prisión a mujer que robó a una recién nacida y la abandonó en una bolsa en Durango",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ0FBc1YtemJSSGIxYURTUXhpbGtKcG5XYjhsRi1wYkMwaElMNm53VU9mNFZrVzNBUUhkUFNjcExGb0JJTUI0RDRQVVB0U0k4M0YtM3BtTWJpV2pua0s4R21YVTM3ZDV4OUFOT0piUzZrSXBTTkdNcEQ1cjdZNWplQkl0RDBnYmRTLWRIR2w3dnI4RV9LbmRoVnBWcWV0eUNiazlKOFNhSks5ZzQtOWRMUlVZZHhGU0JWc0VtbFlhZzNlUWdrbkdZUklPc2FKYU9MTTI3dGpMWTN4UGZmUXMySmxCWlVScjNDMFlBWldpU29TM2VOcmlfLS1tdw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 19:39:50 GMT",
+      "description": "Condenan a 37 años de prisión a mujer que robó a una recién nacida y la abandonó en una bolsa en Durango Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "¿Dónde bailaba Claudia Sheinbaum antes de ser presidenta? La historia de ballet que sorprendió a Trump",
@@ -134,15 +197,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxORG9jUDZsRi00MjNhSXlwZ3U0djVncTdQckxjWFA0YzZFcTBwcl9raHZPTjBINWM4bUFUaHpLT0lwbUlQSlZRRXhqTFZqb2ROcWNDaVMxWXkzYTExU0NSeDNKMVQ3aUtiM2RpM2lkVXN3S2dzNER4ZUtjWTFrbXBNX1VtTVRCZjNCQ19zV3lTVjk4REoxZGNaeE1kckhVbUZRVGUtMms2UzhNc0VkcDdUSlp2LUJiZnpHTjNqVHQxdnEtb0RFNzl0T3pGQWc4el9iTFNLTlY1RV9ZbUZLNzZaMzJ4dzRzODA?oc=5",
       "pubDate": "Thu, 22 Oct 2026 18:00:00 GMT",
       "description": "Arranca audiencia de César Jáuregui para definir su vinculación a proceso; familiares y amigos exigen su libertad El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Sheinbaum admite que suavizar curvas del Tren Interoceánico llevará \"algunos años\"",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZlhjVWdCM2hFc04tcXNHTkxUa0ZVbkozckRFNXg3aTloUG9LSVJVVzgxd3pURTc3ODM1UndnY0xPU21rYVY4UGpsS2ZIalZqNGlRS3FXMGhsakxZZ3NGRUdJSC16WElHMlctdzgtclFndzZ6cnBPR0FvMFFCRVFvWUJZNW1KMXYzMklyQVVsUGFKZjRQLVRHTHBCbVh1blUtdFl3bDUwWjRqQUFtYWFnZ0hKWC0yeHFDdGxsN3UxUHB0VFFIR3NZS05wS2dlaG5qdFBjVU9MR24xTnBDZ2RHTF9pcGkwcGt6d19R0gH_AUFVX3lxTFAxek9sVDdFS1loV3JHMnVkMWIzVTRic3FISG1rcFVPaGpDdElnOEpwdmFVUWJGVUtjTWVMbkJVMEZzNTk3bG1BVGNwMkdrUVJ3b1ljVE5jMUxIcFItTmc1b1RZWmYyMGZTVTh3ZEFaV1VTSWZKWUxSQy1UTGdLV09kMnl2Q3Jpb2lHQjR4UWdJN0g0SjhBd0FITTVWaVZoaU1PN1BzLVpLRWtyanc1UVBaQmxkaTB3TENLUHN2dXpjNDN5eWQ1VU9oYnp3NVc0Y2YzS25CMXRGMTREQll1dkJpRkwxTzZxc1NDS0lFaFF6WWpSUmp6aXZGdDZ4NVJ4NA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:44:56 GMT",
-      "description": "Sheinbaum admite que suavizar curvas del Tren Interoceánico llevará \"algunos años\" El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
@@ -211,24 +265,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Sheinbaum afirma que no tiene información sobre gira de AMLO del próximo año",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWjN4b2dvYzFXbnhHUHJHNG1ybWE1eVA0N3ZkRktsajBpV0JObko4eFNTcGRSaW8wMlY3ZWgzVE9hWUE0ZVhkYTF3S3NDTFZjdUV3aG5pdFdXOEFSX2lzWnREdURYRUp0d0RlUC1hWEJkTkhzcTBSRTBUcktfWkdGd3I0dS1Fb09EUUV4aG9vQlkyWFgxQjU2TXRPQlNBWjhZR3dhelVsZGJUWndRX21YbkoydExWR3Z5cnljNUQyN3JVWENpdnB3aWlyaWdGa1dXTFhhLWE5TldRZkpQNnREY3hkTmd3S1NuTnl0OFc3TGx2bGswQWfSAYoCQVVfeXFMTWRTb0pGZml0NC1jcDFEZUE4ZmYySlQ2R21KR2FaNkUzT040b1g4SmRoRTRKVUp4aUI3OEJ2bUFIWENGVTJCNXh0NkVXTEJqdDYzUzRhQzVBbFVOTWNKVGRlYnBsTnIxWjZMTUZjU3Z2U0Qta29UTlZrNVJTdkQxLXBxeTdWT3JyOVIzbk1fVHRrOG5XR0h0Zkh0cDZILUdHdUptaTFJWlRyWGxReUs1b093ck9hNkNReW5sU2N1aVJfX3FkVGNjVXN4NUU1SXZsb1pTRk1nSnRjMkhzdXpqaGRDYjVtX3VpbHR4enJmTWc2V3lfOWt1eVNPX2daYlg4dnRKMDdiM3laR2c?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 15:12:04 GMT",
-      "description": "Sheinbaum afirma que no tiene información sobre gira de AMLO del próximo año El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Milei declara terroristas al Cártel de Sinaloa y La Nueva Familia Michoacana; refuerza alianza con EU",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbUFQNUJEcl9HcTNHUjlHVWR4dWlHanFVeHQwaHBYZ2VvTkVhdGxzeGY3bDJwa2VHWV93N2M2OTBnLWpKX3BGdVRMTzFiZFR2NlZkUHVlODhsWlpxWnVxXzUxLWd3WlZBbjM1UkpmNDBTMGNFYUU5Y2M0ckR0UjJ6amtXWnd4OG04U2dXS1VqRldic3EzTWZPRm1GZVdueWg5RHg1d3piRHVscElVWVBVNURNNmEtM1U2WmlYQWhjRHh3VTg0dWUtOHFmY2VKSHkxdkRjNWt4bjh4RnNyQV85ZjU2Nll1UHFINEpOVmJzS1g?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 15:06:00 GMT",
-      "description": "Milei declara terroristas al Cártel de Sinaloa y La Nueva Familia Michoacana; refuerza alianza con EU Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Tiene Taddei nexo con proveedor",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lY1YyWV9ZMF92SFZkQ01oMWNfVHUxLXJMSC1jTUtKTHZVdjhkU1IwbzZwR2s1Rm90M1NYR0dETXU1SUhnTll4enNpSGl1REtFYXNtTVBPVnhxWmRUYmpHTk9WekNrNHdKaHJMSkZ5bTN5T3M?oc=5",
       "pubDate": "Thu, 22 Oct 2026 14:37:52 GMT",
@@ -263,6 +299,15 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Acota IMSS Modalidad 40; ajusta pensiones",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjTEFqa2d5NWg3azlOSWRtUllqd3hCYzAyQ1VrbnZudG45ZFRmUnBraEtTanh6NnFNeXM0TmEyLUF2RGNuUnRUSFI5d05uRHBSOWtwcmdTSmZ0ZzZic3hudmF5R3NieFY3dGQzb0tIWXJHTXdnT29xZE1SUW03dE0?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 11:01:44 GMT",
+      "description": "Acota IMSS Modalidad 40; ajusta pensiones Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "“Sí hay que estar preocupados” por cambios en las pensiones del IMSS con la Modalidad 40: Colegio de Contadores",
@@ -301,19 +346,19 @@
       "domain": "excelsior.com.mx"
     },
     {
+      "title": "López, plagiador",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3FQcWpzaEZkRzFpekZlR3c1X0FmeVZiTk5jd0RfdHd6d3hRSWNHODdmblAwVzdNVnlscmpQWTJiUUJlN2Rnd0hlRnRTcUdEMW9aVzVSMzhaYTFlYjVLMWQxSlQzWnZRWDlrNmxFWXpaZWF4R0luQzMwMnBlQ09laNIBhgFBVV95cUxQU1ItZVFWS0NpU2lQSG92RE5fN3V6QmI2cFdMV1FkMGN4bUZ2OGdfUFFaX25UME8yeTc5dnNDbHdXRENLU1MtNnJKUk5mR25lSHUxRWdmU2Y3MEtpSkw4Q2VxRURTZFRlXzdwNWdTSGFCem5GSUs1MUo0bzlNTXJtbHVkNzVKZw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 08:00:00 GMT",
+      "description": "López, plagiador Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
       "title": "¿Alcanza con Claudia?",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanNDYWtJOXFfZ1RtLWhiZjE4bzhFYlk2MVBhSzFIQmg5VDJVclRpX0M0Y1p2OHRueVlvRXVBZTBGN0sxd2FhY3FfelZZdExjZnRkSVdiMU02VGlHWkJXZEYteVcwRHJ4UDdhWWxITzNQbDA2Q1ljTVVCNXhIaEEyV3FnRjlHTmZOUWpET0w5N0FFMVo30gGUAUFVX3lxTFB1bW00ZUZKcDF6ajlLdFNQVmRRczd0NWJsX3FTTnY2OGFFSF9EYU1VbTdRbDVOSnQwemFVN1RuZ1I4c085LUdZU2JCY0VvRzBpRlBmcEN3X2ZDaWZQQUhtMkZFd01rV00zQ0JrLUg2STNCNVJlaXpzSmFPYkU3Tk13NGJxcE82dWlXUnRfaVRCaTRwMjA?oc=5",
       "pubDate": "Thu, 22 Oct 2026 07:44:14 GMT",
       "description": "¿Alcanza con Claudia? Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Luz Elena González y Amigo LNG: ¿qué tanto es tantito?",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ3pmeTRUVElBaGJIR3lqV042aTE5OGU3bTltNGNjN0FFQjBOQkJ1ZkFBeUNfSGE1UmxNSzFuNEVBUzBlQkdYcGNFMGJfVE1jSjRHN09FMjdIZktZM3JmMXFwV1NJR2FVcWkwaVlTaVlkbVcyZ19fOVNoZGRQbXVORXFqM0RGMGticF9JeHhnSzBtWFFYUy1Fd09hONIBmwFBVV95cUxQYWl3Rjl3eXpwckg5WmtxYlhRRXhxRF9kc3RKVEVfdFo4aUNQbGZDcVVpM19QNVRJZ0dOWnhOcXZGTHhhWkprY2g4ZEg4NGFZZDNtQlotTDVyRWx5VFRRMzRLMzZmd0tna1VOajNyLVQ4MzlaWTRMLXpHLWIzeGZsS2k3QkVqd1RMZWN0alVfemQ4WEVmeXM1T3pJVQ?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:42:30 GMT",
-      "description": "Luz Elena González y Amigo LNG: ¿qué tanto es tantito? Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -344,24 +389,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "¿Y “traidor” también el héroe que murió?",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTElrblQ3NEY3Zk5leTdGSzNycEJUTzl5THRjRDNaRWlvMnlBS0wzT0lfYW92MjZuLS1od0w1eFdSRTBNRHlxcjFXT1A0ZmRUdDhRNFJQM2ZsSVVYdVg1eTVEQVFUTThhRDZVbmp2eldPWVlZSXlkLW5iWFBEeXVEVWJYY2ZRdlFHTjN0MG44a3hGWGMybzRfSGluWVR6YnZGNUHSAaIBQVVfeXFMUGs1MlBqQ2dPNDlhOFpzUUVZZUIzUkx1ZFlDUmM2STc1aWFZSEMtODJpdXI5RlVmZXVQYUE2OU1yd1NQVHhLSzJMSWp1cm1UQTV6b3JrLU9GNVBobW9vRkZBc1RRaUw3Y0YtOU1WUWxDTVhmVDhYNWVBZWhPWkdYSzZVb0pFX0NaSHpkMGFkYzNmWVRIQkFMdmk4MTRIUXN6TmRR?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:13:15 GMT",
-      "description": "¿Y “traidor” también el héroe que murió? Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Aceptan aumento, pero condicionado",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMmRuenFObG00S2JfRXFlWW1pUUYxNmticExIZVFJSWFRQ0lYc3lSVS1KZnpvX2tNT2YzQzA5cWNnY2dzN0tBOXZKVXBMTEpyMjFRQW5PYVVNV0wxYURGWVJGSzhQaXBVWDBhb2EwTlFqaWNMbEE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:03:24 GMT",
-      "description": "Aceptan aumento, pero condicionado Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "Aislados",
@@ -418,15 +445,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "IMSS le pone freno a la Modalidad 40; restringe las cotizaciones para alcanzar una pensión más alta y revisa si es viable mantenerla a futuro",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaS1tTXpvSktTRE9jcHdodi1zTWN3ZFVYSTQybkR1ek9QMkhMUE1WaG8yT0VNcHViTFdtSHpRUFZOb2ZaYlVUbXBRSTE2akJzSWFqZkNxV0h1alFvSVVqTkVUTnJNNUFFRzNFUmQyc3ZaVHpRMFNCcDVnckpvUVNuaDBzYWFCVkhmZjFsdXhRLTRVeEprZ3JjbWp3N0JldjQwOTRrNGFfZ0huQUhlZ25DaVFWWVF4LTlVRDRPOGV1eENHS2RYdHAtV1dlYkpuZ0QyN3lkTFl2RWxYTzlsZ1UtS19GcHJYcWdWelFCQkx3?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:11:00 GMT",
-      "description": "IMSS le pone freno a la Modalidad 40; restringe las cotizaciones para alcanzar una pensión más alta y revisa si es viable mantenerla a futuro Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "IMSS congela nuevas contrataciones de Modalidad 40 bajo las condiciones actuales",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQjB3VFV5Yzd1RGdZbTVIVmk5RjJFWmpsUVl0bDRMR1NadC1kX0xIeWRXX3hteDRmRjh5NVBQazBsQTNhd2xhY3kwOXhKeXY5SzN3SHpzMGlZc2J4eWd3d3RmeEltX2VVYVcweVJzNHR0NmJkWFppZDVXVkNBTTZtMVlxQXlLaVlneFR4WVQycENVT1VSb3FWN3JxQUJPcDltcGpBWWszYnFISkh0aVhUTVNnb3V3bUczODNuWnFWRmw2WDY2cUxNeWE3T0o4VHZZNUtrSF9KRdIB3AFBVV95cUxOZEF6NkxxMEw3NzdLSENpSmo0V3dmYlNsa0JwdXZ4a3g5azF1MHZsRktYN1h5NEJMOGs4elBjMnktMU92ZXJUdklUQXQtZmFOMXdPUFNqV1JmVlMwSnhZNmZXdzVCZllFV2h5WENvSVJmUnNzYXNJbmptYU1XSGhqNGJlLU1oZ1ZIY1ZMZlhBOGV1Z0VyYzZfeUZ2dk5oTTNBZkYwUEJSYUpxWFZPYjBocHJQMnJwTUFWU1poblJmZGs2TmpsQkdvN2RMeUswd3VXZVM3UFEzQ2pMMHU0?oc=5",
       "pubDate": "Wed, 21 Oct 2026 18:12:46 GMT",
@@ -445,22 +463,22 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Marchas y manifestaciones hoy 21 octubre en CDMX; será día de caos vial",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYjRCMm5XVkNWQV90R1QtbndJY3hfTDA4Q3dzU2NuUDNobVg0cUVIRHZtb2YtdEJ1TkZwOUNqcU80a0EtSzJoTGtLeC1mdm1hR3pneWtnNU0tY1dOOGV0aGgzb1RzaF9XNWY2TjlRLXRFTExCQW1tbG5FX3R1cDB5dS14UU9pS0RrRjNwSGhXQUR1RG0zb1pkLXNFc0FRZDBQNm9Bbmc4ajdEM0NQN3RB0gG0AUFVX3lxTE41clBtM2k5bTVzcVRYLWNYbzZycFdTc1hERnFJd0xaTGItR3dvWXRaM1E3RXFnamc0NVRsQU5SOWRoYzJWUnlZVWNMTTdfQjY2STNWcGptWTVNa3YzQ2NTbjJudWI5SV9wNzV1NFZQTGthWlF2OEVOaTRyQWh2NE5xTUtBLU1fRXRxRmpsLXdSaEEtQ3Fqa1NNd0E3c0F6bHN1TzQteUFteDF4TzdKa001UXRnVw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 13:49:04 GMT",
-      "description": "Marchas y manifestaciones hoy 21 octubre en CDMX; será día de caos vial Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Francia se mira en el espejo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMzJiVEEzV2MzYjNhMjhOaEl0MDllamNvQ2RsMlpmenhlNm5IOVpjUzB2Nk1RWU1PdF9vZGRuZmtDenFSSzdVZFZlWWJaZ0tjMHFaaDdFSEVrZG16QTh6YlY1NHV6ckw3Qko5a2hzUU9NeGctTnExTTNadnR4bDFJNFdDc2JoZG1vTUltbEtremF1QXVGSk9R?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 13:16:35 GMT",
-      "description": "Francia se mira en el espejo El Financiero",
+      "title": "El accidente y la soberanía",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnhSVl9CWGJjN2pQVXkwb1pvc0l2eUFDb2JpTDNPblJ1S010c21nZG50Z1R2SkQ3NGNjSGlzVXJtNXQwa1JkTzZ5SHlQNWdjSlY4YUZHMkxBMFQ1Sm9IVjk3ZXhRZUdyVk1XaDhOeC1yVWdQNmlXVUp3ZU9YNDhtVTlNR2hZWHNhek1paVlIbi1qbzdrTE1ETUtHZlM?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 13:33:11 GMT",
+      "description": "El accidente y la soberanía El Financiero",
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "\"Nadie queremos el tren aquí\": Productores de Purísima del Rincón se oponen a trazo del tren de pasajeros",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVl9YbUJjSUt4dFI2eWRoNm0ycndXbktDd0pGUXIwVEhSOUJOakxmSjBFcVB4SVRZUVE5b1NiLXB6SEZTeEZjYnpNWHEtZXZPQ0tmNXUzNHlQRU5kUENvekFqTnJJOV9GTG9YZTY1eC1jQ0lsd2JUSjFIQUtubER4UUxwTE9BTHhmTm1GdWhSMU5FOG1GbVJ5LVh5Y2Zla2PSAZ8BQVVfeXFMTmFZbU5HUWhzNWdNNHQ2QUlBVTFqV1Q0WHh4cHdCQUVYMU5EZFp6Q2dzdkZqVnpJLWswOUVBYlh3QTBnN0k0NmN2a3F5VXU2NDVrWjFkV0diVmtYdFdzNmhMTU04UE1tdmlTeC1uR3BfWVV1NWZiSzE3YUJDSzFLT1ZNdXdSQXY4cWhTNXhtc09PbGxuUmlDRl9fWGlOYlA4?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 13:14:00 GMT",
+      "description": "\"Nadie queremos el tren aquí\": Productores de Purísima del Rincón se oponen a trazo del tren de pasajeros Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Bloqueo de colectivos de búsqueda desquician la México-Toluca; suma 20 horas",
@@ -472,15 +490,6 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "¿Por qué 'Alito' sigue impune?",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSE1uTWFOLTVSS2ZiY09JUlFVSUNtWk5uczctWFJXT2NIbjI3eEd1T3BVNjhTQ1RNaGRZR0JhTXdrRW1tbEtLRFhtYUphOHBjWWhNc1k0SHQ1TEhRVF95enNBbkR4YVVoQU14cHduaDIwUVpHNGw2bzJydEpnbFg5RHRIR2s1cGhD0gGIAUFVX3lxTFBVWTlZZ05GOGlaQ1JLTFRETFlyT3VaSHUzYncyc0lmOUQ0UjBqaUU1VFNQTWFSV19CM19zdmVXTjFoNzBhdnVtM0RZMzVwT2VUbFBKSW05SmpnV3haZllqMGVLeDdZa2drM3JfMjJnaGFkQ3BkZlhXbWQwSThNcWZTU202WkdTNGs?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 07:12:35 GMT",
-      "description": "¿Por qué 'Alito' sigue impune? Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Caso Axe Ceremonia: Vinculan a proceso a tres empresas y a ocho personas",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVoyY3R0ZnVmazRyQW41enIxQjJMQVBGRzIwcjJ0UUVld241UkZENUZIdmJLQlZjbV9fb3dqaEkwR2NZazRTaFFCODV2cmxjZlUxVnlRWTFBVW9nSHBCRTdYVTAxck9qWVlQbGlVU2NHM1Q5Um5vMkpVMlRMR2ticVVjSXdFWGtjdUI1TXkzN0I0RWFWb1Rva05ab2lRcldUUVhzSTRkVDI4eFpNZnkzcG9UYkRIbWpNRTNkN0EwTkczV3llNGdhcjhVT1JCdUwz?oc=5",
       "pubDate": "Tue, 20 Oct 2026 23:07:00 GMT",
@@ -488,15 +497,6 @@
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Sheinbaum niega acuerdo político con Maru Campos por detención de exfiscal de Chihuahua",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSzI1V3ZVWGhZbjNXdVhISGpaQTBIdXY2cjAxd2ljbm5HSXphTzc0N2luMXMtQ2Fhdk8zRF92WUpxRnY0TUN6WTkxSVBPN2ZBMkRNRnpPVmZDX1BWdm9TbGtwOTgwV3hDRTJRMEUydC1DSEJXMzF3MVFrQWVTZUhaTWU4eHdHX21Wem82dHgtSnRiZUN6?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 15:25:13 GMT",
-      "description": "Sheinbaum niega acuerdo político con Maru Campos por detención de exfiscal de Chihuahua Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "Miedo, castigo y estigma: el fracaso de la política de drogas de AMLO",
@@ -535,11 +535,11 @@
       "domain": "animalpolitico.com"
     },
     {
-      "title": "La UNAM explica cómo superar el estrés postraumático por el sismo",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByUTBwYWJ0MzRVMll2QkVtdlFFeExRa2NoYVJldF9LdFRZUVB0VGlLckVlNE9YTzFpMDMtX2Y4RlM4cXpLZXFqazg2Nmd3T2VWN1RkTDFPZjdmMHMyM3FPeUhFTVN1VlBEUHpoNFpEd3RmS0R6?oc=5",
-      "pubDate": "Sat, 23 Sep 2017 07:00:00 GMT",
-      "description": "La UNAM explica cómo superar el estrés postraumático por el sismo Grupo Animal",
-      "source": "Grupo Animal",
+      "title": "NarcoData",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMFVsRFlsSjc5bEY5ckpLb195Vng5RTRYSlNjVzJPeEVzN0NJU1M2eUlOMXYwaGpZWlZVelE5N18tNlI4d3Z1Tlp3TFJwUQ?oc=5",
+      "pubDate": "Tue, 21 Jun 2016 14:58:07 GMT",
+      "description": "NarcoData NarcoData",
+      "source": "NarcoData",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     }
