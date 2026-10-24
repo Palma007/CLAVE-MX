@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T12:58:23.945Z",
+  "updatedAt": "2026-10-24T17:41:45.236Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,37 +58,109 @@
   ],
   "items": [
     {
-      "title": "Belice elimina requisito de pasaporte para viajeros del sureste mexicano",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZG5mc1FhTFFWcWZaRTI3V21oaUR1M0hacmN4RTdpNURTU2t0OGdSNS1icnNPSEN6cDNER1Y2ZWdvbmRMaVpWcW5hak5acFN0c2ZfUENFN1oycHAyTmxNWGVuQXFtaEFuYk91YUNWT2MxclVjVDYwdzFvTTc1c2Rsd2lWVktsbnNOSXRaeDhnZVBBc2VR?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 11:03:53 GMT",
-      "description": "Belice elimina requisito de pasaporte para viajeros del sureste mexicano Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "La Amazonía también elige entre Lula y Bolsonaro",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmQtM080cWFFT25mWjdDNlRpSnp1QW9TeVFZU2pzR1dRdGxLTmZaR3l0TEhwUGlqaTJ4MGZxOHhNdnRadTFQQXVIZUVObS1rNXlpTnFGZl9WTWJpX0gzVkJVenMxZ2k0SWxFTUlFX1Atb0VKSk1fRlpxNlNNRVBMLXZQQmF1ekI2LTdXQUw2WVlDOXNVb2lJWjNTRXY4NVRoaFBlbVdnLWZFNFR4dkhRQUl3?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 11:00:00 GMT",
-      "description": "La Amazonía también elige entre Lula y Bolsonaro Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Trascendió Monterrey",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTBhcVl1QzNCOGllUHg4VjlxUFZwM1RTQmR2UHFCOEZOT2hwX0J1bS1LaG41SC1lZWRQRXlqc09ORzBFb3pUN3RUdk1zOEZQVGM5enZCcnR0Q0pMOEc3amdiSzNINnFFZ29jUWJ6alN4TS1qMWVuSTV2SkFrY2lwSl85N0NnZl84aVpBNVRRY2lXUm1n0gGUAUFVX3lxTFBZNDl5czJoVTRxZ0kxUnM0R0NjWkNKazZKa0JmalNqem5QcHg4VzJrZGtTVzMzWVliU0lOUk1odlNCamVia3lkaG9zY2VVRldSQmFCVGVMYmlRM0JCYlpvS1RnSEs2WmtrQTRJMjJJVDhmeEVCZEVoYmpXWWtrdFRvZnl2cmY3M3lHX2VZM3VIZTBJSHQ?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 10:30:29 GMT",
-      "description": "Trascendió Monterrey Milenio",
+      "title": "Francia despliega 70 mil policías ante megamarcha de sindicatos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG1sWUpHdjAtMy1FSVBoTy1TNWc5Z1B5WkhrUk1Zb09KVkdNblR3VGtsSHBzWUxDZ3VYREE4ZjlYd2pOOW9qUS00d2Q2QVQyOXBJcWc0V2dORlYtT1M2ZjFxUW5xVXJfaGpROFVyZzhxdFhqU0JPdURvQkpYMVJpYXF2VjNBTTN4akVfVWY5N3dZT20yREVEX1RHb2I2OWRLX0E2N0VOa9IBpwFBVV95cUxNWEZBcHduX3Bhc3lJUmliTXRmNEowdk9XRHhyb3gxSXE2bnJ1SWZDY0xyQTc3cXpDaHVhd192Tm5jd0N6RnZGRWY5blI1SF82NEZtSS1JbnhuazJHbjFyblBNdmpCQUpVWENPYUtaX29tTmtDekg0Mlc3NVJkZnZTVFE5LTlZaU5BY0FjcWtrSm5vWFpSRVdUZ3lsQWZ1VlRnQjJzLUhnTQ?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 16:13:48 GMT",
+      "description": "Francia despliega 70 mil policías ante megamarcha de sindicatos Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
     {
-      "title": "La Tremenda Corte",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN3RPQW9KeURTWExaaVpoZzJ4alZXanBUeHp1OW1adkVNcmx5WXBMWGFLazlQMXNwdFhteDkteDJWNThfUDVxVFRnSUlDcEFNVDhCV0lvdXYtN3B6YnBiY0FQWVMweEwzQkVubFJtRmxmSWNScG92bzlDMzM5R0NyamprckRkbG94SVhOTnVVOTIzR1BXd0lr0gGXAUFVX3lxTE5MTnVmTC1jVGpWTlFrX0xxUmkySHBWekRsSzd3UUhQRGV5cm5VcHZ5TVpramQyUThlRlFNR01pdGFmVTBHZjRSM19QRWE2XzR0NThGNmxwdFJBWHlzUDh5VDZfR0NYVjRfOVBpeWwwWHhtUlZqTHhybVJ3UG9xbFozVkhWYW1vRFctdHl4X012a1NJNWM0U1U?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 10:12:43 GMT",
-      "description": "La Tremenda Corte Milenio",
+      "title": "Taddei responde a investigación de la ASF por irregularidades en el INE: ‘La transparencia se demuestra’",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVU4RmFqdHA5Q2tnZUNsYWNJR2ZjN3VIRmNhR1U0bzJVakZIMnFmYmV0cmpWdnh3aXo3cGlkZm5zX3kzaWpEWVRjakdCeFlwVEtXcGdUa0xOeExYYTdtenBRdjEtaW1kYkswQk8xdE80djNCd0RzRVk1MzNvNjgwX0o4cE1OZUh2M1VIZ2dyRVdRTEJQTFd3UnJkNTY0V19uZ29XQThyeU5DWUdqZWEtRlFyUUd4MUtoLTkxSnEyRDVadS1aTFVFREFQbklpeTE3RnNUYlNYcERmOF9ObTNTRmk4U2pEU3JzSmc?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 15:54:52 GMT",
+      "description": "Taddei responde a investigación de la ASF por irregularidades en el INE: ‘La transparencia se demuestra’ El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Líder norcoreano Kim Jong Un visita China para inaugurar un puente transfronterizo",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2VBNk9Va2loRUdCb3M0cC1OTUNjaW1yUHF5dV9pbDJTbV9GRWV2a21jRmhOWE1GMW5JUWdaZFFaNDRUUk5hQjFxeDNWU21mbWFwb1FQZkpsdnNJMHdNakY3cHNRcjBoMlZuc0pvZHA3NDI2RlBBWHgtNENOTXNJcFRZTXNTYzlBSjVEY1BuckJpX3VFYU9Ca1ZJUlRNSXJnNklQOWVHODNEUHBUWUNXVnpBMUNyQlhpWGJVY2dYUjR3R0tyajRzMFhHMVo5bTNYVDI3N3pQMjFEMmVjZmVj?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 14:15:05 GMT",
+      "description": "Líder norcoreano Kim Jong Un visita China para inaugurar un puente transfronterizo Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "¿Qué sabemos de Magic, la casa de cambio de una mujer que fue pareja de 2 líderes del Cártel de Sinaloa?",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaU9yTzJlQ2hYeEJqWDZTWlUxSVRDM19ENXlYUG9ERWRHcUM1SnlmNVFZWlVFZzNCTEJDT1lKeDBPVG9tUFI3RDVlbmZrcnZNMkNWNFVtOG05UTFNZmF6ODB4QVRad05QX29HZ19IQ2ZHY2ROUTFKcXBtLUtLZnBRbTFnTFNzRlpuT24tRnFZbXEwZmdTQ1lZeF94aXZvcHNkdy1vbElNNVlEZTZZWUh1Y2g4YVZuSkVURWJnVHlpQkdfOGJkZ0ZzbS04Sk1YMHViLXR2MU5vdDQ4OWg2OUNadi1JakpBbG1OYnc?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 13:00:00 GMT",
+      "description": "¿Qué sabemos de Magic, la casa de cambio de una mujer que fue pareja de 2 líderes del Cártel de Sinaloa? El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Los dineros de la Corte",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhTm1xZlp3bnhBX3ZKaUo5VjNlMlowWU8tcEFIcHhMbGdoclFJcWdacHZ6N19JeVRUWFgteDhRcVlQUHdYUndTRURNMU53aEtGTlpZbGlGVjJ2cE05NGhaSkJlU21TZm8tY1hKZ3B6bnVOcUpoNFE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 11:09:21 GMT",
+      "description": "Los dineros de la Corte Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Taddei debe irse",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fV1R2ZWtTV01LUVQzS1haTV9SenVRQTE3WTFVRlJFaHBqLVpHNG5uUWRuTTFORUstaVJIUGU4YmVKak9fQlRjeFlnYnB2S25zM2JlOGFCaUdKamZva0pfRXdOT0gydW5xUUdvYg?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 11:09:21 GMT",
+      "description": "Taddei debe irse Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Hallan a INE factureras, contratos simulados...",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX1BOQTVPdklRb2U1TGpqQlF3OTdzeng2c3VOMUtub011am04N0tnV1pVU1daRHBrVDZGdU1Ecm1SUFhWVEtsVE5sendPeVRraE4tbTRKNFhPZDRjRDZOVXpyUE02ZDN5ZkF6S09GUHF2WEphQUxfVld6UlVKV2RyLWNVTQ?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 11:09:21 GMT",
+      "description": "Hallan a INE factureras, contratos simulados... Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "En riesgo, amparos contra el decretazo del IMSS",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVzBjTUFrUk9qaFItenZBRld3YWJiZC1LUzZ6cEZ2T09OeElvN2VKdnllMF9ITjhCZ3lDSTRidjlRQ3lXSXFBQXN2dUJFcUkyWC1ueVRvWk9RVk9USkJ0RUlOLTA1THR2ZUF1a0VJc0daWF8zZUZqQkdyRU05VkVDcW02dFU5bFdGaEZ2ZF930gGiAUFVX3lxTE9ZYm9VZTVRRGN6bW9veTN4TWp2cGYtTnJ1bXVuMWZVOG1MMXZBU1lacTJJVWIzZHJyMFhSNjFVek9GclE2dUJoOHJpR3pWNF84ZDV3VXVZWUF5Y25pUl9uMEF3M0NaLVduUVRJOGxXc0hWdUZkTGdDMk1XNEdiZVdnR014WUpXdnl0ODZUT1lLcHYtYmlDdXN5U3c0bzJ4T2h3Zw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 09:33:00 GMT",
+      "description": "En riesgo, amparos contra el decretazo del IMSS El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Auditoría Superior destapa transas del clan Taddei en el INE",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSk02dVF6STJnd3loc2hDQndJN3ZBLXBtWVQ5TWVURVNaSjF2eGhFU2FRb20zR0o3bXlKVG1oZ3JhRzMyRHczUVBvV1FqTG1fNk1GbDlwc3FJemNIQ3Y0ZkE3UzY2c05HTXRTcHR2OUFFTVhkUlluS1hwUkJUT3JSQkJuWUFOcDZDMllubXBEX0VObVRwNDVROGJxRHh4VkpUalUwQjRKUWxlU2pxOUdHamxxSzQyMDFKNnhXMXJpM3d3ZndVMkdpa2xWNFFBaDJYYjBuSjJZSmQ3TkVKUXNOb01iaGpyZlRvc09oZW91R2UyQW5FTlhydjl30gGOAkFVX3lxTE9Pc2N2QmZOUjBuSlBNMVlXd3JfamFGSGdFd0lSZzdTX3NXcjNGUUVGejVQaEtmRFl1cnU2RlZRNmwtM240WGNXN29xckNmMTBCVTMyNTJFUzQ2S2oyMUYyaHZMcVRsYTY4Yl9PcnhSQzQwUUd3OGJmNzRCOFhGSjJoQXhlNTlEQnFHMEpXbFdFd2FPaXZDcXNuT0lTXzA4VFZiMExuVzl6cE5Ra21wb3lCT0pHM1VXc1gzelA4M3d2MUpHajEyLWdSTkliOVg3dzV5UFdSRndmOUt0NU9ac1Nqb0xLdXNXMmx6WmpRcGo1azA2MzlGaUQwTllIM25tZnBNTW54OG1id09yLTFtZw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 09:31:00 GMT",
+      "description": "Auditoría Superior destapa transas del clan Taddei en el INE El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Escala confrontación entre Sheinbaum y Maru",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlNWOXBiYTlVc1VSd1lPaXhhT1FZbzIyam0ycG9VdDE3eERWcUcySXEyby1LRFRXSzM4aGRPc2RmWXhwQ3ZoakM2S2w4Rnpib0RwVWc4eHdHVHZkNXRFRE9tc3lSSktkZzdpaU9BTkhKT3lRdFBxQXVnNExWWTcxdGcwREF0WTNlSms3eXFkd3F6RVRtWFptWVVNYUV0ZVM0Vk16Vmd6c2lxdmktX1VlZmx0eXZqZFnSAcsBQVVfeXFMT2Q2WUJYWkRfcUFaUi1KUjFZR3NuTTNvM25ObjZ5VHNiQ2RCcy1lVEpOSnBtMm5vSUliRWRTQVlNTUNLODNaNVdfbG1yd2xaeGN6bEtQaHI0MjhoallGVzltQmg3ZXI4X3duQlp3NmJYLUl3cDhOY2JIUHpCeW1DTGlWZHhTeHhUZE9Hdlg5M0NMc0NxdnZLWmh0MDZzOGpFQjc5MFZYZFJDSlBlSC1Udzh3VUhkTU9PNlJVVC1jdktpLVJYOFN6aUFqWlk?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 09:30:00 GMT",
+      "description": "Escala confrontación entre Sheinbaum y Maru El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Gracias, Pancho Garfias",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53ZHFKeTRyN1FXQWlFOHJXZjlOeWRwRGdVX1hMY1d1X1E5blB3aXBxVEN2VjJIRTF5LWk4YW0tWEVQRm9GVlFqeDFXWEpPbTkyTHg4MEd5MEZTaEhEMmE2bDFjVWVrYWFjZlotMzZVNTJEdDdKMmF5QTZnVlNiQdIBgwFBVV95cUxPb1hnMXlmeVYxUXVEN1AtZk5vSnJVX2NCV2xvMlY5a2Q4bW11aEc2UUlXWXJYbmMySUFZSTdIMWpKOGQydkZ0dmVLV1JnR1JJVG5ydjNJVUtJTVhUaF9tUUhmMDVTVjFoNHg1bVU3LTlpYk0wZDRkQTVyWnRGZGxxb2Z0Zw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 08:00:00 GMT",
+      "description": "Gracias, Pancho Garfias Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "La sombra de Guadalupe Taddei",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHZtbUlmQzVoMXI0UDg1NFphUHhYdzJkWHhyV004SHNRUWxRODlWOTFCUF9oT1ljR21QZnFIbWZHU2tYM0tsNXlHNzVOR0NHc2k5aWhOQXR6UHpIRHdqeEJHT2JyS0lTdUtIN0pvTElCT2dteWhNTm9IWGxhRUZ0czZzdFNFX0dsU2JQbDVxN21wazFhZWtGR01pbFfSAZwBQVVfeXFMUGxVT0J0NGxVZDUtUVNxbjAxZFotX0RESXhqbDI0MFpVeDFMUG4yVUREOW54X0V0VmplRmx5LXJQcW5XUHlUTTlZUk9XeG42M3BJcy1XX3F4cEdTVVRPLV9NemhZYlFwTXl5MENhOXh4RlpPblQzNTVYeHFQdW44VUx0UC13OS1lbWhwc2NPa29tTEY0RE1WVVJlbzJO?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:25:10 GMT",
+      "description": "La sombra de Guadalupe Taddei Milenio",
       "source": "Milenio",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -103,19 +175,28 @@
       "domain": "milenio.com"
     },
     {
-      "title": "Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWFN6dDh3REFKQ0hvMzJqTnZNX1d5LXRlNkRaVUk2dkRtMnluRGhQaVYwQU5FQ2FfSDFVYTMteG9yUkptek5YdkZkOUREaEhVTFh3Yy13TzZDZnR5SjdDNVlXS1pQWFJ5Vk9ibUxGQVVqdGduSTFqbkNVeGZ3RmREQVlvV3FzSDF1R0R5MTYtOXlNM2VKU2x2UFRKdF9FNEhUdXlsb2lrbC1kWHA5MngtdGJSUG5TQmFtcTZQUTV3d1hDdTlyeFNxbnh3cTR2M3BFZEZuNkFVUjJ3VFJkZTZjVDNzVHdBQk1aWWc0bE94OWhuTzdJam9CUk9yaw?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 04:56:00 GMT",
-      "description": "Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "Condena para la 4T: gobernar le será cada vez más difícil",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM3BERGZZdW5nQkVwQmFnMC1vQTN2aFprTkVjSEhjWkFEQWF6STNPb0pZdEd1YlVWYWNadGhLaFN5dkZ0WnF4cHpvTHBqVmRFXy1lRmNFZFA3X0R0aFRpb3lwWGxPUGFqd2ppSlh6YW8yTjR5NEZQSEpVUU5DeWVtWlQ2QTQyQUo1a1NzRnNxanpTdk81MHp5d3Joc2dieC1BT1lST2F5ak1lOTBESG1LTU5ZOTZYRzV2ZDJBT0wtbjYyUUl3aDNiNndaYi3SAcwBQVVfeXFMT3BsMm5uMHp4UHBGUVB1TnlFcmRTVmpQX2o1TDcyMXB2Y19PelRwVHRjM2FuSHI2QTdfcVEzVzlweG1wU2ZzUEJnb01nLW8ybkExMmhVOXVTVGl4QUg0U3c2R2V4WU05bnhrQVhLcmxMMnRCTUhadVdSOHJvRklGV1M2U2FNQmZrR05lWnB4cEhaOHVpR1lpWHpHZzJ2eTBSanpXdVNabzBjR19fMWRONHU5TmNFMVVoUUVDQVJmbWtENUdwWFllekRmMWZn?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:21:40 GMT",
+      "description": "Condena para la 4T: gobernar le será cada vez más difícil Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "Encontró ASF operación con factureras de proveedor del INE",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDE3aFVtSVdpRnpucTU5cnpUdDNPcVhuSUlJUUtZaUVkZG53a2hYVzdoemFjRzFlTFRJR0xpajRLX3g3NHphT3hTRUNOMDRqNlF5ZWQwQjBxdGcxOVlsa1l5Ujd6TTlaQUwtc19GSFMxYmxLekFNdURwalBienpKdWlBUU5iWnh2Q2xCblo1Mms1RkFvY0F3?oc=5",
       "pubDate": "Sat, 24 Oct 2026 02:07:52 GMT",
       "description": "Encontró ASF operación con factureras de proveedor del INE Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Las cartas nos favorecen, dice Trump sobre pacto con México",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY2QyMF9ZVjhOUUltQkJaWjlyYXNqMENwelBIdUFZT0hLRkhGNzNETkxranUxQUI2eG1xTmpzZGY0SWNnR3piQWh0ME15Xy0ycFNqbUZIdzhMWFpIaDM1ZkZzeG05aF85RDZEQkpIM1g4RUg2c0xNTzUteVB3YU1fVGktREFBVERyR09DN0xwbUMwSnlOb0lF?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 02:02:27 GMT",
+      "description": "Las cartas nos favorecen, dice Trump sobre pacto con México Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
@@ -130,13 +211,13 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "La 4T cierra filas en torno a Ariadna Montiel tras acusaciones de Maru Campos",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVNhN3Jrbmwtdm9UbVNveVRQZUI4V05ZNkMwZmFnWDlkaU5LTWFvTFczSEJyMVdFZjVuRFd6Y3VNVjN5bjdYd2M5Zm00WTZwcGRRaGo2dXdCSWU4a3BkN1h2bmZYV1JCY25QQTNDU3JaZmEtUUw1bW11MGo3dmlhMG1SaWpUZEh1RkZwa3ZrSktMSjVibGNqeEgxVWpzNGVMOUw2Y2FYcTh4eC13Y3g2RlNCLVVQaVFITFA5ZWJJOUNwVzNuTnB0VmNZaUV4WFRWSUE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 23:02:00 GMT",
-      "description": "La 4T cierra filas en torno a Ariadna Montiel tras acusaciones de Maru Campos Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Huracán Vance se fortalece a categoría 2; provocará lluvias en Guerrero y Michoacán",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWS1yZV9pbkVJZkNha0k0Umhta1ZHemtldGhuam5ZbXY2ZV9RUS1rUWtmU0xQZDY3NEVYaU9WdzJEeTc4SVZLcmc3aFZURHRnZjctbnU1N2FTb1VFbDBkcnlua2J1SWZpdXpzTjZ2WXI4eE9qVWx5VGxXMHhhcmxJcFFtTDlNenZiWEJYdnpDdks4dkJmdWppWHJNNTl6Y0xLVzJieG4tSnd2TVJMOUpnVFptRmhvQlV5a1BjaEw1VEE4bmZocFhFYVMxam4yd9IB0wFBVV95cUxQZzE5UF82N0dIbzRVOTRSQkJkNHJNNlpXMS16dUhsVlFndTBBRW5CXzhORXdXODVaSU1KXzRROXBwYnlQUVduQ0tWZ0U5clJseUJSQldUWWViNmc0M0lHdE83aHI0LTdDMm1oVWhVYko1VzR3UkNQRWx6a2FkQndGaWt3TXh6NHhVVjl3Z0VUbHA0UWFiLVJtdG1iNzJsX0xpR2xMdW0wWUl3SGZVRVNrQktaRXprblJVVTFWUENQSl9Ha2ZWdm9MQW9NaERiNXJFaFdJ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:44:51 GMT",
+      "description": "Huracán Vance se fortalece a categoría 2; provocará lluvias en Guerrero y Michoacán El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Auditoría Superior abre investigación contra el INE: ve indicios de posible corrupción en contratos",
@@ -175,42 +256,6 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Campos acusó a Fiscal de corrupto y casinero.- CSP",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHEtSTluQlczWmNhNkp1aldqcUQtWjRBcDVKbXhqOENzdnZaSDhBQjhMbDliSG44Z0VPdVlsNTFXUDhVUVJjLVBaOUk4cHo4cWdJWW1KdlRrUVdTekNIdUxvem85RDNGeTZDMXRFcWhPekZIN181RndXbGt0b0R6dEZKWlJJak9lcHc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 19:22:50 GMT",
-      "description": "Campos acusó a Fiscal de corrupto y casinero.- CSP Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Líder sindical del IMSS rechaza dejar cargo: ‘Fui electo por 6 años’, asegura Rafael Olivos",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2szbFBQcC00Y0hSa3ozQ1dQcG85cWdpUHVCSXFSR0JlcEZiSUN0b3RQYThzSnotR1N3TGg1QUQyZi1CSDJXSDNJY242Wk5XVk5JWURPTzBVbXFXOUVhWXdVbUI0cDJOOURNeWhnWmJkbkRfcmNJM0tmdFVkT0FNQUVjX0VWWEc4U2wxWS05Y1Qzb2NpWklwYjZUdEp2dkxQWDh0QjhISk1tQ05TNFJMeWczd0xmZHRkenlxSUVNdWxDUWUwRDdOQkJSaXlka1pVX01SMFUxWQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:34:27 GMT",
-      "description": "Líder sindical del IMSS rechaza dejar cargo: ‘Fui electo por 6 años’, asegura Rafael Olivos El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Bloquean ambos sentidos de la México-Cuernavaca",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1Nha21jOERVdVd5ZXUwYVNHdWhwOW44ajJkUjVuRUxEY0lSWlNnNUp5bTJ2Zm5WeGJnQ2QxbVRlQ1JuY1kwbVZ4TkcwTWtxNU1vUmRjSndvdmVzUm1ZWVVXMVdsSy15S2FDTGxhTndPbVhrZXBGcmlCaUJtblZjbnlicVFMQlJN?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:33:44 GMT",
-      "description": "Bloquean ambos sentidos de la México-Cuernavaca Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "\"No me pueden decir que yo lo acusé\": Maru Campos sobre Jáuregui; reunión con la Presidenta se está volviendo \"guerra de dimes y diretes\", dice",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNMTRSWWNTMjVNdHllcEw0OWpUOXZYMGQtZGgtZmc1WVJHc1RTekJyVU9Sak1fYnUtN3ViNFRLTDFuSlI3Z2xFd2pFcmRiTjhBNzd5Z1J5ZXNRQVl3YlVUQjVTRkdQXzh1UVpMdnZ5SUNieUhCYmhoalByWFhYbkduU3Qwd1F6WFJ1QnNoZHowWnB1SS1LRHhta0tYNm9PRXdhTEpxalhyMkU4NjhYN2gtZW54R0NHVTlOc1I4U0NuX21taWlzNWxUcl91emhnRFFGWUFBMGRqcE1VUGdYanJ2ejlrRnN5bkFGRHI5S21MWDN1bUw0Z1puM3drSkU3TjVldVk1TWln0gGaAkFVX3lxTE9PLS1seG9IVmU5Q2xGR0NSTmZqS2tDeWhjSU5mV0RISWtFaEJkTWk3MlJqNlZEaXMtakI1dVlpSThXWW9oUVZ3bWlraEpsa216ajMyTjBvZFJZejViYVkwVDh5WHhHdUFjTGpZSGVRMExOMC1kWHhTekl0SVlYdmRwTlhvTm5obDBzOU80ak5DWjhQWVhuMjNfM09PN1lCV1QwS21INXh6MHh3TDhtd1VkUnkzb0hycGR6ald0clBHc29iSUxPRjltUmpHS08yMjVqbGZkNGFFZ2lFdXdWLVFWVkk3SmN2Vlo3VUY1NEpHX1E1bmFDa2NodGVPeHU2NjM0NXdWTm96TExvREt2Y3diVTZueGtmcEdPUQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:14:10 GMT",
-      "description": "\"No me pueden decir que yo lo acusé\": Maru Campos sobre Jáuregui; reunión con la Presidenta se está volviendo \"guerra de dimes y diretes\", dice El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "Ariadna Montiel operó en la Sierra Tarahumara para sentar las bases de Morena",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORjhaTTlYM0VkWXdLcUdGLU9aNktKQm52UWpRSzR2Zm1MdGY4NmFJUENYa0pBQjBrV0R1WVpBV0ZJbEp4MlNId002YzdkLTJVcjNmdkRmTm96Z0VKUVB1cFdlR3EyQWRmelFRRGVjbGRwRFlBX1MzY3RjcDB2azNKM0ZwZk9nal8wT0cyMkFZVXc0eHR0V2l4ZnBtcUdXTWYwbFd3V3ozVXhpaW44Tkt4NmNkTlZadkJseTd1T1VsWWFvYlFVX1R2US1hUkU1WmFMckdVTg?oc=5",
       "pubDate": "Fri, 23 Oct 2026 17:13:59 GMT",
@@ -227,6 +272,15 @@
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Sheinbaum revela detalles de su reunión con Maru Campos: Fue tensa, hubo reclamos y levantamos la voz",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdHVzcUs5S2dJMm4tTm9ndjdkcXBnTlE2U01iVlM0dGtTZzJLcy1QQkxnQWk3V3diZ0E5eldmX3p6bkY0MDhnMHV6d3hSSG9FbkZMdEh2ckV5WVRpd25ldlpPVzRRS2JZMm1UcmZ3TUVrM0M2clNITHFyZjktYVl6Rldnc0IxMUE1aWszZ2VkYjNJS3haYnJnWl9QdkNTMFZrX3liUXBld2xzalp6bWVmTUh2eW5QdzU5cW95aEhnZS1ydXVTUzY0cncyS1R1alZvVlVFNFF5TGx0ejNHVHFuYjRhYkRaQ0FxNElmSmZoOA?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 16:54:32 GMT",
+      "description": "Sheinbaum revela detalles de su reunión con Maru Campos: Fue tensa, hubo reclamos y levantamos la voz Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "\"Cero privilegios\": Sheinbaum a senadores por solicitar sala VIP del AICM",
@@ -256,15 +310,6 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Percepción de inseguridad en México logra nivel más bajo en 13 años: Top 3 de las ciudades más seguras",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQam1VLUZmaDFvZXUxcFdGcThHbjFOd1dkVEpodnQ2TG9PWUZLUUZGU1gwM0t6WElVSXNVTEYtSUZ6cmNpZ1JTczVZVkU3aW1hSmpocTB2cnBtNjNMb0JzU05KbXRrNmRWWnYzRUZvUG9kSUY0NWdBaHhZbm9xaUZmWWdnT0QtOElIU0R6QjlTUUhlSUhwY0ItZ1NRT3lWalJMRDI4V00xdmFNUGM3Z3NzRGNvMXRNcXJ0VlZHUURDVU8zZGh6eDRuVmxMUk5PVlNmeldVeU5CVFhmTWQwY3hycGdMREtNcXRrZUE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:40:06 GMT",
-      "description": "Percepción de inseguridad en México logra nivel más bajo en 13 años: Top 3 de las ciudades más seguras El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
       "title": "Sheinbaum señala que hubo tensa conversación con Maru Campos",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXNmd0dXdm9VdXN2N0ZROGRZM0ExYlJSNGd2UzhfOGJnZS1WNWRZcklRamkySW12N2c1ZExNU3J0OThYV1NfNTlNNy1lUmt2aThJdXNJLUE3R2lmdjE2TWZVeGtrU3owd0ZyN3hLQVAyck1xd2M0Y011US1xLUwya01SdHNkY2hrcm1DU0xGckdnVVREMEc3a2kxanNBdDFTM0c1ckJmYVc2MnhzbUlRd2l4Y0gyczhaV25Z?oc=5",
       "pubDate": "Fri, 23 Oct 2026 13:37:00 GMT",
@@ -274,22 +319,13 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Cae responsable de ataque con coche bomba en Michoacán",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWpxRzRGLTl3bnNXMDR0OC1GenVabEJCd3lWbU5iemloc3RJaEpidVVHRUJzLWROcFRWN1pDWUctUW4wQjFHNnl4bTZ6c3dFQWhsUjZ4LVJDMEY3MGxjc25uX2pndkVWV3pHSGFCdWkyX2ZUN0E1VnhVbE1kYnpNUEIyRnM0c0VFQmVydVNRbjBPQQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 12:42:49 GMT",
-      "description": "Cae responsable de ataque con coche bomba en Michoacán Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Le congela UIF cuentas y huye petista del País",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZC15MEVOc2NOVW1BWjRHWkxvdXkwTTNxd1ZSM3JVWXVJQUUxNEpYM0JRQnhfMFNzQzBYQ2lJRmlBTTFYOUgtQkRnWFBGS1dENS14bk1QeGgwT0szVFNmajltN2NRci1wb202NEs2dXF4ek1kRkM4UG5LSWtRQVk2Z0syVGtTb1k?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 11:02:49 GMT",
-      "description": "Le congela UIF cuentas y huye petista del País Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Explicador: ¿Qué es la Modalidad 40 del IMSS y por qué cambiaron sus reglas?",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcURSYkhpUHJpSzlfaU5fOUVzNy1LcWY2U0NVY2lnRDh2QWxnYVAtZ3VhTkpKMHduSW96SjFnaG1UajZhMVRROFRGaVJPYVBJSjRQbG55UHVUSDBFT3VaN3RDOF83cVM5Y0dZRW5JVGpqZFhCSzNUSXRSbnl5cnlmVFhIbEl2NUNTT2JJVGl2V2hOb1hKeVZ6emFwY1NnMmdnNl9JTUczVGthMThzNFhpatIBtgFBVV95cUxOMlVLc2dBVHVaMUZUYW5qNXNOMFpGM09qRkRnT0VCdlQ2SkFVMkpjaWtIcDBSVW0tR0VrMFdkeXVGMkhEc1RoNTRtWm1MMEZnVG95dEVhMG1odVExX1E4R1J3ZjlyTFZwM1RmOGRmVGhkQjQ2MVRRcjF5ZUQzSFZISWk5QXJYa2VTWHJRR0g3aU1Ga2xqQlFDb3NjdUM0TDFxRHYxb3pVNE5BcDNfQTZ1UGl1RHRoQQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 13:21:26 GMT",
+      "description": "Explicador: ¿Qué es la Modalidad 40 del IMSS y por qué cambiaron sus reglas? El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Libro revela que Elba Esther pactó su libertad con AMLO a cambio de dejar el control del SNTE",
@@ -310,15 +346,6 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "No les acomoda la canija austeridad",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUw1bnF6SFBOeUI2Z2h6YTEydEdhZ3U2WjlrUm9ma29HSHFKcHNtbThqRXp4czlpMjdpWmJTMmcyN1YyUTdpN2tIYXdBWlM2dXJ6ajlDVDlUZC1iSlRSN1p0QzBibnpXMl8xMmpLRGRjd0dWekdjZldhVkhhdVFMV0dQQ2FrLTBidG5jcE44X0FMNHpqV0xsN19zOTk4cEM30gGgAUFVX3lxTFBIRTA2QjRYZU5ZN3ZMbnljYzRkckNXYUtfelR2ZTc0S2lLWTNhbDIyVzFJdmlMbEJMekdhZm13QjROb1kxTnhkSzR1NUI3WnFVamNDMVdxQWlKRXIxODJSSlE5eWFoNWZSTlVROGx6Tkpfd2xLZDJmQWxJaDVCajJzUmxSVnlPVDJXRkc3TkVQR2NHVWlxMzhNc1BseXBQbTE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 07:32:34 GMT",
-      "description": "No les acomoda la canija austeridad Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Los nuevos ricos de la 4T",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSDE5eVVBcHVWcHFRcWpVV2lkbXdCR1B5bkpaT1FMQ05mTjc0LW9IRC0xM1EzSWlJTWQwRTFDaVZQU3B5eWtyUXhJQ25tUTZacEdMOERQYUxsVkxSclFnandpM2RzTV9ieUd5aGhzWHJDZlF6WGFHQjlLOWRmeTd6cndPSHF4TjNSX1ZwMVpmbHV5bzDSAZMBQVVfeXFMUEQybzRQeEh5MVR3Z1h4UG9YQUZ4bDVUNzc3MXItTVpScEt3djdqbnJNRmlEd0U5VWwyUkxFM2l4cjZBS1h4T3NaNVhVWGZkaEsxbGZoTzBaTnhLUUtBbTJZajBGOW5aeWl4TTJJMlZnLW9TQjh6TnFnYVRfVjkwTmk2ZVlYVDNGeGFtSGZ6MFg5b2U0?oc=5",
       "pubDate": "Fri, 23 Oct 2026 07:11:48 GMT",
@@ -328,6 +355,24 @@
       "domain": "milenio.com"
     },
     {
+      "title": "Hay 798,000 pensiones asociadas a la Modalidad 40; cuestan 246,000 millones de pesos al año",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMXZFNHh3QjgzS0VhVWM0NWlqbTFqM0dNX3NuYWRoYkItLUt5U01HQUljRHp3NWY1MTRTa3kxM0p1NnAzWndzNmN4Vi1xblpxQjZXUk9YN1VURG40dGJBZXlXWkdseW13RDEyaDhISGJJbUJBcjhtNWNwZlZmbFVvamh4UzR1dTZaRlpheGpyUDU0Uy1VdVIxVHV6WTRTTmpRaEt6dFlQalViQVJxaWdyd2tqYWo5SkV3MXNkSi1KdlJScFVrN3BteTJQU3MtM09uYUo2eUY5Nm9tUlYxQlh3bVhqTdIB6AFBVV95cUxPbkd4X0FyT3E1OGc2bldIMXhsWjlSd0xnMngxaFQyRjU0X1c4R2t4QkUySU1xNlFfNndkak1uYU1tcXhNTmN5My1oZWxpZFJKcXYzeEhBalkzX2czc2xUTnBoWldxZEFpdkdFeFFOZFBtUE0xYXYzSnF5SzdjUkpWWk8xRGlyTkQtc293dWM5bTJWMjR6SzRuc3g0cEdhUzNUOEYxWUM1TFo0LU9lb29zTVZvekw1TG5henRLZml5QnJqOE1PTTNyS2lFSktEd255VmJLNjg5S2JORVJxMGhpMldLZ3NXdUNr?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 05:19:51 GMT",
+      "description": "Hay 798,000 pensiones asociadas a la Modalidad 40; cuestan 246,000 millones de pesos al año El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Miles marchan en Venezuela para pedir el regreso de María Corina Machado y elecciones presidenciales",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUlhmSURTLVlrV0pzU2ZNZlliVi00VXdZVUFTdnRWdF9BZUxCWW4xZ0piMVM3T1dtM0hJSWFMbDNmUmRBNUEtd3BncnJUMF82cVYyMGpJR05QZGVVTjU4ckMwaUJiLXRneUxjdGVXOVVXenNEdFh2YV9tRXZfdmRacnBWcWZQZmh0Z3RGNVMydEZCV0R6UGJHeVFGV0d0QnVWTmtsdzhvQWh6RXA4Uk9kbTNPNzZWYmNGemtMSGhQWWlZXzM0RjFubkZwUU93MngzTHR3SEFiVUFQdU9GT0tyczFHT1RueWxr0gHuAUFVX3lxTE5vcmdlLVBDbFduakxaaHNNWHIzWUZZNmdCeXhTdFc2N3hFYnFzNE5UV21IcUlqRmRqUXVYVUtkY3U2RU5kcFRkeW5sLW9MV0VSTDVNTmhiWHQ5Ujk2UmhJTHFLY3RrTFNWcEVaQm1VQ1V4Q2VxYi1zVTNJRS13N0M0VkVRSkx4N044czhVUWJlcFhaMnJzUTNYd1VTdUVuUjdsa2llLU9QTGs3LTdhSk5wS2ZGTFdMQWlUdkhIcHdLaU1qb2VRbzRXRVpEWmFQV2YxdnJuOGh5Z05yeWd2cGdqeUN4WW1LdGZQWnJvcVE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 01:45:13 GMT",
+      "description": "Miles marchan en Venezuela para pedir el regreso de María Corina Machado y elecciones presidenciales El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
       "title": "Corte ordena entrega directa de recursos públicos a pueblos indígenas y afromexicanos para infraestructura social",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNlhRVklzOEhjbE1nN3dhTG90WnBPZFE5MXZBdW5HLTZoWUxGRzhyTjhOVjI0d0k0Zk83ekRPdjN5cWN4dTYtNkRjQmhpcU1wVGgwV0djQjlsZjJ1VmxHSTNNbjhGTUMydGpVSm5HQnJxTXZOeGhqV2o1SGRZbXlaMjI1T1liZU9DU0N6eFdBMVVDT0p0U0pfemVoWFFFQU1PVElSN054OXhlTnRkQVN4bTNldU1OUWdBZDdvRXRUYWYxbzhRSXRqZmk4Y3JOUUE?oc=5",
       "pubDate": "Thu, 22 Oct 2026 23:39:42 GMT",
@@ -335,15 +380,6 @@
       "source": "Grupo Animal",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
-    },
-    {
-      "title": "El Senado revisa los cambios a la Modalidad 40; citan a Zoé Robledo a comparecer",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3dmVlR2ZmE0SF9hdGZwSDBFWjR5NVo5eEtTRkxxbi1oTUx5bzVyVjM3Wk5WdXotd1dTVEhrT29CZ0d4QjBiNXlkUnZYVjUxXzJ6YjdFeGlzZzE2R1ptOVh6QXRyVE4xWFpsdXJwTnZBU3lTVmY1cnptRm1EOEUycnBJTHF2bEJtaHNaTno5VTl1dF8xcXpHSW9ydnZ2RjM4emJ6LXpLZF9LUm1lS0p4dFY5UThRakhqR1J2M1pId0MwUlJ2ckNzRHIyY3JSd9IB0wFBVV95cUxNM3dYcW83UXNZd1JERnZueTJlZ01JRDAtQzFrUzc3NHdHcC1OWldFZU9hTWExdTVGVGJDc2wzNGN0dUlLYXRGV0ZaS2pKdXFKNERpVGk4bjFZN0NWTndpelczZ0lmeEpCUlZjdTEwQlo2YTE3bmhwck1UUFJhVzF4Rnh2WE00cjdLV2hhd0xObWdObzdWWVhzT3pqekF3TVhXMk1KRkpYd1llQ0dLalNHR2l6ajREa0k3VVJQR0I5Y2FRSFY5MEhnRTVQR09TQUY3ZTNF?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:23:32 GMT",
-      "description": "El Senado revisa los cambios a la Modalidad 40; citan a Zoé Robledo a comparecer El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Interpol confirma cancelación de ficha roja de Inés Gómez Mont y Álvarez Puga; existía desde 2021",
@@ -400,15 +436,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Reportan ataque a balazos a autobús con estudiantes en Escuinapa, Sinaloa; chofer resulta herido",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkU1REk5dTF2UHpBVlNtVndGbXNpZ2U4dUpaQl9oTjdnYy1nMHFuYlptXzVrYm81M1dZNVBSUmZFREJ0WUc1cUVDWlltM3JIYzBJXzUxX1RIYTVNVmdqV1doQWJnblY3clJlWXFpdlRpeGQycDBkem0wMEc5ckRadU94RmtfNjd1QXhUa1pKNVNfbnYwRkI3WnZhdVRnbDhRQm43WGRwZk8yZ09hZUtzM1lzTGZITGhxeFRkSU81RFRMaDjSAcgBQVVfeXFMTUVnUktTdGdHS1RkVjlBOVN0RmJ6M1MydF9ZQjIzX2swUUt4dks2X3ZVZURlMkdLdS1IZ1NPdGtlNFZVT05pVzM2MDJTaUNxSU5RV2lTdHV5YndsMjdMQmVNQ2NqdW5NNTJWZ19CMjV0dFRZaXRSbllJQlYzR2RBV2k2aTN1OWZUZ2VzOE9qbVg0ZGZ3OTdaNDZER0txQ1FLcmgtbEowUzdZWGFjaHRmQjlBeTJqTjBIeXN5ZFQxOGQ5VVVtZ2hGcEc?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 17:25:31 GMT",
-      "description": "Reportan ataque a balazos a autobús con estudiantes en Escuinapa, Sinaloa; chofer resulta herido Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
       "title": "Sheinbaum llama 'oportunismo político' a presencia de Jorge Romero en protesta del IMSS",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUFVVEZBQmNIOXE1WGIzc1RqTWN2ZmI4bVpHRnk3RHhvRFVoTXR3bVpLSDZ3bFdJRWhpc1F4NURPbzk0Q01mNmtZR3RwcDVNYXcwNzJtY2tQYV9tdDZsdEFtZmtDVWlfUFhoZUdUeDNqSG50VjRZN20wS1FaZ2dVSlBCSVo3eGVwVnRDNFEwRjJ5VHdid0pCS0NTVXNNNldmaGFWWGZWQnZoaS1FVXczSVZmWU16ZTUxSjc3S0szczNEYWFPcG1r?oc=5",
       "pubDate": "Thu, 22 Oct 2026 17:13:00 GMT",
@@ -443,42 +470,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "El conflicto es generacional",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1kwLU5SNWo0TWctS1FUNWFKN1FPTTZqUFo2aWd1QnhCNi0xY2NKdVdxNnJtRWltSzlhT0sySWFDTmxxS1FyT1pFYWxONTJEbE5kMENJRXhQdmZFdlJRb3VQbGpLcVNHcHNhd3BVdVFNYjZ0ZVFqYlRCZjlGUGROc2pJQnFwSm1tMkFZ0gGQAUFVX3lxTE9SenBzNmwycHpGN094WkpBUVVLbTNnNndWbUNoa3BhNGY2UzFKWFRQdkRrRGpEb25KYWVvM0ZhTXJLZUdadTBVbTBjRjFKU2JKcENnbGxrczI2NWNsT0ZsSDNUWGVvR1FCNFZUSUVHZzlwRXZoNFJYVzZXWGpTUF9UMG5VdktSbEJlLS1mYzV6Rw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:17:04 GMT",
-      "description": "El conflicto es generacional El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Aislados",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCaTJIbHBZeHc2dnp1MmhaTkpkWlE5ekdZb3RYTUt5S1A1QjJNck84Vm92cEJyVGd0U1B2R010MURVTjdEMklIaVZwZXp4cTRQUFMxTFdCYnJVR3ItX3ctOTZoaHQ1ZTdrWFB0THBDSjlhSzNjdC05MNIBfkFVX3lxTE1uTlFndVppU3gwR29JdGJEZS1TUmpQQVBrdzhPbUVSQWptemJ4U25OSk84S1NhRy05TlExbEZKYWtpZTJZMFRhc0hmd1FpbUp0eUstV19lNDczNWVBV0Z1enFkUndaM3R4by1UdWZVRFpLN1JIWmV0cnBfZlhSZw?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 06:53:52 GMT",
-      "description": "Aislados El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Trabajadores del IMSS anuncian bloqueos intermitentes este 22 de octubre; conoce dónde y a qué hora",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS28zU0s4OFctWDlPbXJSVWV5Vm0wZkNBODZ2dWM3RXQ1T3VFQWczOE5aWTBmVldlQzN6ZnF6Q2l4OU5yTWlKeTFzOVJKTm5UQzA4YTVkSGk4cmtkTk1tY0x2cmVYck1ZUHo2U2V3SXNVYi1GZkFYMVJvZHBWbFdzeThKTUcwc0plMDk2MDlrRXM2SXhRR0E0NlJsWi1LSTdtQW8tTC1mNHljVXBCMGE4T3Nnemp2WW5WY0lTeWVIaE1lWWtVUUZMOTVJanhjVzVoZUc00gHnAUFVX3lxTE1pNFdPemtWSE5WaFlfN0FOUDdjSnpzLVI3dGtqTkoyYzU3S3gtU3NmTjQ0dThxSDJXOFRYY1V2czduTWk2NWZiS3BSNm1hSG1wejR5YWlGRlYzWEoxdEduUkhjZERJYUJSQ0Jtc1hUYkZ6dUMwQVRnSks3bzFrMmtDeGY1SXFEakQtSGdCNVRRT2txQi14QVJpeFVZRG5TUDVyd0tHT2NMMUFwcGRqZnMyUWJjN1JCOUJ1dGpwbUNFZEhSd09IWEtvemY5QVBKT2ItUTRkeXVRQkxhOUJsU09pMTg4TEdBOA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 02:06:00 GMT",
-      "description": "Trabajadores del IMSS anuncian bloqueos intermitentes este 22 de octubre; conoce dónde y a qué hora El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Advierten que cambios a Modalidad 40 violan la Ley del IMSS; el instituto defiende la actualización",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQkNSWGFrN3RkUW5scFdnY3Vvem1mQkNrMks2eURQc1dTb05DUW5lQU5jMDFWdGluLV8yVHQtVlB3NkNfbFZzb3RjNV9oOUJrT1J3RXRvT21EQzJsSkFyTG1lNGJ1V2dQU3lVU3pvZ1NiS3lFX1UzeVJ4Tk1oc0FGdGFaRHhWOFd1NHM3blpkeG13THRaSS1qS2lYaFZDRUM1OWo5S2E4Ri0zVEZaTXlQU3lXRC03UXMxU1BWVFIzTDc5SUU3SDZzdWNSNUpDcjNleTZCcGUtM3fSAd4BQVVfeXFMTzZOY3MtWU05SkpSNFNKZ2lwUm10bmNqb01qMG9sRDkwWk9iUWgzdlV1N0FYNWhNRDZIQXB4STVTWWI0dkdtcEpTTTZIXzJWVkJPcDFEc3A3RmstTGEwOGVQWm8xQ2xldDBvVFJlODdGdG5aNDJkWjROSmRWd2REdEJzTkdmTXBDdlg4Tm1lZEVTUnkyWmdoZ1ZFWGRZVEF2bzVZN2VWX3NWcm1NNmVlTXJqUlBBVnhwVVhYYnhreElMUXpUS2ROSkoxcTUwYVc3SG9ReEhKY1dWVWRhLWxB?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 23:32:43 GMT",
-      "description": "Advierten que cambios a Modalidad 40 violan la Ley del IMSS; el instituto defiende la actualización El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
     },
     {
       "title": "¿Adiós al efectivo en México? 7 claves de la nueva Ley de Economía Digital",
@@ -540,6 +531,15 @@
       "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
       "description": "Hidalgo prohíbe a establecimientos utilizar bolsas de plástico, popotes y unicel Grupo Animal",
       "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "NarcoData",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMFVsRFlsSjc5bEY5ckpLb195Vng5RTRYSlNjVzJPeEVzN0NJU1M2eUlOMXYwaGpZWlZVelE5N18tNlI4d3Z1Tlp3TFJwUQ?oc=5",
+      "pubDate": "Tue, 21 Jun 2016 14:58:07 GMT",
+      "description": "NarcoData NarcoData",
+      "source": "NarcoData",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     }
