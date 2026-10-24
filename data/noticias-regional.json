@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T17:41:50.502Z",
+  "updatedAt": "2026-10-24T19:53:59.402Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,6 +76,16 @@
   ],
   "items": [
     {
+      "title": "Incendio en inmueble del centro de Tehuacán moviliza a cuerpos de emergencia",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbHVobXFfT0VqZHdyUTFHYjJnU0YzQWFRU1Yzcy1UTElCUGYta1JNRC1hMGlCdHdIdW43cUdBdlhlVGQ2THZ5VkU3S1otTFp3YS10d2xHT3A2ejhhT243aWROX0xUOHZ6M1A3dXcyWHZKRTlFUThFd1pqdEFYS0dnbFJVWWFEZ0lJa1hlWmdqTWtIa3hyMG5qT0N5SlA3dnVUZzk1ekduT3FCWEsxLTNWQ0FfcW10Nk0?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 17:36:00 GMT",
+      "description": "Incendio en inmueble del centro de Tehuacán moviliza a cuerpos de emergencia Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
       "title": "Advierten por extorsiones que podrían estar ligadas a préstamos digitales en Tehuacán",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT2ZyZnNQbjl3UHdtSUFkWHJkcHB4azMxN3hmWGFKZ3ZOdUs4Nk9YVHBYSTlIdzQ3eWdEVjU2SFhlZk1kMW0tVXVpTnVXVEx2LW5YVXg1b0VNcGN5UnRNNE8yM2U0M0V3NlBxZFlmYUJlMkk3MG9JVXdiaEVwSEFhN0lNZ2hQa3ZLeGtvemctY0JQLTdLRGdXdGdPRWFobDVhZGFIS2RCX1ZWTkJfRWpMNnhqYmMtN0tVeGNKQ1BYQTRtWkk?oc=5",
       "pubDate": "Sat, 24 Oct 2026 12:57:00 GMT",
@@ -84,16 +94,6 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
-    },
-    {
-      "title": "Contempla y disfruta el Corredor de Ofrendas 2026: estas son las ubicaciones de los altares",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcW1lTjIta1JVQTJ4dnI0cmw3TGRjWU1JR3NuWjNHR0pEeFlEU1M3LXA3aTZuQjl0c1lYU0R0SXVFNm9kYWV5ZEwyanFZVTdGUEI3b1JPbEVtX2xUWWJWTHd1RlFHc0tSV2l1b19ES0JZR3VsRUJnSjZ2dUZveDIwQVIxNkVKY2dfUnR6UjFQUVB5UGFoMzFpY2tFT0o4eFZyelRVeGJQd04wRy1zTElPMVo1TXdZRGdfMFZjUVhYaHJlQzB1TXdoRFNHT0ZHOThuTVRyUVZndw?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 09:28:57 GMT",
-      "description": "Contempla y disfruta el Corredor de Ofrendas 2026: estas son las ubicaciones de los altares El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
     },
     {
       "title": "Preparan apertura de compuertas en la presa La Soledad ante aumento del nivel del agua",
@@ -113,16 +113,6 @@
       "source": "https://www.primeralinea.com.mx/",
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
-      "group": "local"
-    },
-    {
-      "title": "Alertan por venta irregular de terrenos en la Reserva Tehuacán-Cuicatlán",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVTBRdHg5MVFYeFBPdDdHcldoc2lNNnlWN1VsUzFpdjJhUkJ6MHQ2bm9KbXpraFJjcWNmVmk0NlNFa3B3OTRKaWVKY3RQeVhRYjJxc3ZKUnpLU1U2NWpqbUVBTVNZRWFxdkY1T19aQTlQRV9Ra3JUd1ZLMWFYMjE5RTl1TDMteWt2eGM2NXd6c0R0LUM0ZmJIMUpRRWM4R295ZF80OGt2UlB4Vjh1eGl2eVdSRXY?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 00:22:00 GMT",
-      "description": "Alertan por venta irregular de terrenos en la Reserva Tehuacán-Cuicatlán Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
       "group": "local"
     },
     {
@@ -207,7 +197,7 @@
     },
     {
       "title": "Tehuacán: muchos aspirantes y un problema llamado Olga",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenk0Y1ZVT1RUM053Rjlac1dzQ0VVb1hNc0JxZEJkeWRDbXFuVEJKd21ZMWZnMmt1TTlDTUYyNGxMMFFLRkItRGxPSk12OEVpSGhWWjNQUjRybTVCTEtlNmN0X01zck1rUlRmQWpLdVUwNDlrdDBFNTl1c0RMaE5DQnZ3a0hUMzFLM3VvRFhmb3pnb2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQUN1R3JkRGRsb0c1VExtQTRhQUFpXzNMc0N1UGh4T3YyczNuM2hPa2N1a1VPOG5FYl9XOW9LT0M0T3huYkYyU3IyNEpEdHVqWV9DTlo3M2ZLdGk2MjVKVVhaRU05cmlLSmY1akhBOEZyRnhjR205RzNucXNyZzA0UHV0V2NXWFA1Y1M4R0J1dm9iaWRlMFE?oc=5",
       "pubDate": "Fri, 23 Oct 2026 05:05:30 GMT",
       "description": "Tehuacán: muchos aspirantes y un problema llamado Olga Municipios Puebla",
       "source": "Municipios Puebla",
@@ -224,6 +214,16 @@
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
       "group": "local"
+    },
+    {
+      "title": "Armenta anuncia ampliación del Circuito Universitario de Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2F4Q2x4b1RTc3ZZY205SkJyLTBqSjVhcGlJeFlnNnp5cGlKUkw5c0V5c2lfc3lmS2xwY09BdUJsNGRrWHMyRmRXRk9PWWFnMGZXUVlIMmJyWWFocUc0bFZrSnZIYUxsMVhma1VDaWhuOERRQTYzcV80cHdxcFYzNlhqb0RpN0J3cjhTal90MEY1NllFbkRpTTNFWU8tOUtfNU1HaXBmSXVvWEw0Skg2UzZhcw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 01:57:59 GMT",
+      "description": "Armenta anuncia ampliación del Circuito Universitario de Tehuacán El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
     },
     {
       "title": "Mole de Caderas enaltece patrimonio cultural y dinamiza turismo en el estado",
@@ -266,16 +266,6 @@
       "group": "estatal"
     },
     {
-      "title": "Marina y SSPC realizan cateo en taller de herrería en Santa Margarita",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3ZCODZyUlJuSjgxZ1IyYm5tS3VVeVdscmV1cHRyX05oV0dWRW9jN2pXRXk0UkFvcURveUhMOFZKZGRkSDZ4Z2w5cVM5YWRGMWRXYXZyanN3N29KeHItWWdiNVRUc1ZsajJGcEpDR1BzOGRVWlNUa2hzQ1VBUVltYXBwSEQwMXppME1VeF9aZHNNS1EtdEtLMVd6RndNZDhtWS0wZTNsSVJsU1NQMDl4OWVQOA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 18:12:44 GMT",
-      "description": "Marina y SSPC realizan cateo en taller de herrería en Santa Margarita Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Capufe anuncia cierre temporal en la autopista México-Puebla por montaje de estructura",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFlxVVdTb0RabXd0Uk53aEYxNHdfbWViYXp1aHlxTkx5djBPeHM3RHI2WVVNajRwZHByUU1yck5SLWgzdW5Ta2dVVDVBaHkxNDB4THBldHJYTFN1SkVEOTQ0WUNlMVJNZzZYLUoyXzlCTWJGbEFETFBqa0JvRUtNMUppNHQ1TWVsYmdmdUc5cU9QOTZQWGxKY2xmUEl4M3cwend6VXI2ZEpscFhnNUpPQ2xxVUt4ckVQNlhaNTlPWjNkc29iMGR4YThJWXpXbEcxOFM4eEFPdVJHRWdlR0xnZVVmRWs?oc=5",
       "pubDate": "Thu, 22 Oct 2026 17:51:06 GMT",
@@ -283,16 +273,6 @@
       "source": "Periódico Central",
       "outlet": "Periódico Central",
       "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Bromio, estudio poblano que llevará sus videojuegos a Manchester",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2lRa1RPRW5PTzFEa2dYdGpPd2dBQUM4bGhMY0JWTjlkWW1tQWFIbFpITWx6cDV6RFcycWNEQ29wZkxuaXE3MW1QM1JEMjZJeXRNMTJUOE01YmsyaEpNRW9aZnAtd1d4SWl1QktwVzZqM1B3SFIwTldlSFlycUwyd1JWLXBPNkd3Y3Z0N0NUSmlkTnFCMVF3ZTd0YzFIZW1jb3lFTjVDd1JUdWd3cGdnV2F3?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 16:50:43 GMT",
-      "description": "Bromio, estudio poblano que llevará sus videojuegos a Manchester e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
       "group": "estatal"
     },
     {
@@ -396,16 +376,6 @@
       "group": "estatal"
     },
     {
-      "title": "Software Israelí \"Cellebrite\" contratado por Fiscalía de Puebla tiene historial de espionaje contra periodistas y activistas",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR0huNWdFWGxEc2JvV3NLUkQwVVhJTmsxZXFCVU5nTG9IWXhGaFNSbTZvVkRFS3gxaTlHV19GTU5QOXlILXYyTng5M3ZYSUVyN1dYZmdFeTE0dmlMR2NGYVFNclBWNmRlMWtfekVYMGdFUExOYWd2a3pHR1l5YXozYkxWNzVSSExnbjg0cGJyOE9BZjV6bTF0b0M4OGRpS2F4cVNBNjAzem9CUXp2QzRxeWNyaVljUW1mSXdtRU9xVFVqd0lRSzJ5UlZZaWx0a196Mzdadk1pVEpyLURxTUVMZVF3NGZTbklqR1dxdndFQ1FvQVBPdU9HODNsZE1KQQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 10:00:00 GMT",
-      "description": "Software Israelí \"Cellebrite\" contratado por Fiscalía de Puebla tiene historial de espionaje contra periodistas y activistas Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Ayuntamiento de Puebla otorga permisos para construir el Cablebús, pero omite detalles",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDNIOUJGRlp1VmFsQWp4dUwxb1ppWElLcnVlSy1jUnhxQU1ZTTJrd19uT0Q3R2o3MjJZeTVUOUVPMFV1WTM2U3hkN2lMcWZvcmdwTzhEaUVMTVNKcUI3SnFuRlBDczBWaHRQckxSb3dGUkpIY0MzY09VMnFPcDltOXg4dmpUc2dKeFUzaHp4a1hnTEx2N0VSc3YwWmNPcy1WdE1iNFlZRkw1Z1lTZU9BOEh6Z1djY3hkLXc5eERwZ3FQMEl4Zy1TbUlOZ3JOdw?oc=5",
       "pubDate": "Wed, 21 Oct 2026 02:42:44 GMT",
@@ -413,6 +383,16 @@
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Pável Gaspar califica de “berrinche” la salida de Carlos Barragán de Morena",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFBMZWxlSXEtOEZXdnRHeHhTZ0pNbFhMWDk3WEYzM3hpblBmUjBMWjhUbkE5emZzcHlVS1gtMVY5Z1hHVGNIbW5tMUxyZlhGV3NxZ1Y4a2szQklhaFZqVzIybEVKYm8weTA3dnJ0Y2YzWFZtU0xER3VKMEhuV2NZdk81M0Jac0xVU0V4d1BnMGI5cFhnLUI2d1FxT29JbWx0dFhkQmZJNlUxcEhOaW5wei16SFM5UGZGejMxQkYycw?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 01:18:27 GMT",
+      "description": "Pável Gaspar califica de “berrinche” la salida de Carlos Barragán de Morena Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -536,16 +516,6 @@
       "group": "estatal"
     },
     {
-      "title": "SSP implementará sistema de drones de vigilancia en la zona metropolitana de Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3ZfeFRVU0JRWUU2VG5yV29mSnNZQjVwTUNWakpPSlRhQ1BySEh5R1JNM1JPNzJjUGo3SFhSV0dzSUIxOUZMMEFseXlReERheV81bjZGZjNwNmNJckVkeGJZaG9fczBKUEtZbmJVQ2tJb3BYdmhWN3U4RVljZG5jcVFjV0ZST2E3ckNoX3piNUpiTUZZVi00dXdPWUJFcUhISUpXb04yV1Q3c00tYXBMME10TWZidFZWSE9NbHp4ZVVsQQ?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 17:33:50 GMT",
-      "description": "SSP implementará sistema de drones de vigilancia en la zona metropolitana de Puebla Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Si Volkswagen mantiene postura cerrada, base decidirá en asambleas si estalla la huelga: SITIAVW",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUpfd1h4NU1iTHFWSGQ0MDdocTBVYVNPelhWY2RLb1I0QnRNRmM1S0dVOFExT2t6b3dWMjBHSHF2T0NCdjlPeW5fSktxdF9OakdlTmRMdjlzQzROOS1ZdDBuLVlGbTFCcWtSUGJKN2xoaUNqbWdaVlVQNmRaM0hGOExrZEhGeV9EQ2ZRYWNFZWdmZw?oc=5",
       "pubDate": "Sun, 18 Oct 2026 22:42:43 GMT",
@@ -566,6 +536,16 @@
       "group": "estatal"
     },
     {
+      "title": "Primer año de gobierno fue para poner orden, segundo para solucionar problemas: Pepe Chedraui",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFp0ZjFWLVhONHloSDlXS0dUTDNURHhYN1g2V1pqS2Q4TjlCZFR6WERBUlM0aTBEYUxMYnRFZ3VNcHoxU0xWTjFQZmZ5ZzV3NDRfdGQ3Nk5RLXFoME5ZZkduY1lBbjM2MmVELWgtS0VKcVlhLVlWb3U3T01ON2FsUnRLWVdKLS1iRWFTbVhmeDFfd21HdFpsNF9SQTBqbWFjQmg3Ni1uR0dDTXpOcWVXYW00aW4wX3NmTGJENDY0Z2QyVUx1aG52WlpyMkltclYxY3c?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 19:28:03 GMT",
+      "description": "Primer año de gobierno fue para poner orden, segundo para solucionar problemas: Pepe Chedraui Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Anuncian cierre de cuatro calles del centro de Tehuacán este domingo",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnFiTkVPbzctM0dHMUZHNFFXNE42TS1mZXJKc2hmUkk4VURrT1VhN1hPVnNCbEU2WmdTMGhpYnlxV25VU3RyLVBuM0phd0RJMWZaejNMbnJuV0FXejZSVG5qT3V3YmNaQVdHUUlsVGdaSG4yZldsZmZPeXUzRkh1czZUR2g5Z3dXWE9CVWtKWnB5RVZ1cWx1M1NfR3pCdGvSAaQBQVVfeXFMT2xaQVhOWTZvWlpNWkw3Uldod1VZdnNSMGJDYmE4MnpKMXJBbmNGMXFfcWxRbzF0SnR4QmN0c0JoaEJ3TTdHcUh1bklxenFycHZyR3N5OGkzdXdIYmVnaFFUUDdaWFdweWZoU1VDMS1NcjhDZ3hYUnBaQkRWNUp0eXVvRFdUcDNVaFUtU1BqMFM4MnRCTG5qbFBIRngtRGxMYUF4YWk?oc=5",
       "pubDate": "Wed, 14 Oct 2026 21:06:03 GMT",
@@ -574,6 +554,16 @@
       "outlet": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
       "group": "local"
+    },
+    {
+      "title": "Gobierno de Puebla compra un nuevo helicóptero para labores de vigilancia y seguridad",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRzFEVlVHX3htTXFYOF84SGhiZW5RMDU5MUwydkthaDVGX2ZVd2V3b1hXSmw2RDVTVnc1Wl9tbUltWDl1aFI5ZkNmYWo4d1FfX3k2eGpJbUF6aERRaUs1VkMydl8yRlM2bGdfUkFTWTZmaGZWWUlrWWJjX2o4VmE5THQ1THJUQjhqOXd4T0htS2ZlMmxlS2hFZHB0RGJNY25OVXdSOGFERTI4OXd1MEFxODE2a1F6WjY3Y1dFaG9qNVVTZ0c4?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 19:23:10 GMT",
+      "description": "Gobierno de Puebla compra un nuevo helicóptero para labores de vigilancia y seguridad Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
     },
     {
       "title": "Ibero Puebla crea Observatorio de Relaciones Internacionales",
@@ -794,6 +784,16 @@
       "outlet": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
       "group": "local"
+    },
+    {
+      "title": "e-consulta.com | Periódico Digital de Noticias de Puebla",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBxelhkNXVHZTdRUjl0TDBOb080dlRzRWRvdnlHQjB5SUZfYlI2WEV4MUJ4OXotUC1oaFAwRWxRdUM?oc=5",
+      "pubDate": "Thu, 06 Feb 2014 17:01:14 GMT",
+      "description": "e-consulta.com | Periódico Digital de Noticias de Puebla e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
     }
   ]
 }
