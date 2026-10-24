@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T07:40:22.852Z",
+  "updatedAt": "2026-10-24T12:58:28.711Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,42 @@
   ],
   "items": [
     {
+      "title": "Mi hermano compró una brillante cápsula azul sin saber que era cesio-137 y desató el mayor accidente radiactivo de la historia de mi país",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IWml5VGFzS1ZPbF96WTlFaXFwNURPckk0NlNyeERYMEJyRVJidGpmVHUtaUVkN2lHRU9Bc3FKaVNlbHFsUGM3Q0tvRDBRUnA1ZGN5dDJHOGUwMlFq?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 09:38:17 GMT",
+      "description": "Mi hermano compró una brillante cápsula azul sin saber que era cesio-137 y desató el mayor accidente radiactivo de la historia de mi país BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm8wS1RhcC10LWFkNXFVbkRUekZUZHhndU9DeDFieWhBUW52cXNQOG9IalFRZk5KUFhyUW1uRnpaN1lPbzViM1FYUHNEZEFuczdSLXVURGhXaE9QVmh4VzZzdU9DSWZpUzRvVldxUDNfazBzcjVwcWJLZGUtcVEtMUdiZEVVcUpKVUpoejRRdlZ1d2E1eFhhRlMwa2ppQ3RSOHM0RmN5UGkzZjZmNlN5UVhnbXNEcnExVFHSAboBQVVfeXFMT3ZETnMwcXdlRUU2dHBHOW54bXZNT29rZWl4WThTc0lvbGY4UTc3VXlOQXdidzNmQjdQRDNBbk5vcVJ5cW1xYjRqdk5QdElERnN6cWpWSnFaNi1sTkV1ZDF1ek11djhWaTJheFpUajFlVkdOWUhRUnM5NHctdHFYcWp5V0dBNG53NFFONzNOdjlyY1M2N084R1lEcmtyTVJHVGM5a0FEbGlMdHR5bzh3Mk5NdmtQRWZZdmhB?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:36:28 GMT",
+      "description": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "EE.UU. traslada discretamente a diplomáticos y sus familias desde varios países de Medio Oriente ante el temor a una escalada",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUJoX2FFSmFkVUJqNDJSbVVQNGFNbG1FVVNCZ0Y5OGhpajhKdWFMdXdZSkxvTDZMemdqLVR3OXk3NXluQVh6NzhYWkwteFJZdklkVmU3VTFNeURxcFY2aG15djVXb2dKcm1XMFRCbUNIZXRXZU5xTW14U3JIWjFVRmIyaS1LZ1VQVlFVWFRUZElyZFZVeEdHSHZ2Y3hNVGM?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 04:23:00 GMT",
+      "description": "EE.UU. traslada discretamente a diplomáticos y sus familias desde varios países de Medio Oriente ante el temor a una escalada CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fUHYzUFMxTlBFeVM0ck5zd0RYMnZFblhUdVhRRVl6TTQtd1gzZGVuT3VjaC1jbjYwMngzbU9rNk5nRWpZNEJka3ViR1FiSi1aRGU1NFhxQTRrY2xq0gFiQVVfeXFMTWlyRlByQVZCc2JUbEJaQ1pza2U2dlVTZDZtZHYyZHlNd3N0LXhnVUlUZXdHdGFtbnpXd0E1M2E1eTBuM2l6TTFfWFFHSHZBV0pRa2dZQ2ZQZU5aV2tRaWx2bFE?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 04:17:36 GMT",
+      "description": "Fatima El Mansouri: cómo la primera mujer en liderar el gobierno de Marruecos está atrapada entre el rey, los clérigos y el feminismo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU.",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQW5wXzJZSzNwNktiTG9ULUI2X2xuWFZNRG5WU2R1QWZRV1lQMlNwUlZDOHItUVhxcGc0QzFWOGIzYVZKMXFUOUprWGNRYnBhSkN2ODYzMU5EeTgt?oc=5",
       "pubDate": "Sat, 24 Oct 2026 00:29:03 GMT",
@@ -73,10 +109,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm8wS1RhcC10LWFkNXFVbkRUekZUZHhndU9DeDFieWhBUW52cXNQOG9IalFRZk5KUFhyUW1uRnpaN1lPbzViM1FYUHNEZEFuczdSLXVURGhXaE9QVmh4VzZzdU9DSWZpUzRvVldxUDNfazBzcjVwcWJLZGUtcVEtMUdiZEVVcUpKVUpoejRRdlZ1d2E1eFhhRlMwa2ppQ3RSOHM0RmN5UGkzZjZmNlN5UVhnbXNEcnExVFHSAboBQVVfeXFMT3ZETnMwcXdlRUU2dHBHOW54bXZNT29rZWl4WThTc0lvbGY4UTc3VXlOQXdidzNmQjdQRDNBbk5vcVJ5cW1xYjRqdk5QdElERnN6cWpWSnFaNi1sTkV1ZDF1ek11djhWaTJheFpUajFlVkdOWUhRUnM5NHctdHFYcWp5V0dBNG53NFFONzNOdjlyY1M2N084R1lEcmtyTVJHVGM5a0FEbGlMdHR5bzh3Mk5NdmtQRWZZdmhB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 23:58:01 GMT",
-      "description": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios DW.com",
+      "title": "Tiroteos en la periferia de París se investigan como acto terrorista",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxTdUhabUo0SERsQzRBX1VEUmdQSXc0UWY0WlRMTkUtSnJxUUlXdXROZFVEWVZTZE1JMHBmLWZmUDE0MW1sTzJ6SUowSG5fUEtIbWpYOU43YlBmS0Q3MlkyOVRGZ1htcjZxTzFOZXBXa0pkZ3M0RnVxR1BhWXFqNy1PZ1JENE93blpsV2ZpWDAyM0l2dUNCRy1wcUUtZ0kzaGZyakFrUWliZw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:08:46 GMT",
+      "description": "Tiroteos en la periferia de París se investigan como acto terrorista DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -100,6 +136,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Primer petrolero con diésel ruso zarpa hacia EE. UU. tras el acuerdo entre Trump y Putin",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFQyTGpZVnpHM2wxb0FMSi1lMmNlNGVkcmV6MFZ0NE5wbFlPOGtPc3dhSzBxNm1iWHRna3ltQmIwSHNlZXVhRFhIRXVhdXIzVU1WM3A5cGQxMXlMUk16SXRJanltTVpOaVRsVzRSNWRUaTB4STlZUEtwb1BBdzVtNi1mZm1QZEdKMXJhbHNsLWJSeFczclh2SVR4WWVPYlk1b0ZWdVBLTGE5YzNLcTJiUGJiWmRZd3YzbVdwZXEwTTRVQdIBwgFBVV95cUxPN2laeGx0WFFndUpyNDVCVnk3MXRmajJnNGFCT2dtcURPaWRQVVhhVTVqNUlLOXR3MGF5T3VQeC1XNmI4R1VyZDlUdnFCOUt3TEcwRzhlWW5hczZVWU8yc3RHYkJEUFBjc0VkdVlZT19MdHBkRkEzekNUWmUyVW13QndoR2lzZlhiWEQzRXJ3NkJZUnAwRHZxckxVZk5tZ21PWHQ4OHBCVVp2MjR3MkkwOHpKc1IyNllnaXNCd3NDdVFtdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 19:35:48 GMT",
+      "description": "Primer petrolero con diésel ruso zarpa hacia EE. UU. tras el acuerdo entre Trump y Putin DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "El Departamento de Justicia de Trump buscará bloquear los resultados del Senado en Alaska si el republicano titular pierde",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUI1M1FwT0dIcXBGbmlJQ2NKQkw0Q2VleUlCSC1MS0JoaERrYlpXYXY5X0NTaEdWZkhSSlc4aFloU3BkcU45bWNqTU1QOXpFQ1FHZE8tM1hZaXEyRS1FdFlvMmVFR0xkN1VmVGlhZFBEbzlJVk9KQ2dSYmN1U2dXaVl4Z1NDRDFfMjZxVWRCZ3FCOVp1NEMwa25Wcl9uai11?oc=5",
       "pubDate": "Fri, 23 Oct 2026 19:11:00 GMT",
@@ -109,22 +154,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Exclusiva BBC: el video que muestra cómo entra droga sintética a una cárcel de Chicago",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjYS16TEExM3dCODRmVlY5SHZaOXBtMGt0MlpzWWFVdy1UOV84VFYyd0c0ME5yaGhNNkF5R2l2aFRTNG1oa3U2X0REMk1YZVA1SHRrYnBKNTdzdmdf0gFiQVVfeXFMTnBRZ09TemUwNnlBWkx0WW5GeWF3aU15NklKTFhTNXJmNzBoMm9MSmJDd1g5MFBmREd6ZVBfSjhtVjBDeEs3R05pQ1NyM3AyVGNrZ2lOTkg0aXlIT09scXZxUHc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:23:36 GMT",
-      "description": "Exclusiva BBC: el video que muestra cómo entra droga sintética a una cárcel de Chicago BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Tiroteos en la periferia de París se investigan como acto terrorista",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxTdUhabUo0SERsQzRBX1VEUmdQSXc0UWY0WlRMTkUtSnJxUUlXdXROZFVEWVZTZE1JMHBmLWZmUDE0MW1sTzJ6SUowSG5fUEtIbWpYOU43YlBmS0Q3MlkyOVRGZ1htcjZxTzFOZXBXa0pkZ3M0RnVxR1BhWXFqNy1PZ1JENE93blpsV2ZpWDAyM0l2dUNCRy1wcUUtZ0kzaGZyakFrUWliZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:05:05 GMT",
-      "description": "Tiroteos en la periferia de París se investigan como acto terrorista DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Cómo Trump se convirtió en un actor que ni el chavismo gobernante ni Machado parecen dispuestos a confrontar en público",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmE1cUhXdVlWdXpqWW5uckY1SXZub0tTTmhFMno2SjNsTzhZSWQ0WVNRSGQwTXpTSWV3M0JhX3FVbEVnbjV1SU1ONk5sb1d5dzllU2ttY2RvVEdpdGVVWWJtazJXUl9qUS0zdmZqdDRYcGZhRjFBWEZpc0J1T1lKSkhLSVo3ME90VVFDTG5rSEFFeGlLVmhmQzV6Y1ZLY1VtQmtQUFNQbUlabWND?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 17:23:00 GMT",
+      "description": "Cómo Trump se convirtió en un actor que ni el chavismo gobernante ni Machado parecen dispuestos a confrontar en público CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Temen que haya personas atrapadas tras derrumbe de edificio en Kenia",
@@ -134,6 +170,15 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
+    },
+    {
+      "title": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmpYTGVZbVNMM01JY1QzUnhqZDRRUXEwVjNwSHZnWkRxcXNyVU9pZU9JNnpFdEVZUlZPQnVIZXM1ODk2TWdSdzJKTkkzUFhTb0t1SThORWQwUjk1Vjg0T1hjRkFrTlR3TTdTVEVNTDRPUnQ4bmVDT1RzT2t5S1R5aHFlZUc4dFc1MEZYaEltU0U4LS05X2tVSy1Hdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 16:00:00 GMT",
+      "description": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
@@ -183,29 +228,20 @@
     {
       "title": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\"",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX28yazFYQV9Ya1QzeWdvLVhmckN4MDBFZzZUUEhTYUNtUlByYWduVGFfMktnOUNwcU9uY2hDb29obGtOWk9jdlhaZEhKLUgxZFMwLWV2Sk1Bd3F6OHJ4bmR5UEZyYXhyMTFFQUpRQmR4VV9ZdEdnUFFXUGQxZGxmbEtReHhEdFlwZ19zWkZmMUlpeEJiQnF0S18tNWo4NVFnQjhETVlKalZrclRiUy1qSzRMQmMwSjdUbENaMUN5dUQ5cTZxTmhLQlFGWXVxSVhWTkNSTVVLcXVwazd5eXNUVV85SEZrclE2dFQ3ZzNQaEF2dw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:19:54 GMT",
+      "pubDate": "Fri, 23 Oct 2026 14:23:10 GMT",
       "description": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Muere a los 76 años Augusto Delkáder, periodista de raza, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYmF1UnNOdVlGSFpLcnZ4UTZqT1B1a0pfbmp6M3hjaWxKU1o2UUI3YXZXckpreDJxMEhGTjB2ekk0cGlaQXNpWmhjM0Y4dm5hWlJkNmtJejkzY3ZEMVFuTXBqRWdMb085MV9aNjJfeWtxeHpGeWI3YnB6REdldl93eXpWdXlxbktIYkdGSzZRcEg2bjJvMldJa2JTSTZ4VTJyeFhzNEV0TnhYUkg3c1lGMG41dlgycFh1UHFpMTg1Zl9CVE5pREFtZWx4RUhyYjAydm5FWFJtOUlJLWFWUmVzWkNvMXQ5RGhFa19qejJTZDlVTnRobGRCYllNYXdTS1dBMWZUbGhUWWs3WlVjTkVkRtIBpAJBVV95cUxOem03ck9RUUE0c0RpRUN6NDhzc0wzSmg2b2YxTUpYY2RTSDZKYl9Nc0x4dExPSWVmTV9Sd0d0dVNfOHRhSDE4SEkzRmt3cG9DUTdWaWphbnViR0UtWEY2RkRjZmxkMnVyc05UbGVyN2RLemlNMHRoSmtWdlJjWUdlN2tIS3R5RmU3djJpOGJYdjNUbDlmNC05NVJSNXpoRUpqb1VHYkhzU0ZKWnJxVWJYckhNeTRfNEUxaVphU192VzhtV3hmb3FtOGlxcnNpWDloSXE4b1ZSS2pMdlVEaFQ5N3VxbFM3VTVmMGRDYjNvTFNDQ1k3cVpFV0FJazN3X1M0MXhtb0dkdVo0WWNlMWhPanFWVWRBVHJwSThUSGczeDlEZ1F0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:07:04 GMT",
-      "description": "Muere a los 76 años Augusto Delkáder, periodista de raza, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Meghan dice estar “profundamente angustiada” por las acusaciones de que su padre poseía imágenes de abuso sexual infantil",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXdzTlNUVVppY0MxcDlTRmZEZWxnQXhtYTJCUjh2OGFndU5UY1QxVDJ4VFBBNktWX3NKbGVieWNEVFRjQmNMOXV5VThyYVk5SmlmZGFhS0tKbXEtTGk3cldPUEMzaExUX2lqeGlkRFVWVEFwbnRBc2MwcjdRWkVTdkFZTXRaVGdpeVpNc0tkVnJBdw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 13:18:00 GMT",
-      "description": "Meghan dice estar “profundamente angustiada” por las acusaciones de que su padre poseía imágenes de abuso sexual infantil CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum?",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14TTlKaFFfeERCczRUNzByX0ZDMlRLcUp2YXNnZ2R0TmhjM3pkam5iQ1diUXZ5Qlczdm9QQWVZdnY0bkd3YXN1RkQ1VHc3ZVRWWlZEdmJSRU1JaDBm0gFiQVVfeXFMTXF5SkJ3c3M4QlRsY19WbkV6RkgyRnRtSkUtUlBnYnlFOW14QkRjNnp6b0t1c09HNUFUeE84S0puSm1sbzdjeW5lVjZ2a0x5Qlh4cVFHRk5BTUZXX3IwUU5OWEE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 13:40:14 GMT",
+      "description": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum? BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
@@ -217,40 +253,13 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ySHlwMDRRclc4eFNMaHhDTkVMc1g2N29lT1Q4U0R2d1JLSmZiYWhxeEppZkNyOWFNLUFmaEtSOEx6NlZrOWhFOWp0NE0zRTRPVTRwTzdURHNCNW950gFiQVVfeXFMTzV0U2Z1eGNPMzFleUtVeXlELXpWMnFZM1FKcmJ3UTAyUVEwa0FJNUJVSGVJdjY2Y0ZnMkh3LUpiQnhRelhhcmR2ckhDU3hseFZEaXZFcDR4ZU50ektBUUtCYWc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 10:25:14 GMT",
-      "description": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Primer petrolero con diésel ruso zarpa hacia EE. UU. tras el acuerdo entre Trump y Putin",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORFQyTGpZVnpHM2wxb0FMSi1lMmNlNGVkcmV6MFZ0NE5wbFlPOGtPc3dhSzBxNm1iWHRna3ltQmIwSHNlZXVhRFhIRXVhdXIzVU1WM3A5cGQxMXlMUk16SXRJanltTVpOaVRsVzRSNWRUaTB4STlZUEtwb1BBdzVtNi1mZm1QZEdKMXJhbHNsLWJSeFczclh2SVR4WWVPYlk1b0ZWdVBLTGE5YzNLcTJiUGJiWmRZd3YzbVdwZXEwTTRVQdIBwgFBVV95cUxPN2laeGx0WFFndUpyNDVCVnk3MXRmajJnNGFCT2dtcURPaWRQVVhhVTVqNUlLOXR3MGF5T3VQeC1XNmI4R1VyZDlUdnFCOUt3TEcwRzhlWW5hczZVWU8yc3RHYkJEUFBjc0VkdVlZT19MdHBkRkEzekNUWmUyVW13QndoR2lzZlhiWEQzRXJ3NkJZUnAwRHZxckxVZk5tZ21PWHQ4OHBCVVp2MjR3MkkwOHpKc1IyNllnaXNCd3NDdVFtdw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 09:57:12 GMT",
-      "description": "Primer petrolero con diésel ruso zarpa hacia EE. UU. tras el acuerdo entre Trump y Putin DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNEFSY2ZHZWhjNWVnZi1MMVJyNVYyTjBzSkdWZTJMVkl1R0l1R3FTSEtxejdNTEwyZklkWlByaFN2VkVKVENhbmM5Qm91NWJoTmdhSVZsWnVCVHlY0gFiQVVfeXFMTXJpVlZ4Q3lRU0tJc29lSTgtWm9SNVJ3OUhyT3UtQlFweXlNTkhQUTZkclJTREhrTHB3RFBTREZsTDZ1NC1kNjB4ZkpHQ0l6SS1nZDR3UkdZaGVudXVIVFNLQXc?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 09:55:07 GMT",
-      "description": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Las 5 cosas que debes saber este 23 de octubre",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaEQ3NF9OWURxX2Fxa1c1VjdDNENhWUVlbVhENjY1RHN6TVMwWkZrOVA5WnhBaUZ4cm9qT01kZUJ4bnF4ZklLMlhENmZ4dDZrSFhmNzN3a2RZX01MbVdnUEUzMlJ5Zm9hNDY2WnQ0N2Naemdmb3VNN2Z3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 09:54:00 GMT",
-      "description": "Las 5 cosas que debes saber este 23 de octubre CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Un muerto y al menos cuatro heridos en un atentado racista en una localidad de las afueras de París",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN29BQ1k1QndZTFh4cGlhV3dGbUVKQTN2VGNuSEN0ZEpzOFEzNFljYjQxSjA5eHIxeGExQ0NPNEVIYkwxWDBjeW9HYmZ6d21abzFXdlg5aFc2OEVYMGc1d1BrVnhMY2hMVXByaHpyb3c5dS1QUXhSclRNMWRTenNTRlEtbXp5elh6Y2hsSU9GSHJ5aG9wRkJzaXlQWkp1NDlRWUZiaXlSZm4wNGFEc1NWa0FpXzExRmMxXzI5M0YtU0tqRkhVVFBJ0gHbAUFVX3lxTFB6ZkVwTG92TE9nNDFyVkF0bXJQdC1OTTd6eThqQ3E1VTBLUDZXUWQ2b0FoYTB0OC1nTk1SVzBDekdscy0yS2tVQzBUdDVhUm5SbF9xaF80WXYwaDlJRHVxUVBTTWJCWHJJZUVIb2w4SmpTcEZWV2FXVXRFMi1YeHNhelR2Ni1kWjg2OTZJR0RkWlRiZ1l2RUdvbDNDNFJqMWtHMzBkWDAya0xrMi1oRzlzLWVLS3U5c3dIRDBZd2tvTjdaRVVYQW9PWnB2UnMtWU9YODVUQWtrSmFEcw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 10:21:55 GMT",
+      "description": "Un muerto y al menos cuatro heridos en un atentado racista en una localidad de las afueras de París EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Torturados y encarcelados sin sentencia por un falso secuestro: tres inocentes salen de prisión en México tras casi un cuarto de siglo",
@@ -269,15 +278,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Imágenes del terremoto de magnitud 7 que azotó el Tíbet",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM1NRVVhKVWRMaHVIXzZabUJwNVM0aE9RTnNPcnJNVDlEYmM0em4xQXJ6dTVlLVhKZ2FDSUw3bFRmRlhaZkloQjZRX2tiQklFemN6a013Q3FxRFhqeEhVZl9XaXRyZWhobEZFcW9yYVlLVjNxaXdTWnd0a19VbTNYM2JaanhjaGFwNjg0Nl9Gb0loc0w2QzFOc2VEWk1kODN1R2ZSZVpqZS1kblRpOFE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 08:57:45 GMT",
-      "description": "Imágenes del terremoto de magnitud 7 que azotó el Tíbet CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "El Salvador despliega militares para rescate en Haití, ¿qué alcance tendrá el operativo?",
@@ -325,6 +325,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "¿Por qué es importante el Premio Sájarov concedido a la CPI en pleno asedio de EE. UU.?",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORVJEenFBYUg4czBNMmRsejJYeVV5b3pKZlQwWEtIQWZoLTVxQTBXeTlmVnhiR1AzbTdIejRzamphdGk4aUxzc3gwTjI3amFYa2hDS2R1UEluWWRsZ3FEVlk5QTc1X3NtVW8zdG05Z1lUZ29nOW13d0NxTThjT0h5N3dvd01Fd2YweTI1UTZjOEhpSGhxMDNwUjdpNzVKUDMwWWp3RDZtb3FxbTl2LTQ5NUVUR3ctSGMxN0F3cVhCTnJHMlptMHFvano5V0JTNElwZzdv?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 15:54:17 GMT",
+      "description": "¿Por qué es importante el Premio Sájarov concedido a la CPI en pleno asedio de EE. UU.? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Ecuador detiene a la excandidata presidencial del correísmo Luisa González",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRmx4MWstMTZXTlRkZ2NvM2loMDBxSHBweTI2N05rTTZ0MTZBMy1mS3pKZFI1ZzUwc0ozajlGbnZFOW1NQUpwRjVCb05IcmE2b0NXdmZfMmdiTDYtOEhsQl9FR3JYQmU1ZTdtSUFVN2I2aEdGcFdDakVWLUEzYndhRF9PRFJ5b1N1bExQd29pWkp5dkVHZFk0RDA3cFR2RmJVN2FzQVh0aHVaaGE1Ymhhb3VFV3UxT2t4NXA3eFZMdXJ2Q0l4SWgyRTd1MmFDY1VFWUFMaEF6ZGo?oc=5",
       "pubDate": "Thu, 22 Oct 2026 13:43:48 GMT",
@@ -350,15 +359,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "El papa León XIV no necesitará tratamiento adicional tras la cirugía de cáncer de pulmón",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOenV3bWNMTV9femkxdi1sZW1UdEJ4VDh1Q29mZDVOWE85dWV2cEtPVkNJcnZ6NEtIbnEwZlBLNzFVQkJwVGxuRXdzNmxCVjA3bWc4cnNPdHY5NXBtU3NOeFNvLWxhQ29rMnptVjQ3UmZ5aFNBWWJSdVEzYy0za0lpQThTYTdpeS1jNExISDZfaVp6U09GNTJZQk1BNDJzRl80aEN5V3dyV1FsVVNRYWc3b2ZxWlEyRG9JM1Uyci05T3lULThoZVk1RlJKVnpJLWZ0ZXdjRHFsaC1fYy0zMkRwMjdJaXBfTC1iNW5uaDl3?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 19:34:33 GMT",
-      "description": "El papa León XIV no necesitará tratamiento adicional tras la cirugía de cáncer de pulmón France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "Caos en la red por PHP: gobiernos en todo el mundo cierran sitios web tras alerta de seguridad",
@@ -471,7 +471,7 @@
     {
       "title": "Los escuadrones de la muerte dejan a Caracas con una inquietante sensación de seguridad",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOblZ6bEU4Q3RBbEp6MUQwN2Mwem42MDl6M0hDbGoybjEzckFhX1N1NzlWTHhyZWpaRzJSUG5GUmFqWHBuWjM2akNnRGRNWENicUQ4LXJrSkVTWE9Nd1NNVUV3WUxyZzNqejNvNERuZEpDaWRiMHRSOUtHSVB2LVJQR2txZWVhUHBrdGMxV0ZEZkVyMm1ZVTFBN3hQN0ZjejFUYU00Q1N3?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 09:10:14 GMT",
+      "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
       "description": "Los escuadrones de la muerte dejan a Caracas con una inquietante sensación de seguridad The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
