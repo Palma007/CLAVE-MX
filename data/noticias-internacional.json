@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T02:11:46.553Z",
+  "updatedAt": "2026-10-24T07:40:22.852Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,24 @@
   ],
   "items": [
     {
+      "title": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KQW5wXzJZSzNwNktiTG9ULUI2X2xuWFZNRG5WU2R1QWZRV1lQMlNwUlZDOHItUVhxcGc0QzFWOGIzYVZKMXFUOUprWGNRYnBhSkN2ODYzMU5EeTgt?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:29:03 GMT",
+      "description": "Las impactantes imágenes del tiroteo policial en el que murió un bebé de 1 año en EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm8wS1RhcC10LWFkNXFVbkRUekZUZHhndU9DeDFieWhBUW52cXNQOG9IalFRZk5KUFhyUW1uRnpaN1lPbzViM1FYUHNEZEFuczdSLXVURGhXaE9QVmh4VzZzdU9DSWZpUzRvVldxUDNfazBzcjVwcWJLZGUtcVEtMUdiZEVVcUpKVUpoejRRdlZ1d2E1eFhhRlMwa2ppQ3RSOHM0RmN5UGkzZjZmNlN5UVhnbXNEcnExVFHSAboBQVVfeXFMT3ZETnMwcXdlRUU2dHBHOW54bXZNT29rZWl4WThTc0lvbGY4UTc3VXlOQXdidzNmQjdQRDNBbk5vcVJ5cW1xYjRqdk5QdElERnN6cWpWSnFaNi1sTkV1ZDF1ek11djhWaTJheFpUajFlVkdOWUhRUnM5NHctdHFYcWp5V0dBNG53NFFONzNOdjlyY1M2N084R1lEcmtyTVJHVGM5a0FEbGlMdHR5bzh3Mk5NdmtQRWZZdmhB?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:58:01 GMT",
+      "description": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Trump asegura que Estados Unidos y México “están muy cerca” de cerrar un acuerdo comercial",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmV4T1hRUkFXeE9xOEdETWszNjJkQXVWUlJMeTd0OHRWQnBEWHNlQV8tSklFOVNzY204VFZuMGdtamhJcUtaX1dMVHhtVFNyaGFLWXFlY1hRblhPeEVDN2dzRVpLeDFXZEN6VmFDQTB6SHpOSkgtUmtjQkRURHdCZS1wS0JVc3lPSFhsTnZUZnYwbFFyVHRaZ21IUEc5bmwybU52SnBGNmdadjRJSk1lNGswTWQ3NGtaYUdfZ1ZrNDNVV3hG0gHYAUFVX3lxTE5ra3RmbmFXcDU5TEltSjVxWFlqdUluRjZoT3g5YlpQRFRjekFXN0lZbkR4b1Bpem10SVpNbk5YdktnMHBNTElBd0VTRkljRENYMXZaWkJyNzFkOV9qTnZpc2VnVGR1Z09nX3B4OHA1R2dnNS13allweW93N2U3UWtsVkVVS2lIRkNKeWZVTUpWWTJhelhhcjgzTW5TTXFzRlA0SjZRcEhzdE41Ql9jVGh2WkFUblNJNE00YmhTRDZzTXJQOGJpVlFhcTJhSEpoZXRBZ1ZVRTh3YQ?oc=5",
       "pubDate": "Fri, 23 Oct 2026 20:08:02 GMT",
@@ -71,15 +89,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm8wS1RhcC10LWFkNXFVbkRUekZUZHhndU9DeDFieWhBUW52cXNQOG9IalFRZk5KUFhyUW1uRnpaN1lPbzViM1FYUHNEZEFuczdSLXVURGhXaE9QVmh4VzZzdU9DSWZpUzRvVldxUDNfazBzcjVwcWJLZGUtcVEtMUdiZEVVcUpKVUpoejRRdlZ1d2E1eFhhRlMwa2ppQ3RSOHM0RmN5UGkzZjZmNlN5UVhnbXNEcnExVFHSAboBQVVfeXFMT3ZETnMwcXdlRUU2dHBHOW54bXZNT29rZWl4WThTc0lvbGY4UTc3VXlOQXdidzNmQjdQRDNBbk5vcVJ5cW1xYjRqdk5QdElERnN6cWpWSnFaNi1sTkV1ZDF1ek11djhWaTJheFpUajFlVkdOWUhRUnM5NHctdHFYcWp5V0dBNG53NFFONzNOdjlyY1M2N084R1lEcmtyTVJHVGM5a0FEbGlMdHR5bzh3Mk5NdmtQRWZZdmhB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 19:56:10 GMT",
-      "description": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
@@ -109,19 +118,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Cómo Trump se convirtió en un actor que ni el chavismo gobernante ni Machado parecen dispuestos a confrontar en público",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmE1cUhXdVlWdXpqWW5uckY1SXZub0tTTmhFMno2SjNsTzhZSWQ0WVNRSGQwTXpTSWV3M0JhX3FVbEVnbjV1SU1ONk5sb1d5dzllU2ttY2RvVEdpdGVVWWJtazJXUl9qUS0zdmZqdDRYcGZhRjFBWEZpc0J1T1lKSkhLSVo3ME90VVFDTG5rSEFFeGlLVmhmQzV6Y1ZLY1VtQmtQUFNQbUlabWND?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:23:00 GMT",
-      "description": "Cómo Trump se convirtió en un actor que ni el chavismo gobernante ni Machado parecen dispuestos a confrontar en público CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "La UE ve en las elecciones de Brasil una cita clave para el comercio, la Amazonía y la geopolítica",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTNyUHMyX3Z2MVZWTDFXZlhqWXlfSmk4REtrZzNHS1ctakpTVEtrcXlpSFc4T0tuWFNsaF9jMFBnREMzTDFlNVUtc2pOWG96N0ZTX2ViZzZMa3lUNnpzdl91bGtmMFFydk01bV82YnRHcmpwbDZCNloxRnliZGdKWmFhNkZPcXcyTWJyR3U1OUNBaEZ2bU1hVNIBmAFBVV95cUxNUXhNV0hvbVZqenNlSHJzTWZaWUZJZERvd1BzNEJIUGdaeUdFZVZyUFNDbkotSkNEeFJ0RS1zeWtlRkp4dWZYU1hjVy1BMEQ0OEJhUnk5ZElsMUxjZGYtZ0lKUW9qU202X1RVS3IwRi14YWktVGhTT1ItaVNpZzE1T0IweDJMNWdMaEhwd3RmdTBHb1JUcWdKRg?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 16:29:38 GMT",
-      "description": "La UE ve en las elecciones de Brasil una cita clave para el comercio, la Amazonía y la geopolítica DW.com",
+      "title": "Tiroteos en la periferia de París se investigan como acto terrorista",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxTdUhabUo0SERsQzRBX1VEUmdQSXc0UWY0WlRMTkUtSnJxUUlXdXROZFVEWVZTZE1JMHBmLWZmUDE0MW1sTzJ6SUowSG5fUEtIbWpYOU43YlBmS0Q3MlkyOVRGZ1htcjZxTzFOZXBXa0pkZ3M0RnVxR1BhWXFqNy1PZ1JENE93blpsV2ZpWDAyM0l2dUNCRy1wcUUtZ0kzaGZyakFrUWliZw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 18:05:05 GMT",
+      "description": "Tiroteos en la periferia de París se investigan como acto terrorista DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -163,27 +163,27 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Huracán ‘Vance’: pronóstico, trayectoria y qué Estados afectará en México",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnZjeWZ1YjBETXR0S2xVZzg2UjI1Y3hldzlRVnlpem5oOTBHakpMZHQ0dTZNNlVIR3g0R0NZQlVzVGk3YXQ2UEo3elR3OEYzRi14d0pfdm95NHdfY3hQcU5tVmZnNHFGLXlTV0RmMUpWaDNlQVpCUER5NHFsQTN0ZUdwcEVRZnFfeHNiZnpHTE84Nlg0UzJaOUduSUdyMVI0MnVFZVViOW41UTBhekljNdIBxAFBVV95cUxQaWx5TjdTVVZ0a2dVSTJmVXkyckFBN29xZDNmYkN1NHpyQzdDU0MwcGdpSzlQMTU1dWxYOVlWTWtFMkE4cDNBQUdsUmFmUDAxQ2R1QzJCeXNCT20wY2d6Qm04bDBuUFkyMURCZWlfRmpsWHFtRHZvTXV0bkpsWFVaQU1wbER4bWVpVlVOamYybThLRlRVNURMSzJDWjhnUWVKQm9CLVdCc1RBZ0haRVR3U2FDeXd2WS0zTVRnb0Z4MVN0MGIy?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:49:14 GMT",
-      "description": "Huracán ‘Vance’: pronóstico, trayectoria y qué Estados afectará en México EL PAÍS",
+      "title": "El Debate - Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil?",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXhaM0dINFBReTdLcVFGd19JaTlMdlU1ZGVEd2kzeVd6dE9ReXJkczI0OS1XdGZ3eUJmaHZDb0doVXlCOEFWTVpiX0I0MnRoMmRYbFhXcUVpSkpFbHVtQ2dkckVHWlRMc0x4UlR4Y296M1NrVk53OHdJSGxmbnVBT0tweld3SFozWUdTQkNRZkxhTUVKeU9SZElfbGhaaG9QOWRSZ2gxeFVCb3ZCYk5McHl5aTFZOE96aXpWQzlhcjFrUHp0T3ZfMGVYYTJqOUMx?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
+      "description": "El Debate - Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "La presidenta Sheinbaum y Maru Campos admiten la tensión entre ellas: “Las dos levantamos la voz”",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOFczNzY3RFNwVHB6UVFla3dEYmFtT3pFZGtMOGxnMlcteVBDWWg0dkJINnlMeEExSWlndVJiVE0yeVBVTlV4QV9tVWNVNGhMbkpxelc0TjJBSWdQLXlYQm1WdVpLbHZjNDhVTlV1MWdQbzFBVTE3NG5vYllGZjVwWWE0N1Z6Y3NSdjBmSEUwMTNaeFhBXzZXWFBMVUp4SVZfbXZfT0tEYXhSVXFxTkxVTkg0QWRBT1JnenpKdGdrazVJT3plOHVCRkVZZmlCTEl5Nl9YRWR1Q2R5dk1B0gHwAUFVX3lxTE5OcnJMTGJsSmtCZm5OQkpCNTE0LTRCZEFGQXZYMk9rbzhjR3F6UjBhbFZ2TFVnblc4SWlZdm5ONmM1S0JNSmVubTFuYTdVRVAwbXJGS2hvdHFPR1VQanU3Y0MyWjY0QnZfZUpOYVlUdzNEX1lPRC13S1BqU3Z1Q2RJVUpzbHNjVG8wNlBmT08xMjM1WUc2VDUtUHZ2MDdWOUdsaFdUTWhHbDZ1Y0VrM0JEMWZKY0h6UlZPZGxvODQ5ekQ1TnA1VTA2VG1sTWt3UDhIb0MxSnFZbm9KTEV2SDNOOE42Wmw1eWtGZDhvbndFQQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 14:29:05 GMT",
+      "description": "La presidenta Sheinbaum y Maru Campos admiten la tensión entre ellas: “Las dos levantamos la voz” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "Israel inicia demoliciones en una ciudad de la Ribera Occidental tras un tiroteo en el que murieron dos soldados",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeW10MUVHX1EyblloRmljU1lJYlpxVERoUEthajNtUzF3aTFtOXk5QkFMMkg0aHdVNzNnQ0lWcGpuVkYtNmJJZFBUTW9nRUU0SUxPbEd0UXM1VzJ3VVFLR3B3WEZYNFdNX2JvOXc5NXlLMlp6UDd4NHVma1ZBNkIxOTBHMzNiNXVzanlMVHJyOGVsZmtQdkNrWTRFSnY4TGlsUUJj?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:19:00 GMT",
-      "description": "Israel inicia demoliciones en una ciudad de la Ribera Occidental tras un tiroteo en el que murieron dos soldados CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\"",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX28yazFYQV9Ya1QzeWdvLVhmckN4MDBFZzZUUEhTYUNtUlByYWduVGFfMktnOUNwcU9uY2hDb29obGtOWk9jdlhaZEhKLUgxZFMwLWV2Sk1Bd3F6OHJ4bmR5UEZyYXhyMTFFQUpRQmR4VV9ZdEdnUFFXUGQxZGxmbEtReHhEdFlwZ19zWkZmMUlpeEJiQnF0S18tNWo4NVFnQjhETVlKalZrclRiUy1qSzRMQmMwSjdUbENaMUN5dUQ5cTZxTmhLQlFGWXVxSVhWTkNSTVVLcXVwazd5eXNUVV85SEZrclE2dFQ3ZzNQaEF2dw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:10:43 GMT",
+      "pubDate": "Fri, 23 Oct 2026 14:19:54 GMT",
       "description": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -199,22 +199,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14TTlKaFFfeERCczRUNzByX0ZDMlRLcUp2YXNnZ2R0TmhjM3pkam5iQ1diUXZ5Qlczdm9QQWVZdnY0bkd3YXN1RkQ1VHc3ZVRWWlZEdmJSRU1JaDBm0gFiQVVfeXFMTXF5SkJ3c3M4QlRsY19WbkV6RkgyRnRtSkUtUlBnYnlFOW14QkRjNnp6b0t1c09HNUFUeE84S0puSm1sbzdjeW5lVjZ2a0x5Qlh4cVFHRk5BTUZXX3IwUU5OWEE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 13:40:14 GMT",
-      "description": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum? BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Tiroteos en la periferia de París se investigan como acto terrorista",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxTdUhabUo0SERsQzRBX1VEUmdQSXc0UWY0WlRMTkUtSnJxUUlXdXROZFVEWVZTZE1JMHBmLWZmUDE0MW1sTzJ6SUowSG5fUEtIbWpYOU43YlBmS0Q3MlkyOVRGZ1htcjZxTzFOZXBXa0pkZ3M0RnVxR1BhWXFqNy1PZ1JENE93blpsV2ZpWDAyM0l2dUNCRy1wcUUtZ0kzaGZyakFrUWliZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 12:01:45 GMT",
-      "description": "Tiroteos en la periferia de París se investigan como acto terrorista DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Meghan dice estar “profundamente angustiada” por las acusaciones de que su padre poseía imágenes de abuso sexual infantil",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXdzTlNUVVppY0MxcDlTRmZEZWxnQXhtYTJCUjh2OGFndU5UY1QxVDJ4VFBBNktWX3NKbGVieWNEVFRjQmNMOXV5VThyYVk5SmlmZGFhS0tKbXEtTGk3cldPUEMzaExUX2lqeGlkRFVWVEFwbnRBc2MwcjdRWkVTdkFZTXRaVGdpeVpNc0tkVnJBdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 13:18:00 GMT",
+      "description": "Meghan dice estar “profundamente angustiada” por las acusaciones de que su padre poseía imágenes de abuso sexual infantil CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
@@ -224,6 +215,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ySHlwMDRRclc4eFNMaHhDTkVMc1g2N29lT1Q4U0R2d1JLSmZiYWhxeEppZkNyOWFNLUFmaEtSOEx6NlZrOWhFOWp0NE0zRTRPVTRwTzdURHNCNW950gFiQVVfeXFMTzV0U2Z1eGNPMzFleUtVeXlELXpWMnFZM1FKcmJ3UTAyUVEwa0FJNUJVSGVJdjY2Y0ZnMkh3LUpiQnhRelhhcmR2ckhDU3hseFZEaXZFcDR4ZU50ektBUUtCYWc?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 10:25:14 GMT",
+      "description": "Amina Helmi, la científica argentina que recibió el \"Nobel de astrofísica\" por encontrar los restos de la última gran fusión de la Vía Láctea BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Primer petrolero con diésel ruso zarpa hacia EE. UU. tras el acuerdo entre Trump y Putin",
@@ -244,19 +244,28 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "El fiscal especial que dejó entrar a los agentes de la CIA a Chihuahua huyó en mayo y está prófugo",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGNleUdaSnpJa19DMktnZDlHaGxsSXoxNHppN1U0WWlPNm5UMnNEcVVIRmdXdVdIT3Nmdkd4elR5aWVMWE4wS0hNS2FBV1ZFUWZ2c0g1bWZVWTJfNUVIazFXeHNzVUw3dF9VQnlvRXUxRTJ5LWlHSDJTeGhXbnNXMVdpaXB5WEZfaFlHWGhnbFFXWk10UVg2UXk0MUJQMlhfTk9sb01jVVhFaW1MdGZmU0N5Q0lqTkppZ3EwR0JIT2Z5Y0Z5dTNoZGUwdkdZNmp0V3VncU8wb9IB6wFBVV95cUxNV2ZnMHhycUlyc1ZVeDdSNzJGbk90YXFZNWI0NTh1cHc0M255RmtGaFpheENfWHZFZWRXZzJJRUt3RDBlMW95anpBRVlpa096ZnBVdWZXY0tXMWNIaGFUWlVMX3FQZWRYb0xBSE9Ub0xCUDBhVEprd0xXS0p3MHhXeE5yZ09WX3NxVDctckNuVHdZY3FiT01SaVZSaTJGSUFfWXUybFlMSkxubHZ0aUQ3eGtnTGJzRG5RbHcyTnVkZktjYXB2MWp3c3AwcFFtOGMxdGdZckJfX0Y3RmdCczZZR2JST1BvVS11bHow?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 09:30:00 GMT",
-      "description": "El fiscal especial que dejó entrar a los agentes de la CIA a Chihuahua huyó en mayo y está prófugo EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Las 5 cosas que debes saber este 23 de octubre",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmaEQ3NF9OWURxX2Fxa1c1VjdDNENhWUVlbVhENjY1RHN6TVMwWkZrOVA5WnhBaUZ4cm9qT01kZUJ4bnF4ZklLMlhENmZ4dDZrSFhmNzN3a2RZX01MbVdnUEUzMlJ5Zm9hNDY2WnQ0N2Naemdmb3VNN2Z3?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:54:00 GMT",
+      "description": "Las 5 cosas que debes saber este 23 de octubre CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Torturados y encarcelados sin sentencia por un falso secuestro: tres inocentes salen de prisión en México tras casi un cuarto de siglo",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOblN5MVB6WHVyVEEtVVJhczU2TkxieWF2U2JUTXE3ZWlUR1AwaEh5ZnIyb2tTLTVCWGdrN1ROOC0zSERvLVJ4QXRtbF82aFBQS2FyQl80cXJua2UtSndvd01DOEk3OVBPdTdLcW42WEQxVU9QNk1uaHFDbUNJXzF2OW52UDRRRWxlWTBOZ1FGVlpBSEs5Z3QzUEh0SjlHcWtqbC1jZGV1Z0dhXzU4Q3lDem12dUtYSC1qNHdEUnluaWMyTzFYREV3LTJDS21IQkRreVhiaEJQNnc1dEIzZG5JSllqQ2FSclZzWERtV21zcEo2UG4ybmJYRGlacjVrQ3BaUU1PRmxB0gGaAkFVX3lxTFBXTTdUUmZCbjRKNnc2MFJtMTZmRGpRZGVUeWVTRzM5dDZ0c0hiMlMzMG5md3Z5ZkRwOGZVcXBrN2xTZ3FzUnZZLUdqVm85S0I2aWVkRDFRaXlTQ3FXVjZ3NmtNOXRxZ25JNGRrcFpKMExXclMxUlVoOExnanR3Q0tQUnBwcEJkakdYSnhjb1pTNHpCUTd6S1h1NVdKbGl1UnJNRl95eXNUeENyV3YteTRxVDBlRFpCZVRya0IybTl0al95RFRLZHZiSWRVcVVyMmZSTWlyQ0tKa21XVmx2NWJIRWtqak9iazZSZ210UTh5YjRFU0NqWHNNRHA1Y0ptVDRvTzBqd21NZUNaMzMtMWNOZVhTb2ZFMmMxdw?oc=5",
       "pubDate": "Fri, 23 Oct 2026 09:30:00 GMT",
       "description": "Torturados y encarcelados sin sentencia por un falso secuestro: tres inocentes salen de prisión en México tras casi un cuarto de siglo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El fiscal especial que dejó entrar a los agentes de la CIA a Chihuahua huyó en mayo y está prófugo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGNleUdaSnpJa19DMktnZDlHaGxsSXoxNHppN1U0WWlPNm5UMnNEcVVIRmdXdVdIT3Nmdkd4elR5aWVMWE4wS0hNS2FBV1ZFUWZ2c0g1bWZVWTJfNUVIazFXeHNzVUw3dF9VQnlvRXUxRTJ5LWlHSDJTeGhXbnNXMVdpaXB5WEZfaFlHWGhnbFFXWk10UVg2UXk0MUJQMlhfTk9sb01jVVhFaW1MdGZmU0N5Q0lqTkppZ3EwR0JIT2Z5Y0Z5dTNoZGUwdkdZNmp0V3VncU8wb9IB6wFBVV95cUxNV2ZnMHhycUlyc1ZVeDdSNzJGbk90YXFZNWI0NTh1cHc0M255RmtGaFpheENfWHZFZWRXZzJJRUt3RDBlMW95anpBRVlpa096ZnBVdWZXY0tXMWNIaGFUWlVMX3FQZWRYb0xBSE9Ub0xCUDBhVEprd0xXS0p3MHhXeE5yZ09WX3NxVDctckNuVHdZY3FiT01SaVZSaTJGSUFfWXUybFlMSkxubHZ0aUQ3eGtnTGJzRG5RbHcyTnVkZktjYXB2MWp3c3AwcFFtOGMxdGdZckJfX0Y3RmdCczZZR2JST1BvVS11bHow?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 09:30:00 GMT",
+      "description": "El fiscal especial que dejó entrar a los agentes de la CIA a Chihuahua huyó en mayo y está prófugo EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -280,15 +289,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "El uso de inyecciones para adelgazar está afectando las ventas de productos de belleza y cuidado de la piel, según L'Oréal",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91WU5OYUFNaWNWa1Q5ZEFjUzQ2MUU0clZNaEFSbEVNWkhTQ0VlaTJzNEJ4M2JvOHQ4MllTeWkxMTJaeDFCRTBoTFZCZ0RjN2dRYlQ1azBMczJqbG0x0gFiQVVfeXFMT0lyNUNXWHhQZUJmWk5OZjhYalBtbHJ6ZjJ1V3VPbGdjRjVRSXA3TVJhdEJOMU55eVQyZHh4TU10dWJqb1czbFZUUllOTHI3TjNlalpQTDJrc0Y3M2F3cmhPblE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 01:17:36 GMT",
-      "description": "El uso de inyecciones para adelgazar está afectando las ventas de productos de belleza y cuidado de la piel, según L'Oréal BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Estados Unidos retira visas a decenas de altos cargos de Colombia y Bolivia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTg1X3JhN2pUZFNfRHMtVVotRktjb2JSYktsMklSZjd6XzBIb280LU82SzdaeEpFVTlFa21qdlRRS3VzNW1QSUZtbjEyOHRwdlRLbUlsSGVpZjRBUWlDaXNWeUtDWDU4M0V6eEhEN2xGb19qSDVzVlllaDBqbV9VSlZvajhqR1pfMHFTUl9KRGhWSmxZSlFzeWNkV2x1TURwZXZGNk9EcE1WZ1Mz0gGsAUFVX3lxTE5uQ2xGUTFqUWhDbWdFT3d5dVhlUUgwd1F3YjlMMkFyX0ZMdjZyajRMamdHMkRDeVBBZlB3d1JrYkF0YXpWQkNFV2t2ZHpLb21lcmRqQU1kZEFmRm5ERTJOazVBRE9rbXdyWlZyU3BGVXpBUjJjX0ZCWmt5SmFDRGhneUNGS1RlTkg1RDFFd1ZDV09yWk85VkNzUnFqX3VCTGNvS1lDNEpQQm91aFk?oc=5",
       "pubDate": "Thu, 22 Oct 2026 21:35:14 GMT",
@@ -305,6 +305,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Nuevo giro en misterio de la reencarnación: el mayor análisis hasta ahora halla algo que nadie esperaba",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXdlcTJXcXRXbkM5bko5SFZjaGpLOXhXY0lZWHFvZzdyaWdRbnhWdk90OTk3T1k4YzBSVEY0OFhCOHVjcnYwbnh5b1BtaGFkdURsY1c5amJUTzFwYjFOdjBiQkE0TDMyRGdDSlhsT0txNTJVSEVhbWpkWlcxMTBnYXNia1EydHoxT0N4b0wyem41enBvWVZScGxBaE9UZE5EV3o2eWZJbnNSeFpxRUhLSzJRUWNjV3hiVkJBc2xkNlNyR1p6dk5HRkNXWGVubGPSAc8BQVVfeXFMT0k3bzZScHQwWEhhUFR6U050SGZubXQxSWQ1dnlweDRuOVBkck4wZ1lTb29PQUd4LXd0eTlnQmRkYjFmajNZQ0hhNks5TjNyel9rWm1MNWNXUW9KSHlsbGNkSUFWUHpkM1Y1Q2NraEZUTThPSmk0VGdBNms0OEI5WTVRZkEzOUxqeEJfX00ycTdvSGo2TjJUOHdiLWw0bkJWU3gxckZwSDlRSHFJR09xeDNGVzA3WGZFRGpITkxOdm1rbm85VFBrWHA4S3BHVkow?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 18:33:38 GMT",
+      "description": "Nuevo giro en misterio de la reencarnación: el mayor análisis hasta ahora halla algo que nadie esperaba DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
@@ -332,15 +341,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Palmeiras vence en penales a Fluminense y clasifica a la final de la Copa Libertadores",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb09DU2VGbXR3bTV6bTU2TkRuTEN5SGdIU3ZYVEFQbndKZHR5a0s1RF9DNDdmOWk5OTRqU2ljY0pycU1WS1VFazhoVUdrZnJnY3JseTdPRU8zSlNJU0l1X1RRaVhLY1pfcXA3VzE4M0pOX0dVWWVhaUl2dW1JR3ZYdlVYLVFoQjUtaG9iVHNVRHRMZFFqN3Fwa3NOR0Z2WUNLZzJWdFNZdktzZHV3Y3o4REhCSTl5U25LZk1pTDlUa3JqN2FiSlJZNHZB?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 04:26:00 GMT",
-      "description": "Palmeiras vence en penales a Fluminense y clasifica a la final de la Copa Libertadores AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Bukele lanza una dura advertencia a las pandillas haitianas",
@@ -406,6 +406,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Protesta de camioneros deja estantes y surtidores vacíos en el sur de Italia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVN2MEJDY2FlXzBLRVNXWTN5dmthMlZSYVRUQ0tzNDZHaWJXQVEwdGpSUmJjQ2YtQUg5NlRldDBPVklQeXk3VW1GVFZhaHpGeWhiejV1NFdwT1FxNl8ySHdxNHNXUkdvcXl5WS1TOU9jNW5vMU9KaExmcnBhdUt2dWpjVFR2T3J2NU9mR05ZZUZZVDljU0tjVFVVMEhsX3cxQ1R0ZnVGMzI3Tmh4OGc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 19:27:00 GMT",
+      "description": "Protesta de camioneros deja estantes y surtidores vacíos en el sur de Italia AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Italia endurece las penas y amplía los poderes policiales sobre los menores",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTFFwc2FqRVFleTVvY0t4RU1fWXlybnB6RWFreDZodmVoeG1PaHYybkUxanhSenFyY1FRTGFPOWNld0xzc1hKUUdHbkl5QTBoS2dLS3BuM3FnUU1MeDNHN18zamF5bEVpWV84anp3M21sTXRaT0VDaGI5NHloSHZtM3NveUtVU0NZVkJBTmNIWXR3cGZWQUg5R1MtNnlxcHNDSjgyRloyMHZzNWlNOUx5b3dMbV8zbUdWNHZ0R2RVQ0FkQQ?oc=5",
       "pubDate": "Tue, 20 Oct 2026 19:00:27 GMT",
@@ -424,19 +433,19 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Francia impone toques de queda en París y otras grandes ciudades \"hasta que sea necesario\"",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTVRJVFZxOVAyajYwT0V5YVV2YTlWM3RYNDNJTEZHTFdFRDRtNE9OekxqSElBWjBFYTVtLW9LdUU4UjBNd1FtS0ZkTE9hTW5XRmxFNnZlalJBYndhWFF5aXZDamtHd2tKckdRWGhfVzF2VUZ6b2dKMkxnMGZLQTFnU29sZkhxdzhDU3FzQ083X2RYUDM4Nkd2djlMM2dlWjUtQzNOaHhDMmJYdlIxWUY0OGU4bGdoZHZnLUFzOXc5dTc3am5FX0l3b1cxaEJucjZvc2VmeWN0WldPdXVoTEVESEhR?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 06:17:46 GMT",
-      "description": "Francia impone toques de queda en París y otras grandes ciudades \"hasta que sea necesario\" France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Rays se dirigen a la Serie Mundial tras vencer 7-3 a Guardianes en Juego 6 de la Serie de Campeonato",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDJXN3hUTkN5cDlyVTJKN0k2WVAtZ0NSMFBWLU0wUzJlQzFVVmhSS3Bnb2gxdERWdVdhRDIwR2RhY211ZUdhQjc2V2UyeFFKekVMVjdIMHh4TmNNU3pRZ2tJSnBmY1ZTX245dktHcllGY3FKX05DVmFETzgxakpGeTZOdndTTTVOUTl2WWRwd1BUVUpKV2dyM0pIZFFyWlZpVG0taVRwM0E2Tnc0WENSWEM2RzhwcE5ESzU2SU1DNFJjQkhNcHc?oc=5",
       "pubDate": "Tue, 20 Oct 2026 03:36:00 GMT",
       "description": "Rays se dirigen a la Serie Mundial tras vencer 7-3 a Guardianes en Juego 6 de la Serie de Campeonato AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "El quarterback de Eagles Jalen Hurts se suma a atletas diagnosticados con coágulos sanguíneos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYndTODBmWHdrQWhnTm9jcTA4YWtyUC1oOE80UXA0Wl93U2kzM0xxaTN1M0N5Sm5SLU9ubHhpUTJZSE45cU51VHdOaE5nVU9UX0JsdV81R2h4SXJ6bXcyRmVhd2JVZ1JBYS1UNUt6Yl8wbjFieEt6bmNxdFhCb2FIVjh3QnBzUDZSQXhwTE1PTjdPYldPaFRYdE0tWUFubUEzenlDdkMtMFNIMEZVMk1GWFd3eC1iQmhHYVBfYXBVNnQ?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 23:26:00 GMT",
+      "description": "El quarterback de Eagles Jalen Hurts se suma a atletas diagnosticados con coágulos sanguíneos AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
@@ -458,15 +467,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Ataques hutíes contra Arabia Saudí muestran la creciente fuerza de los rebeldes yemeníes",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDBkeGRkYzZRYzZBQkpzdzExX00xaXJmMUVfQzBYNmljUG5yUm1Jb1cwMUlRSGVVSnVDbERTSTlxcVZpX1BkcWF6ak0taW1fSTR2eUNkeE5aYnUtaFlkUUlTY2dhS3pXbkNlNjg3VFVtNTQ2TkFrNmI4SnNsRFJMMkpreTlSWUhUVHl5SERucWw2OFo1?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 22:35:00 GMT",
-      "description": "Ataques hutíes contra Arabia Saudí muestran la creciente fuerza de los rebeldes yemeníes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Los escuadrones de la muerte dejan a Caracas con una inquietante sensación de seguridad",
