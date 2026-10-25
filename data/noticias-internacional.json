@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:45:58.767Z",
+  "updatedAt": "2026-10-25T01:58:15.140Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,33 @@
   ],
   "items": [
     {
+      "title": "El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEZCS3NHNVhHYURUaDVpUjNBRXp4YVhNTWxCSXNlaGRGYWFSQlBqSVpMVWlsNXdmRGNpdlZGZ0tnVUR6Q19OanlVemljR3FJNGZ5T2I1eVo1VDhCTGw3VDhzNnprYzktVjNjM0lYckVmUlJRVjNHcGxUOExQckN1MnRieHVmVGtiOHhpR01qNFZSQVZi?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 01:42:09 GMT",
+      "description": "El Departamento de Justicia ordena a los condados de California que aparten las papeletas de los presuntos no ciudadanos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Francia vive otro fin de semana de protestas masivas, con cerca de 1.000 detenidos",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckhjLXdGWEIxdUdMWW83MkVNbmYzMFJ3dTZnbHhuVWpHaGJKNW5IWVlmdE1EQ24zbXNVMXM2MEtST2QybmlNd1RBVWh4QUNlUVBwSmJEXzFXNWRMdWhKREh2dk1HQlM5WDhIUndzSkdNVS1oV1BqUGxhVkFUT1JGUlQtZ1NpajRLNFBnb21R?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 01:07:00 GMT",
+      "description": "Francia vive otro fin de semana de protestas masivas, con cerca de 1.000 detenidos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "César Jáuregui enfrenta su audiencia clave por presunta traición a la patria",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblNUWDN3WTZsVWlaaVJ4dlAtelpqMmFpVEU4WTdSb3BDdFU0bnVrUWs1XzNJT2RoRGJJdkVNTF9wenBYMjdacDFaNHBqcVl3NTMtejl6UEpWZjVJRjRCdmVFV09kRnZGV1V1WTNGR0FIaThVMlZjTUllbGVMeXFiS3o5WHVrSUpBT01ERWVVNUpZOWIzVVFaVi14NFA2WktnRm1GQWJvTzJOdjJSVHhBS3VfNEVJOGlIb1HSAc4BQVVfeXFMT0JtMmctVkdjdG5RSWJPME9CLV9Xc3hualFQS21DQUVHbzVNYjdwVG1GVmVLSVpPSlJjcWY0SXZBYl9OWUV1TWZzUS1TV3FnMWdDZkZYQXFSbXk2UTEtTFpwV2hkQmptcGNjVW9VVXZYd0Z5Q1QtOUM0YWZBQzBWbVd6YnhBVzZTdjBxVFYtSGJwTmNLMHVFR2lkekE2aGx6MFFXSzRSb3BLbkg3SmlHMWY5LWE2N2x1WjBGSU1TZnNDSkE3QXQwdGhJb0JIZmc?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 20:21:36 GMT",
+      "description": "César Jáuregui enfrenta su audiencia clave por presunta traición a la patria EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Cómo EE.UU. se ha convertido en una gerontocracia que no representa el perfil de edad del país",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hbGFhRjdrTHFwRkl1S1VzYndDakxpdlRPOVJQNnNfS0RhaUIwbE00VnhTT0VjVlNUTUFlMkpfM0ZDTm1lQnJkYkZVX0xEb2U2NmNheGFLdTJWd0du0gFiQVVfeXFMUHR5RXRTNzgxa0xTN0tHS3FIQmJCWXRySzF5ZFhxdGtTWEViVkRJaThCSlB1eWt5R2pkSlZFSDI3QWU4NHpLZk1QMVZyMndnYWJKUHZReHdrd2xlXzFZbkZCZnc?oc=5",
       "pubDate": "Sat, 24 Oct 2026 17:09:03 GMT",
@@ -73,31 +100,31 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Flávio Bolsonaro, el candidato que heredó el movimiento de su padre y busca ganar la presidencia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZjJFWXN4UGZiME1TMFp1NTZoRkk1Vm9VQlVYdVFVRGFlOWpiR3JSOU42RmktamdSN3NlSnV6MF9MVW8yOHpvVFAyNlRfelBVSDZEWkhaTjlTLVZGWHhuaVRvc2ExUDlEZ19ral9zQ3o1bFpIZlNCNEx1cWxCTHNyak1aXzZiVThCN1hPT1FwVm5JS0dhd1JWODZzOVRVM3NSZ1MzVEdrb1I?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 16:26:00 GMT",
-      "description": "Flávio Bolsonaro, el candidato que heredó el movimiento de su padre y busca ganar la presidencia de Brasil CNN en Español",
+      "title": "A los 80 años, Lula busca un cuarto mandato. Esta vez su capacidad de supervivencia política puede no alcanzar",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVkstOHROSHlVNW9KN3FodlBaeEx2MnMtdUl4dDdwMzZJSXA5NXpTUVJOVUoyOGxjaE1LYzRON2liUjFvWVQzZVdJMXd6Qkt1V3Q2c3RqT1VTb3ZsNEhJMmZUZ2lmeFdmcmxaM19PMXNLeU5VbUc0RGJ5QVpxR1o5ZlhHem5XOWZQdGRPSVprRmtRbl9ILWRqSUd3OA?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 15:51:00 GMT",
+      "description": "A los 80 años, Lula busca un cuarto mandato. Esta vez su capacidad de supervivencia política puede no alcanzar CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Policía francesa usa gas lacrimógeno y cañones de agua contra manifestantes en protestas masivas",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXZYdVFaYUVjZTFLaXlFMGFDZ3lCaXhGUFRXSWhUZ2dIeGhEX05DR2NBM196RDk4QzJMWWpMbUJKSWdwQk00djdROW1rV3M5M1FySDBRTzNoUE1QX0ZFek42UXVXb3E5UVIyTUVUa3VBQ1FEWFRLVjRJS3F1Wm9hSXJvYzRfZGhQNlVvOWVfUGVfRE5JMFhoLUFB?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 16:26:00 GMT",
-      "description": "Policía francesa usa gas lacrimógeno y cañones de agua contra manifestantes en protestas masivas AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\"",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX28yazFYQV9Ya1QzeWdvLVhmckN4MDBFZzZUUEhTYUNtUlByYWduVGFfMktnOUNwcU9uY2hDb29obGtOWk9jdlhaZEhKLUgxZFMwLWV2Sk1Bd3F6OHJ4bmR5UEZyYXhyMTFFQUpRQmR4VV9ZdEdnUFFXUGQxZGxmbEtReHhEdFlwZ19zWkZmMUlpeEJiQnF0S18tNWo4NVFnQjhETVlKalZrclRiUy1qSzRMQmMwSjdUbENaMUN5dUQ5cTZxTmhLQlFGWXVxSVhWTkNSTVVLcXVwazd5eXNUVV85SEZrclE2dFQ3ZzNQaEF2dw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 13:38:49 GMT",
+      "description": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\" DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
-      "title": "Decenas de miles de personas se manifiestan en París, y en toda Francia se registran enfrentamientos con la policía",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckhjLXdGWEIxdUdMWW83MkVNbmYzMFJ3dTZnbHhuVWpHaGJKNW5IWVlmdE1EQ24zbXNVMXM2MEtST2QybmlNd1RBVWh4QUNlUVBwSmJEXzFXNWRMdWhKREh2dk1HQlM5WDhIUndzSkdNVS1oV1BqUGxhVkFUT1JGUlQtZ1NpajRLNFBnb21R?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 13:30:00 GMT",
-      "description": "Decenas de miles de personas se manifiestan en París, y en toda Francia se registran enfrentamientos con la policía CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Israel cierra accesos a Hebrón y desplaza familias en represalia por el ataque palestino de ayer",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzd5R3ZmUXduTHdPXzdjVTdSeWNtUko0dFhrWVFOX1dlOS1lMjN0UTBZb3hyRktWRHZ6WnplSXB5ZFliNFdaYUcxNUxkUHVoS0FGUE9ra0F3MVU1dzR2Y3NyMVdCT2RmMzU1NzBnRWdsUTl2ZGU3ei0xSVVmN3lkV2ZuZzF1eV9pUi1NVEU4V3RObF9nWEtGMEMyakNCX3d1anc1a1p4a1dMNlNDSHpzTFpmUWNQRUt4X2hFdjRZc1YtNlNURVJmSWhxMDFZajDSAc8BQVVfeXFMUGNtWDhady1iZ1doRW1tcFZzWmFaZnhCaFMxQ0FHR1pwdzR2Ui05STJqWkF1X3RZSHowc0x2VkNWTTNwX212VnotWkVCLW82N0FvcVJCbTQzaXNFYnZKSmVJNUFsUm94UnVNN2prS1dfcUJqQTNmNjJWSk43X1doa3AxZ19SMEpzNnA5UHJLNk1xcWxZUEpMZmNaN2dJTzdMazlxcy1fV05qZ0tNYzlhV3JZS3FXYk9xWjVlNXZpVDlsS2VneGlBOE5vdVRaaXA0?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 13:18:55 GMT",
+      "description": "Israel cierra accesos a Hebrón y desplaza familias en represalia por el ataque palestino de ayer DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "En directo: cerca de 1.000 personas detenidas en las protestas de este sábado: ministro del Interior francés",
@@ -116,6 +143,15 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrVVk0Y0tsOFEweF8ydWRLeDRMZTVmdjMxS2dhZnk3RmRlMFhycTVvMnpWSzVVMXBocG8xTGhYTUdGcmxkTl9DdUxPOTI1QWRYWVBFYk1fb054X0NC?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 10:59:03 GMT",
+      "description": "El presidente Javier Milei y su hermana Karina son sobreseídos por la Justicia argentina en el escándalo de la criptomenada $LIBRA BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Mi hermano compró una brillante cápsula azul sin saber que era cesio-137 y desató el mayor accidente radiactivo de la historia de mi país",
@@ -154,15 +190,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTFBsME1UTVN6UUZlZlhYRFZlRVRzWEdBVHpISDVyWWRmSHREWTExa2RTTUFnX1hDNkJNWm9ib3BLQ1NLZUJ4R3VUcUp3N0dXNE0wZE1YYTR5dUFjdUloMXNqVWpNR1NrR0Q0LXlwNVVBWHpPVXZGbWhPVXdMZFVBLWhGT3gyM3pQQlpGd25sUHYxWVJKTTIxTzNGTmIwdVVRdnJFTTBOcXVpejZGV3lyVXJqTkVROE4tUlROcWZxLXpDZEdxaTRzOU44aGpmMGJGdF9RcGVvNU5hYXIxem5BWG1wSmlwZTdXcjVCbFowN1U5UdIBhgJBVV95cUxOd3kwOUhVREFmMFhYalRhSUkxSFpMQ2JDalZyWHdRWHVRMFRRRERISWlBREtDUjU5NVdqZUx4X3dkbTFseW9FZ3ZiZUp2T0lucDVOREFTdExfS0ppb2xLLWlVaWFERkhPbk1fYmxqS2pNNFBUUjc1bnF0Y2pNLUs2d2VEVlFwOVBuWWUtbEZFQ3ROd2NtaFptMmFKdHdIYnJnREZaN2Z0V2xySFhSTTVLb2pROFR4UFFhVnJHMGRYRFFsR1E5eUNoaE5mOHZnenl2RXZPaXB1Nk9DRDdMd1pGU2piUXRhdHdZenkwbVBzZWtka2JwT1BuY3NENWd3M2V1RkhvVzZn?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 09:30:00 GMT",
-      "description": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "La mansión del policía más corrupto de México que será universidad",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcU95WFNfaUFwa2gxUk1SYXVMaTNRTkc0dzFybkNmclFyX0prTzlwUVU0SXlDUlFLSXVfaE1aWFJmTTFMOEt2NWhDaVVDVjBscnhRZVZ3bnNtOUFqV3l0TEpHcXVENS1ydFdtak1BV1E1czFHMlAtVWdEQVNmeERQQkdvVXMwZWdMV0tXZ0FKYTVVLTNqb0VEV0lsak5BUGg1dGZ1aW9GUWhFWFV20gHAAUFVX3lxTE1yaXJGakRIZzE2bkh0NGVrTXBlMV9IeGhaU0Jfb1FtVlNXcTFxemphZjJsMHFDeU1OSmNRRHhPOENoNjBEVXhrcHh4cUZENS1JbUxLbFpQeXNwRnJNLVhUX0hjMGQzT09TeU9fNFJ4QTVjTUNXcEJLUTVSU2tUZEZnRTV3dXk3VXZpckhTNUNVamFheHMyLUhxN1ZHa3pHcE5qOGRtSkZLU1JnQVNpOFVlOEVEdGFvV01GcHNYblo5Mw?oc=5",
       "pubDate": "Sat, 24 Oct 2026 09:30:00 GMT",
@@ -172,19 +199,28 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Tiroteos en la periferia de París se investigan como acto terrorista",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxTdUhabUo0SERsQzRBX1VEUmdQSXc0UWY0WlRMTkUtSnJxUUlXdXROZFVEWVZTZE1JMHBmLWZmUDE0MW1sTzJ6SUowSG5fUEtIbWpYOU43YlBmS0Q3MlkyOVRGZ1htcjZxTzFOZXBXa0pkZ3M0RnVxR1BhWXFqNy1PZ1JENE93blpsV2ZpWDAyM0l2dUNCRy1wcUUtZ0kzaGZyakFrUWliZw?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 09:11:25 GMT",
-      "description": "Tiroteos en la periferia de París se investigan como acto terrorista DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTFBsME1UTVN6UUZlZlhYRFZlRVRzWEdBVHpISDVyWWRmSHREWTExa2RTTUFnX1hDNkJNWm9ib3BLQ1NLZUJ4R3VUcUp3N0dXNE0wZE1YYTR5dUFjdUloMXNqVWpNR1NrR0Q0LXlwNVVBWHpPVXZGbWhPVXdMZFVBLWhGT3gyM3pQQlpGd25sUHYxWVJKTTIxTzNGTmIwdVVRdnJFTTBOcXVpejZGV3lyVXJqTkVROE4tUlROcWZxLXpDZEdxaTRzOU44aGpmMGJGdF9RcGVvNU5hYXIxem5BWG1wSmlwZTdXcjVCbFowN1U5UdIBhgJBVV95cUxOd3kwOUhVREFmMFhYalRhSUkxSFpMQ2JDalZyWHdRWHVRMFRRRERISWlBREtDUjU5NVdqZUx4X3dkbTFseW9FZ3ZiZUp2T0lucDVOREFTdExfS0ppb2xLLWlVaWFERkhPbk1fYmxqS2pNNFBUUjc1bnF0Y2pNLUs2d2VEVlFwOVBuWWUtbEZFQ3ROd2NtaFptMmFKdHdIYnJnREZaN2Z0V2xySFhSTTVLb2pROFR4UFFhVnJHMGRYRFFsR1E5eUNoaE5mOHZnenl2RXZPaXB1Nk9DRDdMd1pGU2piUXRhdHdZenkwbVBzZWtka2JwT1BuY3NENWd3M2V1RkhvVzZn?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 09:30:00 GMT",
+      "description": "De las importaciones de electrodomésticos a la mente de obra: México pretende replicar el milagro tecnológico de Taiwán EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMm8wS1RhcC10LWFkNXFVbkRUekZUZHhndU9DeDFieWhBUW52cXNQOG9IalFRZk5KUFhyUW1uRnpaN1lPbzViM1FYUHNEZEFuczdSLXVURGhXaE9QVmh4VzZzdU9DSWZpUzRvVldxUDNfazBzcjVwcWJLZGUtcVEtMUdiZEVVcUpKVUpoejRRdlZ1d2E1eFhhRlMwa2ppQ3RSOHM0RmN5UGkzZjZmNlN5UVhnbXNEcnExVFHSAboBQVVfeXFMT3ZETnMwcXdlRUU2dHBHOW54bXZNT29rZWl4WThTc0lvbGY4UTc3VXlOQXdidzNmQjdQRDNBbk5vcVJ5cW1xYjRqdk5QdElERnN6cWpWSnFaNi1sTkV1ZDF1ek11djhWaTJheFpUajFlVkdOWUhRUnM5NHctdHFYcWp5V0dBNG53NFFONzNOdjlyY1M2N084R1lEcmtyTVJHVGM5a0FEbGlMdHR5bzh3Mk5NdmtQRWZZdmhB?oc=5",
       "pubDate": "Sat, 24 Oct 2026 08:46:09 GMT",
       "description": "Francia desplegará más de 70.000 policías para evitar nuevos disturbios DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Un incendio destruye el 'Nido del Águila', la antigua residencia de montaña de Hitler",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjZSVi1pdDQ1OHlyYURxSUl6SXhaVHctc1Z5WmtqbG1PNHNtejRHR1ZkeW1IQ1M4MXJwME11TWJFX0IxSVpyRDl1UGpGcjUxdHZqS2VEX25RZm9yZVNLOGZ2ZndWOHU4MHY2cUlQaTRVZ3VXZXpnVG9FWUo4QlNxZ2U2LXBOWDhaNmdGcFJydGkzSmE0Y0lrQXNDa1FnM3kycC1vN2owVV8xOVhzT1NuYzBydFhoVHA0WHBMckNVWWJ2TktISzZZbW9zRjYyQVpCV0c1etIB1AFBVV95cUxQUlhFakNBTl84WThkaGZZdTM3bnNmVGMxd2RwN25IWUx5RlRqTDM0UUZaX1BvS0Nrb2NrVm9rb1pMQXlfU0pWV2hRckFabkZWcUllMEszSWZLTEtYZ21hZXlzcnp2MTI0eDUxUTlsRUJMYlRvM0t4Sm0xdUFnVEEtX0w3clN1eVJLVjVId2ZLUEJjMHRkOUsyV0gxMWQzelJnVGRBTWtNRDdYejhDVkR3dTNYeWR1Y1dNc3ZrY3JSUldGZjhVNzRjUm1yb0ZicWpXbXF6Ug?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:13:55 GMT",
+      "description": "Un incendio destruye el 'Nido del Águila', la antigua residencia de montaña de Hitler DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -244,15 +280,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Rubio insta a cubanos a establecer \"una asociación discreta con la CIA\" para impulsar cambios: \"Es el momento\"",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDFKdE44NVJFeW5pTk9KNW9CY1RHbUpMblB2Z2NDY0w5Y0EzZlM3WHZDUklkUzhvMlFscmVoZDRqaTV3cXZNWGRxZVMwVHQxMzhqQmhWWHZmaFJkUVgtQjFkT2Z3V090N2RwRFZfbzdDRFE5VmVJMzFfakRKRnplMnNHZ1ZiRVZESlduUjNiWkFoQQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 23:19:00 GMT",
-      "description": "Rubio insta a cubanos a establecer \"una asociación discreta con la CIA\" para impulsar cambios: \"Es el momento\" CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Bukele envía un contingente a Haití para ayudar a liberar a los 4 soldados salvadoreños \"secuestrados\" por pandillas",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPRFpPa3Z4RDNWd0pWc1RjZDNIcDdtWUhVM2dlWHFyU3NKalFBVFk1c3REZlAxUUVjelpRQU1iS0Y4cnBSYVVNd2UyT25DRlFkaHdOWHFDSUppYms1?oc=5",
       "pubDate": "Fri, 23 Oct 2026 19:47:36 GMT",
@@ -260,15 +287,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Melania Trump logra un alto al fuego en ciudad ucraniana de Oleshki",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMXdwd09kZXhFQkVoejZ5b0ZRWWtZZnJQcUxsNjJpTFlJOER1SnJhcl9oS3NsMGs4Z2ZmLUZiM0JjUEdFY0ZVQUNRX3hSanktM2xNMHBQN2tMNEY3VGV1bTJOWWM2bmNYOWFjZzFja3hNdVdUVWMyOEQzOVhXNVA5T0RhNUNRcWo2Sk1MZWdYbXJ5eWJTcXR2MF9QS2JoaXBFSXfSAaIBQVVfeXFMTUllcDk4TUlWYlQzQmMwcnNRVExpb05KY0YtWmVxNDA5OWd5ei04ZHlRU2tOWW9sT1hTUVJmX2VlLVdBWjVHN0JtVEpYUC1oTDRoclg5RmR5WmxJdHRHWVdkNktIRVliSk5iODlSeGRmVG11ZG1nWEtOMU5uN2JfcGJNelVJeC1yWUlwelVWenpybXVSYmk1a1ZoZldVNUNmNFl3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:48:52 GMT",
-      "description": "Melania Trump logra un alto al fuego en ciudad ucraniana de Oleshki DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Cómo Trump se convirtió en un actor que ni el chavismo gobernante ni Machado parecen dispuestos a confrontar en público",
@@ -298,15 +316,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55MlZRS3d5VlhwYUdqaWpUZXRLVm5rSUhlUTRWenNWa2NsU09TLS1rdHRwVWhrS1p1N0NJdmFtVXpaclZzVUphME9DeVZjbjdnRDVGcjZ0XzdGSWU10gFiQVVfeXFMUElmc29lTHJGekxlR3Z3aFJ3aHNIX1UwZHZLLTN1SktGaF9VVGludUpGTzhfa2V0MFd0Z0lEdmZ5VktFeDVPUVhQTzQwa1lqMmgwRV90d1dkT3gxNE1fZ0k4QVE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 15:35:07 GMT",
-      "description": "\"Solo piel y huesos\": los gemelos recién nacidos que tratan de sobrevivir a la guerra y el hambre en Yemen BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "El Debate - Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil?",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXhaM0dINFBReTdLcVFGd19JaTlMdlU1ZGVEd2kzeVd6dE9ReXJkczI0OS1XdGZ3eUJmaHZDb0doVXlCOEFWTVpiX0I0MnRoMmRYbFhXcUVpSkpFbHVtQ2dkckVHWlRMc0x4UlR4Y296M1NrVk53OHdJSGxmbnVBT0tweld3SFozWUdTQkNRZkxhTUVKeU9SZElfbGhaaG9QOWRSZ2gxeFVCb3ZCYk5McHl5aTFZOE96aXpWQzlhcjFrUHp0T3ZfMGVYYTJqOUMx?oc=5",
       "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
@@ -314,24 +323,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Muere a los 76 años Augusto Delkáder, periodista de raza, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYmF1UnNOdVlGSFpLcnZ4UTZqT1B1a0pfbmp6M3hjaWxKU1o2UUI3YXZXckpreDJxMEhGTjB2ekk0cGlaQXNpWmhjM0Y4dm5hWlJkNmtJejkzY3ZEMVFuTXBqRWdMb085MV9aNjJfeWtxeHpGeWI3YnB6REdldl93eXpWdXlxbktIYkdGSzZRcEg2bjJvMldJa2JTSTZ4VTJyeFhzNEV0TnhYUkg3c1lGMG41dlgycFh1UHFpMTg1Zl9CVE5pREFtZWx4RUhyYjAydm5FWFJtOUlJLWFWUmVzWkNvMXQ5RGhFa19qejJTZDlVTnRobGRCYllNYXdTS1dBMWZUbGhUWWs3WlVjTkVkRtIBpAJBVV95cUxOem03ck9RUUE0c0RpRUN6NDhzc0wzSmg2b2YxTUpYY2RTSDZKYl9Nc0x4dExPSWVmTV9Sd0d0dVNfOHRhSDE4SEkzRmt3cG9DUTdWaWphbnViR0UtWEY2RkRjZmxkMnVyc05UbGVyN2RLemlNMHRoSmtWdlJjWUdlN2tIS3R5RmU3djJpOGJYdjNUbDlmNC05NVJSNXpoRUpqb1VHYkhzU0ZKWnJxVWJYckhNeTRfNEUxaVphU192VzhtV3hmb3FtOGlxcnNpWDloSXE4b1ZSS2pMdlVEaFQ5N3VxbFM3VTVmMGRDYjNvTFNDQ1k3cVpFV0FJazN3X1M0MXhtb0dkdVo0WWNlMWhPanFWVWRBVHJwSThUSGczeDlEZ1F0?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:07:04 GMT",
-      "description": "Muere a los 76 años Augusto Delkáder, periodista de raza, miembro del equipo fundador de EL PAÍS y expresidente de honor de la Cadena SER EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\"",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPX28yazFYQV9Ya1QzeWdvLVhmckN4MDBFZzZUUEhTYUNtUlByYWduVGFfMktnOUNwcU9uY2hDb29obGtOWk9jdlhaZEhKLUgxZFMwLWV2Sk1Bd3F6OHJ4bmR5UEZyYXhyMTFFQUpRQmR4VV9ZdEdnUFFXUGQxZGxmbEtReHhEdFlwZ19zWkZmMUlpeEJiQnF0S18tNWo4NVFnQjhETVlKalZrclRiUy1qSzRMQmMwSjdUbENaMUN5dUQ5cTZxTmhLQlFGWXVxSVhWTkNSTVVLcXVwazd5eXNUVV85SEZrclE2dFQ3ZzNQaEF2dw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 13:51:00 GMT",
-      "description": "Netanyahu anuncia operación militar en Cisjordania \"a escala no vista desde la Guerra de los Seis Días\" DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Awaiting Machado's return, Venezuela opposition looks ahead to elections",
@@ -449,6 +440,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "Protesta de camioneros deja estantes y surtidores vacíos en el sur de Italia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVN2MEJDY2FlXzBLRVNXWTN5dmthMlZSYVRUQ0tzNDZHaWJXQVEwdGpSUmJjQ2YtQUg5NlRldDBPVklQeXk3VW1GVFZhaHpGeWhiejV1NFdwT1FxNl8ySHdxNHNXUkdvcXl5WS1TOU9jNW5vMU9KaExmcnBhdUt2dWpjVFR2T3J2NU9mR05ZZUZZVDljU0tjVFVVMEhsX3cxQ1R0ZnVGMzI3Tmh4OGc?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 19:27:00 GMT",
+      "description": "Protesta de camioneros deja estantes y surtidores vacíos en el sur de Italia AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Rays se dirigen a la Serie Mundial tras vencer 7-3 a Guardianes en Juego 6 de la Serie de Campeonato",
