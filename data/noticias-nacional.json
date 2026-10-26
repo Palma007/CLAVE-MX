@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T08:11:45.191Z",
+  "updatedAt": "2026-10-26T15:33:20.046Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,31 +58,193 @@
   ],
   "items": [
     {
-      "title": "Falso que instituciones de salud estén peor, dice CSP",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbi02Y2FGa1FZendsT2xvVGo4eGR3ZWRJNDF1OU1OV3A3Yl82UVZNRUJsYlVqSU1WX0M2UFlQRHk0c3M0N0ZyLTgtZFExUmpVQ0p6SDdkZFF2MFZhMFZ6bmpBX254Tm81WjlnbG1LY2M1R292MXhyN0FhUVZocVRXZTNna3RyZExoMVFWNU51VQ?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "description": "Falso que instituciones de salud estén peor, dice CSP Reforma",
+      "title": "La Bolsa de São Paulo se desploma un 16 % tras la victoria de Lula",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekF4dzZYaVVzT0Yyb0x1Vkp0ZVV2SE1vaTdxTjVxVi1yRTU0TVY3aGZqV2Rkc3dqUS1Rem96ak5aMURKWFBYeUc2Y1ZjaGJHa1JWZ3pkTUFjNkxPSld3U0RMUzJ2YjE5Z3pKTEs3eXdjTnhreDh5NWNQOXU2ajNvSGdJODFLSl9nSmxLejQ4N0lFQ3c1OFpYVHBnVjlYZVV5bWRMUTFyNmd2UTNUYVRaMmpyYTFpOXNsYWc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:35:00 GMT",
+      "description": "La Bolsa de São Paulo se desploma un 16 % tras la victoria de Lula Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "title": "Sheinbaum festeja el triunfo de Lula da Silva en Brasil: “Es una bocanada de aire fresco para América Latina",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONEdSVEVZMGk1cld1YkhYQS1QNkdXRk41R1dlNnE4WlQtLTJmeU9sYnc2blZ0djREYjAtNGs2WUNBdjRIYVZVUm9pcWlnbXJwNFkzbFlXUUVERGI3RUd4d2tWSlFTX2gydF9FdzdaYmtSR3F5SXRZLWdVUS1wcXZTaUZxSzcyRXE4ZFZhRXNCaHFIOGFvbk5YWXpyR1VyZ1dwUktoam5IVm50SUQtc3gtdUU1VHdCMkVOVG9EV0JFNTZRUHo3QXlIRmFRVi03VnVYUWNEMVdpYUQwTFFNMlFlZmlQS19JOU1wMHpES3RZZw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:25:59 GMT",
+      "description": "Sheinbaum festeja el triunfo de Lula da Silva en Brasil: “Es una bocanada de aire fresco para América Latina Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Lula vuelve al poder, cambios en el INE y subsidio al diésel",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQkNVeUxkamJySG02Z0ZDc2x2bmMtTUlFLVBLbGo3WWs4dW1jV2JONHBBemd4aUJqeTh3NV9FbWZaT2ZFZndwVjZOcVFJdEI1S1VLTW52dWh6bmFCbFlxV1d3VXU2ZnFMR0NLaEI1cGMxNk9jUjN3SW1NbTVUQmVSS1M5ejBXVDM5TVp1cC1na2JQT2RIZ2E3YXVxRm9Rc0lF0gGmAUFVX3lxTE03N3B2OHFfdmd6VnlPNHRhQ3pwTUVKVkNXaWtDT3EweW9OaVZKOEpYaFpVQ3hOaHpUT1ZBVDNaTC00T1ZDM1p3WXk5N0Zzb2VIM20xbzRDeXBBTUhyZTZuZFpTczJoMENkZ0V2QktpM2xnblJ2LV9BTE5WeGZTTy1iLTQ5d2FSQ2U5VHgzaE9PVjc0M3lWZ18xbjZpeE5kOVI0YUZaaGc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 14:24:28 GMT",
+      "description": "Lula vuelve al poder, cambios en el INE y subsidio al diésel El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Líderes latinoamericanos felicitan a Lula da Silva por su reelección y apelan a la integración regional",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQYTlOZW9ZUk1jOVBrZThXZjR0ZDd4YUZvQkhkYTdKaDUwal9rdXNjejhyalhxX0tKTkh3RUM3UVVKSTZxRVFSbGVVX3VJbGNOeXRoN2p3OWctZVlobElsYXFJaWNNeHYtUHVvUldnendSTzNXb1A0bEF3QnVJUWlqVWRaSUdveC1lc0U2dUktVHJ3SHFUS0NtQm1BYW04WWFuNEFNdFFLeFZraUhJN0YwS2llT05JSjNMLVVPdng2RlV3LUZ0QlpKQm04SUZZV0JacDB5Y293b1lXYjR1NDhwQlFaZ1VUV2JTVmJNQjRxWXdwSXl1N0tB?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:53:53 GMT",
+      "description": "Líderes latinoamericanos felicitan a Lula da Silva por su reelección y apelan a la integración regional Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "EN VIVO: Conferencia mañanera de Sheinbaum (261026)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEdMRGFTSGo3ZVVmWTM5QjRjWDhfcDBtZF9Tc3JJM0dHT2VKVDVSaU91alNTb3RxbVFwaW94bWEtdzhkR2NsWFZqcERBTGdoZFZfVXVBd0E5Mml6OEdLb3VoNkQ5a3dGaTU5YjR4d1YwbFBURUFyMGFFbHZSLTRHaUQ4dTNEamNVQ1lEa1RxVFJZUFp0ZGtSQ0tVcEVmMXV6ZHRKUUxXRk10RlE?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 13:19:01 GMT",
+      "description": "EN VIVO: Conferencia mañanera de Sheinbaum (261026) Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Se va Taddei",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RSjd0RGZuVjNNY1NzeldKUW1KdDczenAyTXlKVDh3Y25JczBWRjNoaDBnV3g5S0R4OWxwaXc0cm85X2Z1NFBJSnNnTHY2bDAwR0dvNURub1RWdw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:06:09 GMT",
+      "description": "Se va Taddei Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
     },
     {
-      "title": "Crisis del agua: colectivos cambian las marchas por asambleas en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkxTLXNlMFZoNERKejhXOWdtMWFpeG4wOHhZUWJhRnF0WDBQSGdpMnoxNTdtM1hRQ09oRzd0RWpHR19tLTM1Q2lmalRqLTVJeW02ZWdHVW5GTTN4eHlxY1pRLWN1Q0VnLTNkd3ZJSDZaN0R1VDhOd3JEdzNOYkxEdWtiSk9VdDVmbThqNnNnb1UwWmY0TFNCU012WHlWOWRieVBpalp2SHl6X09aWWR0SHh3TEFpS18xMEI5cVNtWlVCbVFnUUE0aDdBSkxTcjdNS0hjVA?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 05:57:04 GMT",
-      "description": "Crisis del agua: colectivos cambian las marchas por asambleas en Jalisco Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Premio para Taddei",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UMTlDR19JQUg5VjNuR2QtNmJHaG9PTUh4MkFQX1FVVklHU3hVb2dCa3g3bHdwNk01UlREWWdnNjBySkF3SVRTbVVxcHpUOTVUa1N4ZkdmaHY4dUNlQUFnYVl5TE5qeXFKU3RrOTNmcw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:03:22 GMT",
+      "description": "Premio para Taddei Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
-      "title": "Sheinbaum defiende el sistema de salud y asegura que “está mejor” que antes",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVU1aMTJMYVV6bHNqeV9aS1ZodFBLNkdSeTctNFVnMzA1anBIanBIbnVqTEFXc0pMb05PUEVfMUhiSzJPRG5ueUtsaEEzSGo4YTBxOElkSUZVdllKNXV1WHRnMnlBV3dIemhDSGtsRk0zQmNiYmtkOUowNFNIc3VsVEJkRzZiRmw4TG5vcXNXeHBkT2ljd0ZialdubDZ6d21GSEFrVG40Q0JLeVh6RHJiQ3NOMFdXdUpoWW5Kb0M0djhuWmhUd3dzNGRaVVE?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 05:46:25 GMT",
-      "description": "Sheinbaum defiende el sistema de salud y asegura que “está mejor” que antes Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Privatizar el riesgo",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vQnVUaUM4VUItZ0RzZjJvcnMySDB5WFdLSExLV0RwWjRSNzAxN3NFd1lUOEFzZjYzakZINEVqMFV5SEYzMFQ2WWh3cW1jOG5mRDFJc09oMkVPeVBjcXMtN0c3QWJXNjhrY0JVYTFyWm9MUQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 11:03:22 GMT",
+      "description": "Privatizar el riesgo Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Difunden mensaje de Jáuregui escrito a mano; defensa prepara apelaciones contra procesos estatal y federal",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNXhLZGw3OW5vUzQ2MzhPWWwwSjUxOHhtX0hUc2VQVk1jcm5rYXVVXzcwb0tRSldMeG5tRGswSFpqdFR5XzF1X0ZoMk9sdk1MV1VLSDZaRFg4SHdyYURwN2VuSncwUzRsT2Q1bVRkWG5PR3AtWmM1aVdJWl83WGY3STRzQ3NsN1Rub0ZCNko0Nm1rN19KUHJlMVZHVlV6TWF1dUppOXYzaGNFajduYktHa2JPdVU2S01jdmZxTU5xU29nWXlqeV9UbEdUcURSQ0JrcW1XNGFlbi1XREdFdG1yZXl3?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 10:52:00 GMT",
+      "description": "Difunden mensaje de Jáuregui escrito a mano; defensa prepara apelaciones contra procesos estatal y federal Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "title": "Trump podría ordenar ataques de gran escala contra Irán tras elecciones de mitad de mandato: CNN",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORHBlNVpPMloxVVpueVNyaUotNEtWRkVCeURFVkQ0R0dLemFiMXhYNy1ZaDRMNFNaSW1PMndjVTFGc24zUHdRcTRnbklZdDZ0QTE2QjM5emFhWjZlSEpESTFENXZHUjYzeDVYUGxXWEt5RUVqajJKNGV2bE5PY1VUY3NZQzZTTjlkaC1lLTM1ZlBXRnZTVU44UUlHcFdRTmZMMFZpc0YxdkJrVzBFN0p6MWJzWGxVMmZ2MktaVFFmUXE2SElfVC0zQ3A5TkQ5bXZlODRn?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 10:20:00 GMT",
+      "description": "Trump podría ordenar ataques de gran escala contra Irán tras elecciones de mitad de mandato: CNN Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "title": "Ninguna imputación contra Landsmanas",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWtQQlRKOHFzcWFJVkYxb3FYNWxCZlZSWmFrLWhOOXNISkw3YjMxeEg4MUwtc18yWjUzN2JaWXhWYnFDOExRem9YdERoamFfdExfZ0Y4TzdVbXh2c2J0SFByOGtkU2dPWkdPaDNnYU9sb095bVdvaDZhRVNab3VNLdIBlAFBVV95cUxPYnRxRzBBSDA0UjNCelBYeENDMDVxTGxha29uY0N4cU5jYVpLbVBnT1loTUFFRUQ0elNTRHBSMEtaU1dpbXdIUW9fOEpBd2w1dExHRHpiSy11d0RzN1pPNl9VSWlEaldXVUV5eWJmTEQtelNvQ2RndXA0R0hSc2VvZFBDNTFCcXlYZW9yOUI5T0R6MmJl?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
+      "description": "Ninguna imputación contra Landsmanas El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Oposición exige ‘cero impunidad’ a Guadalupe Taddei: ‘No basta con irse, exigimos investigar’",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMHdfY3I0Z0dKUWMzWDBrcDJxQ0VRUW5OSTA1R1UwRjhaVFB1S3pGdHNjNmJ1bWxWLWRhQWdXRmJnd0t3b1h1dnEyX0lRODdRRGlBdVVEcW1xWnV6N2premNZNVVCVk5GODZWc3RoSEdKalMtaGgyM2xCUkk4TXBFU0xRdGRJX2ZzQjR3cmYzWXB0cXFSSXBxeTlWYjZKRlI5WGpnQmNBNjNhYXZBRzM2S0xvMk9lYnJVMHJMZndPSzViU09MSXVNeXJYZzRTcW9TVGFpS3d0TQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 08:35:48 GMT",
+      "description": "Oposición exige ‘cero impunidad’ a Guadalupe Taddei: ‘No basta con irse, exigimos investigar’ El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Maru Campos y el precio de desafiar al poder",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa1ZsWnB5WDhTcE5XQk5QS3dnVEhRcUo4V1hDdEptbzl4QWNpOU1LZnhWZ1oxSEx5Ni10a25qclBUcEJkZ2x4VEhVYUQ5VW05UkQ2Wms0NDBfa0s2cURjd1ZuOE4yWHNmcFJ3S1I5NE9ueV9ERDRMa1J0alRTcWFoQkhiaEVDYXk4dGI5V2Q1bEs4Skh5VFRQOTRxdmV5dzQ3TUNB0gGjAUFVX3lxTE05WHBTVGhES1BzQk91TncyR0JDN3NGNlRUOWs4d0c3eF9WNlFhakNieGZ6cVVvb0dLLWM5Q2RNUklMSEdTVTM4Wmh2U0dsMmxxNGRNdDZPSkFZMGlOQ3g4YjJWUFJsazlkTkh4b29UX0pfeXVyal9zeGZXbVJobTJOa2NZdm5qRmE1d2NLQm5HVWlDYUtQUkQ1VFpqcjNIRVRSbmM?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 08:19:54 GMT",
+      "description": "Maru Campos y el precio de desafiar al poder Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Más allá de Taddei",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYVB2N09Oa1NxSk1zVzZweTh4blhzTkhwZUI2bWo5YzR5UnlhZVFkQXdNNkVlVXI5d3Ruejd2X25peEVRZGpuZXN6ZVpJVlNOUHFQMjM3THRCbklROG5JZjgtTFBMV0JVNlhYaEhWMjZTYUhxNjJjUFJ3S0VXeEw4d2NTZ3c2UHfSAYcBQVVfeXFMTUZmTFJuRlpSU1hDbE1nNkQ2VkZHWWtScHdMQ0dNQVR0UjdEZ0JYZ09GV2pqcnZxQVY1dGVaTXJMemwwM2s4MTJIbl94TlMwb2dyb2o1eWlQM0hVSFB0cWpTNWhnLWU2Q1lQby01SEl6SzI4SVBUUkl2dU1KVUxpbTJNRnRVSmtz?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:46:15 GMT",
+      "description": "Más allá de Taddei Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Una advertencia de Lula a México",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjhNazRmRHhBX21RcGk0XzRVcmh0SDl0clFRU3ZvOGlja0p5UUwtU3dZaXBpLWRhcnctWVlFNWc1QXZDSklGa0VTRktOXzhtMjZLWVZLbmtpcHpGZXV3TTdYRFY5dnpQWTl0eU1Gd1RUekQ5bUUxOHB2X0hnd1NHYTRpaUFVbHVJQ0FmT1YxTmfSAZABQVVfeXFMTURJa3YxMEYzMzVuamltOG56WFlua0FTUDR4T3hZd0FSUk1PTDlLQW1fMDRHMXZNT0xpVVFXemxyYTBZa3lXTUhkelJLUWd3VUU1alZyWnNNdTlLbVBTaHBtaEVGRHc3dlI0WVBBa0J6ZVZ5YmYxdHRXMFRLbTBiVmJHRXBONG5RcmFnZ1pIeU04?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:28:22 GMT",
+      "description": "Una advertencia de Lula a México Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Adiós, Taddei. ¿Y ahora? ¿Y el INE?",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2w3bzV4b1Y0UDFBQ0l1VGVVejRhWFVGTEpNblhQbWJvdWFUZXVvU2FrbHJHX3JqTlBwR2JJZHl6UVBZc3c5VVZnSkowSmgyNTlTbWxjTFNHREZJTTl0RzFXUkhzXzFQd3hUc2xaeWJmV3k5QkJaSTU5RG1jZjVpTDRyYXV1dldkX2RoLVN5ZURPUdIBkgFBVV95cUxOdVhsbldvQWd0NE9wR2g5S0hLVV83TWJqNFhnNGQ1SEw0b3BCeFdQTWhkOWdsYmV2Rk0xQWhrQmtBM2xxUk5iTkVyaW52QWhmYUNuY2E1NWVTekZXN1lSX1EzdUhWeEZiXzFjTHRmVG5RdDROZE9MM0ZOMW51TDZycGJGRzZoX3dWd0JlaGFnSEFRUQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:22:56 GMT",
+      "description": "Adiós, Taddei. ¿Y ahora? ¿Y el INE? Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Anuncian paro nacional de transportistas: ¿En qué estados habrá bloqueos este lunes 26 de octubre?",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT09PTTg2eGdTbGlxUVpVZElRSXlJTjR5YV91V1RCdjNHN01QRXFUbEFoSFJoUGhIaFpkLVh5X3BpQUlsWXQ1dGtkT2haNnNDUjNyM1BlVkthVlQxWE5DQUhDMzZEVU1GTHlLMnhWQTJFeko0c1FEVlk3cTQtYmNKdVVKM1hZRV9yLW9Za2UxanVkN243NGNiRjJCeGMtWmhUU3U5TW44cklDNzk1eFl1UjlXaXUycnRFRFVRb1BRUzN5TDdFYk1nRVdDcUtyQUxEZlJfeGJJcTlxbDIzUHlUVjh6bUd1SzVJMVN2X1RzVmZwa005aWdLTUxCdw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 06:49:01 GMT",
+      "description": "Anuncian paro nacional de transportistas: ¿En qué estados habrá bloqueos este lunes 26 de octubre? El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Morena y oposición exigen investigar a Taddei y esclarecer presuntas irregularidades en el INE",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0dSc013dHk3bVFnWkpVMjhxREQ3TEhheEhIVzI1YUUySHBacklVZzIzVlZmMTIzYTc4Z3ByM3ZBRlA0V2owRHU0MnMtWjNBWDlNRmMzWjI3cGMxSzdaemJ6LVBQTEFKbXg2bHNKUk9pZWo4eE1tTXJ1UmhzUWtGYlhtVV9xM2h6QWhIazhqTWxLZHlJTG41NDZUQWItSXYybUVzM1RTb1E5S0xORHoyeU9Ganh2ZFBLbWI4ZUJ4YmdxZXB1SkJteWIyc0JQN08yUkFYalNBSdIB6wFBVV95cUxOM09wTF9nSWlXZHdyX3lDZjV1VDdRQTZvdTVRNlhkRDhmX2xmUDJ4aGxCZ3FJd1p1bzBUcHk1OW9raENsWWpBbHJkak94UmgxUXJWRDhPVDBuTXpOMVhnUHNDTHlsYjlISUFRWW5rYk45LVhjQ3VacE4wUFdPM3BNWnh3RklZMDVOdmRjVFB5azRhWEpLZ2p0QXd2OXYxWUU5MzMybTFuSlYteGQ3NHN5N2ZUOFFEQ0IxMUFyQjRod1E1NjhOVF9LaVZ2dUtidGotWGxORG16cURJRjlFVFlUOG5JQnlLOXFnUWZF?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 03:39:00 GMT",
+      "description": "Morena y oposición exigen investigar a Taddei y esclarecer presuntas irregularidades en el INE El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Tamaulipas fortalece coordinación con Federación y municipios para impulsar el bienestar: Américo Villarreal",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVGllNHNqdUlrLUZ1LWFMR25qeU1pU1pELWFDbEZkd0d6SWtjeDNwRTVsdk9zMENNMnQ4WFdMeXZxb3M5azgtRkZqWnE2NlB3NEFYcmVIaWpwcm9zbURfc0lFT1JQb3RRUzhxRklmYWQxRnBiVEJQLVBlcUZJb2w5LUJYTVRzODU1ekJCdGV4R28wVl9pZHZMdDI2YUl1X0NsOHpqV0FFT2pldVBEaW1QZWc0Z0sxMnlHN3NadHRaRlN3ZkFSWGVkdzJNSlJvM19UMGJyZVBsaXI0Z9IB3wFBVV95cUxQTEN3a01lNkVhV1hTSGpOc1Z4LUt6TEw2T0pmTkt5b2ljV2NyS014MWp0a0huUS1xRTF5R3EtY0REdTlzdVlnNzNPeDlPcmwtMXBpVFI0M1FzMkNlTU4wZ1JkME95b2NlakpMYzdtekd1Uk9iOTlGb3Fqa3B6YlZ6SF9kWWxCZUtsYTFfQ25lZzFXV1BjU0EtZ21GR0ZzZmUyNmFCbkhReURxTF9pVUZjYmJUSmwwUHJRNmFLQU9pLWszVEF6Tm5TMEhOckNVb3hkM3hpb3VJeE9KYnV3UzJZ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 03:06:43 GMT",
+      "description": "Tamaulipas fortalece coordinación con Federación y municipios para impulsar el bienestar: Américo Villarreal Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Lula: 'Mi victoria es una derrota de la mentira'; Bolsonaro pedirá anular las elecciones",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHBDb2tld0pEaFBJOEc5am5pN0FkdnZxU3hXQ0UzQXZBdV84SVBwZmNvekhSVU04NUROTFZuSFZ2Skppa3U4QUdYWHlBTHhGb3MtRHJ3djhFT3FMWGI2VDYwdnVHTzdiVzdsbUhVNlV4eDYzR25tZi14c3ZONk5tTUJWTHlGYTlJTnNQTVg5ZXNsbWRuNDZHWk1DaGNRcDhRZ2tzUzBiSHlxNFhPVHU5YlZLRUd5em5DNy11QVprOGNfRlNI?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 02:52:00 GMT",
+      "description": "Lula: 'Mi victoria es una derrota de la mentira'; Bolsonaro pedirá anular las elecciones Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "title": "Pedirá Bolsonaro anular resultado electoral en Brasil",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZjNnRJbXlWemxrOGIyMTNWU1FmSVJBNFBucWJ4WTF2RG5HVFVTenBINFVmQ2RqNkZlWW85YXhTUGZibzZIOHRxVTY0cVg0YWI0My1tWnY0eWFvc2RObWlRUm44ZVNsTjJtOXBvZjBZUXZmVngwNTJseWtRdGxqbHNvZlE3OWVOUG9mRWl1djQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 02:00:20 GMT",
+      "description": "Pedirá Bolsonaro anular resultado electoral en Brasil Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "“¡Viva la democracia!” Sheinbaum felicita a Lula por victoria en elección presidencial de Brasil",
@@ -103,49 +265,22 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Llevará Diputados relevo en INE; prevén proceso de un mes",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZXpyRGdjN3JFVm15ZkI5bFVKeTJBdU50a3BvQXlaV2RvX3lVMDJWc0VGZ2lEZkJxWVdINzBCbWlyaGloRnl4TWVUVnh1cTRtSGMwS0hOc091UzViWm5Zem41WFpMZFdGVVc0VTUzZVZJT0JsRl9UY1BZT2Y2RlZ5aGhhVUlCc3RoQmNfbzRXNWNhTnNH?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:00:32 GMT",
-      "description": "Llevará Diputados relevo en INE; prevén proceso de un mes Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Segob pacta diálogo con transportistas; llama a CANACAR a evitar paro",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkx4VE1SdG1lbjduRGc5Wm4yMkJ6V1Fpclk5dURxcDNKTjVjQzJQZS1wYV90MXVfQV9zX1NKTU8xTjhzMWtfSUlTOW0yU1gwYlJ5bnI2OGNjZ3BNam1kSWI2NW1ZQkhGTnV4aER6SXkyNDZLY2RiUk9QZWE5aGgtZ0JqQzFZLXA3QS1DMXVsYXptNjhBZHpCX08tdXRJMm1nYURWdtIBqgFBVV95cUxOVDhUM0NqaU5fSkdySm1Ma1ZLcU91NER3ckFMaG9JUHNhTGxpUmhUcEgtQ3JsQk9lN0V3ZW5WdDFqU1Z6ZE8ySUw0VlZBUHRQNmJ4VUdCVUpBcVR0bFE0cWIxOHNrcGdCQzN0bFByVUpMQ0llNzNmOE1oTVZhcWlZemNJdXBsVjcwVHVQTl81elFRUXptR3otNzFhV3JTRzNjaGpIWkJuY3pNQQ?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 01:08:04 GMT",
+      "description": "Segob pacta diálogo con transportistas; llama a CANACAR a evitar paro Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
-      "title": "Sheinbaum felicita a Lula da Silva por triunfo en Brasil: \"¡Viva la democracia!\"",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaTN5OFBpZTlRUXU4OEU5QTFLMC1ldVg1TFhaYkJwOXNRQW1mWGRLT2d2MlFYX0UydWswWUJLSXFSNDlTQ05yRTJaeXFfeFNtVGxSTUthdDhmY2EyQmV4ZmxjRzFIVGJUWUU0dUNGcjZ6WnR2T1ZQN0dnZHlOcUJjMkxsOU5VUEtkbFY1UUxncTd2cVVVTWlv0gGXAUFVX3lxTE1BOFI1M1YwclRvZlZmeUNIRWhMSzRZTG9rMnVfbV9kSGZSLTV1ZFdNdVF4cXRoRUt4X3U5WXBTRHFib0pQS21VVEo4V0k2UFh5bWhYeHJ5X005Rl95al9yazdCT21FQlRGNWhKLW9YOXlrVFVYSlEtT1Zya2JlTWxkTWJGOEQ3bXhGMjluSmZLUkdfdXFpN2c?oc=5",
+      "title": "Secretario de gobierno de Lemus posee una concesión de agua equivalente a 36 albercas olímpicas desde 2022",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa181c05ZeTEwOXZMX0xMUFB2cmpsa3lqdlc3YWZFSzU0c2hrTmJyRllvMEYzd19NTWhENEVHQmhyTHBBdWRvZWRJY0JiWkpBUFNVZlpyUGMxZW04dGhVODhKdl9lSTFwVDZYTmZyMm43dnpZU2VMZ3pRclNub2prMms3VVh4cUE2dF9RT0lFRjRKVW54U09mZzVnSG9VRGtxSTQ4VTNrVUdaTmdtb1l2WTU2OHdCdVF6QXNyVHA3M1NpRHZKVDBR0gHbAUFVX3lxTE5CVlI4SlBWNmZHUlM4UkJ4U1dCYUttZUdtZllxNlN6NHp4QTlIVkNqYWhZQzlZdEpvZnk5WFFBNWxJR2xVMzVXa0IwaFB4dEpOeEprZi1naWlsMFJIYXVtbkpJLUtZc2tOSWxmV3BUWWpBU1RZUDc2dFdNd2JOSUxCRUU3aVdEZGxjU04xd0V6aUdtbG51MTNDYU5vMG5VVUhEakt2MGZsbEtWUmdPNVE3T2xMM3ZtQ01mUmRlWUV4MEJ4aGtYd2JpcUxUQ1RrRGZEU2tnWEV2RmpCNA?oc=5",
       "pubDate": "Mon, 26 Oct 2026 00:58:00 GMT",
-      "description": "Sheinbaum felicita a Lula da Silva por triunfo en Brasil: \"¡Viva la democracia!\" Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Arranca el proceso en la Cámara de Diputados para sustituir a Taddei en el INE",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQd3ZWVnhjWDNqVEczbTZsT2VuU21rR3VEYm5lM3ZLSXFwVkZBWElPeWVPd0QySjBLdm45ZWRUNlNuUWYyRlFaTVg3YnlmTzJiQTBycl93eHVrelZBamZhT3ktdnlvLUphVU9TVGp4bGR2Y0NnaF9na1pzcXhUMzZUMGZPNkx2cEFfNV9GT3VmSjBFdWNTWS1QRkRYaE55QTBfQ25pRno5SW51UFhzdXQxMlMyUW5QLVBDZWxYcERzNVpNUTNvdXIwR3ktREg1X19lNlp3Vjh0dzZoWWtfSWk4?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:54:25 GMT",
-      "description": "Arranca el proceso en la Cámara de Diputados para sustituir a Taddei en el INE Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "PAN nombra a \"Felifer\" Macías como coordinador en Querétaro rumbo a elecciones 2027; Jorge Romero llama a la unidad",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ3Z5T1hmSUpJMER0a0FScThuVlllUGVIdVpMdDFnYUdOdVpWVnRYczRURkVxdEp1NFNsNUJ4UV96dThKRUdWaXJSYW5GMEtmc1kyV3I0V3I1UmNJVU5jaDBodnduSHhNcjYzOHNrTllXYlBMSW4wZjVKaGZWMHRDQWx4V0JiMVNfQTFrdllWZ0VGNGlOS3lMeG5Bb3hGVVhqN3BkVURDeUZpRFAzenYwanBxRURKb2o1bkRtSUlfb0R4YjRWUk54TmpRQnNBS3oxWERKZUV4Szk2MWJRT1ZQcWxqYW9sUdIB-gFBVV95cUxOTnpjbldtbGdaa3JoX2FOajF5MjBOQVgzRVZNaG5DclpUX2tWVE42eUZKQlJvSm9wVEdrbGVPcTAyck80T0hmWkQ4SnFsaXZKandLTEVuUW1Fd2Exa2ppSmhGblRtem4xY2Q0Y1c5VG5GY1ZhajFlaHlZNC1GTEI4d2hsN2N6aU5qLS1KYzhibFNFZDBBR2ZSOGJPNGo0UFNQLW1VeVdkUDNIc094bmJEZFQ4aVRDakpXc09sNVZ4UGFMWFVNOXRtc2dEQWtZd21EYm5tNmNCSFN2QW9aVnhaUkxDQ3RSLUJmVjhGZ1RaYm11Y01CbXctUDJ3?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:48:03 GMT",
-      "description": "PAN nombra a \"Felifer\" Macías como coordinador en Querétaro rumbo a elecciones 2027; Jorge Romero llama a la unidad El Universal",
+      "description": "Secretario de gobierno de Lemus posee una concesión de agua equivalente a 36 albercas olímpicas desde 2022 El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Lula será presidente de Brasil por cuarta vez; se impone a Flávio Bolsonaro",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1RmTmtPSUtScU5ERnRTM21neG1RTVl0c0YtdjA3X0xnRi01WmpDQTYxWnp1UVMyb21lOWw2RmpXSFc0TFZPRHZwRG5RYmNXYnU1eVc0RGxqUmh2LVA0eGtGUThVb25jamZLNXFDOEUzOENTX1FNT21vLUk5N2pqYmN3NHNhTVVPSVVaRlRhWHVqZTV6YzZPd05mY0VMcG1zYkpDLWpjbXBnbHk2LVZUM2NoVDlEOEE?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:22:00 GMT",
-      "description": "Lula será presidente de Brasil por cuarta vez; se impone a Flávio Bolsonaro Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Brasil vive cerrado balotaje: Lula obtiene 50.27% y Bolsonaro 49.73%",
@@ -166,13 +301,13 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "¿Quién es Carlos Arias Madrid? Nuevo Secretario General del Gobierno de Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd21KNkw3ZVRqT25YVWlOTnhwbWdLUkRLSGtUaWhfNmN5N2F0TG1tYzc2MWcxRV94Nm04aU52MERXX1FxZ0sxekp0YnhoOGNtQ3BXdlJvWlpIRkhrZ2FteGEtSmt4bnplX09US0FadUtMeXZBbW45RDNPQTdoZEJSYmFONjhHSVNDTnV1ejBfc3g1cmxHTDhqTnNXaFBXUdIBngFBVV95cUxPRWFVTTdON2pNX2hZTWpIbjlSSmxITkxsVFdLZURLeWN6Wk81aWdvZEVQd3J4a0F2NjJnX3kyVzBCdjUxd3I1NlB3eUdlcHVxZ3UyT0NDR3NyYy1pczNGajdDZXhxdTlpYUlMRENuQXd3MDY1aW1DWWR2dWJWd0RSeVRLdEM5dWdLMHZIUV9CTHdJOHplbDZjUmRFMlNFdw?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 23:15:00 GMT",
-      "description": "¿Quién es Carlos Arias Madrid? Nuevo Secretario General del Gobierno de Jalisco Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
+      "title": "Renunciará Taddei al INE este lunes",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02RXRLSm5XYU54UFpTUzI0d1dnVXRFNkFhdThrTTZ3bVRzYkNmMDZxSGxYdGowRXlPV2RuTlo3MEpiY3FUT0hpSWxhMU1vVzNJUFd2ZF9lRVhDYTlHTmdIMXpCTl84c01pSV83VlJRakRMcC01RzRINA?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 23:40:18 GMT",
+      "description": "Renunciará Taddei al INE este lunes Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
     },
     {
       "title": "Guadalupe Taddei renuncia al INE; llama a esclarecer “los hechos que deban investigarse”",
@@ -184,15 +319,6 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Renuncia Zamora como Secretario de Gobierno en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa21ncFlKbEZQcDNtSlNtR1lNZDdHaFpIZ2luVVI0SklZX2t4R3FCOVlLLW9fT050SVN5WVluNE5Vb1BXemotRnRmQWNwRHJHRmN1V0hfQlJLRUU5bEVLRmo5cW9ERDdjU2hzRXhSYzhleFNrblhTWFhwdnVSZ0RsTGVPSTVxZDN1Zk1oeWZGZEUtUQ?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 22:55:30 GMT",
-      "description": "Renuncia Zamora como Secretario de Gobierno en Jalisco Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
       "title": "INE difunde renuncia de su consejera presidenta, Guadalupe Taddei",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONFEteDc0SXBnVklCMjRTdE5WNDFqaFRGaVp2OXpmbktZTXU5aTBrWGV4cktSS0hINWI3VFdRaXlsNEg4ZnpMUi1xNjdNM0swcnh4M2o3OFhsMzhNTkJWRWxCS2ZPdmsyVXVfWllNekRBNkVtbWhyY19IZEpTYzNwc01xTy1kTVJpbzBsSEJOcFJyT3VtWEVF0gGrAUFVX3lxTFAwMS12aW1jREdNU0FNaTJmWFVVaWlCNW1KVUVBLXdrMDQxdlRnT09DQWpNbEdkUjZacDN2VGxQUHhGNERxR1VrOHJyTGlCaWo4M1g0dS16blpuTDM1NENUUW9DMEJjOWQ2aVFYNUJ0ZUxhWVh3cUVsazJ3RHVuX0V0ZjYwdXZqMXktZkF1XzdEWUctRW44MUliNk9GbHR3QzRXWnZpTy1PWDItMA?oc=5",
       "pubDate": "Sun, 25 Oct 2026 22:53:00 GMT",
@@ -202,49 +328,22 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Guadalupe Taddei se va del INE; presentará su renuncia este lunes",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXV3UTZGNmNmMEV3MmpvTnNYbVljLUtkcHZOTnl6QzNVeXQwNVJuVkdnUUJqU21JRzBCT082QV80X2NZU2tLQ0pXVzRkUzk4empEZFhkY2QtM3BuYV9kemtZRDhqRmROVzNlVTBqZzdyS3BBTDBxMXRtV3BjWXo5RjVJWFBaYm1mRG9nV1hCTU96aWNoYmY0OFNFUHRFODVSQ2xFWnhUczNYZms?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 22:41:00 GMT",
-      "description": "Guadalupe Taddei se va del INE; presentará su renuncia este lunes Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "‘Ni corrupción ni privilegios’, dice Sheinbaum en medio del escándalo de Guadalupe Taddei con el INE",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcjNOU05Nd0ptZVM3bkZvM1dxZTh5blJWQi1iWTdEbUlTSUFoeGJOcHFDSVRPUjBaNEhJOGp5YmhLeDlqdU5pX3Zjd1pHVURUNG9EVXdPUEtFclNnOFJmaE9Da1RJWkg2Rm5tWTdzRDlUdTdxX1AzUUpPNzhrTjg2bHBNZ2xjbDdOUlJRMWg4V0VlT2t5M283SWFFU3ZnZkRIRFdFNjd6RS03ZUVjem5pYlFGS0ZrRlR6UjRJSWxhdnIzQjlDR1dYRUN2a0NzOWtNSU1WdFVIRDVRcWh2bE5WdEE2RUM?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 21:19:40 GMT",
-      "description": "‘Ni corrupción ni privilegios’, dice Sheinbaum en medio del escándalo de Guadalupe Taddei con el INE El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
+      "title": "Feminicidios de mujer y su nieta en Chiapas fueron por venganza: FGE (Video)",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnZaZnlaUVJRdlQxMTdMQmQxd2lVZ2xObEtTU3hUQkl0b0ZlVGMyb25BRzRSTmMwU3cxak0tU3laX0NZdWJFR0lfS2VMblBtUmVYeVJ1SWRhVUdoS2xfZ1N1WHFCWmVpNlVfRWFWRk1rNHpDYWFLRGxSNGVCVWFwbmNFLVM4cGVYc2N0SzRPSEJEYjFoc29OYzV1ekttRWlGcDRfc21Kd1hxUW4wbFVsZ2VMQnllNzNBN2dZUVVkZUNBMVIzY1RDdC14ZTFJTzZ6SDRB?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 21:21:25 GMT",
+      "description": "Feminicidios de mujer y su nieta en Chiapas fueron por venganza: FGE (Video) Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "Lula vs Flávio Bolsonaro: ¿quién va ganando? Así avanzan los resultados del balotaje en Brasil",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmFvaGtMeDczZ3hoUUFMR25qdFdBZTByVVBKbjdmaUFwc04tXzhZUDdXcGI0ZlN5YWdPNVNGaUg4eEF4VG96SGxvVkdhZmpXQnh0b2FQN19CYUp6cnZid1dBMDQ3QWZrcVlDZGs0WS05a255QnlMR3RBVFBqdmJEZEFRRWRIM1lQdU1qU0RvMXR3QVV0TFJDU2J6WmvSAZwBQVVfeXFMT2p4WkdidHBVa09nV2JIVjhCV0VLZC1kRmFvT2ZOemF6OEJPZGhxd0VKNm5IN0tOX1hkeXZkaUpBWHY4Wk5DWUF2X0FmYnIzM1J6ZFpoV0ZCTFBXMndhY0JURkFPeS1GMVFoNjQwaE56aVRBeDBjM3dUajBkNjdlcWU2QWI4MUtzekE0eEs3eGk4emRxb2tQbXNJUDB3?oc=5",
       "pubDate": "Sun, 25 Oct 2026 20:25:00 GMT",
-      "description": "Lula vs Flávio Bolsonaro: ¿quién va ganando? Así avanzan los resultados del balotaje en Brasil Milenio",
-      "source": "Milenio",
+      "description": "Lula vs Flávio Bolsonaro: ¿quién va ganando? Así avanzan los resultados del balotaje en Brasil MILENIO",
+      "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
-    },
-    {
-      "title": "Fiscalía confirma linchamiento a presuntos asesinos de abuela y nieta en Ostuacán; uno murió.",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcksxRkNzNmUzeVR3OEp3R3ZoOFVFM25ONXZzMFRvMGtEYWlDMTNUX1RYTm5rcjBRUzlkU1VMVjNrcVZDQnBnUUdfS2ZoUWFmRlk2YnZYcWhHS0t1N3MyS0xxdWV0cVhtZ2NNanhyU3Y2a1phRWd6TmgtNFhMdXhZazhXOTVrZk5HRUp0cFo1UTE0cENORmhyUHpFNjdVRndQZEtEeDFidHdPamdfVWU2TUhUWE1nYmRhRXp4SVF0ZFMxMm56ZGFZOUtpQnZPaVhNQTN5STY0RDdIdmpWWEE?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 20:16:00 GMT",
-      "description": "Fiscalía confirma linchamiento a presuntos asesinos de abuela y nieta en Ostuacán; uno murió. Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Miles de israelíes exigieron en Tel Aviv una comisión de investigación sobre el 7 de Octubre",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2FJeWNoUWF3clAxd3RkTkhtTG40aXhuSDZkbW9HeXNsbjQyNlIza1IxSzlVZllmaEk4ejFTb0tVTmRJeEplclVjY1gtY2x2ZDFIUUQ2WnNqenFycEJLNzU2ajczV25tYzdnOElRbU9NSlo2aThwamQ4TGxJeHBEUkF6Njc3bkJGMkp3NWdTejQ0NWNseUNUOUR1VWdCbEhKSlBJNDAxeEZPaEFMWkdlanBib3lFbXFIeWlEV1M1X0NQNGxYX1pFOTBqUmZTVnc?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 19:56:00 GMT",
-      "description": "Miles de israelíes exigieron en Tel Aviv una comisión de investigación sobre el 7 de Octubre Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
     },
     {
       "title": "¿Quién es José Alfredo Hernández Casillas, el contratista del INE y cercano a Guadalupe Taddei?",
@@ -254,15 +353,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Regresa María Corina Machado a Venezuela tras exilio",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmh5RUlsTEwzMHBVclNEWnNxWGZBM0doQ01helpUVXctVFdzU1pWWU02Q29YOXVRTjZlc2xIQkluOEQ2OTJSSVlzSWk4LUl0XzV6c2NVd19RNEVabWtHemJyZ1A4YmhBdjQ3TUdVT0FpQlFXSUN0SGIxMVpmOXRmYlVuVE9pSEQzWVl6OU1mMA?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 18:22:24 GMT",
-      "description": "Regresa María Corina Machado a Venezuela tras exilio Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
     },
     {
       "title": "‘Estoy aquí, con ustedes’, María Corina Machado regresa a Venezuela tras una operación diplomática",
@@ -281,15 +371,6 @@
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Huracán Vance provocará lluvias muy fuertes en cuatro estados; alertan por oleaje de hasta 5 metros",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTF9Hc0E5Y25YNTJzSGZ3RWZ5ellYQlFEVHhnUmhBUFEyUjZlVVQ1MENSeU9IZG9ubHpSMEFkTTFfX294SUpqX0MzWEJJWmZEU3NBWTRrNzFpUnFWY21FZVFfVl9LRTlNRkk1bVBtSU9WdjZrS1YyYXR0NXFPdl9WaTNjbnNsVFRvTXJTZjh2LTBsZlVTUnJYMDNCQVgxa3lFR2U5bXlSNWRJTkw3dHZtVElrdXVYUTZYVHc0MExZNTNpa00wUXhrY2tKY1FlZ1lYNTZiLQ?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 16:17:00 GMT",
-      "description": "Huracán Vance provocará lluvias muy fuertes en cuatro estados; alertan por oleaje de hasta 5 metros El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "\"AMLO y Sheinbaum son conservadores\": Roger Bartra",
@@ -317,33 +398,6 @@
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "¿Te imaginas estudiar ‘Noviazgo, compromiso y matrimonio’? En la Universidad Anáhuac es una realidad",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWEJYLV91c2I2RE5BQXZxUllkYUdkeElGa0tHbFpiREhPQ3U3STB0X2RCaGV4SjVnWkQxbHNiV0NHV2xOWTMtX19lVWlWRGt0VmpMYldZWk9wMVpaR3F2LVVHbE5GbkNQXzQxa1h1TU9SdGpuRnBDeUl4ZEh1blJCWEVuTnducGVkOVlHb1ZSTXc3S0Y4b0dJQmZWa2pGWUZrdGkxeFFyVXlGdWY5SWNUcTd6RzJndlFIdHRxanEtMWp6X0VHcktpMHpIWjJkLUtxbklEYzlCc3VUUGNJRnF3OHln?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 14:30:00 GMT",
-      "description": "¿Te imaginas estudiar ‘Noviazgo, compromiso y matrimonio’? En la Universidad Anáhuac es una realidad El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Esperará Taddei: 'que se enfríen'",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EekJzczd6OUUxemJxa25NeFZCU1RzUnk3UkxaNWVhYUZYdFM3RldXdEc4WUdBU0xMZDVkRHFNaVUwLVhoRVNYSVA2ZmwyR2JkRHhna0prWkJtUlNYSm82ZVlhTm1QUUdVVnRlWW1VRmNTQQ?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 11:02:54 GMT",
-      "description": "Esperará Taddei: 'que se enfríen' Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Se tambalea Taddei a siete meses de la elección; piden su renuncia y ella dice… “no me voy”",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcG9XRmVFQ1lmVEl2WWVmVlplRXA4cDJNRFpzaDhwQi1haXU0S0swMnlZanRhLW9TeU9HNURLWjlEejNrWUhoMFp1UFpKbkRWbG9nc29jMlJ1VTl4dGp0YjVsVWR5YmVPeHU5MnR0amNHYi10VlhTTkZIUTNsNXhuSjB0VFBjR0hDQUpxRlg3NlJtTkF0bWVFbG55UUtzLUlRZTFEQXRJU1pxcEZKZVZGaVNxZzRUVlhreEZOeHlxcjRqY3RtLUYxMmk1eG1wOTVaVm15a0Y2SF95U2Q3RE96UXdXOWluMHIycklsZVVuZ3dubVc2U2fSAYoCQVVfeXFMTnhEMXFSeXFETjRZclE1TW9rUmIzTUlsSE9Hc3VvM1p2NUhzWDRUelloWERXQ2ZhTkZiUThVV0RjWDJ2UVFST0lWbngzMWkzTkhBalF2TlFWUVZsNVBQak5BZUVwUkEyM0pqMFhvaHNUeFZoeFVaWGxoY3VuSUlqSWRsOHJTSy05YVVkVkE5ck1VOWw4MjBCaWhpM1dZWFdMT090aGhvU3pCcTJ5QzVORlU2dDhqYmNrM1VVTlhvQ1U4MjZkdXVDTXJ5Tk9PWFRtN1liSEtFUkkxWHctVF9ad01VaV9VUHQyRnhCb3lqWnB1dFZZMXNCOTFUcFdxTVNaekZrby1SLXZJaVE?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 09:23:00 GMT",
-      "description": "Se tambalea Taddei a siete meses de la elección; piden su renuncia y ella dice… “no me voy” El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Exigencias de renuncia al INE cercan a Taddei; diputados cocinan relevo",
@@ -391,33 +445,6 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Entre señalamientos de irregularidades en el INE, Sheinbaum llama a evitar la corrupción en la 4T",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXdLaW9TVEYzMHdrVW1ydW9JanlKTUR6RjR2dzBiYWNMNEg4bjROM2F3SmRwUE9rVGg2WC1aYmxtYnY3NU1IeFFmZDQwNHg5VzF0WkRubTBWTEhBVUp0LTY4cmh6X3BtODlqWEdNbFhlSFBBU1FBWV84SWllZ1lWRGk0SWdIa2VvQ1Z1VmpoYUxDb0R3Qkp0LUM4TUZYYUpiOVA0S1REWFNieGJCZ0diSUxSbTPSAboBQVVfeXFMTTJRUlljWFdrVnRkdVIzSF9QbGJ2eVRZVFRFejZDVDFGdm1mTTNYOVUtT3BYN3JNT1pTcGE3RXFqNlFpb2ozVGNwRGx2ejFfYlpCanFwNVpZRlZ1WktrNVQ4QklaMl9NZjhjZlpzbEhhNE1qZWRWQXZrelZlQkt0Z18yVnlEN253dE10NTJISDB0QXhZZnd2ZG1TSzduRXRlOHVxcVg5bTgybU4xbm5lR0Nha2xsS0VOZDN3?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 19:46:23 GMT",
-      "description": "Entre señalamientos de irregularidades en el INE, Sheinbaum llama a evitar la corrupción en la 4T Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? | Lista completa de los posible",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUdwaXJuM01RY0s5YW52X3Z5LWZMY3B1TEFDa1Z0cENLZkxDNDBKNm4wUGY1dkZOb0hPQ0gwVnkwaXhrN2hXM2RsMkhSczFHS29wWk13WmwyYkJSZFh6VHlILXhzQ1gwY0VBb0dXdmJ4U0Z2UG51d0YtS3NseHVseXNtY1p2dmh4QlBCMUh0SFJfcXF5MlHSAZYBQVVfeXFMTWpZXzV3VjhFTHpRRy1McE9KRjJQUDBkVGdOZktncDNoMk44bmZTQTd3UWw4NUJhc0loNlpsS1B1QWp1cVJFaERGdmpRUkJJSVk5T2dyN2lBSTNzTWMyTTByOWdjYWdqVEZxejVnbFowcVZSeGpSdkRZejRxWnZHanJyZzNmVC13eGh2Z3lfSWpNM2ExbGV3?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 19:01:00 GMT",
-      "description": "¿Cuáles serán las carreteras afectadas por el Paro Nacional de Transportistas? | Lista completa de los posible Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Video muestra a contratista del INE en hotel de lujo de París con el hijo de Guadalupe Taddei",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcDZVbk96WXVYcGlSY0xMQldiNC02NU9ONUxjQUZFSHgyYW5TMXY3WWoxYVM0V1lfaXBiUDJCbHpuT0JpR29lbG5tc21Vcm4tUThPYzI1Tzl1b2hOZ0tyZXJzcXAtdktpcTRleFI5djFmQmI2VzNXTS1OcjhFY1ItaUFqOV90TTVsN1Y0bGJ5bG9CMEh0cWZwaXoxTGo1Yk1YaV9ORnVWbXlmS01XQnBSXzdaM01wSWhVQTBvSGtqaTlYR25QeEpCb1g5eUdueGw4ME8wVlZpYmFjUTF0dmc5SWNGOG11VWM?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 18:16:50 GMT",
-      "description": "Video muestra a contratista del INE en hotel de lujo de París con el hijo de Guadalupe Taddei Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "¿Qué sabemos del viaje del hijo de Guadalupe Taddei con el contratista del INE? ‘París a tus pies’",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRE94a25TMVNJTTgwQXVTdVNGa0Jza3pEWmJBWEl5azBfZGVhTEZEVHAtRVoxN3NieGpDeVRfUzhHQVhTTm1pZzZJbGdBZmdrM1RKRHF5YzEzZGxoV0ZkaF9oZ3F3VTZ4OE16OHBTa3VDRTJqT19ERVZqYVN6aUJtcDRVVHBuZXJBSDNtZkFDS2htOWR0RkxNXzdvbkZhaTFNTzFhYm1od0RiMk9nT0k3Y0lmMFVJNEsxZnk5d05JdXhlZjJnMmJVNUNFRGlsTTJOMHFZbXdkbVZReFpsbXRUcw?oc=5",
       "pubDate": "Sat, 24 Oct 2026 17:17:02 GMT",
@@ -445,15 +472,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Samuel García veta reforma que permite gratuidad de casetas; señala invasión de poderes",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeW1xU1h6OG5yZFF3UUxVbXpLMmhIVmFJV3F4VDlJaTJvN25BWHRPQzhFUXJXNS14VTV1OXJrU0VIR2hBUnNycXZlcWotX1JDZExfQzdxTENpcnNSYWIyWlJGS0paQTg3ZWtQRGx3bGNOb0hlbHZELTVQZUY4LXlXTlc2eHE3T3VwMW55Z3FrU1NJRTEzZzRSVWcwMld2Z9IBngFBVV95cUxPck9Cd2hRTTg4UV9ObWZGQWFwQ0Zsc0hyN0ZBb3BDTDI0V0FLUHpOUFNaVHJiaWZ6T3o3RGpvVl9DdmdUUG81TnZ2S0NaTVJ6aWlEUnVEcU4zWDA0SDU1X1BSb05sNVRxZGFFZHJrblZGS2E5em9CUTRNVDIwUVJTNEFxcGpxcXBfM2g4ZFdMM0FrTWRHWW9yelNBSl9SUQ?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 18:47:00 GMT",
-      "description": "Samuel García veta reforma que permite gratuidad de casetas; señala invasión de poderes Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Explicador: ¿Qué es la Modalidad 40 del IMSS y por qué cambiaron sus reglas?",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcURSYkhpUHJpSzlfaU5fOUVzNy1LcWY2U0NVY2lnRDh2QWxnYVAtZ3VhTkpKMHduSW96SjFnaG1UajZhMVRROFRGaVJPYVBJSjRQbG55UHVUSDBFT3VaN3RDOF83cVM5Y0dZRW5JVGpqZFhCSzNUSXRSbnl5cnlmVFhIbEl2NUNTT2JJVGl2V2hOb1hKeVZ6emFwY1NnMmdnNl9JTUczVGthMThzNFhpatIBtgFBVV95cUxOMlVLc2dBVHVaMUZUYW5qNXNOMFpGM09qRkRnT0VCdlQ2SkFVMkpjaWtIcDBSVW0tR0VrMFdkeXVGMkhEc1RoNTRtWm1MMEZnVG95dEVhMG1odVExX1E4R1J3ZjlyTFZwM1RmOGRmVGhkQjQ2MVRRcjF5ZUQzSFZISWk5QXJYa2VTWHJRR0g3aU1Ga2xqQlFDb3NjdUM0TDFxRHYxb3pVNE5BcDNfQTZ1UGl1RHRoQQ?oc=5",
       "pubDate": "Fri, 23 Oct 2026 13:21:26 GMT",
@@ -470,33 +488,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Miles marchan en Venezuela para pedir el regreso de María Corina Machado y elecciones presidenciales",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUlhmSURTLVlrV0pzU2ZNZlliVi00VXdZVUFTdnRWdF9BZUxCWW4xZ0piMVM3T1dtM0hJSWFMbDNmUmRBNUEtd3BncnJUMF82cVYyMGpJR05QZGVVTjU4ckMwaUJiLXRneUxjdGVXOVVXenNEdFh2YV9tRXZfdmRacnBWcWZQZmh0Z3RGNVMydEZCV0R6UGJHeVFGV0d0QnVWTmtsdzhvQWh6RXA4Uk9kbTNPNzZWYmNGemtMSGhQWWlZXzM0RjFubkZwUU93MngzTHR3SEFiVUFQdU9GT0tyczFHT1RueWxr0gHuAUFVX3lxTE5vcmdlLVBDbFduakxaaHNNWHIzWUZZNmdCeXhTdFc2N3hFYnFzNE5UV21IcUlqRmRqUXVYVUtkY3U2RU5kcFRkeW5sLW9MV0VSTDVNTmhiWHQ5Ujk2UmhJTHFLY3RrTFNWcEVaQm1VQ1V4Q2VxYi1zVTNJRS13N0M0VkVRSkx4N044czhVUWJlcFhaMnJzUTNYd1VTdUVuUjdsa2llLU9QTGs3LTdhSk5wS2ZGTFdMQWlUdkhIcHdLaU1qb2VRbzRXRVpEWmFQV2YxdnJuOGh5Z05yeWd2cGdqeUN4WW1LdGZQWnJvcVE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 01:45:13 GMT",
-      "description": "Miles marchan en Venezuela para pedir el regreso de María Corina Machado y elecciones presidenciales El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Corte ordena entrega directa de recursos públicos a pueblos indígenas y afromexicanos para infraestructura social",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNlhRVklzOEhjbE1nN3dhTG90WnBPZFE5MXZBdW5HLTZoWUxGRzhyTjhOVjI0d0k0Zk83ekRPdjN5cWN4dTYtNkRjQmhpcU1wVGgwV0djQjlsZjJ1VmxHSTNNbjhGTUMydGpVSm5HQnJxTXZOeGhqV2o1SGRZbXlaMjI1T1liZU9DU0N6eFdBMVVDT0p0U0pfemVoWFFFQU1PVElSN054OXhlTnRkQVN4bTNldU1OUWdBZDdvRXRUYWYxbzhRSXRqZmk4Y3JOUUE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 23:39:42 GMT",
-      "description": "Corte ordena entrega directa de recursos públicos a pueblos indígenas y afromexicanos para infraestructura social Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Regulación a Modalidad 40 fue porque se hacían fraudes para aumentar pensiones: Sheinbaum",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMnlKV0lNWWZkZ2xta0JMdVk4MDUwSC1FM0dmNGZCbjNRS2F0c3NKNF9oYmQ2YXlxYW8xcGdKU0dqcHdPbjY4YVVxV3pGdVBUUllSNkZuYzNwdnRPVnBLMEIwVXdNb0xpRmI1NXd1XzdxVXZLVS1fTG9DN2F6amJDTTBXVlNGWGxTUXFzRXB5eXJUMnFz0gGaAUFVX3lxTE1rQjBzMjNnblR0eW44b0RTM3B4d0UxVlFCa0tncWM3NUVMTlQtUFFvdEhvQ0RGcndDUVUtUnpoM0tuVTVlS1N3T0Z5QktzRmhIaVJFRi1TTUxjLUUtVEpoZ084Q24ydEZkX0I0bGJyUWl3ejJZMmZJSmNjMWxBT3l4Rkszek5acDhIQWtmSEt0eXd6Zk5kbUNtSFE?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 15:53:14 GMT",
-      "description": "Regulación a Modalidad 40 fue porque se hacían fraudes para aumentar pensiones: Sheinbaum Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
     },
     {
       "title": "Protestas en Francia: cronología de los bloqueos estudiantiles, disturbios y toques de queda",
@@ -540,6 +531,15 @@
       "pubDate": "Wed, 20 Mar 2019 07:00:00 GMT",
       "description": "Hidalgo prohíbe a establecimientos utilizar bolsas de plástico, popotes y unicel Grupo Animal",
       "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "NarcoData",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMFVsRFlsSjc5bEY5ckpLb195Vng5RTRYSlNjVzJPeEVzN0NJU1M2eUlOMXYwaGpZWlZVelE5N18tNlI4d3Z1Tlp3TFJwUQ?oc=5",
+      "pubDate": "Tue, 21 Jun 2016 14:58:07 GMT",
+      "description": "NarcoData NarcoData",
+      "source": "NarcoData",
       "outlet": "Animal Político",
       "domain": "animalpolitico.com"
     }
