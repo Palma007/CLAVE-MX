@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:59:30.744Z",
+  "updatedAt": "2026-10-26T08:11:48.405Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,58 +64,130 @@
   ],
   "items": [
     {
-      "title": "Lula, la épica de la izquierda mundial",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMzZ0cHN0SGIxM0s3Y0JOeWcyR0xnYTlHSldmZHhMV1R0MGUxV2ZjS3lhN1ZyM0xMUlNJMnZWb1Nfd09zOW5oaTZ4VXJ6aWtXbTd6dXB6VTMybXhKU1E4bzZocHRQNmxxdjVyQ1pCREN2VVhtNFd5bTZnR29KS1pDQzRjYjBOb2_SAZsBQVVfeXFMTmhRaUlhb0VqTUVRZ29YUk9hUEpSZXAyRGYzU0VHalRxZG82ZHpaTVlYNFgxUzhsSklCY2hUNWp4ZUkzYjNrS05CT0Q0SGlzTDY4c2FVNnNIb3pvLVdUTmJKTlVsbXNFcXhzaFRucFZPQ215NDl2S3JfNUxYWVVHNTVJRkRXaWZQLXVjU3p5elZLSUdUZHpZZS0wWnM?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 01:22:54 GMT",
-      "description": "Lula, la épica de la izquierda mundial EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Europe",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 07:12:49 GMT",
+      "description": "Europe The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
     },
     {
-      "title": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZld5VzB1X2FKRnVlYjZFUi1RNEsxaDMwR3ZnU3BjUl83UnZ6SUxmaEN3ZUVFZWJ0cHdqblk5Vm1HNUxoNHVXY1h0d2xTUEFFUmxaQWNyM1BBQWtFRGozeEs3T1I5WW5oeThhRV91djVDTmRIRFVlaW1BRFB0N0w1R3g2VzB6bzkwdlFVSlUwa28xZndjMFVCSG5UQ1RyOUdjOVEwd3RWS0hvWGwxd09oOTZYR3gybGpENmRqREdSSkdqLXZ6V2U0MUIyZzlvMHlEWUxCRkc1MzR2bHV3Q21ycjM1enJ5YkEzMVZWNjNad2fSAYQCQVVfeXFMT1NIVXltS0JtYnlsWi13Rm9DeVI1c09VRVBfVlluWVdObkhPQzJsbnZha3hHVEZ6TFBXRjI2UUlTdWxIclBVTDgtZl9HZVZlaWNOU1h1YXV1T3hYd3diT3BCQ3JyWThocGNZb0VlR1BkVllzVGl0MVVaY3pTTUZDdGJvanJaWmt2LUtvT0o3ZWd1c0NsT0pJMm5wemJoMER1aWlWeTY4SEItb2gyLXF3YXZHNDVCdnNmSmRhb1U0bjFwVG1Vb2tWb1N1R1dHOURoVk9taWs4aVdiZmdHTU1pYWEzU2QwTHRUWUwxTEUzR3pCTWo5RWtydkFSLVdXYjZ3T1hUTUs?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:41:30 GMT",
-      "description": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVGp4ZGM4aHpyYUVrcXZCcDhXWkhJeXFoQ0htdU9KYTBySHMyR1lva2pNV0NibUxJUjVZWlotMlVGa1hwOHYtQ0djNTF0OEZUcURjdlktVGNKVzRi?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 05:04:11 GMT",
+      "description": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
-      "title": "LO ÚLTIMO: partidarios de Lula celebran su triunfo en la segunda vuelta electoral",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3QySWJ0S1prdExLd3FweU5mbFQtYU5fSVJyVDZtMU1QbWxWcmFUZmU4Z0Z3OC1LaE1XaWpuY051R1FlT1czX2s5LUJzSkVLLUd4YlNlcUNxS21zdUpMQ19aN0JNRjdoMzRBcXNHODBGRVBNV3B1RFRvOGpOM3A2YUdJODRaTkszN1VtZWQ4Q3AybG1EYkZfT0NvM0x4NzU0amsw?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:36:00 GMT",
-      "description": "LO ÚLTIMO: partidarios de Lula celebran su triunfo en la segunda vuelta electoral AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Bolsonaro dice que pedirá la \"anulación\" de las elecciones en Brasil",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFF2S20wdlNPQWxuN2ZpbWVsTVZSY3JVX2xqR0pGM3VtWFVYNnpvbVNGdnhHQk9ZT19PcngxUG5xampyVGF3MkdCOGN2NmJjZjAtOWlkeEFCY3U5VUlOZmpQa1dhcUFBTGx5RFlGOWxzYng4aFZxaVpzYkQzUVRyQXJiaU13T2dUb1piNjJIa1BpekZQcWV1c1hpb01tMU0yVWFjNnpEa2lXbmp5bGfSAa4BQVVfeXFMT3ZlT01Tb1dpcWNGc0RfTVVRTUhfYlZCZ3JORjlzeXBmcFI1bDJKeEhXLVdVM2RmOG9iYmRUMXdLNTdLRHAzYWExby1Cc0tHenFFYzlnR0k0SDdSbzQ2b0lPNlh6WEpTT2RHYWZ0bk1UZ1JQMUVHM0lQVy0zUEdQTHlsdkRuOHAtMFZmUTZ2Q3lTaGpfWnZ1Z3ZHektuVUI3V0tqeUVPNS1Eb01jenNR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 03:58:08 GMT",
+      "description": "Bolsonaro dice que pedirá la \"anulación\" de las elecciones en Brasil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
-      "title": "Lula, crítico de Trump, gana el balotaje en Brasil y obtiene su cuarto mandato presidencial",
+      "title": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVR1Y3BnRFY2b29BTWdjd29raUFzSElhdGlISko0ZWdXa3prSDJST0xSR2xVczhqT2JKTjY3X2pMd2xNdE4zcXdlSU5jTUt5UGoyUk1abU1CX2pEVHNHMFJaU1hOTlNzbE9PMEJVNklDcTBZX011d09tVHVkbXp3UnBoLWVtV1BNTkZ5OFp5b0dfZUozMmhCWlFYUjVUaERHaWZoeXUyaFU?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:33:00 GMT",
-      "description": "Lula, crítico de Trump, gana el balotaje en Brasil y obtiene su cuarto mandato presidencial AP News",
+      "pubDate": "Mon, 26 Oct 2026 03:39:00 GMT",
+      "description": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
     },
     {
-      "title": "\"Estoy aquí. Con ustedes\": la líder opositora María Corina Machado regresa a Venezuela 10 meses después",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LTzQ1b2xpTW5hYlR6Q2FMZXdEbDVmTzl1N0ZhelF1V2J0czI2aHI5dkIxTmR2cUxuWWhNUDEycS0yZ0d3dVZLTmE2VlVzT3pnTGwxVVg3VlpoVjZN0gFiQVVfeXFMTTNLTkh2N0pNckJzS1FuZlM2VzUxTTJfY2dUaU1IWjBRRHl1d2RsNVIwMlpqR05FUERkM3Z3QnVibERVOTlNSFgyTk5XVGQwU0R6dWd4N3AwMVQ2THJRaVE1b2c?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 22:52:30 GMT",
-      "description": "\"Estoy aquí. Con ustedes\": la líder opositora María Corina Machado regresa a Venezuela 10 meses después BBC",
+      "title": "Lula: “Mi victoria es una derrota del negacionismo”",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGZpZmlXY09oNl9wUU1IWGtubEZ3aWtyOUU1Wk1BNjdnSGVPcEdfV3JaWk1yZWtrdEl2bHVhNGtUbDJzVGtCcjgzWDZiRVlMMG1wYWdadWhBSWkwTEQtM1BMR0R3emljeTZZb1I5cExZT2JzeUtnai15bkg2Qkpib0x5U1dOUV92YVlTWVAtNkxQOEU2VnfSAaoBQVVfeXFMTzdRUUVVd2V4VXVRMm5YV3pFamVhMVhLQl9zSGVxX25zM0FQM0JydzRObFVpdG54RVNYTkpBYUd0YWRENHlqYmVUaUkwYjU5RWp1dlZuUDZmVlQ0QjlnY0dnRTltZXUxd0t0b2lsRW4wZWQ5S0dsX2Vwa1I1U3dHdWNjVmNzUmQyRmV5Um4yUkV3LVM4SHBFXzBYb3ZSN3dpYnQyOWU1UEhFcVE?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 03:03:33 GMT",
+      "description": "Lula: “Mi victoria es una derrota del negacionismo” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "LO ÚLTIMO: Juez dice que ampliación de horario de votación en Brasil no tuvo impacto en resultados",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3QySWJ0S1prdExLd3FweU5mbFQtYU5fSVJyVDZtMU1QbWxWcmFUZmU4Z0Z3OC1LaE1XaWpuY051R1FlT1czX2s5LUJzSkVLLUd4YlNlcUNxS21zdUpMQ19aN0JNRjdoMzRBcXNHODBGRVBNV3B1RFRvOGpOM3A2YUdJODRaTkszN1VtZWQ4Q3AybG1EYkZfT0NvM0x4NzU0amsw?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 03:03:00 GMT",
+      "description": "LO ÚLTIMO: Juez dice que ampliación de horario de votación en Brasil no tuvo impacto en resultados AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "La ampliación del horario electoral en Brasil genera caos y desgasta la credibilidad del sistema electoral",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVE12V3diR1VfSlJrX2d3SUFvQ0swM2s5VF9UUnA3TFRJbEFDXy1HX2xqaUFWRXUxMXpEbTl2NkVrWDdwNzFBeGlteEw5RmoteUpfdUVONjh6Q0hoaFZGZGlDSm14SWt3OFpoTTFzLUp3dF9zai1pU1cyMWRQV011b21WSXVFZVpmaEhEQWwwUFdzSDgtWTVQSUZpdzQ3MFZiaHpaTURYc212Sk9vQTJtY2lEMEhSODBQcWRwYUV0MGZOTy1IQXdZRENyVFQ1NzV6UFRENjhJV2h6WWl2QUV5bDRuSdIB9wFBVV95cUxPRjNvb1k3RnZnd0tQSGZ4YjVUSk9tTVBlM0YwOVJKc1NrVWJQcjM4WXBhN1UwY1VqVkZlTWNPNGI4cjBONXJYTWktdnZ1VEJSM00ta3hVRVhmZE1OVnI5NUcwUmU1NjNhTUtjNVIyako0Yk5leEdkRENaLUxEYm1aN2JwNDFRSUd5ZEJzOVhINy1NYUM5U1UyZVBfc3hQSEVPQl9LQjFCbzdQVmhTVFVUdnBOcTRDd2YwTEM5RE9mYlB3M25tY2x3cEVYQkVLc09uYkdOODhEUTBRWjN5U1BBazI0WVIyRmFKbU9MX0FRNzdfWjFXcTdR?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 02:41:02 GMT",
+      "description": "La ampliación del horario electoral en Brasil genera caos y desgasta la credibilidad del sistema electoral EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "La derecha gobernará la mayoría de las regiones de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaGdVOGVTR3VWVHlKSExFaU8tZi1lT1B1RFFmZnFfT2hTMDVwQTNOb05UUEJRSi04X2JqcjJsaVdNc1ZkX0tVdTFUWVhXU1NiWVdDR21feDU1dGdrQlFNQlpReGlFUUVwY3M5ekQ1b3VrV1pvQkt1d0FuVzBxYUNfMC1CNnZiV0E1Z1JwbGxoS1ZremxPYXl4ZHZXTkR6RWtCODZOR1I4TjdQczJ1RWZ1RlNhVmlwS0pTMFFlYmJmdmRISDA4N1paTlBYYWFOYUxp0gHQAUFVX3lxTE9XNWFVdzdnOXlzVnRzdUpqTkxXSlhBWFJWc25qWkxzeWxTcENrR2xPRHhBMGhPaGJGSEpwZUpJZ0xULXFHYjRlQzhxUGhKQkszMVh0czIyWXhJYTNDaldkRnNnTzRwcnFoUktTWGZhTDBqRU5rbTZjYmRHUk12djJWWEZQNTgwVVB0MDdSazNDdzNSZFI2bkN6WmFVY29VcDlHMHByVFAxRjVBVWl2NjdwWjZLeEx4cnE1cW1lcHNBTG5qcjNKX01zeW5oNjk3Q0M?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 02:19:07 GMT",
+      "description": "La derecha gobernará la mayoría de las regiones de Brasil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Regresa opositora María Corina Machado a Venezuela en medio de dudas sobre democracia en el país",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWVLWFNXcXZCWkhxS1ZkWjNtVDEtY3lubmZFc21pdmpyMXlaMHZHRHF1aFlQVGFoeUdnRVd5SXdoQ2xDd2hwRlI0cU56cEVlY1k4bDBLY3ZxSDk4NlBmdVQ3RTVkNUN1dlQzV3lhVjlNWnVaUURRMl9xaXZERGpST3Itc2tkeE1wd1YxQU1jNG01TnF4Q1NNQ2JJWDRreGFWY1B1XzFTSVI2MDRiSVhvWXFB?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 02:12:00 GMT",
+      "description": "Regresa opositora María Corina Machado a Venezuela en medio de dudas sobre democracia en el país AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRzRSZHpmNlIxREE1bzYtcHZMNVpKbldCaUM2UC1CMWNZdUtETnYyOEY2MWpzSEVaUjI1ZXRNel9ZSnk0ME5tUDVSZWFFSk02aDFjVnp2OUtoY21a0gFiQVVfeXFMTkRKal92MzIyS19VcVMtQXhqMzF1QzNfYl9hVjE3WGt0QUVvQjBpc0h5VVp2eXBSc0l5SlJzTlVqcVpHVWQ5TFBHMS1XLXB6cWdVVFlSUDg3bmtFWGhtTkRiREE?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 00:56:22 GMT",
+      "description": "El último gran triunfo de Lula: por qué su victoria en Brasil tiene un valor tan especial para él y la izquierda de América Latina BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Lula vs. Bolsonaro: los resultados muestran máxima igualdad en la carrera por ganar las elecciones de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVGp4ZGM4aHpyYUVrcXZCcDhXWkhJeXFoQ0htdU9KYTBySHMyR1lva2pNV0NibUxJUjVZWlotMlVGa1hwOHYtQ0djNTF0OEZUcURjdlktVGNKVzRi0gFiQVVfeXFMT0s0cjZSQ2RxOTlNc3ZzREI2Z0JMS2w3Um5aTTg5NlBoUVRjamhwWlIxUy04R29HcjdPbFVBQVZxOGlIVHd1aGV4eVpwV0h3dGxiZ3k0SDlKbW53czZVZlRNLWc?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 22:46:27 GMT",
-      "description": "Lula vs. Bolsonaro: los resultados muestran máxima igualdad en la carrera por ganar las elecciones de Brasil BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Lula gana, pero el Brasil que lo hizo imbatible ya no existe",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnFOcHRCN3VLbkUzRlRWSjRwX2ZyYWhwM1hjQ2N4UXQwV3BtdUNFX3NrSTlzMHdLSTBQLVBDcDg1VWdLSDdEYWNQQjBtOUlUX0VGemI0dXBXN3JKeXRranNNdUpuSHM2a1FROEt4LTluR042cWlGeVhvell1WDliOE9qdmNQTWFqWUZWYURBMHJ1LURWN0gxZ2l3aGxsbEh6U1dCYtIBuAFBVV95cUxOSDVoWFlVMXI0RnQwcElpS2oxVHozOUg3QW1YZ3VrTG5hMjhtUGJRRW1OLWMyM29uNThoQnFuaVBIWGhNR2R2Z2t5REM2MGtZbEQ0QVFVOVJFVVA4XzRDMG1KSmVfUkxmSmRyUmQwdnpKN2VYSE9TYmRlMVdVN2FIbm9FTURhYXVKazdxTEFJMVMxekVkdzlXSU1RcmFMY01RMmtBdTVrWGdlNkN0S0JWOFg4dFUxenRE?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 00:53:02 GMT",
+      "description": "Lula gana, pero el Brasil que lo hizo imbatible ya no existe EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHkwODI0ZjducW5NdmpvTWFWOHI5U2xQNThiU1ZibDlhbU1hRDFpbURJRnZhOThnb3ptaEZTb2VnZ1dGbGZlTmVqay1RSmlRTDB1MWQ4QUlzdEd3N2VqUjdMVlJ0X25TYmdxRGtKTm4yd3NLOGZIbHlPWnRTcXZxQmtpWERJWks0UUh0Q2xvanhqYVQ5UWg0WnRiSWQ0X3NYSk5VcEV6aEJnVjU5MXllWE1NUUpEaEtMQVVoTGpZSUdEZGFtMHRFMWNmcTNpRm04R3Fr?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 00:23:01 GMT",
+      "description": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Zelenski anuncia que habrá reunión entre Ucrania, Rusia y EEUU en noviembre",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUxqU00zckl3aFlUcUdnTTFId2tZdzdHZTQ3RHZFdktTc2hzM19YZVVKWF9IamZEeE92ZXFWTmVOVEtkMVJ2N3hqaERJQ0pEdXVuZDVIck5MVklldWtzbGZfeHBwVVBybXlHQk5hYmg4MHMwMk43YWpuOS05MVFuS3o1RU5rcldKSkpLY1hzMk16U3ZveEpodU91S1BKakRnSEJtcmVlQUwyMVI3TUxEaC11RzN6Znl00gG4AUFVX3lxTE5fNUVIT3h2ZExsV0dna25SNTNpalZTVWpJZU9VYW5wT1dMd1hOTXliekpuanBvVE9IYmw0Y0d6WWY1S2E2OFdkRGRrd2JrREYteUNPN0xFbFp1aG9RTnBwaUd6OW4yeHlEeUdSRzNkUEVtd1JXTENmX1dXanJzQWV4YmtzMzVVUTV6UVA5NzhBbmxzTl9SNVl0aDZEWThrOEUyUHZaWjVENVhjZkppSTFfam9JVmpLUHk?oc=5",
+      "pubDate": "Mon, 26 Oct 2026 00:07:26 GMT",
+      "description": "Zelenski anuncia que habrá reunión entre Ucrania, Rusia y EEUU en noviembre DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Partido gobernante en Serbia reconoce derrota en elecciones frente a movimiento estudiantil",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSzh3TlBURUlhajFfa3REdXB2NmQ4U1MwazFNQUhhaDE5UHRlQk54TUIxS1hQYUx0UURPTUJBSlFsMG1HU3BfT0RTT2lrRDhobmdpODhvZnF2STlyVjVub2p5X3lLUmY4RWRDZnBNNkxBeXFMTDZyQ2ZHaVNVWktqa21tZUt5WjNVZjYyMUVjOHBqTW0wU042enR6STZJeFVqbjFTb2ItQm04cXJ2TDd2bmw5NEdqMUxJcTFBYktNY1dTZ9IBwgFBVV95cUxQSG9wek5KWWNPREhEOEZkcFVSaF9FN2hOZFZDcGlMTmxPcExLZEJuZzk2T0wzLXZ1ODhTVEtnZml4N0NPQk9jSFZFMVpDZmZxS2JjekVxZUJaNEpvM1U0TUE3Y1JpSFFIWjBKTjZIOHVWZUUtZ2c5VTNBSXNfSmFfMVZMLUxwUHBBTlhLMEw0dWpXRFZ2WjkyWGRPVEZyMUxMLXBRZGw2VUtNS09vRVFCdm9IYWFsWkx4dkxESFA5TmNZQQ?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 23:56:50 GMT",
+      "description": "Partido gobernante en Serbia reconoce derrota en elecciones frente a movimiento estudiantil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Mapa de resultados de la segunda vuelta presidencial en Brasil: dónde ganaron Lula y Bolsonaro",
@@ -127,6 +199,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Líder opositora María Corina Machado regresa a Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmpUQWp3Qjl1eEVNc1JvYmt0a2xZZ3B1X1NlOU0yZ1FyMWw2bHNBSFRjcTZOeEh0dzBwTnFKU0xJc0hqa1dPNjRnN2EwZjBFdEpnaFB3cHZFZ2xHMUoza2Eta21GX05NM2lwZXRZajFHQmRRT0M0VVQxLXV2N3hNNEhVNTlqTzY2TFVjcXlSYTBOakFPUVVzM2RRZG5sQ0tp0gGgAUFVX3lxTE1Vc1lfWV83NUpvSFJZc1Q4cnBDakxBWWs4Tmtvc2JPeFhxVmp3T0dQbXV0U0R4ckJzUmRqdE9aekNyUjR6b0Y5Yk5HbnpwT0VhMzdraGowRHU0RmhYd05JM05vdmxkeGpDQTc5d2xrR0J3NjBVUzlxVURhcERNRERLSVRXenVLM0ZiS0ZZWE5wcjRsU3YxaTViTW0wOGM0ZjU?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 20:31:21 GMT",
+      "description": "Líder opositora María Corina Machado regresa a Venezuela DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "María Corina Machado vuelve a Venezuela después de más 10 meses en el exilio",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3o5aVBUTVJpdXg3T1NFTEVLTk1KN0N0VHAzQURLakw4MnFBRzJaNTZKcWpURmFGWEE4X08walJxU0dGRk9PbnlhRHlScmR6RExUcFQ2VnFwbEdNUVRlUEZncGU0aHpxNFdRenlNaDI4MWQweFhEeDB3cENUX3pQQjFBV3gtRnhMLVRfajR2YjlhUzd1?oc=5",
       "pubDate": "Sun, 25 Oct 2026 18:25:00 GMT",
@@ -136,13 +217,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Líder opositora María Corina Machado regresa a Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmpUQWp3Qjl1eEVNc1JvYmt0a2xZZ3B1X1NlOU0yZ1FyMWw2bHNBSFRjcTZOeEh0dzBwTnFKU0xJc0hqa1dPNjRnN2EwZjBFdEpnaFB3cHZFZ2xHMUoza2Eta21GX05NM2lwZXRZajFHQmRRT0M0VVQxLXV2N3hNNEhVNTlqTzY2TFVjcXlSYTBOakFPUVVzM2RRZG5sQ0tp0gGgAUFVX3lxTE1Vc1lfWV83NUpvSFJZc1Q4cnBDakxBWWs4Tmtvc2JPeFhxVmp3T0dQbXV0U0R4ckJzUmRqdE9aekNyUjR6b0Y5Yk5HbnpwT0VhMzdraGowRHU0RmhYd05JM05vdmxkeGpDQTc5d2xrR0J3NjBVUzlxVURhcERNRERLSVRXenVLM0ZiS0ZZWE5wcjRsU3YxaTViTW0wOGM0ZjU?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 17:30:07 GMT",
-      "description": "Líder opositora María Corina Machado regresa a Venezuela DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "El regreso de María Corina Machado busca acelerar la transición y retar al chavismo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZnZodGpRWjhtQV9JeDJoSFVkSEVxaUlhUUNXSTFYdlBCN2VIWHpGMERLYmJIUHpHY0MyTm8yV0JXMUFJOW5VUWJBclpfRlUzdG5VTEJpcnZWUURTWkxzVnNUNV9mSl84YldfTkRDUDBFN0ttS0o1LWpNay1ILTF6MWlsSzcwazlnaHFDQ0U4Q0FNTEtsTkt0WlZTNHJMaXNJSEo1UERYcTM0MW9rdHIzbzNIOTl6UWZjTlNObVVLOVhoWnBs0gHYAUFVX3lxTE5NNF9kOTNha3R3b3JCek8wdzZ1cW9Ob2dlUHp5WGZuRllQQ3BuSGhZMWUwOHBla0JWUVdPS2FWUzYtVlNkV295cjZhQ1NUN2xfY2hoNzJGQUdyZXZiSE9kdzhhOVc4UUJ1ODExM25BeTdJN2ZQcFVTZ25PYUl1dzBjdktDODVnaUZ3YnJtWHZyZ2ptUGdFWDN4TlVfUEFGUV96Nm5aLUFUSDRhSTl5ckpHNXZKQ21jdjFMNk9tMk5BUWdqczVkX3hIWklYMXZwaWRSSmFHRURQXw?oc=5",
+      "pubDate": "Sun, 25 Oct 2026 17:54:04 GMT",
+      "description": "El regreso de María Corina Machado busca acelerar la transición y retar al chavismo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños secuestrados",
@@ -172,10 +253,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "En directo I Lula remonta ante Bolsonaro y logra un cuarto mandato en Brasil a sus 80 años",
+      "title": "Lula agradece a sus electores tras ganar el balotaje; Bolsonaro desconoce los resultados",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOREUxX2Faai10RHJIdkt3d0dYQXVIZm5OaWVhTURNYlozWDVELUhIUWtHcXZqcmRzTU9ITERGcE13ZWpVRExqZjhfZk5JczVzRlJ0cEltLTRDXzJOellqek9hWHpnQ2gzOFE5NzBjNzJaWVJQbHYzRWxnZDJ0MnlwclZmckJGbEdydlNnUWZpY3BHQmh1OHc4VDAtSldKOWUwYWZmR3k5Z19yOHdvQlA5S2xjUnJsd1JoQmI5ZHVMUDlieTVlbmRRSGFmWUYwVFY2blEwTVJYa0d5ajhIb0ExeVNoYXRxN3F4VFF2Zk9n?oc=5",
       "pubDate": "Sun, 25 Oct 2026 12:05:34 GMT",
-      "description": "En directo I Lula remonta ante Bolsonaro y logra un cuarto mandato en Brasil a sus 80 años France 24",
+      "description": "Lula agradece a sus electores tras ganar el balotaje; Bolsonaro desconoce los resultados France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -201,7 +282,7 @@
     {
       "title": "Lula gana las elecciones presidenciales en Brasil",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2F3T3dmdXI4bS14RHNjT1d5UkRhTldDQWJpVGt2aURwMjRfWnhic25hZnRCMXg4TFg1WHRpNGhwX0xnVnFiWnI3Y3RYZWZiM0NLNUxabnRwOFh0TG9FaHNTaXdaVnp2bFpkc2J5dkxwSFZENUZsS3dZQjQzc2VwajhiODdSaE9uMzVBR0FB?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 09:16:15 GMT",
+      "pubDate": "Sun, 25 Oct 2026 09:24:26 GMT",
       "description": "Lula gana las elecciones presidenciales en Brasil DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -224,15 +305,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Casi 1.000 personas son detenidas en nuevas protestas en Francia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC11dmtJdDBpTG4tajBkcDM3aldnZWlsdG1UZHc5WXVNc2VSY25KdUM5RUFCbmJ6M1htQ1JZYV9DZVowZ05oVDBjcjJIUTZFYml2bXVsUll1ZVJQbl9xVlhfYzNHWktJcnotOHE4Z3l6M1NPS2czaC1jdWNsWUsxeUVJSURzMVNSbi10T1lseFFqNGhRNVZteFYtUnfSAZwBQVVfeXFMTkR1eXZzUXRQcmMxVHktbzBWMkpYNjVsa2hCT1ZaV05RVFhuVkcybTdQd2hIQ2NHSTlPY0tSQTlrclZ1a0JGLThHTE1UaEVSUzNlamJ6S3IyT0RmTFhIbEhhR2Q4cHpxTUdDOFBGUm5MdDExcUwwQ0hEVGdYa295NEN0SHhSY2xTcW5jamNFMHM0azA0SmRuUVc4eGNr?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 04:09:02 GMT",
-      "description": "Casi 1.000 personas son detenidas en nuevas protestas en Francia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
@@ -271,15 +343,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Unos 100 detenidos por disturbios durante una protesta de jóvenes en Barcelona",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVh5eVJnTVpBQXR6bHhjR3BwblhtUXgtaGNIS3l2MjQtcnp1aU9KSGdRQ0xoUms4N0RaV0o4YmJNai1GVVdtemNKelZ6blhUYk9NeWlvRVZsLWM0bnRKdU55Y1IxSmNCek5Dazg3OG80RVo0dU5YZktaSFd2LWozakhjRkVicDhLaUI2eXV2bzJRRjJxOGlja2xrQi1XTUs1WE1TXzl0NEJFWG5Ld05vQU9vZHjSAbQBQVVfeXFMT21TZzNUT2lPV25nenEtNjJYaGtWdEVKaHlpcHAwSS11Y2ZuSXB4X2c0ek1vYURYVkExZF9JaEY1dnV4eEtlU1FlSGNXQmNUdjgzUmlsanlhN0xIaW9HQXJQLXE2V091TzFmUURwdEIyeXFjWTRmeXZ2bE94T3hWMVhMT1VYOGVmUUZZOGloMXZzOV90VmhjV1phWTJVOE1ESWQwNnliRW8xUFIzYnNsOE1jTTdz?oc=5",
-      "pubDate": "Sun, 25 Oct 2026 00:45:43 GMT",
-      "description": "Unos 100 detenidos por disturbios durante una protesta de jóvenes en Barcelona DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "¿Quién es el candidato favorito para ganar las elecciones en Brasil? Esto dicen las encuestas sobre Lula y Flávio Bolsonaro",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSWpYOURYeFZNazJoWUx2WW5STU1Ub1UxcjdDeEZOQWZzcF9VNXg2SWFCaWhJUEp5Uk55bTBtd2tmaUt4VmxzNGoyTjJPd3lMTDlXR2tRYkxQWHBkNWVuNG40cU9YMGllODI0MldYeXVqZ2k2ZXNLYnNlcF9BdEQwbVdtazMzLWNsMnlXNG1YODBhclpwOFZsTjF5TW5WX0FiZWxxd2h4U21wMUNWZDFWUnJQdEpMNlRQcTBQeFpCLWY2MDJWUnQ4Zg?oc=5",
       "pubDate": "Sat, 24 Oct 2026 23:45:00 GMT",
@@ -298,49 +361,13 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Obama en su regreso a la batalla electoral: “La gente está harta de estar harta. Se respira un aire de cambio”",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWDQzUVFRMm5OUjJEakI4NUVmN0p2bkR3TFc5emJJeGxzQW9nTU1keEd0SVdNcWpjR1dBOHZuZkZrRHlCaExPUmYwbG95REtyVjV2VTgxcGoxSnAwSXNqRDdmV0lFellzVjVaQktkUFozcElMZE42NmFpei1UWjRzckJpdHd6S010LXZINHRDUlhGYWY5dVdpbFhqUXd1RTdwR2xBSy1Sb2cydkZ3Wnp3bmhHYjlvSnAxaWdDRVFWam0tc3FuT1o5VDdTNDZ4NDU0SV8tb3dQRzZHWHNfQV9xbGU1Rl9xOU9kd0E0Zzh2d9IBgwJBVV95cUxPMkhBMjZTWkV1X3FvVXg4NklaS2xtUXdXWTNOWlREMWstNUtuV3RJTXUzUXlRTklfVlB1VkNpUXR0MThTcy1DdjB0R3RzMWpRN0xJNVUxQ2NaRVpWUG1veTdydmNSNk04UlZQeWFUa0ZQSnhlRC05N3FoZWhCQVhpalE0YTJqZUJ6LVhnRXFpTDdRNEVfaWdZY3hvdUFTWXJjMUNEaWcyX210Z1dramkzQTVtYm5nWktkM3NnZk5QQmFWd3N6V0g5Vkg2aTZKMGZOYTA4Q3BDcHR3Mkd2dm5DaU1oVHBLR1JmeVZZRzB5RGxFbm1HOTItdUJOdGhDWUVlcjFv?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 22:43:06 GMT",
-      "description": "Obama en su regreso a la batalla electoral: “La gente está harta de estar harta. Se respira un aire de cambio” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Pacto del Ártico: la nueva defensa de Groenlandia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGdSZGFEOGRmZ1YyczVlaTJwdUFTRGlxTjdGV3VuMkxRdzY4NlUyTEQ5c2doZnhDZms4THBIdUM1SUg3WExUTTc5bW1QaEdnRVV2RTdrdlNHWV9Td3ZWZlhTUVlXVnlEQnlBUDhnU3VqQjRwcXY4a0d3VW1RVDktUFVPTDJQRzRmU0JHbDF5enhLZGtlUFlJTWZZOUcyNmxCUVdNcjlJZWdvN0FveW15RjFSUXFmV3p4TWdfb01n?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 21:15:38 GMT",
-      "description": "Pacto del Ártico: la nueva defensa de Groenlandia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Musk admite responsabilidad en las restricciones de velocidad de Starlink en Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNC1VVVBBRHczbXdHd2JTcDNIQjJ5TklaSmJjUVFXUHFkSDBFNmRUcWVJQ1h1VjdDRWRwYl9oWXFXcUo2Rl92Z0pvNnp0c2t0bkxvaHNaT09HOGVIcmxaeDV0b256c3JLWUFaSDJwOEViS0k2a1lHUnJNOGJ5c2o1OUZ6d2gzeVRvLWdtekxBRFlHWDIwWWpzLTdtTjI?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 20:56:00 GMT",
-      "description": "Musk admite responsabilidad en las restricciones de velocidad de Starlink en Ucrania AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Un incendio arrasa el refugio de montaña de Hitler conocido como \"Nido del Águila\". Hay un sospechoso detenido",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVNSbG40TlktcEZDbmRlaWozcXlzeVFTcDZhQWkzMzI1d3dWUEY1TkZwQjRVS1RQT1BKQ25HYTNmazdqRGQwWmVRMVduT2FZLTZWT0phWUtZRXUwNWlKdFE4UHJFZWhscUJmWTE1ckRlVGdLY0d4ZTZ5UF94RVFYaUVsWTBGUWc?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 18:41:00 GMT",
-      "description": "Un incendio arrasa el refugio de montaña de Hitler conocido como \"Nido del Águila\". Hay un sospechoso detenido CNN en Español",
+      "title": "Cómo responder a la \"mirada de la Generación Z\" sin parecer un boomer total",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWZOZ3M1dF9DbUVRanJydGNGemYyaVZoaEhxa0huQXFqMlJmYmlpNjFDWXlSLVpCS2llQkhzRGM5b2JSalJsc216NFRzQnFQcTg4Z25CVEhxR1pDWVdxSTc2WDhaWEFFV2hDcms2MktRRFd2Tnhrd3JnN3VCbDdwUzFR?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 17:53:00 GMT",
+      "description": "Cómo responder a la \"mirada de la Generación Z\" sin parecer un boomer total CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "El caso de la novela galardonada y presuntamente escrita por IA abre el debate sobre los filtros ante obras inéditas",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOekNUdWc0bUVlNkkwcGJla2QxUDU3anZqbWhaeVd6YjkzVDVJam44Um02MzdCaExJaXMtS3VzRUJJZUhERWk3ak00bndWdm9PUWVaRE5TMjRMVEdQMTg4NkQ5QlU2bEVPWjI4VDdjZ1VURFBCa2ppbnVBRTI4Q2I4UWQ2NXk1aHpSbkYyVGwyVi1Cb3V6UDBnU2dXeGJ6S2hBQzMyZUJOeWJPaG9yUS1iTS0xcXp6dXpIZ1VrelJzN2U3R21Ec1dnVkhJMmxMRnR3Tl9lTDJHNnRMOGo2R2ZhcVpDSTZlb3o2NGtSYUdReUvSAYQCQVVfeXFMUDRXb2JKTDJ6MkxwVzl0MnFRcE4weFYzMXR3SXhCYTk4MHNQRDg4UHo2TTFRT2piUkJzVi1LYmZlLUN5RnMtcFpiY0xNSWJGa2V0cDk2Tlo2UWhmTFFTMFhXSjhjZG5LODFTVzJRTktIdEFxY20wZHZvSzJ0emU2TGVRa2RCRi1OWVhRdnVibzZ3YkNmMk1vZlN1OWhWQVk0RmgzODZtSTY5Z1Fmb3Vubjc5YnhmMndJbEdIdXh6MWZTSXNmYzRNM3oySF9YdGV2Qi1zSGNtUXhwQmlCT3N4TmFmZWxURjJ4aElQck5WSl94WXVMQmdRWWlVZDZTSUJkOVJEM2c?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 18:02:57 GMT",
-      "description": "El caso de la novela galardonada y presuntamente escrita por IA abre el debate sobre los filtros ante obras inéditas EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Chile: rebaja de condenas a 56 pederastas enfrenta al Gobierno de Kast con el Poder Judicial",
@@ -370,15 +397,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "El Debate - Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil?",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaXhaM0dINFBReTdLcVFGd19JaTlMdlU1ZGVEd2kzeVd6dE9ReXJkczI0OS1XdGZ3eUJmaHZDb0doVXlCOEFWTVpiX0I0MnRoMmRYbFhXcUVpSkpFbHVtQ2dkckVHWlRMc0x4UlR4Y296M1NrVk53OHdJSGxmbnVBT0tweld3SFozWUdTQkNRZkxhTUVKeU9SZElfbGhaaG9QOWRSZ2gxeFVCb3ZCYk5McHl5aTFZOE96aXpWQzlhcjFrUHp0T3ZfMGVYYTJqOUMx?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 14:41:13 GMT",
-      "description": "El Debate - Flávio o Lula: ¿quién conquistará a los abstencionistas en Brasil? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
       "pubDate": "Thu, 22 Oct 2026 21:05:43 GMT",
@@ -388,15 +406,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Nuevo giro en misterio de la reencarnación: el mayor análisis hasta ahora halla algo que nadie esperaba",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcXdlcTJXcXRXbkM5bko5SFZjaGpLOXhXY0lZWHFvZzdyaWdRbnhWdk90OTk3T1k4YzBSVEY0OFhCOHVjcnYwbnh5b1BtaGFkdURsY1c5amJUTzFwYjFOdjBiQkE0TDMyRGdDSlhsT0txNTJVSEVhbWpkWlcxMTBnYXNia1EydHoxT0N4b0wyem41enBvWVZScGxBaE9UZE5EV3o2eWZJbnNSeFpxRUhLSzJRUWNjV3hiVkJBc2xkNlNyR1p6dk5HRkNXWGVubGPSAc8BQVVfeXFMT0k3bzZScHQwWEhhUFR6U050SGZubXQxSWQ1dnlweDRuOVBkck4wZ1lTb29PQUd4LXd0eTlnQmRkYjFmajNZQ0hhNks5TjNyel9rWm1MNWNXUW9KSHlsbGNkSUFWUHpkM1Y1Q2NraEZUTThPSmk0VGdBNms0OEI5WTVRZkEzOUxqeEJfX00ycTdvSGo2TjJUOHdiLWw0bkJWU3gxckZwSDlRSHFJR09xeDNGVzA3WGZFRGpITkxOdm1rbm85VFBrWHA4S3BHVkow?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 18:33:38 GMT",
-      "description": "Nuevo giro en misterio de la reencarnación: el mayor análisis hasta ahora halla algo que nadie esperaba DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzcxOU92RVJXd2JmQWs2Zk40dmRBdExvaFVkOXp6OGNkVkMwckwwRE94RjAydWtDc050QVVrMmV3WW5hT0QxdjN5b1RCMHZrUGpBZE5nRGRsNV85RHQydTRzS2RsdUR3WVc4SU9oMnE0RU44OThiNTRjdXFnZGk1RFhKTEx3YmxMS0F2RzJLa1o2aVZnQnFiQk9ReVF6YkhXczRKdGxUSHlRV1dWZXhFTmc3aw?oc=5",
       "pubDate": "Thu, 22 Oct 2026 16:29:31 GMT",
@@ -404,6 +413,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "Mark Zuckerberg presionó a Meta para protegerlo de un posible impuesto a la riqueza",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU09oa2VBMFlVOEhGNE10cmJoS21mWjdrVFZfMVRpcy1TMnZpbDkzQzJhQk1OWFJBVnFxUmFRNjQ2c3RFM0tzdUFiWUdlZFJuTGFrZ0pnOTdOM1ZJY3BRcmtneVl3eHVua1oyTFNFbWNQdTlRODhEWm5NdzJwSExmSlg5emo4SVFJcFNvVWItQ3hUejUxc1lUSVozWQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 16:19:06 GMT",
+      "description": "Mark Zuckerberg presionó a Meta para protegerlo de un posible impuesto a la riqueza The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Palmeiras vence en penales a Fluminense y clasifica a la final de la Copa Libertadores",
@@ -451,15 +469,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "US invokes rarely used torture law in revamped case against Maduro",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObzByT2NGVXJRM1dyM0o2Nm4zNVBualdTWkpKM2NuRm9VUXNQSVhTb3dMY2d0SnpJZFJqeU1sTlZCcTVLX3B0M1V5TjAtNDVGMGdaU0xRbU9zYUFZN2xQM2dFczBVSFNSR01qUkhHXzdpSC14RmdrdW5DajJrZFRJTWZia3puU29rRDV4dzB3a2V3YWJjbUlqWXlRY0Z5Q0hTb3hGZVVzbGRUb3VLZHM5dzdDZlc?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 11:43:55 GMT",
-      "description": "US invokes rarely used torture law in revamped case against Maduro Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Así fue como unas torres de vivienda pública en Venezuela se convirtieron en trampas mortales",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUNRaDk1eEg5eE9IZm45WlBUNU1wV2h0V1pUa1hyd1IxM1hQMEw1bWlyT0xGZVNtR1ExOXNLXzVzRGxvZjlhQ1Vha0lzY1J4d1RfT0ZVSEgxZ1VDZzJSQ3lMcm9CeUtKa1JJTXdLblJLcy1ReE0tMVJUNXhOZm9BeFpmZVdUOFoyZ1IxNHpYUXQ5WXY1RXppS2ZsNGoyeDNBUHQxU0VfR2Q1WHF3Q1E5S2lIbm9UQ1ZwVnFHUEp6cUJGQkxhalZDMU9n?oc=5",
       "pubDate": "Wed, 21 Oct 2026 01:40:57 GMT",
@@ -478,13 +487,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "5 soldados salvadoreños desaparecidos en Haití tras una emboscada",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZxaGNyZEZxaHNwOXdhX0hURm5VcXBCNDFXSnpxb2NMWVFoc1V1bS10d1JwUksxdGltZTZ3cFdoN2ZRdlNDc0N6NW9xNzM4MllORWFxMmVzbm9zb0dsYm9wQ1loUUFxUnJRRGZYVHlONmJ5QUtJTHFkY3IybWZ3UGV0WGp6alNSZ1hGNFFENG5LdjdLREFTOE82U3RMaU9uaHEzMm50RF9PLWs?oc=5",
-      "pubDate": "Mon, 19 Oct 2026 16:47:18 GMT",
-      "description": "5 soldados salvadoreños desaparecidos en Haití tras una emboscada The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFVwLXM5N3lyN0xRc2hnNnFXU0VCZ1lub3RVT3ZBVTRuMlZxMUtaS0V2aFJ4NWhZNll1TWNkbTJUU1FtRWtVUjZNVzE4aWJHN0RJSHFVNm52Z09FTXVyZ3p2MlNoaXJ0X3ByZDhMUGRNemV4dGNMRDhOMzdKZWtDaXpKa2JRUVpHSFJaam9hYVkxQm5FbEpGLUN1NVdTNlQ2eEszdENTZEhVak5QRWU0VUtjTkJQZw?oc=5",
+      "pubDate": "Mon, 19 Oct 2026 10:47:59 GMT",
+      "description": "Bolsonaro's lead over Lula narrows ahead of Brazil runoff, polls show Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
@@ -541,19 +550,28 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | El discurso demagógico de AMLO erosiona la democracia en México",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDUtUjZMTllpeVFOREhvb3FRY2MzdVdkdGozbF9iU1UtUnMyMkhLQVpZbjRIRGFXNGVqdDJycVpUTEFUQWZ4clRrdVdzV3pFSjRzbVA0Y1RhNC1sTUwzT0k1S0NZQmpoNjRQNEwxMFBKU2haMVBicXVWM3ZlNUhVaERoT244Ty1VSkE3elVoUEVJMjExbUE?oc=5",
-      "pubDate": "Sun, 19 Sep 2021 07:00:00 GMT",
-      "description": "Opinión | El discurso demagógico de AMLO erosiona la democracia en México The Washington Post",
+      "title": "Opinión | Ante las elecciones en Chile, es hora de llamar al fascismo por su nombre",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkhsZTlRUzNNaG05SDhRNURGbzhuOVFuaXQ0VllDRl8zYUVjRW9SZXczdGE1WE55UjkzbzBDTk0xa1dMN1dyZDNTZXpkb1RtQU9QUTk0QksxMGttUVdqU2toS3FianA2aGNzUGxIQmhIVF9Ua19vT25vQWpoSVptcmdpNWVpV1huREZteG1QVFA1YkFIaER3LUx4cGJTMFJRRVVnX3JaRExELU9xZkxn?oc=5",
+      "pubDate": "Wed, 17 Nov 2021 08:00:00 GMT",
+      "description": "Opinión | Ante las elecciones en Chile, es hora de llamar al fascismo por su nombre The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | Honduras: Los narcos del patio trasero",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd281ZTVEQ3ljdVM5NWQyY3ZjZU1FUUpXRTNFQno2MlBNUlNqRlhsUHNGRTFHb1RJWkNzWjJtR19UYl9jM29wMGk5SU9QZ2NHLUtjS1dGa0NVZXNqRTZPay1Wak5xU0FRT3RZVVZvQm9IbWJvT1BHaGtkY1ZBRUFZVVBuMTdMM0pmRkVCbkVfTFdZckNPUlRDeWZOTzZ4dFlsWktQc2dZZHJlbUZKTXF5b0N3?oc=5",
-      "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
-      "description": "Opinión | Honduras: Los narcos del patio trasero The Washington Post",
+      "title": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmhISmJmUkcxaklFaWU0cGR2c0R3aWVKVTFRUDdOUWY5UktKa09waFRPS3FhNlF2dXBlcU5CNlo5T3Z1OWtxQ01YM2pSUnZ4WjZpSWlQczEybmlZNDFqWkdyUEM3REtQYXNjZmk1X05ZRVlYY2lOZXE5bWJBdVFqNUhzZzBrV2JTMDlONWJyUzVqTzZXcVJqeDBTMzByaWhHcnY2OGswNUx4X2lYcHhR?oc=5",
+      "pubDate": "Sun, 31 Oct 2021 07:00:00 GMT",
+      "description": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | El discurso demagógico de AMLO erosiona la democracia en México",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeDUtUjZMTllpeVFOREhvb3FRY2MzdVdkdGozbF9iU1UtUnMyMkhLQVpZbjRIRGFXNGVqdDJycVpUTEFUQWZ4clRrdVdzV3pFSjRzbVA0Y1RhNC1sTUwzT0k1S0NZQmpoNjRQNEwxMFBKU2haMVBicXVWM3ZlNUhVaERoT244Ty1VSkE3elVoUEVJMjExbUE?oc=5",
+      "pubDate": "Sun, 19 Sep 2021 07:00:00 GMT",
+      "description": "Opinión | El discurso demagógico de AMLO erosiona la democracia en México The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
@@ -568,37 +586,19 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
-      "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
-      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Europe",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Mon, 02 Mar 2020 14:37:57 GMT",
-      "description": "Europe The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Liam Gallagher: ‘The German police pulled my teeth out with pliers’",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVU9yYjc1cEMtVFJvcE80Nk9WQlkzQXdWNTZhQkMyYVpLdmFyYjhRM0k3WG1kM01nX2w3YkRlRkFyajZjaHJmUnFnWjZ3Y2R6eGE0b2hfVklwbUtXRUttdDlJbHMyMXhrNFhFSE5ZVDQ3VWJnTzJQOGRZQkF4T2Y5eWpXNmZXVHprSk5PZzJqR3BJa05MWXdwLW94akZpZDBlazlwTkkyNng?oc=5",
-      "pubDate": "Mon, 19 Feb 2018 08:00:00 GMT",
-      "description": "Liam Gallagher: ‘The German police pulled my teeth out with pliers’ The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
       "title": "The Guardian in Spanish",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
       "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
       "description": "The Guardian in Spanish The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "La crisis del agua de la Ciudad de México",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
+      "description": "La crisis del agua de la Ciudad de México The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
