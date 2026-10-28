@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T09:03:50.592Z",
+  "updatedAt": "2026-10-28T17:30:12.459Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -41,7 +41,7 @@
       "name": "The Guardian",
       "domain": "theguardian.com",
       "status": "ok",
-      "count": 6
+      "count": 0
     },
     {
       "name": "El País",
@@ -64,6 +64,114 @@
   ],
   "items": [
     {
+      "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kQ2VQd1BQMzZSYVJsTXZxVnByV1locnFBaXNZX3BhSDZ1WGJOT25xc0tTWWluSFNjcFhjSTZWeUpLNzZRNHducldIeVZGMVRTMlFpX1pQdW5LLV9D?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:03:45 GMT",
+      "description": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeXFUbGY1VDlGMDdUM05CUWhBWjFMR2l5WS1wZmNMV1R2NFMxY3VubW5CUEpheVJLRzlFVjhjMW5VWTFpZ0ZqT2o2dTNReHZmVGNqeEhneG9Ybldj?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 15:39:19 GMT",
+      "description": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmZta1ZuNUt0bXpSbDNDRnV0M29xc2d0ZWZldjVTR0Y0NHJyNUJtb295TGNLMEhMSG5KTnItenREclNwRXJfSndLc3lXc2JpMmx5WUozUGxIcnNLclJQUEFpOWNJa2I1Zlp4WWpoZk9rMXJncXNZSW5zTXEyZG5qRXpTMC13dXI2SW5qLUE0aUR1U0MxQ1FucW1aRU1wRW52b0twODlzZkZYTTU0NlJTX2l2VXhDc2FfRk4teXlMTGVJNW5rZnA3cjFIblhsbzjSAc8BQVVfeXFMTVcxTFp4QjdtcWo3cHI3SG5paHhaQUFOMi1nSjEwajNQZjIyRXpvbjE5QnJuSDc0TERGOHFDZF9UQ0tnYUVjV2Z4aThRcjZ3dmNvQzZBcUFuN3pyV2pkWldsdlVpdWJUa1VFY0YyaDFkc01DZ0ZxOThMVkpZLUNWQUZCTEszVjdHS3ZOZWhMLUdrR0Z3aU9MR19QNEJCNmQwdUdFV3ZPNVZDQjVFdm5kQlZBalRoYjh5bm1nWVduZkZGQllua1B1ekRkcHBBVTVJ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 13:59:05 GMT",
+      "description": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Flávio Bolsonaro llega a Miami tras perder las elecciones en Brasil e incumplir una orden judicial",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY2VET3l0SnVvSnp6V0tyVkR6ZG1aaHRZSzZHZ2pBUkR2YV9aXy1HcUZqQjFMUGZ0YjlIR1NEdl9RMDJ2aEcyZ1A0ZV9ZYkxDM0FRUTVuSG1neWRaTnROOURBdjRMeTlPMm56QnhDT2tGLUp3LWZfTEZEdUVDZEhwYmVWY3VUYzFkLUF1NW8zLW1HZmhjYWxHOURKb3l4X1NrUVN0Tm53S01vOVEzS2NUV3hLN3lCTzE4V1VDMHJUa0xPTGZGdTNEb0hraW0xQXk1S194c3dEeFBVN1psMS1KVmwzZHhsTjRUVUhoN2kxTlpXa1hMMFlIRDdQdGhkT25pdnpYOW1PWEpmNWpNQ1E0cTFmMV95bEtJ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 13:46:22 GMT",
+      "description": "Flávio Bolsonaro llega a Miami tras perder las elecciones en Brasil e incumplir una orden judicial France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "En directo: La oposición árabe aboga por una alianza \"judío-árabe\" para desbancar a Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOUVVcUx2Q1FaUjRqLXVtOTZxWDNCdk5NUUdoeFpLbXNoQXYzc0pkeW5oOUh4OG5sUWszb3B4T3hQekU4YjZIdVlmWnhIVVo2ejhZQlc0eEJHcHFteHNFTzdRNlV6ZkJORjNoUGFtLUg0TzZkZ29XV2hHVDNTZUZCYm43QjkwSnNnTXZobTlNRENTOS1tUDdJdWlOalBDN1JDWDR4QUNxeEcxWmpjWGw2c1l4d0doVjdXcnVVVVVEcGZZelRrWjhlNjFpWC1Xc3hwdWZrMmM2X0M5Z3d3WlUtS0RPT2oxRU1Hd0E?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 12:26:31 GMT",
+      "description": "En directo: La oposición árabe aboga por una alianza \"judío-árabe\" para desbancar a Netanyahu France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Trump sobre Venezuela: “Hagamos que sea el estado número 51”",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZ3J2ZzF3UHJKaGxVNmF2X1NfRGlkMVN1cFNUMUM5c29QS1BrZ3BKZEtxY1BXSWg0ejRhU1AwNnN4eHBSelUzdkF2d3c2Y2J4bVY1QU1tdkRUYXZP0gFiQVVfeXFMTXFLcVVaaWxtdEdXamp3OEZ6VVo3QnFwd0VVeFlBZ2YyQTE0NnhqTXAzNXlVTlFyeS1yRks5b3Vndl8tSmhsMFZ1T2FTVTlJaGl6Ry1zbHR5U1NZUENGNXlEdUE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:59:18 GMT",
+      "description": "Trump sobre Venezuela: “Hagamos que sea el estado número 51” BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGFwTDM0c3NlY2JHZDBlNFVRMVdKbE1Yb2t5WUV3bEJkR1hJVGNXR1BKVEJpcnhaSEVzMkE3U0RiVjlaMkM5cHZNa1pEUUJydUJuLXkwNlVnbzdJemowenQzajZEMy1nbThyVjVkWEJPWVJDZFZzdzhRNTN6RF83ZjI2M0h2OEtXckIwREVIanVhZDc0ak1VSVN5QmFwR2cyZmVwNDc4T19Ma0haX1ZUVlAtR1N0eTBTV0QwUzBVVGpSajMydGgyUWxvdDhfc1MtUThvakJYTdIB6wFBVV95cUxPcTQ1TUxCX2FmMTh3ZThBdmpNVUVOeXFxejZSTnYzZ0VHdGhvWWFEby1zNWRsRUxQVTlVbV9HUk52R0d2R2lJTjB6S3VVSF94d1AyaXhUdUVLQ0R0WVFBVWJYMTlZS2o4R2l6dmJ6a2tiTThXNjZBQnMxa2VKNFpYbDU5Y2ttVVBQLV9ibHV6QjJueU1SMEJQQkFIanp2VjUwYk9DaWxvV1Axc2tqQzY1WFNDWmN5SF8tRVpEWnZ6Y01VU042Njh0aGJzY2FTd2s0Q1ZsMWdQa2pSbVNCT1ltdXgwNV9lUXVCVi00?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:47:59 GMT",
+      "description": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El Gobierno de Milei dice que Bolsonaro salió desde Argentina. La administración Trump aprobó su entrada a EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUpqY1RmVjk2cUUyRy1HR0pGYWVNS1dlQzh1U0JiZ0hxRS1NdEpEVTh3bXlEbVhTWjJKYU12dmRHeUxqakRxcGEyb3Aza01acFJuMHhwUm1BY1pCbnRLS1RhNGZ5a2gwN3g3S3BxYUtxWW5rblVvcHNha2JUanpUM3JSdW5YV2J4WEM5cWdqSHlycEtCQWcyaDlaOVhIS0VmMEVPSg?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:15:00 GMT",
+      "description": "El Gobierno de Milei dice que Bolsonaro salió desde Argentina. La administración Trump aprobó su entrada a EE.UU. CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ZsXzR4OV9LdGxwNElkbWVvbE0wUWFhS1ZGS05DZUdzZjN3OXhXd3p2bzJhTGtfbDRmNUZOTHJScU8yUm45NUR0R2k5Q25nUG51bWRhZk9jb2xzTGJleUZUdzdRRFYwUFlFZkNZdVZWUHhxX3o3V0FBWFdoWlNDTmhDUV9rZlI2dktaUlNwTmZ1ZHdFMnR3?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 10:52:00 GMT",
+      "description": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "\"Grave accidente de trenes\" en España: más de 60 muertos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpFSVlYdjJON2xQcWdyWHYtNkZFUUZaYnJCVGJweURFUEJsUkg1TGNBVlZwMU9XUWd2ejdKNG9mVGxxN2J5VmN3TUVrSk1LOWt1RUl4TUcyZE16Z0pmeFFzTC1VVUhsSnVsWFVsUGtVNUZKX1pnVWZMd055c3QySldfZE9rMDcwVDVWNEo4ZXpid0pxeHA1XzZjQjLSAZwBQVVfeXFMTnlsRVgzUUFCVXAxUDFUOFpoRkNIX0NHWFR4ZmdwTTdxb1dSLXp4ZjNHclhJamsxcHFuRVg4UTRKcndDelNpVFJtdjZNT3VCdGVvMFBjcmFxbHRQbVRwNVFjNVhsc1JoNFpKNFJqc2xCM2cyaG1rTnRiSkhvUHdockt2UU83Qm1URU9yUUgtUGxwRC1VTUZiSTJfc2pE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 10:09:17 GMT",
+      "description": "\"Grave accidente de trenes\" en España: más de 60 muertos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWs1U19MYmpWSHAyUnBPcUZ3ajZlVnA3dlRxV3pmcC1OSFk2RzEwM1V6UkVUcm5HRXhDT3hobG9VZ1ZlVDM4Q1NveEJFNks1OFZMOGJjTnFyV2huNDFGbFBKOGhOZXhrUG1mZVFqVTZnWVBJVGtWQjkyYkdfS3pLZXFYaUNEcHN6QXEyOWZFQVJYQlFxUFdQd2F2bXpZRXR5WmdjTjdrclJvNGV4c1kxUw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 09:15:24 GMT",
+      "description": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Israel acaba de celebrar unas elecciones cruciales. Pero el resultado final tardará en conocerse",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbWN0WUhyb1MyWU9Fd2ptTkRxU2JtXy10RW1zQXA5d1JzdXRFbTBEaDRFOHFtcDVtZXRuUVJWbElQcmU4blFWTHA2d0RjUnJ5VlpzZ1p0QVRINEtsZFNkWXpid25Dc3prdUhDcWVQd0o1UkwyOUMyRHhyQ2Jvc0Z2VEdLMUhXWnM1SE5EcTdiaw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 08:31:00 GMT",
+      "description": "Israel acaba de celebrar unas elecciones cruciales. Pero el resultado final tardará en conocerse CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Siria y Jordania buscan rebajar tensiones tras mortales bombardeos",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0Y0LWI1dy00RTlnVGFxM1k4ZkR5bDR6cFdXNmNZRmhHSFRqUGJBcGVhVEdQRmROaWNILVc5dUZmTXRtQ0pjZkNGZS1mOHBPTXpmU3lycGxNUjR2NGdxU0VCRXI0Um4xcWI0NWhFZ0NPZW1aWm1rNmxia2Fmc1RWQzZyTFdpQ1BXWEZLcmxJWFVBMEFCLXlSMndsQjdHZlp60gGgAUFVX3lxTE8ydU5yYnFBbVgtd1R3SWtzUm95cG5yb3VMRTlNdkp5eEFPOEJpRUdUSnVpMmZ5NmFRSU8ydUQzd3l4aDdQTk44UGNYY1VjclZjXzdfTDQ1RUZSVGpfSkZ6Q09wYXR1WERHbmh3RHZoN3JzVTBsSmQtWTFHNy1WaUppdEtVZGR6RWxKQ1RWUWEya25YeXNKQkdKUng2MVItTTc?oc=5",
       "pubDate": "Wed, 28 Oct 2026 06:49:12 GMT",
@@ -73,36 +181,36 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Elecciones presidenciales en Brasil: lo que hay que saber",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekgxQlBXb0VFYS12UG4zOG5RNThUWVF2dnFxSml6MDFFQk50UkQ4QUo1YWk3RmFLei0yN2VWOHVQY2NueWRxX083VGI0Nk1hTTN0V0d1WHpxSzYtdmZSY0ZXYVUyT2RiT0puRHhvX0JYajBLM0h1OTd1WFZiQ3lxMXMxZkk3RnhTdEl1M3V0djVPVzlBNFNLWVZKOHNKVDA?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 05:45:59 GMT",
-      "description": "Elecciones presidenciales en Brasil: lo que hay que saber The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "La inventora de la leche desnatada promete bajarle la factura energética",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObU1qOExobjF0NEhwRnJ2MkVJNDBhMmdzdGNFUHNzZ1hYY1ZzTUp6SEVSdS1tY2F5YVVnTkNVMWNDY21USkpPdWtHSDR3ZU93RkRJT0JGUDI1MDRPVFJqMk5ERVdfRGc1NlVlc3hIN3E5S3VDaVNmQkZqdDEyNXhINlJtQXFfbElVc29TNzZMSWxVZmFjMG9UTzdjaFZBMDJHeEljQ3ZYOWpDUUJlNEZRNmdHbXEwMThzbDlZVHNaYzlBVjTSAdcBQVVfeXFMTXJMMlpma0pkYTQ5X05wMl9fZnhUSlJrRkFhQ0Z2MEdBQk93UjY5d0Q1Mkl4QWFPQkhrNGo5VG42QUNOTkRnMjM2ZHBlbzZ6bTduaFUyb0VqUVYzR3Iyd3VxUGczT3VJZUpYd2hramV2S2ZPMWNWZFd0UDN1S0FCMmVMUmYta1o2dVFETHpScWpjU3k2YVlqa1VHU0gzQ19SNzJtME1veHp0TGt3cmpxc3h4UlFGZEFxa005NjlrazNmekNtV3JuM1FBeTM0NnBlU1VhSHAyeUU?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 04:30:00 GMT",
+      "description": "La inventora de la leche desnatada promete bajarle la factura energética EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
-      "title": "Elecciones en Israel: tras participación récord, sondeos a pie de urna apuntan al empate de Eisenkot y Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcDZQVWIyVmtXaF9aUjZqOFEwLWtiRmVDcXNhbnF6MEZhOVhjVkptejVpblJlMXBGQ3JxOU1yTWNxQXNZTzhUMXc4aWgwbmdIRkdndUI5N29FVXZHU0tldDdPTl9pSlVWdVBYYkJ0dXAxNS13VUtqUEpiZzhhWklDZXd3M09xcWpldFBIcFVucDc1c0U0eEIxbk1FdUxUQkFBUld0WVY2QUNkaktMZkVhSlp6d3FrRFhzVW5hYU9Ea0swM3NBeXZKZzh2dEd3bC1QZUkwVjhwNnhuTXoxSG9KSGMwOEc4bk5TMERLZTkyZEo2eEtSWDZFa1dBTDhEeG5x?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 02:30:26 GMT",
-      "description": "Elecciones en Israel: tras participación récord, sondeos a pie de urna apuntan al empate de Eisenkot y Netanyahu France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Flávio Bolsonaro llega a EE.UU. después de que Brasil cancelara sus pasaportes",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kTW5RMlB6WFlKZGxaNU90UWNCd1JLOEF1RWRSVklQMnd6M3BGd3pnaXdTYXotRV9EY0xDMkRhOTNPZkdFZDBJT0Y0T2lDbm16OGtpU0JCRm1TUFp6?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 01:52:17 GMT",
-      "description": "Flávio Bolsonaro llega a EE.UU. después de que Brasil cancelara sus pasaportes BBC",
+      "title": "Cómo las elecciones en Israel y EE.UU. tendrán consecuencias globales",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sNjNSR2VHeTV1dTlJdE83b1VCZFdKWUhZOG5xck5lUTNWYTJqNl9BYW9FUjI2Q0djVUoxVHZCZU05QmpmZHd5ZGl4UkF0MEpnZUcxTnptcnhCSGZK?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 03:14:02 GMT",
+      "description": "Cómo las elecciones en Israel y EE.UU. tendrán consecuencias globales BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "“¡Esto es Estados Unidos!”: altercado entre funcionarios de EE.UU. y Cuba en la ONU",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcXgtSWtrc2xoT1pIWlJwQVR2SG45cmV1N3dPNTdMMjM3NTM1YjBjMHgxTVlwT25od2RuUGk4Q1AwUkJmTEhMY051Mm1uODRYeXowSzRXRUVlOE50MWxGOVdDZi0tcVlvdGNWQmo1T0ZCR205VF8tZkJWNElRZGs2NWNjS1dIOXZqWFdkN3pQenlaZDgzY0FWWl95YVNLZzQ0Smc?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 03:10:13 GMT",
+      "description": "“¡Esto es Estados Unidos!”: altercado entre funcionarios de EE.UU. y Cuba en la ONU CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Comisión Electoral de Israel: Netanyahu con ligera ventaja sobre Eisenkot",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0RTdWo4dktnMVY2T21FMUE4cnBWRzVlNlYzYXZCdWI2YldkSGVTNUJTc1JfSjZVU05ldWpibWVYQ2NiSFBDT0dLRnp1Z2V0UmVSekh2UGpjVEdDUHZKYUkydjF6VHZXcy04aWRMOFhDVXV1T2tVMU8tRlQ3NzZxNkQzOF81c25VWUp5LUs1RjNTdHdFd1dTQkQzM3BqdkhrRHdwSFJUUUJtTERaN0l30gGvAUFVX3lxTE1HYzdOb0p0Xzh4amRsRzFMeVdTU25tZ1hVR2xwa2Q0OFMxd2RDa1lNWE84eEc0VmgybFBTMVl2VlJCRU9zZkdsLXl0OW16LUptdExXYjVuc3ZNZmJBYmV4WjhGY0dKTUF2U05xN1pzcjhEdDZPSmZuR2J5dTBHaXBEdzlmNktIMWtUX2tXZ3dxTTh0dTZrWGpIU1dCSjVlaThoOFF4WUt3ZEVoTFRBWkU?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 01:36:09 GMT",
+      "pubDate": "Wed, 28 Oct 2026 01:48:18 GMT",
       "description": "Comisión Electoral de Israel: Netanyahu con ligera ventaja sobre Eisenkot DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -118,40 +226,22 @@
       "domain": "apnews.com"
     },
     {
-      "title": "El Papa se reunirá con víctimas de abusos sexuales en Latinoamérica",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQlE3OEdodWw5S1hEbjdzdWNlQnl2eUxBVi0xXzRfTTMyYUdEVE1MTm5zalluVEh6X0FyRVhwdHVHZU1DR19jQS04cWRZendnVDdCa29neUpheGZRQmNhNnZtWXh5dDg0a3JMRVdBVGt4bF9ERGpoRnBEZ1cxcHBQZnlRLTRBQ0hobnRnWUVBNnRqRjhMelJFSU91ZFR3WWRVX2k1U3FLODFvZjZES2tKTkRCTEtFMW9JOVljaXhrdmxpMUZZOFJoNmVZWFg5STVQOWhURUlnOXVoT1psZ21GSlBDODlVZw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 22:51:51 GMT",
-      "description": "El Papa se reunirá con víctimas de abusos sexuales en Latinoamérica DW.com",
+      "title": "Flávio Bolsonaro y su familia habría huido a Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3o1SGVReXhpVkVrVEpyUkI1ckRycUJJNmdzWFJ6N3ZwTDNsZzJYcDcwQ3Z3MnhOQ1FRX0lBd2o3SG1DYV9MTFZsNDJvZzBfSmgyZG5GS3FlcjFKWlNaa0hKX05rVXd3Y3lMckJTSkYwQlRzdU1aRFdiY2FTSktzaWFzUTFrRW9OZ0MxN1lDZ3hWQWFTVXM2VG4xaVNQOW01azdDZ9IBpAFBVV95cUxQQVZFZzk3cHJuOEt0MFlQQXVVS3liTEZHcl9td2t4aFVhak0tLUV2QzRqZFFXaWU4VjY5R0dJZURLVGx5bHR3b0JzYVBTRDJ0enJOdF91ZXh4TzlJWGRGQ1BkaWVOZFV5TEQ0eXJQSHNITkVqOVRGVHRPZ3k0X1VvZVZwZ3BpOE1HV05Wd2J5eWFkMGZLYVQ1TWg5QWdqVDhRanA3Uw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 00:48:53 GMT",
+      "description": "Flávio Bolsonaro y su familia habría huido a Estados Unidos DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "EE.UU. ataca una embarcación presuntamente vinculada al narcotráfico y mata a cinco personas",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXY4SEIwQ1BQZVFQa011MnVOb0lHLXZtMjhRRVAxTUR5aDRYaEdWb2VCY2xNYjdkZ0N5WHlyaHd6TE9UMEUtNU1GQ2treVdNWUFpOHd3NnBDUWhpSExjR0JuOXZsMVpaOVlPSmU0ZzR6YzA0MXBLRkZneGVJNV93X1BlQUptaWtGSVdRVHA4R1JwT1oxMm5QcUNWRVZ1Nmtrelkzc2FkdU5DWnNSUkpUeURWejFuY2Yt?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 22:51:24 GMT",
-      "description": "EE.UU. ataca una embarcación presuntamente vinculada al narcotráfico y mata a cinco personas CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Flávio Bolsonaro llega a EE.UU. tras perder las elecciones presidenciales frente a Lula da Silva, según fuentes",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUpqY1RmVjk2cUUyRy1HR0pGYWVNS1dlQzh1U0JiZ0hxRS1NdEpEVTh3bXlEbVhTWjJKYU12dmRHeUxqakRxcGEyb3Aza01acFJuMHhwUm1BY1pCbnRLS1RhNGZ5a2gwN3g3S3BxYUtxWW5rblVvcHNha2JUanpUM3JSdW5YV2J4WEM5cWdqSHlycEtCQWcyaDlaOVhIS0VmMEVPSg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 22:45:00 GMT",
-      "description": "Flávio Bolsonaro llega a EE.UU. tras perder las elecciones presidenciales frente a Lula da Silva, según fuentes CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Irán condena a 5 años de prisión al cineasta Jafar Panahi, según su abogado",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQazhzbEF1N1dNZS1ZTk1LQWtObDRIUkUzbGpqNmp0bUlscEtualc5bXJobi1JQ2IzVnNRSm1lZlRsVjFXMW5mdV9WeTBtcTI1ZHJGckw2dFVQRTUxR01BT2kxSkg2dW5ybzJOX0V0ZXF0Y1ZYWU1jX2tWeWJ2Mk1nUXBSSy04VnBUT2xIU3ZmN2ZPQkhXbFhJSm83MWhMUzBIU3h5TlZEamIxaVFMTTBZblI3Skw4MUZDR3VpUmd1Q0RKeHhUMWfSAcYBQVVfeXFMUHVnaGhVUGpHVEZQNlhZWm1lZFpmLVNndTk0aHNJcGpMZlI4SVU2cFFmbl9NdU1BSjlGQlJKTVBlYTV2ZXJ0T25wQ054U0dtSUZYWUZ1blBycHJJdFhQdW93NFVKN0xZZ05pVXgzbU5PVFBGT0dRcGZORjhNb3M4d3ZXTHJtak1OajBxdDREbmVRX21feUlydkhLTFh2YzBCeDZIaWNqNVJKclFCRFdrTHByQnFWaGk4RWJvTUhDRVNyelRzWDBn?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 21:35:04 GMT",
-      "description": "Irán condena a 5 años de prisión al cineasta Jafar Panahi, según su abogado DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Elecciones presidenciales en Brasil: lo que hay que saber",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekgxQlBXb0VFYS12UG4zOG5RNThUWVF2dnFxSml6MDFFQk50UkQ4QUo1YWk3RmFLei0yN2VWOHVQY2NueWRxX083VGI0Nk1hTTN0V0d1WHpxSzYtdmZSY0ZXYVUyT2RiT0puRHhvX0JYajBLM0h1OTd1WFZiQ3lxMXMxZkk3RnhTdEl1M3V0djVPVzlBNFNLWVZKOHNKVDA?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 22:02:00 GMT",
+      "description": "Elecciones presidenciales en Brasil: lo que hay que saber The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Qué pasó con Guadalupe Taddei, la consejera presidenta del Instituto Nacional Electoral que renunció al cargo en México",
@@ -172,37 +262,19 @@
       "domain": "reuters.com"
     },
     {
-      "title": "El contralor del INE revela investigaciones por corrupción y queda bajo sospecha tras el escándalo de Taddei",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdzNJTU1CQTVHdEpkdXpmcTZ1SHB1S0Y1ZWE2c29sbS12MWhQZHJZbldVMTVOWEh4VjdFRC1hTGYtMlFvcDhVaEZGc1ZiSElUajhJR2dXUFZuQ0RBYnVVSTJNblViT19hM25jOEdUYkpxazdtOWc5NGZTdHhfX2lIanhuSG5Xd1gtekk4TDRmS0Y5aFNzbWdHREJLTjFHdnJiNEx1R2NoSEViT2pVN0k3Yy1MZk41QjFOSU5ldkVDbGxLZ2Iwa3hWcG91bEVacHhhVWI2Ti1wRGY5TDRObHIyd0c2UGbSAfgBQVVfeXFMT0UyN0loSmlIVG1HMDZGUkFWZ2dTSGlUY05PalBRWk0ySll6eklvX3Y1LWkxa0FNbTRMWDAxcDJlNFZMZ0hSdXhlYS1kZzAzRmNyMVA2T2x1dENEU2tmUjNwOXBITl9VQmRIR0NfM2pvczBObkVzNHhSS2RFRUxMSEFiVnFCVHVZQjhzTFVJenBhNmVDS2ZjZUhFcG5TN3QtM2RYa01yNnpKTW9IUW1uR3VheFAycWJPWjZlTWhnaTFIMHNhaEltUUtKY0JPeXRLc2V6M1BCOU5wS29BMzhSS0ljOGM2NWZuTzZUTlFnMl9ReXp3bHJxR2s?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 19:10:46 GMT",
-      "description": "El contralor del INE revela investigaciones por corrupción y queda bajo sospecha tras el escándalo de Taddei EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Elecciones en Israel: ¿qué pasará tras el cierre de las urnas?",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlROVEpmTzF4NUNNWndxWk42cEFEcUtLOFdNSFQwMXB5T1FRc2NXSlF1TkVhQzJJeEdRZmFPREZzcVA0UnlRV0UzM2RkTm1ONFFlT1JlRDhGQTFEOGFxZHFzSmRCZXN5SXRPRTJHODFkaG5aT253RDUwMDNkdmJBUVFlcENacl9qUTZpTWE2WlRXaFJhZ2RfNkFEaWZhdVBjLU9jTlctNktPUFlrLXNWZVlfUQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:54:37 GMT",
+      "description": "Elecciones en Israel: ¿qué pasará tras el cierre de las urnas? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
-      "title": "Anthropic advierte de \"riesgos catastróficos\" antes de salir a bolsa",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeDJoRVNNQjRzOFo3U1U0Yk1uTDhaRllHZV8xR0lOVDYxVGh5R2dTYVlFS0hEVElQMjBXYjZjNHJqUTFZNUVlOTdMRGFEQnFtZ3ZZNF9aVGlMQk1jM1ByRG4xRU4zQWxhMkIzaEhLWmMwTHpKQkRXQVBlODE5VkNqNEVEZmZjQ2Q5ekZKVy04OXNzejg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 18:34:10 GMT",
-      "description": "Anthropic advierte de \"riesgos catastróficos\" antes de salir a bolsa CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "La consejera Rita Bell López denuncia que fue amenazada por Taddei: “He trabajado con miedo mucho tiempo”",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWWRlNVhTNFNkX05zWU9ILXBuWldpQkpLeTRqdzd3QVFCUlVjOXNIbVRmQ0w3ZThtYUMyak1kZWlUWHRYZnprQkVUSzRnYnd4MWhtNF8xVWV3c1pvYUJJYXRqSDk3M1BLQU8wdjVoWWxWYnZxMjZaLUlJb2NPLURDUDFBUlhPNm1NTWVvM2pOeW5hdGRlM3BVQ0p2WF9SYnVYWUFFa0huUnM5RE5HdVlYa0w2MmpRVVYtT0FUOG4tUlMtSGpVNFRXWXB0Z3dWcXdRSGZta3hweHExSlBN0gHwAUFVX3lxTFBZSVpkNUx1eTJDRGNmOTBsbXREZHZfMDF0c2pjbzlOTFdlOEFnRUxTMFhKV1dFdmNjT3B4RkFQMTN1WV81R0hLdmRCMGphWGcyQ3FXSzdzMkFwZC1VQmdTZVotcGxuRFJIRmpXM29aMHVncUJLVlN4ZGZOTmM1VWJkVkN4S3BrbkwySXlab2xNd3pxY3BtSmVyVk9QNXQ1WE1DMWxXemFzdWxXMENJYVJqZTdVMHRIX1FrZ29FalJzMVpTbXIzVHhDcUpBVDgtYnR1NFJxNmhXeWJtZkFvWmFzc3k3YnR0LTg2bUdBNUtXVg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 17:31:41 GMT",
-      "description": "La consejera Rita Bell López denuncia que fue amenazada por Taddei: “He trabajado con miedo mucho tiempo” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "La hazaña de Charlyn Corral, la jugadora que hizo historia para México al ganar el Balón de Oro a la mejor delantera",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RQktPNXdSRFpjYmlHVkE4SDZUQWo5ek0xckYtdW0zblhkV0ZCRVQwNG5BSldFWmN0SDNnVFJQb3BSc3lVZWpmYmJsUXBaUnBoN1lhQnpRRWhBbGRR0gFiQVVfeXFMTVdqQXU1eWltNUFpOVZrMThrNDZFT0ppTlpGMFdlcXVWQTdMc1dCakg5d1NjT3FBQ0FhcTRUbkNpLUxFeVBUX0NpdXpJWXlLZm1SWFFQbmI2WmZoNW02Z0RFNkE?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:28:51 GMT",
-      "description": "La hazaña de Charlyn Corral, la jugadora que hizo historia para México al ganar el Balón de Oro a la mejor delantera BBC",
+      "title": "Flávio Bolsonaro llegó a EE.UU. con su familia tras salir de Brasil a través de la frontera con Argentina",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kTW5RMlB6WFlKZGxaNU90UWNCd1JLOEF1RWRSVklQMnd6M3BGd3pnaXdTYXotRV9EY0xDMkRhOTNPZkdFZDBJT0Y0T2lDbm16OGtpU0JCRm1TUFp6?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 18:03:05 GMT",
+      "description": "Flávio Bolsonaro llegó a EE.UU. con su familia tras salir de Brasil a través de la frontera con Argentina BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -217,15 +289,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUpaNGJkUU9FeDRxVTFGcVljX3VfUHhKM1p2bm82UjZ3bW5aUUprejByam9oWGpoeWllcC0wRUlNZi1yRlV2YVcwY2tYODVJWXZ0ZVZvMm85eEN4VC00NmJKTTk5enF1TTRZZmZRelpUMzhmY0NiUzNQRVVFdmc3amptbjZFWHJuUHdRSDZkZVlNakZWQks2WWRIVXhWdw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 15:48:00 GMT",
-      "description": "Flavio Bolsonaro and family to receive US visas after leaving Brazil, State Department says Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Vance sobre la gasolina: “Se disparan cada vez que algún dictador de pacotilla decide hacer un berrinche”",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGJIYlM2OW1yS3ZXZm80SnlSYkxqQTVIYW14VkdSbk1fOGpDTnVaVGg1Q2pxS2NCb2Z6Mng3TUNESmlNUGdQNjBCUnVPcnFPWUlFbEp5a0ZhWFY5SlpSZFhkcWZ2bVNyUm9yNFFrSFRjV1NwZ0k4YWltZjVZQ2dLZkQzQzhUbS0yYWdiUFRRUFY?oc=5",
       "pubDate": "Tue, 27 Oct 2026 15:03:41 GMT",
@@ -235,17 +298,8 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "¿Dónde está Flávio Bolsonaro? Policía cancela sus pasaportes; según Argentina no cruzó la frontera",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRVZLNzRUN0pyMTR0bVhjMTdhcjVQVHVPUXhKOU9GTGpfZk5DemZLUmg4NmwydVRpQzUzY2J4TmJGaDM5ZDNaVFVzQ2hPc1k4OHdIb0g1ZndUQ1MzV1BBUngwbmFGZTg1VG9HWmlQdlFickY4VVplWnd3a3NXUG5wWERZUWNVX0dLTjhHcFJsVmdkc0t0MlNxbE5MNTJrSkVWVFl3ZVV1TGRsZmdMNHZUa0pYNWlKdUxKeURBWkgySGFKLTBxZzVFTGRXZm94NkxIekVQdkY3Y0hzTWp1ZTZZaTlFeUJ4RUlYUnFBS3hHN1VjRGIy?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 14:45:38 GMT",
-      "description": "¿Dónde está Flávio Bolsonaro? Policía cancela sus pasaportes; según Argentina no cruzó la frontera France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Cómo el sorpresivo triunfo de Lula en Brasil es un golpe para las ambiciones de Trump en América Latina",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nQ3hxYTYyRzVhNVF2UHkwOTlWUDVDRkk1S3VfcnFMbzFMTDhhemFic0prcmRYaEtoU2l4d1Q3YzJIR2doOVBia2lwdmt1Qjh2RUpsejNrWTZvVXA1?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nQ3hxYTYyRzVhNVF2UHkwOTlWUDVDRkk1S3VfcnFMbzFMTDhhemFic0prcmRYaEtoU2l4d1Q3YzJIR2doOVBia2lwdmt1Qjh2RUpsejNrWTZvVXA10gFiQVVfeXFMTlNnU0FpQ3pxdWxFWDBNNnJFWGhqaUM4blJYdHpRR19wb08yam5KWWtCVnBRUW5adDNkTVdSQkZYaWNFLVUybGhURDl0YlRYeG11ajBoRk1mejRaZjlmMGNwcXc?oc=5",
       "pubDate": "Tue, 27 Oct 2026 14:06:29 GMT",
       "description": "Cómo el sorpresivo triunfo de Lula en Brasil es un golpe para las ambiciones de Trump en América Latina BBC",
       "source": "BBC",
@@ -253,46 +307,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Obispos católicos se disculpan tras la publicación de un video que los muestra rezando con Trump en el Despacho Oval",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTBpVnZ5RkRBT3hGaGd5WjVHcG5qdU9vQ0ZObVNfd0s1dHlLandJWG5jNDNCRFVhUG4xaHEzY2pESkFzbGFhbnBUcGRHU0pxZVhYclFFclgzclNxbUc5SHNhcDR0U1g5bEVDa1lydFZrU092SjVGSUpWQ0FSaFhWRnRaNU1KMFhna0dwc19odkw3c3ZxX293SW9qd2ExOHFu?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:58:00 GMT",
-      "description": "Obispos católicos se disculpan tras la publicación de un video que los muestra rezando con Trump en el Despacho Oval CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40SU9QLTRacWNWdTlIWW54My0zczQ5ODR5c0ZmdDdWc1NxT1BWdEdMamYwQXhkY2laRF9HZHJJMlRGeWtoWFFlWW9RRjdLdm1Hc2k2NVRVQUtmdERJ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 13:21:30 GMT",
-      "description": "5 claves de la crisis por los militares de El Salvador secuestrados en Haití y el ultimátum de Bukele a las poderosas pandillas del país BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FMzAyZUdVOHBYSmlXaVhoODNPWTJxV0RsME9vb3NIeW1YY0F6Mng4REtHSDhMdDZmTzBlbjlTLUF2VjNycUlDWWJ5TlpMUzhMT1o5RHdUaGgyTjFP?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 12:21:29 GMT",
-      "description": "Los retos de María Corina Machado tras regresar a una Venezuela transformada por Trump BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El sencillo test que revela mucho sobre tu estado de salud",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1INVhuakJTZ2hVMGVJSmVJZ0FsZF9DdlU4ZU1GSU5vbVpOcU9YLW1PVHYzcnN1THVYS2FvSXVrUm9VRU5nX1E2UGJ1cVRwU3lqdWo2SlRkWnBqTnRu?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 10:56:16 GMT",
-      "description": "El sencillo test que revela mucho sobre tu estado de salud BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La televisión china suspende las emisiones de LaLiga tras la polémica con un meme y Mbappé, que se refirió a Mao Zedong como “dictador”",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPbXR1bEdzSTJKSXFDTy05dGFERFBWVTF2TTdSbnVWRjhpMmpwOTBla3FhcGNtRWdoX1lBS0tkM216NXJLYUczOGhjWExFLXk2Nm9MNFlsWTN4dEwwbUN4ZmN5QUxza0gxLVZDODRnaUlhM0xqSERlc1JnenJhWno4Q1U5R2FJMmZDQ0VqbWxkZkw4UFMwMVgyQm5XeDZwMzZldUVubVRIZ29vZUZadmJqam5JaWFtdndYNjQ5YUxOTmFaZHgtZDc0QmN5ZWxBb0xUOTN6WG5FRDZSdlROWkJBMS11OEFzaUxabjFVaWVKQTFVQllnX0pVYmJsY29Yci1zWGNBUjFsa1diODBUSjlaRHNCUG5xOTg3ZGR1NHNlX2Z4YmpsMkIzb0d0c9IBvwJBVV95cUxObTRybU50VDFSSXpSOElSaS1KSzVEU3dQamcxMTF6c0pNeWJjWldPX1FvZGV5QURtTWJ0Qk40bXlhTlZSb0M3OEUtWG1lN0ZFN1Z0RHJyWF9xdkl5a2dRSWlLQWJfSm1scVBGbGs5dDNDRV8wVGVFYU16N1JWUU5lb2Y1RTM0U0RtMEN2Q25qQjNvSEJnOEt4MGttQzQwMDdERnVwLUp6WE1sZGZKMGlBU09VZ0ZreF9FUzVnTGtFTHdTNU96TllhYV9tb1ZFdGE3MVRlT3lBOFktOHp6NnNzcnY3cHhRME5vMjh4WFRjcTBTWWdPRUhXU1VMVXdEQ0x5Z2tYODU5aEdWY0c4aG9INWVVRkNKMGJ6bG9hS1pBaVBVc2NRU2QzSFFqSHBqeGowQkY3MlBNcUg2X1FueFZj?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 08:46:10 GMT",
-      "description": "La televisión china suspende las emisiones de LaLiga tras la polémica con un meme y Mbappé, que se refirió a Mao Zedong como “dictador” EL PAÍS",
+      "title": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVnFpcUtBRTZFSnFJM3dwTEh2N2NrVDl4RndIMUlhaVZRVzhhdnZFREFPbS0wRDNaOFc0dVMxOWhlZ0ZocHAzNWFhb0x0a19FRElKeEFhLU1xX1RyZFBhalMxTUh5cmlnUlpEUzhCaHZVZGUzTnBkZFdVQTdXVktuUWNEQjkxUktJTVBuTkhOODA2aGhtZjRlTThUakdXT1J0UjZYZ3hockNVSDVmQlgzT2ZFa2xrSlY5bnBMXzVyMy1PeDhoOHZ1NFdvaVFsUGlMMkZJ0gHnAUFVX3lxTE9FSDAzVWtqc0JmYUVFT2I3amJUbWx6cUE0WDFEMDN2YVZqdFVFRERhM0I4QTdWdlpvN2oySndzZDQwMzkwS193Q1VwZTVab082MmpxVVNleVVMT2huMkZYQVlZNzVyckVXOXdlRXU5aVBMZlJqREtzbldzSnQtZWpOTEl5enBUeFQzRHBNbnNnOFNvb1QyanVfbGZOS3h1NDlxbnVmOGpXV09jbmw0ekRUTGQySHpXRFc5YV91dEFwMHdnN2prTW1uYnMzNFdtMTcxc0tpaEo3bXBOcVlLa29KcF9WLXQ5cw?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 13:15:27 GMT",
+      "description": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -316,19 +334,19 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTdzU09DQnlVOTExWlZLNnNxY3hZRHEtMWVjQWFmd3hvU0VIU0ZBR3dZNVJmZUoyZnJUdnRsNzVCNEpYbEc2MGRPeUt6eEtiRnRCSlVST3lZNlZuQnVnb20yQ19WTjF3dUpzcFpZeWRDRkRjUVc4dUlPX2FhUlUxc19RN3IyXzZod1B6NHFPTnBrWHpDek1mb3JfX3JJYjhVTG5vdFdhTFJxNVlZRS0yR3JNX1FDYTA5UlcxbDNQMHdfTzJKS05BTDNhWlNYNWxGTWtmdkpiNFZWT3EwT3lIZWlaVklWTGx5RmxzR3B0THbSAYQCQVVfeXFMT3h4aHhpQkZxZXpiZ3JVdGtUOTBNSEswakF3R21zTHMyclU3bGNxVS1DSWxPdVJMYTExVk5ITVVJeTZNSzVLQThyVzhuZy1leWEyS1U5TkhYUXd6Q3RQQUwzb2JpamxPVDA3TG9tMThpS1lBUk5vV0pKbXRZcTZFNk0wNFFabzVpQ09MLWROSHB4ZVZrOURHZDFEUHk0TFF2RUkzSDdjN2Z6dmFoZHdaVWZOV2p0VHZIZHpDVUd3akpHTzhHcjkyQk1aNHh6ZkhnZjlOVmhqeTktRjl2aFM5RkwxRXV3WGlkYmhQRHRzWmdTNWszcmY3dU4tUml3T2JVQS1iRGc?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 04:30:01 GMT",
-      "description": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’ EL PAÍS",
+      "title": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWNKclh2eDRPRVptUkJFVWZGRVNKSEo3OGg3eVJGODhjUUZxY1BwUnZJVHc5Z0M4RlRlUzRZbTdnVG1XbHJaYUFEV29xUk1mcTF3RmIzaTJodENBRllmWlRGcnlidGNiMzVMbXRmQXlUcmVWeEQtRjJ6ZHZadllJbW5JM2taczhMbFZaV3MtNUtaeWxtRWtGYTVkcWV2ZzRmZV9yVkxuZWZmZEJ6RXVBVTh1Zk9LNFhYZE1XdVZTZ9IB0wFBVV95cUxQbmh5NjE3S2syTDlZOVVUVml1aXlESmdyOFdZRGtCcXBDdW5aa3V0MWpsWTNSTVNrZTdZdEttdDNhWHA5MDJEeDZISEhhdVNXaWladzc4NDV0YUZZRFplbTZzTzdWeDd0azYyVmhaRHNIMFVsNVFaZGFLQ0phV2xyN0pMemlyRjdfMTNDZzVnTmNIMExxRXZCM3FpVnVURXZmd3JyaFJMVXdaaDYwVnJQM0pPR1RLbVQxRUhFeXRvWTJPb0JWY3dnMHRENlhBeUpud204?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 04:40:00 GMT",
+      "description": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "“El deseo engancha más que el bulo”: cómo los ‘gostosos’ sin camiseta contribuyeron a la victoria de Lula en Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPd2tDdjhwY1kwQ2lyQ2pQcEZ1aGVqNDI3My0zalZqMi04d1BoUGNtY2NZaEJJRG55RHlYRFBRRWdlZ0tCV2IzcEhOV1ZFWkdsNzJGUVRsY2k3dE8zV19QY0cyMlQxRVVabnJTM1UtR3VRdk1aQ21RM0R5UGMyYklpMzlvQ0R3allrb3lpSllLZlZEbHdfQ1NFclpOVmp4Y0dmQkRsbHB1eGhSVUZfSFZGUEVObnNtajRzX1FPMWVkVjI0cVVEUU9ndXdkUlhHcUhfVHYxOXVhZllpRFA4bGw4b1draE7SAfgBQVVfeXFMTXIyR2ZTRzNHaXpPd3BIYVhId1NpR3J0VW90X0R2WU9kQnRmSk80d3VLNWVNVElUamVERVBJaXZTWTZaRElDTnNiUm5USllyNEFuOWxFNHFNcExlQ1F5am5ScHlYRG5Wb1RNb25SakprMUFGZ0NQRkstWTZGdExaZ3R4ekpNRmEwdFRwb09rSWhRZVc3NG82WTJ2cnRmV3N5UGZOUk9RTXk4d1B1TzAwNHRaRHJiQWprbUVXOWlOdVQ3YU9UcjBfVktCR3pNYlZHdmV6cG92VTdNb2dwY19tWGF5c0pEVkZJelFRcG9lZGVmTjA4WHltMko?oc=5",
+      "title": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaTdzU09DQnlVOTExWlZLNnNxY3hZRHEtMWVjQWFmd3hvU0VIU0ZBR3dZNVJmZUoyZnJUdnRsNzVCNEpYbEc2MGRPeUt6eEtiRnRCSlVST3lZNlZuQnVnb20yQ19WTjF3dUpzcFpZeWRDRkRjUVc4dUlPX2FhUlUxc19RN3IyXzZod1B6NHFPTnBrWHpDek1mb3JfX3JJYjhVTG5vdFdhTFJxNVlZRS0yR3JNX1FDYTA5UlcxbDNQMHdfTzJKS05BTDNhWlNYNWxGTWtmdkpiNFZWT3EwT3lIZWlaVklWTGx5RmxzR3B0THbSAYQCQVVfeXFMT3h4aHhpQkZxZXpiZ3JVdGtUOTBNSEswakF3R21zTHMyclU3bGNxVS1DSWxPdVJMYTExVk5ITVVJeTZNSzVLQThyVzhuZy1leWEyS1U5TkhYUXd6Q3RQQUwzb2JpamxPVDA3TG9tMThpS1lBUk5vV0pKbXRZcTZFNk0wNFFabzVpQ09MLWROSHB4ZVZrOURHZDFEUHk0TFF2RUkzSDdjN2Z6dmFoZHdaVWZOV2p0VHZIZHpDVUd3akpHTzhHcjkyQk1aNHh6ZkhnZjlOVmhqeTktRjl2aFM5RkwxRXV3WGlkYmhQRHRzWmdTNWszcmY3dU4tUml3T2JVQS1iRGc?oc=5",
       "pubDate": "Tue, 27 Oct 2026 04:30:01 GMT",
-      "description": "“El deseo engancha más que el bulo”: cómo los ‘gostosos’ sin camiseta contribuyeron a la victoria de Lula en Brasil EL PAÍS",
+      "description": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’ EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -341,15 +359,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Comienza una tregua en la devastada ciudad de Oleshki, ocupada por Rusia",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzNaRmhLOGc3WkVVc3ZjSTY5TnJpZUI3NDI1QUxyS2RCU2VVT2N0Q0JseVRhY3paTkZyU0l3ZE5GQkdDQ2IxLUNpQl9EUXdINlJYOWF2cFBXU2F2QkNKMWFEd001d3VRNTl4eTVrVFZXcmg2Zi16SGFOb0V3QTZXYlhEZWJBODY5bG4xcURmZXg3elVqRV90N1A0UlM3Qlk1dF9zT25Rc9IBpwFBVV95cUxNeVU3QnV4eC1tR19EVmpTTzJqaS0zczd2MEJaWmV1dXlyUFBUSlNJX1RQaDVYdWpsRmlkLXRPRkhJZlA5QlJSNkU0NUk5R2hSZmpRbXBleUtVZDdBUnZ6dHdoZmp1dUphZElUWmhCX0lLbzlHY0RiUmhlY3ozRTBERU1ZTFdHT0g4b3VhUEIxcjZ4Rmw4RDBIVkZ5S0k0WlExWGZXSFBpWQ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 04:18:39 GMT",
-      "description": "Comienza una tregua en la devastada ciudad de Oleshki, ocupada por Rusia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Elecciones en Israel: Eisenkot promete unir al país, mientras Netanyahu lo tacha de \"blando\" con Irán",
@@ -370,15 +379,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "La victoria de Lula en Brasil, \"una derrota para Estados Unidos\" en América Latina",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzFNTFRYQ1loTnRIZGlvZE13RXlLOVJVZUMzZk9UQTRlQm0zZ2dtWllQZG9UWFFOU1lwbEJoVFlkSzRyRUc4UTIxOFpCa0lod0plaFlrQmNIU0xqV3dnTzNqcnVNVzRmTEpSdV9hQXZuSkxDbWsxUFF4T1I1eHBUT2N5VHAzODY2aGdwczY3d0xEOVJ3V1h4U2w2NGNhV09tYkowNWlkNm5UUklEQllBSjIxMVk1UDhr0gG4AUFVX3lxTFBObjRpeW5vcDkwaU81RHJ4TUl2d3ByX0wtQmlBNWJtUFJ1RUQ3eXY4aUNMZ0hnSDk4ak5pbUdoWElrUEt6TkNMTlNrNHEwVDIwc3MxUVgyQ0lybTRkSXJBUWZOUWlTVW16WXRPT29OM1VDOG9ScEk2em1ZX1ZyZEpfSUdlZDdoZEhWdmVoRUNtZzlnZWdpRy1BeFpfcUVlTkdhUTdtekh6cHhQeXd5dVZodnBrbF9oUTI?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 16:17:22 GMT",
-      "description": "La victoria de Lula en Brasil, \"una derrota para Estados Unidos\" en América Latina DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Lula gana la presidencia de Brasil, un sorpresivo golpe a la derecha de América Latina",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPblRPOGxyaEYzWjRiWkdCcUx1TjdXOVNfX1JROF83UmtwQ090N0trYi1Na1Q5YktScDhEMWlCQS1jdEM1R2FzZVBfS192VjF4YTVidUZDY1dlRmtQcWFCcUNwWXpQR2ZEc0MyUlhCc3ozSExjUnpwT05BZmdYNFU2RU5aa3VMM21mWE42U3ZOZXM?oc=5",
       "pubDate": "Mon, 26 Oct 2026 15:39:36 GMT",
@@ -388,18 +388,9 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVNMUGdfdGo5OFI2RExWUFBBTkQ3SWhMaVNCajNGUER0Si1ULTM0QnJ2UDZoMURnczVfU0N4dXVfN3VjV2Qxd2VGcW1YcUxYb2FrdG1wa3VsdDZ2YldVeExjQXZrQjRtcld4VHFrTjMxeVEzU2JGM1E2TTJTTjNTc3llMUo4SkNYanhrb2Fqb2l0TmpQaENReFpVbkJMSk9hbG5XbW1ObnFMdGZENFNZQTBzdnEwQzhFRUVacTF1UQ?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 15:21:43 GMT",
-      "description": "Oil stocks in US strategic petroleum reserve fall to lowest level since 1982 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVR1Y3BnRFY2b29BTWdjd29raUFzSElhdGlISko0ZWdXa3prSDJST0xSR2xVczhqT2JKTjY3X2pMd2xNdE4zcXdlSU5jTUt5UGoyUk1abU1CX2pEVHNHMFJaU1hOTlNzbE9PMEJVNklDcTBZX011d09tVHVkbXp3UnBoLWVtV1BNTkZ5OFp5b0dfZUozMmhCWlFYUjVUaERHaWZoeXUyaFU?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 03:39:00 GMT",
+      "pubDate": "Mon, 26 Oct 2026 04:55:58 GMT",
       "description": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados AP News",
       "source": "AP News",
       "outlet": "Associated Press",
@@ -413,15 +404,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaHkwODI0ZjducW5NdmpvTWFWOHI5U2xQNThiU1ZibDlhbU1hRDFpbURJRnZhOThnb3ptaEZTb2VnZ1dGbGZlTmVqay1RSmlRTDB1MWQ4QUlzdEd3N2VqUjdMVlJ0X25TYmdxRGtKTm4yd3NLOGZIbHlPWnRTcXZxQmtpWERJWks0UUh0Q2xvanhqYVQ5UWg0WnRiSWQ0X3NYSk5VcEV6aEJnVjU5MXllWE1NUUpEaEtMQVVoTGpZSUdEZGFtMHRFMWNmcTNpRm04R3Fr?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 00:23:01 GMT",
-      "description": "Lula da la vuelta a los resultados y gana el balotaje a la Presidencia de Brasil France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "Messi, Yamal, Mbappé y Kane van por el Balón de Oro. Lo que hay que saber",
@@ -451,6 +433,15 @@
       "domain": "apnews.com"
     },
     {
+      "title": "¿Qué tan grave es otra reinfección de covid?",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVV2blctTVFkMFFmd3dpQVpYNkJlM3lPQVhEWVZkMHdId1ZjZWVfVW1PZy1YVkwxTTdiY1VtejEzNjFVaTBrVVozQ3loa0NPNUlWaGZLTHJiamI3eUlISXdPQVB3czRPVUZPNzVkc25CZTF6cXdhajN1RTl0Z1B6dVVR?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:30:05 GMT",
+      "description": "¿Qué tan grave es otra reinfección de covid? The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Chile: rebaja de condenas a 56 pederastas enfrenta al Gobierno de Kast con el Poder Judicial",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaE5VOTRwWXVIZFk1eFVYSkxPeTg5ZXR0UXBpTmRKRE9CWW1mbmRjdzJOWkFMV2Y1V3Q1MGRzUjlWMFZMdzFETUJHSmN0QTRKVWszVGdoOHFvTWVlRnh5a2tYdkJqaFpKX05KZTVwMXg4TUZzWmFMQm1Sdmx1Z19BaWpmSk1FUUxURTkzNWtqWVNrdHRQX2ZxZzRtQVpFQUpnLXNQOFpKS1JaREdfWFN4RDA1VUFGaDJsSGk5c2d5cmhZSnlSU1hMR2NFZXJJc3RjSmFuSEd4NENIcE9KNTU5WHdB?oc=5",
       "pubDate": "Fri, 23 Oct 2026 23:42:00 GMT",
@@ -458,6 +449,15 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 21:05:43 GMT",
+      "description": "US Treasury drops Venezuela from countries facing outbound US investment restrictions Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
@@ -487,31 +487,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Cuándo y cómo ver la lluvia de meteoros de las Oriónidas",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNa0lXZjlWR3JWQnpvTEY0NW9EWU5ybXhuUFdrM1RBNjlCOG1Od1lyZTFYTk5aMnZiM0YyNmIxNmdvYVE3UWI0UlV1UUtMVFJ0emM4Unk2dDB5ZkctdlJzdDhkakxjUDZGb0hVY05OclhTLXh0aWZWd21YRmJqa1NhYkZZSjgteWo0YXhyS0hDbmcyeWpX?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 16:29:08 GMT",
-      "description": "Cuándo y cómo ver la lluvia de meteoros de las Oriónidas The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcnV2ZGhVSHJNOC11enV2N25uVDRSYms4QV9scFE4MTF4YlJCU1V0bzEzazhyN1hCalF0Y2NSSXFMd2RySVZKUHRmUkltbk5DajZnTmNlNW93NGpIcHF5NTZrcjN1UHJMdlA3X1NXWGNsdW5kWEZFX0lxdTk5VU9PYXhGa25VcUZSdTNEdlRKTDNyY1R1cjhLRW5pSEJvQQ?oc=5",
-      "pubDate": "Fri, 13 Jun 2025 07:00:00 GMT",
-      "description": "Assassination attempt in Colombia sparks fears of return to bloody past: ‘It’s a devastating moment’ The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWNxYWd5OFpXMzFlSDJPM2NnTi1xR1dVc2RPVWRzTjJvREF4d1VuZ1Rqeml4dVpUcERwOUZlQUJwUXF0a3Z3Y1BrWkxUcEtmbUROYnI5Ty1fWExLSmJYSlhLMXJ4MHNXRFFmZTF0LUNZam1Za09JZ2JmdGZ6RVdzcTlxVkgxeVB0bkJpb25Ub1JOb21vVWl3MHd2a3VWd2M?oc=5",
-      "pubDate": "Wed, 31 May 2023 07:00:00 GMT",
-      "description": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "Apple will have limited iPhone Duo units available in stores on Friday",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXZTMU9WWlI5RHdJWm9rSFN6SXF1Q2ZfRUxXM1Y4dzVwbUVzNjNxeFRjcUdnRUpJcXZMUnVweXYySjRBcldhTTNFTk1vR3lCOVBrU2RxMUltNUtvVklUb2tJVk5oUmhRWTdjYmhpYjlIazFpYlhkb0pGbVF6UTRqS19mWUVfVmh4UDRqb1pUVEFJaEhTdlF6YWd3UVZxZVBITlFJR2FLOGUweDhsd1hpTHhxeU5EbjJTTkNtazUwa0ZvbU0?oc=5",
+      "pubDate": "Wed, 21 Oct 2026 14:03:00 GMT",
+      "description": "Apple will have limited iPhone Duo units available in stores on Friday Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas",
@@ -566,42 +548,6 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Europe",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Mon, 02 Mar 2020 14:37:57 GMT",
-      "description": "Europe The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "La Liga fixtures | Football",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdFBfZkNhcDF5VjZZRTdkQm0xSDlFMWk4LW04ZTRDMC04ejkzTkRWMmhFQlF3WXRBZWZFM1pGRmlWMUNtVy0xWHlabUlDREVsazNRbi1YaDVyRlhRc2t2RjNPb1NtZkc0Z1ktZw?oc=5",
-      "pubDate": "Wed, 11 May 2016 15:59:04 GMT",
-      "description": "La Liga fixtures | Football The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "The Guardian in Spanish",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
-      "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
-      "description": "The Guardian in Spanish The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Rise of the middle class: lessons from Latin America",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
-      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
-      "description": "Rise of the middle class: lessons from Latin America The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
     }
   ]
 }
