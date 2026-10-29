@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T03:06:56.602Z",
+  "updatedAt": "2026-10-29T11:52:24.336Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,40 +58,112 @@
   ],
   "items": [
     {
+      "title": "La Tremenda Corte",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWlOeEkzQ3dJdXJjZEEwTE44NFdtTGdqRGNpVXBNVUdQMFMtVFdDT2VTWjRVUmR5OVVmaFlGbU9EMC15SkJDUUlPaEJxZ2dWckRZQ3NrU3JsNUt4ODQ3eVNNZGtFX0toSncxa0FralZEVnFURU82ZGFtZTljRWdUWFk3VlJta015ZGk3TVppcnV3YVQ1VklF0gGXAUFVX3lxTE1hVFljUXQyVWVQWnRhVTNZS0VpbmdRTmNwMjE1UEJXbzZLOUhNRDJva2FkZ2oyaEphZ1VXMFF0aEgybW1NQXBNYkwzUUlRYmpET1lyV1RLbnBYZTBhMWV5QjFrZWZEWFVpbHJ3TTNJTWVBSEVUVHlYSXZpLUxKLTBLTzFhTk44NmF3eXdKQ3FmdEpFZC1icEE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 11:33:00 GMT",
+      "description": "La Tremenda Corte MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "¿Para qué edades estamos pensando nuestras ciudades?",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFhETGxuRUhRaE9uSGI3Ri1XUnpDRV9vUHZMY3otbGcwUkJ0aFFaQkZtbXlSaEhEajFjQlVnS1FsU1VhYmJzWVZIVEU0NUZsLWp6eHAtdTBjNjhNYUJuZU5IYW5ENGNSYWR2YlE2dE9TbmJkRTVqR1lBVmNZOUYyaGtkVGpzaWlvTWpCejlzSjZIWGt3MUQyNXdkenJiVDNlbExfVVlhUzg5Yk9ieFM4Q3FhU2dCUjV40gG4AUFVX3lxTE5ObjF3Ny16T2Y5VDczMjBRR1cwY3FxTWFBRlhBV2YwN0VkRUdXN1picDZrd3Rha3FWbjBxQndCb0VXTGVmTkN1WFVDSE5Xa0tzUmhOaEdEcVRoVm1VbXZhVXRtY1N0R2V6T2xQenZBTHNsejY1c2VLSUtUMGFrbC0zUDR4V3NBYmJmWXl2ZjF4Y3NNWUVMS0xkTnFKck55MmxwT2x3c0VTWC1PU0tCVk4xY3lwVUgtclY?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 11:30:50 GMT",
+      "description": "¿Para qué edades estamos pensando nuestras ciudades? MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "INE: las renuncias no sustituyen a las investigaciones",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemNCUm41UXBsOFU0d0xaZU5nRzZ1WnhMZnFMSlRTVE1lc2pTci1yWm9lM0o2ZlJYVFRacTdDTXgyLUVOYnE2ZlFNTVY0YXg5dDdEbnJQQjV4OTJ1Z21EVzhmcmFUb0dueVJhaEExZDdkRFR0N1pjUGg4enRQQUFIUzBDMnpoS0RtZjdEMTFqOEs0enZSTFVVT0JvYnBRM0xidGVhTlVlaC1rcktZM0pFSg?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 11:00:00 GMT",
+      "description": "INE: las renuncias no sustituyen a las investigaciones Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Busca CSP quitar a empresas negocio de papelería electoral",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVFiQ2xuN2hfbHJBbUwtNjNTZERURlNqc216bDdiWDQ3TFZXS3dWVHlEZFJpR0NmYlcycktuRlFaOFhSZ2Q2ZHVVb0E5OE5kci03QVFIRVdGcmJpNkFtRUhvYmROQlE5by02TTdSRU5VOEJYRFZuYzhub0t0STZQRHZ6MTZtazByMFUtdzk4SEVJVGlPdG13?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "description": "Busca CSP quitar a empresas negocio de papelería electoral Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Cárdenas, el rostro de la democratización",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDdoNEw1ZFpDYUdIVXh0b2tIYlBlNHpldVE3Wi16czR6V05lOEcydlc2NGVDQUMtQUhXcWlYUlA1MTlNRDA2SW9GWlFFY011UVRlME4zM1RERTZrNVZzUFBCM2V1ZzNYMVlhc1hXajFVM3NxVGhNenpWeHlObkpGOTNhaEZQTnJmRUZMTWF5d0N4MDBsLVBybkZ2LVZrWkZ6?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 05:21:06 GMT",
+      "description": "Cárdenas, el rostro de la democratización Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "AMLO lamenta la muerte de Cuauhtémoc Cárdenas y lo llama \"precursor del movimiento democrático en la historia reciente\"",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbE42c2tsUlI4ZWVBOXBNeUNSNUkta3pJQ29nUEYtb3UyQjRkVHpWZEZyV3VEZHFCTG9LdTduZGVaenl6SVpQd0EyN0JDM01PRTBjOG96OThQYlA3cjg0RzRpM2lqM2VDbVpIbnZabjFsSEhpUkRZQUNUajRscklrY3lPT2VZdTVGOUplNE5uR2NOZzROekhGZWRPT25VS2Rpa2xMVFZ3NnhmVV9wTGc5Q19HYmJqNVR6bVRRWXR3ZzFPYWRKZmFQYTFqWFVlWnZfWkhxQ3RFYUh3akNJcFIzOHNSZ3BlRGh4OVJIZlVzNkFhRnpvRWFOZE5sTHNvQQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 05:08:00 GMT",
+      "description": "AMLO lamenta la muerte de Cuauhtémoc Cárdenas y lo llama \"precursor del movimiento democrático en la historia reciente\" El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Muere Cuauhtémoc Cárdenas Solórzano, tres veces candidato presidencial, a los 92 años",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2VaOHd1OFkyN3VwLWpEMVNJSGJDLVZpSC1ySGZaQ3FtNkExUDJpSXQ3UlR5ajF4SGFFWE95ZklKZ3d2WUZER25WSUFFTDM4UDA3bzlTQ0FVZWowVFpNVXFfMVRIbjBoZWozQUVCZk5kNEQ5OHRvamFYeHFXbW11aXVnaFh6MHhJdzIxdTJwZmFwclhkdllzc1E1b2tZdU1BZ0xTM2dnWU5jUGJWMlpCeEZ2b9IBxwFBVV95cUxQbW5SeVd5ZHl2TENfVWxJUzZoTVl6SXZBUFFISGczcTVEc3BkYkFaanI3TmtQMUFhWjZVeUlLQU5yTlhMcTk1azBacm84UmxpZmtEeTlJS0FfX3VMQm9EaGdkWDF3Um9xU1FnTWROck1JOVNPSTZhaXFxV3JaYlhDSjZKVHFBRVZ2dUhxdzZHcjBiQkVRelJUOE8tdE0tSEd1RXpFeTBTVk9JZE56Q1RWUThHTGtIdFNUZzMwbFh4ZDZXLW1wdm5R?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 03:52:00 GMT",
+      "description": "Muere Cuauhtémoc Cárdenas Solórzano, tres veces candidato presidencial, a los 92 años El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Murió Cuauhtémoc Cárdenas a los 92 años",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSbnZzbWI5LVFqTlZtS2VrbG5tOHNySDAtM2VNOGo2Q1pKTnJJU09leFdMMkVsRG5zekh6T0I3VUhkOGxXMUtyTDd5dEROMkh6WWNaZFFIRDkyQjlIWklMdTJLeDdXOWd1MHRmRFFBUjFrU09lYXZyLUxrMkRTZw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 03:14:30 GMT",
+      "description": "Murió Cuauhtémoc Cárdenas a los 92 años Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Murió Cuauhtémoc Cárdenas, figura central de la izquierda mexicana",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVEc0aW5zdm9HUm9hZWJQRnc0SlY2cHRrZXBPYlplazlJTjFPbXZQQTVORWtPYjd6ZzBHSGlyemRsWGhFTlcxVGJlVEVtX0pMRTUzNjdGeGtMMmZpbWx2TkNuNnB0c09Oc0M3ZWlScFZmMlR0TXIyMUNmaFNiN2dXUWs1WktaWWtLMG9HOFRmbjJOaDF6aTh4NVZEaEo1NmVsMHpZX0xUOHRGRHRtdzVqZE95WEwwREZ1MGI2cnR4Z0ZvUQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 03:00:51 GMT",
+      "description": "Murió Cuauhtémoc Cárdenas, figura central de la izquierda mexicana Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
       "title": "Murió Cuauhtémoc Cárdenas, fundador del PRD y tres veces candidato a la Presidencia",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNelYtNVRxak9ScUNwODdSaExlZlpfeW1JT1h5cTBMS2dock52Qk0xODFVUmZLYzVRYnBqTnBEWkliRWNNeFZoSkxUTjItMXltLWZkMlAtai1PQnZ0b3NxOHFNLXVTVWU3QkpwMGwzTDBPeXJPelFLeVpuYWhxTDBLejJwT1pkQmxwYW1tTHpCRWzSAZABQVVfeXFMTjFSX0loSW9lbF9BLWtGSndlMzVNRzE1NWMtRVJxQ3lBNkxHZmpWcE1MNjJLRy1yOTZJajZjanA4YzJadmpkc1p2VDhKU0VZVjRYQThrb1RWRFJXUmc3cjRVNW91dERkaC1WSUV1WVQ1QjFKNEV3N0gtaGVJYWlPYldTMk9nMVVlbFFlRXJrcEE4?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 02:45:29 GMT",
+      "pubDate": "Thu, 29 Oct 2026 02:45:00 GMT",
       "description": "Murió Cuauhtémoc Cárdenas, fundador del PRD y tres veces candidato a la Presidencia MILENIO",
       "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
     },
     {
-      "title": "Rentar en Cancún o Playa del Carmen: qué revisar antes de pagar",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzNUVVUwR1J0VGhSVzBuTUZQdDRpMTlGdDdFTDlmYmd6S1ZJTnRxcnJaV0JONzBIZW9JYmhyLTllRHM5V0E3Z0NyUHF5XzVycEhJU1c5UXlzdkZHNkhKUXUwTTJ1NGFqT3Y2OW5fOXRRaUMycGdMNlB1MXBZTmxlbUp3R1NXUkU?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 02:40:54 GMT",
-      "description": "Rentar en Cancún o Playa del Carmen: qué revisar antes de pagar Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Consejeros no descartan presentar vista de irregularidades contra Taddei; suman 12 renuncias de funcionarios",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVUptQW8zbjVyd3dRUE44VkEydXQzWmE4X3VPWVcyUHhmY2llUTZROXduYlBJbEZWNFctTXcwWmhHd2xOaWZXUFY3TTZ6LXBySmhXcHk2QnRDSnBPMnBjeEdRN1lMUmxjXy1WVjRoWXJxUGtVVUowR3NQQ29LS3hJaVBYSlhUb1FNMjFhcUczRWJiU193bWFydTVEQ2dwRWR0WjZrcjdUcDdvaU9uSGZ4Ym9CRXQzVF94b2F1TjNZbTFiMm9FdkpOUDlndGpWVGV0NjZxcDhoV2pPdS1VQWJnOEF3?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 01:59:00 GMT",
+      "description": "Consejeros no descartan presentar vista de irregularidades contra Taddei; suman 12 renuncias de funcionarios El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
-      "title": "SCJN resuelve contradicción sobre amparos contra bloqueo de cuentas bancarias",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNallraDhSUmZ3SHBwNG1PaTkwRFdLMmJYeW1aMjZnWDc5ek5OaHlrdjVyWEhzVjFoTWZ5aVJxRFlzeWwyTUU3LTlkN05vNHktVFVCaDVhdkdrUVdaZmZ4U0psN1FFc2h2OHRGaGkxd0lkbE9CM0dYOFlnSVZGR3FYRnVURnZ5NURLLTFIdFFiTHpZaXV4Y1dFLWVEOVFXYlZSckZKaVZESDhBTTFiRzdNcUc1Y25QeWNfc2N5NnhSSGhIeG9qVno2S2tmbmstS2QzU0E?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 01:55:46 GMT",
-      "description": "SCJN resuelve contradicción sobre amparos contra bloqueo de cuentas bancarias Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Asesinan a defensor de Derechos Humanos en Chenalhó, Chiapas",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUY1ZTByT29pNXhOenVpa2lkYVZya1NOa3ZpTFBqS2pIMzVfVlpRRFVGT1NuTk1VcGpfdEdEXzlDMkdSRmlxdzRWdUdkTVROWkt3QmRDWEFyTVlneFlZREsya09tWTV4Uy1YZ3Z6YXg1WmdWWE1UdFR4SDB3T1VnZDZFTUVmRzNMM1ZoNFNBSkV1VmpjUENDZGdNQjRwYUJWOVN5OQ?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 01:51:00 GMT",
-      "description": "Asesinan a defensor de Derechos Humanos en Chenalhó, Chiapas Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "Revocan medida contra cartonista Paco Navarrete; ya no deberá disculparse públicamente con diputada Itzul Barrera",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTU02UzVielBFdHpmMkdpMURFODdGY1pabTFGS1JDUWhMQi1KZ0ZKcHZEQnY3UEgxVWpWaTlOTWwwYzJ2ZUs3N1JobERmZ2d1a1dXM3NORGtVOVMtN215N0pqS2JLRnFfTG4yRDZlVGRmYTJUUnplUHhpby00Yk5nbmpXRXg2UVFlOTFnTk0tMG8tM3JKa1c2WDNvRmJzS251bUU0Y2Nvd2hRU2xORHM2TTh6bXRrdmxpNnAxZGdIakRtbWNxQXlLVHdINVExWTVfYXBza2FFM1RQVXFiRGVoUVItcUlNUQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 01:30:03 GMT",
+      "description": "Revocan medida contra cartonista Paco Navarrete; ya no deberá disculparse públicamente con diputada Itzul Barrera El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "Prevé INE dar vista de anomalías de Taddei; van 15 renuncias",
@@ -103,15 +175,6 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Sin autorización de juez, Secretaría de Seguridad de NL trasladó a empresario del Cereso de Apodaca a hospital",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRHVHaFRpQlJsNjdJNFpZaUt5aWhjVVJ3d2l4UXRVb2ZiMEpzb2NDalBkcDVPNVl2ZGFjbDdlajh4MjBSZDY1V1VNZG82RWEtX0JoemNISUFNVkRmenctbDdYbmxMNDY3M3d2RXZnNjJmOHpYd1ozTEhpR0dGYTlhNzNBdmRvMXVGR1BjMVZxb29JX2FEU2FJNDlvVGVfdEltMTBYNW5JUUJtZFRBT3NmUmg5MmhKZEt3MldwSGpIQW4wLWVZQ04tMDR6TXEwY09JZ0hScXhFQmdsM1JpRU1xQlRrTFZjdkhlQWh1VWQxQXNQZVNpbzF4d3NBWQ?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 00:30:13 GMT",
-      "description": "Sin autorización de juez, Secretaría de Seguridad de NL trasladó a empresario del Cereso de Apodaca a hospital Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Renuncian 12 funcionarios de la oficina de Taddei de forma voluntaria",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQi1KNzY2OEs2aHdPY3FoOVJTWm95UHFFUFE1ZERvRDd0WjJpemtJZVlKc19ISEhzaV84SzN5bGxHNkxFWmIxTmFVcGxGemhmQkFucHE4dTl3X3RaTzFNZ29NdUlrV0VfcWpmZnJscEdlNTFXOEhmY2EzVk43X0ZHT29aOF9TYkhvY0d5Zi1XOHDSAZABQVVfeXFMTnlOYnZRRmdkX3pmU0g1OERMeXRQUGtqNkROVjY3bVZjT3Y3VU8yYllTeWczYXA2VGFEX2hxWXVjY3R5a2pJRXM5UXV6T1pjMEVGZ0wxb0diMGhlVzE0dTlOdklkS1BhdEJ0ZHdkdjRRVHcwLUx5TjZuM3RreEpaTFg3V0VvWXFtNXE3WEY2WmhE?oc=5",
       "pubDate": "Thu, 29 Oct 2026 00:26:00 GMT",
@@ -121,31 +184,22 @@
       "domain": "milenio.com"
     },
     {
-      "title": "Piden frenar presencia de militares israelíes en escuelas de Chiapas",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcHNaU2lrM0FsMGE1UEJ1dmJ0THFqeXhMYUJEeVVZUVdnOHFZX0IxanUxNXJfdHVyQXR5Q3U4aUpNNFBDVEpnbjNFQXpVanFNbHNYcFc4VmNwZHM1YWpKS0drTkJCNjZvYTBkaG9IVzRJeTRreUZnMHRISU4xZWN3b2lsTnpwMERMTkp6NGtiMl9BRkV5VXRlVV9WR21XSFp3RllzbnBhaFRpbEl5Ym1JQg?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 23:29:00 GMT",
-      "description": "Piden frenar presencia de militares israelíes en escuelas de Chiapas Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "Flávio Bolsonaro se proclama “presidente electo” de Brasil y luego se arrepiente",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFJzYjFaZ3lqTXNwV1VrbWsycDlrVjNka0d5Y1UycXh6Qk1tTVhjdEFTNlhJX2RTVXEwaFdGUEhNdUJYcG5tUUZTaloteGhYZWlDQVE3cWtEZFZiWGdHemlUV2xHWWlDVEhsUTF3ekt0VncxMVViY2dIVnRDeWhDQk1Ta3hmRDNCeWNybUhOUkplV3J1UHR0YzBFMG5acE9wZ1AxeWxZd2FkWERfV2VwT25mcUd1WVNDX0Y4TUI5T3EzcGI1TmdveVY1WXBDa2gwbGhMTmJzTHBnZw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 23:17:06 GMT",
+      "description": "Flávio Bolsonaro se proclama “presidente electo” de Brasil y luego se arrepiente Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
-      "title": "Desalojan Casa Morena en Tijuana: “Sí pagamos renta, fue pleito entre privados”, aclara",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUw2Rkpyay1MMWhzWmZpVlQwcGU3NlFQWnI4NnNJWEpfVW9BT20ybTZEZnVYTnpYcVF0LWNMelMxbGc3MUh1YjlOWnYzTE9vS3RKOVV6TktwM2RlaHZzMmU4NFNBVm1BVzRiRExPbzhiUEgzVXktRDBqU0xsaXJoMkVpck5FMURWVkREdER4Z2wxWi05MGc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 22:55:04 GMT",
-      "description": "Desalojan Casa Morena en Tijuana: “Sí pagamos renta, fue pleito entre privados”, aclara Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
-    },
-    {
-      "title": "Madres Buscadoras de Tijuana inician colecta de víveres para mega jornada de búsqueda",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2Q0MkFWM0Zac3ZBZ1ZsOWwzVGlsY0JwdjF0R2p3Z1I2U2hXWGlFRXU3M0pGLWFwMzhTZ1BqV2NZTnRTb0hhWDgzQ0hodUFSbTlFd3lmbk1CWkdDTWZrblEyTk5sdUJfLXhWYVRVX2R6OHJrdFhLUTYxOXZNOWRmYXJwNnRQTFpGVjlMQ3pHcFJGNlNQZVllMy15RTRkRExxVEJxX191UEpSZGs?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 22:50:38 GMT",
-      "description": "Madres Buscadoras de Tijuana inician colecta de víveres para mega jornada de búsqueda Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Lorenzo Córdova responde a Sheinbaum tras pedir auditar gestión en el INE; Auditoría jamás encontró irregularidades, dice",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNb2hHdkRTZ3pLeERDbmVEY1Q4RFFNRXkzbDhDZnZyWElZT29Wb3hVZ0pnbjBZWktoc1Y0ZWR1Mk0xS2tiNkp3UVY0X2dsZG5VMFVySllMbWRqWnpYVWNoNUZKM1BVY2ozZzJ3ZmljcDBLenMxY2U4SVlza05nX0haVGtTN3huRXVDSVRPVmtOY3FNTVRiWGJOSjBKM1dheVd1RGpYMlFXclRaX3NHaTh1XzM4RHNDb2R1VVNNcFV5SG5TQ2RGUzExOXhsX1pZbFEtbHJ2VENITlY4cTlEU2Z2aXZINHZ2by00SXNEUXhpNA?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 23:01:06 GMT",
+      "description": "Lorenzo Córdova responde a Sheinbaum tras pedir auditar gestión en el INE; Auditoría jamás encontró irregularidades, dice El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
     },
     {
       "title": "‘Nunca se hallaron irregularidades’: Cordóva responde a Sheinbaum por pedir revisión en contratos del INE",
@@ -166,13 +220,13 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Busca CSP quitar a empresas negocio de papelería electoral",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVFiQ2xuN2hfbHJBbUwtNjNTZERURlNqc216bDdiWDQ3TFZXS3dWVHlEZFJpR0NmYlcycktuRlFaOFhSZ2Q2ZHVVb0E5OE5kci03QVFIRVdGcmJpNkFtRUhvYmROQlE5by02TTdSRU5VOEJYRFZuYzhub0t0STZQRHZ6MTZtazByMFUtdzk4SEVJVGlPdG13?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 22:00:00 GMT",
-      "description": "Busca CSP quitar a empresas negocio de papelería electoral Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWVzdW5kVU1tUVhoLTJ5Q0ktaElTMERLQTFmTVBfZzNla2VuUFgwMnloT1ZsbFRSUkRtRFpWVlIxVk0yV1cyMUxSWFNWZ3BfNGMwYlo2UmR4MTdCbXlyS2p0T3VDd3I0VllYX1RGOENfRnpxSWFJaVhUS3d0Q3AtS3hsYlBvLWIwSUZncVVESVFvVlZWOWdqS2pEVUROTGFwRVdvUExOU3FSbmJNMWx6aVdsc3BsUkcyVU5yTGhGQ2RDeG5wenfSAcsBQVVfeXFMTi1wbVdmT2xBM29CRlpmV01OUjZlX2VmWUlHMW5GcXFiWFotMi1GSGROSmY5SGFmbmZEdVRFRXUyNHRFcnRQb0NRWDNJVldBcjhwaWU3VFpSZTBhcS1WUmNnbDBXbDItdEh6aVFMODhTa1hUSVVzMElybUZJRnFzclpKaDRlUW93U1pWTWtISkNTblhMNVB4SjNkbTFra1UzVE9GMEwtMkpRSFE3cEVsdGpZTHl2c1lOaHQ4akM5S3BjN3QwaTJIbHNPRTg?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 22:08:35 GMT",
+      "description": "¿Alerta? Japón pedirá a su población almacenar agua, comida y suministros ante posibles desastres Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Bolsa mexicana cierra con pérdidas; destacan caídas de Genomma Lab y GCC",
@@ -184,13 +238,13 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Tráfico de totoaba: sentencia millonaria por daños a la biodiversidad del Alto Golfo de California",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZkF0UHhhdHhUdndDUk1fU1FQZ1dNOG9iMVlWS0laMllyN3hjUjhyUXNYMUxnY1h2WDhjZE0tSzd4b19MWmRTcG40UUxraFhlWVpacHFjTmVNZFMxdVNZaHFXRXB6YUFjb3BZa0g2S0dfckFIRHlXNTVRVlliV2JiWHB5UWs5cmUtZ25RRW8xWjloc1A4eUNGYkxxU19KOGtjc3NtUk02UkM1MVJ4Z3Z5TEZpSzBnWDg4bE1RWm1FcGpXaFFsemtWdFI3VEsya25tUWlsZHBMTTRZNU5E?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 21:04:00 GMT",
-      "description": "Tráfico de totoaba: sentencia millonaria por daños a la biodiversidad del Alto Golfo de California Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "Nueva presidenta del INE niega vínculos con contratista ligado a Taddei: ‘Las cuentas están ahí’",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQckl1UVlmMlJlMTZZazFuX1U1WFhGd1VzZUxDZW1zX1dQRWZycXFESEZvLW1Yc3d4akJyT2JFUHhmVzJQV0N1OUtldGZTR0NmdDJuVWlXYmhQbDBKOWJWUDFjODNUWTV6RVE2MERPS1dIVnFQbHpuZE95eEFIajNWd1hiVHB0RmpOVG02bG51MVpWc1F0V1Z0WjU4QkE2Y3RKeVVwaDN4Y0xCbTMxdnp4dUpIVlJMejFJemsxUjktSWFyTmRVRUNPWjg2bnRmbUp3NW9ULWtISEJUeUo4Vzln?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 21:39:27 GMT",
+      "description": "Nueva presidenta del INE niega vínculos con contratista ligado a Taddei: ‘Las cuentas están ahí’ El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
     },
     {
       "title": "¿Quién es Víctor Hugo Carvente, titular del Órgano Interno de Control del INE que deberá ir a Diputados?",
@@ -202,40 +256,22 @@
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Hace vibrar Checo a 100 mil fans en Reforma",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVzU2TDVsT1lRa3hYUXV4d2xnMEdGYkRRWGJiQXQxWlpnX2NFQWZkZV9vOUFmbnduYnM3eXV3R2wtM1J0cThleGhaaVVlSW1ocGJTemlDZkhvV2wwWWVnbjA1ZElvNDRmdjhETDAxSVdYWFJDWUY5bmZiMmtMN2JTNGZZcw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 19:13:57 GMT",
-      "description": "Hace vibrar Checo a 100 mil fans en Reforma Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Tasas de anorexia y bulimia se disparan más de un 70% desde 1990 y seguirán en aumento",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTDk2S0hkLW1seHBxV1RubVJzZHc4MGVVNjEwTFk1QnFybDBsWDBmOVB0VDM2VWMxdnhtS2luUG5Gbi1uWWlSV3pXZDhlbXdYMTFYRk5Cdk4teHdOTWdROXZTX3QyTWRVZnZoc2tTVmJWXzlMY0xaQkJoaEY2aXpJdXAxYjhKTVEtN3ZEN0pGS1d1T2xmdkE2SFBxWTBQd2U0ZkNEeXN2Tmd0MUN5NlFiMGtxOERHanZjbGV3Q05uSGlWbFVMbzZV?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 19:17:00 GMT",
+      "description": "Tasas de anorexia y bulimia se disparan más de un 70% desde 1990 y seguirán en aumento Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Cuauhtémoc Blanco ‘explota’ con reporteros que preguntaron por detención de su esposa: ‘Es una estupidez’",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNmZhazV3M2NNTGNQelpnczZ1TE5Fb3otYzYxLUpYaW9jdVVVRWNEUjN2VDNaSXcyNGEzeVZoMDZRY01QV2xFM3lfRmZLb2hHZzdRR1FNb1JKZi1UNlluYUJ5NjFjQW9xYUVFR1ZQSEo5Y2pWb3ZWM2pjcF9xTUJjUEhVbDg4RW9hb1RnUEduekQ3czczS29rcElDc3F4bDRNWDJQeUk3bm1SN3R0R28tRHl3Q0dCZmNSenBZWnMwclpPU0w4cGRYMS15eXRDOUI4WkxiZTZnUm5yQzFoWkV3ZkpHTmc0ZHEx?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:59:16 GMT",
-      "description": "Cuauhtémoc Blanco ‘explota’ con reporteros que preguntaron por detención de su esposa: ‘Es una estupidez’ El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Choque en España, debido a error al autorizar avance de tren",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmxhZzF6TXlJc2NfNEhNMnNXMGtwYm5YcTVMNXpnVWVHejZvOWNoRXlyejFraDBIYjU2UzBrWWlJSFVIRlRCdS0zbHdlQmplTE5paUJTQjRSS2FmbXNmcFVVNm5YM25LbENRd2o3bTUyYnd1dFZtcXI0UDBRQ1E5bDhDdWk5SElhN1MtRTYxeW1ZdU9wbUZ5Yw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 17:19:42 GMT",
-      "description": "Choque en España, debido a error al autorizar avance de tren Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "“No están en duda”: Sheinbaum descarta riesgos para las elecciones de 2027 pese a crisis del INE",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEYtN0VnWVNXcWl1RjZPQUU4RWZDMV9qUlZfOTZVQXlWU3hIcWxBWnlUaHVKbEJUMGdFUnJxVDNManBfeDliMlcta2ZXX01iQWNiemFuSS1rYkYwNEtXUll0QThYUlgzSm9HTHpRV0xXa3NVakZST2N6eUFkMXg3ZnJTSlBJNGRVNGpjVw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:34:31 GMT",
-      "description": "“No están en duda”: Sheinbaum descarta riesgos para las elecciones de 2027 pese a crisis del INE Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
+      "title": "Sheinbaum deslinda a Morena de Taddei y apunta a Córdova",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW9pMVIybUF0VGNDYWZwS1Bhd3pnOWRoeWowWXRYbXQxaWRzbExVWk9uRTV2ZFByajZaWkZlVUZNaEdDVDEybWJrc2R1UlR3b0M4MV8wamtRTXcxVURENVBrWjBsRGg2OFgwczVHaGFETjJVNU04WXBLckpsZUJ5REZRamFZOUVMQzJQS3ZGSEFBREZpS2NmY2xoNEJxcHFC?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 18:09:00 GMT",
+      "description": "Sheinbaum deslinda a Morena de Taddei y apunta a Córdova Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "“No está bien informada”: Sheinbaum a Marine Le Pen por “mexicanización” de Francia",
@@ -274,40 +310,40 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Abaten en Sinaloa al “Chuy González”, segundo al mando del “Chapo Isidro”, buscado en EU",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1dKYWs0Rnp1c1poaGY3SjJEeGxmSk8xa2s4MGZlNncxRG9PdEpPVTlmM050S3pYWXNLWi0wVU0wcUE2b2Z1S2JiTE5vMGc1dUxQS0JUY2MwQWJGNWlmT0VXQ1lyWG1tUEhyQUhVMm9jWHFiSUViTnhtem1zbjN0UGdjLV9UdEtHTTVoelVmUm1ZbkVHX1ItV0EwVi1jWXZvMmFENTUyVzBjM2c5SE5wdHdHb0NxaThIX3ZzRDZyMFRnRU9oU013NFdHdHdnU3hBbndNWmRJaVY?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 14:34:25 GMT",
-      "description": "Abaten en Sinaloa al “Chuy González”, segundo al mando del “Chapo Isidro”, buscado en EU Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Exportaciones récord en México, Sheinbaum anuncia plan del IMSS, INE elige presidenta y Volaris sube",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd3hTeU93T0UyNFNLb2VGc0ZBeXo3YVp4eGltQjNJVzY2TG9CSzRhX1Y4QXlLRDRLLURNOVoteEo1bElRQWU3djR3ckNjUXE1OVloREE0OU5ZaDlyNUNMMk9yQkpVVE1fREpLWmNlc28wQnVaeGFFa0ZiVmswVWpxYXhWcW5NS3lJNmtYc21HZkplQXJ6RWxQc3lTMXBLRFhzZGs3U3l6TjZ0SGlWdDdSS2ZqZ3Nmdm82SXFwbUJLNXFGUXl3N2lveFZLWGNOUmFTRDNfbGhnYjNzSVExZWlXOVFBMNIB6AFBVV95cUxONlZ0di1mYWhSbENMTHZWTVZNb1BlR1ItLUh2d0YwR3lkeWUzWmgydHpfU2dCd0thOG9JUHVPWG1TTEM2RXJLWHJpRXN0M1h5d0ZaN2lrTmptdFNUbFE1UzNuaVBpTmxtZTN0YnY0ckx6eTdQS0lrWE9xN3ZfalI2Y256NVBWaVBQMFdyQVR4Nnh5a0JtNzhHdV9OT2duSE4zSUtFZDBrMjk1MmhXUVRBbDNhWVJMOXpydmhSaVVkekxSa0poZC1mZ1FWdkNuWVlkTFhVLTVWa1I5WGNqcDhIUzVHT0gxc1FD?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 14:09:32 GMT",
+      "description": "Exportaciones récord en México, Sheinbaum anuncia plan del IMSS, INE elige presidenta y Volaris sube El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Pablo Lemus anuncia inversión de 25 mil mdp para 2 acueductos: ‘Guadalajara tendrá agua limpia’",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa2hjX2xHMVN2enVnMXQxLWhhZVJwZkZ5UzhMcy1QZm9SZFBvQzZpTVA1MW1aMjlZVEkwd3E0aTh0b0ZkYmJXUlZwaFBMRDI2QWVIQm5mU2ZZWXpmUmJrY0pnUkhLUEU3ZTVXclFodDVfampyMXQ0bE5tSEdKa0JQQWtIdVBDT1VpTmZiZ0dwTGFvb3ZYYzgxOWl5OFNERUY1Q0tYbDdlXzdYZDFMM0NUMzZBN1N0bnBDRFE0?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:27:00 GMT",
-      "description": "Pablo Lemus anuncia inversión de 25 mil mdp para 2 acueductos: ‘Guadalajara tendrá agua limpia’ El Financiero",
+      "title": "Taddei, fruto del asalto al INE",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBudm9WbGFwV25iMkJfS0J6VVBLSzhlRFc3clRaZkYwWXN4endLcDhEeDVuM1E1em9kbXFwY0pFQ0sxUjRFOEZfdWRhV2k3NDBLZW5ZYTRpOHQ0NkJydzBtZzh2a3J1Y0JmVEN6a0JOdFp1NC1DbzJkRnRuS1BMVmc?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:05:57 GMT",
+      "description": "Taddei, fruto del asalto al INE Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Senado aprueba cambios al ISR y aumentos en cuotas de servicios y trámites para 2027",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeDFXR2dGV1Z4SEplM0YwN2E3VlVsaVQ3amJwT0I5N3g5amQwNlp1Wlp5Y29XVTNNT1hBejBUNDFQQnZRSEJSWkt1N1VXdi1EWEtPMzI3bEZtUEFNSlFmalVuRnhILVlQTGE5SDZ3WC1qTmdmMHhkZGxoSWVVRkJYUkIwUVB1c1p1MGxrQTJhVW9nQTJ1c0w5eVlWYTFpMzVHWUl3alkya3U4eXdXM2V3RUx3bnpUMVZWWmFkSkNHSVVUNVB2UFNnMDdZcmNMZU50RkxV?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 10:34:10 GMT",
+      "description": "Senado aprueba cambios al ISR y aumentos en cuotas de servicios y trámites para 2027 El Financiero",
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
     },
     {
-      "title": "Cambió la presidenta del INE; el proveedor de Taddei se queda",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXBSUzF4OVZFdGx6NWdYZ21LS3czUnhXVHhNNmptVjFFdXNieHV2QjMyX1lBRl9sRWFNWF85bGFmVk1xSExxMlQyV0hteEltdG1zVHA5TzFYQlNOeWtWSk84SUkxQTFDQjc0MTFnYkUzNmUxREVxMkpoVE5kMHQyb1FrN0pUX0FZdENqbjdGVk1UWVFWTk91Ym1TWDB0Z3ZaS3BJNnZ6d21idmVDUjVUVVRDRlNyX1gwc2c?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 11:00:00 GMT",
-      "description": "Cambió la presidenta del INE; el proveedor de Taddei se queda Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Contralor del INE comparecerá este viernes ante diputados",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNazhSbXFwVUJSMEF1Ri1ERUZ2WXR4VWM3bzBHVWJGWnZwRkdYb1hqZWo4c2k1TDJhWmlFNjVwREIzQ2YySjFOTHh6NXJxX0NFWVgxYVBscnlFNHhNN0FubmQ3c1ZMalRoYXBjNFFNTGlDdW5YVjJIckNENHZOdnVEZGtMVTZFQU9Dc0I3dVRzN2tJQmllY0Z3RE1KWlljRTlSbTg2R24xVnh5TlpCWUJ0SlZEUmgxM0xUYl9WZjh2cHJtQW9Cd0lNLURUekxNVFdKQVd3VU55bWlhcWdlSkIzYS1mdktHblRXQ1HSAf4BQVVfeXFMTXpOSUZGMWN2a3JpRjFEZlVKNUNiZEM5UDZvek41SW16QzN2SDBrRU1oSTI2Yl9iWXlJeHFVaERfMG51ck5QYTZZdXhIVnVlQjdsM2dwY2VxZWI4WWN6Zk1VUDdnMi0wc2psV1RNLTFWNnlfcVFSOVpVRVY3ZmVWOEJyOXZ1S3ZJbWtsSTZrc0xZMmk3WHlJbk5PMDR3Q1F4T1Vyc1Q4bFF2azlOVWdBSkVVQXdNaXZKbnpVOTdoR0wyMGdxQU9UcUpVckJtbmlrMTZuWDlfWUQ0SnBuVWZ4b1p1Uy1ITWhSOHlKU01pTnFFM2RGeTJJdDdFQ1JjaWc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 10:43:00 GMT",
-      "description": "Contralor del INE comparecerá este viernes ante diputados El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "Suben a los 68 muertos por choque de trenes de alta velocidad en España",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlk3d0dNZXJnY3Iwcmd5M19UUDFBTVlHS3hSN0dBSXExZjhaQU1Nbk9Yazg3Sk9ZMS1VTnYtQWpnTi1ZZFFmcjdQRnRqVFJaZlJZek5hXzBQSUQyZWp6WlhSWjlBUFIxd3BoZVN6bzNjTE83WC13QnlmN0lTMUxzSk1WMHNKWXlFZDRLZnJQZXRmS2UySXoyb2h4ZHpJdmI0YTdhUnJEWHp4SUg0MHZwVFVmZmloSm42WU50emI1NVlNSVZvZGxPeGNrV2c?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 10:28:00 GMT",
+      "description": "Suben a los 68 muertos por choque de trenes de alta velocidad en España Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "China mantiene veto a LaLiga por declaraciones de Mbappé; Real Madrid ofrece 'disculpas al pueblo chino'",
@@ -328,33 +364,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "El INE, delincuencia organizada",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0t4MUdLeTJzeTJOOGlJMUtaVU5qWFBxTlZnbUt0dkE4UVVxSURDTEdrSVFMNzhLeWx3Y29BX3NCV0RtUWV5TXh0YU44Y1RrMVgyeHhuYU5xaWFMZzJScmVGVm1CbC1OcVh0WUxDcXhoZWRxR21PSjJkWl9WcGliUW9NeEpHTU44WG9oX0xGU0dEcDJKVlVTUWNR0gGaAUFVX3lxTE4wZU1kSFdSSEVCQ3I0M1lmUllEakp0Z1MwaWdnbFhtTjdyQ3NCS3AyakZzSS1SQUsxOWhyX1JYRHd5blNGeXZ5TnlHNE85T1ZLSkxnVkE4aUplVGVTTURtMzZJeVJOVHdWR3ltUUFGbldDNlNzYnNERlNjWFhfd2U2YzVzWEhpRGM4Rjh6b2g5SUlJWmN1RlRlR2c?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 07:55:53 GMT",
-      "description": "El INE, delincuencia organizada MILENIO",
-      "source": "MILENIO",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "El INE y la corrupción histórica de Morena",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUVZweldLMEJ5YWpTLXRLa0FCWmtmZXJVNG4xblUxcmtPQWFVRFNKNnFaSzZOT0tiSTd2NG5kaU5zdVAtSTdKeTZ3XzFtOVlVTjBBUWVuN0laMDBpWkNaWEoyUTV1VUlFc1c1Qnl1N1RxaXdfQXRxWGdfaXhQUDNoYm5zcVVsTGJ5cU15cExQNVUxajVTcTZ0U1VRZDQ4djhKUlRBdnUtVXZKMU3SAasBQVVfeXFMUHhZYXhTQlhJWnFZdWJiRklla3J0Ri1aamxNeV9FWDdjSHJzVFJPLVJQNm1PUjlQU0NMT1RXTWNDVV8yVmllLUZQYmdFWVJVaW1pdTJWcGstbXA0YlJPc0hKMkozVWoyTzB4VEhGOHd2dXBEZFdjZ2dyN3RWUDlNdldtajBKekgtOXJBMXV1aWFmakdLdzlqVC1pSTVMSUhIQWpJb0ZNNk9DSm9j?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 07:37:24 GMT",
-      "description": "El INE y la corrupción histórica de Morena MILENIO",
-      "source": "MILENIO",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Encuentran con vida a sacerdote en Sinaloa",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb3phT1NQamhtOG1pM2ZvTFU0czlJYXJnZnNITnNLTGtpLU1YczF4b0dlODZZLTVYcmdmWk41WjVxSDNudC00V2tSRzcxTGxWcE84MUIyaDQ1TmhLMS1tUEtnekpUWHZfRkE1SlotajROR1VjbnhaMVdkZ19HVHlkcmR0bk9Ja0l6VXfSAZ4BQVVfeXFMTkFWbzg1V1pQbjdpU2ZtMGQwNHktUE9jMnBkQ3V3UTRsZWxrMmcyNG5kOF9ta1ZfNkotU1M2MElKcXN3TzhJT0J0Qjh6aWxaWFVjdTlzNkVWOUQxNjI3a0p3NlpMNnhtNTJGUkFFUXVzZEFhdnlzYmkxYlFGNVBPLWgyeklHRi1ZSUVoWTdNSm1DSTM2Mko1endXM1lYVHc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 07:35:14 GMT",
-      "description": "Encuentran con vida a sacerdote en Sinaloa El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "Aprueban golpe fiscal a negocios; buscan decreto de Sheinbaum, escribe Mario Maldonado",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWJLeGhmS2V2T1U5SDhVUXhyVmt5VEMzdDdoeHpvMmY5VDdCREhHRjJJVUkyWDVqWi12ZXNGQ0xrNy0ydldoZy1zWEhyWGJfcTJSMzNOcEU2MHNMcTRXN1V0UjA3aUVYM1A5NkVNLVk3M2ltYktWNVJ3a3kyeW1VTGFsSHI5MmJsbnNjUjVqeFFRRWxrVDMzRk9ndXE2MVE1QkFHQ0FrdHJRMjByQXg5Qm9TRzY4WFU?oc=5",
       "pubDate": "Wed, 28 Oct 2026 07:25:38 GMT",
@@ -364,10 +373,10 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Huyendo de Taddei",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjQtb29hcVJDbi1QV0txU0VyMW1vTTFUdWFrc0cyM2hlR1VHMzcwZTNPXzlvY08yVmR3SG5uNmtPWHd5bUJuTFZlTU1WdzgzRmNrS2tCcndFeEdHaW03SWtlNmlKQzZWZTVJdHdYU09fZGRXaEtNdHd6Y0plSldrY0Z30gGCAUFVX3lxTE9hNlVsdUZYczVNMGVCWG5wMlVmbERxT0lCbEs5QjdodE5EcG5tZnVsR3FuUXNUTWI5b0YxUTRBbkNTR0YwaWdhM1pPc0M0LXNIdVRsMkQ5YXE3YWgtdEExM095a2dXYlhaSlIwWGVQM3djMFd5LWMxTzRuZVRmTlc2Umc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 07:12:27 GMT",
-      "description": "Huyendo de Taddei MILENIO",
+      "title": "'El Guano', la vejez del 'narco' y su herencia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWs5UTlxQ0hwTjVlOEtNSUNwUk1vSm1kNWp1WUJQQjRZclpTcktMX0JJQUhOY0trd2F5dzVKUDJiVjdfZ0RLNzF3QWpPaHhKNG5jWmxwWEJydXVrVXNCMHhNN3hyTnlnM25LYTNaNFdQbFFCM3FsU0dLSEREVmJTcFVNdU8xSUZINnNxbjVOSkxLM2xiZVVxaUo3bm92djBuaDR30gGjAUFVX3lxTE5KMUJ5bWRFWU5CSm5JSlBNNVUwakZ4RUs0bjQ4a0RTSFBoVlI4UmpwSzJTdzhCa1AwR21EU1Jjem1wT3JYcFpWeUZCZENubWhobmt6a01SbkFhUGdFSXBBem8yNzNRNm9MNjE0TjhoTkhlQ2p3WTg2QnRILXJkQmo4dV92N1AtUDMxR2FvMVZ1NEJXaXFtRFEtRXlNNFhjUGJYYVE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:23:38 GMT",
+      "description": "'El Guano', la vejez del 'narco' y su herencia MILENIO",
       "source": "MILENIO",
       "outlet": "Milenio",
       "domain": "milenio.com"
@@ -389,15 +398,6 @@
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Colima invierte más de 62 millones de pesos en infraestructura vial",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNm12ekw1WldFNlg1SS1KNElfMklVWldzYzYzdVJwVjZBZE02eEtBY0hZVzdsU045TGk3Z1JGSThoWmdXUERTX2dqSW9mZ044V2xMZC1GWkV0UTFybjBQYlhlYU1CbEJzZEtCc0dFSkt5S2RZUTYxRnFTblkxNXp6T05tVG1FNUM1SUZDUFdFbmxRX05neUx4OVZwVl82dDJ0Y1RGNzB4c9IBrAFBVV95cUxQRGJOcDdkTWZVcXdZMW16akRldk1BelNOWGkydnMwM1VSUDc2dVREQU8taUVUeFNxUTI3R2ZfYUhXYnkyWS1oV2t1cHU2WTBkNHpnd25MSFBDNkpXVU5PWEcxUGxzQXVoUWNvYnhUVG1GVHpoUEZjYzE2VW1RaHZKMlVVcUZVQzR4N2pCcE1WRTdDWEtIbzAxZ3h6aDJtdlpONkZ6Yk12MnFoYzZ6?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 01:03:07 GMT",
-      "description": "Colima invierte más de 62 millones de pesos en infraestructura vial El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Flávio Bolsonaro viaja a EU tras su derrota electoral y el Departamento de Estado le concede visa",
@@ -445,10 +445,10 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Segob acuerda mesas de trabajo con transportistas; organizaciones se comprometen a retirar bloqueos",
+      "title": "Segob acuerda mesas de trabajo con transportistas; organizaciones retirarán bloqueos",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzlxUjBjTTB5Y05Vdms2RV9UWGVGYTJ6QzhFX3BRV3pKdlZDSnM3TmpUT2VYeUM1ZWlEYi1fRGd5WnZaeExSTFBsT0V5ZnZpVHdiNG1DV2FJWS1mWGhRQXh3MlVMVUM4cGEwbjVfcVRyRGg2VjlDVWxSRnFrVEpZU2xKRVJEcEdQaHJWQlZTZGJFbnRpcTNORVZFZVpzSUFFazN0RkZyQUtIRHpWMzVfTjN4N3B1dHF1YW03b2dUWF9aanhSOUtj?oc=5",
       "pubDate": "Tue, 27 Oct 2026 18:13:41 GMT",
-      "description": "Segob acuerda mesas de trabajo con transportistas; organizaciones se comprometen a retirar bloqueos Excélsior",
+      "description": "Segob acuerda mesas de trabajo con transportistas; organizaciones retirarán bloqueos Excélsior",
       "source": "Excélsior",
       "outlet": "Excélsior",
       "domain": "excelsior.com.mx"
@@ -472,15 +472,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Denuncia consejera del INE, Rita Bell López, amenazas de Guadalupe Taddei",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYTNWMGdsMmVrTjdSWGFQYWowU3gyUGZaOEZvVHBuY1hsazJKR1VwYVhTRUdYY3ZzbjZVemRhaXZQVUxnS005V1ZYSkJvWS1HSXEzamxua0ZyZjhYd3I5bEE3YVFUTGFBaTg4a0c2ZWVfT3VpOEFqSUFaQ0NsMjJ4bTVocEdQUlR5NndZWFY2TTVfUdIBlwFBVV95cUxQcS1xOW1DT1g0NTRhdnlIRk4xSEFocEphYlRkMW5tT0ExcDJEMzRiU0lXeEF4YkZqNE45Ri13Uk9tY2Zzbms1WjJET1owYzI2dVR5SWZYYUs0NFNpMnV4MkF6enhVU1RjbU12R2lqdDdhZldTQW0xN2lQdG5yS0paMlV1aHh1ZnRNUEItTk9RdHFGZmZwQkdV?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 16:16:22 GMT",
-      "description": "Denuncia consejera del INE, Rita Bell López, amenazas de Guadalupe Taddei Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
       "title": "Chihuahua reanuda exportaciones de ganado por el puerto Palomas-Columbus",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeWg3Y2YyVENONV9uZG5EV0Z6WmtBcDdCTVRIYnNvano1MU9MRXNGd2JELV9fNDZZc0tWdGZ3T3ViQzJRVlE2cUpOaVRKYWxXNVE2YlNVNGE1TUNMcHVaZFpWNHZRRUNzNzJtUVlTdGxjczkybHpuUlpXX1ljbi1tUkpkaWRMcEMzQ0dxMjJhWUxpTFlBbFFwYWRGZ1lUTmVZUnhucmN4TkxaaHN0SW1INks2YWEtRDF1VUk5UVF5cU_SAcYBQVVfeXFMTzBWU3NqTUVhbHd4VkNTRzRFQ1NaNXNrQVBoYlVvWVBGWkVVZ3hCZTZ4Q0xXLU96NmxNZUNJcUJhZVpkTzgyN051VjczQV9lb0puUUk0TU51dDdob3lIN3ZxeG9tUk16Qy1VMWpvTzhIUTdqcTJDUW8xS2pDVU93Yi1hZXh2OW5OdE82cnpELVV2RVZrOV9Mc21seHI3YnNlSmdnekFJZVhRTUExUUYtZHU1bGRjRVdNLWc5ZExjQ2lQMnlILW9B?oc=5",
       "pubDate": "Tue, 27 Oct 2026 13:00:00 GMT",
@@ -488,15 +479,6 @@
       "source": "El Economista",
       "outlet": "El Economista",
       "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "SCJN pone en marcha programa con empresarios para fortalecer la certeza jurídica",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSG9yZ3ZibkdNX293OVJ6amdidDIwNnpBRGRCWTRxc20ySWNRVmw2M2xYTGtJU1I3SzBmaHRGeW81bE5jVExVaFQ3Uk1rN09aOUlwTVB1eXBJZWdDOUFNVHE1MmZoY0dRY1oxRG1MRWpHUllCWEUtb1JaNlNiQXlXai0tcFNRSEVuRHc?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 04:59:28 GMT",
-      "description": "SCJN pone en marcha programa con empresarios para fortalecer la certeza jurídica Grupo Animal",
-      "source": "Grupo Animal",
-      "outlet": "Animal Político",
-      "domain": "animalpolitico.com"
     },
     {
       "title": "El Bovespa y el real de Brasil se desploman tras victoria de Lula",
@@ -508,22 +490,40 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "INE cierra reunión sin definir relevo de Taddei y aplaza decisión hasta este martes",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUlMtUkxhdkJXYXBfaDVxaGN4V0pNVnZhOWVEM0VzZVpVMzJYSmdlaVB5N2lVdWNGcl9rR0RxbDUxZzFoRklqUzdJMXlFblA0NFFab181Z1BnNEwxeE5NMDBXdVl5QmlIdEdMYnc2MktOSl9tZS13akZKVDhNREIxWkwzSl9jalZ1Zl9JTno1NWhDQmczMDY4N1FvUmZJcTRDM0Q1YTlwdjJuYUlzVnJPYzZtX0Y5MFNZTjUxVENfZ3RRcUJZa3YxajkyU1JmRW42WGQzNlBSOFNjZw?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 00:10:46 GMT",
-      "description": "INE cierra reunión sin definir relevo de Taddei y aplaza decisión hasta este martes El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "México destruyendo el futuro: Desaparecidos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0ZWbEYtR2oySmhqRlRqb0p6TEh6eDVDbnA2OHoxV2Nybkp1Y1JIdjNPM3dXX2tFLXNQUEZpNUlIekNNQ3J2VHk3Mm9xSUxwQUxENWJVN2ljQVc5MjRJQzlVNk5UQjlNeENnb2RyRThhVHdVV0R3ZXZwU1FtNEZpWFBvUS11TUkzXzV6a3NRQWI1SEFoRnlqT2h3TmE?oc=5",
+      "pubDate": "Wed, 26 Jul 2023 05:58:43 GMT",
+      "description": "México destruyendo el futuro: Desaparecidos Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
     },
     {
-      "title": "Sheinbaum: Creo que Guadalupe Taddei toma una buena decisión de separarse del cargo",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb002dFlYTVdZRlRKQU9HVmR3YXZkRFpoOVNneWI2TktYVkRENFdyQ0RYMVlYTVhOWUN1VXNRY3hFTmdiN2VlcGxfVVNmcWdtb2U0ZjhOaFhmMk5wRVJzYUQ1elFGTXVNZ0RidC04QW9CWGtiOFdPX3pNc1UzT01FejdUOGt1Nnk0WFdfbHZQY05DVkVHc1hSbWpBM0pxal9NdWlwN0ZZQkFacVFDTjM5ZkdxYWZqNlphU1kzYi0xSmVFVHM0NWIydzZrcU5QNzYybjhnOW54emFPeGZuM01SOUNkRGdGWVHSAfsBQVVfeXFMTm4xX24zcEo2dWdEazA1V1RlNDJicHhmZk5PTUFaWWlsWjJrUEtKcXJUMmI4QzIwQ2lBSHlBNlhKUjNENk8xZlJtUXMxdzZjQjdFR0x3UWFBN1VHNm9fQk1PN01Idi1sNHktV3JzS00wbG9Tb2E0REFuMWZBSzRHZmhtUV9xS3lzdTdqSFFHNUtSbVJ0bVZzTEJxNzNHN3IwdXNQVF9RZW9Fd05OTjExb1RLS2R3YjZwT0VUMEpLZkxRNXlSdTZmQXpKTjViM0t1S2M1T3J5UFdQVHA0YUlJWW9HekN0eHMtMFBTVTY1aVNSUzlmelpVZ29OM1k?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 14:51:00 GMT",
-      "description": "Sheinbaum: Creo que Guadalupe Taddei toma una buena decisión de separarse del cargo El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "México destruyendo el futuro",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2R3JrbGNFTU5MMzBILVRLOEdaOEh1QXBGN1k2ODV2MUtkVDhkcmNiakJBY1d4WEk4VXhsSTNZeG5FY3JBSGZIaFh1MGRWLUxMMHYtNnNKNk5EQnJBS0h0ZGNJZXdoRVhCX2psZ3AxSQ?oc=5",
+      "pubDate": "Mon, 24 Jul 2023 14:23:43 GMT",
+      "description": "México destruyendo el futuro Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "Fábrica de empresas fantasma desvió más de 3 mil 617 mdp de Veracruz",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTVotWXh5N1BEd0h0VnRNNG1wQ09fLXRPRmZHeEg0MnFsbnhJRVhUa2tPT0RDQ1pnR2laYW52ZTB1MjViM1hNci15TlpwQ0g5MFBYZXh3dFN1WGRvREwtWHdyb2JVSFJDTjh1ZHd4WlFOVGQxNzI2aTE4UFBRLW41SElOcXBTTXhTZlNGNGM3SmRZX2FxYkJfbWdlUUxldFZ2QWZoRmpaWUh4RFNLTlBqblhGSWdmWFNT?oc=5",
+      "pubDate": "Mon, 17 Jul 2023 04:10:16 GMT",
+      "description": "Fábrica de empresas fantasma desvió más de 3 mil 617 mdp de Veracruz Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
+    },
+    {
+      "title": "El Sabueso - Videos",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2UTJzNkpQaE5NaVNGYThNTWRoUHZzQWwyc2lRZWVtcU5iN1VLanR6RU94bUlFd3NiMWxKUTZPc2h4b05HMUVJRXNVdk9qMTVhcWJac210dXZTY0Y4OVd5QS1SM3Z4OFk?oc=5",
+      "pubDate": "Sat, 08 Jul 2023 23:06:38 GMT",
+      "description": "El Sabueso - Videos Grupo Animal",
+      "source": "Grupo Animal",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
     },
     {
       "title": "Cártel de Jalisco opera en 27 estados del país; hay otros 18 grupos criminales",
@@ -535,13 +535,13 @@
       "domain": "animalpolitico.com"
     },
     {
-      "title": "El Universal | El periódico de México líder en noticias y clasificados",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3a0tkaHFGV3d3bXQzQ29WS3E5SGVuZDBobHJyVWJYSFVXN2JsMVdyenRRNjhrVFZfaDcyOGhybnVkSGpGbVE?oc=5",
-      "pubDate": "Fri, 15 Jun 2018 11:42:51 GMT",
-      "description": "El Universal | El periódico de México líder en noticias y clasificados El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "NarcoData",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBKMFVsRFlsSjc5bEY5ckpLb195Vng5RTRYSlNjVzJPeEVzN0NJU1M2eUlOMXYwaGpZWlZVelE5N18tNlI4d3Z1Tlp3TFJwUQ?oc=5",
+      "pubDate": "Tue, 21 Jun 2016 14:58:07 GMT",
+      "description": "NarcoData NarcoData",
+      "source": "NarcoData",
+      "outlet": "Animal Político",
+      "domain": "animalpolitico.com"
     }
   ]
 }
