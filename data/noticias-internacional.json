@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T11:52:25.483Z",
+  "updatedAt": "2026-10-29T17:40:56.409Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -46,9 +46,8 @@
     {
       "name": "El País",
       "domain": "elpais.com",
-      "status": "error",
-      "error": "HTTP 404",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "France 24",
@@ -65,10 +64,109 @@
   ],
   "items": [
     {
+      "title": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KN2FmSTVqYkhQdk1VckZBeFE5TjhEb2ZuX21xcEVqb05ZY1lqQklMcHZGY3c2MElMNUZlTXk2dkZYZW0xSjFScDh5b1VreVlwYzdMYnRsRzI5QklL0gFiQVVfeXFMUFRVd2xLMC1qTFl1TVQ3VnM0RmxvdGhLcGhxZlQ0V2cxS3FyVVZGa2lsSzBxaVB1aXJIN0l6aFZIdlVGR3RLcEhTaUlMQlpNUFRXc0kyMWlYcWo4WmxUa01zUFE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 14:29:20 GMT",
+      "description": "Los gráficos que muestran cómo ha cambiado la migración en EE.UU. en la era Trump BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
       "title": "Flávio Bolsonaro se declara \"verdadero presidente electo de Brasil\", aunque luego lo retira",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOLU5kbEp2Q2lEeF9Dd0E2dW5adE5oUnRER1Y0ZENmblE3ZDk1WHF0cC1xMWE1dVR4N3JBUXVhMFdpd2xTOG1FeU1GU2oxRkJHSF94S3N2QmQ2UHY5ZGwzNHhxRUFLX0h5dzBpS3JNa2pwdnhMNXo2LS1YMjdNUnRTU1R5dWp1YkV4VXBZU3ZHS25KS3VfRGUyZmp3MVV5eFN5d0w3SU1oaUVPNndqVUNlRWhFYlpzOTh0U0E0U253ZlNsTzc5M2F5YzJSOENkR3FzZUFZX254ZV9Jd3dwZkgwR2RJMEJueGRDXzdFaG1nYmZyWXU4cHQ5dkNzNDV2VlBZZFdidDV5RGV4Mk5t0gGMAkFVX3lxTE5BRlc5dVZ5ZHd5OHJUSWJKRm9zMFNqN1lxeEVSclRWOFZMTTh5RHY5Q1VtSktZZ2NKUVV1S3Z4RzhrQzZBdVFXMEdRbTFMZGU2ZWF5c3JpWXJ0bWNhOU9oWnNSUTJSN3lpVnZvRVdaTmhUNFcyZldCMFR2ZjJyRVdxV0t1QUFlQkdPZjhNMWY2TWFyRnFJQ2VYaWhWdmMyLVJUVHNESGR4QTFJcHdJdDZfcTZSN3BndEtHYmdJNm1aM0lHdUIzQkN3TUVaNTVTcEVFLWtEVU15UUJuTXhMTDAwVE5neGpmNVJ1elpuT3YyalN0bXRyR2xVNVJCSW52UVBqWWtCdFU5SGpLNVI?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 07:49:03 GMT",
+      "pubDate": "Thu, 29 Oct 2026 13:53:04 GMT",
       "description": "Flávio Bolsonaro se declara \"verdadero presidente electo de Brasil\", aunque luego lo retira DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "La extraña matemática de Trump para decir que Venezuela le \"regaló\" petróleo a Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYV9zWjJ6UzVaUk9pZUNUZmRTQ1I3YUVfaENpRndkVndzRU1HdEY2TGhpS0xUUzBjTGlUblBiZWV1a244Vl9rNWFKaHVmZ3ZEVmg4V2RhS1ZiWk5ZZWJMX1FTWUk1SVhZeEZEUGpYRHI4ZVljdVY2VUNlYUN6SUFtQkMwT0k4bndJN1owUWJKYkQ1Y2s?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 12:58:00 GMT",
+      "description": "La extraña matemática de Trump para decir que Venezuela le \"regaló\" petróleo a Estados Unidos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Los Brewers ya eran excelentes. Ahora son indiscutibles",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3FtWEVnUUVsN3p4M203dXZWcUhqN1JnUzRoejlPNVRfaVJQenkzWkxUTU1McWg5MDVvOE5rN3ZjRm84eVRuLWlQT1JtQWs2NGZsUzV3cDYzOFVWWUVTYXNSY0VJNS1JMnd1VktIY1JKMU00eklDT3M5Z0FTV0wydmRoV0pNcC1XLXRpbXFwaFhUaU5Jc0ZzSkJubDQ?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 10:06:00 GMT",
+      "description": "Los Brewers ya eran excelentes. Ahora son indiscutibles CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "España, de luto tras grave accidente de trenes: \"Van a ser horas duras y largas\"",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1Z0YkVsN1Q2Z1g2WTFyMlpZOUIxM1pwUTRQSUliWE13N24tajhNZTJJazNrUTlOeEFHU0psVlFpdEhDQ3RqeWRCNWZWWGYxVGJYb1dtU2piQzkyTTU3ZnlBLUNpNmJqTXFVMkgyQWtYVEIzS2U2YkFRSFVTWHczUi05NFRkejBVcjlqWm5NSDNocExkUkNhUHFJcU9jY2ZXOHVXR3VFTHFaajc1Rjl4R195UWnSAbQBQVVfeXFMTTR6R2ROLU96ZTRUVnNOOG10VTY3SThYbHB2N0g4VkdkNC1rLTNsNV84S2R3cWRzWXVVUV9zN1dxX01heEstak5nLVNDRHhBUkZDWDl3Nzloc3lIWmhqU2I1YUNkLXF2Q0p0aWxsYkloTExwRWN4emFOaFNEUFRBeFBoS19ETjRGbXBCT0pmS0RWVU1ISlJ1dzB2VnhPNUsxWmFTVVdhZjZqMW50cUN4Ny01Z0VP?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 09:54:48 GMT",
+      "description": "España, de luto tras grave accidente de trenes: \"Van a ser horas duras y largas\" DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "“Reanude marcha normal”: revelan los audios que ponen bajo la lupa las órdenes antes del choque de trenes en España",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVEcxMWFRQVQ5azRPeHlnOTZEY0gwY1haOVVmY2ltMTU3bVY0Ymd6dU12R0NjcE0tZjBwRWJwcjNycDNjUGczdm84amYyRWVLc3lYVkd6bUlCVlAwWVJlOU14b1hucGFqMmFZSWY1bFJFRDdrd2o1WFJsek1jWTE2Q0d3Mm9qaXR1bUFaaG15SXBDT3hKendiLXprYWhQLU5rQmZtX2YxMmNpVlF2WEUtOHJEMDRqbWNFN1FoalBtSkozS0lBcnlOVk9sWVM5bTNxMzd4bkxFX2ZqN290SHJYbXlFN3g0ZmY2NEVwZTZTOThWVEhYWEtIbVB3?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 08:34:40 GMT",
+      "description": "“Reanude marcha normal”: revelan los audios que ponen bajo la lupa las órdenes antes del choque de trenes en España France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Los Cerveceros de Milwaukee conquistan su primera Serie Mundial",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDdEam1BQzRqYmZjXzdTVWIzd1puaE9wSmJjWVBtc0FkU2VTWGFha1hVUURwTTB5ZE9KaVhTMzdzZWV1SEtCeXZwVEFXWFpadDg2LS1fZWZzOEpUX2cxaXRQWDJJd2FHdW81OWFqMi1ScldfTks4VVZFdlJ5VVVSRFZZeFRQNHVPZm9PSjdWamtFUFRzbTE4YzlRYlbSAZwBQVVfeXFMUF96OUZkOHlteFppQWNjYXg3QnZTYmsySjdmNnBlVTVCN0MxWDRlcHo0bG9kYmdUV0Y3QkZCRFZISUI4QU8zeTVTY0ZHTDRUQWpHUmFSQ1M2VTF3WHZ5MFJQeWlnc1l4ekRrdFVIQXNZVnNKU0Fsc0NuY1dqWURFTHAyU1p5aDNjQnVaWmlRSlZKcy1QVm9ta2dnQ0I2?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 06:41:17 GMT",
+      "description": "Los Cerveceros de Milwaukee conquistan su primera Serie Mundial DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Los Brewers de Milwaukee se coronan campeones de la Serie Mundial por primera vez en la historia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcXFWQjNoN0k2QTV3a19McnZFbmVCT3dWZXdWdHZCMEk0UVAtcEd3dW51Vk1fNkNCRkZnWWp0a1Vzc2Y0anNST1Fwdm1uY1BQaXhJZ2dOYk84Rmg1RmVFS2R2VkVEcnMxQTlBazMzRnpoMDEtdjVWRDdmVTVSMExzczZRbmFnVVlMb1IyLVZ0RTM?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:42:00 GMT",
+      "description": "Los Brewers de Milwaukee se coronan campeones de la Serie Mundial por primera vez en la historia CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Se acabó la campaña",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UnQ2TkxZS2V4dklPVlVUSndnNE5hTUNNZll5UUJtQTlyc21acklCTG5ILXMwWVZhOXRTeG1FbzJBblJmY2xVMVBMbzRtamlJb0h4dEU2UmVEa1RHS2E1eUdJRW9RbUZ2VUN4ZzZzVdIBgwFBVV95cUxPMlpZQlpzSnV5QUVmd3dOY3pGQ3JDNTBvT0oyc0lyTmpuSlAzV3lCMXpTVVJ0QnpTUFlLcVZfTVJGNmdxRlRPMjNiQ0dqR21ENXNGcG41VnNieHFmTUJQQ1ktWEQ0SmNlMUZfN0cwT29qenNNNTAzenFfenpzUVZuVUNwcw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:30:01 GMT",
+      "description": "Se acabó la campaña EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Yo viajaba en ese tren",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oTG9wZVA5eFlYWnplajlkUmVCeXpLUFpJWWxmNmx5VGVDZXNIc1FDNVg1bXEzRUZRbGMyOFZRRG1CcGZ6THRNU0l6MUt2OFZkSzFKcGZGUDhiTVNuaG5UQWozWVN3WFNFVDFhUEJXUjJjUdIBhgFBVV95cUxNeFZLRldNRXlURVRZSGEzMGk4STBNTS1DZXZ5MjNKLVc4cGR2bFVEQktsdFlSOUtYQVBxdjhFQ0RoSldsNkhieWVKWnJOcHRGVUdXZmwyTFZyYTFncC1yaE95YUlpdk0tUnRhMmFCeEpJSGd2SVF1NDlVTmVrNmJnTVRFNndLZw?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:30:01 GMT",
+      "description": "Yo viajaba en ese tren EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Lo del doctor Cabrera en ‘Horizonte’",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGJFeFBnWkt6QU9WQWQ5TFB5YWlaRUFUMFR2UGhub05vMVZKTzc0UmNtSmZCREtqMmZxTWw5RWhaWTVJZkV3ZlpuMi13SF9lTWRCN3FFa2FZLURMTVBEOEtwdFRxeUVoUUhQQ1pWRlFGaFpFem9RQ2J4blFqV21GQ1hPb9IBlwFBVV95cUxOU2Vmb3lJWmFFNXdBVklrdU9xMEp1cDNuSm1oX01LcW9reU9wN092WnJ5bjE1MER2ZnVoVFBGSnQtTmVwZ3JnTTZtT3VwendNdlBZcE5LU09OTzR5VTJjWjQxNWQwY2Nsd1J3VGg1SzdqWTRfSXJoYjk5b2ZMeF9uVnBBbXRvZVlSeUFEek5ZYnBvendPX1hr?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:30:01 GMT",
+      "description": "Lo del doctor Cabrera en ‘Horizonte’ EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El Salvador envía más de 2.000 militares a misión de rescate en Haití",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaUZTTVlVOUhZcmVONDZjandGUTFRd3YxYXAyR0dUVm1rQ1pTblJkTGhhYVFrVkdMVDJGTFhPaHdKaEFxS3JOQTZTMHJENTRlZUV0b2lFRGV3clVrRm5QaHpiQU82Vm5yUzg5RksxWk55TjQtTUN0Q0hsZ2tLUVozMy0tUFd0a0liaWZfTjBHaHJKNzQ2bjUtVVpfNTJoNGxUX0JBUXRPVFQ5Sk5JVmZUM1FWUk1wVVJub2RPU2N30gG-AUFVX3lxTE9EcUdmb1pYelZLd19wQTNwWC1YeU1pMkxwR0cwWG9ZU1ppbmdFMTBTcXV3TXIxZTNjdzZFbDlqRW12bFl2T0NUbGYyd1ZOVk5EdjVZMWhpS1E4VmFlMUxfSk9JdVZOcGY3TkZ1Mkx2R29kRkRSZC1MTzZzWG9ZNEZMNi1WVkY3LU9KSWh4RlV6UEM4d2x1bFBTOXA5OXUyemxrQm5JamJZSDIzM0tGZElPMXpQa3ZtZEd2VUJpQlE?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 04:17:01 GMT",
+      "description": "El Salvador envía más de 2.000 militares a misión de rescate en Haití DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -92,19 +190,10 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ZsXzR4OV9LdGxwNElkbWVvbE0wUWFhS1ZGS05DZUdzZjN3OXhXd3p2bzJhTGtfbDRmNUZOTHJScU8yUm45NUR0R2k5Q25nUG51bWRhZk9jb2xzTGJleUZUdzdRRFYwUFlFZkNZdVZWUHhxX3o3V0FBWFdoWlNDTmhDUV9rZlI2dktaUlNwTmZ1ZHdFMnR3?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 01:31:00 GMT",
-      "description": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España que deja al menos 69 muertos",
+      "title": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España que deja al menos 74 muertos",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNnBqN0FLTTlTWXNCUm51Q3I4M1RXaXFKLXFFS2lkYzFjSVUwYmJla3cxcW9PU2gwNndxWll0QVR5amRPUWNicUJtSGtUU2lTa1JQS2Q1WG14M3dv0gFiQVVfeXFMUHphd3dWaVpGR19MemxVTVpJZzYxcEI3SGN5aklsSzRab3VMM0RJcC1QUzQySTIyZlk2ZG52b1NQUW5lNVpQdHZPZ1dLYTRxUGVLdTVXOVFzQnRzaVJDU1JOU1E?oc=5",
       "pubDate": "Thu, 29 Oct 2026 00:49:09 GMT",
-      "description": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España que deja al menos 69 muertos BBC",
+      "description": "\"Sentimos un impacto muy fuerte y salimos despedidos por los aires\": los sobrevivientes relatan el choque de trenes en España que deja al menos 74 muertos BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -126,6 +215,15 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "¿Qué causó el choque de dos trenes en España? Esto es lo que sabemos hasta ahora",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdXZJMThRanV6T3NxbXFYVnBnSl9BX3BGTEJPY1Y3ZGU1TWtOVkdXV1pLZk9XcGhwcEtjdXZOYjVxUzFoSjd6QWFMWW83NmxzQXZDTmNKZXVER0pVTlNFTThqaTVsNEFyR2Y3cmlKT3E2blotVGpCaGh6YWU0U3lQS3NGbU9yMlpwTVFwcFNKTEw4SlBGNzN6ZV9IM2dlcndzWFZj?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 21:37:00 GMT",
+      "description": "¿Qué causó el choque de dos trenes en España? Esto es lo que sabemos hasta ahora CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Flávio Bolsonaro borra carta en la que se declaraba \"presidente electo de Brasil\" y cambia título por \"líder\"",
@@ -155,15 +253,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Choque de trenes en España: al menos 68 personas murieron, dicen las autoridades",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Ml82NmVmakkwTl92azF3VzVWM1Jsbnl4VC1kVThJYmszQTY3SnNGN2p0X3p1S2p2WHdkSElkVWVseldUd2VISHhVeFN5YmtOd2R4cGhXSGNRSEgteUZ1aENxRXk0X29QaW9kcDJiSXJ5SHk5cFZN?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 19:26:55 GMT",
-      "description": "Choque de trenes en España: al menos 68 personas murieron, dicen las autoridades The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Elecciones en Israel: Netanyahu no ganó la mayoría, pero tiene opciones para seguir en el poder",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGUxRjRFWUV5VXp1U29rOGxscTFNSm9rSmhVUC1EU2k0N3ZfWGhyQ0lXd1ZVTE5EZnVUS25VRUJoVWlkMHkzZXFuRG5VdmRyMS1vSUhwOVJkOXoyOUwxRHdFTTRZS2lQUE51RXJiWEg0VEZid0JrWmxENnFBSENkNW1zeUNSX0hQeUk0ZUhyRlUtc18xNWMwOUNqVQ?oc=5",
       "pubDate": "Wed, 28 Oct 2026 18:28:40 GMT",
@@ -173,22 +262,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Muere el juez federal Alvin Hellerstein, a cargo del juicio contra Maduro en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXZiRVh5eDJVQk1va0w1YU53OHE5dnZ1a0xISTZnc0xGazZFeE16aXBKcEFqQlI2UGZGYXlzeDJlcE5nbUxyNHQxcmNFNDNSNDF4QnVXNnFVMmpvS1dLUDBHT0tOakNIMkk3SlFCZTdnQ3lVZk1oM0Jram9Oek1Ha3RUNkZUN3JGQlRCR1k1Y1F1bmth?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:18:00 GMT",
-      "description": "Muere el juez federal Alvin Hellerstein, a cargo del juicio contra Maduro en Nueva York CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Nuevas encuestas traen más buenas noticias para las aspiraciones demócratas en el Senado",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzl1d3RHVktEMlpLUzlhXzFtWVNOcGpIYWpuYlA2ZXZPM0kwc0NoRDB4YTc3aFlCZkNFZVNNMTRYWUQ2a3RoOW80ZTJ4MmhjMkNvWjNsb3VtWk1feUc3ZDFZbVI2UVQzcmlMb1ZUbHdBMXVuUEFoUk9NbFJ2NjVyYld5UDNtRVl3Uml5ZHV6X1JBLXI2bDJyMg?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 18:04:00 GMT",
-      "description": "Nuevas encuestas traen más buenas noticias para las aspiraciones demócratas en el Senado CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wb1pQU2pWODh2RlJ1c0lxUjBDM2NpV2FvemxYNjF6MDhyVGNYNHJaYkR3UE4wV1MzRTZMVUZhWnJ5NDVGclUxNGJlN2JGMjcyV2VqUFZtR1ppVWNv?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:49:18 GMT",
+      "description": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 69 muertos en España BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo",
@@ -198,15 +278,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "¿Cómo fue la salida de Bolsonaro de Brasil? Esto sabemos y esto no",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTFpMWt0aG1MLUpRWnlreUtpNFVVaHAwZU8wT3Bod1RZRzhMWTU4ejlSRVFwV3FoN1hUeG82UTA2Ul9DUHhwdFFJWm9TcVE3MDZ6V05HMFFteHh6bEtxaUxzbkhJNjRJdWVnR3VTcUM1aVk5TUxrSzlNVXJKOFdpbzRkTUZpdGJYMm5fc0cxV2hXRGM?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 17:10:00 GMT",
-      "description": "¿Cómo fue la salida de Bolsonaro de Brasil? Esto sabemos y esto no CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "\"Grave accidente de trenes\" en España: más de 60 muertos",
@@ -227,33 +298,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUFVVlN3SWx0TmFkRmxTS0Z5QS16cWVZVXVtelp2Ti1SMzJVbGoxZzF3TmdQOV9YZGtZV1JYbmczcXBQMVhSdkVFQWNoemtyc3IzV3F4QTM1cjJSRjd6QkFPWEVGek1SNjA3MHJFWWJrSl9BS2wyRzN2bUlPSWFrbFlPX25Cc2Eycm9zMl94bHhMLWF5MnJMUDdKamhpa2hZMnRZUnlSTkUzdnBCb3RLVzJFaUZxMkVabEFOeW5oc2PSAcABQVVfeXFMTmlWWjVKN2FBX2tOVTdBSWR5STd0ejVPSk02bEJzVWJ2eGMwbDQ1SERibW1na3RCanM4RnBVSE5fcGZ2c0ZEeDhnNktIdmNxTjd0UlJIRld2bUh3NDFzWDFHT2x5WTRwdmtJMzhVZ1RBOVZZSTItTlRhZnhERndtdjdTY1ZnZzJnU0h3ZHRCdGFhaF92RXg0RlFOVkhwWFRRSVNHZU9wRWNkWUVjQWVHendDV1BlZGJTVV9mQld3c05H?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:37:08 GMT",
-      "description": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel: ninguno alcanza la mayoría para formar gobierno",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83b0xNZ3A1VG1DNjZwWVk1T0oxTnJyQ1pTNzFaZUVqMFEtVlNKWnM2bzE4dWRzbEpnU0YwM1F3VmZ6dC03YWdDNjBfanpEQmZDX3EwbFNuajNzMmlm?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 15:39:19 GMT",
-      "description": "Netanyahu y Eisenkot enfrentan un difícil camino hacia el poder en Israel: ninguno alcanza la mayoría para formar gobierno BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XeXFUbGY1VDlGMDdUM05CUWhBWjFMR2l5WS1wZmNMV1R2NFMxY3VubW5CUEpheVJLRzlFVjhjMW5VWTFpZ0ZqT2o2dTNReHZmVGNqeEhneG9Ybldj?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 15:39:19 GMT",
-      "description": "Imágenes muestran a Flávio Bolsonaro aterrizando en Miami luego de su derrota en las elecciones de Brasil BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnFRUnRoWE1RMzBGVkdfZXR5cW5CamFMQm01eVZza05iMHlZdXRYWXBBNk41ZkYxX01BcG5YTm1OSzcxMW5JcHBhc0VncjZwY19EamV2VVNaV0xfTDlzSl9ZRVZ4OWVicU9fcEY0Q2dUeTE2SFBSSHNMaDNhRk91YndFMzVPRnRhaUNlelJxODE?oc=5",
       "pubDate": "Wed, 28 Oct 2026 14:32:00 GMT",
@@ -263,13 +307,31 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmZta1ZuNUt0bXpSbDNDRnV0M29xc2d0ZWZldjVTR0Y0NHJyNUJtb295TGNLMEhMSG5KTnItenREclNwRXJfSndLc3lXc2JpMmx5WUozUGxIcnNLclJQUEFpOWNJa2I1Zlp4WWpoZk9rMXJncXNZSW5zTXEyZG5qRXpTMC13dXI2SW5qLUE0aUR1U0MxQ1FucW1aRU1wRW52b0twODlzZkZYTTU0NlJTX2l2VXhDc2FfRk4teXlMTGVJNW5rZnA3cjFIblhsbzjSAc8BQVVfeXFMTVcxTFp4QjdtcWo3cHI3SG5paHhaQUFOMi1nSjEwajNQZjIyRXpvbjE5QnJuSDc0TERGOHFDZF9UQ0tnYUVjV2Z4aThRcjZ3dmNvQzZBcUFuN3pyV2pkWldsdlVpdWJUa1VFY0YyaDFkc01DZ0ZxOThMVkpZLUNWQUZCTEszVjdHS3ZOZWhMLUdrR0Z3aU9MR19QNEJCNmQwdUdFV3ZPNVZDQjVFdm5kQlZBalRoYjh5bm1nWVduZkZGQllua1B1ekRkcHBBVTVJ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:59:05 GMT",
-      "description": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Choque de trenes en España: al menos 68 personas murieron, dicen las autoridades",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Ml82NmVmakkwTl92azF3VzVWM1Jsbnl4VC1kVThJYmszQTY3SnNGN2p0X3p1S2p2WHdkSElkVWVseldUd2VISHhVeFN5YmtOd2R4cGhXSGNRSEgteUZ1aENxRXk0X29QaW9kcDJiSXJ5SHk5cFZN?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 13:19:08 GMT",
+      "description": "Choque de trenes en España: al menos 68 personas murieron, dicen las autoridades The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVG5EcWM0bDhCVGxqc2RYb2dJOUd6WDJDdmxqRE1QRGFIMGEzc0VoTmd5Y2RMWXR1b194NVZHT3VLOTVGRXBmcDE2TE1xMTJyLUNqcExfTTBYN0prNmlPemxVRk5POS10TFQ1cG56TVAzWTJhd0NGdUZxdXBYX2twcFRpRjdlWlAzSkZ4eFFtR3RZbDBabk50XzZDSXRLOThOa3dVMTE4SEJpN0d6cU5YelVPTU9rWlQybEFQQ0d5N2wwcVRtZE1iNTFkSjVfekNhaHJJTndvRkJnTW9UOGtjbEZR0gH2AUFVX3lxTFA5OHlMV2FQTWJ1QTBCTkIxV0IzTzMxUW5mT3YzQTBpV0hLbW9DM2ZyRjhwUFpHQWd4enVybzZlYnc2VGJHM2w1ZTZMQl9VZExnQk9wb1JwRWVVZ3c5X2FQaHhud1hoX0k0ZzNSbkJES19YT0ctWXIwU0h1RTNoZlI0a29KUXJRcXpnNlVfRVg5UkpWajdMaEtNTW5kZDZCQWFIS3VRU1dnVFNvb0lnRU05dnVYRHpaeFRqQjA3S3Z0eThHVFk3UDYwNHF5b2E3eVRsRmVtd2lzM1ZnVnJDWXF3bG81NFhILUd2Ui1lY1VNYzhwVDZoUQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 12:59:07 GMT",
+      "description": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOGFwTDM0c3NlY2JHZDBlNFVRMVdKbE1Yb2t5WUV3bEJkR1hJVGNXR1BKVEJpcnhaSEVzMkE3U0RiVjlaMkM5cHZNa1pEUUJydUJuLXkwNlVnbzdJemowenQzajZEMy1nbThyVjVkWEJPWVJDZFZzdzhRNTN6RF83ZjI2M0h2OEtXckIwREVIanVhZDc0ak1VSVN5QmFwR2cyZmVwNDc4T19Ma0haX1ZUVlAtR1N0eTBTV0QwUzBVVGpSajMydGgyUWxvdDhfc1MtUThvakJYTdIB6wFBVV95cUxPcTQ1TUxCX2FmMTh3ZThBdmpNVUVOeXFxejZSTnYzZ0VHdGhvWWFEby1zNWRsRUxQVTlVbV9HUk52R0d2R2lJTjB6S3VVSF94d1AyaXhUdUVLQ0R0WVFBVWJYMTlZS2o4R2l6dmJ6a2tiTThXNjZBQnMxa2VKNFpYbDU5Y2ttVVBQLV9ibHV6QjJueU1SMEJQQkFIanp2VjUwYk9DaWxvV1Axc2tqQzY1WFNDWmN5SF8tRVpEWnZ6Y01VU042Njh0aGJzY2FTd2s0Q1ZsMWdQa2pSbVNCT1ltdXgwNV9lUXVCVi00?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:47:59 GMT",
+      "description": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
@@ -281,13 +343,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWs1U19MYmpWSHAyUnBPcUZ3ajZlVnA3dlRxV3pmcC1OSFk2RzEwM1V6UkVUcm5HRXhDT3hobG9VZ1ZlVDM4Q1NveEJFNks1OFZMOGJjTnFyV2huNDFGbFBKOGhOZXhrUG1mZVFqVTZnWVBJVGtWQjkyYkdfS3pLZXFYaUNEcHN6QXEyOWZFQVJYQlFxUFdQd2F2bXpZRXR5WmdjTjdrclJvNGV4c1kxUw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 09:47:49 GMT",
-      "description": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes | Fotos | España",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmVRc0NwVlNUU3l2TXRpSUQ4MndtNG5PcExIbGR2ODBGZ1l1VC1EWHoyZ1J2QmJEdk9XMlJBZG92SFJTSEJXNDRFMXRZc3pxNVJJM2FPbU1abnNTS1M1cVVXbVExZVBhZTJPNGI4TVVITHpsQnJjbW5WWlpjdTljVHdUekVlcVBlYnoyZDg4YVJkbDZSbHJXcFNwNi1UcWFyY1FhMmsxS25RckNN?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 09:32:02 GMT",
+      "description": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes | Fotos | España EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Kylian Mbappé se disculpa por aparente referencia a Mao como \"dictador\"",
@@ -407,15 +469,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Chile: rebaja de condenas a 56 pederastas enfrenta al Gobierno de Kast con el Poder Judicial",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaE5VOTRwWXVIZFk1eFVYSkxPeTg5ZXR0UXBpTmRKRE9CWW1mbmRjdzJOWkFMV2Y1V3Q1MGRzUjlWMFZMdzFETUJHSmN0QTRKVWszVGdoOHFvTWVlRnh5a2tYdkJqaFpKX05KZTVwMXg4TUZzWmFMQm1Sdmx1Z19BaWpmSk1FUUxURTkzNWtqWVNrdHRQX2ZxZzRtQVpFQUpnLXNQOFpKS1JaREdfWFN4RDA1VUFGaDJsSGk5c2d5cmhZSnlSU1hMR2NFZXJJc3RjSmFuSEd4NENIcE9KNTU5WHdB?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 23:42:00 GMT",
-      "description": "Chile: rebaja de condenas a 56 pederastas enfrenta al Gobierno de Kast con el Poder Judicial France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
       "pubDate": "Fri, 23 Oct 2026 15:48:02 GMT",
@@ -488,15 +541,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmhISmJmUkcxaklFaWU0cGR2c0R3aWVKVTFRUDdOUWY5UktKa09waFRPS3FhNlF2dXBlcU5CNlo5T3Z1OWtxQ01YM2pSUnZ4WjZpSWlQczEybmlZNDFqWkdyUEM3REtQYXNjZmk1X05ZRVlYY2lOZXE5bWJBdVFqNUhzZzBrV2JTMDlONWJyUzVqTzZXcVJqeDBTMzByaWhHcnY2OGswNUx4X2lYcHhR?oc=5",
-      "pubDate": "Sun, 31 Oct 2021 07:00:00 GMT",
-      "description": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
       "title": "Opinión | Papeles de Pandora: Los paraísos fiscales atentan contra la democracia",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWx2SUwzSGQ4RlQ5NkpPOTktM0pGNEMtYUVjWkh1clNjLWtHX3NGUW9aY25LNklNYUlodktyS3VxUmpodk1HcVJrNHBGY3A4bHBCb3JiYUx2RXVKUjZGZVJLUnpSSl96RkFaTWVpck43cVd1TjRRRHd0a2pLbzRLTWs0VWM1MkJGSDMwQkxrMnE1LVBHdHRza3pXQ3lxd3U3ZklIejVBSTc?oc=5",
       "pubDate": "Mon, 18 Oct 2021 07:00:00 GMT",
@@ -519,6 +563,15 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEdkRHhScjV1aUVCRGhwaGxlZmdFT253QVlUTHphcGZHR3hHbU82SjVNcmV2eXVVNUpKNURRQ3JqWEVLMXdXYTAtVmdhUGJ5eHNlNGY1R3Nuc2FZWUtrY3NpQUdJVl93N2Q5Vk9LaUpGMVYtVHBvYzBhUTZ4TENid0JyUklaUmFHbnlCaDdtMWNYTEhuaWx2c3VLajB4N0EwZFVQNmJqV1NCRFpmQ0hvZ2hhTkRSTkxOOWpmbDFlMTlQR1dPcF84a0hjYw?oc=5",
       "pubDate": "Sun, 30 May 2021 07:00:00 GMT",
       "description": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
+      "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
+      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
