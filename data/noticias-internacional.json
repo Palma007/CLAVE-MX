@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:56:31.764Z",
+  "updatedAt": "2026-10-29T03:06:57.807Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -66,11 +66,56 @@
     {
       "title": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1ZsXzR4OV9LdGxwNElkbWVvbE0wUWFhS1ZGS05DZUdzZjN3OXhXd3p2bzJhTGtfbDRmNUZOTHJScU8yUm45NUR0R2k5Q25nUG51bWRhZk9jb2xzTGJleUZUdzdRRFYwUFlFZkNZdVZWUHhxX3o3V0FBWFdoWlNDTmhDUV9rZlI2dktaUlNwTmZ1ZHdFMnR3?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 21:19:18 GMT",
+      "pubDate": "Thu, 29 Oct 2026 01:31:00 GMT",
       "description": "Dos trenes de pasajeros chocan en España y dos de los vagones caen por un terraplén CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil hacia EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQ1NwejNIRlZjMG56QWJHbmFKWjlCQUJDRXo0Zk9uRXVfZk53b1VJVktvNEhwaHJ3RGh1TEpPSHRfWnpRazRlYTVFVnpINFRETUlRWkZQdGtDV0hq?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 23:34:20 GMT",
+      "description": "Flávio Bolsonaro denuncia el \"robo\" de las elecciones sin aportar pruebas y agradece a Milei y Trump por su salida de Brasil hacia EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kQ2VQd1BQMzZSYVJsTXZxVnByV1locnFBaXNZX3BhSDZ1WGJOT25xc0tTWWluSFNjcFhjSTZWeUpLNzZRNHducldIeVZGMVRTMlFpX1pQdW5LLV9D0gFiQVVfeXFMTU1JSlNYNHd1VTZfZ3h0X1dRRmxTNFZjbzB2SVBfUzdEdS1hZDRQYl81QXFhbHF2U0JoQ2tkQ3o0VUJoRXAtY21zUlUxR05uU3lSSkJiUC1Uck9nM1d5VTdOS3c?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 22:19:51 GMT",
+      "description": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Flávio Bolsonaro se declara \"verdadero presidente electo de Brasil\", aunque luego lo retira",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOLU5kbEp2Q2lEeF9Dd0E2dW5adE5oUnRER1Y0ZENmblE3ZDk1WHF0cC1xMWE1dVR4N3JBUXVhMFdpd2xTOG1FeU1GU2oxRkJHSF94S3N2QmQ2UHY5ZGwzNHhxRUFLX0h5dzBpS3JNa2pwdnhMNXo2LS1YMjdNUnRTU1R5dWp1YkV4VXBZU3ZHS25KS3VfRGUyZmp3MVV5eFN5d0w3SU1oaUVPNndqVUNlRWhFYlpzOTh0U0E0U253ZlNsTzc5M2F5YzJSOENkR3FzZUFZX254ZV9Jd3dwZkgwR2RJMEJueGRDXzdFaG1nYmZyWXU4cHQ5dkNzNDV2VlBZZFdidDV5RGV4Mk5t0gGMAkFVX3lxTE5BRlc5dVZ5ZHd5OHJUSWJKRm9zMFNqN1lxeEVSclRWOFZMTTh5RHY5Q1VtSktZZ2NKUVV1S3Z4RzhrQzZBdVFXMEdRbTFMZGU2ZWF5c3JpWXJ0bWNhOU9oWnNSUTJSN3lpVnZvRVdaTmhUNFcyZldCMFR2ZjJyRVdxV0t1QUFlQkdPZjhNMWY2TWFyRnFJQ2VYaWhWdmMyLVJUVHNESGR4QTFJcHdJdDZfcTZSN3BndEtHYmdJNm1aM0lHdUIzQkN3TUVaNTVTcEVFLWtEVU15UUJuTXhMTDAwVE5neGpmNVJ1elpuT3YyalN0bXRyR2xVNVJCSW52UVBqWWtCdFU5SGpLNVI?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 21:44:13 GMT",
+      "description": "Flávio Bolsonaro se declara \"verdadero presidente electo de Brasil\", aunque luego lo retira DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Tras una histórica elección, los partidos árabes se abren a una alianza anti-Netanyahu en Israel",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZGdVMG0xVW5aZE9XQ0h4T2xpekdsaEFZa2dOQjc3V3VoQ01DV3Y1S085RjNocDd2TnlBZS1zeTNKTVBtVzhWU0RaTTUwbWhVMmxwclVkUnNTTDNzdWg4VXBFeWNSSEV3ZjRWQ3RQOXVQeURWemp3Q090eFJIck13WGIwczVsdXRLdlgwZ1g4LXh3Q1dfcTV2WHdpbzgyRjEyZ1dpY2xFcXRlWTBieWN1R3lDdmhZdGF4OUdIVS1acS1pNDcxWHpBUWUyTXVpc2F3Yl9ncXk2Q09aMWQtQTdiQ0l5bXNhcnd0blRyamR4eHBfUk0?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 20:05:43 GMT",
+      "description": "Tras una histórica elección, los partidos árabes se abren a una alianza anti-Netanyahu en Israel France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "“Me siento menos orgulloso de mi país ahora”: tres vidas trastocadas en el segundo mandato de Trump",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQlRrNTJuU25WV05VWFlzMWQxd181Q09IS1RUMnMtaXVmdFh6dF9QT0FSbE9KTEZpWmFUYXNPQnk4Zk9LeGhnTWhwUkhtZG9sWWY2MzIzVzVNb0RsUHd4eE1EVk9jd3ZjSks2Yk92T3NwRjN4V3J2ZnhiWEcxSFpfM1NjTG5lU2FzZzRNY3JmV2l4QUplNUx4S3RfYlBRaTJDNUh5Zmh5Z2o5WU11aGpLSmtmb3kzbjFFSlI0V3FaTHFCNFZ2d1BiWWJfcjFnQXo3Mk9zNVBtQkV1M3pMVEFRSGFsYkkxWUxZbUdJb2lncw?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 19:39:31 GMT",
+      "description": "“Me siento menos orgulloso de mi país ahora”: tres vidas trastocadas en el segundo mandato de Trump France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Choque de trenes en España: al menos 68 personas murieron, dicen las autoridades",
@@ -80,6 +125,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUFVVlN3SWx0TmFkRmxTS0Z5QS16cWVZVXVtelp2Ti1SMzJVbGoxZzF3TmdQOV9YZGtZV1JYbmczcXBQMVhSdkVFQWNoemtyc3IzV3F4QTM1cjJSRjd6QkFPWEVGek1SNjA3MHJFWWJrSl9BS2wyRzN2bUlPSWFrbFlPX25Cc2Eycm9zMl94bHhMLWF5MnJMUDdKamhpa2hZMnRZUnlSTkUzdnBCb3RLVzJFaUZxMkVabEFOeW5oc2PSAcABQVVfeXFMTmlWWjVKN2FBX2tOVTdBSWR5STd0ejVPSk02bEJzVWJ2eGMwbDQ1SERibW1na3RCanM4RnBVSE5fcGZ2c0ZEeDhnNktIdmNxTjd0UlJIRld2bUh3NDFzWDFHT2x5WTRwdmtJMzhVZ1RBOVZZSTItTlRhZnhERndtdjdTY1ZnZzJnU0h3ZHRCdGFhaF92RXg0RlFOVkhwWFRRSVNHZU9wRWNkWUVjQWVHendDV1BlZGJTVV9mQld3c05H?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 19:07:28 GMT",
+      "description": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Elecciones en Israel: Netanyahu no ganó la mayoría, pero tiene opciones para seguir en el poder",
@@ -100,37 +154,37 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kQ2VQd1BQMzZSYVJsTXZxVnByV1locnFBaXNZX3BhSDZ1WGJOT25xc0tTWWluSFNjcFhjSTZWeUpLNzZRNHducldIeVZGMVRTMlFpX1pQdW5LLV9D?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 17:50:22 GMT",
-      "description": "Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWJackRyLUFRaUtLeHVKVXlLcEQ3WFJHcWU5aXBjODNfSllGTGxDWUNZSUlpYjlUTGtjUU9kek5pWUpqclNaYTJMX3JxZmhGM21ia1E4VUItNmtUb0ZOblJWWWFlaXFpUktNZmQwczg3dWsyb0E5R0RSWEtZMGdDNmRHeFlhODlacWVqTGNBVXNJNmcxeTFIVDFoZUQ5TU8td0U4Z2tYNDhzUlZvZmZVbG1aU3VudGlWcHFWYU82Nno2X05uZGxhanhUVXI4RkZ6NV9fYkFkMl9zOG4zYmRYdUpxemtsZkNu?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:14:32 GMT",
+      "description": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
-      "title": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 68 muertos en España",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wb1pQU2pWODh2RlJ1c0lxUjBDM2NpV2FvemxYNjF6MDhyVGNYNHJaYkR3UE4wV1MzRTZMVUZhWnJ5NDVGclUxNGJlN2JGMjcyV2VqUFZtR1ppVWNv?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 17:49:18 GMT",
-      "description": "Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 68 muertos en España BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "¿Cómo fue la salida de Bolsonaro de Brasil? Esto sabemos y esto no",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSTFpMWt0aG1MLUpRWnlreUtpNFVVaHAwZU8wT3Bod1RZRzhMWTU4ejlSRVFwV3FoN1hUeG82UTA2Ul9DUHhwdFFJWm9TcVE3MDZ6V05HMFFteHh6bEtxaUxzbkhJNjRJdWVnR3VTcUM1aVk5TUxrSzlNVXJKOFdpbzRkTUZpdGJYMm5fc0cxV2hXRGM?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:10:00 GMT",
+      "description": "¿Cómo fue la salida de Bolsonaro de Brasil? Esto sabemos y esto no CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Videos aéreos muestran edificios al borde del abismo en la costa de California",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOFJxR1p6UWMzaC11cGhiSDdENGFnZXQtUmRnODVnVzhlUmRhQVlYbnJPQkx2SDh1TzA1OVh1bDFKUktBMFFnMkl5ODdjcnRwaWpzdnFXZnRaZUYxa2hzdXFCUDl3YkFtbWNqSDRyNVI2SUNKcFZoT29NelRXdzJtU0pCZmdyYnM?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 16:49:39 GMT",
+      "description": "Videos aéreos muestran edificios al borde del abismo en la costa de California CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Flávio Bolsonaro aterriza en Florida",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOMDVuVW1CMzIxTjlvckhMYlVfaVRldUVGRk5XczloaTJUQ3JMcXFVTUttakZiVVFEZk52aFYzc1Q1bkhwU0pIenVDME54ZjF2UFZka3kwLUJYc21GOTNkeG03OGxnLUlHbUtiS01fOWJ1VjhoVWRJWW8yN2lKUU3SAX9BVV95cUxQQWphYy15MVpPQjY0WHZMaV8ySkZ5bllOTmhadklSR055UURqZVgzYWNaVE45ZGdqNjJzVG1qTUlyOXp6X2VJZlpHTFZYSFVSVFJNTHBldU4xNmFMU2VNQzNUYjBaUlJ0eUc0TVFCOW1BYXdkdWxyU3NqcktCZXBv?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:58:48 GMT",
+      "pubDate": "Wed, 28 Oct 2026 15:41:26 GMT",
       "description": "Flávio Bolsonaro aterriza en Florida DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUFVVlN3SWx0TmFkRmxTS0Z5QS16cWVZVXVtelp2Ti1SMzJVbGoxZzF3TmdQOV9YZGtZV1JYbmczcXBQMVhSdkVFQWNoemtyc3IzV3F4QTM1cjJSRjd6QkFPWEVGek1SNjA3MHJFWWJrSl9BS2wyRzN2bUlPSWFrbFlPX25Cc2Eycm9zMl94bHhMLWF5MnJMUDdKamhpa2hZMnRZUnlSTkUzdnBCb3RLVzJFaUZxMkVabEFOeW5oc2PSAcABQVVfeXFMTmlWWjVKN2FBX2tOVTdBSWR5STd0ejVPSk02bEJzVWJ2eGMwbDQ1SERibW1na3RCanM4RnBVSE5fcGZ2c0ZEeDhnNktIdmNxTjd0UlJIRld2bUh3NDFzWDFHT2x5WTRwdmtJMzhVZ1RBOVZZSTItTlRhZnhERndtdjdTY1ZnZzJnU0h3ZHRCdGFhaF92RXg0RlFOVkhwWFRRSVNHZU9wRWNkWUVjQWVHendDV1BlZGJTVV9mQld3c05H?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 16:37:08 GMT",
-      "description": "La ONU renueva la resolución contra el embargo a Cuba con menos apoyos DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -154,6 +208,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Sheinbaum se lanza contra los proveedores del INE para evitar más escándalos: “Hay que acabar con los coyotes electorales”",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUI4OUpjTXJYQy1qcExXWHh0SnhWQng3dWQ5bTVBaXZfOEc1V3pPRHNMNWZMUXo5YkZabGd2ZWkxYWdvMlZfOThRUno3Q1hEYXQ1RUFwclY3U3dHOW1ZNWRqNGdIYzVOdlRHWmJVWXRBc2ZLa3JRNmhGdnNjVU1YNl80QXJHUUNSd3BpZGY1cEdXeExYRFNYYVNnTG5pMEZ3TUZCakV3X25abmVLZVhqSWVZR2R6bUpuMmhrdTR3NHBaNVUzamx0V0RMR0ljQzhRdTVUdWJHNFFMdERVZDBPbmhjcXpCb0VqRWJ4ZlRqcWtOaknSAYcCQVVfeXFMTWRleUdpSVo4SUMtS29kSmZEazI4bVJwZ014X0xqemdKaU5Hb2tINGpMa1ZmOUtTS21aSXlOcFNXYVRuVl9OVHYzZmQ0Nk0wV1BLYTZ4QkI4T3JRT1ZrVG1xbXVOSl9PcjY5TTBUdEN4UFZXTm9BeGRIU0NKMURpdGVEOHdzR3dlbFYzM1oxRERheTd5NGdLX19mT2ZVSnhZdTQzWGxoaEhQX2pSOXN0X3NSb2czcXFHUnh6TkRZSHg1WlpYYUtLS1EwV0ZfUU1nQ0pKRGFZcDRpR2xOWnhpY1pfWlpyUkh3bTlIVHM0bS16X0xfeVYtaUliYmJyUmtFQ1F3ZWVnVkU?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 15:17:15 GMT",
+      "description": "Sheinbaum se lanza contra los proveedores del INE para evitar más escándalos: “Hay que acabar con los coyotes electorales” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Flávio Bolsonaro llega a EE.UU. tras la derrota en las elecciones de Brasil",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnFRUnRoWE1RMzBGVkdfZXR5cW5CamFMQm01eVZza05iMHlZdXRYWXBBNk41ZkYxX01BcG5YTm1OSzcxMW5JcHBhc0VncjZwY19EamV2VVNaV0xfTDlzSl9ZRVZ4OWVicU9fcEY0Q2dUeTE2SFBSSHNMaDNhRk91YndFMzVPRnRhaUNlelJxODE?oc=5",
       "pubDate": "Wed, 28 Oct 2026 14:32:00 GMT",
@@ -165,38 +228,38 @@
     {
       "title": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmZta1ZuNUt0bXpSbDNDRnV0M29xc2d0ZWZldjVTR0Y0NHJyNUJtb295TGNLMEhMSG5KTnItenREclNwRXJfSndLc3lXc2JpMmx5WUozUGxIcnNLclJQUEFpOWNJa2I1Zlp4WWpoZk9rMXJncXNZSW5zTXEyZG5qRXpTMC13dXI2SW5qLUE0aUR1U0MxQ1FucW1aRU1wRW52b0twODlzZkZYTTU0NlJTX2l2VXhDc2FfRk4teXlMTGVJNW5rZnA3cjFIblhsbzjSAc8BQVVfeXFMTVcxTFp4QjdtcWo3cHI3SG5paHhaQUFOMi1nSjEwajNQZjIyRXpvbjE5QnJuSDc0TERGOHFDZF9UQ0tnYUVjV2Z4aThRcjZ3dmNvQzZBcUFuN3pyV2pkWldsdlVpdWJUa1VFY0YyaDFkc01DZ0ZxOThMVkpZLUNWQUZCTEszVjdHS3ZOZWhMLUdrR0Z3aU9MR19QNEJCNmQwdUdFV3ZPNVZDQjVFdm5kQlZBalRoYjh5bm1nWVduZkZGQllua1B1ekRkcHBBVTVJ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:59:05 GMT",
+      "pubDate": "Wed, 28 Oct 2026 14:09:38 GMT",
       "description": "Tras elecciones en Israel: oposición aboga por \"alianza judeoárabe\" para desbancar a Netanyahu DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Flávio Bolsonaro llega a Miami tras perder las elecciones en Brasil e incumplir una orden judicial",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY2VET3l0SnVvSnp6V0tyVkR6ZG1aaHRZSzZHZ2pBUkR2YV9aXy1HcUZqQjFMUGZ0YjlIR1NEdl9RMDJ2aEcyZ1A0ZV9ZYkxDM0FRUTVuSG1neWRaTnROOURBdjRMeTlPMm56QnhDT2tGLUp3LWZfTEZEdUVDZEhwYmVWY3VUYzFkLUF1NW8zLW1HZmhjYWxHOURKb3l4X1NrUVN0Tm53S01vOVEzS2NUV3hLN3lCTzE4V1VDMHJUa0xPTGZGdTNEb0hraW0xQXk1S194c3dEeFBVN1psMS1KVmwzZHhsTjRUVUhoN2kxTlpXa1hMMFlIRDdQdGhkT25pdnpYOW1PWEpmNWpNQ1E0cTFmMV95bEtJ?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 13:46:22 GMT",
-      "description": "Flávio Bolsonaro llega a Miami tras perder las elecciones en Brasil e incumplir una orden judicial France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVG5EcWM0bDhCVGxqc2RYb2dJOUd6WDJDdmxqRE1QRGFIMGEzc0VoTmd5Y2RMWXR1b194NVZHT3VLOTVGRXBmcDE2TE1xMTJyLUNqcExfTTBYN0prNmlPemxVRk5POS10TFQ1cG56TVAzWTJhd0NGdUZxdXBYX2twcFRpRjdlWlAzSkZ4eFFtR3RZbDBabk50XzZDSXRLOThOa3dVMTE4SEJpN0d6cU5YelVPTU9rWlQybEFQQ0d5N2wwcVRtZE1iNTFkSjVfekNhaHJJTndvRkJnTW9UOGtjbEZR0gH2AUFVX3lxTFA5OHlMV2FQTWJ1QTBCTkIxV0IzTzMxUW5mT3YzQTBpV0hLbW9DM2ZyRjhwUFpHQWd4enVybzZlYnc2VGJHM2w1ZTZMQl9VZExnQk9wb1JwRWVVZ3c5X2FQaHhud1hoX0k0ZzNSbkJES19YT0ctWXIwU0h1RTNoZlI0a29KUXJRcXpnNlVfRVg5UkpWajdMaEtNTW5kZDZCQWFIS3VRU1dnVFNvb0lnRU05dnVYRHpaeFRqQjA3S3Z0eThHVFk3UDYwNHF5b2E3eVRsRmVtd2lzM1ZnVnJDWXF3bG81NFhILUd2Ui1lY1VNYzhwVDZoUQ?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 12:59:07 GMT",
+      "description": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
-      "title": "En directo: La oposición árabe aboga por una alianza \"judío-árabe\" para desbancar a Netanyahu",
+      "title": "La formación de Netanyahu acusa a los partidos árabes de haber \"robado las elecciones\"",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOUVVcUx2Q1FaUjRqLXVtOTZxWDNCdk5NUUdoeFpLbXNoQXYzc0pkeW5oOUh4OG5sUWszb3B4T3hQekU4YjZIdVlmWnhIVVo2ejhZQlc0eEJHcHFteHNFTzdRNlV6ZkJORjNoUGFtLUg0TzZkZ29XV2hHVDNTZUZCYm43QjkwSnNnTXZobTlNRENTOS1tUDdJdWlOalBDN1JDWDR4QUNxeEcxWmpjWGw2c1l4d0doVjdXcnVVVVVEcGZZelRrWjhlNjFpWC1Xc3hwdWZrMmM2X0M5Z3d3WlUtS0RPT2oxRU1Hd0E?oc=5",
       "pubDate": "Wed, 28 Oct 2026 12:26:31 GMT",
-      "description": "En directo: La oposición árabe aboga por una alianza \"judío-árabe\" para desbancar a Netanyahu France 24",
+      "description": "La formación de Netanyahu acusa a los partidos árabes de haber \"robado las elecciones\" France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
     },
     {
-      "title": "Trump sobre Venezuela: “Hagamos que sea el estado número 51”",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZ3J2ZzF3UHJKaGxVNmF2X1NfRGlkMVN1cFNUMUM5c29QS1BrZ3BKZEtxY1BXSWg0ejRhU1AwNnN4eHBSelUzdkF2d3c2Y2J4bVY1QU1tdkRUYXZP0gFiQVVfeXFMTXFLcVVaaWxtdEdXamp3OEZ6VVo3QnFwd0VVeFlBZ2YyQTE0NnhqTXAzNXlVTlFyeS1yRks5b3Vndl8tSmhsMFZ1T2FTVTlJaGl6Ry1zbHR5U1NZUENGNXlEdUE?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 11:59:18 GMT",
-      "description": "Trump sobre Venezuela: “Hagamos que sea el estado número 51” BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "\"Grave accidente de trenes\" en España: más de 60 muertos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpFSVlYdjJON2xQcWdyWHYtNkZFUUZaYnJCVGJweURFUEJsUkg1TGNBVlZwMU9XUWd2ejdKNG9mVGxxN2J5VmN3TUVrSk1LOWt1RUl4TUcyZE16Z0pmeFFzTC1VVUhsSnVsWFVsUGtVNUZKX1pnVWZMd055c3QySldfZE9rMDcwVDVWNEo4ZXpid0pxeHA1XzZjQjLSAZwBQVVfeXFMTnlsRVgzUUFCVXAxUDFUOFpoRkNIX0NHWFR4ZmdwTTdxb1dSLXp4ZjNHclhJamsxcHFuRVg4UTRKcndDelNpVFJtdjZNT3VCdGVvMFBjcmFxbHRQbVRwNVFjNVhsc1JoNFpKNFJqc2xCM2cyaG1rTnRiSkhvUHdockt2UU83Qm1URU9yUUgtUGxwRC1VTUZiSTJfc2pE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 12:05:24 GMT",
+      "description": "\"Grave accidente de trenes\" en España: más de 60 muertos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
@@ -208,31 +271,31 @@
       "domain": "elpais.com"
     },
     {
-      "title": "El Gobierno de Milei dice que Bolsonaro salió desde Argentina. La administración Trump aprobó su entrada a EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUpqY1RmVjk2cUUyRy1HR0pGYWVNS1dlQzh1U0JiZ0hxRS1NdEpEVTh3bXlEbVhTWjJKYU12dmRHeUxqakRxcGEyb3Aza01acFJuMHhwUm1BY1pCbnRLS1RhNGZ5a2gwN3g3S3BxYUtxWW5rblVvcHNha2JUanpUM3JSdW5YV2J4WEM5cWdqSHlycEtCQWcyaDlaOVhIS0VmMEVPSg?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 11:15:00 GMT",
-      "description": "El Gobierno de Milei dice que Bolsonaro salió desde Argentina. La administración Trump aprobó su entrada a EE.UU. CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "\"Grave accidente de trenes\" en España: más de 60 muertos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFpFSVlYdjJON2xQcWdyWHYtNkZFUUZaYnJCVGJweURFUEJsUkg1TGNBVlZwMU9XUWd2ejdKNG9mVGxxN2J5VmN3TUVrSk1LOWt1RUl4TUcyZE16Z0pmeFFzTC1VVUhsSnVsWFVsUGtVNUZKX1pnVWZMd055c3QySldfZE9rMDcwVDVWNEo4ZXpid0pxeHA1XzZjQjLSAZwBQVVfeXFMTnlsRVgzUUFCVXAxUDFUOFpoRkNIX0NHWFR4ZmdwTTdxb1dSLXp4ZjNHclhJamsxcHFuRVg4UTRKcndDelNpVFJtdjZNT3VCdGVvMFBjcmFxbHRQbVRwNVFjNVhsc1JoNFpKNFJqc2xCM2cyaG1rTnRiSkhvUHdockt2UU83Qm1URU9yUUgtUGxwRC1VTUZiSTJfc2pE?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 10:04:14 GMT",
-      "description": "\"Grave accidente de trenes\" en España: más de 60 muertos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGtkNERfYmVWbHVnbkdWMTRRS0xqQkVBVWM4YTVmU1ZKcXEtd2hjdkdlYlpxQldLcmd4RnU0Q3JNeW5TV0JvVGxicEszcUJGWWhScVJ4c2tRQXhWZEl2a3VyQnVFU01hMURfa1QzTWI1Q0VnbFY1eTNONmVEVjUwRmtZRkJZS3RRYnQ5YTh4U2E?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 11:23:08 GMT",
+      "description": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWs1U19MYmpWSHAyUnBPcUZ3ajZlVnA3dlRxV3pmcC1OSFk2RzEwM1V6UkVUcm5HRXhDT3hobG9VZ1ZlVDM4Q1NveEJFNks1OFZMOGJjTnFyV2huNDFGbFBKOGhOZXhrUG1mZVFqVTZnWVBJVGtWQjkyYkdfS3pLZXFYaUNEcHN6QXEyOWZFQVJYQlFxUFdQd2F2bXpZRXR5WmdjTjdrclJvNGV4c1kxUw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 09:43:16 GMT",
+      "pubDate": "Wed, 28 Oct 2026 09:42:45 GMT",
       "description": "Flávio Bolsonaro viajó a Ecuador desde Argentina tras huir de Brasil DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
+    },
+    {
+      "title": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes | Fotos | España",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRmVRc0NwVlNUU3l2TXRpSUQ4MndtNG5PcExIbGR2ODBGZ1l1VC1EWHoyZ1J2QmJEdk9XMlJBZG92SFJTSEJXNDRFMXRZc3pxNVJJM2FPbU1abnNTS1M1cVVXbVExZVBhZTJPNGI4TVVITHpsQnJjbW5WWlpjdTljVHdUekVlcVBlYnoyZDg4YVJkbDZSbHJXcFNwNi1UcWFyY1FhMmsxS25RckNN?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 09:32:02 GMT",
+      "description": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes | Fotos | España EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "María Corina Machado prepara una gira por Venezuela para forjar un “acuerdo nacional” que impulse la transición",
@@ -253,22 +316,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Comisión Electoral de Israel: Netanyahu con ligera ventaja sobre Eisenkot",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0RTdWo4dktnMVY2T21FMUE4cnBWRzVlNlYzYXZCdWI2YldkSGVTNUJTc1JfSjZVU05ldWpibWVYQ2NiSFBDT0dLRnp1Z2V0UmVSekh2UGpjVEdDUHZKYUkydjF6VHZXcy04aWRMOFhDVXV1T2tVMU8tRlQ3NzZxNkQzOF81c25VWUp5LUs1RjNTdHdFd1dTQkQzM3BqdkhrRHdwSFJUUUJtTERaN0l30gGvAUFVX3lxTE1HYzdOb0p0Xzh4amRsRzFMeVdTU25tZ1hVR2xwa2Q0OFMxd2RDa1lNWE84eEc0VmgybFBTMVl2VlJCRU9zZkdsLXl0OW16LUptdExXYjVuc3ZNZmJBYmV4WjhGY0dKTUF2U05xN1pzcjhEdDZPSmZuR2J5dTBHaXBEdzlmNktIMWtUX2tXZ3dxTTh0dTZrWGpIU1dCSjVlaThoOFF4WUt3ZEVoTFRBWkU?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 06:33:01 GMT",
-      "description": "Comisión Electoral de Israel: Netanyahu con ligera ventaja sobre Eisenkot DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "China's old-age dependency ratio overtakes children for first time",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ3pUZTR4N3JoWDREVnl5cDA4bW1nWXJ5NUtuR0dlNDJscE1ycmRPVXBwT3Yxa3l1UUVjVjY2Ukcxd2F0YVRzRm1wcldxZGtmUmpzTzVlTXkyUU0wdnhXaTlSaWVuZ3hOTXdWckhaTzFrTWVBX3RtQjNyRVVzYWVGMnVtRVBuaGFIN2lnNmQ4cThVb3Q1ZTA0RlZQUTd0MUk2Sy1PcXdTTXZjaFhrbUE?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 06:01:00 GMT",
+      "description": "China's old-age dependency ratio overtakes children for first time Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
-      "title": "La inventora de la leche desnatada promete bajarle la factura energética",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObU1qOExobjF0NEhwRnJ2MkVJNDBhMmdzdGNFUHNzZ1hYY1ZzTUp6SEVSdS1tY2F5YVVnTkNVMWNDY21USkpPdWtHSDR3ZU93RkRJT0JGUDI1MDRPVFJqMk5ERVdfRGc1NlVlc3hIN3E5S3VDaVNmQkZqdDEyNXhINlJtQXFfbElVc29TNzZMSWxVZmFjMG9UTzdjaFZBMDJHeEljQ3ZYOWpDUUJlNEZRNmdHbXEwMThzbDlZVHNaYzlBVjTSAdcBQVVfeXFMTXJMMlpma0pkYTQ5X05wMl9fZnhUSlJrRkFhQ0Z2MEdBQk93UjY5d0Q1Mkl4QWFPQkhrNGo5VG42QUNOTkRnMjM2ZHBlbzZ6bTduaFUyb0VqUVYzR3Iyd3VxUGczT3VJZUpYd2hramV2S2ZPMWNWZFd0UDN1S0FCMmVMUmYta1o2dVFETHpScWpjU3k2YVlqa1VHU0gzQ19SNzJtME1veHp0TGt3cmpxc3h4UlFGZEFxa005NjlrazNmekNtV3JuM1FBeTM0NnBlU1VhSHAyeUU?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 04:30:00 GMT",
-      "description": "La inventora de la leche desnatada promete bajarle la factura energética EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Las conexiones que tienen las elecciones en Israel y EE.UU. y el posible impacto global de sus resultados",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sNjNSR2VHeTV1dTlJdE83b1VCZFdKWUhZOG5xck5lUTNWYTJqNl9BYW9FUjI2Q0djVUoxVHZCZU05QmpmZHd5ZGl4UkF0MEpnZUcxTnptcnhCSGZK?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 03:14:02 GMT",
+      "description": "Las conexiones que tienen las elecciones en Israel y EE.UU. y el posible impacto global de sus resultados BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "“¡Esto es Estados Unidos!”: altercado entre funcionarios de EE.UU. y Cuba en la ONU",
@@ -278,15 +341,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcGtkNERfYmVWbHVnbkdWMTRRS0xqQkVBVWM4YTVmU1ZKcXEtd2hjdkdlYlpxQldLcmd4RnU0Q3JNeW5TV0JvVGxicEszcUJGWWhScVJ4c2tRQXhWZEl2a3VyQnVFU01hMURfa1QzTWI1Q0VnbFY1eTNONmVEVjUwRmtZRkJZS3RRYnQ5YTh4U2E?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 02:20:17 GMT",
-      "description": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "Kylian Mbappé se disculpa por aparente referencia a Mao como \"dictador\"",
@@ -316,15 +370,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Elecciones en Israel: ¿qué pasará tras el cierre de las urnas?",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlROVEpmTzF4NUNNWndxWk42cEFEcUtLOFdNSFQwMXB5T1FRc2NXSlF1TkVhQzJJeEdRZmFPREZzcVA0UnlRV0UzM2RkTm1ONFFlT1JlRDhGQTFEOGFxZHFzSmRCZXN5SXRPRTJHODFkaG5aT253RDUwMDNkdmJBUVFlcENacl9qUTZpTWE2WlRXaFJhZ2RfNkFEaWZhdVBjLU9jTlctNktPUFlrLXNWZVlfUQ?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 18:54:37 GMT",
-      "description": "Elecciones en Israel: ¿qué pasará tras el cierre de las urnas? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Machado regresó a Venezuela. ¿Qué significa eso para la influencia de EE. UU. en el país?",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWZreTlsb2xWVEtmaEpkQ3JBellYUGlFdm9xNGpVSXBYNDlZUGpXX3dLX0I2WlhyLVRPWF9RV054Nk1tVE1lNWVIRTMyTG5QWS15MG9YTC15cEh6TWtuVXpWMFIxTnFMY29hTGVEbHFjaGtpRmY4X09RRXdONnpTamI1ZmkwdEd6REtDMHVxUnc5c185Yl84eS1XMjY5Ym1i?oc=5",
       "pubDate": "Tue, 27 Oct 2026 15:58:09 GMT",
@@ -332,33 +377,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Vance sobre la gasolina: “Se disparan cada vez que algún dictador de pacotilla decide hacer un berrinche”",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGJIYlM2OW1yS3ZXZm80SnlSYkxqQTVIYW14VkdSbk1fOGpDTnVaVGg1Q2pxS2NCb2Z6Mng3TUNESmlNUGdQNjBCUnVPcnFPWUlFbEp5a0ZhWFY5SlpSZFhkcWZ2bVNyUm9yNFFrSFRjV1NwZ0k4YWltZjVZQ2dLZkQzQzhUbS0yYWdiUFRRUFY?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 15:03:41 GMT",
-      "description": "Vance sobre la gasolina: “Se disparan cada vez que algún dictador de pacotilla decide hacer un berrinche” CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "¿Dónde está Flávio Bolsonaro? Policía cancela sus pasaportes; según Argentina no cruzó la frontera",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRVZLNzRUN0pyMTR0bVhjMTdhcjVQVHVPUXhKOU9GTGpfZk5DemZLUmg4NmwydVRpQzUzY2J4TmJGaDM5ZDNaVFVzQ2hPc1k4OHdIb0g1ZndUQ1MzV1BBUngwbmFGZTg1VG9HWmlQdlFickY4VVplWnd3a3NXUG5wWERZUWNVX0dLTjhHcFJsVmdkc0t0MlNxbE5MNTJrSkVWVFl3ZVV1TGRsZmdMNHZUa0pYNWlKdUxKeURBWkgySGFKLTBxZzVFTGRXZm94NkxIekVQdkY3Y0hzTWp1ZTZZaTlFeUJ4RUlYUnFBS3hHN1VjRGIy?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 14:45:38 GMT",
-      "description": "¿Dónde está Flávio Bolsonaro? Policía cancela sus pasaportes; según Argentina no cruzó la frontera France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Flávio Bolsonaro huye a Estados Unidos a través de Argentina tras su derrota electoral ante Lula",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd05LcTVOUGxRX3ZIdW5XR3RJVzV1dGNJODlSOHd4MkpLUVlHaWcwSl9HcVNEMk9FZHd3ZGIwTndHd1pQdVFPd0RoSTRqRjBaZTJKN3U3U1lHZXdURG5BZVgxUV9jY2luS0VQcjlvd3JwdmRFSC1UNS1BTzBnbW1RVWxtZGdiQklZYzNUYVdublI0cHdXYUZNVk11bmdEN21WOFpyNDd4RkY1ckF3V0M3VTI1dGNkSklr0gHMAUFVX3lxTE9WRDFhTHlOZUJUZExqSVRnVzRXOWQ0eV9YbTZKRDJaYTl1a2E3R1lFTDhGeV81QTQxUWtMSW9zZ0tPell6MURqdU1fQ3JwNmd0TmEtLTEtYzlfQnJuQ1hyQzhUZ2JsQkhMZVczN3pZaFo2UXBoU2Z5bWk0RThwbGNNeFhJZWg5LXBMVUMxeFF6ZWlkai1QMU53LVhick5WZ3ljQVpwcm9zS3N6cWk1WGZxbHNxYUt4TFJ2RFJFc2NpYTlpY0FjbGdNeXVrdg?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 12:58:55 GMT",
-      "description": "Flávio Bolsonaro huye a Estados Unidos a través de Argentina tras su derrota electoral ante Lula EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Swiss engineering company signs deal with Venezuela's PDVSA",
@@ -377,15 +395,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQWNKclh2eDRPRVptUkJFVWZGRVNKSEo3OGg3eVJGODhjUUZxY1BwUnZJVHc5Z0M4RlRlUzRZbTdnVG1XbHJaYUFEV29xUk1mcTF3RmIzaTJodENBRllmWlRGcnlidGNiMzVMbXRmQXlUcmVWeEQtRjJ6ZHZadllJbW5JM2taczhMbFZaV3MtNUtaeWxtRWtGYTVkcWV2ZzRmZV9yVkxuZWZmZEJ6RXVBVTh1Zk9LNFhYZE1XdVZTZ9IB0wFBVV95cUxQbmh5NjE3S2syTDlZOVVUVml1aXlESmdyOFdZRGtCcXBDdW5aa3V0MWpsWTNSTVNrZTdZdEttdDNhWHA5MDJEeDZISEhhdVNXaWladzc4NDV0YUZZRFplbTZzTzdWeDd0azYyVmhaRHNIMFVsNVFaZGFLQ0phV2xyN0pMemlyRjdfMTNDZzVnTmNIMExxRXZCM3FpVnVURXZmd3JyaFJMVXdaaDYwVnJQM0pPR1RLbVQxRUhFeXRvWTJPb0JWY3dnMHRENlhBeUpud204?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 04:40:00 GMT",
-      "description": "André Janones, el general de WhatsApp que le dio la vuelta a la elección de Lula EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’",
@@ -467,15 +476,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 15:48:02 GMT",
-      "description": "Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
@@ -577,15 +577,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Europe",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Mon, 02 Mar 2020 14:37:57 GMT",
-      "description": "Europe The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
       "title": "La Liga fixtures | Football",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdFBfZkNhcDF5VjZZRTdkQm0xSDlFMWk4LW04ZTRDMC04ejkzTkRWMmhFQlF3WXRBZWZFM1pGRmlWMUNtVy0xWHlabUlDREVsazNRbi1YaDVyRlhRc2t2RjNPb1NtZkc0Z1ktZw?oc=5",
       "pubDate": "Wed, 11 May 2016 15:59:04 GMT",
@@ -599,6 +590,15 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
       "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
       "description": "The Guardian in Spanish The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Rise of the middle class: lessons from Latin America",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
+      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
+      "description": "Rise of the middle class: lessons from Latin America The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
