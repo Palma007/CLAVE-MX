@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:56:20.437Z",
+  "updatedAt": "2026-10-31T09:04:19.168Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,69 @@
   ],
   "items": [
     {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 08:13:10 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Investigación BBC: los saboteadores rusos que atentan desde dentro del país para ayudar a Ucrania frente a Putin",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JRUpRS3RWdUZLWkJPNWdNUkJDSkF2WjhwMWtheGl0MTZ4T1J6Nkw3SDc1YzFjZjZYNS1fQmx4Q1RVU0NZY0lQa3ZpaW9aUkpqTDFuMjJ2TVhZZ1hY?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 04:04:11 GMT",
+      "description": "Investigación BBC: los saboteadores rusos que atentan desde dentro del país para ayudar a Ucrania frente a Putin BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "¿Qué pasaría si Trump decide no reconocer resultados adversos en las midterms?",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaTVQVXRXNHc2Z3FCdDJMbG90UEJ6TG05R3Q5XzREZHFtRGY0TWR3R0ZwUXNHTngzbmFuUDlRZi1sSGNxcHVpekFIWGNGVkFIQXRzcTFBMk9qaXBtNUZXdkJUWG53bEJDUXM5U3huRVREa0hSaVJfeEJPNm8tbllPTUFKZWVuWXB3dkxpc0tLdHVxT1c2aXhpczVhNk92SUhfamw0cXZyV3dzbklJV1F0Skl2d0RuVUUxTXFwbU9KaENndFd4OUtwT2RfYjViV3JfYkh4RWxuQ1pxY00?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 02:42:17 GMT",
+      "description": "¿Qué pasaría si Trump decide no reconocer resultados adversos en las midterms? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Despliegan a la policía en Polonia ante un enfrentamiento entre el primer ministro y la oposición por el control del Tribunal Constitucional",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdWRrX2swTTVQNTdLNEc3UG9LdUQ0U1ljc0FJcWxKR2MyN29NVE5QTW9hVVRKTHVleHZicXpXUW1tLVRJZVpBbDhGN2daWDNubG5IQ1hGSTEyLW9n?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 02:14:11 GMT",
+      "description": "Despliegan a la policía en Polonia ante un enfrentamiento entre el primer ministro y la oposición por el control del Tribunal Constitucional BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Escala la crisis en Polonia: la Policía rodea la Corte Constitucional",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFVUcUNXb1Y0cGtVY01KRVpSc2ZOWllCUDlJOUtiQkdkTXdVRmNLX29mamM2RURYekpQMXI0UElFcXNEWldLemFMTm5Jclh6LVBHb0RoWXNCczRMTGhDNERiU0h6VzdmekNMYjBFQUdCcUN2c2k1TmF4a1RBQUQwYXR6Yjl0Q3UwdEhvTnhzemU2TEl1N05PTloxQjBZUGFVeDlxWjhvVmp1d9IBqgFBVV95cUxQTHhLc1piakwza0lVLWlIZnMyR3FUZXZNZjhBWGVGY1BOM1NtVlVzMFdJc1lHTWt2VXNIU3ZRZG9vaE9CMzNSZ2hVb3VubDZubFJXOWYtdzVpcmk3X2lEQW5ZazdvNHpuS1dBcVp2VHY4bnh3XzVBdUxQcVRnMy1QZG1nVFdEYkxreWFfMW5uMUttNkl3V3pqMWZ0NTE1eG0taF9vUWFhMWlvUQ?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 01:13:21 GMT",
+      "description": "Escala la crisis en Polonia: la Policía rodea la Corte Constitucional DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Trump se enfureció por la cobertura de la cancelación de sus mítines antes de ordenar que se reanudaran",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUxuU3ZfUE15cFRWaE1wQ2dZaHY0Ukthb3FhTERiOE8wM2V0ckViUjVFaUxzZkRZaFV5cTR0b2N4WHpUblcwT0ZRb1h6SXRvVmdhT3ZtV3hjR2xSemtZLUxPaFAwaEVtOUtpaTRIQnJhbktLSzhlWnVNTzNxZjZFUGhxRnZ3cWVpOElwU3U1TkVBdUdJU0E?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 22:01:00 GMT",
+      "description": "Trump se enfureció por la cobertura de la cancelación de sus mítines antes de ordenar que se reanudaran CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Estados Unidos detiene a Inés Gómez Mont, prófuga de la justicia mexicana por lavado de activos",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1RacGRYemhsaDVneThwbjYza0ZhcV94UDhTVmhBdzktcGdFZm1faldrQzhaWHZXMjB2VWVFbFJ4Vlg3WkRpTkwteTFXRkJyX3BLTTItY1FxeEVIMFVuSHc1OU1QOTZaaHFVTThtdzE1dXQyOHpPS0pXVWNYQkVzNWdXR1pwLWVqQ0RpS3RZRkpLdDV0em9GWDRnMUk5ckYwb1J6NkxTTzI2Rm5mVGlvZWdmRDA3b0JlWV9RLUZZY1N3d2xYd1NfWVpuck1QV2wtaUHSAeYBQVVfeXFMT2otV2Ntb3NIREs2eHdqQzJlRjVOLXBRaktiS3hxWGNUOHhEMWw1c1U2VDJ5Q1M1TUhMRjBmaE9BYmR5SHJLVk1ycE1pZkJpZlhYY3hObDRvM0d4dzczRXFWUTUybC1XM25Fb3hJRnNIQ1dVdWgtS0dZZi1ZZGtXeHIxUHlwMERwTUZFX2M3Sk9qYkFzYlBlbmMxT1F4U2p2Yk04YmdDVm00RGNpYWhjbXRCQm53TXZ1amhuR2VTYndSdDB3N1dqYVJtRkRrWWpETGZJUFd0TTd2M05WdEJMZ1VSZzVCeGc?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 21:36:35 GMT",
+      "description": "Estados Unidos detiene a Inés Gómez Mont, prófuga de la justicia mexicana por lavado de activos EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Un hackeo a la empresa Binance afecta a US$6.300 millones en activos digitales, el mayor robo de criptomonedas conocido",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FLWNnbzBZTEktRmJobWVXT0I3Qmlrb3NybVVuSXRBRWZpQkFGYVZLZjNLQmRTWUFDWXNVXy1UUkJrVEI1V2dWdVFNWDB0UWJvcWx0eWVQMFZPWHNy0gFiQVVfeXFMTjJtOW5xNl9CNEdENGgxMXlXaEdlREVMU3l5bDZPMHpiYWxYYUhsZkpaQkw0MVMzOUhVVG5KcE9FYmxGWEg2UUg2TWxOcjNacjhJcDYtU1U4TGNCekVlTFFBVWc?oc=5",
       "pubDate": "Fri, 30 Oct 2026 21:14:20 GMT",
@@ -73,13 +136,22 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "El ultimátum de Bukele a las poderosas bandas de Haití tras el secuestro de 4 militares salvadoreños",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84LXZsVVBfMUs4UXhwU2Y4RmFvZWpjR3dBNWgzRDRhSUYxS0NHaTdPOEtkMUdlY0lUMlU1d2ZNTXhsMTNfX0hzQk00UmQwMUJrWXNTVkV0ZFY?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 18:34:31 GMT",
-      "description": "El ultimátum de Bukele a las poderosas bandas de Haití tras el secuestro de 4 militares salvadoreños BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Argentina niega que Brasil haya pedido explicaciones por huida de Bolsonaro",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTlrYVNXWTFwRFkxWFpCRWdFTXhIVVRvMzN0UWxfa1poWXNicEpwVzRtY0J4VDZmVmYxY09WLTlSZ1EtR0NyZUhfVWZYNW1HdTUyS3RaN0FYcDhmTF9DSTl1X1ptcFpXTkxza1MtZTdORktIZEFDMmx3ZW1GMUNjVExJUFdHdVdQVXFjWmgwcUh4N1BaR3NRTFVBYnJKaXJrcmZBYTN5Yl9oYVAx0gGsAUFVX3lxTE1hZm9LXzlRY0Y3QkxtdEVJOFR1SW9CamhzSXFqaFp5NmRybnRnc2dVUUpMQXNDWHBBV091NUZDaElNS19GcTI0c3VOR2xtUkFmR19DQ3F6T01UV1FmMC1ZX2prcWF2SmlsQTNvOU9SUUkyaWo3MTNPY0lWWGwwU2RlZE9XRlFHR1E1RUFvdWxuNzZUMnA3RUV5amtOaFZuaXVYbl9DTjV3ZjJreGE?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 20:05:26 GMT",
+      "description": "Argentina niega que Brasil haya pedido explicaciones por huida de Bolsonaro DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "León XIV se convierte en el primer papa en votar en unas elecciones de Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV0RIMFFWVGRoZE5jcFRfT3lhVktWQV9PRVlmM2pQYTdXeTdRMnc4TjhtRHEzdTcxRFJ2S0FaaV9GYzktc0o5OTJxU0g0S0NXUm16UVNfRUhFWWlPYkg1SkhHV1QtTlFFU3EzVUdrMWN1TkYyTTExTE1PNHg5dm9lcTRMei1URmVnZllXVjBzT1NPMFhyaVdWOHR4UkhocEhoMTQzZ2IxV0J4UWhwQ1hpaVVTRWpXNzVUVVBBWk5yM07SAcABQVVfeXFMTWN1MHB4UTNTOThOSDJLUF9ycUxkSjNEZ2ZoeEFnUnlMQmQ1cFo1dnRQeWVvaGtEMkRmZTFqWll1WUJMdkR3cGpmYmFpTTZKd3N3bVpHaXpFYkRZUnd2eElybGIzYWtpcVVYdXc5WXd2R3dMODhvTzhoWlVnVmg0d1VUdlBuSmNiVDliaWVjQ0Jta1VvR0JQS213dVhfTFRUVnNabUNKVUVDZmV5ZDFTdVhMbUZ1UVlBLXFuMTZBTW1k?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 17:27:50 GMT",
+      "description": "León XIV se convierte en el primer papa en votar en unas elecciones de Estados Unidos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "\"Hay más en la vida que solo competir y ganar\": la atleta que defecó durante una competencia de Hyrox habla con la BBC",
@@ -127,6 +199,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "Trump estalló tras conocer el contrato de 50 millones de dólares de una exabogada suya",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLUFKeTVfem9URjRJTnVUbDJLTHZ2cGp3a2dIblhaNkR0SVFjelF1N1dCQXZsMzA2bUZkSGJBWkpEdDBvazVJYlppaG9OZUVkQ2VRQjFIY1VFZUtqUldmc0h3YzBjYUZXY2xQakZRb3NKODk1ZjFIMm1TdEpIMHlWZ2VxT2ZIQTVMUkNjRFpfWXF5MWtzWGdhMlNucFFhMkwxQ2ZiYXRR?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 15:44:20 GMT",
+      "description": "Trump estalló tras conocer el contrato de 50 millones de dólares de una exabogada suya The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "El papa León XIV hace historia al votar en las elecciones intermedias de EE.UU.",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGpTSXRCaEEwRlVLc3BucE5FQ082b2pxWWZ3NzZndDVQQmdLODBVY3RCTFNYRllzcEI3VUFpWXdZM1hCZ1lMY25wd2hPTmFSTDEwcUdOZkJJWFFzUll2RVROcTRCQmdpVTZzSzdKME5uc3BqdjRqeHVtWElPUURHNmhSOEh2NUQ1UHd6V0Z6NkRLTWFtQnF4bEY0R08?oc=5",
       "pubDate": "Fri, 30 Oct 2026 15:12:00 GMT",
@@ -143,6 +224,33 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "José Antonio Marina, filósofo: “No todas las opiniones valen igual”",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRDBQak51Q2tPcXZjRURQbGVqMER3Wkd4UllfU0loOWo0cHJxUEw3TnptVVJPRFhadklWUi1fWXRqQnhGX19hbHFhS2ZGU3NrR2k2MWs5d0doMFljbmsxRl9fYUVIQUk3VWdpZzRLN3JpaTYtRy0zelFNR0tOYmZEaXAzdmZFTk9oV0cxRkhidDFzTVlQNTNZNE13NHhyQXBrdU1kOXNVYUxwMTlOQXBuZm1rMWFDcGpkLXE0RUNSYjU4bFF5VWc2WUN2TnpXZWtKZG0tcU1uZ2VqdG5CTVFpRnpDMGtBbXQtT3NHYVkwOXjSAYQCQVVfeXFMUDZuUWRhOUp3QWhsblVRdjJ6bVFKWkFERlVUQzRQMHpLRWxUd1RWWVVCVTFMVzVmQVFGRUhROVpORjhraGs4QVYyY0dxQUVpQngta3NBZmtXR1NwZ3lzaENkbXZxMS04TFF3aXQwYmMtQmd2NHhrYmZ6cVd5M1pkSWRlMElHRmdfVWVNRS1pY2ZrV3RWRzU4M01mYjFSeHpiVFVFYnFzbU84MnBvR0tLNnJSYkgtNzBhS2FoRjJNN1Z2T0ZxVDZmNVFNRDFabUFseWFCSWx3aXBlNXlZclEySDQybWcwd2pwb1o3OGs0OS1FZXlHOFlPOXZjSExrU2VCRWppMEY?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 15:00:00 GMT",
+      "description": "José Antonio Marina, filósofo: “No todas las opiniones valen igual” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Varios petroleros arden en Ormuz tras \"chocar con minas\"",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1RoMW9zaHZSdkU2ZjlEX2RMcXBDMEU0Wkh0Tmo1eGNfUGs4NTBDQzNSNjBuQ2xmeGpDX3dlczRTVjFXd0JzdGZNUGc0czZaQnBNZkwwNnFxZW1jUFRtOTBWZmFCWjZlOERQN2ZtZHBNRHU3RHFYM0dqWDlwdzM0U28zQ1F5ejJ3Y1hzVXlrc0fSAZABQVVfeXFMTzBobmhrQmhVRUlubHVkbUpiN1VocFJIT0w5STZiVzYyaUdpX29Ma1BMUjJTQTdmX0ZnNFhBbVo1Q3dCYjdlclk3YXZwMGZ4UEVsVjVKZno3TE5wMk9naHZEanZ3YlBqSjVuczFRSjRHZGlzTU91T1VyR1JzdjRiUkduZ2U4c2JBSHRBY3JiYVp6?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 14:14:18 GMT",
+      "description": "Varios petroleros arden en Ormuz tras \"chocar con minas\" DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "\"Fraude masivo\": los miembros del equipo de Trump a cargo de las acusaciones electorales y lo que podrían hacer en noviembre",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaXdOdUFnWlRBenROS3BOQ2VETkZMTXY0TWl6d3FSZmlPMTc3OWxDTjc0T3dWdzlYXy04djVxVnQ0Rk1NUDVGM2pPNnBlNmh1M05iN3loMjAyUkFYR1duOFFkT0xNUHphaDhUYndzSExTMkdDdzhCTmVLR2NuSWZPNlA5X0dyMWgzeENWWHVQT3Bzd0t6TmlRU0FING4?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 14:03:00 GMT",
+      "description": "\"Fraude masivo\": los miembros del equipo de Trump a cargo de las acusaciones electorales y lo que podrían hacer en noviembre CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Querida Fátima",
@@ -163,31 +271,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Golpe milmillonario a Binance: así han perpetrado los hackers norcoreanos el mayor robo cibernético de la historia",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxObnRIVGhOQW11VnJpWHMzNzBNUzd1WmpXSWpSd2hJM0Fwaktkc3lodksyaEMyQzVoRTkxaE1udEpIUGFPQWVRQUQ3aEZ5OTVVb2pEcTdvblR4Ukw0cEwzbDdaNlVDT0w1NHptSGhPNjk2MGx2QlpCVXNEY0lSdl9vaVVVN0pGMFdYNUZMQWM3UU5zQ3RLdkc4OThxQTBWb3VqTDRkbkZpWlNpOFZIWG1KVXZTQWlsTnVScncxUlhpLTktYWN6ZkRzdzhjdFd1ZjJ1Uzg2SnBSODZTb2VsQ2NCdklyTmxXVHpDcnNPVkgtT1JOUkk?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 11:34:19 GMT",
-      "description": "Golpe milmillonario a Binance: así han perpetrado los hackers norcoreanos el mayor robo cibernético de la historia EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\"",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtGSGZsdWg1aEpVU0FzRkI4R01qMWVKN256UUFtNjYwRGZqVUlDY0c2cTFQUkhTa1dCZ3JvelJfNm0za0V0WVNsUW1FeU1TdXMzcTl3MnRLaEdIR3JEMXBqUUljMW4tS2Z4Z3ZjeFV3cEJYSktnNEd4OS1UMWs4bFNEWUxCN19qMENIVzA4RzVwazJDTVVfZzJnSTdHTnBCRlBrUC1ucTU0Yzlwelo0S3NR0gGyAUFVX3lxTE14ZmlEcmJlVjE1TlowdTljYXJvZnQydEtWaTgyOWpPd1hPT2hLc3RUbWlkemRLc3BmWnM5Rzg0Vm05dTcybzVwVkJzZ1VOeWJ2NnV1d3I4UE9WUkxueDM5WWFOZ3IzMjJYM2QzWklpa0NOMFZfWGFrZlFNOTdSeWpTa1VmMHVuMUMwenBCS2VUckdIVDlzZWJNWTJvVWJjNjRReS1CUWp5b0xHMngzSUE0a3c?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 11:11:25 GMT",
+      "pubDate": "Fri, 30 Oct 2026 11:13:52 GMT",
       "description": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Tengo una afección en la zona genital de la que a muchas personas les da vergüenza hablar",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03aFZIazJQU0ZvUXlJb05ISWZtYThablcxX3BFMU1xeVV2RTBfN1FfdnRPNXhzSWF1cU5vR3lZajlzMXpRMDNHc3VmTHg0V21iQ3A4MnkxdzZZaV9P0gFiQVVfeXFMUDNqRXNrSzFTanJFUnYzXzJ0NHFtN3FTNWFaLXJ4VW9WUTdjazlyelc4SWtaLUxFZ05nMVVVUDVaV2hsNjJySHExUGtJUWpJM3R5ajZxcnFHamtFa2xFQXVrQ1E?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 11:09:06 GMT",
-      "description": "Tengo una afección en la zona genital de la que a muchas personas les da vergüenza hablar BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "León XIV vota por correo en EE UU y se convierte en el primer papa que participa en unas elecciones",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ291a2JJZ2hXS05QZVFFQ3F2YTlzWGFycGFkMTBsYm9meFBwMUo0NzM0cHQ5bkd5aEJyRlo0UHBaVHpRQU5aekVXREZHQmIyNXZ3MDB0MV9kNkVTdk85Yy1HUnZEV1ZDODJrRmFSc0NQbkVNZlp3Mk9PYkQ2cmRkdl84dGZMSVh2VmdNT2MzUmVwaGlOcW1IY2czOGMyelRjXzZqVTFSdnVfckxkTnhNc1IydVB2bDlZQVdJZ3duWEpldGtuemR3cWRaam5td9IB4gFBVV95cUxPVXIxSkNudWRpa0ZkZFJDcDdVa1pjVzRqYjF2aUVFZ2dzR3FXVUJDcFpMaldpZVVGVVE2QUlRQXVyNVNUenlLWURETk9fbDIwMmY1aEFXNDlHOFhJdXg5TlA4c0RTbXRZaERjZHNnOHcyWnppNGUtQnZTelR1dTR4T0xDakdqcEtnTDkzeGZrcXlWTWFUQkcxeXNHcy14aW9YdnRrUUVIcXd5TXh3Qi1od1FHbDZJT1BzWDBBTGxvdnZUXzhNb0EwS3hBRHZnaUdUUWpOOGZpNkVsdTJBMnNQSXBB?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 10:47:39 GMT",
+      "description": "León XIV vota por correo en EE UU y se convierte en el primer papa que participa en unas elecciones EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Texas se apropia de nueve islas en el Río Bravo y México pide que se respeten los tratados",
@@ -199,28 +298,10 @@
       "domain": "elpais.com"
     },
     {
-      "title": "En la trinchera del IMSS: “Hemos llegado al hartazgo, por eso nos encontramos en las calles y no en los hospitales”",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRzJUTDFGcDRSZEJTd0lNbVZqZXpYNWFPX3NwdDRyQ2NqaS01QTVob3BaSGhiRng0c0l3RjRPSFExWFhvM1pxUVM4UUhHZWN6VldDeEt5QkVIemZRNXdzR0FYNXUyVl80bFBsZ2JyaUlZVnlTaG0tSG5MMkt2OHNEclg4UjRMdzFRMWh0bm5FVHZsTjVYd0toUVQyNEVDWTI2c2dhTTVPV0hQVjAzVnUzdDlWVG9kbTVlVF9RYm80Q1lQOWtRdW1OZm1DN0pwWm9yMjFWbTZSY25XRFRQWjI5ZE9CbHE1WXVkdXlPWUVRR21vZXhYVTA2VkQ4aC05cjBO0gGUAkFVX3lxTFB6SlR1RS1vdzYzRFJDWmV0Nm5CYUljR25rVnpKelRkdG1rZmdKNmtVVVZ2N05NQ1Vmb1Q5OUVLeUhoUmlvelJVSGUtNkNPMHZ6Y3JVOEVIR0IzN2xNU21jc3lncG5TMF81ckdpc1JhdkplT0M4ZEdkN19vNnlxbjkwMUJrMTh4R1hZV2lPX0o0RHozR0tiaXZUb0R1MjlRdURla1pPaW9RVEpyNWpRTlpLM3VCbjEtU3RPZVB0S2tuV1VNd3lyX2pDaDNvT0lucHJucXU5a2FwLVdqOENTTlpQX1BVNllyOFZDTEtiOFJTMU5VaVlYTGlrSzZ6bng0OFJab01oaWdlSko0UEhlT2RFMW1TVA?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "description": "En la trinchera del IMSS: “Hemos llegado al hartazgo, por eso nos encontramos en las calles y no en los hospitales” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Varios petroleros arden en Ormuz tras \"chocar con minas\"",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1RoMW9zaHZSdkU2ZjlEX2RMcXBDMEU0Wkh0Tmo1eGNfUGs4NTBDQzNSNjBuQ2xmeGpDX3dlczRTVjFXd0JzdGZNUGc0czZaQnBNZkwwNnFxZW1jUFRtOTBWZmFCWjZlOERQN2ZtZHBNRHU3RHFYM0dqWDlwdzM0U28zQ1F5ejJ3Y1hzVXlrc0fSAZABQVVfeXFMTzBobmhrQmhVRUlubHVkbUpiN1VocFJIT0w5STZiVzYyaUdpX29Ma1BMUjJTQTdmX0ZnNFhBbVo1Q3dCYjdlclk3YXZwMGZ4UEVsVjVKZno3TE5wMk9naHZEanZ3YlBqSjVuczFRSjRHZGlzTU91T1VyR1JzdjRiUkduZ2U4c2JBSHRBY3JiYVp6?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 07:05:11 GMT",
-      "description": "Varios petroleros arden en Ormuz tras \"chocar con minas\" DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "EE.UU. expulsa a diplomático cubano tras un altercado en la ONU",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUVQZ2NXS3BSdXJyS2MtQnFvakRLa0s5MmE2WEVWT3RrMVkxcE13Zmd4UG45bWdvR1Y5WXhUaXk4dFloamNmNC1QUVpuVi02aUQ4OWJRQ2EwNk9IR3VUYU8xUllENnRBcnZWV1FrTlFSSkZyelloWHpPYU1jYVZFMjhyQlpoYVhJejFBYURjNGEtWFVWdnl2ZF90OXpLUzFz0gGgAUFVX3lxTFBrSl9FdTlaMzFsdXBfV1Zta2s5Uk9lOUpKVWRTMFlYM2RlOWtIMV9SRTZZNTJuaWI0TnZPMkk1Vk5UVThDbG10OTgtcmM5ZzY2UmdsRDJYcWtJWkNycVNwWFl5N2RHRVV5OFpCOEFGNHA1SUpLZ25YSnFEMTFDcVB5QUIzS043SS1GRkp3X3hGWi1tUjFCcEdndzg2UGZLN24?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 04:32:10 GMT",
-      "description": "EE.UU. expulsa a diplomático cubano tras un altercado en la ONU DW.com",
+      "title": "Autoridades de México capturan a líder del Cártel del Golfo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXNUVV84T2hwSWtlYmlOUmFFRFMtbE1LWXZrSnlYbTMzaUdzdTFoWXo1QVBUSDhxZm9XWmswZmZLV2twaWdmQ21vYUpGNFpwMktEbGJGT0hWVHdOREpSSW1oQ1V4Y1ZMNHlnSzNSS1d5NnN5cE02T1NidVRTWTJVbEszVGFUVE9zeFg0Ukt4M3BpQzRSNDBreGJvZENQbDVBQVFzTmp4d3NoX0XSAasBQVVfeXFMTmpKU1dicF9oMVhSS01USnQtR0gyLV91Q3pVZFhpZENaS254RjdsNjVYdGZfYURZYTV6WXZDT01NZzJyQjVoNjcwVG0wNk9QZFQ4Y01BX3B2VWh0cXRidExVNXpVUHJGODhpN1R5ZHpQSVczVDJsNnk2R085TjZETE1aSGlnbWc4WU9FVVJzM3RkRmZNVE1Db3RaMnJwS1ZvdWdMVUtJeFZyUHFn?oc=5",
+      "pubDate": "Fri, 30 Oct 2026 05:36:28 GMT",
+      "description": "Autoridades de México capturan a líder del Cártel del Golfo DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -235,76 +316,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Autoridades de México capturan a líder del Cártel del Golfo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYXNUVV84T2hwSWtlYmlOUmFFRFMtbE1LWXZrSnlYbTMzaUdzdTFoWXo1QVBUSDhxZm9XWmswZmZLV2twaWdmQ21vYUpGNFpwMktEbGJGT0hWVHdOREpSSW1oQ1V4Y1ZMNHlnSzNSS1d5NnN5cE02T1NidVRTWTJVbEszVGFUVE9zeFg0Ukt4M3BpQzRSNDBreGJvZENQbDVBQVFzTmp4d3NoX0XSAasBQVVfeXFMTmpKU1dicF9oMVhSS01USnQtR0gyLV91Q3pVZFhpZENaS254RjdsNjVYdGZfYURZYTV6WXZDT01NZzJyQjVoNjcwVG0wNk9QZFQ4Y01BX3B2VWh0cXRidExVNXpVUHJGODhpN1R5ZHpQSVczVDJsNnk2R085TjZETE1aSGlnbWc4WU9FVVJzM3RkRmZNVE1Db3RaMnJwS1ZvdWdMVUtJeFZyUHFn?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 02:35:55 GMT",
-      "description": "Autoridades de México capturan a líder del Cártel del Golfo DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWstSGExWXd3MTdnaFRaUklFTTVaMkkxcXFmMVZDRExoUkFMZkx2Qnd1RjhIN29KWlVackY3dmxVN0NzWHBqQTN4TmR5eVlKNEgzX3ZwaWVwU3lXcXV4WUpvc1NWVU93TUNoVFZpanR6SkwwNHZkMmptWC1GakZxU29aWkFIbUVBSElGUnkxTkpiZ01BTG1WQWRqaldYdFJXcTFTTFZuQ05jcERTZ0NiYXd6dVVpV2xacm44c3dQUXlwR1JnbHZUTndTdVRvcGg3WXRkYjBsUzJQMWpQeUx1X0pB0gHiAUFVX3lxTFBRNW05eW8wN1A2aUJzV3N2QXRjYkdQbjRleHlMcE9nOW1MMkZlRzBRWTYxZ3RRYl9XMGhhUWVpMklBT2I1VS11UUtaLVpoN2JMRTJaeXRtMTFaSEJ1UVNQdzNsQWhfa2hvZWNhWEpUVjRXR0ZweE1QeGxwTjB2OHh5UHNGLUZQSVNmX0d0cTdXYmhERFBLOGxNbVpJVnVhVDJ5TmRRWUVudmxaNzVOcXg3VW5VbVBjakJlVTFUNWZnWDkwQkZ4aF94aG9maHJ4QzZ1ZHNnNG1HRHVjeEVPQ2x0cHc?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 02:17:56 GMT",
-      "description": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "“El poder de la arepa”: los tres venezolanos que coronaron un año histórico con los Brewers de Milwaukee y su selección",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2RhRlpsVC1ieTlma2pEVk9fTkM3THcxNE12TUY5ekJCdWlLMGFNbVNZcWtoZE5oN1NnRWFsOGJzRW1Ua2JET1VhdXIwYWZIRWpFSEpVSk5OR3ZRcVBjd255MG5EeWNkWGtBc2FDa3NBTVNPM0RZQnlzTHJMeXFvVl85bDhScXRFanhyX002T2F5bGdDZ2pXQ0dhLWJnZkVO?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 02:11:00 GMT",
-      "description": "“El poder de la arepa”: los tres venezolanos que coronaron un año histórico con los Brewers de Milwaukee y su selección CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Bloque de Netanyahu supera a la oposición pero no logra mayoría para formar gobierno, según escrutinio final",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxORkREaEpiTzFaZkt1aVlZd3hockloeFJ4ZW5KM0lFVlVEZllUc3ZCcUJ4Mm92dV9VVDVWSVkzZ09rOHowbnNVdFFQTXRjVDhLZHlGQTlJUGZMRl90Z0JVcnhyOEhCSU5DQTBlT1FaYzZESEtkRVBVMUdoTkhud1Z0UnRkZ1BidG1YM0cxVzhEOVA0bkdLcEtQLUVJN3I0RGxEMFJOWHRVMXdOUl9SNVVxX2xmdVBJa3FhNkw2a2lqRXpuaDc2THZJNHVDa3ZNUWRpQjdwZWFkN0xYWTFwbUwwTV9IdEtZb1ZIdExnQ0JWSlB4VmJ2bGwyTGRJbmdMVF9KM3c?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 00:11:56 GMT",
-      "description": "Bloque de Netanyahu supera a la oposición pero no logra mayoría para formar gobierno, según escrutinio final France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Nayib Bukele aclara que operación salvadoreña en Haití no es una invasión",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGZnTk9YSXg3MG1HNTlfdTI2V3pZakdMQzhqSXkwS1JNT3BSZjdFUGw3eWNEa0xxM3BNUmJyNWY5MmpoNEVXX1RLT05WTXlKYVZmSUFTTUxjcFRITUxpVzVpZDZOUVVTUjk3MHFFTUxnQmNXUGtDdXVMcVFEa08td3lpNEZ2Z2Z2blM1dkExcG9EMWhnNTEzNjlyNE1yOFE0MV9ncmh2SEhMb20xVTFyMHBoMTg3bGozZllMWVcxSERlWEt10gHEAUFVX3lxTE9zWVdkNDZfZExlckJfMW5ZdVdsalllbHN5a25KblZOQTVLbUhZX0g4NkpFXzJISk9pTjlVTVdkUDlJZGN6RDRCUk8zUkdVeW5RejVOQlBmd1lMVFVnVndPOWx4VEpKME0yQXhqa3RXVzVaY3dNaENIT1Y0TENGLXd3MEYwM0FncXRUMVNkNmZudENyWGtyWTVoVTk4aW56RGZBcHJiclRJZGhkeEYycC1ibUM3NFdkTEg4REd2cEhYeTdQamk?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 00:02:07 GMT",
-      "description": "Nayib Bukele aclara que operación salvadoreña en Haití no es una invasión DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El mercado de criptomonedas Binance paraliza las operaciones tras sufrir el mayor ciberatraco de la historia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWlyZURzSW9UaWJRNTQxNDZ0NE5tQXNBRzctc3Izc1F3WDNTdkU4a0pxdUN1cGhmamNqZ0tRT0lDLWlzVDhlbDIxT2pFV1FLMGJfZHFERVVZMklndWJZWm1aN0NRd2lKdkhVZ0JyVVJwelp4d1loemFlMFE3SVF5TDJQNThMRklsZ1R4UEo4emxsWFBmcXhKREd3LTM5UlhFWWYzbC1jRzctMHU5TGZHV1BTRk9ELXJUOVI4d25B0gHSAUFVX3lxTE5odjJmb3F2SlFMQzZ3U2VJWFJ1RExpT2dLU2xZMnNIbEJfUXU0VkpCNjBtTURvSElucXhiNzlWVmxpVWZ3eWk5TTNkRC1Bc20zWk5MblVFaVQ0Ql8tQlFrLTZVUEVRWDFFNHhnWkJvV0FRR2w3bVB3bFpvdVRtbUtjd1I0cGdHR2xqa2FBSTcwNHY0MkdjSW9wY1BPazhOZVhVT1hBQXo0dVYwU0pkbGdOaENEdGppMWtuWFpVZTJ4eExyU2E5SEU1M1AtWDB5YWc2Zw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 23:41:43 GMT",
-      "description": "El mercado de criptomonedas Binance paraliza las operaciones tras sufrir el mayor ciberatraco de la historia EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "La broma de Obama sobre The Cheese Cake Factory que molesta a Trump y se toma el debate electoral",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMENzeEpYYnpjMVR6VDJFYXA0bWNjejJfYlFRaVdPWkxHaGtDVUZQbGRfQTFrbGdDOEdWd3pYckM4bTJsSlBaWmEwTlVZcVdldXhCSTF2Wnc0d3RzRGhsTWFMczlRMHBjLXVBblZQc241OXRVRHR4eEdiczNnU19qVFJwbzY3TllPOU5vcHpBV21QZw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 23:22:00 GMT",
-      "description": "La broma de Obama sobre The Cheese Cake Factory que molesta a Trump y se toma el debate electoral CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Una derrota, una fuga y una explosiva carta: ¿derrumbó Flávio Bolsonaro su capital político?",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSkxfZ3UwOXd5SmFiRjQwczR4TXFwXzk0RG9wOVhqSElobTBqM211SDNCWWxJdjVGX09wbHAyeUlmelJfeVMzUUR5RXdxQUE3UXZMSkw3LURwSXhoNXlUZi1INFFIT2VCRFBWNUVsOEx3NG9YX0oxNE96WnE5dGVSRDZUNUZZQllkd0wtSmZJWXBSTk9SVlQ4YkhYM1ctWkYtakFBendjc0Y4XzB1MUZaNnVESVBieERvMXlWa3UxcHc5R3F6ZlVvd1I5TVVoRk9mZWlyS3pXUWlmb1FRdS14YTBxdmdZM1FDV1dvak1CRHpBZw?oc=5",
-      "pubDate": "Thu, 29 Oct 2026 22:48:18 GMT",
-      "description": "Una derrota, una fuga y una explosiva carta: ¿derrumbó Flávio Bolsonaro su capital político? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Muere a los 86 Patrick Stewart, actor legendario de \"Star Trek\" y \"X-Men\"",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa19meWdZZnU4TFpqaUJ1TVNjeThRTmFXMlUxTUFlRXo5dHgwN1hzRDlURmoyWXRDNjluWU8wMi1KVGVrQ29yRXRYeDE5X0dQd2hJNlhQNUdhdERpclN6NU5VWlRiZnR6T0N3cGNwQ3FySnRpX0ZKc2QyV0dwQlN0c0pnWFlwbXBOclRaQVIxOXFKamU3TXN2MV9YcGZLVXc?oc=5",
+      "pubDate": "Thu, 29 Oct 2026 21:06:00 GMT",
+      "description": "Muere a los 86 Patrick Stewart, actor legendario de \"Star Trek\" y \"X-Men\" AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Desapariciones forzadas y encarcelamientos: así opera una “dictadura absoluta” en Nicaragua, según informe de la ONU",
@@ -334,6 +352,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Flávio Bolsonaro borra carta en la que se declaraba \"presidente electo de Brasil\" y cambia título por \"líder\"",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdUZuTXdiRGx3SnhZWnZrOVRDLWFIV3lsbWo1c1hQR0NvbUM0XzRlaWF0YmJNcHVBRkxRZTFpSFplOXdDYkhIOXFqT2xSRllKaGRGdmprZ08zaEFVTFJMMUVFaGZsS0tzV2Q2Q1NrQ1h2anVhSW9aeVFGTGVZRzMwS1FkdVloS1ZuYjVUWndMdFJGRnNJQk0yNy1hc3NMbUNJYVNNQ0pRakllamF1bHdlYUpXNTFmUWVtbVFiVDgyMXRoOUdTYlk0cDhQOVhZOE1mVkxYMnNNM3VLdWdpYXp3STVnTXBmNnJ3dlMwZ1RmT0Zpb1dYRm5Z?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 20:42:39 GMT",
+      "description": "Flávio Bolsonaro borra carta en la que se declaraba \"presidente electo de Brasil\" y cambia título por \"líder\" France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Elecciones en Israel: Netanyahu no ganó la mayoría, pero tiene opciones para seguir en el poder",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcGUxRjRFWUV5VXp1U29rOGxscTFNSm9rSmhVUC1EU2k0N3ZfWGhyQ0lXd1ZVTE5EZnVUS25VRUJoVWlkMHkzZXFuRG5VdmRyMS1vSUhwOVJkOXoyOUwxRHdFTTRZS2lQUE51RXJiWEg0VEZid0JrWmxENnFBSENkNW1zeUNSX0hQeUk0ZUhyRlUtc18xNWMwOUNqVQ?oc=5",
       "pubDate": "Wed, 28 Oct 2026 18:28:40 GMT",
@@ -350,6 +377,15 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
+    },
+    {
+      "title": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWJackRyLUFRaUtLeHVKVXlLcEQ3WFJHcWU5aXBjODNfSllGTGxDWUNZSUlpYjlUTGtjUU9kek5pWUpqclNaYTJMX3JxZmhGM21ia1E4VUItNmtUb0ZOblJWWWFlaXFpUktNZmQwczg3dWsyb0E5R0RSWEtZMGdDNmRHeFlhODlacWVqTGNBVXNJNmcxeTFIVDFoZUQ5TU8td0U4Z2tYNDhzUlZvZmZVbG1aU3VudGlWcHFWYU82Nno2X05uZGxhanhUVXI4RkZ6NV9fYkFkMl9zOG4zYmRYdUpxemtsZkNu?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 17:14:32 GMT",
+      "description": "La ONU aprueba una resolución contra el embargo a Cuba, aunque EE. UU. suma adeptos al bloqueo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Flávio Bolsonaro llega a Miami tras perder las elecciones en Brasil e incumplir una orden judicial",
@@ -424,15 +460,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Israel: Eisenkot dice que Israel optó por el cambio; Netanyahu defiende \"un gobierno de derecha fuerte\"",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaG9PaUh4ejI1Y0piakdmd0xkcl9QdHN5UGtjTHlLbkRqMUp4eFVFZW81U1VZWmFjY2VCa3laZjg3WHljMVRJSFB4NW5zU2VyY1ZaOXZpVFBDeDMtRm5iQXl3b0pzOGRMYndsTFJOcm04WU1YS3o0RjdJbUtzNE03RGM1X0w5ZjAyaXhucUt2VTljZXF3NzFVYnBXUmJ4dmNwc1FCSFlYU2NpREF2RW1MRlhQN1BPbEptdmZWNVJGN3dkX3lJMUQtZFhZMzJDRHo4bGt5MFBCaUtuX1RRazREaEt1VjlyblhXOGVJN0R1Y1RhSk10U3JZb2lZSXhwN1JJNWt1ekRMUjdVMkl0aF84?oc=5",
-      "pubDate": "Tue, 27 Oct 2026 05:35:17 GMT",
-      "description": "Israel: Eisenkot dice que Israel optó por el cambio; Netanyahu defiende \"un gobierno de derecha fuerte\" France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Spain relaxes initial proposal for data-center rules",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMVM0amtuenVpaXpyejJIOXBkNnZrc0wxUWJ4ejA5ZzJnTWFVQmFWMkhWQnFxTlJBVTdMcF9ULU9jR1VtVjRRZnRxTkFCYTVOcEhZRUN1VUN0VjJtQlJaUWtKMUZDZVp4YlFqU0JiODJpRFYtenZsVWIzX0JUOFB5TndmdGY3bjVMYlc3MUMtZlJFaEdrZi01MW55YVd2TEZiMlE?oc=5",
       "pubDate": "Mon, 26 Oct 2026 22:03:43 GMT",
@@ -440,33 +467,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "Lula gana la presidencia de Brasil, un sorpresivo golpe a la derecha de América Latina",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPblRPOGxyaEYzWjRiWkdCcUx1TjdXOVNfX1JROF83UmtwQ090N0trYi1Na1Q5YktScDhEMWlCQS1jdEM1R2FzZVBfS192VjF4YTVidUZDY1dlRmtQcWFCcUNwWXpQR2ZEc0MyUlhCc3ozSExjUnpwT05BZmdYNFU2RU5aa3VMM21mWE42U3ZOZXM?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 15:39:36 GMT",
-      "description": "Lula gana la presidencia de Brasil, un sorpresivo golpe a la derecha de América Latina The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVR1Y3BnRFY2b29BTWdjd29raUFzSElhdGlISko0ZWdXa3prSDJST0xSR2xVczhqT2JKTjY3X2pMd2xNdE4zcXdlSU5jTUt5UGoyUk1abU1CX2pEVHNHMFJaU1hOTlNzbE9PMEJVNklDcTBZX011d09tVHVkbXp3UnBoLWVtV1BNTkZ5OFp5b0dfZUozMmhCWlFYUjVUaERHaWZoeXUyaFU?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 04:55:58 GMT",
-      "description": "Lula es declarado ganador de elecciones en Brasil; Flávio Bolsonaro no reconoce los resultados AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Regresa opositora María Corina Machado a Venezuela en medio de dudas sobre democracia en el país",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWVLWFNXcXZCWkhxS1ZkWjNtVDEtY3lubmZFc21pdmpyMXlaMHZHRHF1aFlQVGFoeUdnRVd5SXdoQ2xDd2hwRlI0cU56cEVlY1k4bDBLY3ZxSDk4NlBmdVQ3RTVkNUN1dlQzV3lhVjlNWnVaUURRMl9xaXZERGpST3Itc2tkeE1wd1YxQU1jNG01TnF4Q1NNQ2JJWDRreGFWY1B1XzFTSVI2MDRiSVhvWXFB?oc=5",
-      "pubDate": "Mon, 26 Oct 2026 02:12:00 GMT",
-      "description": "Regresa opositora María Corina Machado a Venezuela en medio de dudas sobre democracia en el país AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Messi, Yamal, Mbappé y Kane van por el Balón de Oro. Lo que hay que saber",
@@ -541,15 +541,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmhISmJmUkcxaklFaWU0cGR2c0R3aWVKVTFRUDdOUWY5UktKa09waFRPS3FhNlF2dXBlcU5CNlo5T3Z1OWtxQ01YM2pSUnZ4WjZpSWlQczEybmlZNDFqWkdyUEM3REtQYXNjZmk1X05ZRVlYY2lOZXE5bWJBdVFqNUhzZzBrV2JTMDlONWJyUzVqTzZXcVJqeDBTMzByaWhHcnY2OGswNUx4X2lYcHhR?oc=5",
-      "pubDate": "Sun, 31 Oct 2021 07:00:00 GMT",
-      "description": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
       "title": "Opinión | Papeles de Pandora: Los paraísos fiscales atentan contra la democracia",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWx2SUwzSGQ4RlQ5NkpPOTktM0pGNEMtYUVjWkh1clNjLWtHX3NGUW9aY25LNklNYUlodktyS3VxUmpodk1HcVJrNHBGY3A4bHBCb3JiYUx2RXVKUjZGZVJLUnpSSl96RkFaTWVpck43cVd1TjRRRHd0a2pLbzRLTWs0VWM1MkJGSDMwQkxrMnE1LVBHdHRza3pXQ3lxd3U3ZklIejVBSTc?oc=5",
       "pubDate": "Mon, 18 Oct 2021 07:00:00 GMT",
@@ -577,6 +568,15 @@
       "domain": "washingtonpost.com"
     },
     {
+      "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
+      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
+    },
+    {
       "title": "La Liga fixtures | Football",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdFBfZkNhcDF5VjZZRTdkQm0xSDlFMWk4LW04ZTRDMC04ejkzTkRWMmhFQlF3WXRBZWZFM1pGRmlWMUNtVy0xWHlabUlDREVsazNRbi1YaDVyRlhRc2t2RjNPb1NtZkc0Z1ktZw?oc=5",
       "pubDate": "Wed, 11 May 2016 15:59:04 GMT",
@@ -595,10 +595,10 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "La crisis del agua de la Ciudad de México",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
-      "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
-      "description": "La crisis del agua de la Ciudad de México The Guardian",
+      "title": "Rise of the middle class: lessons from Latin America",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzV3dWhsRFNGdTVfdGFzMmJDNFNRYVBTcTNpeEUxNVNoWFBJV1J2UWFEeFJ3WTlSUnlpX1FqSjgtMi1BQ0dNSm9kS0tIUk9xd2tuQ3l4WjVBZkxNUlEwZTZZVXNqQzBZdEIxSks1QkJ3M2c5Y3JOUmR6NVJOZl9NMHdZcHViSlc5d19DVFFxNG5QMTkwbXZXWFQtRGhaOHpFcWRmZnowS2ZhQm03T3R0eFBB?oc=5",
+      "pubDate": "Mon, 31 Mar 2014 07:00:00 GMT",
+      "description": "Rise of the middle class: lessons from Latin America The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
