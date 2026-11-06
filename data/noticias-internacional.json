@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T10:00:18.795Z",
+  "updatedAt": "2026-11-06T18:35:58.862Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,6 +64,159 @@
   ],
   "items": [
     {
+      "title": "Arrestan a Thomas Markle, padre de Meghan, por fotografías suyas sexualmente explícitas con menores",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjV4Q1BfZ1F2WF93YlB1dFpJLVR2UndrUTRhMEQ3TENfSzJ2YjdRM0JuRHNyX1FudUJvWVcxRkNQdmppRmZHZWdLQXFzYVFfTkVWOUU2YWRMMmMydEo4bjhEUzJJYkxQOUJ2SjBxazlBU2Y4ZHBadzhqUXlWV2daaUYyYXFLZkxvRTNBVjQ1UXMxSWRQRjFZU0pyZTQ5QQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:00:00 GMT",
+      "description": "Arrestan a Thomas Markle, padre de Meghan, por fotografías suyas sexualmente explícitas con menores CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 14:44:58 GMT",
+      "description": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "\"Perdí los ahorros de toda mi vida. Todos deben ir presos\": la angustiosa situación de miles de ahorradores en Paraguay por el cierre del Ueno Bank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TeTU4ZFZaS2tkUV84ai1pZzBvbUJTby1pRUtUa2VMV1V6NUtnU28wQW5TNXJ2bTVxQzVJSzVYeVotWG9GZVRUWGlIbzRKUGlfd21yZThXY1RIcVY40gFiQVVfeXFMT3RDZ0dzUFpKOUsxWERxZTZKTE5oUElhaTFlVU1FREx0VHd2emsyT0FsbnJOSWIzMnVVSndmdlZ2cFN0UjdRZzJJc0dsNi0zMG1CRVhJRlZUM1MwMG1reml5QUE?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 14:28:08 GMT",
+      "description": "\"Perdí los ahorros de toda mi vida. Todos deben ir presos\": la angustiosa situación de miles de ahorradores en Paraguay por el cierre del Ueno Bank BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Europa señala a TikTok y exige que cambie su diseño",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamlJWm9ITElWVWlLRlZtbE1oeURJTlhSQng0VnNxdDNtNXM5dm9Ecm95X1E4d0Y1OGt4VkI3SjZXOVhDQUh3d1JRTEh2bExjWWRvSmxZNGdzLWkzRDhCTVQ4OWpmRHIyQ1Y0ZUVMNzRZb0ZwZ0dmZzAtVGpHelZIUU9OSmVOT1U0VXlJWmpGMk0xRTlWZ18wT0JB0gGaAUFVX3lxTE5PVmd6UWlMWnVEVVJrNmUtNmlXbmxYcUJGTThSZmQ5WHFWMjFIazVtdlVqbENFOEVsYVotb0tiT01TMFVpTEZEb3VvckRYSnd6NXl0TGIyQ3RhYlNZaDFNVl9feFVlUk05UkxKdUNUTzV4WkJRNlUtUEFyTHlXWUNuYVZFa3R3aWw2ZExIWU1mb3VmWVlMTGFuZXc?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 14:18:47 GMT",
+      "description": "Europa señala a TikTok y exige que cambie su diseño DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "India's ONGC hopes to get rights to operate 2 Venezuelan oil projects in six months",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNFZRNmVFbFo3djg0OFVtZDdBNG8zOU9jNWtrWWJrQll5WlJrMmlkck9saTQtczBOZEhZNjY2Y3BnNnU5eHBndS1VMVV4WDUwek02R05sUjV0bjgxdzBqc0FUOGdXQTF5WnlGZUJDamtTLWk5SU1mN21OVVVCZjFjM3ZtZWQtLW9vWTZDbUlQUWtWcmRyVTBlOXdKT2JyZXJxRWRjTURRWlNxa0tNQmJ1RnQ4Z0dEeUVINnJBeUNyVVB4QjA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 12:42:24 GMT",
+      "description": "India's ONGC hopes to get rights to operate 2 Venezuelan oil projects in six months Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Santiago Peña no comparece ante el Senado y sus abogados asumen su defensa en el juicio político por la crisis de Ueno Bank",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZkY0ZlJxbnNQeEZpWVBlLW1DZ1ByZUh1aW4ycTdNWDA2aHF0THQyT0J1aVhWTWljblBjSThxN052TEZTdEpjTE5vRWZXQ0kxb2t0eUNXMW9mRGlFQzk1bVVnemhjU3Z6TE10S294dTRHaUdrQ1Q3M0Z1YXJ5M0JzQ0syQTdDdWJDT0R3TDJGal9yd2JEemlMeUhwTnEwTWt2dnU4TnVNTzhlN2RlZm1vOUswZ2poV1RrbEFCaWxSdk9rdXJxajZVeDdEUVpRWE9pVDdlY3pFLVQtaEFna0dOaFhn?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 12:08:03 GMT",
+      "description": "Santiago Peña no comparece ante el Senado y sus abogados asumen su defensa en el juicio político por la crisis de Ueno Bank France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "El reto que supone para el papa León XIV visitar Uruguay, el país menos católico de América Latina",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxZFc5MUZJNXFoTHhZLUhtV2ZpOERzM2xjU2tDSVZCQ1Y1X3QtZjgyMWIzelJROUVyenJyT3FITlZ4cTRwNEZQTjJUaTBUXzJVQ1pRaTFnWlJab25w0gFiQVVfeXFMT25DaFdvT05lWHpzeG1JSzhoU095T1hXRFFzVVZMdExUMHI1R05UcGJpdVc3QTZsUTlDd0ZvSzZncHozVVlUWkIwbEJrenNCMk5reG5CVm9BZjlrUGZES3FRRHc?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 11:42:28 GMT",
+      "description": "El reto que supone para el papa León XIV visitar Uruguay, el país menos católico de América Latina BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVpVSVdsQXZzd25MRDA2NW1WOHA0dTZURDBTNXQ0MkhUUTVaY3d4c1RjQUNMZXh2M0N3X0l2RzZOSGU0U3FYY3lfMm41dHRMbl9JVEwwZ2FieWZ2ZGdKckNpUG45d01NSWpIX1VIZ25VcExfbzUwbjlLMG1ISHQzdVZNVHFELURKUGVXcDQ5M3BKUQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 11:13:00 GMT",
+      "description": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La Fiscalía pide 29 años de cárcel para un cura de Ourense por violar a sus sobrinas",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeXpqV3FwUk8zSzNxRmpsWk84dVdhSERvUUJ6LTZzdklKa3RUdnUtbmtrVlkzU05yZ0RPOEJlUjV4Vl9SY0lva2dWa0I0V3Y4aVJZLUZ2VWRMdTB0Z0dKVzZFbXBxWGkzRjlueFhtUTgtN1NTRGlBbmFybEZHb3A4bVhqaVplQ3RybnhHVVRiV2Q5ZmJyNmR3cWhZRURZd1hISkJCU2E4TGs4Rm1ENG1kTGw3SnU0dHdxVkctdHFNOGl5R195dUJZZHA3VFhFdjDSAeMBQVVfeXFMT0NVdldIeGFSNHQtREpvQkg5a2NEb2JIS19oc0NWMHNYNXg3RWpBVHBmVWNWVzN3V0JXdzlRMGVzNzZVak5lZ3BuOGwzMmdQak5wd2tOcy1FVXBMU2sxX0ZoUE5qNnBNQXNRZHEwNV9KSWZKakloTXFIdGVObWwzdVdtZFlVUk9neVF4RHpRMUJWVXRvMFd3MlEyMnFoVWJyUnRoQi1LQk05bzdEX1Y4SG5WX1luekdUY2ZQQkJJM3hJME5mSHVmd0pmUi1tdkZ3eTFiM2xiVS1xckw2M0dPYlV1a0E?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 11:06:06 GMT",
+      "description": "La Fiscalía pide 29 años de cárcel para un cura de Ourense por violar a sus sobrinas EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03aFozVzZBbW00ZEd4WVMxRWQ3cHpxWUswMnNuRnJ4RWREWFJoeVZ4ZXRqMlNRVFRIcU9saTJMYV8zMDFKZE56WllPQThrR1E0TFY1LWZJQ0lKWU1q0gFiQVVfeXFMUE1EZ1ZZNnA1ZzVkNmFlWEJxSTlhSUFJYTlRTFM4OGl4dVZ1NWdmc01wZXFYcjY1dVB2YlFkcmgweE42SC16T3gzQkhFYW56REd3aWduUTNUa0poTU1yOHhxbkE?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:45:18 GMT",
+      "description": "Quién es Santiago Peña, el economista a quien el poderoso Horacio Cartes encumbró a la presidencia de Paraguay (y al que ahora dejó caer) BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Muere Gonzalo Moratorio, el científico que \"blindó\" a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oZlM3MWx3cUxwXzdiVFRETmVOYjFQdXNEay1LcDZvRGw1VElMUU5JMy1faWlWZS1GeWJjTTNMQnc0Vk9hekNicFVvYTdPX1JmOF9vcVpxbEhiTTZ40gFiQVVfeXFMT0VDOVdJakN1QUFxTm5aYjAtY08xRmM5WlNzbXJGVVU4WV9LdnpwSENzZWZwNEw5V0RuV1pQcTk1SzlqZkFzaHUyUXVQdC14YmJOVkxuQjU5dzVnSGdpaGN0bmc?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:29:46 GMT",
+      "description": "Muere Gonzalo Moratorio, el científico que \"blindó\" a Uruguay del covid-19 y luchaba por pagarse un costoso tratamiento contra el cáncer BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El mundo volverá a superar con casi \"total certeza\" este año los 1,5 ºC de calentamiento global",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDJTWEZ3d1ppYkthUHhwM1lKWlFGRmFPSHdPWVdFNUxvX2JtMzZ0SzI2b210eHotY2k1em5UZFBmLXNaZXpZSGJqc29iRWR0cHUxNDcxSzYwSkJzV0hLM01UZ2NlYkhyd3JtRDFzY3R0Zm1OZUZFelpJaFFES0MxclhKb2lQR2h6cjhBTjlEVzh0eGFrLWFDT3dkUEl1RHRabVFxX0p2TTBVbnI4d3R4UW0xMVp6R3JvbEc2UjdnYmoycVhwYzZoTjZFZkx2a3drZE9MZGR5ONIB1wFBVV95cUxQWFRUZVNUbmJucWhScmx1R0tBa0RCeTFQZFVYTjJiWk9FcVV0eXNKdE41c1FDTEU3aVVhdnE4VE9COHNieEZ4SmxFS182TU8yZENPUFBvWFk5SnNBQjRSX1dmMjBReHpRUFMtTjg0WVRpeHlKQWk5dkI3cGZPQVZ4ZW1zMVAxb3JxVnQ2Um5zTmg5eGh4SWZaREtaMWtxZi14dU05ZWVBNTFpRWJEUjEwenBrcmxFZEZxMnNpaThBcGZEX2FLcVZ6TmVxdGNZUFRfV0ozTm1hWQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:22:46 GMT",
+      "description": "El mundo volverá a superar con casi \"total certeza\" este año los 1,5 ºC de calentamiento global DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Presidente de Paraguay Santiago Peña renuncia en medio de crisis bancaria",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0VlajB5WjJEbzRPOXV4N3RmbjhhZ1NacmtZUEt2ZDh6RHNHVEJacVRXQm9xMVo3OUpGWVpySTNFaG1NU2UyM1VzNk8wQnVzMWVsMHAwaXhjZkVpRHlPUnhNVi1BaHl6SHlwdGJpYnJiWnNqNWtNdFBTcGpVOHgyYUkwTk5vTVF5NVFxb0ktT3hoLXV1WTN2M3RoYUl2MllhNWNCbllWY3BQS0E3bVAwdNIBsAFBVV95cUxQM1UwZDBybWxsSV9QSXNmOUlTX2RLWlhxbHFLbWthUENxa2d2VUNMYzBDSXJwb0RTZEh3SlVMVHA4NkZFMW9aMXhIeHlkLXNLLXFOcHNMYW0zbUI2bHI1TUh0VldWZEhCdDV4ZkJ2Y0xieHdtTXVmTHk4dGFNeFVMTUJVZ1E1dU4wcnowdmVzUi02UTREZGpSR29NOGRzelZUT2RBSFJocm1mVk56YXpDbw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 10:01:58 GMT",
+      "description": "Presidente de Paraguay Santiago Peña renuncia en medio de crisis bancaria DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "La lucha incansable de Sasha Sokol ante la resistencia de Luis de Llano a subsanar su abuso",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVJhMjRZRTloYnRBQnRYazBjMVFYX1NzcWJXVWhNVnl3MlhiZzVwZUhtb2VKOWhLMnpQenB1RllwdVZYbVRTRFBQdnhCWldLV2xFS2JRdDdxTl9FQThXX0RfOUZma3NZUlFlOXNPUlhhTlRmNEJhdko4X0NINlNhR0x1V0dmMHNySEt2dVI4aWtqNy1YT2RnRFBPOXo5LXZNNll5R0FHVWZTOHd3MGM0cjRRNVpST3F0clNmTXVOSFdUaWxTOWpzSlpsQnVmQdIB4gFBVV95cUxOb1F3YUVlbnR4SnpfOHpNRFFiakV0cUU0Q3VQd2Z6NUt0MnhOdmtGUlZJMXcyY0xua0UwZzNKSXR1eE9nTlFUbUwwVUFFMlo1SGtxV2stNEFQTW0xUUVGUFJpUmZOQ1duMWNuSzF1ZVV6OEY0ek41UXF0YkNrUkRZMmcxT3VDUEFHWERFYzlXZjN1OWxBVS1GUUhqNFBVN05adlFPZzVLU0RJdVl6WlhkZlBXN0E0ajkydnhlR1BkeThYLXRzQ2NYQkZLMWU1WV9YWGNqZDd6Q1NPdThHWHdoMkRn?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 09:30:00 GMT",
+      "description": "La lucha incansable de Sasha Sokol ante la resistencia de Luis de Llano a subsanar su abuso EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "\"Como un rayo caído del cielo\": presidente de Israel se declara sorprendido por el anuncio de Trump de poner fin a la ayuda",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHZHR3RENVFsTmxPZTdwb3NXcVA1Sk01OGpqRzNWMS1jS08yel83T0NUaWRjcGx5VGRLSXo0NFp6YTl0NENBdW4yZ2NKVE9pbGpHQWdsM0ZuRzFXWlMtX2I2T0M2Z2FBeVRhdnFlQmd6YjVwd0dYVEJqb3RwcVJHZGJpdVA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 08:46:00 GMT",
+      "description": "\"Como un rayo caído del cielo\": presidente de Israel se declara sorprendido por el anuncio de Trump de poner fin a la ayuda CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "El Papa parte hacia Latinoamérica",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YcmZtMkZNbFF4UE5jaHdOdkhWTmpYVzdBN3J4Y2hSWkZvMkl5WHFsVDNQWkhNXzlrLWFPWlJ5NTIzN0NyVmQyQzRpNFh5Ylc2Qlg2WGRvWkR5Tm1hM29aRkFVQWlnZDEwNDlzT2NkNWM5WEhfMGN2dldoTdIBe0FVX3lxTE8wVmw4NjJfWjRkbTNwRTh5ZWdsUmc3RU02bHE2clVaRkRMZjN0bHE0REtOWHYzajlWS1JYTlVSRGRuT0hhcnZQZDJBbzBjcmhVaDF2NHQyZ0dPWnY1NWRUWE5qYkJaekhNVGthWjdtOWN4YlJTWHVhU2c3SQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 07:39:02 GMT",
+      "description": "El Papa parte hacia Latinoamérica DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Trump atribuye el desplome de las acciones a la victoria demócrata",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNm1qMVFwczQyZHV0NUZQdkF0ajZ2VWVHS191eTN3TE5UZklMZy1zOHhZU2hIbW05cEgteV9hbWk3SGxmN25NMGh0eUNWSVJKSzJXQ0kyRy1YTFdjSWhHOHhDcGtLeVJWbDR5czQ0LXpRZzBVLXBFbktPekVzQVhRQnZqZ3hCN3VJRlVoUHZSelJQS0xjR1BzT0Y2YVo3elU1UnYtT1B0TdIBpwFBVV95cUxQMFA3c2RLdFVuQzJ1c0RnUll5VFVaaGtqVEcyMUFNcmJub09XaUgzRXU4bG9tbThORUdDQjN5SHVkRk1uNGFlNEpyU1lWVS1XOTNpTnp4UmpGTF9FUWR3ZzBBM0MyRWZYZjFZN250QjVpRU1yNFVLS2QwX3p2NW9OaXVsTGVWREY5dm5kVFFoaW9IakxWcVlWWW1KQlk2N1dxVTRZQmVJQQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 07:05:47 GMT",
+      "description": "Trump atribuye el desplome de las acciones a la victoria demócrata DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Por qué el Congreso de Paraguay no aceptó la renuncia de Santiago Peña como presidente y qué supone ahora el juicio político en su contra",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CeUxaM0xTTlZCazlWblZFS2NsclFhTlVTTElUOXAyYXlqQ0pOaEJHYkdydWJESDktNkNIUC1KejJ0YnVzdUF0cmUyWEFrTHEzT2QxM0JWNG9xRGZT0gFiQVVfeXFMTUxheGdtdW5sVjF2aG5uUjN2SXpVaDBSM19QVnZaWWhHVDNkR1g1UHpwajB6MEViOVRFUnZGU3ZMdGRMaEE2b0pSTDZLc1o4SFN3Q3dCZ3NjNXd2OHNoN1NUckE?oc=5",
       "pubDate": "Fri, 06 Nov 2026 05:57:34 GMT",
@@ -71,6 +224,33 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La derrota de Trump aumenta la inquietud en Israel por el futuro de la alianza con EE UU",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUUdidXFLdWJvR0oyeFdvODB1eENCUDZUOHBuTDZaLUNOSGpJZGtKWkZRbVZ3TmtXSFJkQnR2S1YxSjZadVlXWjBaOG5iRDUxQ183ajhoUkRnbDkzT1hYSV9mTkY2WS1KQTBqc3BEalNCQU5BbDB1UHJZdHhvRDdfOVB3TkV2bzFyazZxU3FuRWhTREV0NEY0UElaWGxXSmR3TlR1U1RkN3o4X0V6WHlJRTJ1ZWwyNGRQZnlPRDRRNEJYMEFzMUlSSW55YWdldGUyTEtr0gHnAUFVX3lxTE1PN0ZoZVhqRHhQbHFvMzMtQzdocDM3YXBNNjMzYjBUdExIWWNyUURab1JtWW1tTGpLaUVxMzBNbDV4bF92emI0SVdUdFd1ZFpKbFdvS1Vwb3J3c01OemM5QjVkWFd4LThsQUpnUmpSUVgtRHJKaVRBX3YzeEp5R2NNUUVvYzN2bWV6VElka051dmFnUk1WLVc2cnMxenJncWtLUVhVRG9hcTNIRlBWcWVPQnJQaThOQk5PMm8zdm9JdjRrcXJGczNkaHBaTXNYQkJMTUJPYzZOYi1vVXk5Um9idHhnRGJDMA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 04:30:01 GMT",
+      "description": "La derrota de Trump aumenta la inquietud en Israel por el futuro de la alianza con EE UU EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Juez ordena a primera dama de Colombia rendir cuentas de donaciones",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGlwb0pxcWd4TmE3RWlkOWh5R0NOaEUxdUxac1ZtRzhyWXFtT3k5cDBfYVFZd1V5QXBvQWpEeENUYXc3WDQyTEhUR2E1a1d4bHdZMTRuLTFyWVVpcGtORDhrd0ROQmVST0lfZmN5ZHl1QVpUUUl1RVp0WUkzcjdNOWFnaGRlT2ZjdGNTVmYwZDZ2WnhzRUdSeTg0cENxTG5jQUHSAaIBQVVfeXFMUDI4dkx5NEpZMloxZ3RIcE9EX1JMVVhub2dSLWRYa2dHcUZZZ2M4c0pmTnQ3ZkpKb1JpNjdLd2tjZklUYUs1OThrVzQyT2d1WVJDSzlhWTdvbjZVS0lCcGR6WE5iSWkwazVnVlNGZGxsMmdEdGJyWUx0M2VaaHZiMlc5UlVZMW5XS1RQalo3TVhoV29iVUtudUplVDRQVWNxbkVR?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:28:07 GMT",
+      "description": "Juez ordena a primera dama de Colombia rendir cuentas de donaciones DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Trump se reúne con el enviado de Putin mientras EE. UU. anuncia nuevas conversaciones de paz para Ucrania",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS0MtdVlBazhrdXhjMWdJc2IzNUdjVDRGUTlsUlRrNGNacnRVNVM5OF9Ra1RSMGxVYnczTjFDY0JNYi1PSzRfYV92NjROM0lLWHJob3k2SUlTVDZiandxZ01SUTJFVF9hb2gtRWVxYWk2MWJBU3E5ZUNBcjk2Tk1VMTRZTmxJUXdEWWlqS3ZTejR2UTZDN0N2VGFETUkwazB0YTZuMEFqT254Sm5jWVB1ZEotRGhBV3dKMGQzRTNwbEhtaEpObk5hTk9nREJvd0lRNHdmOHRYTGRkZTRPUGdENGNFUzdxcUVhbndCMHl0cEdLZm1wZkZfZg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 01:02:51 GMT",
+      "description": "Trump se reúne con el enviado de Putin mientras EE. UU. anuncia nuevas conversaciones de paz para Ucrania France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "Presidente de Paraguay bajo investigación fiscal; ante posible destitución por colapso de un banco",
@@ -82,22 +262,13 @@
       "domain": "apnews.com"
     },
     {
-      "title": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByZExZMGFnSlBDSThSb3NqOV94WUlyV09uUG9TUnVHbTBTR2FRek5xV013Uk85X0RpMU5rckNSeGRMcGdINHd6TkdJYzI5RVJrNmx2RHEtRG9BellU0gFiQVVfeXFMUDI4aGluY3hPbVo5dlpLc3pyVklCSXFteVRVNkhORlNwV0RwU2VScFBFUFhxZEY2Zl9yT2ZjMFNVTnU0YmpJbnVSZy15S0RWdVpfVHAySnRiVDhzVml6WWZTRUE?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 00:21:51 GMT",
-      "description": "El Congreso de Paraguay inicia un juicio político contra Santiago Peña por el caso Ueno Bank pese a su renuncia a la presidencia BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Machado avala que se declare vacante la presidencia de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZEpCVXhGUTVRcnU2MC13OU9pSThVallfZFFZcjM3T3RfeDcwc3RUUUhobjI0RjE2c19QclFmeFp3ZDFsWWtNY1hqV3ltXzdoWlJoaTBtY3RlVmd6ek5FNnVCQndodXV1NEpETzdRUWdONzEzWGlHWF8wQlhQZGZjcDlHOXBQOXdnR3FOR3hrN3RLN3ByaFpvUUNoa1Nqd9IBngFBVV95cUxNd3VkR214QVhpMEdlTHdPMkxvRUE2NVVWbk1GMG5PUl9kRmpUYmU2ODhFY0ZCZFVvSHprQ3RsZktSZC1LSjZZcGR6akhodGJ5N2RXWnFkY3V0Nm9pb2kyQzNjd1dzaG9MdHFpR1BBaHhCRV9ZYThVb1h5dXVOLWhEZGZFSHNKRjlMWlFiOWhXbkxoWUF6NTBDaHJSRXRWZw?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 00:10:42 GMT",
-      "description": "Machado avala que se declare vacante la presidencia de Venezuela DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "El presidente de Paraguay, Santiago Peña, renuncia tras la quiebra de un banco",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3Rzekp2bzJKb3k0b2JRbmJiSGFfZDNyS0o1blFKX2k4TlplazE5WW9iUDlqVFdBSmZlTGlwNmljT0V4UkowVmI4dG5fczR1WXhzQmN1T2RwUEZYeDBoX09zWG1tUXJyNVRmRVRLOURwbnYxMDZ1LUQxOUhwRHpUejNQYVdRTTg3dFREa1plSmNsWlQta0IzV3cxYTN4S0ZaR1oyWTlxaGl6TUFxTXJKcWNaWQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 00:28:23 GMT",
+      "description": "El presidente de Paraguay, Santiago Peña, renuncia tras la quiebra de un banco The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Newsom conmuta las condenas de todos los presos del corredor de la muerte de California",
@@ -118,6 +289,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Una venta masiva de acciones tecnológicas borra US$ 2,5 billones del mercado bursátil",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3dlQUpWVDhhN3NxLUctaXpfaWVoSTFtSGNnNWhPYy1Dc0xybkxNWVdQWDhmWk1xTWdXelYzbjI3Uk90a0RIUE92bG1VNnNVQVFVN3dMZ3R5TXk0ZXhUZ3BJMHVyVHMtTHRMUW1fLWF4WTVOWjloOFFsbzBLeFpCNmdQaUh4M0l0UFRnUUdTN1JmUzR6dXp0d2cxRTRTTW02Rkx0WQ?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 22:20:00 GMT",
+      "description": "Una venta masiva de acciones tecnológicas borra US$ 2,5 billones del mercado bursátil CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Una lista de 77 religiosos acusados de abuso sexual en Perú sacude a la Iglesia antes de la visita de León XIV",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3BkWi1teXlhc2k2RTZyLVY1bFRaNTd5aDFNOUhLUkY4NWpiSnQ3Qy15eWxkUE5UU3NJam9uMWlPdUxtN0NyX3QtZDZWMkE0dUNhaHlva3RydjN4Skxtai05MkZOc0c0Vm11OVY1UnJjMDVLUmREanRGS0VSMkVra0JBZVN3N1VBc2hYQWhlUEM2Sk1UY2hWUnM0c09Oc3hwYzI0cVlWWlpNQ3VpNU1oanVzc2EyXzM5WE83Wml4aXZzUVhIX2szc3hJdHRjYjVZWDJIZHZGWXZWQjhwM1dHYTNwVWhpTlpFalHSAf4BQVVfeXFMUGdVcVNaWWJpM1BBb2hsU01LUmdCdUkzWUNjNnl4am9vNXRidGFpWEZyTmtPM0lmM2ctaF9yNlp2TkduZWN1bzNTVm5oRzMxdW1SaXlPNWxDOTJHeG1UeGxOenJCQk5WaVVEWmtvY2tUemVoN0tNaTk0U3JRdGZEWExrV1pOdDVyUkpHRFBQaUxBN01BMWV1ckdDeGxtUHMyamxtTEN4MEJIUTlRY3lSWkluendiVlB2TlFkWF9YVFluZGNpdzFrQXBnbDVQZ28zY0pwR3NZb2NOd2dEVFJCdjJrYnE3eXNqcnpYNldwck5RUGxVRnBiVGEzVlZEc3c?oc=5",
       "pubDate": "Thu, 05 Nov 2026 20:23:00 GMT",
@@ -136,6 +316,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdkZVdjdYamo5Q05MMlRZNkZFb2dfVmFYT2MwNUFMMGFfbU5SN1A2YVNtcklobU9JT2JWZ3duNUlCOHJYTVZnLTA0cFdPUFNtc3VWT2RDUjJXellhNXhBdmJsV1BrS0lHNWhSb1hQcVRZUmVlLWF5SnlCTTRNYzI5X0ZkZUhtTjk3WDhwTnZsM3o5dDlzR0pyMXptZ3p3VU4xSzRWZ2g0RUdzNnFGTjZZem9IejJIZk9PUFhsLVJoWXVnZ2lWT1pjb3I4M3JaVGNnQkE0b1hjcWQwNFlKYlVfV1B5SWVHTUVfUXfSAf4BQVVfeXFMTWtYemZ2YkEtamY5bWxmb1Q5TGxoUkxIVGtYdHY0ZGFqODRoZHRkSGpZMGE4UTl5OWV0M1MzTktCaUFaSE9nM2Q0eFZrTXBsWUNWQmg1cFJVOHJ3ZGsyX2ZOUlV4NUtaclRRdjJsQ2lYOHRuTDhXalB3ZW1ZS3ZIa011U0lQdzFGUTJyNUJTbHFFaWJIQkk0NjJ5enJZVlA0US1ITW4zNzd4bWRibkZ1MlhrMjNIcnFpNmk3WUtnbmcyd3JfQ2cwT1lDeVBUdFo0V3VudENBOEQ1bUhjZUdIMmlQZElaMWZJRDFsWDRKb0hVbld6d1UxS2xVMF84Nmc?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 19:00:04 GMT",
+      "description": "Los fármacos que vienen después del Ozempic: buscan adelgazar más, perder menos músculo y evitar el efecto rebote EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Esto sabemos del escándalo del Ueno Bank, la crisis que tumbó al presidente paraguayo Santiago Peña",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbU0ycmhsNERTU2hUQ2ZoN3BkOFJhRkxQaXMzSVYyM2FpV0NJTE1jb0VQd1RRZk9JY1F3TFAyV0lkSi1BVXhQT0VKY1h6cUJmQllqV2RmUlFyVU4yZEE4YUlpZEJma3ZTaTFFZXF4VGxMR242SVRBNkpkVG1TZ0lMQVp1ZzFaMkF5ZU5RT1dhQzBrRl80OGxycktlR0ZqN1BfSmNGRFM4c3Z4b2ttZDY3dHJFTHdzTUtsNVM3MlNCRzRnMlZ5clNDamk5X0tNa09kd0VqWm14NkwwYVM5eWtGTURxYzhTeHV5VDJJbV9KOWdlamJ4ak1peVl0eWRqQjA?oc=5",
       "pubDate": "Thu, 05 Nov 2026 18:55:09 GMT",
@@ -143,15 +332,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Mam9hdWhVOGtUOWllUm1famRRM01peTMwdXJtV1pPRjNMalVBcDQxRlVoS29FYjdYUmRWbnFxM0c4UVBHcHMyYlA2d1NfYV9MQVVwOVd1d0diVHN50gFiQVVfeXFMTXRBa1RFa3BockwtUW1vY0Q1c3JjamlVTHN4NDNVZmVQX2xSY2tLeHI1X0FFLUFleTdZQ0diZUVKYmFndTc0UDNWa1Zvemhacmw1VTVpRnZRWWtmOHlGYkxNcFE?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 18:33:34 GMT",
-      "description": "Qué es Ueno Bank y qué provocó la crisis por la que Santiago Peña renunció como presidente de Paraguay BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Cristiano Ronaldo anuncia su retiro internacional con Portugal",
@@ -163,33 +343,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Presidente de Paraguay Santiago Peña renuncia en medio de crisis bancaria",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0VlajB5WjJEbzRPOXV4N3RmbjhhZ1NacmtZUEt2ZDh6RHNHVEJacVRXQm9xMVo3OUpGWVpySTNFaG1NU2UyM1VzNk8wQnVzMWVsMHAwaXhjZkVpRHlPUnhNVi1BaHl6SHlwdGJpYnJiWnNqNWtNdFBTcGpVOHgyYUkwTk5vTVF5NVFxb0ktT3hoLXV1WTN2M3RoYUl2MllhNWNCbllWY3BQS0E3bVAwdNIBsAFBVV95cUxQM1UwZDBybWxsSV9QSXNmOUlTX2RLWlhxbHFLbWthUENxa2d2VUNMYzBDSXJwb0RTZEh3SlVMVHA4NkZFMW9aMXhIeHlkLXNLLXFOcHNMYW0zbUI2bHI1TUh0VldWZEhCdDV4ZkJ2Y0xieHdtTXVmTHk4dGFNeFVMTUJVZ1E1dU4wcnowdmVzUi02UTREZGpSR29NOGRzelZUT2RBSFJocm1mVk56YXpDbw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 17:55:56 GMT",
-      "description": "Presidente de Paraguay Santiago Peña renuncia en medio de crisis bancaria DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Detenido en Colombia un juez mexicano acusado de aceptar un soborno de dos millones de dólares de la red de Ryan Wedding",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbXU0U0FMdG81SkxpdDRqa0t1MjdLYUpETnFEY0JITG4tRDF3SDV3cldpWWdoNndXMkVoNmZ5TmNhalR3cEtLdHhJZzlwMUpXSVYyVDJ5OEhMaGxKb0hlSVptb3RocEs5b2ZsM1RNTjRsNC1CdEhFM1BBNnc5M0hKd2xsTXJvZ1BLcHRMZURuNUpuTGV1aE83T2lGeGUxZ2JzZm5rSlBZT01xcG11aTAwR3FEdXdid2NwYWlrWHB6YUdrVUMtRU90VG1vanotOGZuZ2NySDc0bmtOeEpZM2UwcWY1OU1SeWUxajNLRtIBgAJBVV95cUxPX05jVUNFUzJXeDFQZmJHa05FNEhQZnhsTGF1enJUcms1YWhtYlp3UXBMR3hfWW1GMVBoZDhhZk9kOHpkcEhwYk81OG5EeTcwQkRLWTgxcDFDOFVwRFp6RGVaS3dGeWJRTHl6eGJ2d1dIQm5PZ204Y3gxUG8td0o1bGQtanp5dkttZVZmZ1l0RG5ndF9naExyNm9FeFlJTjhzeUxMXzFvZXBQQlZTQ0xNSFYwVnZIclo3VFBncWJoS0tmQmd0c1RIS1gwM0hZa2pMV1oyS1MzMkgxT3Z4N21uWlRqbEdBMUR0RTdLRDNRY0dNZ2E0dU9CdDNDOFdheVV6?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:46:39 GMT",
-      "description": "Detenido en Colombia un juez mexicano acusado de aceptar un soborno de dos millones de dólares de la red de Ryan Wedding EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "“He decidido presentar mi renuncia a la presidencia”: Santiago Peña abandona el cargo en medio de crisis bancaria",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTDgtTHVuRmRpTkw2Q2FOd3RXS0F5dE1vS1Y5cWlpMnpQTDRZdkF3ZFJ6ck9TOWNwb2xxT2NwLWtLaTdjVlFiY29yVjVEdUJ2ZWxEWGZZYlVmTV82QXdJSVFmOVJoeXBDTUN6QWZmbUV1aGVsZUZjN3Z5VWRKRFBUTTUwdi1sT29ITF9ObG1tSVFWTTJwN0RzdA?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:40:25 GMT",
-      "description": "“He decidido presentar mi renuncia a la presidencia”: Santiago Peña abandona el cargo en medio de crisis bancaria CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Santiago Peña renuncia a la presidencia de Paraguay acorralado por un escándalo financiero",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckQ1LS1sVGVwdWdVRWE2TlRtVHdPYzNkcHdDSkdPU1g2dVdDV1RoNVFWLVM0Y3MtOVV6c0xCZWs4ZmNybjVNazJYeVE1NWI3QU9COTRwMS0zWThhdkRNczVmMEtGWElWMkNCT1JiVHE1QTBvNzhLVmNhcXhUd3lvVDJRYVl6YXdyTUw3a193RzByZE9FRGpqUFRuRVFLRFlsODZqSEVSWElHSi1PUUtzUTJQU3lLVUZSS2dleUE4bDNFM1h6Y3AzYWo2TdIB3wFBVV95cUxPcm5HVHA1eWpSNERhdi1oQUNQSXN6WC1VeUpleGtZUjl3SFhiWEVhWUxLejJMRnBDOXE1WDdpTVpDTFlURmVjUVBxaExaR2NSWk1GXzQtNndLX3FCVl8tbEFaV09VYmd6MVNnbUtya3ZKU0M5RjVibmU4ejlHLTRjSDBpcV9OT2YwVTdsLTlOenNFaDZGenhNZFhSdlBhbFlucW96Zzg0cl9JSmlJSU12WVU5NDJlZTg5ajN2VHVMd1dudkszWjUwcnRQUE9HWnEtYjhBV3JTYUxZYm9CQ0FN?oc=5",
       "pubDate": "Thu, 05 Nov 2026 16:35:51 GMT",
@@ -197,24 +350,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTVpVSVdsQXZzd25MRDA2NW1WOHA0dTZURDBTNXQ0MkhUUTVaY3d4c1RjQUNMZXh2M0N3X0l2RzZOSGU0U3FYY3lfMm41dHRMbl9JVEwwZ2FieWZ2ZGdKckNpUG45d01NSWpIX1VIZ25VcExfbzUwbjlLMG1ISHQzdVZNVHFELURKUGVXcDQ5M3BKUQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:25:00 GMT",
-      "description": "Comienza el juicio político contra Santiago Peña tras su renuncia en medio de la crisis por el cierre de Ueno Bank CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWhmTTFLbVh0SXNGN3NfQldlTjBJV2VpZzVvSFUybTk2ZVhobWZzQ0FvUWRxZ3dkT1BlaTQ0c05leHFRSEhjYU5fYmdpV1pXMkZ0eWN6cmd2blJhNmZCTmlzQVFQdEtSQ2c5VmUyQVd2cEJUTzU4RjdKTkhEdmpwYmFxN1pfTGV0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:18:26 GMT",
-      "description": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Declaran culpable de violación y agresión sexual al actor y comediante Russell Brand",
@@ -226,60 +361,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "El actor y comediante británico Russell Brand es declarado culpable de violación y agresión sexual",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3VGVaMVhIV1JBWGMyUXlzOFFVaXdEaDExckMwbkFvc1NJQjRVdTdoMmlZM1BkRlFDRkI5UjNzZGlyLUhNVHlTeHU5ekFLekNiQlVFRHR3MnZqSUNv0gFiQVVfeXFMT0hFWVlvTlB6V3p4Ynd1NVdtX2w0dU4tM0FzV1ltMzZBZk5DbkFmekJBY1VoS3lrN2FRZmpPQWFXRjRLSjNNdFFZVTdON2dCWFZWemh2b2JzcVY3OUlTNWdVSnc?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 15:20:18 GMT",
-      "description": "El actor y comediante británico Russell Brand es declarado culpable de violación y agresión sexual BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Cristiano Ronaldo se retira de la selección de Portugal con una emotiva carta de despedida",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObHdESXNMcmhZNFRDVURGVzh0R0pzSlNkM3d6cXJKbkdVQ0dfVU5GSTlpbGJZY2R5NUUxaV9IVTRRR0ptd0Z1Mld4Nm5SOW5NNzhRWkllall4Ti14Vi1NS3NYdWxJZ2YwR3FZcUdDVC1mTmh3OFZBcEMzUHl6UEQ5SkZOUTVwUjRyTm14b0xPU0JIWXZO?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 15:17:00 GMT",
-      "description": "Cristiano Ronaldo se retira de la selección de Portugal con una emotiva carta de despedida CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Partido de Gobierno en Paraguay respalda juicio político contra Santiago Peña",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUVlb01ZLVpWWjV6ZTR4VjZQS2ZTeS02N2EyU0RaNlo5SnVXNXpiTzdWY1l4WGR1Z3A2VUQzcW40RHMtTVQxbE1FSTdjZEh0QXBYWXpweHZ5dl9WYXhjN1BzYlpPNUJSNFBPbzdkZGhMS2R5Z00wSjNxMGttRzBBcGRWY2JjeGk3WlVzS2lBU3p0Y0tKS3VNdERjVnVCdmtnc0hPclJwU1NpX0c1am9IQTdjMmx3d212TlI4ZtIBvAFBVV95cUxPWFRCb1pDSDJfMllCVTF1ZlFkb3VWRlJaOTlXb0pWQkNXMnhENGQyZGJEZU5FdGlhSTdUbW1EUHNrMEJndjZLYUN2aUxvSmdFQjE3bEJlTWVaU0VKZjd0OXprMURSWk1EQXJLWURtYVMzOTByb2NoMnN3STZ2TXhmNmhTOUVWbE5MMGxGOTV2Vlo4LVhyTEVZbFcycnBOWXFTT0Z0anRnd21PUnVSOVlRbndWMk5TMkJtZ05RQQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 15:08:33 GMT",
-      "description": "Partido de Gobierno en Paraguay respalda juicio político contra Santiago Peña DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Amenazas de bomba afectan al menos 14 vuelos en Europa por segunda vez esta semana",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmg2enRlTGc5NXVTTHlfRzdjdlVOMngtemw4YUxfV1l6Zmx4S2NXaU1YMnNsUDc4cDRzUXVOYUVBM04xV3I4MnhTNXlTaXQ1ek8tVHFqTGxqanJUSlhKN3paS1RyUDMxcmVKblFoTDZCUElpU3MxQjJ0bnNBNVc5WWNiX280NjU4djFsXw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 14:41:00 GMT",
-      "description": "Amenazas de bomba afectan al menos 14 vuelos en Europa por segunda vez esta semana CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "\"Llegó el día de devolver el 7\": Cristiano Ronaldo anuncia su retirada dela selección portuguesa",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQamNCbHhvUlFpUnBxYzU5cXh6YnZkOGI2VHQwRGZYeUdMOWlXN3BwdkpyYjB1bERGUkI0dEFrS3JVdFEwcGdmMWRJbDlRblRqb1pEYnZXOFVJLW1Od0ZwXzB1T1dTbFVEMmt4TWNjWmV4U2Z6S1UwaDFZWE5rS3lBMmFlb0YycXdqUjFRM3RLelE1WGo5Yl9NWUVaNEFueWpNMDBtNdIBpAFBVV95cUxQR1RhZ1hSN3VnYllNOU1oNHJmZHp3YkpCR3pzckdRb2xKNW5yc1ZDUDN3ampMdGdXQm9iZXFDVW9nXy05UEY1ZDVGNVhHd3ZmeGxvY3BxTlNaWXRIWnQxTDBIUlFEcFZlZEhmb2F0MXViY2ZTQlBKeDJuUV9CcWhHY3dEQWJTRW1oaklucFhCREkzX24tR25JWGMtRjkzRnZoYm1SRw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 14:40:55 GMT",
-      "description": "\"Llegó el día de devolver el 7\": Cristiano Ronaldo anuncia su retirada dela selección portuguesa DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Verificación: Videos de AMLO en panteón son de 2018, no de 2026",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlJwWnZFMDB1VmdLQnpzUl9fUTEwR1V4YzI2anJ1ejNUVkt0ZlBIN0ZOTHJCNUFweDFqOThjVENsVmtMUlYtdXhPYnRiMHVKcmF6dzFpV3Vvd3ZiWnNtN3lXNmczbHpNQ2JkUXFBdElEV2NfeFBSYXJRS2NtZ3FlZE84R01MYno0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 13:44:45 GMT",
-      "description": "Verificación: Videos de AMLO en panteón son de 2018, no de 2026 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "En directo: Francia registra al menos 600.000 manifestantes en una nueva jornada de protestas",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY01GeUMwWFY3dnh0RXpObDdseUd0QVhjUXFtMks1X2ZEUzl5b3pOOU9pa19RY3U4WF9DVWQzQUFMUzQxQ21pVVZ4NVdySTBvYVlobDNPMDUxaURnREtqM1ZTME5SZUEzX1oxczdHY1hxWS1vbGVxeEJ4U0c2RjZReTdIcDB1MWY1WEtNVUkwcnBwSklzd1BwdVZYSUFYT0xFcXhsMEF3UTBmWU5aMXBpQ25YQ1lkSzE2c3JOc2k4S2Ywc0lCSC01VW5VOEtnUk9mS1c3N2g5RkQ?oc=5",
       "pubDate": "Thu, 05 Nov 2026 12:11:41 GMT",
@@ -287,51 +368,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones de medio mandato en EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vbV94a09YbmhmX2w4QUtOUWFqWnlwZUZHMVMwSjJfVGpOaUd0MF8wcjJndVpydHdIdW1tUGNWMjh6QWpZZDVJUVE2VTljSmczMWt6VmZRLVZzanFZ0gFiQVVfeXFMTUI5TExteVhVVTRWdFBUd3VobXJ6ZV9rdlgyVXVicGxvRkNaaVFrUHZyanN2WDFGYUNXOXB2VmtWcy1WWUhNaEstU0tKZHIzQkRFY2l1QVhRd25nd1V2MEg1Mnc?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 11:45:16 GMT",
-      "description": "El vicepresidente JD Vance, en la cuerda floja con Trump tras su feroz crítica por la derrota republicana en las elecciones de medio mandato en EE.UU. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd01vVWRCT3dzY0ktU3djWEQtRWRIaXRCQzJmeE9tMjhtbDFJOU5WWWdxaXpRTnVUenlNd2hVWHRmQlF4NFlLeS1fekdMRVp2ZkhYbzRpRGtnY2dRR1huSVZVdEtRWU83RmJjUjJ4SHFpWkZXVEZhbFZMNWhLNE1xMmdYMFNZR2haTWxtX0tsNDNPOThSSndyTHNOTXNzclZVVUpiOHVVelJfNUJxR2V0Z3RJNGFVcW01NTVIUFN3Z2tPR0p4S0ZsSjRzdUJtOXZpRGFSY1ZPUEo4OUVrVlBDa3FGcV9jY0xTSGx2U0k2VVVXd9IBhgJBVV95cUxPbkIzTWlpamNqRzYzMUxkdUQ0aGlmZWRYSXNOc2VnUDh1OXNNWjZQMlgtWktMbG15SHJqcjduV3lQRTdNODBkS2VTalRtLW53TFo0Y0pFVnJIbjRJRmtjOExEWHR0ZHNTUzVMZXVFcjIzY0F6cUh3Njg5YURRZzZ0aWJ2cUNTbnd0VmduWGpfV2FZSmRIVHd5VXRFbVp0TmxIdHZGMjJhdF9jeFdZZ2pVSWFTYW9kVkxhYUFYbWxkTXgtYXBYWi1lX1Bad092MDl5RW9IblhLS3V1dC0xSWRQV2FVWkQtQ2RRTjQxZkpRYnphN1JBa1VNZ0psd3FhY3FpOTJWSk1R?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 10:04:25 GMT",
-      "description": "Una nueva oleada de falsas amenazas de bomba afecta al menos a 27 aviones en Europa EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "El INE estrecha el cerco alrededor de Guadalupe Taddei; la citan para entregar la oficina",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN0l3UzF1eXplTTljdVVuZkhyUmRWY0V1WTJUdnlqV3FURGJqdDhxU0FHcXlnOHowX1pnb3dPTFJTaEIzSUVhaEN4a3FUTmFMMzNSWXNSUWlTenVDMXdZSW1INUhfTWhfU2xQeWdLZUcxenFTa1hCWXBCTDNrR3IzVkIxcnRHYVBoQjU4OUF0V1NIWTlZaTJ1UVg1RlJaQmNlYUIyVkE1NDdzYWx4dGJqM0I1ZDVpZU8wZ2NFa2ljLXVOdFlrY0ZoQ2RR0gHeAUFVX3lxTE1FS3BjRDNFa29iMDZxR1p5VjJ0eS1ZdzViakg1X01tNlh3dy1lM1FxY1V4V3lsckpVQUV3SG9id3JxNjA3bHZpemtrazJIX0M1NEh6dHVPUi1ZaWRwZDhxYS1iR2xCYVFmUHgtcEhRV3kwWkN6RmN1bThGNGlSZ1IxaTEyODZ1MG9NQjE3SlJjR0NtYXdXRE5yXzhpYnpkUmFNSFRudThHX19YMllpMWRkcTZSajVNOEZuNEgzRE0weXp3ZThqcUNPck5ETnVVRUVoRmZtS0NuNm1uY2o5Zw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 09:30:00 GMT",
-      "description": "El INE estrecha el cerco alrededor de Guadalupe Taddei; la citan para entregar la oficina EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVdyOUFxYnBMSkczQWtaNmF0aVhqTEZfWjJ4T2tId1BHUnRXM3B1RFZDREF1REdTWHMzbWZFT01OaDBCSHluLVlJOGg0bUxkYUJpbHI2bS05a3ROWFNueDFEQkVYN2JDa2hHS1B0RFVXMnNmdktqTGQtYjhjUmRhV2FBS3B6X1pxRTE0NGRzbmtvTjNLVm81d2pXb252X3dLMHJsRVp3NFpfb0MxV0dWcFZyWkQ1VThkRDBjV0VVd3ZvaVpL?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 09:30:00 GMT",
-      "description": "En mapas: la frontera con México vuelve a los demócratas tras su breve coqueteo con Trump EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Nueva ola de falsas amenazas de bomba en vuelos y aeropuertos europeos",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEZ0RlBDTDlKdXotUHpELXUtQTRGTHJyZ21uYzFHUXJEUTBsbGlydmtUQnFHdWR2SUsyOXFVLS0xZEczUndsQ2V0cDhqcGFLRXE1dXE4R0tuVUlMS01MLTBiQUpuOElycmcyQk1WcEVWd3dTUlFrRmlkMk9XRk05VTFWeE54LUhGMUJWdDN1UUMza2NVVldXcWh3dk9Vd0pmZ1JJVFVB0gGmAUFVX3lxTE1YZE5OZ0wtZlhTUzZ6d3RyTy1sZ3RYMC12ZHhhYXNFQjJJN2QtcnJCeW1yd2VJQXdhYzUwdnVTRm11eXNmMUxBMHhOaWY3dWNINzF6NnFIaERLdWVtd3Z5TFhPcDBXMW1mdTI1OGg0Y2NaVXRULWs0Z3BzR1ZlQVB2eDlBbXc5V3pDZFlfY1RINF9xbHlMWDB5SGlicUdENG85R3o0S1E?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 09:27:35 GMT",
-      "description": "Nueva ola de falsas amenazas de bomba en vuelos y aeropuertos europeos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Cómo Gina Hinojosa ganó en Texas",
@@ -352,15 +388,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "La certificación de resultados electorales en Israel disipa las denuncias de fraude de Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ0wtNUE4NnljdUQtSjJNdXNoMS1Sc0l0V3lwY2NlRmpIaWZ2T2xGN0NJUkxLSFNHQVFXV1BtaTZka2lVSmhiNXJpNFVzMnJDZGJzSndtS1lrLXo1R2JJS0ZUZGlOVllnRjlCSEpBRkFSRmdHdW1nUkwzc3dQRXZ5Rno3enl5bnE5Mm9kZ3pHSUdNd1pfVVo1N0pySTZ3STdja0dqSE0xdThTcUZhTFN3ZGlKVW9PUXBINUQtUUN4WmFITHpkZ3BqVTBRMFJqM1JROVBZY0szVFBlMzZLQ2x6LWJFTW5STGs?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 19:01:05 GMT",
-      "description": "La certificación de resultados electorales en Israel disipa las denuncias de fraude de Netanyahu France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "¿Estamos ante el fin de la era Trump?",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkNXUU1oZklxV25ZY25aTEEwTTJpZ1g3WmllNEl0OUpIU2t4UGdwUUUtakYwb2tnZlVHLW9oLVExR1JPLVRRelBpc09veDBsRDlTbXJkR1dZWkI3WjZEeVQ3dDVhZHdhTWRTaEtxb09PZjladFlwS2hOWVB0R1QwTWg0SmY4cjBwSVJoVUtfbmxnRXNuM01xamZLM19iZmIxT1M4V24zN2s?oc=5",
       "pubDate": "Wed, 04 Nov 2026 17:25:03 GMT",
@@ -368,6 +395,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "El crucero Odyssey, varado en Camboya, zarpa sin pasajeros",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZklSaE9RRkU4a1NiQWUyZzRxOWFEQldzR2toTTFVWVp2YkFUdHVQOTdiQmoyNXJmTlU1NjRiNGRPX3V5djJ4NER3Z0VDanBING5xdGNhclFUTDhNR09XejVFOXFxTDZlaHBGd2JTUGdtbTUxQU5FYnUwSUpJeFIyLVpVTFhfOTJEaHNuNmxYN2U1VDZXTVM1SjlPemxIU2ljTUR5MEc4aXRFa21XbnhSTktUZFpqQQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 11:45:00 GMT",
+      "description": "El crucero Odyssey, varado en Camboya, zarpa sin pasajeros AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Claves: los votantes castigan a Trump y el Partido Republicano sufre pérdidas históricas",
@@ -379,46 +415,19 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Elecciones en EE. UU. en vivo: ¿Quién va ganando?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeWtmenJlaWxzX0dXV0Jtbk9hTGs1RUtHaFZTN2JpNXFrOURxWTdYb2ZrdUVzRG1zN2g2Y0ZGR0dwTEF6THFQUkRYcHQ4Q0lWOGRxZURSdkdJNWg4ZTJ2RmFvQThiNzRmX3VVbUthNkZpTlNlM0R6UzJhMU1xTTV0OW9LOXI2eFE?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 05:59:19 GMT",
-      "description": "Elecciones en EE. UU. en vivo: ¿Quién va ganando? The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "La UE reitera sus recomendaciones a los ciudadanos para afrontar eventuales emergencias",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWNHUTlfR2JEQ1NuaDAzN1lPR001cUFWTjR6Y0wwU3RxOVpMdnh6YUJqbDlmMnFSd0tNN2JoVDRtR0drNFFFSjZoWURtbVpLN2g2Y2cwbU5NYjRzZnFkSWtMdnZjUWxObXM2VGJ4aWw4UHIyem02ZGtYM0QzTHp0Yk9YamtzUVI2bWhtNTV5WDdmdXVBVFdFek5fY0Y0dl9NQWtuNzFRMm1TM05SQWE0TmJNMFZpUS1yODhFOEVvUWhOMFFFMGI5ZVJncw?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 05:54:23 GMT",
-      "description": "La UE reitera sus recomendaciones a los ciudadanos para afrontar eventuales emergencias France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "Banco Central de Paraguay interviene importante banco digital y sacude a millones de clientes",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWdreFBMcFczZVVlYnBGdWY3RjVmelJKa1h2cTRSVnp1cmNCdGpPZUt5ZWlEYVR6NHBPdXYwX2xET2tvc3JZMVFnU3plc3dVZHA4bTFIQnZfbGs5bG1LdWVfdFpTX2pPQVZKVGxIeE12eUl5QzFwYW1LVmFINl9WWnM1V1U2YXBXSnBBZmJZajFDT2poWVN4Z1N2OUswM3B2QmxqVw?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 20:07:00 GMT",
+      "description": "Banco Central de Paraguay interviene importante banco digital y sacude a millones de clientes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Trump dice que EEUU frenará ayuda a Israel por $4.000 millones y ahora le venderá armas",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zZ0UtRFQwazFFanVOUGJmMkg5V0tuckV0UzI1eHBWZlBhU05pV0publRYeWQ3S1loam5TSjNtYWNJUlZoeDU1SnlFeHVUYVBXbWViN3pXS282dk5rMWRUc1VjdmZkRUczeGIwSWNKLWpGYUVNV1ZGaFFVNA?oc=5",
       "pubDate": "Tue, 03 Nov 2026 19:16:00 GMT",
       "description": "Trump dice que EEUU frenará ayuda a Israel por $4.000 millones y ahora le venderá armas AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "La Casa Blanca recuerda que Trump \"todavía es presidente\" pese a la derrota en las legislativas",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLTMyR0FPeUlvU0xfbFBZcUh1OEl4MzJiRU1KanpCZTdqZVVGZFp6WHVnOFZkS0J1M3NiOVlmbDhpeW02QS1EQ0s1ejZXd1ZiV3pKMU1Xd0pEb203RHk2OUtNYmFWU3lFQ2NmcEhCd1p2aUxqVFgtV0xpRGZMYUxqOGlIWVNDd1VpNThFSzlWQTBnV0FBZXdzT1FOQ3pwdExLcEI1d3Z2eHRQMXBPRmw0bXJsMWRxZU05SWVaVUw0eHBsRXBZR29vRFdnekpDSjA?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 18:00:49 GMT",
-      "description": "La Casa Blanca recuerda que Trump \"todavía es presidente\" pese a la derrota en las legislativas DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0dHaHoteEhreWhGd3JLaE1SV01qNUxkN0dqZXN5cFRFTDdTdFZOcHVaZ3huU09iYldmWFlTbkNtNi1UZ2J6VVpRYi13WDRKN0lBR0pKNEtLMTY1V281ZUJkd0l0clFIRWVEUkZEeVBkLVc0aFBDQWFwU1FYYmJRaUkza3hBM0JPblV1NEFEakFmNl9OOHNxVVE1dW95Ym5QNFpFOQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 17:04:00 GMT",
-      "description": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud AP News",
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
@@ -433,6 +442,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "Elecciones intermedias de 2026: los demócratas se llevan el Senado",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeWtmenJlaWxzX0dXV0Jtbk9hTGs1RUtHaFZTN2JpNXFrOURxWTdYb2ZrdUVzRG1zN2g2Y0ZGR0dwTEF6THFQUkRYcHQ4Q0lWOGRxZURSdkdJNWg4ZTJ2RmFvQThiNzRmX3VVbUthNkZpTlNlM0R6UzJhMU1xTTV0OW9LOXI2eFE?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 13:46:35 GMT",
+      "description": "Elecciones intermedias de 2026: los demócratas se llevan el Senado The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
       "title": "Trump afirma que la guerra contra Irán “valió la pena” pese a la derrota republicana",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPeWNnay1ERGJEMkJOV0Fxd3phUlZjSHVtRm50RTdrMGI0NTFTSERzenNRa2pVTE5DTnZZZFNMWU9ZVVZSQnpfWjFYMGtKNjNOcmQ5dkpHWEpaMFE5bk9pZnk4VVdXV2wyVVFIRHJmSXVXeHZ5MVRtZEpUUkdKemI0a1FpNVJPamdyWDNLalRBUUJ1RE5WbUh4bGRiclpZMHVnUjZoaTV0WUtkZ2ZoZGVreW03cWRmNVlOLUJ6VDVrWVV6SUpMSno5cDF6UTBqb0lSSzE3V3ZUanl1WVB1N3VhUUZMRzA5d0dfMng1XzhnUmFlZXJrUHlHZXp5SHp2UQ?oc=5",
       "pubDate": "Tue, 03 Nov 2026 12:44:27 GMT",
@@ -440,15 +458,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOXI5bWtqWXBjemptbWNoYnRYQ3JqLXpXUDVOR3gybE1TSEJhU0hwSlVudnA1NXdCSDdOaWxyaTN1cDFVNGE1YjBXWmNiYlNvR2g0bUVELWNxdTJFQTlsMTVTUm5xMG9yWWFOUHlKVElWY0lpWWJ0Y3VVQlVOWXNaNk1KZjBpOXpRREFpTFV6bnRJdFF0S2dTcnNWcHpKQWNuUTdDVWRzMVoweEd5clF6TldiQUlremZhMTJRZG5JblZoZVVOY2tJd2FBYjh5Zw?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 23:07:10 GMT",
-      "description": "Alvin Hellerstein, federal judge who oversaw Trump, Maduro and September 11 cases, dies at 92 Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds",
@@ -469,6 +478,15 @@
       "domain": "reuters.com"
     },
     {
+      "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "US Treasury drops Venezuela from countries facing outbound US investment restrictions Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
@@ -476,15 +494,6 @@
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "Hay una crisis de estudiantes haciendo trampa con la IA. Las universidades deben cambiar (Published 2025)",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFk5QWZhTDBUa2VjMTNUN1BkVm04VXhzdHZpR1BHSHBvdGNXdjhxOGttWDcwVkRUeV9aMUxSZlFEU2pFVWkyTXIzT2hnaEJCYjdncjdZVFlvZFhVanNaQTc4X0Y3SVJHUVBaTlNxcUNmY2JNTGQyamk3VmEzcmxvcHd2cW9NRmp5TlZobTBsOUE1MmRO?oc=5",
-      "pubDate": "Wed, 27 Aug 2025 07:00:00 GMT",
-      "description": "Hay una crisis de estudiantes haciendo trampa con la IA. Las universidades deben cambiar (Published 2025) The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "Robot surgery on humans could be trialled within decade after success on pig organs",
@@ -568,13 +577,13 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Thu, 20 Aug 2020 23:27:51 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "The New York Times en Español",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NbTR0ZWZEQUJoZGx1b3RvQURtd0VIb09oUG5BaTlkZTBDQkdpNzRaVEZkZl85YjliY3RWVEZIb1gyUQ?oc=5",
+      "pubDate": "Mon, 30 Jul 2018 08:34:20 GMT",
+      "description": "The New York Times en Español The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "La Liga fixtures | Football",
@@ -593,15 +602,6 @@
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
-    },
-    {
-      "title": "The New York Times en Español",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BQ09nSFp4Um1oVTA3WlVvVGdLaWsxOEJzZ29PSHc5S09IY0UzQWNBa2RTbktHWGJaSEJ6SUU5dXA?oc=5",
-      "pubDate": "Mon, 08 Feb 2016 23:48:36 GMT",
-      "description": "The New York Times en Español The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     }
   ]
 }
