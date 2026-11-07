@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T18:35:59.702Z",
+  "updatedAt": "2026-11-07T00:28:00.245Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,13 +76,93 @@
   ],
   "items": [
     {
-      "title": "¡Ozzfest llega por primera vez a México! Esto se sabe del festival",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTmE3aEtfYzU0UW9lMFBkRkZxMldibG5LQ3JpbzB4ZjFtZTRDbGt2YmFiekdWenJnYUhPT1JrX1BZaEUtSEVoQTdwekdwVG5HeURjUDhJazZ4bThGWWJhNXhwQjllMzBnenlJUGtnMmVna2x1OTczTGhheVoxVkM0TmlJX3Z5Q19IUm92R1hEZnBBMzQ1cGNxQW1KbWhhdzlzWkdBV1RvLTB0OGc?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 17:50:41 GMT",
-      "description": "¡Ozzfest llega por primera vez a México! Esto se sabe del festival e-consulta.com",
-      "source": "e-consulta.com",
-      "outlet": "E-consulta",
-      "domain": "e-consulta.com",
+      "title": "Alejandro Armenta busca blindar la Casa del Abue en Puebla con la Constitución",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWkhaeWZWc2RDRlgyMEN2eGEwblV4aUN5Y0NlLXdDVHBaVml2LXhScW1FVmxoTFNLemVTd1hSQlBUX1RuS0E2eE1xUGZpU0NWYkRGNHJab3Ryb0pndDhobnN0VUF4NFRIOXlsazhEZGxVR3F3OFpwSVpHcFo1LXk0VlVnQXd6X0thckdoZVlyZ3BIcjRLNjNqaHJub2phTklLMksyX3RxN19CMUYyTGV2emF6T1poVTNVaFJkbEJwUmFvQ2c?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:21:38 GMT",
+      "description": "Alejandro Armenta busca blindar la Casa del Abue en Puebla con la Constitución Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Revelan lineup del Vive Latino 2027, fechas y preventa de boletos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSm9XMzVad3BINjdja2xQOFFBSmNfTks1V3o4QzF2UW5pR3QwWW0wZEJ4dEtTTDdFR2JTQlctMkxiWmxlbzFlXzhrYV9Na1lyb25sMDNGYUNpQkRQTW5yYk8tWndPeVN1SDZ0NDdFM1NkRnBEV3Q3V18yb2U4N1R5amlVcnZVdFM2SVBTenVkdTVGcHY1Q25wN0ppazV0RHJHUnZyM1FCd24wNENUaGEzaXdFbHVOdWMxLXh3UnN6LTFua2YyOGQw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:12:19 GMT",
+      "description": "Revelan lineup del Vive Latino 2027, fechas y preventa de boletos Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Balean casa y dejan mensaje de amenaza contra hombre desaparecido en Xonacatepec, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWFpQQjlRMXgzUlhhdWl1VXN0eUpMR1VRX0ZBZk82OFhrWnpxOXpSTm02VTc5enltVFAzaC1IaWJxcjhYa3p1VHU4VkpWSzVfdVhYWEpfODBsY3VFZkpMVWx4emw2OE92YW0wN1NESDdkdVFOYXJrUHVUS3czNWdlSXRmeXR0cmpTZU9TaDVuY1EwRkxlUHZic0haRl9ZRGh5bF8wTW1UZWUway1qOHJRMkJMLWdaektOZ2FZQVVtcUU2eDlGQUItNDBWTjk0V3RWZXFhT2xTVVRpa2tCR2dpZDBVWnZTS29mdFhR?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 21:54:07 GMT",
+      "description": "Balean casa y dejan mensaje de amenaza contra hombre desaparecido en Xonacatepec, Puebla Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Maluma regresará a Puebla: El colombiano confirma concierto en la capital para 2027",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2JtbXFIRDNncVUtd2FqN2FTZ3lHdkJZT1dZM2ZzMW9wU0pMdmhxNDNRcjJfTjFqeS1fSTQzVHZqR18zc1pVN1I3YmNUbDJ2U1UxLWRKYmtnQWNydmJpSVR5VkRQNFRKaTNiUEhDdmRFajhRamJka2hjeVIxQXlmZF92ZXBGM0FRRDlGdG5DV3pfS0pwWDhNREJjVy1COFlQbmdRSGE1NnQ5QWlfOUNzQ185VF9rX3ZlNEc4R3piNWdPREdmY2J1MEVmcnFXRWM?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 21:46:17 GMT",
+      "description": "Maluma regresará a Puebla: El colombiano confirma concierto en la capital para 2027 Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "💁‍♀️🧚‍♀️ ¡Nadie soportó el doblaje fresa de Wildwood! Funan a startalents y exigen cambiarlo",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRl82RGRnVGNacjctbUd4SGpNZGg1Z1pNd0FRUmVhb0xhVHNTdm1aOUNfX0Y3cGNvWUNTUmVEMFk5anFTQVN3YS0zcE9vMmtraGFvZThrQjYtRGJTX2RHbUQ3cDhEZUxzQV84emVYZEhXMWRpWGlTQ2lhS2Q0YWJaYVczWENieDhZMi1vNkx6N0N4WTh0UkxaUmpnMFVTVWJnakI1eW5lRXFMY3ZyNHlXV2ZHQmV5dTJ6SHpRdkRLQ2hZNEloZ3gyMUg1cXNFR1BHMEpMVnFzWDJ0dEJiZTB0VmhLQXBSUXMxc19nV29razJqRWFyUTdURw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 21:23:28 GMT",
+      "description": "💁‍♀️🧚‍♀️ ¡Nadie soportó el doblaje fresa de Wildwood! Funan a startalents y exigen cambiarlo Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Club Puebla presenta su uniforme alternativo inspirado en el mole poblano",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFBMb01Leks0VXRScXBpdzFtbVlfMkdoSTZ4b0d3M2YtYWlLWHM1MHFIMUkxeXQxaDV4T2Vsa2swYUJLcTRtNk1scFpod1hmR1lwNnZHSW8wYU1nTGRQN1huSE9fR3E2SHJDekxCZlhhT0xncEhYMFA4UWRqQUdSUWhraUhZcDY4am1LaS0tbkczMVdpaUw4MkljZU1pNENvMjctZ2J5eGlhcU44dWt3RTdFbjFDUXBUMHQwci10NA?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 21:01:23 GMT",
+      "description": "Club Puebla presenta su uniforme alternativo inspirado en el mole poblano Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Tonantzin mantendrá diálogo y evitará confrontaciones con Pueblos Originarios",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPOWpwZUZoQWVhTUNzN211dkh1cDRoU2R1cThjTU96MnhILWozYU45VnRtdHZBVUVQU1U1MGMtcmxyOXdqQWkzNGktMWpKTF92RWlOQmQ5Vk1rdUt5VG8wM0FSMC1sWkJpWWpVY3NXZzU4NHgwSG1JeUdfcklyVEp1RDUtS2ppaTJBbWRvQUJBUFpac24tSTNKMXdrWVFpQzBkWG81NUxwTHRXLUVyY3hpeE8zcG5RcU5hWmtWQkFMalJiZHBjWERDNlZJWUhCZFhjV0NSRnExY0JCOHZoS2NMZXRoX1RVR2FONDM2ckQ4UHhBYWNKTXQ0clEtSEhIUVJTeEJuM0JqZmo?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 19:38:07 GMT",
+      "description": "Tonantzin mantendrá diálogo y evitará confrontaciones con Pueblos Originarios Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Caos en la Recta a Cholula: Transportistas y pueblos originarios amenazan con más bloqueos",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR3VvZEQ0UWdUX1FUQjJ0dElOZDB3ODAtekkxZDNmd0c4WDBBTS1DRjVqNXQwVlI5SUhUcWM5UDlrT2JwOERIWkdsVlF3dlhmZmVMbzh6UkVPd2U2dG92dnlfRkhoYVlGM2pOdVBRbTY2LUdBdjVoNmJuUmdQUkE4RHozQWZFTHJwWF9wRXRxUUl2MEk4UU0zbXhzZ0thN1JOWXhsMUVZOEFmOFJ4TjlheGdyaDB3ZUZGdHJ1Yk13a1R1LUhuYzBpa3VOaFBkTGdpcGF4em9wS3hveHN4ZzBXZ2M3Zl9PeTJqMDRVUg?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 18:47:59 GMT",
+      "description": "Caos en la Recta a Cholula: Transportistas y pueblos originarios amenazan con más bloqueos Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Poder Judicial bajo cadenas: trabajadores se van a paro en Puebla por temor a perder sus empleos (VIDEOS)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS1p6LXJHWW1KYXhhd1RDbk41LXhQbUN2aUR2WGQxTFFydThLTGZpQWY3bkNxMHg2elYzblZ2OVFQZmwtU1JkeTFNTFNJZ1BqUWRCOEMwTkZ1OTNteS1TU3lHWDkycnExb1p1MllFMHFkVEEtNi0tY0VVVHZpT2xPS2R0Q0NvQnBVRWpjdlNCdkJ0MGFGMlBDUzZuZWpLNUVKck9CWmZhVWJXVWR6TWtkWDZXR01RaXp1ZTl0VmFncGxkVDdUZHpOQXV2alFqN3h6U09OdGZB?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 18:46:55 GMT",
+      "description": "Poder Judicial bajo cadenas: trabajadores se van a paro en Puebla por temor a perder sus empleos (VIDEOS) Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
       "group": "estatal"
     },
     {
@@ -90,6 +170,16 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdGZvNmJFUWhrYjVtUHZHdzU2V3JMUDlvX1dLNjNSbEpYRHVZZ3ZJaU5vV2h3QmxxNWVrMzg2TnBDRm9janBLM3BxOVJqdnB0QS1DaWZWRVFBN1lWR3hlaW11R2JlcEdNc3VvdTloNmRVS285dzZidGNjTGxFSjdGZXJnRkNrdkNCbHRoVWJNSmdxSzJwcDExNXpUUmNvbGVKTDBwendtaWlOMHRENDJjWlFiQ1BaanJHVmpJ?oc=5",
       "pubDate": "Fri, 06 Nov 2026 16:19:00 GMT",
       "description": "Destinan 106.2 mdp a dos caminos de la Mixteca y Tehuacán; obras durarán tres meses Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Realizan la trigésima edición de la Feria del Libro en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVy1OTHlobFd1WTBxVFpySDZsN0NRRW9GdEVKUWw1U0V1M0Q2REZoOFVpbWY3TlRJZmxZWUQ5WUhidFU2V2IzclZmendjd2xkX3ZDR2dINWFEU2hFeFVkYm83ZWxUTGxYeTJCVnZNNXozY1NHalpIMXJkZndhTDZicjlOdjlLRXVkUDBhbDBuZUFJRDkwRmYwNzB4anVoMTgzNzB3a0ZiRHBudXd1WlFnWVFB?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 16:17:00 GMT",
+      "description": "Realizan la trigésima edición de la Feria del Libro en Tehuacán Municipios Puebla",
       "source": "Municipios Puebla",
       "outlet": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
@@ -116,40 +206,20 @@
       "group": "estatal"
     },
     {
-      "title": "El Yunque hace círculo de oración por el alma de Lalo Rivera pero no le piden aclarar corruptelas",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUlBNWDl3R20yV3AxSFRUTkdhNTRvdmdhVnZ0UnQ2Z3J0bzlha2h5V29DX3BCT2RGbWljQWlGc2UwcjNIWGFJWlVqWEswelczcmhBYlI5c2VsTzNtaC03MHo5LW1ndzZnYnRiOXQxZXBsU1ZYcXVjSXpnVnZRalFScWNiaDgwYUUteG9SaDNyTFk3Z2NWSmRKUm9yVVV3WmlQSGdudGRfVTdRTTh4dm9WS01IVnEtVDhqa25nV3NsYzM1bUtjdzQzb19NRUhNR3NsQklGVEo3T3FyYUhh?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 11:30:00 GMT",
-      "description": "El Yunque hace círculo de oración por el alma de Lalo Rivera pero no le piden aclarar corruptelas Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Condenan Armenta y García Parra red de corrupción en torno al INE: exigen que IEE transparente contratos",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1MyOVBVTE8xel9RNmhiTWpVTDRibnowbDhjYWprU2VVdDd1TnM5d1V4TmJQMmZqaF9oellHWGY4U1k4N2IyZXFtX2k4ejAxUVBCYlVDT0JESFVqVDZFTkdTNHFjb1FMamFBeElOdTVrRkpwaVVSMnc3WEc0QTlORk9XVzRuaUlNS0t0d3AxSlZjM2IxcUt3RWliQ0NGejFxdjNJSUJzdUFXOGJrMVNhbTd0UzVYcS1HRW5ySEU4MTI5SlZ1TzJnaGhmR0FYREFuaUVEZ2lsU3RFMmN5Slcyc2lR?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 11:30:00 GMT",
-      "description": "Condenan Armenta y García Parra red de corrupción en torno al INE: exigen que IEE transparente contratos Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "IEE da arranque formal del proceso electoral 2027: competirán 11 partidos políticos en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTFNkN1RiS2N0M0h0VlV2U0duRGJfWjRmbXZWMDBCcTJPN2h3R2ptZ25ZY2NobTJKY0hINHR2WHR2M3N5Sy1IdzdTQkN3cEdoLW5wLWVINklfbDFGSjZzUXFYTlc1NjRkckJXbjNRWndLdGhvenFPUDF4bWRMcUdOSFVyakJINHhsRjI0X3FkcXl5QWJ6TGZOc1I0WWpwM2VYX1lyY0w2UGJmNV9raXVUR01yU0dUUjdPSXdPTU5DeTVwZEhwTHp5S0JYekJEREdqYnVZVVF3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 11:30:00 GMT",
-      "description": "IEE da arranque formal del proceso electoral 2027: competirán 11 partidos políticos en Puebla Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "En menos de un mes, por segunda vez realizan operativos contra extracción ilegal de agua en Almecatla",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeGV6R0laSldIOFNjNmliSVN6UmtxYlNJNC1pSV9aMkR1RDhEWlEzWHdKTTl5MTVLdzlNZUhJcWFENVZYTEJRQVRBMzREOTNoZ0xTa0hVbjB0b2c0c2FzMGh2RWhpa3NLWXdsS0xad0R5SllQenI1WFZQT2ZkemJqLWx0bVZRNXVRRkxiR1VWTC1IYjFQdXdJUC1rYk1yMm1hY2xHb0lreFFCeHZoVjR1Q1c3aExhc0JLbmthNk94dFM4Q2pPSERhSkhnNVlJZTdlT3dzY2VYSTh1RWhDMTdHbnN3?oc=5",
       "pubDate": "Fri, 06 Nov 2026 10:00:22 GMT",
       "description": "En menos de un mes, por segunda vez realizan operativos contra extracción ilegal de agua en Almecatla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "¡La Navidad llega al CCU! BUAP invita a disfrutar de música, juegos y el encendido del árbol",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdC0waU1ZSm1HWGJqSlg1MVA2VURWUWxGTE9wbHJKbjV6VURvS0dKUjgtNDVaYm1MQ2NBdWhzLW05eWN4OWR1ZjBOVjBldHFFeHV2VDctdEM5ZG1TdHY3TGpTTjNzZ2dFVHpRQWNKZG1INDA4NzNQZUFMQU1Eb1hfZWRTT0ZWS1B2bzhJVGNSdE5lemh2X3FjeVZIclVUUVBLSVlSMUpoQm9YYzU3bmlHRjh2b3dKSnIyZ2JucUh0YXZ0SEd1d0lWQzJGOXV0UEFUb0VRRGpaR3l4Zw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 02:50:22 GMT",
+      "description": "¡La Navidad llega al CCU! BUAP invita a disfrutar de música, juegos y el encendido del árbol El Sol de México",
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
@@ -176,13 +246,13 @@
       "group": "local"
     },
     {
-      "title": "Gobierno de Puebla acumula 315 despidos de funcionarios públicos por irregularidades",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMnVRZVlyMUU3YkxpNG1naHJoV08wVHVnY1FiSVNyVy1aZkpzUGpKWTljSWpzTlRHNGRacWYzaGR1Y2pkSDhkRVJqU2NIQ1FhUmpfOUVmWDdaZHhPSnlLTHpQcWE2eFIxcG1UQlRUbERXZ2N5TFpWZVd4RlE1WmJQb3ZVSHJPTnI0WXV6c1pheUdDQlVfdjJLYTdWMTI2Qy1CaXoxY2JFc0F3OU50di1jZnRsa0owSFRUbkQtVjVXSWdpNl9zVHQtZXNaOA?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 01:44:50 GMT",
-      "description": "Gobierno de Puebla acumula 315 despidos de funcionarios públicos por irregularidades Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
+      "title": "¡Rafa Márquez sacude al Tri!",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TTVmaTZfbUNZOGh0Z2tYZXZNazRRcDRNRzdYMEdjVjY5T1NPa2FaVHFXLXF3RVRlUUl6RTNyNFhTY1pRUWNXMnFqMEZPbGZEbWY4NnRmUEtqMlAxRFJrQ0FtYk9XaDFkWVhIMjNGdw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 01:21:34 GMT",
+      "description": "¡Rafa Márquez sacude al Tri! e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
       "group": "estatal"
     },
     {
@@ -216,36 +286,6 @@
       "group": "local"
     },
     {
-      "title": "Gobierno de Puebla se deslinda de la inhabilitación de Eduardo Rivera: Alejandro Armenta",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXFSOEE0OGk1bm1KZFJOT1ZWeTRWenVfQmlwRkVMOVlhVlZPR2hCMjVBdzEtcE5WaXAwdmlaMVFkSmRMd1oweXhTdExla196LUlLYUl3VkE5RmFYNW5XNlJwX25nbVNBOU5WYXIyWWtiRzBsTTM3SmhvOTZFb2ZkZjlyN3IwNFBKT1J3TFVZa1BKc2RzVUttV3REbzEwR0lqVjFEU1VRaFdFR3RzNU5idzlZdUNfcTB3eXM0VkJHekxwOHpmS1R3d3FCVjVsMWhORGc?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:48:25 GMT",
-      "description": "Gobierno de Puebla se deslinda de la inhabilitación de Eduardo Rivera: Alejandro Armenta Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Operativo contra ambulantes interviene siete zonas de Puebla; Centro Histórico bajo la lupa",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLWl1WXhKdmJzR3RRWWRaS05DaW96bVUxQ0Z2Y3dPSTR4Vk5Xdzl3ckRZbDlLSVJuSFBLa29MZG5LSkdLSm5fUVJaN1ZrRHI1UjhlQlpkbmdJV0xyYXZFaE8zakg4ZkhZVWY1U3JFdHJ5TVNlZHN1aGZUOEd3TVQ4R3R4OXo2aTdRaTk5enFmUGFIb0JGdGZ4VVBMYXdSVHNUeHYyVHBkUVRiQ0Vya3d4dDZnR0xXTmhoRGIwQXZIa0plS3dZMTVwTkZoRDRaejltNFI1Ujl4N2s?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:22:23 GMT",
-      "description": "Operativo contra ambulantes interviene siete zonas de Puebla; Centro Histórico bajo la lupa Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Armenta entrega maquinaria de pavimentación para rehabilitar calles de Huejotzingo y Texmelucan",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQXZUY0YzUmJuUkRFOTFwZEVJT0tHMnE1alNMUHZEZEdvMFNuWXA5SmRybC15akdKcG4yTDdpM005Y2F1SHYzMGlQdHh4S1Q1elJGd3ItaThTM1JUZTYtMzhjNkYtWGFjOUZLMjJXb243QVZiS3h2SUV2Qm5MWDhBelY2M3VscG5Ec1ZpUm1LdUNWaGhXbDJMR3JBcEMtVmF5NzJnQ0I1bTl0NjJETFM2SV9KSWVXY29wMGZsRXJYVnVwOHVJNjhFTDNSNC1Kd04xemdwNU92VQ?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 23:16:56 GMT",
-      "description": "Armenta entrega maquinaria de pavimentación para rehabilitar calles de Huejotzingo y Texmelucan Diario Cambio",
-      "source": "Diario Cambio",
-      "outlet": "Diario Cambio",
-      "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Puebla recibirá la gran final de la Súper Copa Roshfrans",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjZBS19vWV9Pb3N2OTg4V0pfUTJ4c1RKY1p2Y0xxejVnYmYtTHJQaVBZUEt4RDhSSmtPdTRjbV9fYzhJM05oT29leFQ5ZkdjZ3NVRGVRT294WEFTSVlqUV9aZEJpLTh0LVFleWl1YmFwWlBwTTNuaFotaHVmdnE2cGsxMEc1eWJEU0JMZklIcV95NzZjclQ0?oc=5",
       "pubDate": "Thu, 05 Nov 2026 22:33:47 GMT",
@@ -263,26 +303,6 @@
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "Noche de Leyendas reunirá a figuras como Cuauhtémoc Blanco, Zague y Cabañas en Puebla",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS3dlNTVHRTlrcEY0T1dzUWVjZG9PSE5JUjBmOHAxcVljeENSYmVyUkE1X2xEa1doWl9PV3RVRVBoUWNHVGdFSE9hSmRCTFNuaERpVTVJSm1tMGd1SmJmMkV6LW41QzFSRHRQalVwYmx0cUtDSVROR25iRkdPaEszRklKSjB1Qkh6UnNyT3ZEb0IzdGh1US03ZVJRWlI1bUhvcTNwelU4U2h4MUdBcldQZnFvazY1cjlydGlESk82Rno0ZFktTzBlWXJXSjM3dw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 22:19:17 GMT",
-      "description": "Noche de Leyendas reunirá a figuras como Cuauhtémoc Blanco, Zague y Cabañas en Puebla Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Puebla figura entre los estados con más contratos del INE de Guadalupe Taddei: Gobierno estatal",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYUxrTlFRazBEek9IN3NFTW9vQm56VUQya3ROS0J3eDRscnNYZVZCTXdsTGZqUnZSZ2FwQ0pYbUdicnQ2OGhMNUgzNm84VWNIX2R4QzltVG5BaDBmRWxUdjUwbkJoZzRHcEdEVGtJdzFMcGYteTNKckJlQnR2dlNySTQwckdsTGxpd2Y1ZVNnYUdXRHdfMElxUmlXZWNiYXpoYlBQb2J0ZS1NSW5tUk9NS09wMU0yRm9hMkc0b1FfVTVTY1FoaDdicENuTnFpa3Zmb2lQUThvWGo0aG8?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 21:39:56 GMT",
-      "description": "Puebla figura entre los estados con más contratos del INE de Guadalupe Taddei: Gobierno estatal Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -336,10 +356,10 @@
       "group": "estatal"
     },
     {
-      "title": "SNTE 51 pide a padres de familia limitar el uso de celulares en casa para proteger a menores",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQb2pYYzRON0Z4elowcUFDQ2phU2NISHpuMlRYWEZ1ellNYS1YVHJ3dmhRbFdGTkpHNzVHME9DclBJT2NweFJqOUcxeW91TWFXdTRjOUh5blNoc0lKdUNRSEVEWlRyZEFwYnV3a0IyV1kzbmRfTnB1R0FkVjVfSUF3d1BfSjM1R2tBdkFDQVBKTmdUNFJ3VjFJaFhqVS1jUXVKQ2JmaVNxXzQyY3gyenFvbnlpN2VpZXJ5a3ZYRVFIWjJEVGRVdzJSd1d1UGl4UFlEMkE3czNkaw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 03:11:16 GMT",
-      "description": "SNTE 51 pide a padres de familia limitar el uso de celulares en casa para proteger a menores El Sol de México",
+      "title": "Profeco suspende 12 tiendas asiáticas en Puebla e inmoviliza 343 mil productos por irregularidades",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSm5NM3hWMVFWTWNleVpTb0VTNGhpY3dzYXF6Mm0xSi05Wm1WeEpFbDhiUFZyQmFHbktBSm5ZNEtjRldoVzRqNzVKekRlS1BpenM3QWtSSVZhSGNOMEhmUlpPd2IxUEdpWnRmM2E1NlJxdHVzdk1ZR0drZWtCUERWTm81dmgzUkxNbjhTUXZrUDlta2w0TVhWSVc4TS1IX2cxOUl6WEdXQlZfcUlrLXhvQVZWM2dVZUVEaXd5aTB1djdVTEwzc1NkVlBRNVp5X1NTdEh2ZzNmU3dsM2t4Mm04ZkJZNA?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 02:33:47 GMT",
+      "description": "Profeco suspende 12 tiendas asiáticas en Puebla e inmoviliza 343 mil productos por irregularidades El Sol de México",
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
@@ -374,16 +394,6 @@
       "outlet": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
       "group": "estatal"
-    },
-    {
-      "title": "Fuerzas federales realizan cateo en inmueble de la colonia Moctezuma, en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa2NDNHNHQkxldFZsdnlhN194Z2cxenJ6eFB5RnA1X0pmenJETDMxOEVMWE11ZzJzWXUxQURvLVFUcHE0QkJKZm9ibjRaQmplSVgwZ1oyMkFqVWowVVQ4Sm0zUlhzbVFJczZsRU90UF9sZ01JQVZyR0xhTWFweTJ1MHB5UTlFWGdGLXcxVDJ1QnJmYXIxMHhVLWtCMW1iU3FoYXhxVl9VSmllSFVMV3lBN2tzVEoxeXlUWXo5RTdlWQ?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 15:12:00 GMT",
-      "description": "Fuerzas federales realizan cateo en inmueble de la colonia Moctezuma, en Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
     },
     {
       "title": "EN PUNTO",
@@ -496,6 +506,16 @@
       "group": "estatal"
     },
     {
+      "title": "Panteón de San Nicolás Tetizintla sin lugar para nuevas f0sas y sin recursos para comprar terreno",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82VjVSLUt2aE5wT1U0d0QzUTBZM1dBc2FXVUtLNkJZblNzYTBOVHJTZlBHSGM0Tm5WUl9HOHlFS1hIZ1lIZG5fMkVLZTdxMERkd2hyVEVCX0Y?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 18:59:49 GMT",
+      "description": "Panteón de San Nicolás Tetizintla sin lugar para nuevas f0sas y sin recursos para comprar terreno https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
       "title": "Aclara FGR que suspensión a Ernesto Ruffo no cancela proceso penal",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbTMwa0ljTnpkeFpfdFBob21CNWUwQ192YWgweGtDLTRkT3h3NjkzUS1wYWN6YU9VbndycG4wSndBQnNZZ0owZEhZTzNNS213MUUtSWQ5TUIyeHRSZXJQOGkzNDBOWEp3a1c1OE91eFA4NHMzazF2QTZrTUtIYklBZ0VrN3djMk1vTFpzeHhDRjdRUjI5WmlBOV9DMzhvVjhBTGd5NDA2ZGxXR1VLaGJNNDhtbXJoTWNSXzN6ay1YczFkZWhYTFRvNTJOOTBvTjNXdlZKbEF3?oc=5",
       "pubDate": "Mon, 02 Nov 2026 16:45:23 GMT",
@@ -526,13 +546,13 @@
       "group": "estatal"
     },
     {
-      "title": "Mario Torruco, atleta residente en Puebla, fallece tras sufrir deshidratación en Mundial de Functional Fitness en Aruba",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVHlSMFdRS3QyWUpGdlBjbzNWMndVRmdBYmJvaUFqVXJLZzh1MUFjVEZtbTZwUnZlNkdWbzdQemJXS1FpODBPYk1QcHFoZDZaalF4eXpVamlGMkxaRC15SlNiSGdEUXM4alpFS1ZxbVFxbnZwaFVRZGFuZHVINEFjRFh2SVV6TkZ1cHNqalVjbU5uUXhldlV2WmhKRXBTMEp3dE1iTjk4SEhHNHpEM0pjellfcmNqRWdPM1hnT0FUdndMRzVUWjlNbl9yZW90VXBRZ0d0eXh1SFQ5M25SeGxJdXpRS0hHXzA3Wl9QT25oUkVtRjdxOGlnVElLVkw?oc=5",
-      "pubDate": "Fri, 30 Oct 2026 01:20:02 GMT",
-      "description": "Mario Torruco, atleta residente en Puebla, fallece tras sufrir deshidratación en Mundial de Functional Fitness en Aruba El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
+      "title": "Extienden el Festival Catrineras hasta el 8 de noviembre",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2N2VERhTm9OUzYyajV1VzdTc0kzN3hYSVN5NmwyZ2tlclU4ZDFoSFc5dW1qUUJUVkhXN29WOUJvdE5kQUluTnl6SWFkRl82NHdEZkF3a05HRkRFOUNMQ1ZrRklmMHBtSE1oV1R2YVprTU9PamdqOEFWNi1rcnhBbllfM1NMRUZKeXBVa0xUWGd4eTROa3UtOEJZWDM4dw?oc=5",
+      "pubDate": "Sat, 31 Oct 2026 03:46:05 GMT",
+      "description": "Extienden el Festival Catrineras hasta el 8 de noviembre Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
@@ -558,7 +578,7 @@
     {
       "title": "Anuncian cierre de cuatro calles del centro de Tehuacán este domingo",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZnFiTkVPbzctM0dHMUZHNFFXNE42TS1mZXJKc2hmUkk4VURrT1VhN1hPVnNCbEU2WmdTMGhpYnlxV25VU3RyLVBuM0phd0RJMWZaejNMbnJuV0FXejZSVG5qT3V3YmNaQVdHUUlsVGdaSG4yZldsZmZPeXUzRkh1czZUR2g5Z3dXWE9CVWtKWnB5RVZ1cWx1M1NfR3pCdGvSAaQBQVVfeXFMT2xaQVhOWTZvWlpNWkw3Uldod1VZdnNSMGJDYmE4MnpKMXJBbmNGMXFfcWxRbzF0SnR4QmN0c0JoaEJ3TTdHcUh1bklxenFycHZyR3N5OGkzdXdIYmVnaFFUUDdaWFdweWZoU1VDMS1NcjhDZ3hYUnBaQkRWNUp0eXVvRFdUcDNVaFUtU1BqMFM4MnRCTG5qbFBIRngtRGxMYUF4YWk?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 21:06:03 GMT",
+      "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
       "description": "Anuncian cierre de cuatro calles del centro de Tehuacán este domingo Noticias Tehuacan",
       "source": "Noticias Tehuacan",
       "outlet": "Noticias Tehuacán",
@@ -591,16 +611,6 @@
       "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
       "description": "3 especies de murciélagos destacan por su papel en la reserva Tehuacán-Cuicatlán primeralinea.com.mx",
       "source": "primeralinea.com.mx",
-      "outlet": "Primera Línea",
-      "domain": "primeralinea.com.mx",
-      "group": "local"
-    },
-    {
-      "title": "Ch0c@n por alcance en la Cuacnopalan-Oaxaca",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xSEpZb2lpWk1ZYjR2RVlROXF3V093SGZlWEZ0NlJLZ08wUmh3WkN3MVlReUxKdmJ2cWdiWHg1VWtsNUdfY0FvbmYzS2pDck05NjdOLVJjVjk?oc=5",
-      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
-      "description": "Ch0c@n por alcance en la Cuacnopalan-Oaxaca https://www.primeralinea.com.mx/",
-      "source": "https://www.primeralinea.com.mx/",
       "outlet": "Primera Línea",
       "domain": "primeralinea.com.mx",
       "group": "local"
@@ -650,6 +660,16 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUZqbnhKeUozOHYzcXM5RlRocVA5RC16TkpPY2FLTDJ5eDdxV05GeGZDWXZZeTg1bEZuWlRKT21GTnlwdEs4YWJ6XzZiTEZWN2tSeTdvT1JNSE1qZGs1Q2x1SDRmam5RWkRoQjd0c3hWTjdjN3R1VTdZa1prNHk2bXNHTDBEc3Q3WkE?oc=5",
       "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
       "description": "Disfruta del 2x1 en conciertos con Concert Week Diario 24 Horas Puebla",
+      "source": "Diario 24 Horas Puebla",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Yankuilotl donará bicicletas a Sepomex",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQ3BGLXItc1NKTU1FVzlURThEbktXWU5DMFM1cnhVUWxkTllnTGlndXlyenh5UHVhbXVZS2NHTUFNcDBfS2FMa0xoNVBmOXdGTlFUZlE3WE15TVpmd3NGQ0F2OFFobDN4YzJmbk91RWFwMEFmOGRfXzlobjlFUQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "description": "Yankuilotl donará bicicletas a Sepomex Diario 24 Horas Puebla",
       "source": "Diario 24 Horas Puebla",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
@@ -706,16 +726,6 @@
       "group": "estatal"
     },
     {
-      "title": "Noticias Puebla en Ambas Manos",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1rLVo2Y0pzcE1OWDV6eTRoNEJWTU54d0JwbUtfeElLbVpLandwcnVBZG1EQmRVRGE0YXI0MEhONA?oc=5",
-      "pubDate": "Mon, 27 Jun 2022 23:56:59 GMT",
-      "description": "Noticias Puebla en Ambas Manos Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Asumirá presidencia de San José Miahuatlán, Rafael Ramos -",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmljbGloNEk2bk8xNjd3MzVJZ1B5VkNTZXpvWm5mdklFem1Vd0VzZWd6QmZBMDJEZVhaaktpWmlzUElCMmJ2aVZvNXJTYWp1ODBYOENaQk5kM0ltLUI4cHl4UjhLOURjYUFYXy1taEVFRmNKblZoRXpmMG56bks2WktRc3V0U1BXYUpfN3hzNXU2U2ZwdDNxV1JXbU93THVjM2tad0ZYS0M?oc=5",
       "pubDate": "Thu, 14 Oct 2021 07:00:00 GMT",
@@ -764,16 +774,6 @@
       "outlet": "El Uno",
       "domain": "diarioelunodetehuacan.com",
       "group": "local"
-    },
-    {
-      "title": "24 HORAS EL DIARIO SIN LÍMITES PUEBLA - Diario 24 Horas Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB4UlFNakdNOUpSZjVmTVlhVWVnOUx1Q2RBRFEycWFsVEhnbjF6VEZ1ZU5obDR0M0o4UHNJWXBJNA?oc=5",
-      "pubDate": "Sun, 09 Dec 2018 16:28:11 GMT",
-      "description": "24 HORAS EL DIARIO SIN LÍMITES PUEBLA - Diario 24 Horas Puebla Diario 24 Horas Puebla",
-      "source": "Diario 24 Horas Puebla",
-      "outlet": "24 Horas Puebla",
-      "domain": "24horaspuebla.com",
-      "group": "estatal"
     },
     {
       "title": "Noticias Tehuacan",
