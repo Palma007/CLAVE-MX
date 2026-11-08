@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T02:55:44.623Z",
+  "updatedAt": "2026-11-08T09:41:09.871Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,22 +64,85 @@
   ],
   "items": [
     {
-      "title": "Un juez de Paraguay ordena prisión preventiva para el expresidente Peña por el caso Ueno Bank",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 01:56:16 GMT",
-      "description": "Un juez de Paraguay ordena prisión preventiva para el expresidente Peña por el caso Ueno Bank BBC",
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 09:04:08 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON3lWajRpU0ROMHU1T21laHBLZWZPT1JndXlxdWt6aHFkSElGVTIyM0NUNVh4TVpVcUp2ZUtMcElmU2RRbGZZNHBIakJJNjJtVzVxYXQ3bDg3dWZWZjFPVk9rdkU0WF95ZlY4d0NGcGp0R2xEWV9Wa0I1c2JLc2Z5clNPWVpYVC01YU5udzkxUlh2UWhQUVozdW1zdDhTMWg2bVpwR1BKVU9lOG5aWjNmSnAzOWxMQkVkUk1KcElnZ2l4QkFpQVlJRzBwVdIB3wFBVV95cUxPY3pTV1VqZk1BREpZbnhGaUNhOXVXeUhzQVBIZ0wwT0wxTUhiRWVnMUl1V1JnZTdxSEYzTDhmQjJqNVhxQk5GSkRXbWF4M0pOMllubGRHZU5XeTBncFJyTjQ1Z1dFZUE1VTExem1meHlzRWtVWUhQRlVLd1F1Wkt3bUJnd01XYXZjMjFnRkF1d3ktVDVGOF9PR2hhbEZLWjh1Tk5HWTY1THNOU0loNXU4V3VNVjM0ejZlZy1qN05aVEtvUDhDa3Z2YjE1MDN3ZWFkT1NBQTdDQlFwbzAzMTNJ?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 08:19:24 GMT",
+      "description": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren? EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Tres militares muertos y 16 heridos por ataque con drones en Colombia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQm9PN0hPWEdrSnM2c1d0MXhpY09RWERPMmtCbXZvWEhnWFkzTDU3aXpNRkFRbFJfSmtWY2gxblRscl9SZ0loRnFUTS1wTC1fU0xpQkxmNE5mNjNUa180NjRIeTBHTDVCVklCUFFtX3pFdG11Tm40M19jcXRFNEtHdXhsem5PUjVSbWZza1BtM0hNT1VyWVJURFNrM3d5Z0dfV0NzSdIBpAFBVV95cUxNeEVoSndyYjV0SnBzb2dZVXVubDhFc2ZhT1JsQmdvLUNFZ0hBMkZYNmxOMS1pWkQ3T0hQS1I5bllQaGs1aVFzZVZScERrOGVwVXQ5cFphVlVuYTRDbnp5bVBTZHRwa3JhaVlMMEI2RFdETmNzM3dycDNVM2F3MmRudmNuWjc5RHVJT18takp3SHBHZVk2dHo4LTdCVXRmMTBYVng2Vg?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 06:38:59 GMT",
+      "description": "Tres militares muertos y 16 heridos por ataque con drones en Colombia DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Ana donó sus órganos al morir en España por eutanasia: ahora un grupo de abogados cristianos quiere prohibir que vuelva a suceder",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXVnNHRWZ2LVJoR3c5c05uM25pVy0tbUp6QUZ2RmdPWnBUbVFsSENCVzFXWm42LWxjdG45b1lyNFBLWS1HejB4Z2x1c0NaSzhkX3owRk4teEM4c0Zt0gFiQVVfeXFMTmlPdWZvbEI0X2xkVVVzRmNLbXhDX1R6WWRrck8wOWJqb1d2RHByT0JXWlRMclRRNE9ZVnNUSGhTeFprSjRoX1gzSVNCYTJXTDlZNE1IV1FmaG5DanBUbzhtZ2c?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 03:46:28 GMT",
+      "description": "Ana donó sus órganos al morir en España por eutanasia: ahora un grupo de abogados cristianos quiere prohibir que vuelva a suceder BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 21:58:45 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00Mk93Ukhidzg1N2MwVF9TM3dxTDVrbVR3SUNCY2t3WjZRanlYdm4xMkQ4QVl6eHRac2R1RURLeTVxN21oZzU1Zmx6MlI3WHNJU2lUWm5CRUN5M1Vj0gFiQVVfeXFMTmVkTHhXUUJNUWpHaTVrcmlWbG1ob2toOVpzcHZaNTkwVDlra1pmUUMzbHV1NnVMZWN0aGNfWlBJbjBVVnVVS0plU3hXZ1FOUDhOdFhWaFd1UDlGN2JXSzBySUE?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 01:56:16 GMT",
+      "description": "Un juez de Paraguay ordena la prisión preventiva para el expresidente Peña por el caso Ueno Bank BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La NASA recluta a astronautas que quieran vivir en la próxima base de EE.UU. en la Luna",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ1E1SmNWSFNvcTFaLXVpOHF0NjhmT0Vub19HUFFSS1VRR3ZFaDZoSC1KTkw1Tm4wY21vV2R6VVM0dWs4UE5IQk1Cd3o0VU5MWklYRG82aEliWnlBam9ZZUlQeTMxXzM1NVo2ekxKLW1hM3gtQVlMZDBuaXNNU0VzX2FrZU5qMlhrLUtUS21ueTRvN3d6Vl8tS25JTk5SMGhpZFB1YWFFa01UWG11U3B6TGxlbWctMHJza2xpcVpaRDjSAcABQVVfeXFMT0VhZVp2Tm5yZ0g2N056YUI0aFZrWXlTM2pjaEh3U0owVE83eUJpU255TzR3ME1Vd29ubmR5b0pfUkdDd0lZRkxFNUtaNDU1THl2cmduODdQdlNQSE4taGZjYlNydXBSeHBZN0lHUV9jQnBjbVhScVRmMWdKbHJVa0tFWm9nOGdfVmxrWVY2aDJXMXo5VXJJZEVCQ0k1T0x0SDlGdHc3V18xa2ZNdmRTZGdQdUlGNy1xSU1STmFXXzhI?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 01:27:39 GMT",
+      "description": "La NASA recluta a astronautas que quieran vivir en la próxima base de EE.UU. en la Luna DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "¿Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel?",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUJLcGhRX0FhWEJRbnJvU3VoS05OQXRHbUxodlhKRGN0UkNSaVVxdFJwUzRCdjllR3J3UWZxRlI2SVR2UzlFWjM0UzhybFBWc0RvY0pfOXRsa2dXZXAzZnpJeVdrazlpUTVYZEVacnFQVHpDM0VjcnRUdkdxNXFYYVVBQ3R5LXpKM2lnZmsyMlg4aFc4N29ISjBnOVg4c0JUenh0LU5KOEZzUEhYQ1VHcUdDNktJUWhHNllsOUdteGhTbHgzeEF0OEhMQVBJZGFpV2Q4?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 01:22:13 GMT",
+      "description": "¿Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel? France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "El CEO de la UFC, Dana White, rechaza la oferta de Trump para ser secretario de prensa, según una fuente",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdzdPQ3VKNC02RlAtYmxHMDF2cFJjdFg2c05CUENLZm9NeHd4LW9UbWJNT3dhS0lhY1RUMWd3dnhscUpYMFUzYjJvRlM2eVZ6SEJUWC13VUhEbUlzR3JDR1VwTnUxU2xpbTJUUDhiOUZ3X1d2cGZFTnkzV0VoOXB3ZzFacFdacENVU1c1ZkFiNmd5OWV5SlAxdA?oc=5",
+      "pubDate": "Sun, 08 Nov 2026 00:29:00 GMT",
+      "description": "El CEO de la UFC, Dana White, rechaza la oferta de Trump para ser secretario de prensa, según una fuente CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Tiroteo en Plaza Mayor de Cracovia deja seis muertos y 16 heridos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYWlQZTd0Y2hFWXpNRnBXNWYxaWJJQldVNFlpYU9taUFCZEVEX21ZVG8xMFpEdUNIeERaM2UtRFlXNUtyYzVVNHBOaXE2UHlDa2I4RFBLenNaSWE1TmNqYXYyQzZZUmRkb3Fud0F2TXM1VVRndXpBV1ExWTJnX0x5RGlVZmdETjdIODlwVS1vN05Vd9IBkgFBVV95cUxNY3JMQTZRakphTV9LNElkNnJxemRuM3YzeDZOclZKd0YxTFlZOTZXVTg1NXFiVzVGb25PcFhzMVMyTWhlbnNEUGZvcmJJVHItNHA5VDN5d0lGcmlGQ3V4T0Y4VWxyc2RNZkNwMmw0YmZyTTZsUTFJN1l3R291Wi1mWF9ET19JVXJQbVNmMkVMOXphZw?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 22:46:46 GMT",
+      "description": "Tiroteo en Plaza Mayor de Cracovia deja seis muertos y 16 heridos DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Incertidumbre, crisis política y vínculo con EE.UU.: quién es Pedro Alliana y cómo llega a la Presidencia de Paraguay",
@@ -100,6 +163,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWZxVWJGWDJNWU9fTkF6WDRYcEs3X3o5ZkFIVldWUzMwc09ldVoyZUxTd3R0LUI4eWczYzZWQ1c2VzZnRGJjZWV5eFRkU2xreHRjRGx1ZmNFTEk2d2ktT3UwWE1jVGYwLS1uYkNuMjk3UW5VTlhBSnAxUk84NUFnSHkxYm9yeGg1SDdpaGxGV2YyM2tlTXA4Q01LSjB4NjgtVk9WdGZB0gG6AUFVX3lxTE1TUTFJWExPSGtpWjZMeHZLVlJjZzdCUnJ1WXNGdFlCazRvcWVyNGU5M1lMYldhNVlqV05MaHlzRlp1VlF1akJaeFh4OE9Lc0lyeVVVVWJJcndqYjlIeV80eDF4R1VSRld1N3hOQjhmNDgxdXZLamcwMWZPd1Q3emdZMFFwT1pldUhOQnBtTENlWlJaNDJOWjZyZXN1cDE1SWtmMU0zQVM2dk5zeHJHTjhpdzlsbnl2UHIzZw?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 19:17:53 GMT",
+      "description": "Trump ofrece la portavocía de la Casa Blanca al presidente de la competición de lucha UFC EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "Paraguay: Fiscalía imputa y pide prisión preventiva para el expresidente Peña tras colapso de Ueno Bank",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObjBoV3FIeGFsUTJLX2FJQkxxNTVDNVdvVUJDSDlpdm92UXRWbjlqM1pFaDM0aGFmaWtnSDU4X1dWeENLR3Z4S2RvWTJxMVBWTlRTTW95SDlXb0FWcktMbTVvRE1vN2hJSW5iaVVrZ2RucGNWYmNycUlHb05BY1FJbGNsdlpocHVGNDFqcTg0YkFBTkRzeU52b3dJd18yVHJKdUMySXdrLXZpTURBckZyS1BiOVMxVFJQVDdRazRGczJqaklQX0R4Ml9QbUhCRW9rTjZoMmNBb084ZmZoN1NHRGJNXzFHX0hUSGRfNGtZS0w2R2NNTXBOUU95OS1xWUczZW4zeHFwUFNaOUg4UnFZOXR3?oc=5",
       "pubDate": "Sat, 07 Nov 2026 18:33:06 GMT",
@@ -116,6 +188,15 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYzVnOUF4UnRXYXNxYXNQRlQxcHBpWTR5MEx2WW1Xall0X0RCc1hLUXo5QlZscXc2WlV2Q0tnYml1X29sN1RVNFlsV3JTNWNaVVFlRjk2OVNZSzBKRGkwekFlTGpwNWtOU3poV1BCRUFQVUNIOTItMUdEMjlmQzVZZVJDY0M5djNtYXFpWWRVdXpYZ1E1S2FHTHF5U3JrVkxqSndTNE5zVjVtMk9ON21UNm1FYm84R2NvV1g5cmdTaDZTLUNNdXg3YWVyLU9zUXEtdVZIZk4zY1A2VHFMQXI4TG5GWGxZMkJ1bzlBMlliUEFrVTVsVWJyWk92ZEdvWF85S3c3Wkd3dmZ1cGxibWfSAaICQVVfeXFMTzFPUGxWc28tTkR1VGpmMEdvTW54YXRBeVRESHFVYldOeXRkNWRWcVNvR19EUk54Q2xsaWVCclJIeUxLeGZWM2xXYjktR3JvdU5KbHk5M2tJdUVIdWIyX2IyckxiRXNBLTdScHJaREpSZ1dqOHhCU0ZYZEljR0dxcFE3VE4xZ2Z4V002UTJKa1RPbktWVFJwNGZTOWZUT3g5V3Z1SEt6WjdRbS1TME04dDNpVS1xX1BUYXBWTWR6bWRPLXVrZjRoTERFVnEzTXRzR3I3X2xMU1hMM0l4UkxXNGwyOTg3aW9wZjFkQ25DX0NwLW1yUEliNlJKcHpYMk54bnlGeWVBaVBFWGhPTUFDMm5waE01XzgyR2p0SC1YRjdzd3c?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 16:06:36 GMT",
+      "description": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "¿Quién es Pedro Alliana, el nuevo presidente de Paraguay? ¿Qué medidas tomará ante la crisis por Ueno Bank?",
@@ -136,64 +217,10 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Cómo uno de los asesores más polémicos de Trump llegó a ser secretario general de la Casa Blanca, y qué significa esto",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU3YzeXd5UUEzR0diTzV3Zk94SzZSYnhjb1plbEtjczhfSlJpRVNWczAtODF4d0ZoNzdvZGhCMjdacVFZV3Fra3E1YjNqYVFEcDRjcVU5MVVtUFluZk5zM3Y4cWRKQ21CRFRIMGw1d3Jlb3RWSzhWQkNqRmFXdkdHai16SkFsbVFkLUZoV1ZHaklHUks3MjVmZFV4VEJfUXhrS2ZGQnVTSQ?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 12:39:00 GMT",
-      "description": "Cómo uno de los asesores más polémicos de Trump llegó a ser secretario general de la Casa Blanca, y qué significa esto CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Qué pasó en la isla noruega que quiso abolir el tiempo",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KLXdzTFZJeW92TGhmQ24xX2hMVFBSa3lnNFNNYWZ3RzJWTzBDdmh3c1VfbDIyT0NERVBDdVU3WFR5Y2lOX0hwdFVCOUZWVEFLTFJIWTktVFlYSUo50gFiQVVfeXFMTklnQzh3ZlJOLWQwbU54WngtZExBTFFPUklLdU1HLTJoSW1yNlRCZG11Ri02Q2NTQ1MtSm1jM1VuWHFTcjQ0MDV3VmpLUEExSnZPNFY2SkRLMkh3NEM1LTBIV1E?oc=5",
       "pubDate": "Sat, 07 Nov 2026 11:16:19 GMT",
       "description": "Qué pasó en la isla noruega que quiso abolir el tiempo BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFFmWFcySnZkbFQ5eExZWkRnUmdNQW9HUGJjNlpsanFtaTRYRHlaeUxMd1lwNmxNMDVjaEEyWTlPVk00OWxjVUt6aEc4Yk05TWZ1dVZocWJCWnlkRjFURl9DbmZRYWY5V0ZuQlVLcmc4cVpCMTd1RGpuMlZNVmNLM0RjVnBneGlZdDlkM3Vxd1ZneU50NDlqSkJvTnVVTTQxUUs1Q194NHpSUGdfdTJjNHFjMVViNVlhT3JFTTVTMm9kOU9RSGhxWjZFY3RiRFM0WHBGTXFhX05Qc1ZDYlhPbA?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 09:30:00 GMT",
-      "description": "El ascenso de Stephen Miller: de escritor de discursos de Trump a artífice de su plan de deportaciones masivas EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Todo el poder de Sheinbaum entra en escena",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVA3dTBVMUJsUTVodEM1Y2oza2lYbGN4VmMwcWhrZ0tXbHdXanpfOXlDc3JzaGFySkN1aWtpYXhTMG1GYld3MVdUMlZ6empVRTZBb2ZWdExLXzhXVjVWaE01Wnk5R0NZODUySUNGUjBnUnF5LTFPZUdPTDRKVVdjbUl6OVNzY25aWENWU1JTNmNTaU1zOTdJ0gGrAUFVX3lxTE4wMVVlSENVZFotTGxCZEswWVFzZDRRWTh5cUY4MWpELXVSMUR5R3ZLVjhqMTlWbl9mYS1KeGNWSEpUNGNVaTcxNW9DRW1yV3ZONjVpN1lzdEtrVkpSVmlNVUtYWTJfZ2YtLWsxT2J0V3Itc05mbTZiNGRGOGJqUWlmMjFfVVd2emE5aWI1ay1FeEdBdnc4aDZ3b3k0a3FabkZCaGVnaE1wWUxtYw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 09:30:00 GMT",
-      "description": "Todo el poder de Sheinbaum entra en escena EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Guadalupe Taddei se borra del mapa, mientras el INE interpone una denuncia ante la Fiscalía",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNejdab1lORlRadFJJeDlNb0JaUjRiYXFkaU5Ka2o0bHl0ek52aEJrelg5Y2NlYU5hM2s0bVc2TXo1aW5LcHI0YkZ2YWs5N0pWbFBscGVTaHZyTThDQTlLZkFkT0NtUlZ0SHRFQXFCWm83VXZjOFFRVEFqOTJnVzhlREtYU2l4VXVLQ0JUb0VpbVM3dGxnbHRYaklHRG9NT2lTOFh5RzhZMUNCUHdhZ3QtRjE2VGVGdm9fc0hlSnQ5N0pkempJOTJYeUJrSXjSAeABQVVfeXFMUDI0VUlUZVRrck9EOGl6U2tDSTVRRkR3anNmSFlwS2JhOFc3aGNNTzZfUUVoakh5WTJ4dTBWRlg4QjZNdE1NQ3dPcWFwNTg5WVFSVjFzVjFpMGF6aHFycDRmR1NTRXhSVFRRVS1Kcmd5VjZldFd2Y0Y0VUUyXzhMeHJkS2NQZTBUTGlEdVFrZW9Gd0k2MjVyMEJaVUV4VFBKTnVtRGl4MF9YaGx6bl9jSDctSFI2UEVhdUFqampTbk1GNEctcWdOS3lxOUExd3NSSlJUSU1BYUw5NmNNNy1BZmI?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 09:30:00 GMT",
-      "description": "Guadalupe Taddei se borra del mapa, mientras el INE interpone una denuncia ante la Fiscalía EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Trump nombra a asesor Stephen Miller como nuevo jefe de gabinete",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX204M1BxaThzMWI3Q0gwd1h5UnIzYUZkVEhvaC1sQnRodlhQTjRoYWRiY0FXLU9mVmVVcldLbVpsOVNLMXUtUk1DZHBQRERuMEl1NkVwM05OUjZYMUgtanVjUUd6MXZ0OEpaNDNwSk9qMHVNT2piOXlXbHBWNjd5blhXaFNHOFI1QTJmbVAwS0RmTWhsOWtwMm94aU9hZ9IBngFBVV95cUxQWmdGX0FteVEyazQ1MVZGQ3o4UFozWGlKTVFINUVHN3VDOFp4Sy13RVpMV01wTVhPSktxeDB0dkV2TVRRS3hiZVdpMURUZWN2Um5kemFGejNxYVEzR1NxdWNqNV91cm1uQkpOWVJHQWFDY0lJU21icWUxekp1Mk9kVzA0RjNhMlluYzR5SWNmaFRhWHJvR1Vkc1ktNHlLZw?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 05:40:36 GMT",
-      "description": "Trump nombra a asesor Stephen Miller como nuevo jefe de gabinete DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByOHVDenIwUnNhMEVabmRJa25mWXk2RHM1VWF4LWRyZXkxRzdVbjlDcTNLWk9teGNnN2V5MzY1Zk1qNDU5bFZpS2RTT2ZOdUJnODhpaWc4ZjY0Yks20gFiQVVfeXFMTUMwbjNsWGZ6TlYtaFVhM09NS1E1SXRKc3Q2cFd5NWdXX1ZRejRwQVhmZWdSdmFlXy1ZbXdpd3J4c1N4QjhoZzNfa0Q1U1BvR01jWnhQTFpMYWZlRFV2NGJEMkE?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 05:21:56 GMT",
-      "description": "Trump nombra a Stephen Miller, el \"arquitecto\" de su dura política migratoria, como nuevo jefe de gabinete de la Casa Blanca BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -208,15 +235,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Imponen arresto domiciliario a Thomas Markle, padre de Meghan, por fotos en las que aparece abusando sexualmente de menores",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjV4Q1BfZ1F2WF93YlB1dFpJLVR2UndrUTRhMEQ3TENfSzJ2YjdRM0JuRHNyX1FudUJvWVcxRkNQdmppRmZHZWdLQXFzYVFfTkVWOUU2YWRMMmMydEo4bjhEUzJJYkxQOUJ2SjBxazlBU2Y4ZHBadzhqUXlWV2daaUYyYXFLZkxvRTNBVjQ1UXMxSWRQRjFZU0pyZTQ5QQ?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 04:40:00 GMT",
-      "description": "Imponen arresto domiciliario a Thomas Markle, padre de Meghan, por fotos en las que aparece abusando sexualmente de menores CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Milo Quifes, revelación de ‘La bola negra’: “Estoy cansado de tener que salir del armario una y otra vez”",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3Fnc3NfaUZRazRmTjZhRV9YV3JmbnRfNEJGeU1lbkNBbGw5TzlXLWZHOGt4WXNwVldoaTM4eU4yTl9hMnpvR1lraDk3RnJfZXk4SnR6R3VPWkJvQWN1Z2tXQW42d0hSLXlETTZtQlN6c3NwUUlSVnVNYWFVV08xM1Y4djJJZC1ILUdsaEx2YkUyb1RnLUNERU05NkRnS2lxQ1k2V3RsNzBJWGlvU2JsbDA2VHh1WlZvTF8tOENMSkhBbmQxTWpLTzlfdWs4VzR2clNUVDJR0gHqAUFVX3lxTE95Ml9Wd3k1bV95Z3dfLVhjczVsNlJnNzc1RzRPdXJMMnhFc2RzUUpNS0VrUUE2SlVKMEt4ZVFvZk11Q05hcXh5LXIzOFlaMDhoWGhhQURhQnNmbVhkM0dZS0lHZ3NCT1dsMFh4ZjVXOHZydXItLWYyWlFYeGd0ek5Qb21yM215NDZhTVBwV3Q5cGJHVHh5aTltYXdNU09lVDNnNWpYRkFULWtEYk1NRDZzeEhyZzdCbUczWnhyaEotNUwzdFlMWThXakVRaUJNTW5ELTU1WlFRNjBlaENhbzNwcTBwWS05ZS1LUQ?oc=5",
       "pubDate": "Sat, 07 Nov 2026 04:30:01 GMT",
@@ -226,13 +244,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "¿Nos está volviendo la IA más tontos?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEpvY2dNZ0p0eXAtSW9oNVVIZXc3MmZDWnV2c1A4aThxRkY5NU1fVjcwbTJUby1POW0wcEhXR3AwWW9VOEpqaWQyM0RzTUNKUVhreElCTkFTSDR3ZEd4ajZMVHlnVE9kS0gzeHdjelAyXy1MSVN6b1VnRm1TSDBLT1h0c3doa0RQNjBxSlBWSHdQbTZH?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 02:34:25 GMT",
-      "description": "¿Nos está volviendo la IA más tontos? DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Medio siglo de los secretarios de Estado: el poder detrás del poder",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUxFQm14S3VrZ2pIY1czQUFFQ3RVd2dobnVmTm11WWlnT1R6bEVWTEZtbkc0NHluTUNaTHBPTUwxS3ptVGZOTDRMd3lhYnZGX0IyalYtNmxUdnRRUmJ6cC1jNU5SWkpOSGxpTmZvYnd4V0lWR044TUYtazNkbDk4THUtZ2QwOENmZHdldEFVdW5qTnlQeWxyWlZpUGxSd2ptNDg5Q2IxaFPSAbwBQVVfeXFMTlRwSHptelJ6VFlhSVdmZXRScUpsVmZjTHhBMmtqNXpkMmdINTNkU3pTUTlQb3pJQUZHSExZYVdxRlppS2V6aHU2SEpOVXRaX0w5NUx3VFp6LUlzaF9Ud2tvdGZMV2lNd1g3eUVQNUhBYzB3bE9uaGwtU0pYMnBnalFtc1I5THg5cmNVcVY3YTJ5SHZLMld5ZEpPMFlEYWVJU2VyNTZrLWZETmo0VkRxYWVpRkliWEpKY3ZDaFU?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 04:30:01 GMT",
+      "description": "Medio siglo de los secretarios de Estado: el poder detrás del poder EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Cómo acabar de una vez por todas con la nostalgia del franquismo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQk9rZjhlaGU1eVN0cUdheXU0SV9rV3oyc3FHZkFxSVRGa1hOZGhsTXNfMXh1WmhDbGJDSGMwdk1pX0lkdjJJZmNEdzFyNG94cHFFTDkzSmw3MHNISkNrempWNDdzWGtEZlR2Q2Fmek02R0tobHMtSERoS1d6eGJmdU1qWTFVa2daemw2MnZLbGo2eDduZkt1bmV2X3JXVGZsT3EyLWFn0gG6AUFVX3lxTE5ZMzRacnlHNzMwQXBQektDUUJwbElTcWgzMlo4ZVBGYVFZQ0dxOWJobERVYVIzaV8xSW44dXEwSzBraHpJeGl1bkdjRTh6dW1meFpxOV9KRlVZeXc2UTJRN0lUN29BTUZ6Mm16bkZESzJJaGptVUk0c0x0WHJfU3lYSzFlVWliWUpoN2VMRmM3QlBLTTViSVp0WlRyMTNzV2FjWTY5cFZ1MmNybVA3MUNnUkJsX1Z5anpldw?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 04:30:01 GMT",
+      "description": "Cómo acabar de una vez por todas con la nostalgia del franquismo EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Presidente de Paraguay destituido es puesto bajo arresto domiciliario tras colapso de banco",
@@ -253,6 +280,15 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Maluma realiza presentación sorpresa en el Aeropuerto Internacional de Miami y termina conmovido",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGpBSXd5S1dFVFR0SVpSVHp0NkdjMFIwUlhNUjFQWWYxR1RaU2o4ZENMY1NMWWtXZG9UdU9kWThqa09QYVFSS1RMbzZ4bkRwZFoxbGNUUGVSWC1ja29JRzJ5VzF0ZE50WG5yc3hyeGJ5bFhuRTBjc3dvMG9rSEx2YWFxczhDQlFqSzV2N2NnMUVTOWxlY0FqMEpteGZWcFFnNk1HaEh6a3R3dw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 22:47:13 GMT",
+      "description": "Maluma realiza presentación sorpresa en el Aeropuerto Internacional de Miami y termina conmovido CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
       "title": "Golpean a Mon Laferte en el rostro con un objeto durante concierto en Las Vegas",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMl9lYlAzb3FVMWphUXlQaHBJbUN4MHpqZW5DSTBENk1xdEgwQjZaRThxQWJBa0FmbGdadG5ScUdWVVJiRTR6YjBNTDJUSlI5SVhnVkd0aDM3cFRndnJVSnlOZU93YkJYdXAtMU9adUNxYWRkV2FwQTlucGkxNUtHenMycmtqV3d5Vkp2NzFpR2VjNFIwa1phNDlBRXJySUZEZzRVMThB?oc=5",
       "pubDate": "Fri, 06 Nov 2026 21:23:32 GMT",
@@ -260,33 +296,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRUZqb05FQVV4dlNjZnY3TnY1RGRaQTExRDBfemk1V0FEc1MyY1JGRG9QeE9rQ1RzTVVYeUQ4ZTVCUU9Id1FEa2IzYmNTU0NTOS1DdmJucmxQWXJ5SFFvZnNMcWFCMUZFckZjU0dMRWt1Sndpa3paZUE4b1dyVzNZc3AyYUp3Y3h0U1ZKdmpaQXlrbEFFYU10TTRaRkdaRVE1WDJaSGJtSmhuT2JPSzNLLTVySTFIbGItVnJZbGdhbWVsVWEwSUl3YUlwQk8wMm9zWU5hUHZYRVJvWlU4bW9RNko2bURHUdIB-gFBVV95cUxQbk81akk5a0pWRnhoMEtRek9scFZ1RDg3Wnl3TzRWWl90SjVRQXFRUGdkaU9VYWRVc3JES251SXJNVVJuVXhodXN6SVpMeV9uazVkU2ZuczdfQlE0OTdpQ0llRzgydmR3U3lFUXU1akN0eVN6RDNZQ1ZBaUhxS1g1MjdmNXpwcHZWR2ZBcmhJRTIzcjE0QnBwTUxDaGZsTzZQb0N1bHZ3LXlKdTc4UzRtVVdGZmtMMlFSYlFjbTRIeTFkc1VKeExGV2tGbVJhZVplcWRHT2ZzLWN0M0xCU3JqSlp5VTBXd2tpQU9zQlFBRzUxZDlNclE3WjFR?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 19:45:01 GMT",
-      "description": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "El juicio político contra Peña sigue adelante en Paraguay",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGlHdW9ZczNhdjZmekJNRmZHUTdZR2R5d2NWRnZseGtDbnF1LTNtNmh6em16Q21UcTN5aHU2UzhXREZDYkxDX3dVLUZfaXJVVWtSalQ2U0I0bmN5RktwSXVuS0g3VnphRVBHYUpEUmpkN0pRS2gyd1MzNENEZUlQU0VEQ2dUdmxSN2kyZjNPOWRDQ2Ixa2U5dHM1eU9uWFpkRlHSAaIBQVVfeXFMUFo1dzNPTlg3bDVIRVM2UnVPVXBCNTdtYmtLQ2lacERpdlJXVXc3OHZGelluUlFqRU53Ykpid0hYUnFTYTlRSTVobHlCajJMYmJtTXBnTXQ5dG5qdFZjSVhSZ1VCMUEydHFJRWhpODNtNVJIc2I5X01XWFVEQ2RDcHM1RGJFaDNTZlBrZWRkSktzeVZoSTZCaTJMNGFPYjkteUR3?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 19:30:06 GMT",
-      "description": "El juicio político contra Peña sigue adelante en Paraguay DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOEJLQ3dkcVl2d3dBQVYyNnhzNDN6OWJoODZ3a2xjX3lkUzRMV1dCWkpRZFlRcEdBLWZsYU94VnlBUU12UGF6RzRjaExtLWJRc1VBZkI2YjhveUN6WkJ3VHZzSHZrMk1hanlhbFlhTEZ2cUw5akRUeUJWTUd5T0dab3hQcVRzQ24yRElLUjJBbWRxa0JLS3E1cC1ORlVUR2h6RUhSNWszZDZycGxzdURaOG9yemctQjFmdU15OFJ5UUFGM012MEHSAdoBQVVfeXFMTmR4U2ExMEtTWmtJVFZ4YjNPTEFLb0dpMmN3cmdrb1hrai1VOHpjVkdXY0RUamN3aHFWd0R0eGI3M1RGTXh3WkFCNHgta3NvY2g2RmFhUmt3dGo0OVBxZnpsc24yOXFGRHJXdGgwOTJhbG4yTmJKOEwtbms2M1pTVXp6ZEhqa0JITTQ5emY4RXNzYzNlXzFHSzZnTnEzamVMR0FSeG5ZU2ZMZGJjRFN2V0RJUDl3NU1uTWM3Rl9iVGZJZG1YUE1kSlZ1UWlwUmVQQkk2OGlHOVItc3c?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 15:18:05 GMT",
-      "description": "El padre de Meghan Markle es arrestado en Florida por posesión de pornografía infantil EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa",
@@ -352,15 +361,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Presidente de Paraguay bajo investigación fiscal; ante posible destitución por colapso de un banco",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFBBbFNyM1FDQV9uN1ZXbG5EdGwzQ2M4QWh2QklweEhEbXlFTG81bjQ3aHZRR2NKb3Y2aWxPXy0wRU1BcEhPbHZLdk5ObmQ5VnM2eEEwLVQwYm1TZzZ0aFJhZ1dvUGFVT0QtUnJuVjNSR0RTaEotWVNUWkE3YlhfbThQSjZnaVN2UnZIRGNNVHFkVVNISks0a0NaNkZwek10aTUxQWxmSFNES19jeWc?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 00:37:00 GMT",
-      "description": "Presidente de Paraguay bajo investigación fiscal; ante posible destitución por colapso de un banco AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "El presidente de Paraguay renuncia después de que millones pierden sus ahorros",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3Rzekp2bzJKb3k0b2JRbmJiSGFfZDNyS0o1blFKX2k4TlplazE5WW9iUDlqVFdBSmZlTGlwNmljT0V4UkowVmI4dG5fczR1WXhzQmN1T2RwUEZYeDBoX09zWG1tUXJyNVRmRVRLOURwbnYxMDZ1LUQxOUhwRHpUejNQYVdRTTg3dFREa1plSmNsWlQta0IzV3cxYTN4S0ZaR1oyWTlxaGl6TUFxTXJKcWNaWQ?oc=5",
       "pubDate": "Fri, 06 Nov 2026 00:28:23 GMT",
@@ -406,22 +406,22 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWhmTTFLbVh0SXNGN3NfQldlTjBJV2VpZzVvSFUybTk2ZVhobWZzQ0FvUWRxZ3dkT1BlaTQ0c05leHFRSEhjYU5fYmdpV1pXMkZ0eWN6cmd2blJhNmZCTmlzQVFQdEtSQ2c5VmUyQVd2cEJUTzU4RjdKTkhEdmpwYmFxN1pfTGV0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:18:26 GMT",
-      "description": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu Reuters",
+      "title": "Verificación: Videos de AMLO en panteón son de 2018, no de 2026",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTlJwWnZFMDB1VmdLQnpzUl9fUTEwR1V4YzI2anJ1ejNUVkt0ZlBIN0ZOTHJCNUFweDFqOThjVENsVmtMUlYtdXhPYnRiMHVKcmF6dzFpV3Vvd3ZiWnNtN3lXNmczbHpNQ2JkUXFBdElEV2NfeFBSYXJRS2NtZ3FlZE84R01MYno0?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 13:44:45 GMT",
+      "description": "Verificación: Videos de AMLO en panteón son de 2018, no de 2026 Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
     },
     {
-      "title": "Irán, Israel, Ucrania y Latinoamérica: ¿qué cambia con un Congreso de EE. UU. bajo control demócrata?",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzhhYUp4V0pISWNkV29wR2JvaURBTV9aN0xkTks2WlZBWU9DMUF5TUgtT1RIRjNZYVFkQ2d1MWJyZEpmVWVra3c3NGNRcU9zZk5rQ2dNN1dzVkZ2M1VQaV91TWVoTlVVcHV2UFZyNFZycnNoX0ZaNGFwVVZ5V0JZSVUxUnBrVWc3S0lORy1RLXFXX3pZeFFicGJUMGxWQmxSYkNia3hxckYzRGJoMjhiYXpfS0FoN0J4ZV9qRFByenpDYUVvM2k5UGhqeEZFanRWTkszTlZreHZuYmR0SlJ5djFyNVRZNFI2c25QZlQ5ZWlBT3A1SW5qcEZYdktucDRo?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 02:09:12 GMT",
-      "description": "Irán, Israel, Ucrania y Latinoamérica: ¿qué cambia con un Congreso de EE. UU. bajo control demócrata? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFd4RXU3d1E5djJORS1sVFpla1p0eUphZlA3aU14cEtGQm9Ud3cxZzNFczc3d1BzM21pS3BHY0MwQ0JtMk1yVU9Zd1JyR1RjbkFzY0JDTVRhanEzM2w4Z2tpNV9tRlVPbEJtMl9DRXM3RDB3bXg3S24xNTJYSEVscUlZRUg5N1lRMnRzQzVzdXVHTEp3TlE?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "description": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Vance abandona a Trump a su suerte en un intento por mantener viva su esperanza para 2028",
@@ -442,13 +442,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "¿Estamos ante el fin de la era Trump?",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNkNXUU1oZklxV25ZY25aTEEwTTJpZ1g3WmllNEl0OUpIU2t4UGdwUUUtakYwb2tnZlVHLW9oLVExR1JPLVRRelBpc09veDBsRDlTbXJkR1dZWkI3WjZEeVQ3dDVhZHdhTWRTaEtxb09PZjladFlwS2hOWVB0R1QwTWg0SmY4cjBwSVJoVUtfbmxnRXNuM01xamZLM19iZmIxT1M4V24zN2s?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 17:25:03 GMT",
-      "description": "¿Estamos ante el fin de la era Trump? The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "El crucero Odyssey, varado en Camboya, zarpa sin pasajeros",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZklSaE9RRkU4a1NiQWUyZzRxOWFEQldzR2toTTFVWVp2YkFUdHVQOTdiQmoyNXJmTlU1NjRiNGRPX3V5djJ4NER3Z0VDanBING5xdGNhclFUTDhNR09XejVFOXFxTDZlaHBGd2JTUGdtbTUxQU5FYnUwSUpJeFIyLVpVTFhfOTJEaHNuNmxYN2U1VDZXTVM1SjlPemxIU2ljTUR5MEc4aXRFa21XbnhSTktUZFpqQQ?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 11:45:00 GMT",
+      "description": "El crucero Odyssey, varado en Camboya, zarpa sin pasajeros AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Claves: los votantes castigan a Trump y el Partido Republicano sufre pérdidas históricas",
@@ -460,10 +460,19 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Empezó a caminar en noviembre de 1998 y al fin llegó a casa de mamá",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWU9QOFA2YUlNWG5wSlpQSndnSXA1c0RqZFI3dmhZU1g5Tm1tamxEaEtMaXo1czVWOS1rVDBqNXgyOHhFSHVqMjd0WGFLRjFwSzRlUGJiQTJKYmxRMXBLNmwtUHNFblVFcmxPZ24wdTk1OUZkaExTaWRGZEJ2QmZxOWgwaDFBVkk2QmhZODEzUUpPdw?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 20:37:41 GMT",
-      "description": "Empezó a caminar en noviembre de 1998 y al fin llegó a casa de mamá The New York Times",
+      "title": "Spain's Melia returns to profit after completing Cuba exit",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3duTlYyeGo0a0p0cWpQSnFiSXVsT2wycVBKcFNPWjV1ZmxBbkZ6STN5enRHVmdNcE9LMk9aSUwydmNZdHlCOFJMWGUzdG1LbXB0QmpuZnF3eE5qRDFLcG8zRnhsNXBmWC03UnhSRldZQzVPZmVoQkVTMkZHMjJWY1ZxQS0wRTF6M0UtQmR5LTk5SVU2cExsQWx2NkxhdW5f?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 17:01:43 GMT",
+      "description": "Spain's Melia returns to profit after completing Cuba exit Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Respira hondo: lecciones de un escéptico que se volvió adicto al ‘trabajo de respiración’",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRm9HLVp6NG1VWEExYTkwT1V6R3lHNlUwOFZ2Q1pDN3ZyLXFfcnY4a2gtcXl4aGJHTVQ0Ri1Lam8yWW9QRGN0RVdpYnYwQVM1ZHBJLTUtTkgxb1NsRHFGaDdQdGl6ZUN5ekpOV3VEVkhHa1dEMU1zQ0RLNy1CNWVkUlhWOXBnX0c2NWZDRHlEdHlzejZ4bjVN?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 17:40:29 GMT",
+      "description": "Respira hondo: lecciones de un escéptico que se volvió adicto al ‘trabajo de respiración’ The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -473,15 +482,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzcxOU92RVJXd2JmQWs2Zk40dmRBdExvaFVkOXp6OGNkVkMwckwwRE94RjAydWtDc050QVVrMmV3WW5hT0QxdjN5b1RCMHZrUGpBZE5nRGRsNV85RHQydTRzS2RsdUR3WVc4SU9oMnE0RU44OThiNTRjdXFnZGk1RFhKTEx3YmxMS0F2RzJLa1o2aVZnQnFiQk9ReVF6YkhXczRKdGxUSHlRV1dWZXhFTmc3aw?oc=5",
       "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
       "description": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "US Treasury drops Venezuela from countries facing outbound US investment restrictions",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHpQWm5nQmJpYnlpNkloZEdBcWdKYmV2dkhOcFhuVEdtVUJBNlo4bVFZSkM0NmNVb3N3WEJ0QjYzekhrOEFvVmgzaEMtTUxtVnBpd0VIZm83RFpPOXpPV3FpVmtmZzNfRWphcjkwNURkMnk4MkhSQVI2NDgzRjFveWg3ang0VFlQY0thTzVybzdkYWRSeFUxdDYzMjBWU2k3UU1HamdFRVoySEJYeFJYd0h5X3hrY1l0dEtXelpCNA?oc=5",
-      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "description": "US Treasury drops Venezuela from countries facing outbound US investment restrictions Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -586,19 +586,19 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "La Liga fixtures | Football",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdFBfZkNhcDF5VjZZRTdkQm0xSDlFMWk4LW04ZTRDMC04ejkzTkRWMmhFQlF3WXRBZWZFM1pGRmlWMUNtVy0xWHlabUlDREVsazNRbi1YaDVyRlhRc2t2RjNPb1NtZkc0Z1ktZw?oc=5",
-      "pubDate": "Wed, 11 May 2016 15:59:04 GMT",
-      "description": "La Liga fixtures | Football The Guardian",
+      "title": "The Guardian in Spanish",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
+      "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
+      "description": "The Guardian in Spanish The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
     },
     {
-      "title": "The Guardian in Spanish",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
-      "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
-      "description": "The Guardian in Spanish The Guardian",
+      "title": "La crisis del agua de la Ciudad de México",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
+      "description": "La crisis del agua de la Ciudad de México The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
