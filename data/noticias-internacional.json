@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:30:12.608Z",
+  "updatedAt": "2026-11-09T23:37:39.215Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,19 +64,127 @@
   ],
   "items": [
     {
-      "title": "Trump sobre sus medidas de deportación: \"Quizás fueron demasiado duras\"",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUI0bXlwbmh0UXkyeGppbXhIVkdUMjJOYldNcGQ0czBQa09icDBfSUw4d2dabVVaVi1lZFRxYjRiZzJ1QlY2UGl5ako3MmduRUxuTDFESWt1aWNXWEIzaW8ybDF4alVUdDN6TUwyZnVwUF9xN3NzblJYRm1iVC1tVHAxVUw4M0N0b3lWVEVVZlh1dnYtbkg4Sw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 13:48:07 GMT",
-      "description": "Trump sobre sus medidas de deportación: \"Quizás fueron demasiado duras\" CNN en Español",
+      "title": "La Fiscalía de Paraguay trata de abrir una bóveda oculta hallada en una propiedad del expresidente Santiago Peña",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aeHU2QmZ3M2pkZHdUbkFXWlVkSzRHNUVoTlg1UXUxZnR4U1VucnlxLW4wYkdTMG9ycFMxT29zdWtWMVgtdVY1Uzc2UjNYWFJERjVSSXVYWHdrU2hB0gFiQVVfeXFMTmpSMG15a1psSXdTTzNMaHEyRzRvNjBZRzZ3NFIyYzg5YXVJeXdHeUtMT0d0UnM0LUZWOTV3YTctYlRxNHRPbzE2aTM4ak9hS21QOE9BZDd6TkFINGRzbnNfS3c?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 23:15:54 GMT",
+      "description": "La Fiscalía de Paraguay trata de abrir una bóveda oculta hallada en una propiedad del expresidente Santiago Peña BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 22:07:53 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Ilse Aigner, cerca de convertirse en la primera mujer presidenta de Alemania",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXNhaTBrczJWdFR0QTFjTVZwUlo0bFpBNGhmdzI0MXB1cTRQR1B4NjV4UzRRUmNGLWZLUldfejZEc216RUxKSmxIS0htc19VdVlDakVDTFNhbUV1ZEtSdVJHNXJMdXlITV9JNURsUkxGcnM4Vno1NjZYdkZWZ0xDT3Y0T3MwSDQ1UVdVX1Nfa2J2Uk1DRFlUR055X1h3d9IBngFBVV95cUxQVkxlb1ZZMzc1OHhkdWpIc1VCMmhEZy1fd01LMHoycjdOZTJoa0gzTE5wWnVSSVNWNzZNeWVEVDRUYmhpWUtMblVlc2Q0NGp0ekZ1U0Q3bS1oenYwcUxUQTVSNGVaRU01ZHY3Ry1XbVNINzBnc3NNeW5qZWt5ODNoZ2x2TEtUQUdjUy1JdU5wQ2prVEpFaDNyQkVPWWRwZw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:42:58 GMT",
+      "description": "Ilse Aigner, cerca de convertirse en la primera mujer presidenta de Alemania DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Jensen Huang: quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LX3hSMUI0ZnJzOWowQ01rQ3Z2WFBsRUFvVjkzaVdTLVNKMF9XdlI2d1VJZ1EzRDBMQkVJRWd0VERoNkhRWkliZlhWSTdORGQ3QUVDOHo4NjZ3ZGFx0gFiQVVfeXFMTWFCZEZ0d3JLWC1uZmt6ZmNjVzhVUW9vNGc3M2E0c2hQaGNZV2NlbnlpdHg2OWgzcnhFMWhYYjUwMWtrVTdOTTB4QW4ydV9hVmU2Q1lVVzFvSzhyNzZOVXlMQ3c?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 18:41:07 GMT",
+      "description": "Jensen Huang: quién es la supuesta espía china que tuvo una relación con el director de Nvidia, el gigante tecnológico de la IA (y otras claves del caso) BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Condenan al actor y comediante británico Russell Brand a más de 10 años de prisión por delitos sexuales",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KQlh3YXpwWFh0VFJBbW9PR08xMTBjemFGdFZGcWRNUXhKSDJlc184RGNJUkY4RkNNd0lBWXpheENwQTgzVmI2ZEpud3ZMWUhDc214RHdQazNFS2l50gFiQVVfeXFMTUNBdi1JYjZhRHBJYlBKeFBsX1gteldtYTNIYS1kWUtZM3pxRmplRWtKYU9tMDVQVUgtX054dWVYc1RoS0IySkpUZGdKdDJvNWVVQ2FNcEpVbFRTYkw5MVhPcFE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 18:16:57 GMT",
+      "description": "Condenan al actor y comediante británico Russell Brand a más de 10 años de prisión por delitos sexuales BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU2VFFHVHFsS19JOU9uS0ZCRl92YS1aZXB2c1RELVltdDVEVVhLSC1fQjNyYm04bzBfOXVqcTFGZVV4emNPN09BRWFLOUNjOEVQT2gtVnhhM1IxdmQwaVVvRl9jTmY4ZDg0WVdlT2FPNTBMMURsSjVkZjVmVXMxb3ZqQXVqdE1EMS1vbzd3N1ZjMDZCQ2c?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 18:01:00 GMT",
+      "description": "La FDA ordena incluir nuevas advertencias sobre riesgos oculares por uso de Ozempic y Zepbound CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Cómo el extraordinario crecimiento de la \"escandalosamente barata\" energía solar ha desafiado todas las proyecciones",
+      "title": "La IA en la escuela puede provocar la caída del rendimiento escolar",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWp5Q1EtVU9BMkRKdHRhZ0JfYm1WaXVSbjczeU9ycXhET0tqM2ozRkI0RmdkLU5FOHBaQURVVFdzcmhRYWdVMmNCa3U3b0tKWE9wV0NnQnh1bGxMWjN0LTJEYVU4UTg3SXd0X2JHbjNMMDA0S1ctWmw5VmhMejVobWswOGI5dVR4MngzbE4zaVpOWkFBWWVnUFExVXBuTzRoc3fSAaIBQVVfeXFMTUE5R3pnMkI1NWhtdGJWSXQyRl9RTUdlRUs4aGlhekZrOFBycXhGTHN1WnFKTEZCUnh4SFBJb1RjNnhZczE1TVRHWmVvaFVFTFlnN2FycmhHeEI0RXREaHdNX2lYYXFDV0R5V2N2YzRySldzeUdKTkpPQ3dhUHBvNjQ5d1VYYWxrSUdJZXBYUUtocm53Z3dtZllXUkFPYnN2R1pR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 17:03:55 GMT",
+      "description": "La IA en la escuela puede provocar la caída del rendimiento escolar DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Russell Brand fue sentenciado a 10 años y seis meses de prisión por violación y agresión sexual",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHRWdy0yNjJwcW9LTkZ0dlNoTGJub3NDTUdSU01mRGJFRnJQM3otdVVRajN2MmZ4UHdEb1ZLX1g4T0RsU3VNWmNVenlEendyZjh4eUdjWmF6d1lKeFZoUHk5dDR1dkpicHMxZ3pfdm5MVHhIUHdCYXJGM2dQeWhqTm1mZnAwYjBpVmxxOFhPUGR5Mlg3?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:15:00 GMT",
+      "description": "Russell Brand fue sentenciado a 10 años y seis meses de prisión por violación y agresión sexual CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSWUNDVkNuV25IQjRwa0J2MXhyWldGRU5HSTkyYmlldkgtUW9KRl8zWGJrcEZ5enhWb1BYNWNyeUlMYjVvbThZUGRqd3E2OWx4eW5HZzBnaVdsY2xP0gFiQVVfeXFMTkVEd0p4WEhIdkgzcVVWQmRvaUs1b2phNHU4dDRsZ3VJdW9NMXQyTlVjZGNFVWR3NzVTLXZDWGtSakxnTTVTNzVyTjRzX3VZTXg5QWZfLUdKandFMmFCNUFKVVE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 15:11:54 GMT",
+      "description": "Las 4 investigaciones que los demócratas pueden abrir contra el gobierno de Trump tras tomar control del Congreso de EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La elección en el distrito 27 de Florida llega a un punto de máxima tensión: estas son las razones del recuento",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmRweW5Bc2ZFWVJoVU1vc000T1lTT1h2UU1xYkpURS1ZRWxpY0Z1NFBpODVIU3dFX2o4U3lDckFBRlZ4ekl6dzRJWDVJakJRTXB2RmZwQ2dOdm1udWoxSTNONW1LUDhIN1dhS2ZSR1VwTDN3cmIzdEZ5V3JUTGxhQTBFNmxpN1p5Z29HaUlR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 14:04:00 GMT",
+      "description": "La elección en el distrito 27 de Florida llega a un punto de máxima tensión: estas son las razones del recuento CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "\"El progreso de una nación también se mide por la acogida que da a los discapacitados\": por qué es tan simbólica la visita de León XIV al Pequeño Cottolengo Don Orione",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MUs5cjZCZTItZ0tuMmktcGdwaVFQckFOZ2hKQ0hBcElhaWx1RlFhVXc0LVZxclZ4QkNwZG9pTTliSG1RRmgwcW5OcWNZRUs4WV83WFBDZDFSUi1Z0gFiQVVfeXFMTkRYWTc1dUx0bHBpUDAwYXRxTDlpMkc5bmVvRy1FUF9JYlJBTFRNdk5KaDJ4YlpEaEQwYkxfX0RFcFFUQV8xUGhucXNOMWRxSlJVczgxdVU0TC03LVFVbmsyTEE?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 13:41:56 GMT",
+      "description": "\"El progreso de una nación también se mide por la acogida que da a los discapacitados\": por qué es tan simbólica la visita de León XIV al Pequeño Cottolengo Don Orione BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El CEO de Nvidia admite una relación extramatrimonial mientras la empresa investiga posible espionaje extranjero",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYXZNTVVJdm55bkh0N2J1cmM0VFNNNDY0SDJpdEIxdTRlZDZHUlRPRmpBaXFOdEd2cGNaRG5vOHRIWC0tSzdLdkVJMzVoeEVRQ0pycklTWVBmTHJyUE1BYUlsdG1JS2ZLclNITFlVa3VLVXNIcWFSdDVlQXVoVmVsbV9jSnRydmlFUXVRbEZ3?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 13:19:00 GMT",
+      "description": "El CEO de Nvidia admite una relación extramatrimonial mientras la empresa investiga posible espionaje extranjero CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "En directo: el desempleo \"es un auténtico drama en la vida\", afirma el papa en Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGI0MmNOOVVvX3VXYW81QVlPZEZBSm5JNmNLczVJYndDdC10Wi1jME9oZ2ltejRHLUJJM3otbUw4SjNnWVo4dUtuVmFUXzFFZXJSdVdtMGtXOG1ZMWNldmxCdjJUY3JRTFV3ZmE1bzVKZkZBdUFEc1c1eURvOXVpWmlaRE00QzdYNEhQOFJyU0pzSmhTZk1oQzlvWG50MDRUblZxdEdHZlFkYXdjOU1jZ3dJbm5QY3RtazRNZGttdXdYdi1RZGpBQmFtT1FfT25EZWxBZ244Y0JhbFNWQUJBRXhIbnRheEJBTGYxcQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 12:03:50 GMT",
+      "description": "En directo: el desempleo \"es un auténtico drama en la vida\", afirma el papa en Argentina France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Cómo el crecimiento de la energía solar \"escandalosamente barata\" ha desafiado todas las proyecciones",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5Zmcwc3JNaUFSSmRkTWhMYWhxcUVoRFdvTmFPUEpXbnhlWTQtbTVsbl9VNXl6S0hjc196REtuemZYaVFlRC1TMHNYM245VjNoZHVMRWx5U3pZUEZI0gFiQVVfeXFMT1pFVmI4VmFYYUJSV1RSYUc5NkRZbjJ1OHNYRGdxRzVlNlBwS0s3MjBBMkhOeVB3UUEwVmhqUG9wdy12UnFxTGFsanJubjJSQkN3aUNGUWFfc01sX2w2MDBsd3c?oc=5",
       "pubDate": "Mon, 09 Nov 2026 11:46:54 GMT",
-      "description": "Cómo el extraordinario crecimiento de la \"escandalosamente barata\" energía solar ha desafiado todas las proyecciones BBC",
+      "description": "Cómo el crecimiento de la energía solar \"escandalosamente barata\" ha desafiado todas las proyecciones BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -100,22 +208,58 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Taiwán detiene a opositor de un partido minoritario por recibir financiación de China para las elecciones",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDFJLUNhNjJkaXduemg0MHI4eDFkNUZpMWZ2eVNUSkRKMlQzdGxienBaV2R4c1RSbjl3TzU0djFuc2tlNEJFZktMNmhsVDJIWF9uVWpzNHZlMkxiQ2VLdHBUVnFfempnWW1uSENWclZNZnpvamZDN1NaU2Z3dm1QMmNRVWlWR3FRQjZOT09ydXZKUllSWXl0cy1PUjhITEw4TDNvLWtvWWZUcW4tN1dmc2UzeS00MEd2dWdzeFFvODVkS1lNSkt2LWt3b21jMjVUUVVwc29VRC1SSUVRMU91d21kbEd1ZTFWcWJuVHBPME8tOGRhTlh1WkI0TUM5M0NhZzVPX0VOZk5Pdm5WTlF4MnFBcjHSAZQCQVVfeXFMT0JrenVaQXdwMUdnSUFGMm11aWV4cU9hVC0td2NfM2RpZlpaamthVVBpUHlvY3ljMWpCTFdBNjhCSmpVS3RPSEZLX1pETXdGVngxS3ctWl9rdHp6bUVMSFJRd1hkODBBbEtBNEVxQUdBQTQ1WGx5NEUzQ0ZRenBCQ0M4WmtGTkhMOFVsRmZCNmdEcWQya281Mm9vMWlhdklfTVU2YnQ5ZU1MVmxwMElPNFBPWXN4aEJPcDFhMUJtU29qRFpMNnpVU0Z3U0c3cFNEMnE4X0ZoTVVOOXVUUjBUUHpIQkpSOVlrajlrUHk5Nm1PMDVvRnBvSmM0bXlJMUUtR0oyamhEQlVRbm1CdHBRdThHeXJB?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 05:13:29 GMT",
-      "description": "Taiwán detiene a opositor de un partido minoritario por recibir financiación de China para las elecciones DW.com",
+      "title": "Los latinos que castigaron con su voto a Trump por sus familiares detenidos por el ICE: “Voté por todos los que no pueden”",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWVycVgycGptNjBpOTFVcTdvclNpcXRZT3pJal9jQndHNzNtdmI2S0VBZnM2Q3R1dUNnQ3JSTTB3aDVOVmJLajJQTEtjUWhXSDVyUVhtYk0zdXhmQ09xVnMwWHB6QW55QWQ0V1lBTFUxaGEwM1kyb0JrUmpDX2hQWTludmMtRWVoWG8tU2R0RVdWMm1FZmlxTHktcGRLY3REX2p4VS1kT3lnaGxMZ1lYZ0JNNEt1OEdpMVAyN3ZEWmJ1TS01Sk82TndfV2JXZHV0QkpxRkl6clhWY1FyN3BvOERVNEhPNldSQlpaVlpB0gGCAkFVX3lxTFBTYm1IX0RYa25LMkVESGdrYlpQeGVIb3U1Sy13RXhQelN3bDZQNTg0bE1JOTdSMXExYmZYVkc3eVZzWE5tUkJxYWNaMzhiNlkzVUg5VGFtUlVlRnNCMmphVC14cGtJS1JoWUVIeVk0aTlWX3QxdzZHMUZLdGRmZVB3U2lmU3dTMmthUWs4U054b013SUNPNVJ6SDNaN1BPSVI4YXFVY0Q0bTFvXzdsQ1RWR0dpbzB4cWk0bDgwcTFkcXJTUklJMm9FQVJzVE5kTUltMGVGWkYwV3RPeExkMGc0SjlfVWZ6TGdNOVJUelg2NVY3d3ctTVhBTThIWmdBaVlpQQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 09:30:00 GMT",
+      "description": "Los latinos que castigaron con su voto a Trump por sus familiares detenidos por el ICE: “Voté por todos los que no pueden” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El arrepentimiento de Trump sobre la aplicación de leyes migratorias y otras conclusiones de su entrevista en \"60 Minutes\"",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRURzT2VKYU54Wl9id1hVSmpwNVhhVjRCbGFWbGpLTkplVW85NDFmRkI2MGNneERUY0JNMGZjZU1vOHk2TlBRRkVaWG5TZ1lMZXJQNkFxZ1hDZ2tIZHRlRWRTOGNIMzFCeVhjVlh5bUl1Z3RjVldVYlFBbmVMODZhbXc4dVN4c0pXbGdmeW1NeTZ5UQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 09:17:00 GMT",
+      "description": "El arrepentimiento de Trump sobre la aplicación de leyes migratorias y otras conclusiones de su entrevista en \"60 Minutes\" CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La crisis golpea a Nvidia: investigan a Jensen Huang por un posible caso de espionaje chino",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcDZ2dy1pWHQ3UTE2VF80bFVmTXJyVFZuV0t5YWUyMlJTbFFyVHc3anhUbTlXTWxCdjk5VEhzRmpyQ3VKU1FnSFlfNFoxZXFKUHdHRVVjTVdBeUE1M0p3UHk2TjZ2bThLVG5MZmJ1X19Dc3ZuU2lfLW9WME52ZmZuRVBZaDNzR1ZBS1NVTnRobVRyTnVqLUxSY3prOWhrME9YQ1l1VUF1eGpVY1dXLUMwatIBsAFBVV95cUxNUUZRblJ1N3Z4dmVFVnhDaXF3am1pWG11aU43ZGJoNXJpTi1tTTAxQm1aQ1FGbUtLaUV1bnI0TlNIZE14MWtqVkZBQ0hOOENPRHZwZFc4YTltUGVMREhuMVJCbGcxeW5mM2wtNFZiaU1lNzJaZUx4ZW55YnRfcWFfLU4zUi1rSjFFeEswNjJtdVFWNWtfOWRFcjZOb0xKc3prNXRpS1R4Umd0SVEwSkNRbQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 09:13:51 GMT",
+      "description": "La crisis golpea a Nvidia: investigan a Jensen Huang por un posible caso de espionaje chino DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "Nvidia inicia una investigación sobre la relación extramatrimonial de su director ejecutivo con una presunta espía china.",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16cDRoNFlrYnJfbGhvN0dSZklUUGM4ZnlRRm5mM0h4bVdJNmxzVUdvbS1NUzVfVUNobzRWVnJKcFk5Q1FtSVFHazRwTmV5bVpPMWItWGRWNk5ORklz0gFiQVVfeXFMTmY3MjRteXZaWF9QMG1UWWt0ODd6TVVyak8wVDg3Y1VIZ3lnbTA0cGUyRVN6a1Z1aml1MDJ5N3dGWGxGckZhMk5NN3A5MzFQYThHd0VLUGwtQXZULU5WZmNsVHc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 04:31:31 GMT",
-      "description": "Nvidia inicia una investigación sobre la relación extramatrimonial de su director ejecutivo con una presunta espía china. BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Nvidia sufre en Bolsa tras iniciar una investigación por la relación de su consejero delegado con una supuesta espía",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOSWgyTFJGVDFzZkdDRmxSSFA1VGsxcFFrcy04Nnk2LVhKYXFVbkt1NjR5bzFZT09JZDAtR2VlNEtLV1hJekVwU0JsMldiMmZ2QlN3d2xwcWFaS3RqSEJEa3RuUWNRUWNYSjR2djJyQjQwN2NVd0J2U2cwR3NwMTF1T2VtcEphSHFEZlc3MFozZUZTWnVPdnd0ekVuRnFqRlBtb0V6SjZoQ1dmZ3UzNE9wMWV1VU5zMGdXc3BoTGxLVjZ2WmYxTFhObEF6TkkzLUNmcmlBUzFCWFRkZFdGcGJBaW54U3lSM2t3MmhvZVJFbkNKbXJfWU8xQWJWdjJnallhd1FLSGszUWFtd9IBngJBVV95cUxORHNSREhrMlk0UFpHSzFMQnZYZmFJZUFJeTZLWFQ1ZmY4Q2lwai1FajQxYVdSYVpFWFNIVFIxaVByVnZXWG12ZHE4V2VNdUhsM2ZPZ1dreS1yMHg2SzdnZWpxbUJjTHRPWlgtVm55Q1ppNG5vd1d2VjEwTjJaaVpsTHBVMjZVbndUaTYyREl2MzFhMUJFdWhIMWZENmdmZXVfRHN6a0R4LUo3dVB2REJXVUFtZ3NNZjFFeldMZFRZTUlRdU9TaElZdG1sMk1uQlk0bWJZa0t1S0RnZEVuUkpLM1BkSUpfSWxBNWhiamZEeGhRZVlFWndhY21sdFFXVzRfcmY3UmEtLTVQUTRQeFZNaWN3VEJVNklFOXRtbGVR?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 06:40:18 GMT",
+      "description": "Nvidia sufre en Bolsa tras iniciar una investigación por la relación de su consejero delegado con una supuesta espía EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Maduro estudia religión y se acerca al judaísmo tras las rejas",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHZhN0dDVG5VUzZjTnhQV3ZKODhvWGh6RFZmOWRnN3R2Z2wxWkJUcV8xMXB5akhwUG9XQTJJQ3FtYkFRb0ZaOGlCMEhyclJja0d1ZnJzUHlRZmtwT3RSVkZ3ck9jMnhqWC02RGVjN1gxTmVMR0xlZkxrMXZNZ3JFYnczM2lUdnh0aEdWekpZY20zdFdJb2p4cjR0bjc?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 06:36:21 GMT",
+      "description": "Maduro estudia religión y se acerca al judaísmo tras las rejas The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Incendio en complejo residencial en China deja 14 muertos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNHBmaWdrMkQ1ZVZ5bFFvcC1mR04xdzE5REQ5WE5LS1VRRFZsbU5TelZtM2k2RXIyYXhLQVAzd0ZHemloSFhxdjlsa1puRnJ4RFZSSzdqWmNvOFdIakVocTZzeUhhZDZMdWVOa3I2WDd5VDFScWpUOGo3Zmt0QVFFZTloTlBMQTdEQVBLenJ0VEhQQ0ZPSlE2Rm5GNFNWM3FlaTgySl94aDRfNmM?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 06:00:14 GMT",
+      "description": "Incendio en complejo residencial en China deja 14 muertos dw.com",
+      "source": "dw.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Los helicópteros pioneros que salvaron vidas en el accidente de Urda: “Perdimos la cuenta de la gente a la que llegamos a atender”",
@@ -136,46 +280,10 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13cXpqSERuUUdLRjdhSUlaR2JOSnBTZlpVMWo2NXIxQ0loWk1RcFZIU0hzNWNaYzBIb18zeGllR2NQSzBtUUdlNXVuNjhGbDJzeGY1dVJ0c3dZTkZj0gFiQVVfeXFMUHdXX1k3V2NWNnYxYWRKNVl4Slp0Yk5PNjdqS0MyU3RBWC1tOXh1blg1TWRkcnc4MGc5T2NHVmZPcmh3bXQwaklKWG1PUDN6YjVEWEcyWEhzRTY4ZDNZb09pUGc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 04:21:34 GMT",
-      "description": "Las imágenes satelitales que muestran importantes obras de construcción cerca de las bases de misiles de Irán BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "El mensaje del papa León XIV frente a Milei a su llegada a Argentina",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IQW81UjFjTkZFTm5TOGIxc0NtanRDV2tzUy1STC1QcnRMR2k1R0ZfeGZ1TFhrbXdXMUJxMUtDZEZhMnA3WkxGY1V0LUtuTUdPNzMzczJObUhLUHoy0gFiQVVfeXFMTVNIdDhRb2pjX3NHVVpvWk91cTlyOEN1bjQxXzhJXzFONmdYc3d5MWJsWm9ETjN1TkE4VXI2YlVMemt1Y1ZBWGdidWZ2T1ZkOTgycUE5WWxkWDFkcmlDbjdEZXc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:41:07 GMT",
-      "description": "El mensaje del papa León XIV frente a Milei a su llegada a Argentina BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Sin mencionar a Milei, León XIV pide menos divisiones en Argentina: \"La democracia se fortalece en la disposición a escuchar\"",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFo0cFlGanZNaVVtSF9SUkxzYmlRWHpFS1BOMWR6OWd4ZTNQV3BHNG0tWDlwY2tCYlRWXy1kTkMzR1kzNHZZR3BQXzRTdlJTLURMb25mcTV6cTJjMzh2dHNaQ01wVVFkMVptVXEyNVF5aXRMdVVpZ0xkXzZ1UG9GREd3WWRpYWlIWVd4WWZnVi1Pb0hFdGc?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 22:44:00 GMT",
-      "description": "Sin mencionar a Milei, León XIV pide menos divisiones en Argentina: \"La democracia se fortalece en la disposición a escuchar\" CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "La coalición de Trump está destrozada: ¿qué harán ahora los republicanos?",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZGtWOXQ0ekREZ0VBUXl5OURfXzNkRXQ4S3VHVTdHRWdCUXZxdl9jTTBOM3JPNGVFcWZjWDNZeDBXOVRGU0VuUGpWbkpxaWtVdzBKdVZjS0JPcnRh0gFiQVVfeXFMTngtVzNjaHlLM1FXQk5tLWFSQ0t2N0ZobXBvTXZWTDdrT0N0YzlnZmFVb1NPMVlxaHdaT0J5VTVCNDNyQmFCSzhlVndZX2VPcHRwdXU4VS1xZXpZaU5SdkZDUVE?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 22:01:26 GMT",
-      "description": "La coalición de Trump está destrozada: ¿qué harán ahora los republicanos? BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Rebeldes hutíes reivindican ataque a rascacielos de Aramco en Arabia Saudita",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNDhNUzlxT0t6YTF0ZjBONllwYklqckxNWHMxN2x5Wkh0cDZZYUVfaVl3dEU3REhMLUZjaXRTdURuV0Q2LXlBT1hCVmFKTkFOSmpaS0FDYmxnbkoxN0tDNGVjVnhiUlRaX1ZYdm0zOEJsbDdnWW8tVkdQZWlWT3RpMGlpNjFuX2tzQWQzUGxPUjh2SHRrRkVrek5HRkxDcTdfRFA2OXk5V1BNeGFBMDFGWF9kZEPSAbQBQVVfeXFMUFR3UzZtblBRck1uU2MwbGxKektvY0NsUmpuXzlJcXM4LWZRMmIyZVF3Vzk0dDVnMzhGbHlZT3J6aElzbjhKOUVERzdNSF91Q2R1VF9WYnAzMkdCTWJaZmQ3WnE4WUlycFAxejZzcy1kakt3cHpJT2pKRFYwbXlWNTlwd1pDeXhtZU42Z1VnS29uV1oxTVNLTUdHNkFyQ3lrSklWRHplM0k1SjI0eGR3dThybmFo?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 20:43:10 GMT",
-      "description": "Rebeldes hutíes reivindican ataque a rascacielos de Aramco en Arabia Saudita DW.com",
+      "title": "Trump admite política de deportaciones fue \"demasiado dura\"",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2NIZG5lalhwcWE1bU1SQTVtS2wzM3RNWG1PQWtsdS1JN281cEloZTZ0WE92dWk0WWFMaE1kaTdTYXZTOE42aE1hZkVtdjg2Z1YyWjZ2WWRHS0FyNTZBU1hTTnZndWRmNVRQSUR0Rjgtd0ZUamtkTTAxbEhWR2FmSDZSZGhqMVBPekt3eC1YQVJRc1VDdUdNWUYyOVdMSFpJdlhRRg?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 01:38:15 GMT",
+      "description": "Trump admite política de deportaciones fue \"demasiado dura\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -190,15 +298,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Santiago Peña pasa su primera noche en prisión, mientras Paraguay busca salir de la crisis de Ueno Bank",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM2RjQVEtZXVVUnhwZGY0YmFKSGhKOFpsVXI2VWFPcmJfSU1SY0NVb09xWmJNbHN1MlVua0NsUlRDaU55OEV2cW9Vb2JPUjdHU1hNa1JVWXNXVUhtZ2MwYzQyX2JWTzRhcHNvTnJrRl9nVlVWMTFhRy1yRVNMRVU5bURjWEwzTXA4Nk5DSDgzeDhicHJLQ3Z4SXZJT2x6RVdudHcyT1JPX1NIc0lmSFZpa3huNkR3SFVOX0hBU3p0MEFQSWVIbHdmRjQ0Ul9TMXhHSi0zbG1YQ2d4VUJrX1FkUE9MeVVSeHhoamNvdEVpRlFpMlc3c2FrSElTNDM0UQ?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 18:47:48 GMT",
-      "description": "Santiago Peña pasa su primera noche en prisión, mientras Paraguay busca salir de la crisis de Ueno Bank France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Un nuevo video muestra el arco de Trump mientras el proyecto sufre otro revés",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnhFQ1NKWC1OUTdLNnloenVaWkRtdXc3MTlDd2RfUzFuWnFfM3MtOC15bC1falF3ejNRU2JRX1VMNDBvek9UOVF6a0U1cTEwRmh4OWR0SHdWVGFsbzRZeG13QTVpWEJvMjY0em4zWk9rMEt6OFRqS0tGQlJfSHZDUEpfdGNXa0gtaFgw?oc=5",
       "pubDate": "Sun, 08 Nov 2026 18:23:01 GMT",
@@ -206,15 +305,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Fuerte sismo sacude centro de Japón y deja 23 heridos",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFV2UVo1T1piVWNrVDBkQXpwLWpuQy1NYWpEQlI5cV9hQVJQd3QxaHBzRTNFQzAwSlBFeXZGMS1YcXJnZWQyMVA0QzZkMFVTZFJNV25scjJxMWpWT0hOa1dFcDNCS1F1ZzFqeWJwYUpXcmpnVnZ1aEN1R3FxMER1bUkzaERFcjZtdi1tcW83SUx4OHhRTGfSAZYBQVVfeXFMUGdKNGpjQ3NsZUVjRVNqeXhfX3QtVm43N3JZR2hRUHB1N3pYV3ZoNzc4TlkteXM1SGtxWjFYTk12TVRkWHQxd2lWckFrUmVuM0lkNElFVDhDazJfaFQzaGVXLU1JZHNqQ3kwbVZvV0EzUXUwM3NwVDBfRGN6OVNtaXJYRDRDMTI2ejRRWTFoYjJFbGRJbnZn?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 15:58:34 GMT",
-      "description": "Fuerte sismo sacude centro de Japón y deja 23 heridos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Desde el ataque a una base militar hasta la evacuación de un canal de TV: ¿qué está pasando en Colombia?",
@@ -235,15 +325,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 13:23:23 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "El papa ante Milei: \"La economía debe estar al servicio de las personas\"",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRnJRdUpDTVFFWVotREkyRVZqYmxJNnhwNG8yaEJsVnRJbjNIaHk4dGE0aVY3TE5KZjdtZU1OWm5ucFhHYW96eWZlaEZPV3JyWVlJVHJwQ0RSWjZqeWpSUHBiOUZ0WV9Fc2YzNEFBVndVc1RPTWMwTXFLT1N0UFhvZ1pVVFFCOVBjQXZsLWVxZ0F4c0tjOFZyMFl0dWNIY19CTmVNdERfNWxHUEExSnFWMHFQZ18wUWo3Q05tQTZILW5GS0VUb2dJQlYtTmJFTGdveTV6cHZwSGZDNFNJaEdTdjFJQzZmdFl3MThaY3gyeGY4SnhRY05Ocm5RRFBtdXVBcmRNQnBUYU1fd0Y0WTlncm9LZmhJbWo3?oc=5",
       "pubDate": "Sun, 08 Nov 2026 12:40:22 GMT",
@@ -251,24 +332,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Las águilas gigantes que cazaban niños y moldearon la evolución humana",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04RlZBTml2VDY0TXYycHlPUEVYRHhJZVFKMUI1Vnl5d2loZ3dOUHM0eVpFVjdBOHRlZWczNVBsbktoY1lNdHJEbHNXSDBsT29MRTZMU0U5OS1OWjFm0gFiQVVfeXFMTVVhYk02cUNuWktQb0lGbWZ0SkFSTDgyOEVDQU04RXRZSkZlY1o3ZXAxUjFPamJQQko5SXVhVllURzhpNjFQX181ekFOZGprM2RwV3BKOUdCZ0hDT3kxRkcyV1E?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 11:11:21 GMT",
-      "description": "Las águilas gigantes que cazaban niños y moldearon la evolución humana BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Edificio propiedad del gigante petrolero saudí sufrió daños en un ataque con misiles contra el distrito financiero de Riad",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzdZN3IyaG5oWGQtQWF6elduYTZaYS1obmYtb29nTTFWemNkNnRJUU9IY0g2U2xocFg4NGNOMmM5b0pTVUFMUk40dDMxY2p3dVk0bzJGU3BVR0V3RUpWTmVhTjZxbDdTQ2t4bTNBZGI4LWFuRnhJNGcwRVVaSXBSLXFxWVBiLW1YNXFSUGR0Yw?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 10:12:00 GMT",
-      "description": "Edificio propiedad del gigante petrolero saudí sufrió daños en un ataque con misiles contra el distrito financiero de Riad CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Pope Leo tells Argentina's Trump ally Milei that leaders must know limits of power",
@@ -280,24 +343,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Irán reporta incendio de dos buques petroleros en el estrecho de Ormuz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTVcxZktKVS1SUTI3a0lOZGtZMWp1X25aMEJtZG5xTlJ1WFBNQjljeFFvTDh5cENZVjJsQXhfQy12OGdscGdEdjZIS1kzUWstY0JnSGRoREszVzFhMjB6ckFDeVNQSUMybzlJOFhLM1R4dy1vNXNNZENfQXZ5VUVxQlZVSGJvdnlNOHFaemN1d3hfOUFfYkg2eGNZUkVJOUNvLWxOUTVOVVFSN1dH0gGsAUFVX3lxTE9iajB4ZUQzN3BEem5tX0p1TFBub01Yc1lpcFlfYzdsUFpqenBocVpYaWp4cU8xbWxIb3QwTnB0cXl2RzlCazgtQjBsYkxLZElPejBTRzlxX1J6Um9LQ3JPOEpfMXNSU1BwdllXZDltWENNaHNCR1hDLVFvRW5CQ1VnWDdNNlAwZnVkcVQwa0dkNmNfRUxDRlFaZXlQbVZDaVBKamxEX01xRERuMUY?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 08:17:06 GMT",
-      "description": "Irán reporta incendio de dos buques petroleros en el estrecho de Ormuz DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "“Nena, dime algo”: el último mensaje del marido de una víctima de Urda",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbEJMbV9DNkd3YjRhaGRBU3RDOEJZZGVYUWlnNEVzVkxqWnFtc2hVaU1DN3dDX1h5ODNVV3luRmpMa2NhQ21HVUtPcFNxOFNKOGZHUXl5UGJWR2NTTHpwR2d0cnM2SlozZElFbXNfWTlDdGFNeHdNMldQQ0Y1ZXF6VnBETzFlSUtOU1NESG1Xbmg3dGRHOEtSRVFoaW1zZWJEVVlqYVlKdVNxZS050gHAAUFVX3lxTE55amNucVl2Sld5Y2twd3BiLUtyUkhjd1dISVJLT09LUWd6T0FvVlVyby1icW1wVDltdWRrc0xwbTRWMm5sQUlpRjhzbW9BenZEMXJoNkx4MjdjN290RXMxc3cwa05xQmRSVFhabzBQWE8yVHlXenR2Nl9nWFJRWktLMjRCSnJ1a25qZjVvcmRydDc4aTZzWmNKbmVlc1B0VGU2dTk3ZUp3eV9QZENjaWlTTWE3eXltMWd5eXRZSG1BRQ?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 04:30:01 GMT",
-      "description": "“Nena, dime algo”: el último mensaje del marido de una víctima de Urda EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "¿Quién es Gadi Eisenkot, el general retirado encargado de formar gobierno en Israel?",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUJLcGhRX0FhWEJRbnJvU3VoS05OQXRHbUxodlhKRGN0UkNSaVVxdFJwUzRCdjllR3J3UWZxRlI2SVR2UzlFWjM0UzhybFBWc0RvY0pfOXRsa2dXZXAzZnpJeVdrazlpUTVYZEVacnFQVHpDM0VjcnRUdkdxNXFYYVVBQ3R5LXpKM2lnZmsyMlg4aFc4N29ISjBnOVg4c0JUenh0LU5KOEZzUEhYQ1VHcUdDNktJUWhHNllsOUdteGhTbHgzeEF0OEhMQVBJZGFpV2Q4?oc=5",
       "pubDate": "Sun, 08 Nov 2026 01:22:13 GMT",
@@ -307,19 +352,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Impulsados por el resultado de las elecciones en EE.UU., grupo de salvadoreños se unirá a caravana de inmigrantes",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1VBaHZGVGNBNTlScXpjNU94am1CWUZLSlM3anR0ZzItQXJNSWxEdlBfQXh4blY1SzlKUkg2QjlpdmlTWkRYN3E2anh0aEUyM3pORHZpR2F6RlJzQ3M4SUJ3c21UV3dLdHQxQW1nTlhPNTE4Y2lFTmxyUDEwWjlSVkZ1OVlSYjM1bVJwcWJOYmZvLVo4MElwQkdWXzVhWjRXdmtqU2dNLVNFRTI5cGd1SUE4Mnh5T1FKOHM5aXhXY0FRNEk4Zy0wdHN3anZYSmhfUC1R?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 22:19:07 GMT",
-      "description": "Impulsados por el resultado de las elecciones en EE.UU., grupo de salvadoreños se unirá a caravana de inmigrantes CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Paraguay: Fiscalía imputa y pide prisión preventiva para el expresidente Peña tras colapso de Ueno Bank",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObjBoV3FIeGFsUTJLX2FJQkxxNTVDNVdvVUJDSDlpdm92UXRWbjlqM1pFaDM0aGFmaWtnSDU4X1dWeENLR3Z4S2RvWTJxMVBWTlRTTW95SDlXb0FWcktMbTVvRE1vN2hJSW5iaVVrZ2RucGNWYmNycUlHb05BY1FJbGNsdlpocHVGNDFqcTg0YkFBTkRzeU52b3dJd18yVHJKdUMySXdrLXZpTURBckZyS1BiOVMxVFJQVDdRazRGczJqaklQX0R4Ml9QbUhCRW9rTjZoMmNBb084ZmZoN1NHRGJNXzFHX0hUSGRfNGtZS0w2R2NNTXBOUU95OS1xWUczZW4zeHFwUFNaOUg4UnFZOXR3?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 18:33:06 GMT",
-      "description": "Paraguay: Fiscalía imputa y pide prisión preventiva para el expresidente Peña tras colapso de Ueno Bank France 24",
+      "title": "El presidente de Israel elige a Gadi Eisenkot, rival de Netanyahu, para formar gobierno",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa0pZZWxPZFNXWjhuSVUxd0J6cGl0RnBIQU53TlI3Z0xIaGd0N1NzbmNnS2RnU3U1VGZkN3JXMklMdUdNSlZ5ZFNDaWhlUzR5Sm1JRjJ4Qm9zZDlNRUxXOUhhdXI0NmZ1d09SSExoZ0hWSlRscG9WXzJlTWdObjVDQ2tIVEpLay11Vjk4R2ZPUDVzRWFWSTNseTVKQ2dMR252WHE2SW8zd2lvSmJxLTIybGNMOElxS0FkZlJtNmNXS0wyYzdkaEFnV1kwRU9YSElhVkE?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 19:44:56 GMT",
+      "description": "El presidente de Israel elige a Gadi Eisenkot, rival de Netanyahu, para formar gobierno France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
@@ -343,15 +379,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Medio siglo de los secretarios de Estado: el poder detrás del poder",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUxFQm14S3VrZ2pIY1czQUFFQ3RVd2dobnVmTm11WWlnT1R6bEVWTEZtbkc0NHluTUNaTHBPTUwxS3ptVGZOTDRMd3lhYnZGX0IyalYtNmxUdnRRUmJ6cC1jNU5SWkpOSGxpTmZvYnd4V0lWR044TUYtazNkbDk4THUtZ2QwOENmZHdldEFVdW5qTnlQeWxyWlZpUGxSd2ptNDg5Q2IxaFPSAbwBQVVfeXFMTlRwSHptelJ6VFlhSVdmZXRScUpsVmZjTHhBMmtqNXpkMmdINTNkU3pTUTlQb3pJQUZHSExZYVdxRlppS2V6aHU2SEpOVXRaX0w5NUx3VFp6LUlzaF9Ud2tvdGZMV2lNd1g3eUVQNUhBYzB3bE9uaGwtU0pYMnBnalFtc1I5THg5cmNVcVY3YTJ5SHZLMld5ZEpPMFlEYWVJU2VyNTZrLWZETmo0VkRxYWVpRkliWEpKY3ZDaFU?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 04:30:01 GMT",
-      "description": "Medio siglo de los secretarios de Estado: el poder detrás del poder EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Presidente de Paraguay destituido es puesto bajo arresto domiciliario tras colapso de banco",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY3VhNVNTaDFTakVsMEcwem81cmNSeDNod2Fjd2ZOY1RYSTVsc0tKbmgwX1l1b0k5X0V6TXdtRGpKZUNuWFduVmtLNm9FblZhQkllcHB4SEFJamgya3MzUUxZaDB3X1k5ZlctdnV4WVh4TW1qNzd1d21meTJHSHZwc0o2RkxtOG82MmVlNjFtc0ZJNkMwSzdGbjFzREtDZ0VIR0tSdVZ6SFp3Zzh5N1ZWNzFKcHo?oc=5",
       "pubDate": "Sat, 07 Nov 2026 01:46:00 GMT",
@@ -359,33 +386,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Golpean a Mon Laferte en el rostro con un objeto durante concierto en Las Vegas",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMl9lYlAzb3FVMWphUXlQaHBJbUN4MHpqZW5DSTBENk1xdEgwQjZaRThxQWJBa0FmbGdadG5ScUdWVVJiRTR6YjBNTDJUSlI5SVhnVkd0aDM3cFRndnJVSnlOZU93YkJYdXAtMU9adUNxYWRkV2FwQTlucGkxNUtHenMycmtqV3d5Vkp2NzFpR2VjNFIwa1phNDlBRXJySUZEZzRVMThB?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 21:23:32 GMT",
-      "description": "Golpean a Mon Laferte en el rostro con un objeto durante concierto en Las Vegas CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 14:44:58 GMT",
-      "description": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Verificación: Video de carro alegórico chino fue grabado en México durante desfile de Día de Muertos",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUE5taUYyaWxIMVdfYXh4ZXU0RXBadjZuVHJ4WHpDWFdwYy01bUlWRUJVWm5kdW1rb2REWjN5aUJ1UlIxek9mVEU4dGdRYlZmQ1RFUjZYSUk0RTRDVmhsSDNvZ042VVVmb0pmSE1leVVsNlFtZGVGOVFzMWVncDRxOG8wMngzQm9k?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 14:22:35 GMT",
-      "description": "Verificación: Video de carro alegórico chino fue grabado en México durante desfile de Día de Muertos Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "India's ONGC hopes to get rights to operate 2 Venezuelan oil projects in six months",
@@ -433,31 +433,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "El escándalo de Ueno Bank que sacude Paraguay y provocó la renuncia de Santiago Peña: seis claves",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdElPVmhsYlFCVHlvSnNWOHIxazlOZk9qZDQ0UWpGN3BIWjFTVmU0aTAybGJpbXg2UGh4eTlXREp3ZGpfZ1c5RTJ6UDN2VmhnLWpya1JpdmUyWXB5T1J3eGpOaUhmN0xVTk1VQ0VqS0pEcTd3T2R4dFBRN0MzRzd3NWpJXzRjRXhqX1hoNWlFVjhxeUEwbGpiRUY3TkUzUnRWdWE0TXRxcG1QWXl6eUN2eXJGZldGa3NP0gG4AUFVX3lxTE9icnozVTFNd2ZvWEhsUjA3V3dTbU8yQ0xVdDdtbkJNTDZ5SjBiTTNqVENOeUs1XzlqTU9LRk5GcmNRTE1UaTY3MjBjRVVEczBrQm5RMDZwaWJ1YlpQX0lvMFYzTjlOaEczeUlQMmRIN1lSZ0FFS3ZiQ1BidWhfa1c4cGcyS29jYU9CU3ZUc2k3WWVQRS1mSnN1MUI2cHlGcmZqNlJxclFZcjBieFB6emRBMDVLd2VXNkc?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 19:32:21 GMT",
-      "description": "El escándalo de Ueno Bank que sacude Paraguay y provocó la renuncia de Santiago Peña: seis claves DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWhmTTFLbVh0SXNGN3NfQldlTjBJV2VpZzVvSFUybTk2ZVhobWZzQ0FvUWRxZ3dkT1BlaTQ0c05leHFRSEhjYU5fYmdpV1pXMkZ0eWN6cmd2blJhNmZCTmlzQVFQdEtSQ2c5VmUyQVd2cEJUTzU4RjdKTkhEdmpwYmFxN1pfTGV0?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 16:18:26 GMT",
-      "description": "Verificación: Video antiguo de ataque a político búlgaro es erróneamente identificado como atentado contra Netanyahu Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNFd4RXU3d1E5djJORS1sVFpla1p0eUphZlA3aU14cEtGQm9Ud3cxZzNFczc3d1BzM21pS3BHY0MwQ0JtMk1yVU9Zd1JyR1RjbkFzY0JDTVRhanEzM2w4Z2tpNV9tRlVPbEJtMl9DRXM3RDB3bXg3S24xNTJYSEVscUlZRUg5N1lRMnRzQzVzdXVHTEp3TlE?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "description": "EE. UU. ayudó a Venezuela en un ataque letal contra el ELN, según funcionarios The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Cristiano Ronaldo anuncia su retiro internacional con Portugal",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc3RZMGhHYmlOeWVpUGc0c09KZlpkNXNMc2NxNnZTLTYwaG1yY1JRcUNUQTFoaHBGeEdFSmtVUGpSN2FFZ2xXUGJLZXFoYmI0QjN5b1hMaHRtTURUOGpJUktrTjJsWXJxNjJ1UGFnNkdrUG1NeEdJU1ZidldpNFMxRmpnS0ZpLWp2NmNLSERCVnNsdlNYVER1SFhuSWdIRkI3NHpCb0xB?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:18:00 GMT",
+      "description": "Cristiano Ronaldo anuncia su retiro internacional con Portugal AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Gina Hinojosa, la latina que conquistó Texas",
@@ -478,19 +460,37 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Claves: los votantes castigan a Trump y el Partido Republicano sufre pérdidas históricas",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVW5yd3l4TVdSVF9sOTJ5THh3NXp3b0FpRUcwd0tmblNGdnktM0JNZlJFTHRDekJHMjRDdkJKNzFNMmxZUjZWb0VBekpFNzVHdHl1bGlxWG05UlZjWDhtanRRaFZQSkJzRmkyUXlpN2oyd19ScXRJUFVTRVRwdWNLQlo0eUZwT3ZSWV9jWG1mY2hMSXo3N0pzNy10Qmtrd1lqOTB0ZEJCMVlUak45SjBMQUdR?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 07:56:00 GMT",
-      "description": "Claves: los votantes castigan a Trump y el Partido Republicano sufre pérdidas históricas AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlZoSHBxdTFzWThkc01PYkF1eXpJWEUwLXljM215RllRU2V1RVdvSlVYXzhLUGFhQWtyWkJxUlVOdU1JY3hFNmFfTHptUVRYLVJpY3JYMkM1LWpnbnJpeTRTdlYtREdHelYyUzRaNklrb2dGcDRvYmdNQ1FVV2NwQldadGZoMG82cUhCQ01qSW91RklVRDVzZ09XQkRSWnQ4QnBBSC1nbDNjYmZlQXFoVngzeUQ?oc=5",
+      "pubDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "description": "US court of appeals affirms validity of Venezuela's PDVSA 2020 bonds Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
       "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
       "description": "Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzcxOU92RVJXd2JmQWs2Zk40dmRBdExvaFVkOXp6OGNkVkMwckwwRE94RjAydWtDc050QVVrMmV3WW5hT0QxdjN5b1RCMHZrUGpBZE5nRGRsNV85RHQydTRzS2RsdUR3WVc4SU9oMnE0RU44OThiNTRjdXFnZGk1RFhKTEx3YmxMS0F2RzJLa1o2aVZnQnFiQk9ReVF6YkhXczRKdGxUSHlRV1dWZXhFTmc3aw?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Banks, buildings burn as Albania's capital Tirana erupts into student violence",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT",
+      "description": "Banks, buildings burn as Albania's capital Tirana erupts into student violence Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
