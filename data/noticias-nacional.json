@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T04:35:10.934Z",
+  "updatedAt": "2026-11-12T14:05:59.623Z",
   "sources": [
     {
       "name": "El Universal",
@@ -58,22 +58,175 @@
   ],
   "items": [
     {
-      "title": "Detienen en Mérida a presunto homicida",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVFYX2ZqZlR5eWNlQ2VTZ2NGMVlBQUk2QXExRWlzdG5MTEFER1FZVV8zRXBJekpkXzZycXhYX2dhdFRFSFBVYUtHbVh2cmc2aXRiM3pEWE5kUE9NYUM0RXBuTzNmYVRoY1dPN3AtTlZyRGFqWndvM0hDeDg0VUpYZ05UZDNCb3lZd1pzdFl1UlJ5VWNqNy1HT3BhVUdmanlFX2k0YjIzSTZzV2Z1aGVZcmpvcHhEeGlTOVhfX0dKenLSAdQBQVVfeXFMTWJvNHRMOXNFSVFZeDVjaXVuaTdEOGJuVW1NOEt4cjc0dmsxb3A4VVhhUGdKQUlnTWJRcDh3NEtVQ3prWFpMLVZIXzJwUTFBc3R1MHlpVGFIZDlWdGFEamhKUjJ0MlBReG5nMG92ekM3Z2E4eTNTMjNQYVVDYmhTa2JmZm1UM0lYVmM5dHV3T1NCWmg1UFlJZ19PNW12eUpZS2ZfNnV3bng1QnFMUjNrZXBGY180aVFpbWpVU21iTnRIaEJ3N1h6dGJ0aE5LMnJfeW95TG0?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 03:22:45 GMT",
-      "description": "Detienen en Mérida a presunto homicida El Universal",
+      "title": "EN VIVO: Conferencia mañanera de Sheinbaum (121126)",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUpFcUZOX3FQNjFHWWVFWWdfV2x4TE13LWVROGhvQmVaZDRGRkN3dGVEVjJkQzE0RTVOd0JiRndmTjJJQXJNT3dfdlZNTkwzenpFNHlmVXdYZmdYU0Juel9rVU84bGZydE9qenY3Qk14V1ZUcEM5MXRVQ2JpalJOM0JpMGNNcUwyRTRzQnRYRGN4M1VLaEd4QnBnUVJwd25sNDZLV2J3R2VMdk0?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 13:11:04 GMT",
+      "description": "EN VIVO: Conferencia mañanera de Sheinbaum (121126) Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Duplicaría Trump aranceles a México si no detiene caravanas",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnNaOTVwa2pRTXJDcWxoamV4N3ZTMWtCa2lDZk1IcEVtb2ZTWG90bmdnOEpxMzVRRi0tQnR1ZU5xQUFZSGxXVThYdlh6TUNDZ0FNdTdTQlVoOWliTUJIVGM5NjE0N3VDT21WYU5wUWpjb0NjcXVZa3IxTTFiX1A4WV80Y1lMR29LWHRmcENrSS1NYkxuS2hoUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:47:54 GMT",
+      "description": "Duplicaría Trump aranceles a México si no detiene caravanas Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 12 de noviembre: Síguela aquí en vivo",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORExLR0JUYnlCZU9oU1pNdG1MWmpCVFc1V2JhVlJzTE1CRUkzUzI3OXBWMGxhSUZRaXpkYkJTWklUZ1hqMjNKeG5xQm5RMnZEWE1xNGNuZEREUmRCTFEwM3VQd2FudHlJNGJHYzBhcUZwb000N3ZtelVlc1VKUDVFYW5FeGNxWDI2YlNIQlg4U3BFVFY2ekZzMW04VjREN2lJd1ZqM09WZzNPLW9tb1FKZS0tRURpczViWjE2V3hR?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:30:00 GMT",
+      "description": "Conferencia ‘mañanera’ de Claudia Sheinbaum hoy 12 de noviembre: Síguela aquí en vivo El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Trump amenaza con duplicar los aranceles a México si no detiene a los migrantes",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVRfaVpqUENXM29NODAtVUdMTGNTa3hXZTBOY05VV19sbWttR1ZwamlHcldtc1FSWnRUSWxCN3BDTVNVQ3lzdnFnU2lEVzBzaC1idFU4QTNYVjc1bkhuaUpRa0pLN2k0dlY0UVJjX0FxVDJmdkNidWUxMFBsdlI1V2J5aTU2SVVMYU9IcUtmRE5sVkhnUGVFY3Flek1OY3htWDdIdC1UM0xsSG1MY3JSWVUwUkhuZkpvTWRTS0VLUlJ0OW1l0gHKAUFVX3lxTE9wNGRKaHhpMTk4YVQ5OXRHYkRMZWZhcGdqZXNLXzZMUEo2NUdOdEdGV05YcHkzbFZOd3lMcW1JQWlVY2doQmR1RGs5UlcwRlRDczJHUjNOLUJ6SnJsNi12UFlKdXZnZkJMWUI1LW9MZTN6YjRUQ045ejE5RWhfRjNCYzZ6VHJoODFlZ29ueFhXSzRYYklUbmJfLU9MZnlubjBramFMN08wbHRBSFZpX1gtWW8zdHI5Mm9rQ0ZKOXNOc0x1UnA2OEhGZnc?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:24:50 GMT",
+      "description": "Trump amenaza con duplicar los aranceles a México si no detiene a los migrantes El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Trump 2.0",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmZXMWJoM0dSdkFHY0VIdFJaNktaMmtGQ3FrZ25KTFRmYjhieXl0VHhTRFRWWWVfa0VWMmxDTXdfb1Z3eGJhRXlsVVVXSE1DRG5qczRKUGZid1Z1QTJrb1k1QW81SmVjZ0pNQm93bTJPcWpvbk9pclYzRzUwejA1bzNBcjRfc3I5SFHSAYoBQVVfeXFMT0VYRWRaMDNOWlEtZS1mdkI0RzVQS0VSRm1qSHdGSWVGSEdZSVhLTkRSZk1sMTJwcFNTVkpjbkNuMUpWNWlBNWEtTTVuTjVBb3B6anE0LUpYblZHTmZ2UUlQU2k0cVNoOEFTZEdEMjcxMVJWMmhVaEVxWkNOYjZJLUZYUlFlSXVDT0ln?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 11:16:43 GMT",
+      "description": "Trump 2.0 Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Hablarle al espejo",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lWXB3LTR3d3BQY1Z6YUNVc1BITmlxR3pKbXV0dWFVZjNFUXpTQ1FNYWNBOVRUcjZIYUdOd3J3TlNnV2ZSVDBOcF8wQk9ISXNfQTRRWDNSTW5XeEs1MXZUZkJkNU5yU2JaTnpBSDFxVQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 11:09:55 GMT",
+      "description": "Hablarle al espejo Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "EU pide a México “desplegar tropas” para frenar nuevas caravanas migrantes",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeTVFaG9RUHNIanNlQUdUTDZwUWgxTWZrOHptMEh3enh2aXNaX1B3dmtpNWxGZGhfU2RLWnJCYmpCNkdTb2pQR1VuR2Z4bVgybmtHTklaZDFlNGZwTGkwV0ZzNmNreDg3TThWalFfVmNKTTNIdXdrTnJlemhBd2FPWnctNjhXcEw1VGJKajFwLU9CaTRIczA2WndNV3Z5LUMwLTl3cVNIdUNGRFp3MG51WlBIc0tNdUhUZXM1Y2o0LTJhRVNXQUxpWi1hbw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 11:01:00 GMT",
+      "description": "EU pide a México “desplegar tropas” para frenar nuevas caravanas migrantes Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "La corrupción detrás de las contrataciones públicas",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDJTMW5FWlRQUXJqcV9aN28xOUtoX0E1Z2ptQjIyV0Q4TnQzNTVpRFI3Z3pmZmdZSURmQlhuWVQxOFVfbjREM1NlUTA3RGlSaHpac0V0bTVraG5fanlKVFJabXd0bWV3Rk90NjJiU2xVNmxrV2NUVmljaTFWWUFDQ0o3VEdSd2VickZaekxudWt3V29laV92YkdHMlNoY0NEZUc0SWVIQUJydlhYZ0E?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "description": "La corrupción detrás de las contrataciones públicas Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Jesús Ramírez Cuevas denunció la prensa comprada. Ahora la fabrican",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWRqaHNaTGZrRGpTU1llaU9lUmFWSlMtZWh4cDJXYXRrMDNQeDhpckktd3Y5aC1POXNEcVQ0V3VnelVqc0g3eXlDbnAzTklscDRHQzZBZFV5QUE0UlYtOFFKQ1RpUEFXLWFOaTF5OFJZNTFlNk5RZ3ZfRVVfR2ZXNk14N3NNY29hd0s2M1AwaExER0wzSkZXd09va0hrYS0zUzZYWm1OZ0xETm1KYmJjSEdGQ1NWelRubkFEaVcyd3MzUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 11:00:00 GMT",
+      "description": "Jesús Ramírez Cuevas denunció la prensa comprada. Ahora la fabrican Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Denuncia anónima ‘destapó’ la investigación de la FGR contra Inés Gómez Mont",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1h6WWN6dDdEdkJTakxNWHB5bWVocF83Yy1ndU9BeURucUdRLWlOc2o2VFM2SDFFaFBsTERnUDdtMndOSTBKbzZjODF5ZUVQcS1rdDZ0MmtPYVBaZVNhcndEZENmNDhLNndkaUYzdU11NXV6TXBPMmw1Sjdwdy0zeUJCanJheHlJQWliUUhQeno2VjBJdlc2R2JXSVpiRUpoRE04THN3azFkajJtN0N0eU1zM1FUcnY4X2NMaVNZS1FXeDVfQUE?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 10:20:31 GMT",
+      "description": "Denuncia anónima ‘destapó’ la investigación de la FGR contra Inés Gómez Mont El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "La historia de la renuncia de Taddei, escribe Héctor De Mauleón",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2hVak85YVk2OXVYY3I5UXdrTEp5alVKRHFqeFdmWU0wRkNSc2JFMlZ6dEJYSXBRajI2Y0tvUmt3d29ORzM1djlhYXNNUlFRMXRqSjAzeHdVaEo5Zl80NE9iSmctdGZpVG0yQUtabHN0WlNoZnFraW03Z0JNT0xENVpwa0VINXYtbC0tcmFFUVNjMVFqaWVkSkVn?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 08:11:56 GMT",
+      "description": "La historia de la renuncia de Taddei, escribe Héctor De Mauleón El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Condena a 51 años de prisión al feminicida de la \"Barbie Regia\" en Monterrey",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSUlIVTFXR3BuTzA2c2Zoc2EyUm1UREtRY0ZUWE1NWFhwRnRxamM3VzNpajdQcnRXbGpQYy1TbWM5bl9ETlVaOFBKX1BLS1d3RzJ2eGFpN2NhU3pKNWM3WmNvRE91UlRGZmI5Z3d3R1BiTnVaNE5lMDNYbkVFLXppTkFUN0NjRUxLNzYydjktRFN1bGUzRWp0REdOV2diV3lSLU1PaU9sQXhWNEE1d0drXzNOQ3h4TjBEV1R2dUEwVFVkUkdVTnNaX3d5Z01KTFNaUjRNemJhSHFhTURDc3BDT2ZOTzRDbWFEenl2b9IBgAJBVV95cUxPZWVlTTFQeWJNZWZ0VXB3bFJJeENCajFMQ3VnVjRTU3JGR0lJQVJFdm1KMnlSeldzcWpkTkRMMmIzYk9BVWlKWHFpR001VkgtY3g2b0g4dW9yMndHRGhyN3l1RWpyXzQ4RVd6M0diTTVkVkhBRE55ZF9jRWlvNm1IU29JMlhlenlHQm44WnBRS3Atamt2NVZ2TnUwTVFSNVMtc1daLUtlWUh2SjNKMEFGNmJXT3lJNEtUTm5YSy1tcDZoQzVmTXlXMGhoYzFDVzFvMjV2VWd0c2hHSVlzV05oY05IUDBCSzRoOTdrTjV3c2tIb29ocWJvV3dTNFBQOUY0?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 03:14:42 GMT",
-      "description": "Condena a 51 años de prisión al feminicida de la \"Barbie Regia\" en Monterrey El Universal",
+      "title": "¡Ay, Hernán, cómo eres!",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnAzaFFseEEyUjk2aFJocW9UM0RwbkhHUlFmNERwRnpmNkhjSXhmbDI5dV9vNnVrTkxjUU5lUkt3eW94TnNmX0lCR3ZsQVBkSG1EY0dtamhRV0s0aHJFeFgyQzl3Z3N6MHp1NXpqRGVZNkFxd2JKUUxUVGduTXJfTW1Vbk8yTDTSAYcBQVVfeXFMUHQtNzhLZkxLMDdHUzQ0V1QtS0lvSk51a08tV0lzNTN0Y2VuclQySGxOVHE0a2l1NThzWUdjUDQtcVlHLXZhanJJd29mQ0FzTUZ6ZmxCTU80TWFUTE1WMUtjUmtTSXdGYXRQQURXOUtFWE00cF9OSjQxSDhVY1V3Y3JmTFF6Y3lZ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 08:04:29 GMT",
+      "description": "¡Ay, Hernán, cómo eres! Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Van las 62 motos de narco canadiense... a manos del 'pueblo'",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNXJlWi0wekFJR2dSTkduNWRER1IxbkFoWGg0S0VPZzN5ZXZON0hGU2hScTBJYXlKMWJydXl4bG85ZURlbjN2TWhQSFdBT1Nwa20xRi1mMUVsYVE5MDhZOTZCN1BpYjkzR3drTERfZl9CbVJaTVpPbGtFUWE0UEt3VkdEeUhGaFJvT2NFZHpiS05aYXc?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 06:43:04 GMT",
+      "description": "Van las 62 motos de narco canadiense... a manos del 'pueblo' Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Contra los migrantes seguirán",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNGVtLWNLenBzS0RGSGhRME50T3BzbWVKblJXd0dOZWZEb2ZQVGpSaGZwSWpXeG1zRVQ0SGFkVWJOSkswaFMxQlNvd2pma3NMcEp6dlpLdGRyRlBwUVQteWNRVXNBR081RG9yZnUtTS1pa1RBUzRGLVk1eUFvQ1lPb0w1a1MyeExjLVdlZUItRDRWQdIBkgFBVV95cUxQc0lTLUpOTHRsQmI4TzNvVDdOdE5tZEtWd0dEb3VrUEs0OW9Fa183X2RKTkVwQWZuREs1UjlpTU1mYVRLT01KcmxvTTQycmdjZmI0ZWl2eUpQSkZyX3JOZDhMTUttZkNkRGw3R3dTNWtXbWJEMXNUUVo2TnVUbmdEb2l3ZG1JeEtVbUlROTVfLWpWdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 06:08:31 GMT",
+      "description": "Contra los migrantes seguirán Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Hijo de Guadalupe Taddei renuncia como secretario particular de Alfonso Durazo",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORWh2dFZlMVVvTUotVEdvZGNlajBvZEl1cXhQMUpIVGxzNEF1YWN0WTlEZURnY1kxUDlYWm8tdFBkUF9kRzFXMGpFeUo3bFNkY3BtR215dHBVdXZpbkZLVmNSVWlLR181cmJUU0prYW4wa3RnSnlDMzNuU3EwRl93czdvNXMxU05ObnFtYzItQ3czUldhNEQtUjI5VURhemllbjRKTUxhMWVtOVpTdVI3cjl2dGUzXzN3NzR0Y1VzcmdoX0hMWU1nRVI4c2w4SmVxdGRuRG1Yb3JVTWtRVlE?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 05:24:28 GMT",
+      "description": "Hijo de Guadalupe Taddei renuncia como secretario particular de Alfonso Durazo Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
+    },
+    {
+      "title": "Asesinan a Eduardo Valdovinos, aspirante a coordinador de la 4T en Lázaro Cárdenas, Michoacán",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcWxVa3NreWhWcU9acjZ2M0hyREhONHAtbmpDRE5JS3lHbzF4eENYbWZSWndzQ015a1RDNEZDR0pvdnRxb251QVNRYTViNVk2QjctWTZqRzlDRGNoaEJoaGh3YlM3dHFuWTA0d0VnLXUxVk5FYy1aTV9wOFhPX3ZfbER4c1ZwV0RqbUxLTDUxZlV2M0NzS0pMWkIzUXBzZ1hfcjJ6UG02Z05NZi1rNzl0WXNybHpjc184bWp4NDhWMEMza0R0aVEtR0JyZnZCWHVPLTNNU0l2eTdSdVJYaEpad3UzQWdlcWNRM2tDTWNLZHBIeDZfa1J6aXJzZWx2UVRqeW8xNkxaSldlcnJ0WS1V?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:08:00 GMT",
+      "description": "Asesinan a Eduardo Valdovinos, aspirante a coordinador de la 4T en Lázaro Cárdenas, Michoacán El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Tras bloqueo de UIF, hijo de Taddei renuncia como secretario particular de Durazo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmpib2pFZWxDenpTOWxHZ1NLTUtXczFMU195U1VROWVxVmc5SGFRMXE1RUM4MHVqaUFjcXV2Y3RrWHNnSWJoRUZvYlV6MlVjNm1hWGNRRnl3UWdKTE5VMVd0ZHRDWEJTRzE0TVAwdVhneG5IWUxEM3JaWG8tZ05zVU51RzQzYWU5OEJra3hZa9IBjwFBVV95cUxQN1VUT1RQaHM3MUI1TFNNYmlGQU54TjZ2MEhvNWltMklqU3dVQl9SUkdXdmp6TUxqbnJWUFRuNEl6YXJva1kxeDhQWEUxQUpSemJJSURWUV9sZC1Ec0tvVHdLcXdUVFBBa0ZaOFJfSlVJZGtRUm1HeFYyVzRaTzF3R1IyZFB2WlROM2dYNFJiOA?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:04:00 GMT",
+      "description": "Tras bloqueo de UIF, hijo de Taddei renuncia como secretario particular de Durazo Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "“Taddei llegó con un vicio de origen”, analizan en Con los de Casa su paso por el INE",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRWFfaHFBVlNJcDg1aldydzV5bUNqUTQ4d1RyQWVpM05xbU9IeW5hY2o0QnUwc2pWeTZWaTc3eGZxc2R4OVRidmFoZTBxdjZzSW9CUXhjTlNPeHlNZUNQejJpMnFDX18ybVJjcG1lbHJULXdPRlRpZ3ZuSXRqSjNHTm5XekFMM0xVUzY4MFY5M0ZuZ2JuMEtzcGNlSDdOTmUxSjlnMGVpblpTbFAwRlFwUFBUMEdoU0g1VlhZRG9fd2h4djhYTno2cWRaeGpFU0J5VHhCdDczS09wc0JYQmdsR1lMY0c5QzBFelZpVDQtbWpqTWhqcWMxQVlJclB0MHM?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 03:51:26 GMT",
+      "description": "“Taddei llegó con un vicio de origen”, analizan en Con los de Casa su paso por el INE El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Fuga de gas en toma clandestina provoca cierre de carretera en Guanajuato",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWl0aFRmTmQ2VGJYLVFJQTZPNzVQaXJUWl9RYjZBWkxWM0Y5TzZySDdFU1R4VVZoVFRHaVRCZENGaklRRW1aaGZEVEgwbjhsWW4zbm0wNTVNcDFIXzI5UGRtaVZzc0dzaWVrd254Qm1Fejk1Slo2V0ZBcjhWb09BMnhnV2lWYkplWVgwU2V0YzRleERiNGdaWEVzTlA3cTV60gGmAUFVX3lxTE1udHByZDF4STJGX3phN3JhY1MzM1RjMFZ1WFVjcmxEdEJmcl9yWi1sLVgtXy1fLXk0U24tSzBodERFemtxQUlqOFlvMFk0c3lrN1hYZHFLYkpwWlVxWHpsMFJLSkR6WkdROE41X2pJUGJMeGxSaUd0ak9QTkprNnptMndOcG13QThYNE9jeVotME9rWU5xNFQzeVVWeU5PcTMyMFVLOFE?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 03:24:39 GMT",
+      "description": "Fuga de gas en toma clandestina provoca cierre de carretera en Guanajuato Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Asesinan a Eduardo Valdovinos, aspirante a coordinador de la 4T en Lázaro Cárdenas, Michoacán",
@@ -87,7 +240,7 @@
     {
       "title": "Matan a aspirante de Morena en Lázaro Cárdenas, Michoacán",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2Fhbk13NThRM0k0UWVKR3lrWnN6M0NuOVBpQlpMUnVRUzlORFg5bm5SVUM3Z2hJVnQxOHFzQ0dEcjM5dzF6Q3VMcmNiaVNrS0Q0dF85Mjhkc09zM0lWOGdoZGgwdlZwY3Z3ZG1Cc3RmRVFDWWxCdHJuMW1TeWU0V181TEdrMmdUZ3ZMa3lCNDhuOUtj?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 02:52:34 GMT",
+      "pubDate": "Thu, 12 Nov 2026 03:07:54 GMT",
       "description": "Matan a aspirante de Morena en Lázaro Cárdenas, Michoacán Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
@@ -121,42 +274,6 @@
       "domain": "reforma.com"
     },
     {
-      "title": "Capitán Marcos del EZLN ofrece disculpa pública a colectivos de búsqueda",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaVM1dktGWjNlVjVmVHlQMHlDRDVKX0lTWGMyQURIeUMwaU9hN2JhUC1jMjhPaVVnc3hTTDZfTVZ4T3dCamZuc0xia3BfWHY2bHhxbW5yQ2QteUVTOGhQOU42N3JCR0x6STlkcF9tcWVCQ0ZtbU5nX1NyNFFTLUtLWllpeEh2QWNja0NVOWJVRmxXYUxCQVJ5QktwN3pTVmZHVEdOWVlieFFXVE9VNmtLVXNqTV9GREticy13V3VPSGdLNm9qSGxKOFFGZw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 01:26:03 GMT",
-      "description": "Capitán Marcos del EZLN ofrece disculpa pública a colectivos de búsqueda Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "IMSS Bienestar presenta plan de 12 acciones para fortalecer servicios",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2ZGNkdzeHEwNlc4Wk9PN2RQbkVIbGl3bWtkV2RRd2NwLXlDb0V3eUhNQXZJY0t6Y2pwc1JJRGhJTmpxWDFHN3RZd2ZjSGp2QTlRU2stdEFLb3ZaTDg1WHAyYXdjZEdSRkFVZUFEaFVBRnhxTUJMWS1NeE4wX1V3bk1IaGd4VjFEN0JYbjBXVHkwSDNDaFBIeVN0N1hCRTdRVWFHRExPVTc0WXhkYXJlMFFiX1AtTklKTXpGaTNNTmlKbWwxVnBV?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:37:46 GMT",
-      "description": "IMSS Bienestar presenta plan de 12 acciones para fortalecer servicios Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Aguascalientes, entre los estados con mayores ingresos del país: IMCO",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWW10NzVNMkM4Rko5MVVLQnA5TEhNaS05MEt4eGMxTGdyR1dEOVdHTzZCWHhWUnduYnN1dWdnc3pKRUEyUkxhU0YweEM3UG5MT3ZJWXBGRk1HQ2QxbGxsbmxYWEV1YXB1V3haaVFDMXk1WG1xWnl5ZnZKbE5FX256N3pHdnZwVXNNdXZwbU1kWlFWRXJSSWFBZkNjQXRkOGtGTlZkTHhDMl85WGFBNVEtekRQeFpGN0tjSV9qUDFGMFo4OWZYSGlFeg?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:32:10 GMT",
-      "description": "Aguascalientes, entre los estados con mayores ingresos del país: IMCO Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Edgar Barrera, el mexicano nominado a más categorías al Latin Grammy, por encima de Rosalía y Karol G",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUS1jUUlSRnREMEgxb0xzNHFmVjhENmZGRDRDWkRwdVZrRjR1RzFPNC0wZzBJN2FLYnJkMXo5SlRkbXNoY0N1VUZSVlF1eTVvVi04Ml9XalVsTmFvSGJNXzRLRlBsdWF3WXFsN2hIMHVRWFpXNzFuX2tKaEdhZmQ1UXdJUXFmZTEydzdjU0V5bGRzUGZZd3oyMEE2eUtGTEIxRS0wdTBUaXdjWkllTWVvV25iS1J1VDFkMU15T1JoMHVGNlFNUkJSa2ZtbklSWGctbGwtWnk1Njlwc3A0?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 23:49:00 GMT",
-      "description": "Edgar Barrera, el mexicano nominado a más categorías al Latin Grammy, por encima de Rosalía y Karol G El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
       "title": "Detienen en EU a exfuncionario del gobierno de Durazo en Sonora por desvío de más de 65 mdp",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3dnLURPcVg3VjUybzJMUnFNYU9ZeGZXbFFkdjd4emlibnFWTmxnMXNJSW9JSUhuQ3JkZWw3a3Y5d1pseGRsQXI4YlNHdTUzRmFKZzRGZTZyc2NZbnVORUJ0VWg2WUxUSk5JbVQyVGpWamJMX1ZodzZjZWN1VXQ2UWlPWTQ4VXUxdEdKTHRWZU0zUkJObjdJZDY3VTZ1LWtDZENLdEs2TlBWVEYxVUFzTWFLLXFocW9lZFlUZUhlN0E2dnRHdUhwa29ZdW1GUGFQb0VQaXVXQThqeHBCaVhCLTZGMNIB9wFBVV95cUxNM2wyQ1ZKTU9pemhjV2RBS01pVHAyU1dfQVI1VHRWWVVzNEV4RUtZSC05LUN5MUJMeWVKX0ZZNXQ1VnlxQ0dYNHM0Ty0xeTJZdS1DVnJYN0JWMlFzWXV5YV9pRnE4blFFVk5CT3hpWGZvMkppOFpRNm8yclNlclJFMy1SM2tKckZ5RnM4ZWZ3c0tmWHk2MndMZXhiSkJveEx6NUo0ejV3NnlHT1hiVmVQOEtBVHczV0EwZmNkd2p3ZmI5LW5jTlI3Y05aZkJTdGxiWUFQQm9MSENBeTZ3N2dtVGlkQl9FUlZXMU4tNW5kczliOW82QjVv?oc=5",
       "pubDate": "Wed, 11 Nov 2026 23:31:00 GMT",
@@ -164,6 +281,15 @@
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Jesse rompe el silencio sobre las regalías que Joy Huerta tendría que pagar por usar canciones del dúo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjQ3dUR4VUtZTnVwVktIM2ctbFdOc0hxS1NOZlFYeERSVm1oc0phbWZuSEVxVE40bkozVU0yVm1KZ1g4bjBDdVdGSDRIQVZSZkZBSG5BalZ0Uk1sNnBtZmljdjc0NUNGYVhIdEwyc0xDN1ZtVG0wYkpYVENud1FYSlVabGc1bUdOcVhGVFdRZ094d01kMEtLeVExS0szSDVxTEdJSjZuT1VqNmtQTTVwZFhFYkQtYm43ME1EZnlzS3RRZGoxMVQ1R2YxLTFWUQ?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 22:51:05 GMT",
+      "description": "Jesse rompe el silencio sobre las regalías que Joy Huerta tendría que pagar por usar canciones del dúo Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
     },
     {
       "title": "Buscan hacer de Playa del Carmen centro de producciones cinematográficas",
@@ -193,22 +319,13 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Sheinbaum: No tenemos conocimiento de que Taddei haya salido del país",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWm5VNnNTczlQWjhFcENWUjBCa1c5bm1XbTdtdGk1bkFoaXdUVm1QU1dFVjc4VUZMdGhtZm52OEY3eC1jUFFydVUyVlF4cmRQNlVvNHNBdV9XWFI4a1pfeG5qcVQtWGR6eTl5NzBqTXpoVGhzQkxZRG5ZUjY4bmF2TmFnYU9zSWd0TGNzNXoxVDNqUlpNTnNsNjU1dmNib3E2NC1tcV9Zc0JSMzFNQzVJSmN6YmMtTklFNzh0RTM1X1F4RTVaeHc?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 20:57:14 GMT",
-      "description": "Sheinbaum: No tenemos conocimiento de que Taddei haya salido del país Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Negocian con universidades vigilancia de Talleres Gráficos",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTRpS3l5Y1JrR1o5ZHpkeEJHTmUtVDhMWTFaR2dKN2ZLR3pTUmpXalpvU3NMSVhVQ3d2S3c1aEFMZE04bDN6SzZuOExtcHh2MWk0LWJQZzNDMzNlUG0tLS1XNGpnbFhVNEZfdTNqa1pBTDdSbFJJMExfTloxRDZwQ196NFlQSkJjMnFtSTJZNUJDTVRpTmVJ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 18:49:41 GMT",
-      "description": "Negocian con universidades vigilancia de Talleres Gráficos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Michoacán blinda la salud de sus autogobiernos indígenas; invierte 102 mdp y los dota de 57 ambulancias",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPenNKRkp4aDVqSVpMTjROY0IwemxtcFpjR1RmQzVoLU5aelVXX0JudUdxTFhvVkEtMm9ReXhCSVVxV21fOUZFa2ozUzdjRUtxVXc4UUFwaVNiZ2ZYeUlfSXFDV1YwSlNPaXprY1JNQW94UlJRdjFaWEREMzBpaENBbjdjT05hT3FTUGtKdWgzWXB5V3l0NWU3T1dhY191bTZJRUtmeTFCVXpvWEpWM01vMUlZZnAzZGludVFkdnFNd3dNZHlRNENTMlBiNGdrOTRNMm1GcWhTamVTMXFUT1HSAeMBQVVfeXFMTVZHc28wNEczb2VUS2lHTTg3TlZzdU45UklJODlRM20wVlZ4N3djUkRlbmhTSEFkTnp5X2ctcnYzZU52Y3BZa3lYNlM3MzNUemdNRTM5LUJqbXZpZDhDTFdnNU4xTFNUY3dhNXVkUzJnN1Z2V3lCNXRIeHY5bkdvRDhRdWtuTjBDNUlVc3BaSG9HTmlNLXlLQW81QS12TktRQWpsS0d3blFfdV9CWmYwc0NiaW9vWU1PaE84YVAtS2Vla1RGVHBMVF9IN1JIcEFOSU5DVVdZdW9uVVRWMHdpbl8zeVU?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 19:30:43 GMT",
+      "description": "Michoacán blinda la salud de sus autogobiernos indígenas; invierte 102 mdp y los dota de 57 ambulancias El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Mezcla Crema Nivea con aceite de oliva: para qué sirve y cómo aplicarla | Guía",
@@ -256,15 +373,6 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Pocos empleos",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybnFIbmF0enAtbE8zZWVycXU4ZTJRX0czTlVxOUNsWjBUcm1uU3JIRG5taDVpa0FOZWVJUmZXZW96WkZYNXpqTXJhOVpwd1hHVmRTQm5DYUszVjFKdUtUdVZLbzZOY3Nu?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 11:14:31 GMT",
-      "description": "Pocos empleos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
       "title": "Al capo lo que pida",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tdzJkOGZlQVJVcU5wd1U1NjJCSGdOenJjS3UwSVNSMkl6WmRaa2hDWEFwd0M0WFpWRDYyTjVZRXNILTZOQjY2WklHemJGbDlSTThHM0FROC1ZQ1RlNVBHemEycw?oc=5",
       "pubDate": "Wed, 11 Nov 2026 11:04:31 GMT",
@@ -272,24 +380,6 @@
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
-    },
-    {
-      "title": "Revelan ¡desde EU! red de narco-pitazos",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GS3o5X1Z2NDVHRXZhajdwNEMyQkw3cnpPLTAyQVJBOURkR0tPUEFITWl1bVQ0dEpRZ1prREl0WkNVU01KWWhLU3NfbWxEQTdBWFlyOHczTURnNEc0QS15TWFZdVFMUXgyWXE2bHozX3NpMVM1ME5sbGdEcw?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 11:04:31 GMT",
-      "description": "Revelan ¡desde EU! red de narco-pitazos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Aprueban diputados Presupuesto 2027 por 10.6 billones de pesos y recorte al INE de 6 mil mdp",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1FkcXJNc1VnSlFWdFdRNTlVS2twT2ZzYmtPNTcwTUVKX3BtN1JXQjNHYmJKbEY0NGlZamxqd2hsT3JfalhzZ1RNTWhpY0xiei1VZnVCWE9NQzdxTmhQbndBUk9MVzFPaE9NMlBYMDRYd1RtYUxqd1lCaGhkbEtPM1kyZThQVzZNMUdJdFJ5T2ZJXzZ00gGUAUFVX3lxTFBfNWllNUZHLWVneGJPdExFQzJQR3dsNS16MUlxd2Nzb1Q3blFwRndNN1lXRmNiYnY1MEtIWFE5T3NFTGJ4cDFKUDluTFVJbGdvTW8tNEZhV2dIRlJnUVRmUUpUR3c3RW9GTkNUU3U4N2l6QWFGc0lmbUV5YU1ma2ppTTUxaFNzLVBSY0EyRXdlQlhtQXk?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 10:43:00 GMT",
-      "description": "Aprueban diputados Presupuesto 2027 por 10.6 billones de pesos y recorte al INE de 6 mil mdp Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
     },
     {
       "title": "El hombre que salvó a Jorge Negrete",
@@ -310,33 +400,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Taddei: Morena la hizo suya",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWVlnWEJDYlkwS1lwelBrRF9ENGxhOERKQTdndUw2bmEzOFFSTl9tcmRCN0ZCT2tCWUVBYzN4dHg4enkzbjM0ZXA1Y1I5enVYeUtCUWFobUJHVDZkX2EwTzg3VkxJQmVHbGZGZU5DVUNRcXYzWG5IN2xTYXpuNjFIanJUMUxaNVJ5WmQwZDJUeXpMc0Z20gGUAUFVX3lxTFBKZUlXeDVyN0c5cnhVVk1HVEw4cDA3VDhtai1FeEU2ZE92cURNMHhRcEVOUVdwMkFfUXdDcjNEdGRTM2RCYUV6aFhtMG5KNy1JMXdWOXQ0dnBfbTR6U0VkU1c1Y1l2X2daZ1FQU2t6d3ZaZ2dOTjVvOUQ3RjlWY2hKdHBTZi1WcGJMZ0thOFU1dThCSGs?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 07:33:44 GMT",
-      "description": "Taddei: Morena la hizo suya Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Ítem más: ahogando la democracia",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXpTbWdReHNabTZlaGdIZnlxb19jOW9BRFY2cXhfVWNNM3Z2Vy1lOXJBdFpfSXV4NVZTT1lqbVRaLWFmVHdSenR2VWU0ZnpJS0FJdkxaTmdjdEpVcmQ3Z0Jfa1FobkZHeFh3MnVXRmsxQTVrLUVvbk4ya09RN1FDdTBYSnNEQTY3N092RWMtWHRhWWhVZ0hwVVRMSETSAZwBQVVfeXFMTnNZb3NVYmNydjVESjRPejNLZ0lWNVlyMkVYZndmRFVHQWdtWTh3cnFJT0JfanRBRExhR2dPVTgwSHBRakhaSlhFbGl1dnZMcUh1bUROWnNnMzItWWNsd2NWLTFHTFpKMVpUanpIODdyVGpqX20ySGo2ZXlkY0xad0dMU2RyUWJxRS1wNGtaTDIzUVZiendKNWhlYk1f?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 07:29:01 GMT",
-      "description": "Ítem más: ahogando la democracia Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
-      "title": "Pues, de nada, Andrés Manuel",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGxyem9LR042ZHkzZlpDT0RUQUpWTGYyLXlrVllrYUhxclM3ZGxaVDQ4c2d5SU9Ya2FwUWNLTTlZRV9SNEctb2xLZVRvUHJVX0NIcnJ3R054RnJMeXNzMjZ2V0I1YzhnNUQtQ1IweE0zWWJ0MEZMVnVseWJHYUZfOGJIU0JVbVBGQkZMMUFn0gGOAUFVX3lxTE9pc0NadDlBdFVmZG5EdXl3OWg1WFo1d2tDVXJBbWFXaTg0WmpONm5MWGluXzhaWHk1WG1fQzY4TVJQNEJtVURhU01HMzJpSUktTklhQzIwNUNhX2p0bmFyemlGazVHQWFqWkhlczRBWm8zT1pXYV81R0ZxbUZJT3VTMkd4UXYyQWR4RnF0YVE?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 07:24:27 GMT",
-      "description": "Pues, de nada, Andrés Manuel Milenio",
-      "source": "Milenio",
-      "outlet": "Milenio",
-      "domain": "milenio.com"
-    },
-    {
       "title": "Morenistas se reúnen de emergencia en Gobernación por Taddei, escribe Carlos Loret de Mola",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSG95VFFTRUtNM25kekdmXzhHMktUbE9tbVNDRFJWT205NTY1V2RQaDU0eTZGYlhjX1NLdXZwcVlZVThlV3lMajdsRkp6amVkUC1La2FSQWxlXzJYWDZiUnZmYmN6cUd1dXhwLVBVSTFFYklXMjZVRXNibl9VTThHbVZobUFZdEhUOUtpand1YUIyYXNuc0ZvbVNZczJ6YVdCanFDaGY2NkZuVU9Rb2NvSFhJZ0wwU0JOWDh5cWRn?oc=5",
       "pubDate": "Wed, 11 Nov 2026 06:35:04 GMT",
@@ -350,24 +413,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTlNYV0QydUhVeWdwVm80a0ttZnAxdUhnNjQtbWpCWmxQS3o3LVFxb0M0alFmZjRIQktLVmRFZFQwMmNaWUw0X3c4ejhzVnZqNHhDc1A5ZVBkdzlOR196amN3bTJVdnBjZDNwVFNpX0tLYTRwLUZNdXBBNEJaTXFCeTBTb1BYanR6N3hVX213bWwxUGpsTzQ2VG9MVWFEbkk4WG1OVm12WlItWER2OUN1NkV4VkNpOVl5aG5IOTNhOHo?oc=5",
       "pubDate": "Tue, 10 Nov 2026 21:42:32 GMT",
       "description": "Morena ‘pega el grito en el cielo’: Acusa a Somos de tener ‘información confidencial’ del INE El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Canelo Álvarez va por las revanchas con Crawford y Bivol",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSDJnWF9UUXQyY3czT1FWcWYtQi1UaXduelZHbmQ5NS1sNXlTbGNkejJwd29PM2Jzem1XQUx4bWx1STVaLTBsV2dudTQ0NFlTcW5iT0VaZTFCQTZHRFg0R2ZveFR4a0J1ak1uck9qdWw1YlNBclR2YmJiWlJ2cEt0ZmY2ZzI0RnRidHZybUw5S0VyNTB20gGaAUFVX3lxTE8tWjg2YjZUMk1ab1Z6ZXlrZV9BQlF6cS0tc29mdW5uU2VnZUd0VEpWellTdk1fOHdaVkMtNjAyQUFtMy1ENHdLXzV2LTlxVVhGTXZaaXktZGNYcFV6NGVyWm5ZTmlod3A5ZENLWE5zWHZuYmQyUjFPWHFiTld2NjNvTlN4cXVYT1pKVWdNMjBIMnRzdXZOODFRVWc?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 20:20:34 GMT",
-      "description": "Canelo Álvarez va por las revanchas con Crawford y Bivol Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Blanca Cruz explica por qué no defendió el presupuesto del INE ante diputados: ‘No era conveniente’",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVnN5X21mWGl0Y1RBY0VKanhzMzJIT0xXLTZJQlhpMXNfU3VWdmZERWJfendxWm0taUZxYnZSalM5WjFXNGk4R2Noa1FxWlU4MlZ6eDk4TGN3X3hLa1lEMDJiWWVHcEdZcDM2OW1VZjZ3aUNacXR5bWVlM0szS3A0clRTOWNiN0YyTUpMczZydFZCY0VRbGEtazhQTHlKbjh2aFNFLUE1MC1nWFgyUDg5Tm5wYkZHdjN5WlRqVjhGSTBzeURBa3dMc0ZhLWg0aHN5bTl1cWRYYldiYi1TYVgySHV2MA?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 19:25:16 GMT",
-      "description": "Blanca Cruz explica por qué no defendió el presupuesto del INE ante diputados: ‘No era conveniente’ El Financiero",
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
@@ -391,24 +436,6 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "FGR realiza trámites para traer a Inés 'N', confirma García Harfuch",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ0xfRFB1NEdMTUg1a1RRR0hHQVFweG9FUTE1cnZoZHFQeTRnSkhGd3VTRnFFaGt4WjcxbGctTDB6c1pHR1JkTlNpZmV6QkRGQlNfbjdBS3BpNkVqTTlUOS1wLUFaYTBrRTBrWnRudlRwNXMtRHRCRGF2TG5yTU5nanVCNW9IWTk2NnItc1dVd250Mmw5R1VFQ3hyeHB5VlhVVzFBekk0WVd6dy1vWkHSAbMBQVVfeXFMTm5kQmFCaWd0bUVSZnB1T2wzRVJjN2l3UzdPbXNvcWRiWW12bjBfV0x6YmFUV0JNWnp0RWxhVGZ2RlVPZUpRVkpaRzJqU0dXd3BTaXdSZkR0Zl83bTkwUVdncXJXaWRMdU93dlFGZTJGX1MxNmFGc1ZxV05DRWpxYXJoenpYSjhYeFYwVjRPaTFKVmZ5WURNS1B4U09fOUpoaFZmY3N2WXFFMXRqRFQ1cTVsQU0?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 17:09:32 GMT",
-      "description": "FGR realiza trámites para traer a Inés 'N', confirma García Harfuch Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "¿Quién es Guillermo Arturo Zuany, el exfiscal que habría ayudado a la CIA a operar en Chihuahua?",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeGd2bHFhOTdrWDJyVUprWkFZaVc5RDhBUVA2RTFnMjJkQ3FqTUhFR0ZPbkd4TmZkanpUbTF3NUg3VDRoUlZnWDh3cllCdThYeGFweTQza2JYMjY4Yy1fRGZfOXhWNGg3N19UaUlTY1dkRUlrZHVyMzNmS2xNekh3Z25qbG5HUXRKcUVvaTUxUFp5YzJhWWVBb1Y0TElQSUxYcTc1bkRqdm54enoyQ2szTFJvMTdMRVFWcm5OQXd3R1VHbVNrRE5WbldFN1pHUFgxaFZRSk1vV0Y2eXRoTlVn?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 16:46:10 GMT",
-      "description": "¿Quién es Guillermo Arturo Zuany, el exfiscal que habría ayudado a la CIA a operar en Chihuahua? El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
       "title": "Banco Central de Paraguay ya devolvió parte de sus ahorros a 93% de los clientes de Ueno Bank",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0swY3IxdmhRSmVBT1hwSzl5a2xZMERKRDRHNUlsQXlyY1ZTUFhHem5wcFlVUU85YTk0Ti00TFRPblplT2FqRjM2TWZQUTNsSUZPZk1TRkRzZ21HZENHQXM1b3ZZQUR2ZTdPb1VqN2x6ZDlYYnV3enlmOV9QRTd3V1NPbGhoOWFETUxRTFBnTGpWZTlLYWtnTTk3cnc3bDhzVXdMLU1nWjFlUXVGelJhZEdaODlHZ0NqNTM3elFfbE82Rl9KcmFuaFNaaTBSTDcwX25v0gHYAUFVX3lxTFB4MXgxNUp6RXdBVEtzS0VXZm5YMHNVMy1TZDJrc3BMajJ5SEoxN09JTFpkWnc3cG9CeVNkN1pVNUZncTdBc0lORjExdV9wSWdOSDVib0tydE9ZWm1yeXc0allKeng0LWlvMGl4TktUWHAwSEdUSVhoTUpWNkVmU2JpWGxLWjhZb3AxUWZ4VEloZFlCbVR5QTk0bXFJX0d5RG5NMTY4SmwzYmwxN3E5NkJCVU14aXk5RWNtUGVNNmc5OXF3ZWNxN2JMWjFEbk9fTVFYM0hTMFN5eg?oc=5",
       "pubDate": "Tue, 10 Nov 2026 15:05:19 GMT",
@@ -427,15 +454,6 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Cuadrangular cierra portales pro 4T; Heurística suma nuevos premios gracias al gobierno de Sheinbaum",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORzJjbUhZbk5PbWVPOFZiNGFFbF94WDVKUXF1TVByM0NzNXJLU3MwVm9zX1RBdklMR1ZMSjFlZmpWdV8yZTlVcFB6OHg2Qk1QSU5iTW83SmpDSlVTdG00WWc1WklyalRDVEVvWW96a3dvNGM2Q2N4X1VYZTZTT2hkWktiUkZhWU5vZzZBZTBHUklJeUNyNE5vOXB1UVNZaVB1OWt2X3REbTFXRTUyblhzYzczZGZGNHA1SUFUUXJGcE1FVFd0M25NX0p2bmd4VG1tN2xoaXptYVVUUnI0RVlramR3ZHg0NXp6UURPTkJR?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 04:14:47 GMT",
-      "description": "Cuadrangular cierra portales pro 4T; Heurística suma nuevos premios gracias al gobierno de Sheinbaum Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
       "title": "Director de Nvidia admite relación con presunta espía china",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT01KeXBjTWp0c3J1MFRRbGJJa200Mkg2VkpJUVN0Q1A0UDNOWUc1M2dzZUl1bUZBUkV1NklRMWhSbTBwNDNoYldjRFpTeHFuRnpkQkhYQ05rejM5MjN1b1o5VWxUdmNWdjlpT2tBSDlNTTlzM3A2ck10Z00xYi1XZDN0b1kxOVFQNGFKYzZIYWZabkVRQl9DZU44a2ExVGhyZGdn?oc=5",
       "pubDate": "Mon, 09 Nov 2026 22:15:00 GMT",
@@ -443,24 +461,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Aumenta déficit comercial de Estados Unidos con México a septiembre de 2026",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYU40b0dSSl81M0Jqb21NRjFYMlI1Sms5WEgtNUFwU0d4NUczNUxDVUhCZF9PYXpSal83RnM1em14bDVBOUltT21BdnBac0JZaVA4WUdrU2s1RGJGWTZaajR4Uld2OHVNY3VvTmRPLWNfdHlqb09vVjVaV3FLYUhSN1hxZU9yN042WmVFbmtGMjZYUThjSEdkc1FqVmRqb1hWNzlVdlVDdW9JQzhJamc4QXlGRFVEVTJTYUdoedIBwgFBVV95cUxNU2E1TGZOWXA0eG9oMGtvNGdHYWJxSWVWN0hoeDd3N19kTjBHWGRnelo1Y3pRTE4yeGx6akxFdFBCSEs4LVFtQlJURGJuUFRnb2dEOGFjVEkyTlpGcEFHNmt2RkUzUUNIZW9NN3RDMDZqVHoxc242UUh5UGlLWWVlRkc4OHdQRDFZX0cwOWdfX043ZzZ5V3NRdGI1M3p2MFdhZ3p3N3hHMXgxN1VwcE5RdUZfYjhQblNRdGFOdVRKdTh2UQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 19:12:53 GMT",
-      "description": "Aumenta déficit comercial de Estados Unidos con México a septiembre de 2026 El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Nuevo presidente de Paraguay pide la renuncia a todos sus ministros",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQTV5bGZSWXlsckhtQ2FsNGNZTmZzVTZaMGJRM1pWT0xBUVBmaE0zUUhMdXVzbWRKbTRicWlleE4yU1JVT3V3MEF4NHBIQWVWajVOZmJvOHcyNVlSRFRpODk4amJtdDFDaUt5cWxGbUZsLV9JYWlHWUFLWW9BMUN0UkxEcjNyRXpEZTVxdWtHN3BMYzUyVXZtU3FhRVJBRE04TmNUaTg5OFJCQWtxSUtCVVV2WGZpak9tbGpXclc2cmRhd9IBxwFBVV95cUxPVEY1dEYzbENubEZXSlgwS25BZ21ORjVWOEFEYjZCTExLZWFVOWVhc3RGZXVWN1RTVUQ4NGR3OWtSZ3VRZU9jWTdLelBudEZaZmkyZ09XU1VjZENvSUlTUXZORkV0Vm5lWjIwT21KWEM2T2lCYmZHNW93TEdNRVVVamJxVjRrX085UzVLdG1pYU9DOEM5MXBuNlFmVUFPTTRBZ25TS3YwT1U4LUxoSHZEWUtrRHpreHNaLUFDaGVrWWhHS3Via2lZ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 17:42:31 GMT",
-      "description": "Nuevo presidente de Paraguay pide la renuncia a todos sus ministros El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
     },
     {
       "title": "La empresa a la que los gobiernos de AMLO y Sheinbaum entregaron casi 13 mil mdp: Arteaga",
