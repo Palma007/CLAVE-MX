@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T14:06:00.551Z",
+  "updatedAt": "2026-11-12T21:37:50.985Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,22 +64,112 @@
   ],
   "items": [
     {
-      "title": "Al menos 8 muertos tras derrumbe de edificio en Brooklyn; rescatistas trabajan contra reloj ante la llegada de tormenta",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWZBbXRRTFFYOV95azRGV080TTMyRUJycmJwUmdLTUhXbGdINzlRdnZ5SmRJYkxtZXZWelRJNzZ6UTB3bTkzLW9makFLWFFnTjVleFBQU1JYX3dRbVdiYy00QjBfeXBQbVdDREFDMm1kODNzNmV4ejdqeXQyalFRazBn?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 12:59:00 GMT",
-      "description": "Al menos 8 muertos tras derrumbe de edificio en Brooklyn; rescatistas trabajan contra reloj ante la llegada de tormenta CNN en Español",
+      "title": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YWVB6TDNJX0taZ1VIWEF4VFdXYXNrMEpTbmlTX1RGaGJpOVp2aUp5R1VnVGV3WkZEb01lTDV4d2k2UUF2eHc3MkFuSjdvazdfMl9YLTBud29mRl820gFiQVVfeXFMT1ZOSnV1dlpVMWJuMG1FTkJ4cjZMVlMwalFzVmJSdC1uY0RXdGN1SVo2WkdMY080Rm95aXl3MmdTNDk4RGE0MHJSdmdsLW1pRmk1RVpORFphd0FNSTRGUmpCNlE?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 20:23:59 GMT",
+      "description": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Al menos 1 muerto y 4 heridos en un tiroteo en un gimnasio en Washington DC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtcDlkcS1JUWhVVkNVVmlmbDVhV3owVUkwUU5qdk9KeG5JMXNCQktwckxIN3pUbGxvNmFHbW9hTFZ6RzBISkFtNTFVZkpIUXd1OC1IeDA1QkJIcC1O0gFiQVVfeXFMUHZUYmN2Ump0TnJFc1F2Ri1JQ3Zvd0l2VVh0cGxZMTRJdVlHa1BkY0MyeEctaTMtcjlVUEFsS3A1TWE4NzdzQ1lzNHg4a1JyWnN1WHZyajhaWVFaUW5MWklxS0E?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 19:00:59 GMT",
+      "description": "Al menos 1 muerto y 4 heridos en un tiroteo en un gimnasio en Washington DC BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "World leaders set out clashing priorities as COP31 turns to negotiations",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNngtTTdNNWh2YXdsTUNwRVo3NHZIY3JqcU1zaVBZdGdiODBGMmtaNTRDN1JWbmlpNERtc1l2UzB3VGdwZnlJQktOWTFJdl9qX3RxUW5vWl9RWFJjRE5ZTzNhQnM1eTFUaEdTV2JwODF1dlRVRVBPSkkzdmhDdE0yUV93b1ZPdWpNazhxbFBWY0FEdmt6VUh0Ri1iQzc1YnNMOVA2TnIyYUhIaG1VeDdGejBaVQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 17:15:27 GMT",
+      "description": "World leaders set out clashing priorities as COP31 turns to negotiations Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Un muerto y cuatro heridos en un tiroteo en Logan Circle, ciudad de Washington",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGRuOUJUeGlkTGtNTGxpSENOM25xUExPaTdOZGVXVHZjSzd1S2w1OFI3aWhIVk9ra3NQOEpYN2VyX3FwRUk0VUhPWHB2alBZZ18wWjc5b2ZFR2hncWdMbDdMVks2QUhXc2ItV0lYZ3lZTk94Y0t6RTNJeFdaalhCWG5INXp6NHJjVHFaWjNoaw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:22:00 GMT",
+      "description": "Un muerto y cuatro heridos en un tiroteo en Logan Circle, ciudad de Washington CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La junta directiva de Nvidia sopesa el futuro de su CEO, Jensen Huang, en medio de un escándalo creciente",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVhMZkVfOU9hX1I2bzdrNVRkVGltV002d1hHck9UU25tdDByWFVvQXhOWC1BRXVCa2ljTmJFRjNabXdrMlU2WW5RWTR1Y0F3S21fdWVvT0R2c1ZzenVoWG85Qmh6S3k5U1hFbXRQRkdRYVYyRWE5TGg0Qkl2UjFsMjZzX3VkaFpaUXBRT1VndHJaMG1DaTltOTlB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 11:23:00 GMT",
-      "description": "La junta directiva de Nvidia sopesa el futuro de su CEO, Jensen Huang, en medio de un escándalo creciente CNN en Español",
+      "title": "Sheinbaum y Pedro Sánchez resaltan en una videollamada “la etapa renovada” de la relación bilateral",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzRqdkV5TEtEUE0tNF9BTkNPSVRQSE5yb0JPNEVnZ2ZEQU0zVFRIdUtDb2NJUUNQQVowNE5MSFNRUmNDNFpiYkxoWTJ5bm1XYkNoVG55U3c4OUdfOXIwRVEwbXFFOTFSR1p5S2Z0YldFRGxrNlRWZUk4UEl1SEtKRjdUMW5MeHNZQ05wb1NjY1c1VC1fSkZqZm4wS21nWWtmQm440gG3AUFVX3lxTE90TndiQm1UQV9OWlBRRXBIRzY5UUhxUnhsWEJBclJjUkxTd29WSnhnOUZzTktJVXlLV3BfWlFsT29KWFkycDRyY2p3bHFZNV8tN0pJLU02RjVja0gwZnZfZWlOd1pkdmJodFVGN1NPQWdWVnNfTHpyaXVTb3lQVk5jRXFRWEJPYWFveFdSNklheUE5RDdMaUxTNFhOWFdyUTVjTmxPMC1ST0V3VERfZ3ZqcGdCVDdpdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 16:01:37 GMT",
+      "description": "Sheinbaum y Pedro Sánchez resaltan en una videollamada “la etapa renovada” de la relación bilateral EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "México confirma que Nadia Beller, la expareja de Cerimedo, ya está en el país",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOFQ5YWMwWnFOTTBjMEpGWUo5cHU4WWw0UlNPWmFjZUkwSGJrSkxJWm1jX2hjQ05FaDVHUjVwZzBEVG1fbTlDby04YTFaVlliX2FKaDN1emJNM2hGYVMzRUtqZG96WlZmZ0EteWNNUENSWFdhSm9uTzZlZlVUOXNCeUtHX1o2ZXRvdllQdThMZkp3VEpFeHdwZ3diRmU0VnVObHh1VEwwMXNyOFduNEhpSlg0RVBxUVBC0gHMAUFVX3lxTFBIWi1GMHJWVXNBRHhqa1JIQ19MOHV5eUNYcGN3ajZGREcxTHZFekVkT3BxU3JRMXZqTElhUXJ6MVBWbjUyOVhiV1BjQXFhZDJ1N2FVc0V5OE5pREk0OWVhT0FVZzg4NVZxZ29wM3VrblZfV3QxOERNTXpRMUZycGhEd05mZ29ZcldPdHlMQjQxeFpuRmlNcUtyQ3RNQmd5SzNzUXVybFlXS1QtSktVVF9TWFViaV9zQ05RWWpjd2pEZ1BtMVBXMXRxeDc2VA?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 15:01:26 GMT",
+      "description": "México confirma que Nadia Beller, la expareja de Cerimedo, ya está en el país EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEdwVi1oRlJzZTU0NGF1TGhWdEVQV3d2OGJidXdPYlMzR0Y3Y0RmZ0taeEZaMUNzNHhmRWV5dmo4NTNydG5wUmNHckF4MEpZNU1XLUpuSjY0bkV5dUlhOS1CNjZYQWxLc25MSWFYb2RpT2FXcEthS1hrdjRrbGd3Qmhib3U2Vko3VEZUallNNmhwd9IBkgFBVV95cUxNaXJrbXR4VHVzaGl5djg5a0lEWDNTUzNWX2pGNDlCZHZ3ZGNmaHp2am9DTldMUTVXZzRRMmlmaENwTDdfUkdZbTJtZDg2czJXaENZWkthS2VfbHpJb2JXNXp1aThNVS12eEMxWmdGeXo2QzhUR2RZRGZZckFKb1BkNHlNb21jYWNUOVVVMDVmeDJYUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 14:18:04 GMT",
+      "description": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "\"Le pedí al 'joven padre Robert' que fuera el padrino de mi hija en Perú. Treinta años después se convirtió en el papa León XIV\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PU3pNYlNqeTFCOWF1OU9fZkZoZHozMHFKSTJKVUdPSlJhbTdGUUJIMHdhNnRYNjBCNDdZYVNGWTd4V1NyZVpFUnRPeDVsb3BOeXA3MkRRaklTXzJw0gFiQVVfeXFMTVYwTkR4bktaTmtIcElsRGxDc18xSHNjZzlFTjEzWmFVQ3pHY1c1QWhUQXNIRFRseXkycm9oNnZRcjRVZi1ONkRyRFpUa2lDWTl6bTJ5bllYTlpZTWlTSTh2R1E?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 13:52:44 GMT",
+      "description": "\"Le pedí al 'joven padre Robert' que fuera el padrino de mi hija en Perú. Treinta años después se convirtió en el papa León XIV\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Miles de alumnos vuelven a clase en Italia pese a otra oleada de amenazas de bomba",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQby1sY3lDVDk1Q0VzRUpnY1VINnlJcGt3ZVFCTEVaMU1OUVRnRWg3Z25lckM4RjdaZUd6dmVMeDZ4UjV2eC1rOEpvRnpPdkNWaG9jUDFBZnpRYmZ6LUpORmJXc3Jkb3hISkszbHoyd0N6T3FkNHdmblVsSG5PdnA3QTFMR3ZCWkJvOXB5UFRZeDNSWTFlS0RjQzdWYWlhV3c1alZF0gGjAUFVX3lxTE41dEhoTDNZQ05DOExJNjVSdnoxR2lpdk9ZMVo2NktMY2M2TGxSQUdaaW9nSTFCN1Myalp3ZGxQcy1MMjBuU0k0Q1NhemhJcmxTZVBHQ2JPUjEzRFU2LUVDbllBbS1XdTUyZS1CNS1XYklFVzhVeTZRRU8xVTh3X3djck1rRHVEWXQ1SEFzVGthRk8xR2szVGJpRW9hUnp2dFBkQmM?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 13:18:52 GMT",
+      "description": "Miles de alumnos vuelven a clase en Italia pese a otra oleada de amenazas de bomba DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Trump amenaza con duplicar los aranceles a México si no frena a los migrantes: las claves de la caravana rumbo a EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXZXOEttcmVacFo2RUJGWmd2TmNXYWg4QUVzN0w0eUFmNDRURGh3YkNOTER4eHI2TnlsYW4zdEZPNndfNUZwMlB5UTBmdVlXOWZRU0dHTlJYQ0w1SUkxd3VJbDg0Q2ktSDdMQlpXVkM2dGxtd1lzQnM5eEFJUHlVdWppYzZFNklyX3hFSUVkaFZhV3RfR3RiMnZnNHlObWxBbEtOS2lrRHVhdw?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 13:15:00 GMT",
+      "description": "Trump amenaza con duplicar los aranceles a México si no frena a los migrantes: las claves de la caravana rumbo a EE.UU. CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Al menos 8 muertos por derrumbe de edificio en Brooklyn; rescatistas trabajan contra reloj ante la llegada de tormenta",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWZBbXRRTFFYOV95azRGV080TTMyRUJycmJwUmdLTUhXbGdINzlRdnZ5SmRJYkxtZXZWelRJNzZ6UTB3bTkzLW9makFLWFFnTjVleFBQU1JYX3dRbVdiYy00QjBfeXBQbVdDREFDMm1kODNzNmV4ejdqeXQyalFRazBn?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 12:59:00 GMT",
+      "description": "Al menos 8 muertos por derrumbe de edificio en Brooklyn; rescatistas trabajan contra reloj ante la llegada de tormenta CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSWYyMlNfOGhZaUxIYURtaU5zX3RHUXFndzBCNk1KMnpmb0cwOXhQaTVvdDhqS1I0eDNLQWUwMDQwQ2V6Z2JpZmZiRmluUlV5dVBlckVQWFAwMDlGTEZwcjJ1WHlZRUc4Nm5EOU1hdVRjM0lBYmpkR0tDbFR5ZlBzb3hPUXh1UG1FOFVZUXNObUgySl8xdy0zMzJHbHI0d0FtX1RsRWJMcmhBZTZPeC1LRWQ3bEdGNS1QdzhXTUJ2bE5kb3V2LUJ5b3U3aVJOVzdtVHZxOTZkeC1XUHlicFRQa3VlZ0I0S1lkamfSAf4BQVVfeXFMTjVzNGFqbDF4dUx0Ukg2Sk1WMzZ1UVktaVc4ZUE5N0UxS05Sc0YycmNnaklVZ25fOWFiM013RTh2eVZScjdWZTFsZEdHUGstV3VJLXRGVnhldWpmTmpxY3VreVVSUWJpME5jams2UGxsaERKTDN2azkxWVdOclZ2c2RVR0tvWnl3UFlDMmlsQnNsNUFiSlpiLVF3U3ZRV25Lc0xTQnY2NWlyTUhqQmlmSkxmeU1wZE5iM3pJdnpoVVJPWTAtR2x4RmYzS2M0Y3VWSTE4bGFIYUo3MkZDSWpUcmYwaHY0ZF81UTluYjFockdaQVNVdWtUMVNOanNzNXc?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 10:58:36 GMT",
+      "description": "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Los venezolanos nominados al Latin Grammy que cruzan el país por carretera para evitar al ICE",
@@ -91,31 +181,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "La sombra del sindicalista Pedro Haces se proyecta sobre Blanca Cruz, la presidenta provisional del INE",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaU5rOFBTN0NxMjZ4R0IzRDlRZnZMYlh4TU00Zjc5MXBBdWJUTEV5SHFpa1VaNzZfczRNTmNhcGcwekg2c25yV3pNMlNscHVkS294Rlk5amxQczVZZXA0SWN4QU4yXzhqN0lrTmk5S3czSzQ2dUYyNS1FYWlqbERpMTdYVnY4RGNSSHNfYzRtbDhnRGI1VmNXekdmRzBuM1RxZmpKRTM4NVVIVVQ0UjlfTjVsSHdtQTVSMlNBYV9Ody14Q3dxV1lZMDBpM2dHTTRZLXE4QzFZcV9sS2xU0gHwAUFVX3lxTE9iY0ZEbmFCYVBQazExTjRIUEY4a0dPc0duS002cmZleGlUdjNkUVNCaWJmTHRaN25HV01vN3NRaWxvQ3dKZGZLT2syYlNRc2Z5X1V2Z0poTkhkQjFkTUpNX0Z6RTBpdUlOaTVSQlhfRXE5d2dHajdTR1lhMnBiN2M0VHV0UW0wX1ZpUEFQd0hFMk1yb0VKMklXQnRqc3dDSjFrVDJTcFhQQUVpbU1qTUFJanhoNDBINjFxOU42bUZQMGpiY3Vsb181WlR6QW94V2dvTm85Z08tTGhCOXRYdmdlOVFmbGZRYVdSSDlGMGdWTA?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "description": "La sombra del sindicalista Pedro Haces se proyecta sobre Blanca Cruz, la presidenta provisional del INE EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "El peligro que corren los demócratas al investigar a Trump",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmN0NFpoRG5SWGRDVmtGX1FBSkllYzhfMWFCWVlDMGVrZjBaakZsamRfZE9fTlZqOXpWU29hUktHQjBqdVpvSUFSOV9CUW5SSXFYTUNHdVJnVXpmcE5OaTNwOXE0WnNtcEVreVJ3dGJoeGJtNXl5UFUtcG5zTVJLb2hBUUFFd3ZjZ0V4WU9TbEE1U3Y2Zlhr?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "description": "El peligro que corren los demócratas al investigar a Trump CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Sloviansk, la ciudad devastada del frente de batalla que Rusia quiere que Ucrania le entregue",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rZllGb3hsVzNXUngxY3ZlSEE2N1FBT1VMY213ekRaRWY1eF9TTzZDVWNMLWt6MDVsS2NGNHFyYkx0RWZfZUxYTXJqbEVuSzhabXRVMWktVUJtUVdT0gFiQVVfeXFMUG1ETldZUExPdGk5R3Z6ZDF4M0diaFRUMjZNZFhtSHozMUxfM3JBdDJNODZwVmlHUHpvM1dXUzI5eWc4RkwyU25KWFQ3Z3VYZzU5M3FLSGU3TFNoN0JTbHViQ1E?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 04:51:35 GMT",
-      "description": "Sloviansk, la ciudad devastada del frente de batalla que Rusia quiere que Ucrania le entregue BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Maryanne Wolf, neurocientífica: “Por culpa de la pantalla, hemos aprendido otra forma de leer que cortocircuita el cerebro”",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONW9weVpHV1BZVVZoU1N1NFdRTkFSbW54VnM0VUN3NUVZX2ZVZHp2VS03Z3dVekFkM2wzb3k3d0Q4U2hoRDM2YTUzejVKS0kyRFdoX0tKZXlvVzk4a2JnSmh5UXp6UEdGd1ZwVHY0U0cwd0JUMndaaTgyU25TYnhUZFpQNGM5c3BxeC1mN2k2SE9IbWpBN256VWV5dUFYWFhFeHlGbHJXcW9USGhiaDFxZ1ZfcDdjbl94SFZJb19wU1FSaHdrQUxza1dZNVVNaEhlSEE4amE4bGpabEEwZFFsVWdKSTlna3dPM3kxc2tVVVNjMWJHakRoc0RhMklnOHZR0gGUAkFVX3lxTE1oTVFLRVFVem9ueVkxdnlRWXhWLTFBdWdhbDlGSDlJMzJYRVNwbjkyajVhVUNNcXdhLTZkZV9rTWZYekxZbWppc1ZDZTJUbnlhN2FUbU5hQlAtdGZNZnFQU2hoWjVmUnNhelh2UW5fNExHSVZvM3VSeFpLVUxYaUF4UEZOUVZKUXFRQUwxOWdHblNMVFcyRG5NUHRsNVF6NGJrV1BzU3FBRDYyRE96NHJ3bWFIdWRrZjlKdDhNX0JNdkdEdkFQVG1iQWpndTRfMkFTazNQRC0zRWFoY19lWE5peDIwS1g3OVVydnhqdjExRlVVQktJSThWMF9abHFNZUstQWJmWmZXS1JDVFU4bWsxR2stcg?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 04:30:01 GMT",
-      "description": "Maryanne Wolf, neurocientífica: “Por culpa de la pantalla, hemos aprendido otra forma de leer que cortocircuita el cerebro” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Argentina se vuelca con León XIV y rompe todos los récords de asistencia a las misas papales",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU82NFRXSmxkb1NUa3BicEVicm9mNTNncllHR0Q4NnZXVWFhaWpfNUE0akp1eEdiTmV3eVZNNF9vZjNmaWszRjRoRlJmbkNOajc5TEVVNWlHbWJLckg5dG9Vd2Y3dUt2dHBraS1nUk14U3ZkclpSYXZHVzZwRXdWWkNfRTBLUGlnTlhBSzRMeWZ3ZnBkY3M5RElmdmY3UV9FM181SHdhYnNRSDNUVVJ1TEduMGFCNldqODJ1YXU4R3VzRmYxMnfSAcYBQVVfeXFMTXZjamVXZkk5LUszZFp1c2FFTDNjSzIwbDUtNktJTzZ1R1RsZmIyMjZMTmdocEJCeUwtVGRUM2JmMldIVDFGQXNBVnNyS3BsUkhuVFYzZk5pMGZEN3BDMFlzOXNDUHF1NThYeTZIVmg4bXhyT0U5T1FlUUtvTTNFeVhJTnBhV1lHbTUtdi1wcmlMcS04ajM3UTU4SlZCd3loc1cyejAzamlUcHhDSDV1UUJGZWVRdC1laXoteVU2QzNkZnV1Q0tB?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 07:49:45 GMT",
+      "description": "Argentina se vuelca con León XIV y rompe todos los récords de asistencia a las misas papales DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia? | Elecciones generales | España",
@@ -136,19 +217,10 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Argentina se vuelca con León XIV y rompe todos los récords de asistencia a las misas papales",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUU82NFRXSmxkb1NUa3BicEVicm9mNTNncllHR0Q4NnZXVWFhaWpfNUE0akp1eEdiTmV3eVZNNF9vZjNmaWszRjRoRlJmbkNOajc5TEVVNWlHbWJLckg5dG9Vd2Y3dUt2dHBraS1nUk14U3ZkclpSYXZHVzZwRXdWWkNfRTBLUGlnTlhBSzRMeWZ3ZnBkY3M5RElmdmY3UV9FM181SHdhYnNRSDNUVVJ1TEduMGFCNldqODJ1YXU4R3VzRmYxMnfSAcYBQVVfeXFMTXZjamVXZkk5LUszZFp1c2FFTDNjSzIwbDUtNktJTzZ1R1RsZmIyMjZMTmdocEJCeUwtVGRUM2JmMldIVDFGQXNBVnNyS3BsUkhuVFYzZk5pMGZEN3BDMFlzOXNDUHF1NThYeTZIVmg4bXhyT0U5T1FlUUtvTTNFeVhJTnBhV1lHbTUtdi1wcmlMcS04ajM3UTU4SlZCd3loc1cyejAzamlUcHhDSDV1UUJGZWVRdC1laXoteVU2QzNkZnV1Q0tB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 03:15:33 GMT",
-      "description": "Argentina se vuelca con León XIV y rompe todos los récords de asistencia a las misas papales DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Miles de alumnos evacuados en Italia por amenazas de bomba: Europa investiga posible campaña coordinada",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmZWSFB1OHk5NDNPS05idjAtOUlUQWhISmw4OERNd3hNUzgwNjBTem15RXI3M1o1YUhOS2JyMmVtUVdRRWVseDFLOExNZ0VGeWwzT3JEdjZ1eGx4NVlFa3RMaUtuOWZ4RWExWWJlZEhBclZwcVR1cWdRRjNOVWxPYjg1cXpUcVZIQmhCck5STEl3RklzczFCeFlSVjB4dmFoRGJfbzRUQ2pPSHlE0gGsAUFVX3lxTE1UU2F3Y2xDQmJLeDB4aF9kNlBvei1xTy1Qb0R6bnc2UEswU1VfVWNhOVJYYjZkZ3d0Y3N6amY3THNQVUpuM1pXeHBjTl9lamo4cHZVOWp5MnpDUEd1dV8tV0YtVVR5ck9pR3VOQUlES0draWFub29SbWxfRXlUSTdIeU9zOWoxSUFuVGhEaGJWSWdWTTM5QWI1bWN5N21kUUJHUGtvRDVVOTdFeUE?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 01:08:15 GMT",
-      "description": "Miles de alumnos evacuados en Italia por amenazas de bomba: Europa investiga posible campaña coordinada DW.com",
+      "title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjR4N3NycjZmVmlBdHpZYXEzdUdrRGVmd2FJTFI2b1lvTWV5VlJyY3FMY1FmU1Y5V2lzNEF1MmZOMzcwWU42bUtkVXFBSDVPNzhLNkZqN3IyMGRMcWZhTFBTZXpFTnZBWWJLeDhqSkxFZ0NMYU5TaFJZWVppYUtJaFd0VXU3Sm10YXY5WGswb0hmYklha0xOdUZuaXhpblQ5VHY3R1UwQ2haOHVhdmFJM0J1V0hiZmFjZ3ctSTFrNnZ0dnE1N3fSAcYBQVVfeXFMT2xLbmZZdmVQdjQwNnlxbFlJOGhtRS1UYVJNRWlSU3B1NlhQdUZQTnFPSTgtNVVGbmdtWlBoa2ZnYjhSSzNHM0laNE51bVRzNER1UjIxQXBmUGd4T2ZveHdURlpmNVlIUHNtdWZnRUdSMXNzR2JSaEluNVA3SVJBejB4dnJ0SkkyNGVuelN0bWR3aGI4MFNtRTNKcl9vNmpiVm16U052UmFCcjVraHF0LThLQkRpMGNJdUNubmVBeXJrcE41TEJB?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 01:12:25 GMT",
+      "description": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -163,22 +235,13 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjR4N3NycjZmVmlBdHpZYXEzdUdrRGVmd2FJTFI2b1lvTWV5VlJyY3FMY1FmU1Y5V2lzNEF1MmZOMzcwWU42bUtkVXFBSDVPNzhLNkZqN3IyMGRMcWZhTFBTZXpFTnZBWWJLeDhqSkxFZ0NMYU5TaFJZWVppYUtJaFd0VXU3Sm10YXY5WGswb0hmYklha0xOdUZuaXhpblQ5VHY3R1UwQ2haOHVhdmFJM0J1V0hiZmFjZ3ctSTFrNnZ0dnE1N3fSAcYBQVVfeXFMT2xLbmZZdmVQdjQwNnlxbFlJOGhtRS1UYVJNRWlSU3B1NlhQdUZQTnFPSTgtNVVGbmdtWlBoa2ZnYjhSSzNHM0laNE51bVRzNER1UjIxQXBmUGd4T2ZveHdURlpmNVlIUHNtdWZnRUdSMXNzR2JSaEluNVA3SVJBejB4dnJ0SkkyNGVuelN0bWR3aGI4MFNtRTNKcl9vNmpiVm16U052UmFCcjVraHF0LThLQkRpMGNJdUNubmVBeXJrcE41TEJB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:43:38 GMT",
-      "description": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Guardia reprende a Hegseth y sus asesores por reírse en el Cementerio Nacional de Arlington el Día de los Veteranos",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXpXWXJvbXNZLUNUeUMtcG51MGhJTldXdi1ZU0lWbnVNMWNsVEE3TWZZYS1mMXZ1cDl5VEFQOTF4Z0YzVldlOElnS3JxSnZCUWo1a1NSbWhFRDVybnVNTk9sMEc2b3ptTloxbDJ5Z1FQLUNTS3hHNjM5NFhEbVY5NlBmeHVsSXNkVEU1VFZPUDI4SkRMZmQwSGhGcHdUbTQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 23:28:00 GMT",
-      "description": "Guardia reprende a Hegseth y sus asesores por reírse en el Cementerio Nacional de Arlington el Día de los Veteranos CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Por qué hundieron frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UZlRmTllyWVM4b0xUaXZWT2lEc0FCR0Rpc2hQelJIRS1idklyZ2hfSzJWV2FITGp2aVZZcDNMb1dZdkN3UVU0dzhCSnJfV0ZoeENsUkxKWEtvWjF20gFiQVVfeXFMTm5DSXluMk81Z08tTFF0bEZpNThKckZNVHkwUVZOZ05QMDFISHBCWWZMb3c4cGVXenB2V0JNT2wtNUZycGhwLWo2Y1Nhd2VwY0lfQ21PVTVDWENVYWpnaVZwY1E?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 20:57:45 GMT",
+      "description": "Por qué hundieron frente a la costa de Florida al mítico SS United States, el que fuera el transatlántico más rápido del mundo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "El 'ministerio del Noviazgo' en Brasil: Lula y su promesa de que todo el mundo va a tener pareja",
@@ -199,31 +262,13 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Entre lágrimas, Milei despide al papa León XIV a su salida de Argentina",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXo3elBfWE1FcGVQTnNIc0lqa2NXcU5LNXFReXdXaXBuZHFmQjhCQmcxT2F3Vy1JVW5Wa0s5QmdjY2ZDS2lfOVctaXgtbVhXazNZUF96UWJpb29NdUpMQVRZc1ZlOE55U0hVUFVScl84SE9leFd4NVBJTlVVd243LUEzZEQ2bTNq?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 19:41:40 GMT",
-      "description": "Entre lágrimas, Milei despide al papa León XIV a su salida de Argentina CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2Y0JWRWJWeWhPVW91NEFGRXozVkxoQmpUV01GSnBPYm9tNTZ0d0hqSDR5VHUxRTRubllSVXJSa1A4eVVRYjdndC1kZnExS3g2X3BDUTA2QTZKX0NU0gFiQVVfeXFMTWw5cUNLVWo0ZmJtbkhyZEhTTWJQVnBSZE04cjNSNUNfRk5MRVhURW0xTndCb3Rrdm02aHFXQVlmY0Q5aGJTcm1XcHZDdzF4dGtGSWFHUDlDQnEzQzVxNV9CM2c?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 18:47:46 GMT",
-      "description": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Delta Finance says oil assets operated by Pacific Coast in Venezuela remain in dispute",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkhIeFBWTWZpTkdjR1Y2aGZ6MVh4RnkwTGEtbFRmM2d4RUUtR28zWWE1TEdpR1V0MEZOUkpRVWtIQUR0d1RJMmd0YmY0LUFmQzJRVUFKZHBRTHIxaUpUZEpUZzhOYV9TV1V2WXZ0ZFZmcFpFN2ozWm5LVU5uNWI5NjdCN21sdlBDNHJkYk1TSWducnZpaDRKMXA3ci12WllwY0lVQkJpX3FrcWNBYnZScUZ3NWJsaWk1b1VGSHhucS1mekp2YmNhZmxnVDMxdw?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 18:30:18 GMT",
-      "description": "Delta Finance says oil assets operated by Pacific Coast in Venezuela remain in dispute Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "Más de 1.100 personas murieron a causa de la violencia en Haití en tercer trimestre de 2026",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlhhUF9jdnlEOWt5d2V1UHIzUEx6QjBXTmVUUDdnaWlJT2RqaXE0d2FxbFNZVEI3MkVTZDFlZHctM3F5WDlrVEJyUlJWOUlGZUtKdkhsaTUtWnBsMFZWMGgwaXNFb19zODQ5X2FReXpRNnVJU1Y4SHRtQTdVR1Y2LWQ3MEZxWVAxTkhMb1ZSTGdjbmdpeExhVjh2NTVndHJhbEFPekJOWGZkNFZ3TDdRbFBLSEIyQ0tZMDZsa1UxbkdyLUJSWVYzR1ZfNnVCUdIBzgFBVV95cUxNZzZ4OHlOLXdoamJsU1RzQVoyTkZWdHdNU3VDa21YVnNhZW1GN204TmE0RHJXemloOFJKeUNWM1dqRV9qZVBVZG1WZEktVWhHQ05wb0t1TmNIYUdOcGVWMzBjV1F1aWdOMVBnTG91QUs1LVdHckZRNkg4RHduMmJYdlMyWklLazFfUjFyNGhRU2syZC1QaVRORklLLWkyeDVxTzZDREs3U2J3LXY1a3lHSjFqZkdTalR1SXNRNU1ZcUp2R3plWW5kLVdzc3JRdw?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 18:29:46 GMT",
+      "description": "Más de 1.100 personas murieron a causa de la violencia en Haití en tercer trimestre de 2026 DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "El embajador ruso en EE.UU. fallece repentinamente tras padecer una enfermedad crónica, según la Cancillería de Rusia",
@@ -244,31 +289,13 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "México impide paso a nueva caravana migratoria hacia EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDFQZUZkZmRLeUdSTGZ4aG9OOTVrTEhpZURWNlVPeU1LNHlkbzhvd3VzS3NOTHhqclQ5NzkxM1U1eXdvcEtwWlV0NWs0YVJacXVKSVN4TThpSk5nMVl4VTdHV2tENU12UUdnQ3pJcjN2NUdHdDd6NnI1SkZWZVVIYXJ1djRaN2NQUS14SGVORVNjdEtPcksxQnplVdIBmwFBVV95cUxOTTJ3N0g2MlVNNF9OM2kxZTMtN3BXdU9tWDVyUm1NcDdtNTlaYTVmME1PR3RqUDQzM1NZSmY2dTJIdkllMG5xaHprNGxvVThWTGNPWWFYaFRPOGFnMnZQeFBEVlRMOV9VWHVrLXU2cUZEM2NQQXN3ekQwYnU0d3JWUkM0VlQ4VEJRVGMtaURwLWt6VDNxVlNvUXI2SQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 17:05:31 GMT",
-      "description": "México impide paso a nueva caravana migratoria hacia EE.UU. DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\": Santiago Roncagliolo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GUEJKTDQtWXdUdkk3bXN0Q3pheTZTRmRUOEZ0dXd1S1YtZGg0R0UwTVB6bU10VDVXMm1xbE16c0h5OFdHZGxBSFc5c0dKcDhtaUpZUnJxMDdIS3Bf0gFiQVVfeXFMT0hIajFSbXNTV2liRVJ2MGlwMEk3ck10WmwtZ05xaG5fUE83ZUhpMi1NQnBDTl9pd285OTJiUVpFVUF1QzFmNjlTUG92MnpJRGRiOHZUc19ST1V2ZXczQUhhdFE?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 13:51:10 GMT",
-      "description": "\"En el Vaticano hay una guerra entre dos bandos en la que los abusos sexuales se han convertido en un arma, y eso es suicida\": Santiago Roncagliolo BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Morena consuma el recorte de 6.000 millones de pesos al presupuesto del INE en plena crisis por el escándalo de Taddei",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONy02aHlHYW1MQVVERFIzZHpqOGZhWWwtNTNzcXR1WVN5WDhWb3dZUW9raVhES0JBTWdmalQtdnN6YnNLUjdKRzFtR0NlVGxjM2czSUl3Ui1HWldSWGcwMWVBYktPR0V3Y1dXM3BlTWtTZllBR05IRThtVDlrbWNSalZWaGlfVmJETFc0WGtYQnpfdmR1enBWZEhlZDJ3aTFYVFAxS284ZzFFT0dkX1ZzWGJlQmJSTFJOaThwQkRBQVdTdDdiR01RZnJBNG9PX3BMNU9BMm5nYW9uODFUc01N0gHzAUFVX3lxTE1aZFVYV0dqOGd6VUstN3ZJY0owZGNEd3FhYmRidGtqU0c3MmFTS21JczR6OF9wLW5WTnhiMXFEb25oaGJiblpRS3BSYnlvREoxWEtmN3U3Z0M2c0FoWkp4SjRqNXBWd01Vc1h2WEphd2pCMVZ2ZE41R3lrcFc0MjZ2OHROQnB6OElFWmFOQVlMVzVOZGJJZWJCRHluSDFQRGZaejhLa1VxSGd2WUhqMXlDd1ZJeFdRRmtuWVh5X0p3MWNPMGgxTVZibzBhY20wNTVfQndQM1d1N0tETXlwREpHZnk0ZWFtU0h2aDZ1SFVjSGtiVQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 13:35:41 GMT",
-      "description": "Morena consuma el recorte de 6.000 millones de pesos al presupuesto del INE en plena crisis por el escándalo de Taddei EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "Bukele se arriesga con una ofensiva contra las pandillas en Haití antes de las elecciones",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzFORTR0QWZlVThyVEdqdV9HcXVfLTVsTUFCclltUFZWYUh4YU12N1ZfVTYtVDhRcVV0YUhHUFJIaFI4T3VmQUdSZWZxNmZqamxNQXpyVDhObmRQLWpDSzZNbEM5cmpjbVlfM2pIbTNyTTRoclRrdzBnQVp3d2diN2hDYm1qQ0tNVTVoQ1hEUW1EQXRCMXRrME4zQVF6T0xnZm1wbw?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 15:31:00 GMT",
+      "description": "Bukele se arriesga con una ofensiva contra las pandillas en Haití antes de las elecciones AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "\"Regreso a mi patria\": el mensaje del papa en Perú",
@@ -278,15 +305,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12YXd5WWpfZlU1WjBBeGhLOU5RXzlxenc4UkVhVmhLZGhWUzRvN3dpZlVQWDAwOFloUXI3TGJPOW1kX0x0elRqT2Z0VjlZeEFhcl9DVUduTXRtQUQx0gFiQVVfeXFMT0NIWWRIdzk3VDNScDBKM3NRaThVc3FTSVdDMVRLeUVHQ2dIZ3NfZWhXRW5Od2dERTdCRVJHZ1IzS2gyTHlVakJzWWc2WGNEZjVDTmEyQ1FqNzI2SWNhczN1NEE?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 12:46:08 GMT",
-      "description": "La inspiradora historia de Zaher, el niño que perdió sus dos piernas en Sudán y recibió el apoyo de su ídolo Vinicius Jr para volver a jugar al fútbol BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "El racismo de los turistas golpea a los mexicanos en casa: “Estamos en Polanco, habla inglés”",
@@ -334,15 +352,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Ecuador: la \"mano dura\" de Noboa golpea el \"frágil tejido democrático del país\"",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVFZzLUwtOGtSWHZad2cya2U2SmlfR2dMbVhDVGRZb24za0NXRWNQSXI3QzM5WnhEcFZPYUJfX0pwRmhhVHhwYzNsc0c4Y3Y2Y3VPTHlWT19xaWdRcnVMeXR1aENpYk84bVA0bUhNRW5tUnFLdTU1eHJHX0VXMDVWV3hBTzVDc1VSUVpEYWxiTHpmYjRSTXkxR0FmQUpWclBLQUJvZzROdkl1LWtpTzZJY283djLSAbQBQVVfeXFMT2RlVHpJbkZYT3cxeEw1ZkNvYmhBSDFia3RacnpDVG10NHNkUjgyX1VDak0tdmJZRUo2bi1HSmNDTVNaNGpJS3I5aGVuUXNnV21zOENfVUwwZThodnRCR0dQdVJLTzg4VmFLdUE4Z0tUZVhOdi1hZ0dkX3pJdUYybWpObDFTZlhFck1RTzVPZlc5Y3ZfN011aXdDcXhkbW0yT1pyQWxWYmRPY3k0Y0d1eS1BVE9O?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 20:50:41 GMT",
-      "description": "Ecuador: la \"mano dura\" de Noboa golpea el \"frágil tejido democrático del país\" DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Republicanos de cámara baja de EEUU rechazan someter a juicio político a secretario de Defensa",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczNPaTVsYWJjNkVGU2x3NEhGSXRuZ0RKZXVKOFBQSHpXZHdCb2R4ektaTFFQX0VDSzNPZ1BXN2JmZlNoTnhPaTRVcTdPUVFTYVM0QUlRUDF0b0tJR3hqV3VtNllXMndJVU5ZTU5EaU1IeTJ3VTcxdkd5U3B4UUltYlF2dUtrWkxndjFBSHVINE5hVl9WZ2ctTTdB?oc=5",
       "pubDate": "Tue, 10 Nov 2026 18:15:47 GMT",
@@ -352,10 +361,10 @@
       "domain": "apnews.com"
     },
     {
-      "title": "EE. UU. recibió 12.000 millones de dólares del petróleo de Venezuela",
+      "title": "EE. UU. captó 12 millardos de dólares de ingresos petroleros de Venezuela, según un reporte",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2FKQVhBUGc1aEt2aGxQZmFBa3JEQVd5ZDR0ZzZRNTJ0b190cmhrblpMY2tSQmdOSUIzRHg3dlJNenQ1SDZOZ0ZjQV9WWTNLYW90Mkh2ZEhJWDg2dUJmMkEtb2dua2pnTWhVNkJJeW5jQzBDU2tfb1pCckpvaHhfTGVWSGh3cXVvMHhzSS14QnJoRGtvNmRpWnZBOA?oc=5",
       "pubDate": "Tue, 10 Nov 2026 15:24:12 GMT",
-      "description": "EE. UU. recibió 12.000 millones de dólares del petróleo de Venezuela The New York Times",
+      "description": "EE. UU. captó 12 millardos de dólares de ingresos petroleros de Venezuela, según un reporte The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -388,22 +397,22 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Doncic brilla con 32 puntos y los Lakers estiran su racha a 6 triunfos al vencer a los Hawks",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWFSQkUyWHhtTkhydHo5TDdsOTRlQXAzY0FLalFzbXNXaTY0UW5YUEJTamNabzQ3VGc5ZkVKVGNsMDdudEJKVXVNOWJyd3VhZ1NIbUYwMTVpZ256eExfWFB2WUlCNnhOM1NyYjJpeWZrT1RBYW9sMG1oek01cy0zT0MyaVBZaTNfXzRkLTcyVnRhZmRieWc?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 02:57:00 GMT",
-      "description": "Doncic brilla con 32 puntos y los Lakers estiran su racha a 6 triunfos al vencer a los Hawks AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "El desempleo \"es un auténtico drama en la vida\", afirma el papa en Argentina",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeGI0MmNOOVVvX3VXYW81QVlPZEZBSm5JNmNLczVJYndDdC10Wi1jME9oZ2ltejRHLUJJM3otbUw4SjNnWVo4dUtuVmFUXzFFZXJSdVdtMGtXOG1ZMWNldmxCdjJUY3JRTFV3ZmE1bzVKZkZBdUFEc1c1eURvOXVpWmlaRE00QzdYNEhQOFJyU0pzSmhTZk1oQzlvWG50MDRUblZxdEdHZlFkYXdjOU1jZ3dJbm5QY3RtazRNZGttdXdYdi1RZGpBQmFtT1FfT25EZWxBZ244Y0JhbFNWQUJBRXhIbnRheEJBTGYxcQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 12:03:50 GMT",
-      "description": "El desempleo \"es un auténtico drama en la vida\", afirma el papa en Argentina France 24",
+      "title": "En Contexto - Árabes, ultraortodoxos o Netanyahu: los escenarios de Eisenkot para formar gobierno en Israel",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQalI3Z2lCYUtkNlUxdnNRbk9mMF9rb1Fmd3pPNkNsWDkzSTBWYXlYdzZnNC1FQnYySGdqNHkxV1VIYjJkbzk4bkd5clRIWE5XRkF2Ri1ZUXUtek5OMVhWeXBwUEd1UHAxOE43ZndrNGlSQUZ6Sy1DUGVDOHRudTZSOFB3TFpnbUZNS2hxYTllWWtvcjl6dXhITGZ6ZDZ3NVNKS25jc1JiMGxwUHZwQTg2OGpzaFpIMDlod0s1dTZEeXN1VUUwNm5MaGZjVGRwb2xtcEc0R1BzTTlYLU1EUzNIbEpDa3NNdGZuLVJz?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 20:58:21 GMT",
+      "description": "En Contexto - Árabes, ultraortodoxos o Netanyahu: los escenarios de Eisenkot para formar gobierno en Israel France 24",
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "Nvidia investiga la relación de Jensen Huang con una presunta espía china",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpIZTEtdExockUzRFlsb2hwRmVFM0V3S3lKZ0ZFU2FfME8yME84elQ3TmNOTUg4eFZfMW1GM3YzbzFwOEtXNnhnRTBZVGJoOUFFZmlsYWFUU21xRjZuTXdSR1VqMTVTcGdvSVNIM1BuczdDMjItVVVqVmZ0WTFlZENhdFhQVzY1THExSXdnRGFuYnpCQWc?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 14:59:34 GMT",
+      "description": "Nvidia investiga la relación de Jensen Huang con una presunta espía china The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Maduro estudia religión y se acerca al judaísmo tras las rejas",
@@ -451,37 +460,28 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Luka Doncic anota 53 en otro gran juego ofensivo y guía a Lakers a triunfo 124-118 ante Blazers",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnEtNjBUYTVXRlg5OVNidXE2YWhtZ181Q2RTc2Z2MVVYLXo5UkJLLUdkNVFRZ19BSUNQTVplZUlGV3ZucjdVb2xrNzlwdlprY21xcExpZk42WFpmT0RUZzVJblYtbS13WVd3RlpEaUFYY2Z0MjRaQmZkMEVIb3Y1T21SYzBvTWJpeVdmMU00VlB0aU5jYk0tWmZnblFLVWs?oc=5",
-      "pubDate": "Sat, 07 Nov 2026 06:30:00 GMT",
-      "description": "Luka Doncic anota 53 en otro gran juego ofensivo y guía a Lakers a triunfo 124-118 ante Blazers AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 14:44:58 GMT",
-      "description": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa Reuters",
+      "title": "Reaction to Cristiano Ronaldo's Portugal retirement",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRfUUJiQkN2amIyWTlheWx5ZTZjT2Vrd1BucDdGaE5oMnJjbGRrNmtUeVZwZWsyMlhObTIwQnRjTHRuYldBc2xsWFBwbTI2MTMzRDNXbGk0cmVzX2ZkMnNvZTh2cVRINURYNXk2NHM5RndKOHdkb3dvRDFRTTl1MGdLdmF1cGVNYmttQURUV0pvUHA4Wm9iNkpLdVlNZw?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 18:03:28 GMT",
+      "description": "Reaction to Cristiano Ronaldo's Portugal retirement Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
     },
     {
-      "title": "Marco Rubio dice que las elecciones en Venezuela ‘idealmente’ se realizarán en 2027",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUExZWEdCQXZPNFRmZjUxd0lXazJEbjBqdjFvN2lwand5MlJfZFo1amdnaG5WQi01cWpYUHV5eHplZ1R6ODQ5WnJhVk1vOFFlUDljY0V2MWdQZFJrNWRGS3lHRi0xWGk4M0dhRl9VTXdhVGhHS3RGUmozc251cmRXVlIwODNIZ09IMVUzejlDNDVYeDlpV0dONVFwYTYwX0lDNlpic1pB?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 02:10:33 GMT",
-      "description": "Marco Rubio dice que las elecciones en Venezuela ‘idealmente’ se realizarán en 2027 The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0dHaHoteEhreWhGd3JLaE1SV01qNUxkN0dqZXN5cFRFTDdTdFZOcHVaZ3huU09iYldmWFlTbkNtNi1UZ2J6VVpRYi13WDRKN0lBR0pKNEtLMTY1V281ZUJkd0l0clFIRWVEUkZEeVBkLVc0aFBDQWFwU1FYYmJRaUkza3hBM0JPblV1NEFEakFmNl9OOHNxVVE1dW95Ym5QNFpFOQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "description": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
-      "title": "Reaction to Cristiano Ronaldo's Portugal retirement",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRfUUJiQkN2amIyWTlheWx5ZTZjT2Vrd1BucDdGaE5oMnJjbGRrNmtUeVZwZWsyMlhObTIwQnRjTHRuYldBc2xsWFBwbTI2MTMzRDNXbGk0cmVzX2ZkMnNvZTh2cVRINURYNXk2NHM5RndKOHdkb3dvRDFRTTl1MGdLdmF1cGVNYmttQURUV0pvUHA4Wm9iNkpLdVlNZw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 18:03:28 GMT",
-      "description": "Reaction to Cristiano Ronaldo's Portugal retirement Reuters",
+      "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "description": "Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
