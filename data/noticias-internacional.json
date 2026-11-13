@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T13:30:54.672Z",
+  "updatedAt": "2026-11-13T21:03:01.033Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,8 +64,89 @@
   ],
   "items": [
     {
+      "title": "La ciudad con la mayor fábrica de autos eléctricos chinos de América Latina",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yRDFESTlsTWFkcFB3OGtCNXhRZDJNbDVMVHJQSHZWMFVrZzFhbXc0eGFjdlJlUlJOenU2Y3JKQ1h0Q1dFQ095QzBTSnExbGl4TV9TZ1JEMmE?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 17:07:53 GMT",
+      "description": "La ciudad con la mayor fábrica de autos eléctricos chinos de América Latina BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Cómo Texas es desde ya el nuevo campo de batalla por la presidencia en EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3ZE1LSEhYUDNkenBLVDd4TmhndDZ2TE1CVWhJT3J3TUo3d092QXNaa1ZlOWZyUzhZdTVGRFpVTUtoZERnMDA3Z1Y4dnJ0VGVRYW5WWmE4a3Z2c0df0gFiQVVfeXFMT2tSamRqaXVPbWNmZGQwSWt2ek1hX054RzlOYnhaNG0zRHFlSU9nRy0yZTRtM1c4aGVLdnhUek90akd0QzlHLUQtRG9ydnB1N3BYVEhEUHgzU0FOWm82VjkzLUE?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 16:38:04 GMT",
+      "description": "Cómo Texas es desde ya el nuevo campo de batalla por la presidencia en EE.UU. BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué se sabe sobre la falla global que afecta Outlook y otros servicios de Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUlliTGZ4Y2FSaFV2NUhjOC1VUG0xWXc2am5JMGphZDI3aTRLaTBjTURpaHg1ZUVxWl9aVjAxWGRLdW90TldmR0l3eXBnanl3eHpndHdEZm1qVE1E0gFiQVVfeXFMTjI5dHZTQ1lZMDdqRlRiVXVUS2NIdmFSbVIwb0dzeFVlbjZVWllaa01XMlZXbjBVR1MwSXlVeDZ3aHhOUjVmbzZmaUVfRy12QlZUZXkxaUpKNU9UcFpfSVdVM3c?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 16:22:09 GMT",
+      "description": "Qué se sabe sobre la falla global que afecta Outlook y otros servicios de Microsoft BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "J. D. Vance, quien alguna vez fue considerado el heredero natural de Trump, reconsidera su futuro político",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnFhZHVnMW9uVWtqS0U1RlRuZjNtS1BoaEpRcHp0TVIwZzhBWDlucGt3M2wwWV9xdXVkcUdrSEtTVjJZbXlrZXp4NHVVaGx5UkVkOVJOUjBiVzBvTDcwT2p5OENkeXVZaVNyNFRqOU83VmtJOHJiS0xJR2JVRjdjSmpYNEc3WVNuQnZVUQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 15:53:00 GMT",
+      "description": "J. D. Vance, quien alguna vez fue considerado el heredero natural de Trump, reconsidera su futuro político CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFNiTEpHQTlGTXlPX2h0R25kSF8tbEFBWGlBVGdmOUExYkRFcTNzUExPQ291ZmFQbzUxNHUzakg3ZVIyU2Yybm5pNEY3WEFUYmEydHBxa3RQZHk3bDl2XzctOHhtVVcteVdEZFJyb3J3N2ZHWTJPV0JMM2loTlFBa1R4VUdPaUdMeXlkY25tdGlKUWVHa21JYWVR?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 15:33:00 GMT",
+      "description": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Sheinbaum, sobre la protección de Washington al fiscal que dejó entrar a la CIA en Chihuahua: “Está hablado con Estados Unidos”",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOemZHNlRqQldWNmpIMEFibERsN0RyaUZYMkN5OG1OTVYyUk4yVS1IX3dySTk4cWRHMFg1Y2VtOVlOY1RxekVEdUxmVWJqcUZuYktBZlN0bThXNm9BQVVZSkh0d0cyM2pwd2FlU0ZiR0hYWkx0V1RDUjM0ZkVnY0lfV180alAwTndEYVVJZ3BpTGpTdFhydzVUcXlEVXdmUXJTaE85Y2dMcV8wcmFUT1ItSzdFSXFGcFUzN2VkN1pJakFnVFZKQm5zQzBVLU1aVjNybjhybl9nVm1WVDR4M1RfNnJHUERCaDRiOURWY2QyZUV1Sk95alMxSNIBjAJBVV95cUxQel9oMlE1QldCbHVPX1o5T0Q2eUs1cWJ0QXQzaWxRVzV2UlpDR081ZGVEWTUydnlrUFBjUFBOWHVtMDJDZndKTTA1ckpNd0FzLXRTOUUzeUxfQTNxVzF3UjUyeUZFQ2tyT3oycHZwYzhGVm40YUNHN1praE5ibVhlRnBKU1JFeGtWTEZvNnlxMTBVZ2hTdndyVTYtblhKN3ZJcTFhWk0tREktRFJudzE5OTBIQVBCTGwxMllpbXVBaUVWVk9SLXc5WFFOR0R1SEItOU1nY0FPY3ZoQ1pkdTdtQklCbE9WWlpMaHJVekNFWVM1Q0pvb2pSV1BZMTNfVkYweUUxMmVPTGtVeWti?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 14:57:15 GMT",
+      "description": "Sheinbaum, sobre la protección de Washington al fiscal que dejó entrar a la CIA en Chihuahua: “Está hablado con Estados Unidos” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZTRGM1U1dllYVXlUUWhsRlptQzg0eFpxdmNwZzEzQTB6Smx0dk83M3dKSU1iQkFoWE1meDMtdndUbzBJekFzMVF1cmlod1oyOFJ3TjRxVlB4NEpq0gFiQVVfeXFMTkRZMVR6NjVzMkZDclduSFo4Yzk4SkJweUgtWFlGVnVud1k2SDV0RDZMbm45aDFaOUIzNkVwQ0QySDcyS2p5OF9NNzBVTHF6cUdwRndRbTlJVTA3Yko5MGh0WXc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 12:32:21 GMT",
+      "description": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El personaje con el que Johnny Depp busca la redención en su regreso al cine tras el polémico juicio contra su exesposa Amber Heard",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCbjJXOUpDbGNWODVUQU1Eb3ljRENnVk45MFV0TlBNcTBjeUx1Zk1HQ3liMldWWmFlV3Fsb3dOOXRvN2xXSUFrSUsxUTE5S2hpVE5Vekh1OWYzbGNj0gFiQVVfeXFMT3pIdEhFYXRXTnYyOEJPSHpuQjJRZ3k4VXdHcUY4d0pYZWFoZGUwSU8yNmRiX0FEYjk1NUdCNUVuWWUwc3luaVJZeTVRT3gzYkl2RkN5S2lkU0lzTjNlRTA0WWc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 11:02:21 GMT",
+      "description": "El personaje con el que Johnny Depp busca la redención en su regreso al cine tras el polémico juicio contra su exesposa Amber Heard BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFptNHBkczU2OFdhVWdia0NOQTJLODNWOW9jSWJ1aW5mTERJbWdPY25tMDdVb01qSlpQOFpWVUpXbjV3LWwyM1RtT1pZR3ZNc0oxOHp3bUxkUUJldGdReUx0V09IYTE3eGl4M3ktQ3Jqa1lpODRzRnlOLW9ybXZPcUFCR2ZndGhudURtdEY1TlJrQ0p2dXYwRlZLUjFqa2VB?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 10:35:00 GMT",
+      "description": "Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "“Trabajamos como esclavos en este país y no nos dan seguridad”: rabia y duelo tras el derrumbe mortal en Brooklyn",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWDQtdERUbUxRWUFsY0dNYWZLODhMekxEakNSV2dpMkkxYnNQUFZ1Uy1US3BnTFlZRVA1N2FCZ2pubTJFUGZOZzN0YzVpYlNYbWhrS3hIUlJsR1ZUQTdWN1NvOVhGaXRDOVRfVFFFUWdFcHVaYVNJc2p3VldhRW5jWFFZZUZHaE5tTHJtNUFkNmpLeUlaaG5XTEdRejBNajc1ZHREbWNLcF82M241ZzBGVWd1Z0hhM2l2eEQ0ZFBqNnNFSmp0Z1hsTmV2eFBWNUc4V0pKZnRkbFV1WDc5MTVCRzlB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWDQtdERUbUxRWUFsY0dNYWZLODhMekxEakNSV2dpMkkxYnNQUFZ1Uy1US3BnTFlZRVA1N2FCZ2pubTJFUGZOZzN0YzVpYlNYbWhrS3hIUlJsR1ZUQTdWN1NvOVhGaXRDOVRfVFFFUWdFcHVaYVNJc2p3VldhRW5jWFFZZUZHaE5tTHJtNUFkNmpLeUlaaG5XTEdRejBNajc1ZHREbWNLcF82M241ZzBGVWd1Z0hhM2l2eEQ0ZFBqNnNFSmp0Z1hsTmV2eFBWNUc4V0pKZnRkbFV1WDc5MTVCRzlB0gH2AUFVX3lxTE5YZ0lCYTRMOGlEZ0d2cHJlVFMxSjlJbWozTnZZcEkxYlNxODB4RDJEakoyUjhlWUtCRE5hdFRSbWs3c2VmcG4xLWZNT1dTdnFtLTdGTjExM09fSUJzWEhraGZfZUJjTkluRFYxOGlBbDl2VzlOU3lzMFAtMmpBdS1wZHZIcUsyUjFKUUhLdTZmMm96UVJiTlVJUlhzVkw0di1qODNyYkdHSk9rY0hWN2NsMFpvVHA0bXpOMml5LXR6WUoxTHl3SGlfSlk2TUlKTUlGZU01T1MxYlJIVWoteGUwYmhlS3Rnb1I3QUh2Rlg5azdfTkR4QQ?oc=5",
       "pubDate": "Fri, 13 Nov 2026 09:30:00 GMT",
       "description": "“Trabajamos como esclavos en este país y no nos dan seguridad”: rabia y duelo tras el derrumbe mortal en Brooklyn EL PAÍS",
       "source": "EL PAÍS",
@@ -82,49 +163,13 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Paraguay: fiscales allanan la residencia presidencial por escándalo de Ueno Bank",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY25NOUpGdU9TYmZETE0tcDBwb212Q2V3OFN5aldIT1F1czNRSlNPNTgzZGxhTmFFNEN3ekdGMGlCLVJTRUJqaHpZeHlvdW1JcVE4X01CNlJkcjdMS21TRGFXXzMxZEV1VUtiN1ZlMUZKVzhGOEYwRGFsR1dHVmw1Qi1jVDlCUF9HSXBqVHRRWkdQWkJIcDA5VE1SQ0JjSGJ2UnM0YkFBVlEyTkxVMXhFdmFfcG5LQU1u0gG4AUFVX3lxTE9YeThaUl9Cc3RWVEtUX2hsWXE2YXkyZnJReW03TnlLRG5Xbk5PV1Brd2xUUk03ZHRpWTNMakwxdzIzUFUxM2dVVTV4R0FHMUdfbWgwQXZpaEJuMHFCYzhOYzQtQVd5eGdvbGI1VWw5SW1sQ1hGZm04WVRKeHdNUVBDY0Z3dENJN2JTTE9ZbjZwYktPWFdMY2VaYnRtTmhKSTRrbnhHQkVxODM4SjExVVR1NzVseWpJM0Y?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 08:51:42 GMT",
-      "description": "Paraguay: fiscales allanan la residencia presidencial por escándalo de Ueno Bank DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPOW9tdUxWNzNrcUFpYVd6Vk5EOFhrdHFaWmpEWkw5S3pKSHJITzNDWUlxNmFCT2pYckYxUDJ5U01QRk9PelVwNXVKXzNQRlloZE9VMVN4NE9iaVR50gFiQVVfeXFMUHhNVmxwSDVqZ2FPT1NCdUNacXd1QzU4MkhzdkdhXzB3MFF1cWhTVHY2SXRJTTdJRTl2bGlyUW1OWFFnNnFvQnFEbHpQTFR6Vi1NV0liakxyX2xLSkRnbDBXVmc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 08:12:09 GMT",
-      "description": "Una falla en Microsoft deja fuera de servicio en todo el mundo el correo electrónico de Outlook y otras plataformas BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Latin Grammy 2026: estos son los ganadores de los premios de la música en los que Rosalía ganó mejor álbum y mejor canción",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xU0Q5S0VUUTNKeEpzb2lxMWtacmVuMVpxZzFQaW1oMFg1RkpYTG94d2pQd1hRcUJqQWtRZ1YxQjFXc2JDQnZYck52T2RXcHNDUnpXVjZ3TnJxcmR30gFiQVVfeXFMT0J4cXQ4UWpldTFIRHFZT09fYlhkSk9VSGFFQ2s0TGxuR0sySHVaNm5YQXlJNXVsVzVGR2RrNHNzYXFnZVlUNzhtRUZ6b19WaHBjdzJ4MUJ2M3lnbTVvOUozZGc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 07:47:53 GMT",
-      "description": "Latin Grammy 2026: estos son los ganadores de los premios de la música en los que Rosalía ganó mejor álbum y mejor canción BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Microsoft no logra recuperar la normalidad de sus servicios tras una caída global de más de 12 horas",
+      "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzgxZzlrY3EzMXNhX3BSWTB4UGpPWV9uV0FKRk40UlBFNV9GQWhXTG1raE9tNVBHcE90cU9DNnpzOU5RaWlyeTE5VjVBWEJPUFlyWVZXWE1KdnVaZFpuLU1Za3hvaGZmTTNzdEZ6TWI2WHVXcGhMRlpJd3ZKRlVTYVhNdE9IZkxfQlBxcXY0dkpSTUhYaFhJZjk1bG5oczNaNGFGY2xBZmduajlXMDlWa2RWYzRaTk9IVEQwRFVYSV9KOGhPc3A1MNIB3AFBVV95cUxOUERKQjhIcWFLcFB4TDh5ODEwMFpxRVlkcUNZNXdHbkFOX2JQcVZfdnVucGpWZE5IQngzanVvSlI0TXllWGJpakhjTHk1S3NTM0NNLWlFM1dFUkZyX2tpcXZOLXNxMXRwWFhQeHU4aU1sdlY1azVWLU9hZWVpVTZ0QXFENTBYT201bFN3M044X2ZBMEItYkpRQ3pac2hUNWM4ellKcDJBZnYxcU02dVBHYU53dUQyaTNhYk5CTUJ4N1YzUEExS3VoQU5sVEVlQ2x0VjdPSjA5ME1odXZq?oc=5",
       "pubDate": "Fri, 13 Nov 2026 07:12:34 GMT",
-      "description": "Microsoft no logra recuperar la normalidad de sus servicios tras una caída global de más de 12 horas EL PAÍS",
+      "description": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWtPRVFOY3BET2FsLXVkelVvci1sT0JmLTdYY1JSN0JsWTJHRXU5UDVPbmZpVjVpajdpMjM3WW5ocVBGaDluRWt3XzNGZGxMYVl5Z1EyYTdfM0NKemRmczJmLUNxd0wxNHBMMlpHb0ZuY2N5S2hHb29KZkxZY1A1SjhtWTZKMENqci1fa1JPVXBZZ2hON09qR285dXNaZC1aU2hTakE3a3FVSTlqNVdlVGdDRW5ueU5nenfSAboBQVVfeXFMUEpmMmhIWHhUSXpnVTEtejYtTk81TXRoVXM4Qm1Ea19FT0FDcV9XTHdZSjJ1Uml3YjBpd2tmaXdONkZXeFptUVNScVl4cjZhUnFCek9kYk96OENzaXJ5LWUwZWVCMEw3WXdwNVNma0Q1ZWs0RFM2bkJWcjFKVmFqLTByakwyZDRCSUF5Ri1xVWUzb2tINEtvNjJWV3A1VmRCMU9yTUpKXzZ0QUItYkdCNGVmalptV3ZpZnB3?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 06:00:33 GMT",
-      "description": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Todos los ganadores de los premios Latin Grammy 2026 por categorías",
@@ -136,10 +181,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUTB4S1BwUDFlbGNNTzREVXhqLUhlSmh0T0s2R1hRX0tsY1E4OGNQSFJZU2Z5eXFpN3l6aTNkc1pza2JMR0ZmV1k2aVpBZUE0cjlNcGt5SUZuNGxldnRDdzlJT215VzJQUmNsYWx6YTRSREd5LThXNnNZMzNNM1RGNzhtVjNHSXNBSGxuRHM0ZUxqUFRBUDNqaXhDZFBxWTlJWHpSRHhIWmtxZkk3dFN6alFXbUY2SlVKVTBncm5zQVdZUzZGVjYwQzM5ZXY2TkMxN3BSV3VtZzJUcGpkZjU0d3lROXJZRWVO0gH8AUFVX3lxTE5raUtSN051UWpjaFQ2emJkSktNeDAxWFBQSXcyM0U5aVdQMW85WHdCTk5NalQ5SjBaRzNTeGZBcW82WTViSVBiVEttSHZ6TXhWZzBnZHBfUnJ6cXo2OTZfa3JjeXM4aU5pX2Ixc2dBRkdxTzlpdnRONDI4aVpaUXQ5V3phRkh6UkREYm5mYUQwVWNuU1BYVFc4TV91MjJVdmIzTExmSWpvZ2pOM1NjZVI4MEpSc3J2c0U4R0dwN1M2R0p0WEo0NTB3T0VFS3hPM1V6TDFERXk3Wi1qYlRuTTNwN3hYUU44bEYxQllxbzZGdFhaTUlJT1AtWkd0Mg?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 04:45:00 GMT",
-      "description": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares EL PAÍS",
+      "title": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzJzd2FHc195dnNjaFZJYmlMWmg3UFFSd2VlM1Vndzc0RDY2U1o2UVZOSlE5Y1V5a2RlOGVWM1hQUjdBU0lyZDhqWlhnaGEyU3F3Y2VCaG0wMlVLMVZ1cDdSOUZnUnBrN3k5d2JqVzRZaFVoRmtyTk0wcnhWTmxOTndtUTNwaEtqYWlKM0xITTc4RFVxbzloNV9CeTVWRWNfNjZqb0R6Uk5NdS1tNFZybElPVnBXclpaS3AwNTdvNVRmaGdUZmdzRGtUT2xXX2gydFl5MW9EWGNOS3p4RjV5T2cwaWF4LWl0WTN3RjFsWDPSAYQCQVVfeXFMUG1rY2N1UVI4aXdEV01aMDYxMkUyWFlKYnN4cm81Mzk2akp0Q0lzWGM5Q09aVjJfcEpOUjBuNDVtdVVxVWlMdUxVeVRsUU5STHNrN3lZMXU3bE12d2ZxRXJTNDIzcm9tc1IxWnIwU1h1RUppWGhoYlY2eENSRnB5em1HdU5PZXNDWVZ6ZEY0SS0teV9zR0hMSTBRNXBYbTk2ZXNaQ1hyTnpOSUNJX0cteFlTXzRPeUpqMTJUMzZBcWtTSTVMdzEzOFo2aHMxMFhmWDhGd3p5Wmx1d1dLTnYwOTZHdG9qcEd3LTIzLXRsNF9YU0dRZVlZS1VrS05BV2ktMUNqV0c?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 05:06:34 GMT",
+      "description": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’ EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -163,10 +208,19 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Medio siglo después regresan a Guatemala los restos de Miguel Ángel Asturias",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUHBCRlBubFR0bDBOQ1pfSTVtTWtDVkhjMWVlSnlsRzVVNE9pdU43ZTU1YUt5Nkt6Mlc3TmVUREx5NW9OMjdqVC1zeDR0YlBOTEVFTU1LZ2dLOGRNRWFkSVd6dDFfenhDOVE2dkR1ckhmNjhzamx2RE1Sdk80UW1pdlUtTFBpNzRKRUVoR0psWl8tazh0bUFOSTdYazA5a0dpcjM1dUI0dzM0aGcwczlmNTNyLWlydHYtR2Fj0gG7AUFVX3lxTE9kMS1zQjZnR3hEWDJCR1ZHVHZRQ2NrQlRmcEswcldocTJ5cEZubzRFcUd0aUlTN09KTXYya3p1bGJIdlZVQlA3a3dSNjlidEVzT0NJQXdPYWNOQ1lEdHl4ZEhiZVduaEtBNkVzN096c0I5R2JjVlctUDFzdEo5QVdJYnYzSl9qUEVwdGZSMHFiY2w2UHZVbFI5RWJLQklSWk1tSURSdDJYcWtUdGhpdDVSUVlwVUU2U3diR28?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 03:08:53 GMT",
-      "description": "Medio siglo después regresan a Guatemala los restos de Miguel Ángel Asturias DW.com",
+      "title": "Fuerzas de Haití recuperan estadio bajo control de pandilleros",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzJzOVBXaHhBSWJHc1N0amQ5TklSdE4wYXc2QlVnVHJOTk5fMzlRZjJrV3FtbUJfNEsyN0dNUDhKLVZoVDlXN09ZaVFRNXJiZnVrNVpwVEJBZnpxRVFRcmU3dXpMQVkyT01zZlhReFl2Z0RJTHpuZTM1MHQ1bzBfZHpvUmh4Q0RQLWdGSzlBQTU4eUY5c3JDOUIza2ZMdl9USkHSAaIBQVVfeXFMUDM1cUVfakhRY3B2d21Oczk0Z1R2TkNJeVNJVTM4a1Jza1hjRUZxUm5OeHF5alZJdFJJTnBBSDd3SWctb280akpiMVhwWjhYVmdKdzcwV0hnYlo2dkNLRTNCRkJrQVJZa1h4Vnl4U1drVF81czQzTmg4R3Y2M3FGMmdDaG0tSDhqS3Z6WDZGNXZCdlNkenVJNEJUYUNRVEUxRjJn?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 02:47:19 GMT",
+      "description": "Fuerzas de Haití recuperan estadio bajo control de pandilleros DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El papa León XIV se reúne con víctimas de \"abusos\" de Iglesia en Perú",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXdLd1Qxd2pDd3JGUklKRkl3d09rNVR6U1IydXE3YWhuSG42X1lPcThuQU9odVc4SXVvdERDUk9Ic3dzYlhlZGJzdXZzeERTZGNfUC0wMElkazRBVERNY2E0ZnhtbFo3T3g4LWYwemRNRTNDUEVYSW5pazM4VlBaUmJBTUUyNWJUb3E2ejJ2QkpuSXJIZGFfWDJfUEpCRkRuWTd6NWFnajhrcDJTM0lPVFBnSnNKQURUdDdrUtIBvAFBVV95cUxPTXlMTDZ5Sl9OYUE2bmlOY1poWXFiNFZwaTdCMnZja0RVelJQOHViWl9GVXFEalBPUjBJWk90TTIyajJLQmp5ckk0M1ZQckVvNVdDZ19JblBTTjlGU2o0UnFDUVFJVExDc3B0Y0VQc0dPTjF4dGxKMlVlZjN4NEFkUDlCUTJ3VlJIaFpyOXM5TGVzWTRmcnh1NDBxSEgtYTBkLVowY1laeUhDN1NHbnY1T1c5djRQaG5NNUE2NA?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 02:06:41 GMT",
+      "description": "El papa León XIV se reúne con víctimas de \"abusos\" de Iglesia en Perú DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -190,6 +244,15 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Zelenski celebra participación de la Unión Europea en las negociaciones por la paz en Ucrania",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmV5N0pKbm1uNVpUV1pFMEZhZURObXdNZ2JWc2p5Vk9YaS1JX0tjYXR5N1R5dHo5d2o1N21qeUo5azl1MU00QmVTVVF3bnc2SjdlNF84N2ZSOGMxdWlxZElwMHZ3emtid0dTV21vMTMyWGxkMUowRVdueDR3c2k5aTJjZm5BcWR2bVlzYWVyMG1rQlZaUFpNeDJNVTU2NVhJRnNsd0NmdzIwMjYzTmlNYTFoZUVZRDJYU01vazBycklrZDc2eDFwUU9uNVNhcVJxNWfSAdIBQVVfeXFMUGhhaFBRVDBFaVZLRkdKY3M5Z3RjQlI4dW5kd3luVTA4c3B2S2FRZUtWUXpMY3JJOXNtTTlTb3g4dFRDTHlEOEhxaXNwZmFnSnliYWNwYWlFUk9ka3dLNTVrb3NCdzVxWVJPRlNaeW5MRlZkT0ZPekJYRnhfeFJ3YURqZVozeEVaTHIwNTFkaWlVVXY1OFFlUnhEN3UyOVZUZ1JRamhPMHdoTkktdGM0MnZRbGJGSjVod1ZZYmk1akhoRllvNEdRSm5SWEIxekxscEdn?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 00:19:16 GMT",
+      "description": "Zelenski celebra participación de la Unión Europea en las negociaciones por la paz en Ucrania DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Encuentran a un adolescente seis días después de su desaparición",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3MzdlZFOWEzMnNIbnpjVmVaZDNraWoyN3VWbzF4VVdQT2dRWmJEZEgtSnBCQUZLbWtIbENzVjdqZV8xWHBoVVhZMDN0d0tWNTg0eUIwWEczUzJvS2NwV3dJSWItQlRYUTBjVEVDMkhBTDkzVVFTQnptODFQbngwRzFsck5HNmJyVzNrQVZEMkdZOXM?oc=5",
       "pubDate": "Fri, 13 Nov 2026 00:15:11 GMT",
@@ -197,15 +260,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Verificación: No hay registro de iniciativa para reducir tarifa del transporte a personas trans en Jalisco",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmg0amNJWHBPSzdGdlllVDdSOG9yNTNDT1pRbXNSOTNKUzhrS21KYVExYUJaUmRYWWxhcmJ0TnlXdF9ORzljLVhaWnJIOHZ2cFgweE5Xay12UV9vbUpkZlRuRUJDZGlIWVRTMEEyWWVjTFo0RDVPeE1YajJQTVM0U1MyZm9GV1c2?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 23:01:12 GMT",
-      "description": "Verificación: No hay registro de iniciativa para reducir tarifa del transporte a personas trans en Jalisco Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Verificación: El presidente argentino Milei saludó al papa León al término de discurso",
@@ -217,31 +271,13 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Trump amenaza con duplicar aranceles a importaciones de México si no frena la migración: claves de la caravana rumbo a EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXZXOEttcmVacFo2RUJGWmd2TmNXYWg4QUVzN0w0eUFmNDRURGh3YkNOTER4eHI2TnlsYW4zdEZPNndfNUZwMlB5UTBmdVlXOWZRU0dHTlJYQ0w1SUkxd3VJbDg0Q2ktSDdMQlpXVkM2dGxtd1lzQnM5eEFJUHlVdWppYzZFNklyX3hFSUVkaFZhV3RfR3RiMnZnNHlObWxBbEtOS2lrRHVhdw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 21:18:00 GMT",
-      "description": "Trump amenaza con duplicar aranceles a importaciones de México si no frena la migración: claves de la caravana rumbo a EE.UU. CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHVidzM1Y2Vsc09UMW9iRVNoREF4eTFIWGYxSGZ1MFk2akIwTUM5Wm9vd1JTZUpaV1JBbWZValU0eWVDUjZaU0tJRmZsZE9uYTZ1MFFkS0VLV1hIaVRkR0E5QXFMdTBWdGtaLVZSb0Z4NXpBWWtzZFUtWEtvd0liWVh3aEFFR1d0cGZFbExRa29fZ3pZb0VtLXFaVmF4aU9tV2g3MlY5V1ZpQdIBqgFBVV95cUxOTWRYUTk3ZWdYNXVfY3BQVGZ0aDFPSkxpMHRjdmdLelZEVTg4N3RsbDFnZm43VzlESEdrY2I0Z3EyYVpoRk5LWG5Ic1hDYUVUYXZ4R3A0SUo5ZjRveTI4NUJ5Mm0xamNOOEUtd3lCN2RpYWJOS0tPYk9RMkN6ZEtYOHl4blJadThyZEx2cXljQW5QczU2TlBVZTFRSkF6LVB3eWxRRzlwdTFidw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 21:16:46 GMT",
+      "pubDate": "Thu, 12 Nov 2026 21:26:49 GMT",
       "description": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YWVB6TDNJX0taZ1VIWEF4VFdXYXNrMEpTbmlTX1RGaGJpOVp2aUp5R1VnVGV3WkZEb01lTDV4d2k2UUF2eHc3MkFuSjdvazdfMl9YLTBud29mRl820gFiQVVfeXFMT1ZOSnV1dlpVMWJuMG1FTkJ4cjZMVlMwalFzVmJSdC1uY0RXdGN1SVo2WkdMY080Rm95aXl3MmdTNDk4RGE0MHJSdmdsLW1pRmk1RVpORFphd0FNSTRGUmpCNlE?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 20:23:59 GMT",
-      "description": "En Video: el momento del rescate con vida de un adolescente en Australia que estuvo 6 días perdido en un bosque BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Microsoft sufre una caída masiva de sus servicios Outlook, Teams y 365: esto se sabe",
@@ -253,13 +289,22 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UZWhiTGZTdlpvMjVnaHA0TmdpWGJ4azMwWUVsZHVCMWpFVHpFbFZFOWpuLW9KUmVMQnJ6NWdJenVlYktub3E4Y19rNlV4RUdBbkFBZUp4aWlHSk1J0gFiQVVfeXFMT29fRG05MFg1NW1kMi1XOUFVVGl0Ym13eF8tMkFmRmdKMzhGNkpleHl2eFpLeVhUeDV0QTVVdU9GLXlxcFpzVHVzT282SDk1cHVId25yYnlKY1htUldyeHFyY2c?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 19:16:57 GMT",
-      "description": "Trump amenaza a México con duplicar aranceles si no detiene las caravanas de migrantes con destino a la frontera BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVQxR0ZfY2dtMzlBMHpIMUNFSlZnMV9wZHdfRzUtRU9jWGFYV2pqQ0NnTUlaSlhoMnoxcUVTQ1o0bHlzUTRzTlBqRWFZdXFfTmtxVEpBWV9iczBwcUtiamppbWJ1clgxT2Q1U2d1TmtMa0dVNHpUQUtxT2FTUHdJbG5PMDRYN0ItcWtIQkd4MXVMRTQwVW52SWdZZXBQZV94Q2ZJQ1RDanJJNThVTEUzdURVcVpVOHBkZWs1TWNyc0pFa3h0eXpBYTB1a09tUnVEMWpGVUl5RdIB1wFBVV95cUxPT3YwaGFRR25nRTJMVnBDbkx1emk4d3JmV082bndZRmF6RUFTZ2ZaQ2V3Q192NUxzSzlHemtzb0RncWx4b3l5RXRwR2M1NC01djNFVl8zck1yel9zU3l1UHpQamtGaEVmT0VJa2QzbGpYcXYtQzRDcXFLMHo5UHNaQkVCZy1IRm13MUpSaElOZF9lSy1vd0hMUXFGTFBHX21oTGt5ME91SElQRzNDNWtHODBacjhialVXdEZUZFVEbVg0MjRVOVdxaEU1RC1BM1ZRTWJrVk1UUQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 18:59:07 GMT",
+      "description": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWtPRVFOY3BET2FsLXVkelVvci1sT0JmLTdYY1JSN0JsWTJHRXU5UDVPbmZpVjVpajdpMjM3WW5ocVBGaDluRWt3XzNGZGxMYVl5Z1EyYTdfM0NKemRmczJmLUNxd0wxNHBMMlpHb0ZuY2N5S2hHb29KZkxZY1A1SjhtWTZKMENqci1fa1JPVXBZZ2hON09qR285dXNaZC1aU2hTakE3a3FVSTlqNVdlVGdDRW5ueU5nenfSAboBQVVfeXFMUEpmMmhIWHhUSXpnVTEtejYtTk81TXRoVXM4Qm1Ea19FT0FDcV9XTHdZSjJ1Uml3YjBpd2tmaXdONkZXeFptUVNScVl4cjZhUnFCek9kYk96OENzaXJ5LWUwZWVCMEw3WXdwNVNma0Q1ZWs0RFM2bkJWcjFKVmFqLTByakwyZDRCSUF5Ri1xVWUzb2tINEtvNjJWV3A1VmRCMU9yTUpKXzZ0QUItYkdCNGVmalptV3ZpZnB3?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 18:54:07 GMT",
+      "description": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Una caída de Microsoft 365 tumba el correo corporativo a usuarios de todo el mundo",
@@ -280,33 +325,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Sheinbaum y Pedro Sánchez resaltan en una videollamada “la etapa renovada” de la relación bilateral",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQzRqdkV5TEtEUE0tNF9BTkNPSVRQSE5yb0JPNEVnZ2ZEQU0zVFRIdUtDb2NJUUNQQVowNE5MSFNRUmNDNFpiYkxoWTJ5bm1XYkNoVG55U3c4OUdfOXIwRVEwbXFFOTFSR1p5S2Z0YldFRGxrNlRWZUk4UEl1SEtKRjdUMW5MeHNZQ05wb1NjY1c1VC1fSkZqZm4wS21nWWtmQm440gG3AUFVX3lxTE90TndiQm1UQV9OWlBRRXBIRzY5UUhxUnhsWEJBclJjUkxTd29WSnhnOUZzTktJVXlLV3BfWlFsT29KWFkycDRyY2p3bHFZNV8tN0pJLU02RjVja0gwZnZfZWlOd1pkdmJodFVGN1NPQWdWVnNfTHpyaXVTb3lQVk5jRXFRWEJPYWFveFdSNklheUE5RDdMaUxTNFhOWFdyUTVjTmxPMC1ST0V3VERfZ3ZqcGdCVDdpdw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:01:37 GMT",
-      "description": "Sheinbaum y Pedro Sánchez resaltan en una videollamada “la etapa renovada” de la relación bilateral EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "China apostó por el petróleo de Venezuela. Tras el acuerdo de Caracas y Washington, ahora enfrenta la factura de esa jugada",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWttM2c3UDRvaTRXQjVHZzg4NnpnRlp4OU11SkpRNTN5WU5Way1YZkZ5ODhtaGpBa1BJSXhiOXE0WlhsRlBRUkJKVW1FdE9ETHNtUVQ1RUlGcm1NZloyWEVoZWZqdkxUaFh2UEQ0dldDSHF3MW5Kb2t4RFoxZzJ2TVNXS04wYU9sN3c?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 15:15:00 GMT",
-      "description": "China apostó por el petróleo de Venezuela. Tras el acuerdo de Caracas y Washington, ahora enfrenta la factura de esa jugada CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEdwVi1oRlJzZTU0NGF1TGhWdEVQV3d2OGJidXdPYlMzR0Y3Y0RmZ0taeEZaMUNzNHhmRWV5dmo4NTNydG5wUmNHckF4MEpZNU1XLUpuSjY0bkV5dUlhOS1CNjZYQWxLc25MSWFYb2RpT2FXcEthS1hrdjRrbGd3Qmhib3U2Vko3VEZUallNNmhwd9IBkgFBVV95cUxNaXJrbXR4VHVzaGl5djg5a0lEWDNTUzNWX2pGNDlCZHZ3ZGNmaHp2am9DTldMUTVXZzRRMmlmaENwTDdfUkdZbTJtZDg2czJXaENZWkthS2VfbHpJb2JXNXp1aThNVS12eEMxWmdGeXo2QzhUR2RZRGZZckFKb1BkNHlNb21jYWNUOVVVMDVmeDJYUQ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 14:25:29 GMT",
-      "description": "Jensen Huang abandona Nvidia en plena polémica y desata incertidumbre sobre el futuro de la IA DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Acorralado por el escándalo que puso en alerta a Washington, Jensen Huang renuncia como CEO de Nvidia",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSHI2b0t0NjFhdzVvUFF1R25hb05tZ2g5NkV0N2NnNC0zOGV0VmgtNXFkdFkzUS04YkE4QjBXcEVCNzhGSlAxTjVQTmhHdjZOeG9UWWp6SnpmUmVFZ0tSZzk2eFBNY2l4bFoxMDVwZVUwWVk1OEl0anFjVS1xeUs2anJXVURpMldsZjBHcVBCN0F1UEFxZ1JtNjJMMDkyMUsxWkRIVTNzR3VwUDBvd011bklDRHpveTkyVXM2c2FpM29oRm9zWWZWUlZ0MC00SU40UkxDRENYSnlMb1J5cko0M2tDbnh1OTg?oc=5",
       "pubDate": "Thu, 12 Nov 2026 14:13:05 GMT",
@@ -314,24 +332,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "\"Le pedí al 'joven padre Robert' que fuera el padrino de mi hija en Perú. 30 años después se convirtió en el papa León XIV\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PU3pNYlNqeTFCOWF1OU9fZkZoZHozMHFKSTJKVUdPSlJhbTdGUUJIMHdhNnRYNjBCNDdZYVNGWTd4V1NyZVpFUnRPeDVsb3BOeXA3MkRRaklTXzJw0gFiQVVfeXFMTVYwTkR4bktaTmtIcElsRGxDc18xSHNjZzlFTjEzWmFVQ3pHY1c1QWhUQXNIRFRseXkycm9oNnZRcjRVZi1ONkRyRFpUa2lDWTl6bTJ5bllYTlpZTWlTSTh2R1E?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 13:52:44 GMT",
-      "description": "\"Le pedí al 'joven padre Robert' que fuera el padrino de mi hija en Perú. 30 años después se convirtió en el papa León XIV\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjR4N3NycjZmVmlBdHpZYXEzdUdrRGVmd2FJTFI2b1lvTWV5VlJyY3FMY1FmU1Y5V2lzNEF1MmZOMzcwWU42bUtkVXFBSDVPNzhLNkZqN3IyMGRMcWZhTFBTZXpFTnZBWWJLeDhqSkxFZ0NMYU5TaFJZWVppYUtJaFd0VXU3Sm10YXY5WGswb0hmYklha0xOdUZuaXhpblQ5VHY3R1UwQ2haOHVhdmFJM0J1V0hiZmFjZ3ctSTFrNnZ0dnE1N3fSAcYBQVVfeXFMT2xLbmZZdmVQdjQwNnlxbFlJOGhtRS1UYVJNRWlSU3B1NlhQdUZQTnFPSTgtNVVGbmdtWlBoa2ZnYjhSSzNHM0laNE51bVRzNER1UjIxQXBmUGd4T2ZveHdURlpmNVlIUHNtdWZnRUdSMXNzR2JSaEluNVA3SVJBejB4dnJ0SkkyNGVuelN0bWR3aGI4MFNtRTNKcl9vNmpiVm16U052UmFCcjVraHF0LThLQkRpMGNJdUNubmVBeXJrcE41TEJB?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 00:43:38 GMT",
-      "description": "Demócratas conquistan Misisipi y amplían mayoría en el Senado de Estados Unidos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "El 'ministerio del Noviazgo' en Brasil: Lula y su promesa de que todo el mundo va a tener pareja",
@@ -370,10 +370,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "¿Quién es la mujer del escándalo de espionaje de China al CEO de Nvidia?",
+      "title": "La mujer en el centro del escándalo de espionaje de Nvidia",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHE1YVJZZGtGUjJ2MjRuQWlLMkdfNHdESWU3bElGZ1pGVk9RZllxWmplRi1xbzdvNE9KWlIzY3JmODlRMnpIbVVsRXpDclR3NDlHcjhJcXZrdFpKXy1tWG95YlkzTHIxMkdlVlU3UzV3dHZTZWxvY0ptX2pfSjUyUFpNa2NGZHVkSGdpM3dYR1hhV1FSbUs3THJWVWI?oc=5",
       "pubDate": "Wed, 11 Nov 2026 00:52:51 GMT",
-      "description": "¿Quién es la mujer del escándalo de espionaje de China al CEO de Nvidia? The New York Times",
+      "description": "La mujer en el centro del escándalo de espionaje de Nvidia The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
@@ -451,15 +451,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "https://apnews.com/ap-sitemap-202411.2.xml",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TU0J0VkZjSGlFMm1tWjhPUXZVTkVTcmZhZnUtRXlfcmpQSkZROUR1V2RMbFlYRzdkTmtXVW1YclBKY0NUNjRoRXFlNjRVVU9fUDJFSA?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 03:09:32 GMT",
-      "description": "https://apnews.com/ap-sitemap-202411.2.xml AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "Autoridades mexicanas ubican a un alcalde de Tamaulipas luego de varias horas secuestrado",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjdxZWdRTml1QlhZV0pldUxmUnY1MHVmdTE3R2k5ZlRYNzlpcXI4S2ExakVFN240UVFxbzRldVk5MzJSQTJQWE9NT0lzV1BYWHBLbktMUmF1cktCM28yRWM0cnp5SHBnUV9uZWFGam8zY2UxMC1IWUZoSDZKVnlJUnVmX2VMRmVfYjFmV1hjanY2VTZqTXpFVldiLVVmd1k4Q2QzQ1hXQQ?oc=5",
       "pubDate": "Sun, 08 Nov 2026 21:50:00 GMT",
@@ -491,6 +482,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
       "pubDate": "Fri, 06 Nov 2026 14:44:58 GMT",
       "description": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "description": "Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
