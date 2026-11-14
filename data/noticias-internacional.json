@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:03:01.033Z",
+  "updatedAt": "2026-11-14T03:47:19.024Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,10 +64,145 @@
   ],
   "items": [
     {
-      "title": "La ciudad con la mayor fábrica de autos eléctricos chinos de América Latina",
+      "title": "Autoridades aeronáuticas de EEUU autorizan reanudar los despegues en el país",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQk9KQWk5b19iZ1dPTzl3S2dYQ3V5MEx1elZnY01BRGMyNW9ZLUJnVW9jS1h3TFFpRUp0TW00ZUNBLXNNRm1HMGMyYWJNbm5pc0stX2FZd3lEZ3ZhM3RNeUYyejdLd25IV2hUazIzN0ZsNXpxNkk2dDFTek9ENER4TU9MYzZocFkzQlRwS1FPenRGLWpYRnAtSGdqWQ?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 03:08:00 GMT",
+      "description": "Autoridades aeronáuticas de EEUU autorizan reanudar los despegues en el país AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "La autoridad de aviación de EE.UU. ordena suspender los vuelos en todo el país \"por circunstancias extraordinarias\" relacionadas con las comunicaciones",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tdmJQSkswVFRaRE1oNUhOc09qQWFRM3JWUVp6cE01N2p6M1JweDlRNERaR1pNcHlqcUxXa0w4WnlTczhBUG9KdTNaTUVWczhvbEtZV2FCSVY0ODBT0gFiQVVfeXFMT1BVWUEyR0hxazIxNy1QTnZIdFpFdWhVM21GeGkySzc0ZmhQTklJWUhEbnJEb1RHcS1VTjlReXYtd1JtTkZMWEEyaHhuNWxfZC1BaTJSaldfdzlCaXJ5Wi15RUE?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 00:47:08 GMT",
+      "description": "La autoridad de aviación de EE.UU. ordena suspender los vuelos en todo el país \"por circunstancias extraordinarias\" relacionadas con las comunicaciones BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Choque de un buque cisterna con un crucero fluvial deja al menos 32 heridos cerca del Puerto de Nueva Orleans",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLUR4WUZZVWtoMHdUVDdNZldoNGFSYldrZFJjcU5Cbng2aWhCQ1lzOVJ1NFd4TjFUa01PYk1OREYxbHNUcFdqTi1KQ1dvdVdGVXRWWThJMEl5UW1USEFJem14ckNVVWwySUJybDhhLXJsN3ZqY2R0YXMxOTBDWmpsbGx6alIxRGkzd1VtdnhKTDU5T1hqUnlMUUdhWTlfakk?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 00:37:00 GMT",
+      "description": "Choque de un buque cisterna con un crucero fluvial deja al menos 32 heridos cerca del Puerto de Nueva Orleans CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "La Fuerza Aérea de EE.UU. responde a una presunta actividad de drones sobre una base aérea en el Reino Unido",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkJ3VmMxUUd2Vlp6TTFzclFoMkFYVEFMdTNybDFZRUtzVXdIZ2swY3ZPeFFpMGc1cXNRRWRSZFNmdmJ0UTlVN2kxQ3RHRjluVGJ3WXVFTGdGSFAwUUhHejlkanVYUkRrN2lKZ3FGcU9fTDh1aWZRek53NmdCcWxPeWthY1hySk1Mc2pLQkp3VEtncjgxcGtlekxVMDdTQmM?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 23:43:00 GMT",
+      "description": "La Fuerza Aérea de EE.UU. responde a una presunta actividad de drones sobre una base aérea en el Reino Unido CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "FAA ordena la suspensión nacional de vuelos en EE.UU. debido a “circunstancias extraordinarias” y por seguridad",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjBYbGRaZndzUHNacFZHZlVJbkZ5cXFGZjJfU1ZRTGMyTEo4X3VUdTBaOURUOWxGd0gtX3dBTi13QktPYWRxTl9kb3BRYVUya081QkVJRFdOM0daeWI3cTMyZnlTTUVzNEViTGpnM0JBVjlqV3JoUEd1R2FqV3NHbDZBOF80dmFndE56eDQtcHZINnY2ZURWOGN3WjFMcGVQOHRN?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 23:33:00 GMT",
+      "description": "FAA ordena la suspensión nacional de vuelos en EE.UU. debido a “circunstancias extraordinarias” y por seguridad CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Rescatan a decenas de pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ycFVjNDNkd0VOSjFQRVJ6X053Uk5zUnRTaXFwZUtZYVNZaVR0TmdaNXZTdkhYS3FnRVgtOWdkeWxXU1drOUJaajlzNjhQbFRaOEhuSUFxQXdkbzVn0gFiQVVfeXFMTmFpNnB3Y1NRRWZrRTh0MF8zM3Y2N0J6RHF0VjhZMzk4QnpIdHZKNVlXUm53RGxMOU1zbktCOGpzMDQtVjlwbWx2el9SWHBZRk1JNkRWeTk5Tjc4QTlCRE1LLUE?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 23:02:09 GMT",
+      "description": "Rescatan a decenas de pasajeros de un crucero que volcó en Nueva Orleans tras ser embestido por un buque cisterna BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Qué se sabe sobre la falla global que afectó a Outlook y otros servicios de Microsoft",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUlliTGZ4Y2FSaFV2NUhjOC1VUG0xWXc2am5JMGphZDI3aTRLaTBjTURpaHg1ZUVxWl9aVjAxWGRLdW90TldmR0l3eXBnanl3eHpndHdEZm1qVE1E0gFiQVVfeXFMTjI5dHZTQ1lZMDdqRlRiVXVUS2NIdmFSbVIwb0dzeFVlbjZVWllaa01XMlZXbjBVR1MwSXlVeDZ3aHhOUjVmbzZmaUVfRy12QlZUZXkxaUpKNU9UcFpfSVdVM3c?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 23:02:09 GMT",
+      "description": "Qué se sabe sobre la falla global que afectó a Outlook y otros servicios de Microsoft BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Miles de vuelos afectados en EE.UU. por problema en centros de control",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkktWW9UYjFrSUFGTXR4eUZsbUg2N1hPNFBjREpwRkFYcVdJRVVOWGFvMHZDcWg4YndrZ0U1WXVjRi1nN2lTdlU4Y0swTkVyc0dycjZUckhmVnE3eTdSMlNSdlZOdldDb2hWQm1iYi1uOFF1N3gwaWpXaHgybGZWTlhRYjUzYjJrejJxTGhOZE8teUp5TVhaVTVQNGRxd1dhSF85am9wX2wxSnV3Tk9lQtIBsAFBVV95cUxQdFhvYkhTcXBpc2JQZE9JV21sR19LUkt0NXFtZ3psV0k1OFNxUFg5eExWMnl1Ykk1MFRHV1BMMms0N2p3RVNBMVQyYUtHOHFJVUJsNFphbU1sNFFrMjBYeUlQYjVhMklZNEIwUjdtYWFibS01Y2plUl9tU05mNG5XbGoxZElmdFFDNzVLb1hHZ2RSako0MlQtcEJIVm5CeEctYVVHd0lXd3V6SnREU194Xw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 22:44:51 GMT",
+      "description": "Miles de vuelos afectados en EE.UU. por problema en centros de control DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Así está el aeropuerto de Miami tras la suspensión de vuelos en todo Estados Unidos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS3p2eTZJLTdmaFBEQ3VjdUNoWU1lS3JsalA4Vng3a1FuNHBuZzdyVW0yUnVzaThRbUpIYnViTG9JZFVpa09YNmpBc28tcFVncWJnSE5Sdkt4aUM5cFR3bkpQTDh6NUVScTB3elVzdzNqQWJuQ21fajNFVDl2cEVWNlRkakZXbUNCWVRSQmE4Mm9QMDRvTW13ME5RVk8?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 22:41:13 GMT",
+      "description": "Así está el aeropuerto de Miami tras la suspensión de vuelos en todo Estados Unidos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Estados Unidos suspende todos los vuelos nacionales: esto es lo que sabemos",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbkVWQXU1dDJBNndnRDhFb2dQbEdEZWNaN3hyWEhoQVFVWUNHdTUyMFNheVRFdS14WEh5bTVqc3dFdTd1RFB2ZEpYWE9ic0ROLW1QMUVSY1FLeVlfWkp2VkNTU0IzZUEtWW5jY2ExRVF1MlhhdEUxbGVTNFlFN190UTQ1VkN5MUxYRHc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 21:56:01 GMT",
+      "description": "Estados Unidos suspende todos los vuelos nacionales: esto es lo que sabemos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Jensen Huang: Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxVUdHQ0s2VW9OTVVuWVJOaVpXODY2ZktJcGZuR2JwZkFWeHhVX0NneGtkUUVYeEhqQW9Id05UcmF3ZWwxa0F5clBFcDdvR2U0MmdlVXhBVlJGSktM0gFiQVVfeXFMUEluZmxlT3ZoN2NCU2FBdERMeUN3c1J4WkxFNWJBUHJhMzdGUFQ3ZVFjUDVuS0Fnb0dCNGU3MWx1OFhjRXdPbWtTTFVCU0RnX04zb0owR2Fmb0xMeVQ1QWJKSWc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 21:48:46 GMT",
+      "description": "Jensen Huang: Cómo el escándalo sexual del gigante tecnológico Nvidia está salpicando a la Casa Blanca BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Foreign investors head to Caracas amid political transition in Venezuela, US",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUVuQ2FwS09FalhDTXhjMVU0V3dlUGU5NFpGUFJrRmJuUGxwWGNIUE9RX3BtdDF1dnV3MU5GcG1qak9NVEVreUVyZ1hPbnNKWV9BSERYTlRSXzB0S1JrcjNlM2dqcENSZVpCbDQ0TFFVcXA5WE1mQzBZWkE4N1kxZXd3T2tUcE5qZ0pwQ1VWNmVoRlVIYWhZLVZhS0JjT3BIMTN6M1FlbmJSR094dnRpVG13cmxmcy1WYW5sTg?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 20:05:43 GMT",
+      "description": "Foreign investors head to Caracas amid political transition in Venezuela, US Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2VUSmR6ZFctcGtXV3FWaGhJMnJKMmwySk9FT1NBRExhVjkzSVAtcVRCLTZPVW92X29iNFRtUW5Eb3dNTDl6bVBoUFF4TFdmQldtUkNObnE4cF8xYzNJdWllZVVhY21VX3kza2p6Z2t6NWxXWGNLdmlTUXE5WFFkWTJnVzJZM2FJbjlEZExoWE1iSDhGRG5KbWhGNFVKZjJOeW83WjZBSzlidW9hMnVWSHZDRETSAcgBQVVfeXFMUF8yVTV1SFFrbTQ5Sm5IZW1XbkZWdHBYcC1HVncxVXFseWpLOTFTRHBiV1p3TElYS0xYUWc5X2Q4Mzd0WDJKbERlMWQ2UklyZ19GMnhOMVQ1MXl1M0ROeTFiV2szbXM4bUNDTVJWWTZBeExleUx0WlcyWXpGRUE1cEhlYmVjR0NFSkFOMFMzU0k5R2tGaDdweGRMc3pUdWltc1JtLWNnYWY3YnBJNFE1V2JBRzhzdGpmRHluT0M3SGhmVERrNnJYVGM?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 20:04:51 GMT",
+      "description": "Rescatan a 180 personas tras el choque de un buque y un crucero en el río Misisipi a la altura de Nueva Orleans EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVQxR0ZfY2dtMzlBMHpIMUNFSlZnMV9wZHdfRzUtRU9jWGFYV2pqQ0NnTUlaSlhoMnoxcUVTQ1o0bHlzUTRzTlBqRWFZdXFfTmtxVEpBWV9iczBwcUtiamppbWJ1clgxT2Q1U2d1TmtMa0dVNHpUQUtxT2FTUHdJbG5PMDRYN0ItcWtIQkd4MXVMRTQwVW52SWdZZXBQZV94Q2ZJQ1RDanJJNThVTEUzdURVcVpVOHBkZWs1TWNyc0pFa3h0eXpBYTB1a09tUnVEMWpGVUl5RdIB1wFBVV95cUxPT3YwaGFRR25nRTJMVnBDbkx1emk4d3JmV082bndZRmF6RUFTZ2ZaQ2V3Q192NUxzSzlHemtzb0RncWx4b3l5RXRwR2M1NC01djNFVl8zck1yel9zU3l1UHpQamtGaEVmT0VJa2QzbGpYcXYtQzRDcXFLMHo5UHNaQkVCZy1IRm13MUpSaElOZF9lSy1vd0hMUXFGTFBHX21oTGt5ME91SElQRzNDNWtHODBacjhialVXdEZUZFVEbVg0MjRVOVdxaEU1RC1BM1ZRTWJrVk1UUQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 20:00:31 GMT",
+      "description": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Sentarse o quedarse de pie ante el inodoro importa más (o menos) de lo que creías",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnh5blo5TTQ1NEl1cmk4dFIxMWdDR2dqSnJZMnQ1R3ZDUkJVWm54RVZKOHdRUHdFajVoeUxwWWtPNEFlSzJfUTl1T3pfNVYyQXFqbkd1QXE0OF9oZXpnRlYteDZvQ3g0YmF1WHFPcEJhMTJnTWNXaW1uLXVoaDQ1aFJnbTFrWmhJR3NWMjFQRVdWRzJsbWtfcFJzd25pUVdUTGFDNUh5LUhmeC1OZDFzQkgxeS1xaDhJMndVRDJZNW5wSlHSAcMBQVVfeXFMUDdDOGxIVnBtUVBPUml3N1FHQ3dnT01fazFGRUk0NExZNmE4cU8tZFE2NmlVVXVyVUVKZXI2c25jeEo1c2UwejJRMjJuLWtmaFlLZlg2UE43ZDNxVVVzN2ZoSFB0NldSSjIyRGwyTUxWZktYX2hDT3hGT183RURzZ2VKOEZQazhwOWVONmtpTkY4SlFEUEVBMFM2UEozeklXYVdEN1VaNzhISXhqRHZPVTlZdVQ1dDVkUWZDWFVuVnZNdnBB?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 19:34:10 GMT",
+      "description": "Sentarse o quedarse de pie ante el inodoro importa más (o menos) de lo que creías DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yRDFESTlsTWFkcFB3OGtCNXhRZDJNbDVMVHJQSHZWMFVrZzFhbXc0eGFjdlJlUlJOenU2Y3JKQ1h0Q1dFQ095QzBTSnExbGl4TV9TZ1JEMmE?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 17:07:53 GMT",
-      "description": "La ciudad con la mayor fábrica de autos eléctricos chinos de América Latina BBC",
+      "pubDate": "Fri, 13 Nov 2026 17:18:03 GMT",
+      "description": "Camaçari, la ciudad que se transformó con la mayor fábrica de autos chinos de América Latina BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -80,24 +215,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Qué se sabe sobre la falla global que afecta Outlook y otros servicios de Microsoft",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPUlliTGZ4Y2FSaFV2NUhjOC1VUG0xWXc2am5JMGphZDI3aTRLaTBjTURpaHg1ZUVxWl9aVjAxWGRLdW90TldmR0l3eXBnanl3eHpndHdEZm1qVE1E0gFiQVVfeXFMTjI5dHZTQ1lZMDdqRlRiVXVUS2NIdmFSbVIwb0dzeFVlbjZVWllaa01XMlZXbjBVR1MwSXlVeDZ3aHhOUjVmbzZmaUVfRy12QlZUZXkxaUpKNU9UcFpfSVdVM3c?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 16:22:09 GMT",
-      "description": "Qué se sabe sobre la falla global que afecta Outlook y otros servicios de Microsoft BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "J. D. Vance, quien alguna vez fue considerado el heredero natural de Trump, reconsidera su futuro político",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnFhZHVnMW9uVWtqS0U1RlRuZjNtS1BoaEpRcHp0TVIwZzhBWDlucGt3M2wwWV9xdXVkcUdrSEtTVjJZbXlrZXp4NHVVaGx5UkVkOVJOUjBiVzBvTDcwT2p5OENkeXVZaVNyNFRqOU83VmtJOHJiS0xJR2JVRjdjSmpYNEc3WVNuQnZVUQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 15:53:00 GMT",
-      "description": "J. D. Vance, quien alguna vez fue considerado el heredero natural de Trump, reconsidera su futuro político CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Irán ataca una instalación militar de EE.UU. en el Golfo por primera vez en dos meses",
@@ -118,22 +235,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94ZTRGM1U1dllYVXlUUWhsRlptQzg0eFpxdmNwZzEzQTB6Smx0dk83M3dKSU1iQkFoWE1meDMtdndUbzBJekFzMVF1cmlod1oyOFJ3TjRxVlB4NEpq0gFiQVVfeXFMTkRZMVR6NjVzMkZDclduSFo4Yzk4SkJweUgtWFlGVnVud1k2SDV0RDZMbm45aDFaOUIzNkVwQ0QySDcyS2p5OF9NNzBVTHF6cUdwRndRbTlJVTA3Yko5MGh0WXc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 12:32:21 GMT",
-      "description": "\"Seguí a 5 familias durante 14 años para retratar cómo se vive la pobreza extrema en Colombia y por qué solo algunos logramos salir de ella\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "En momentos de preocupación por esta tecnología: la UE celebra su primera cumbre sobre IA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3NMYWg2TUtKZGZDVUFDUGVvOHlfUjNZWENGSGNHeWdZanJMR0lwYzFMTmx2d0ZSS2hEbHI0TlRVU190MzNtTmNUU1E0NUZEdWxTZW1RMlB2bTQzQWJFaHpVUS1jWExXcGRBT19SVzhER0RwejlXUGgyZ21kOXNRX1RVLUtxT2FYblgtOXRwa2JSb3Z6Tm1XeXFXRGhPS2NwSV95aFhYelV1R0lvSHJR0gGvAUFVX3lxTE5xTmxHRGZuQlBOR1JlSzd2QUVpYnlLM1B3TkRfTGltUEtNVkNxVldLeEluckxQR0p3cF9LR1c2SFR5QzFjNXFuNE85bnhPbUFNd1VHWkEzWVQ1WTdxSk9xWS1wODFmUHpLcEROYktyaTVJZjBPNUF6Z2F3QWgyeDhuazNVaUh1dWFmVFhhVjVILVM5OG0xckZpRkd3UXIxWmpCSTdDTk1VY2dJR2NVUXc?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 12:18:40 GMT",
+      "description": "En momentos de preocupación por esta tecnología: la UE celebra su primera cumbre sobre IA DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
-      "title": "El personaje con el que Johnny Depp busca la redención en su regreso al cine tras el polémico juicio contra su exesposa Amber Heard",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCbjJXOUpDbGNWODVUQU1Eb3ljRENnVk45MFV0TlBNcTBjeUx1Zk1HQ3liMldWWmFlV3Fsb3dOOXRvN2xXSUFrSUsxUTE5S2hpVE5Vekh1OWYzbGNj0gFiQVVfeXFMT3pIdEhFYXRXTnYyOEJPSHpuQjJRZ3k4VXdHcUY4d0pYZWFoZGUwSU8yNmRiX0FEYjk1NUdCNUVuWWUwc3luaVJZeTVRT3gzYkl2RkN5S2lkU0lzTjNlRTA0WWc?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 11:02:21 GMT",
-      "description": "El personaje con el que Johnny Depp busca la redención en su regreso al cine tras el polémico juicio contra su exesposa Amber Heard BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "La caída de Microsoft afecta a la productividad en España, pero no a servicios esenciales",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzBlRUh0Vm5PZHZ0RzBKcU9SYlpZMURCTjF0SlhMcHZpMGdPVXJhbm1NdUN2ZmJlTjlzQUxfRHJ1LWpEckh4RkxLaGxNTVZhMzZFTUx2LU5VbFZpRElHbWE0eFBWSUs0TEg3STd5OUd0YkRwVW5wdzR0SDhteVdiazVNQy1rTWhhclpOSHV2ZHhhaGN0dkFQNmpOaXEzSXkzamJRaUlHaFRYM094dzh6aUFaM1l5QS0xMlMzTC1oampSNUUwR1FOVTNEU2hJWFR1WVNRWk4tNnV6cG1oNDJpdEFFVjNuS0hrQi01ZWlqVnBoTmpDcEHSAYoCQVVfeXFMT0Vyby0zOE5iWlhXVUZ2M0xGcV9WbTh3YUFlMGVmU1M2MGlQbFZpUXVfdUtTd0FxLWlEd2RHZTlsdjJPZ01xNkh2OTJjSU5rN3RoWDU2NXRxQ0hJaW90SkR5RldNNnBqU3l1VEM1UkRqem0wYmdPeUxRQjBnZWZaNkFpcG0zaVRYQlc1MGlnU2t2c0drUkdQWjdUTkdXTjhhMS1JOVBJTk1mRjdpNDZFNEhVMjgwZkpobUlieW4ySWZzOV9oa2lHaG93WHdnU2dvcWRKTEZ0RnBTcHQxTG1ob1RJQWJaRkhxdEJlZ2I0NVdpQzVHWUxrS2NCbXZhTzBFaEVvMlcycENBWkE?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 11:22:45 GMT",
+      "description": "La caída de Microsoft afecta a la productividad en España, pero no a servicios esenciales EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos",
@@ -154,15 +271,6 @@
       "domain": "elpais.com"
     },
     {
-      "title": "La caravana migrante que cruza México y agita la amenaza de aranceles de Trump: “Nuestro terror es que la presidenta nos regrese”",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPWEJjMWJfWUwzTDlYaGFleWlfOFppdl9SRHp4V2Qxb0Y1bVJ1dnlJTEpaWW83cDJtOWtuZ0NSWlo5ZjVVZnVOWGJUME5CS1lnc1R3OHYzSnl2S2VNZzlGbU1FNEtzRGdvSVlsLTYwS0FIV2hvV0MzeTgyNlpXTUpUeUszTmNrNldLNVl5Z3lFQ1JFbXNfcHRPVDR5RElMcDYzcjgxTlhNSERHTUhfV2ozVlA3RldxZWZwR3JKZlZhR1l0cFdvbmxMUnlzYThqcWE0OVRLWFVablQ0WFpLNEhNczUxSnVORlY5RUc1YnVtTDlnRXhkcEctb0xwWUVSbFJQOU9j0gGXAkFVX3lxTE1rOG81amdUQnp2OVhNTllLSG1RaWZRamhnbm1TZlBDeTJvamM2MkF1U2VlSmFuWmN1TlJhNEpJeE52WEs2MUFXejBnMlExaUk0aGt0S2hiR3dJSGxkR2NLZW1mYWVxdHEwcVQ1TTZmTlB6NFdNU2pyOEltVmY4RVdYWXdlUVo3clptMHhTWXJlWlJqTlpkendQRVpJOTBsRFJ0Tk50akxPLURmX2ZvXzdmZ0RSQmEwdW9RQWFjSDhpeGVjMHhYa3JJbTd6M0djOFBjV0xWWmc0S0ZtUHd2WFJmOTJMLXZEdEVwcExKSDhDMlpNWnVvR1FSX29oT3BuaFo0d0hHc3pKWUVnaDJDdXRQdVU3S3d5UQ?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 09:30:00 GMT",
-      "description": "La caravana migrante que cruza México y agita la amenaza de aranceles de Trump: “Nuestro terror es que la presidenta nos regrese” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Los servicios de Microsoft retoman la normalidad tras una caída global de más de 18 horas",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQzgxZzlrY3EzMXNhX3BSWTB4UGpPWV9uV0FKRk40UlBFNV9GQWhXTG1raE9tNVBHcE90cU9DNnpzOU5RaWlyeTE5VjVBWEJPUFlyWVZXWE1KdnVaZFpuLU1Za3hvaGZmTTNzdEZ6TWI2WHVXcGhMRlpJd3ZKRlVTYVhNdE9IZkxfQlBxcXY0dkpSTUhYaFhJZjk1bG5oczNaNGFGY2xBZmduajlXMDlWa2RWYzRaTk9IVEQwRFVYSV9KOGhPc3A1MNIB3AFBVV95cUxOUERKQjhIcWFLcFB4TDh5ODEwMFpxRVlkcUNZNXdHbkFOX2JQcVZfdnVucGpWZE5IQngzanVvSlI0TXllWGJpakhjTHk1S3NTM0NNLWlFM1dFUkZyX2tpcXZOLXNxMXRwWFhQeHU4aU1sdlY1azVWLU9hZWVpVTZ0QXFENTBYT201bFN3M044X2ZBMEItYkpRQ3pac2hUNWM4ellKcDJBZnYxcU02dVBHYU53dUQyaTNhYk5CTUJ4N1YzUEExS3VoQU5sVEVlQ2x0VjdPSjA5ME1odXZq?oc=5",
       "pubDate": "Fri, 13 Nov 2026 07:12:34 GMT",
@@ -172,55 +280,10 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Todos los ganadores de los premios Latin Grammy 2026 por categorías",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXdyS2xUQTBQTXZiUmQ5NzlEbjQwT2dmQTJ5b096OTVTdjUxZGtLaHNZVEdwejJxa2lneF9PNUpTN0R3OUotYm1VaWFjV29mdFFRYUlMbFBpUkpCaGJnbUNpRjZmdlFITlo0Mi1HaTBzLVJKajZPMGpCZG9yMFJaMzB2UXVZVllLaTFRVVlDLWluR1JnMEtYMWxR?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 05:43:00 GMT",
-      "description": "Todos los ganadores de los premios Latin Grammy 2026 por categorías CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzJzd2FHc195dnNjaFZJYmlMWmg3UFFSd2VlM1Vndzc0RDY2U1o2UVZOSlE5Y1V5a2RlOGVWM1hQUjdBU0lyZDhqWlhnaGEyU3F3Y2VCaG0wMlVLMVZ1cDdSOUZnUnBrN3k5d2JqVzRZaFVoRmtyTk0wcnhWTmxOTndtUTNwaEtqYWlKM0xITTc4RFVxbzloNV9CeTVWRWNfNjZqb0R6Uk5NdS1tNFZybElPVnBXclpaS3AwNTdvNVRmaGdUZmdzRGtUT2xXX2gydFl5MW9EWGNOS3p4RjV5T2cwaWF4LWl0WTN3RjFsWDPSAYQCQVVfeXFMUG1rY2N1UVI4aXdEV01aMDYxMkUyWFlKYnN4cm81Mzk2akp0Q0lzWGM5Q09aVjJfcEpOUjBuNDVtdVVxVWlMdUxVeVRsUU5STHNrN3lZMXU3bE12d2ZxRXJTNDIzcm9tc1IxWnIwU1h1RUppWGhoYlY2eENSRnB5em1HdU5PZXNDWVZ6ZEY0SS0teV9zR0hMSTBRNXBYbTk2ZXNaQ1hyTnpOSUNJX0cteFlTXzRPeUpqMTJUMzZBcWtTSTVMdzEzOFo2aHMxMFhmWDhGd3p5Wmx1d1dLTnYwOTZHdG9qcEd3LTIzLXRsNF9YU0dRZVlZS1VrS05BV2ktMUNqV0c?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 05:06:34 GMT",
-      "description": "Rosalía, reina de los Latin Grammy: gana el premio a disco del año por ‘Lux’ y a canción del año por ‘La Perla’ EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Una interrupción masiva de Microsoft afecta a empresas, escuelas y gobiernos de todo el mundo",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQjNGYUNuX095ZzVwYlBrRTFlN2FXaVhYOHFDZkVma1ZmV0hrN3JRWWgwT0JTSGlKVzdlRUxrOTIyZ29lZXM0c0wzNTdiSmdsYUhHSFdXZWtGRVJTQklPcW1aV2FzQTVoZEx5ZG1IYVJVVDBRbVdpbTkwdWxRYjI3clJhVERkQVU?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 04:25:00 GMT",
-      "description": "Una interrupción masiva de Microsoft afecta a empresas, escuelas y gobiernos de todo el mundo CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Investigación BBC: las brutales bandas de tráfico de drogas en Francia que reclutan a adolescentes para asesinar",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBucGFGTkJZeXZDdFVpWENFb01lQld0bHN1RGRsUFl4Z2RHelFSN0VwM2Nqamt0cDdpcnRScElxa0ZZeGhjZ3NXWlRqREx0VUxjT040UFF4Q0g2MTk30gFiQVVfeXFMUGIteWVGalpPSkVyNVZPU2dzamE2bzJ0UXRCWkNrV3RwVTJOMmh3U3lYcWNERm4tR3Z4aTdSY0lmekxVNmYxRHI0V2hPUGhpa25TZlV5SWd5cGxRT2ltX0xOOEE?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 04:12:53 GMT",
-      "description": "Investigación BBC: las brutales bandas de tráfico de drogas en Francia que reclutan a adolescentes para asesinar BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Fuerzas de Haití recuperan estadio bajo control de pandilleros",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbzJzOVBXaHhBSWJHc1N0amQ5TklSdE4wYXc2QlVnVHJOTk5fMzlRZjJrV3FtbUJfNEsyN0dNUDhKLVZoVDlXN09ZaVFRNXJiZnVrNVpwVEJBZnpxRVFRcmU3dXpMQVkyT01zZlhReFl2Z0RJTHpuZTM1MHQ1bzBfZHpvUmh4Q0RQLWdGSzlBQTU4eUY5c3JDOUIza2ZMdl9USkHSAaIBQVVfeXFMUDM1cUVfakhRY3B2d21Oczk0Z1R2TkNJeVNJVTM4a1Jza1hjRUZxUm5OeHF5alZJdFJJTnBBSDd3SWctb280akpiMVhwWjhYVmdKdzcwV0hnYlo2dkNLRTNCRkJrQVJZa1h4Vnl4U1drVF81czQzTmg4R3Y2M3FGMmdDaG0tSDhqS3Z6WDZGNXZCdlNkenVJNEJUYUNRVEUxRjJn?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 02:47:19 GMT",
+      "pubDate": "Fri, 13 Nov 2026 03:03:09 GMT",
       "description": "Fuerzas de Haití recuperan estadio bajo control de pandilleros DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El papa León XIV se reúne con víctimas de \"abusos\" de Iglesia en Perú",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXdLd1Qxd2pDd3JGUklKRkl3d09rNVR6U1IydXE3YWhuSG42X1lPcThuQU9odVc4SXVvdERDUk9Ic3dzYlhlZGJzdXZzeERTZGNfUC0wMElkazRBVERNY2E0ZnhtbFo3T3g4LWYwemRNRTNDUEVYSW5pazM4VlBaUmJBTUUyNWJUb3E2ejJ2QkpuSXJIZGFfWDJfUEpCRkRuWTd6NWFnajhrcDJTM0lPVFBnSnNKQURUdDdrUtIBvAFBVV95cUxPTXlMTDZ5Sl9OYUE2bmlOY1poWXFiNFZwaTdCMnZja0RVelJQOHViWl9GVXFEalBPUjBJWk90TTIyajJLQmp5ckk0M1ZQckVvNVdDZ19JblBTTjlGU2o0UnFDUVFJVExDc3B0Y0VQc0dPTjF4dGxKMlVlZjN4NEFkUDlCUTJ3VlJIaFpyOXM5TGVzWTRmcnh1NDBxSEgtYTBkLVowY1laeUhDN1NHbnY1T1c5djRQaG5NNUE2NA?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 02:06:41 GMT",
-      "description": "El papa León XIV se reúne con víctimas de \"abusos\" de Iglesia en Perú DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -244,24 +307,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Zelenski celebra participación de la Unión Europea en las negociaciones por la paz en Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmV5N0pKbm1uNVpUV1pFMEZhZURObXdNZ2JWc2p5Vk9YaS1JX0tjYXR5N1R5dHo5d2o1N21qeUo5azl1MU00QmVTVVF3bnc2SjdlNF84N2ZSOGMxdWlxZElwMHZ3emtid0dTV21vMTMyWGxkMUowRVdueDR3c2k5aTJjZm5BcWR2bVlzYWVyMG1rQlZaUFpNeDJNVTU2NVhJRnNsd0NmdzIwMjYzTmlNYTFoZUVZRDJYU01vazBycklrZDc2eDFwUU9uNVNhcVJxNWfSAdIBQVVfeXFMUGhhaFBRVDBFaVZLRkdKY3M5Z3RjQlI4dW5kd3luVTA4c3B2S2FRZUtWUXpMY3JJOXNtTTlTb3g4dFRDTHlEOEhxaXNwZmFnSnliYWNwYWlFUk9ka3dLNTVrb3NCdzVxWVJPRlNaeW5MRlZkT0ZPekJYRnhfeFJ3YURqZVozeEVaTHIwNTFkaWlVVXY1OFFlUnhEN3UyOVZUZ1JRamhPMHdoTkktdGM0MnZRbGJGSjVod1ZZYmk1akhoRllvNEdRSm5SWEIxekxscEdn?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 00:19:16 GMT",
-      "description": "Zelenski celebra participación de la Unión Europea en las negociaciones por la paz en Ucrania DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Encuentran a un adolescente seis días después de su desaparición",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY3MzdlZFOWEzMnNIbnpjVmVaZDNraWoyN3VWbzF4VVdQT2dRWmJEZEgtSnBCQUZLbWtIbENzVjdqZV8xWHBoVVhZMDN0d0tWNTg0eUIwWEczUzJvS2NwV3dJSWItQlRYUTBjVEVDMkhBTDkzVVFTQnptODFQbngwRzFsck5HNmJyVzNrQVZEMkdZOXM?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 00:15:11 GMT",
-      "description": "Encuentran a un adolescente seis días después de su desaparición CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Verificación: El presidente argentino Milei saludó al papa León al término de discurso",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmtxYlhydVhWV01BM3BqNzJtVHpubnh5MkFLZF9BTExMS0pfdDFHaG44OXFNQjN4cnRHNUp1RnpRSFEtbEt6VXZjNXZUdDFzMmlyMWFGeTJZQ2R2Vmptc05OLUpBY1F3bFdfRGZlU2ZrLUpqbTBla1VDVnJ2RlBOSEdTUEEybENH?oc=5",
       "pubDate": "Thu, 12 Nov 2026 22:33:04 GMT",
@@ -273,7 +318,7 @@
     {
       "title": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRHVidzM1Y2Vsc09UMW9iRVNoREF4eTFIWGYxSGZ1MFk2akIwTUM5Wm9vd1JTZUpaV1JBbWZValU0eWVDUjZaU0tJRmZsZE9uYTZ1MFFkS0VLV1hIaVRkR0E5QXFMdTBWdGtaLVZSb0Z4NXpBWWtzZFUtWEtvd0liWVh3aEFFR1d0cGZFbExRa29fZ3pZb0VtLXFaVmF4aU9tV2g3MlY5V1ZpQdIBqgFBVV95cUxOTWRYUTk3ZWdYNXVfY3BQVGZ0aDFPSkxpMHRjdmdLelZEVTg4N3RsbDFnZm43VzlESEdrY2I0Z3EyYVpoRk5LWG5Ic1hDYUVUYXZ4R3A0SUo5ZjRveTI4NUJ5Mm0xamNOOEUtd3lCN2RpYWJOS0tPYk9RMkN6ZEtYOHl4blJadThyZEx2cXljQW5QczU2TlBVZTFRSkF6LVB3eWxRRzlwdTFidw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 21:26:49 GMT",
+      "pubDate": "Thu, 12 Nov 2026 21:06:55 GMT",
       "description": "Putin no hará concesiones para poner fin a la guerra rusa en Ucrania DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -289,24 +334,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVQxR0ZfY2dtMzlBMHpIMUNFSlZnMV9wZHdfRzUtRU9jWGFYV2pqQ0NnTUlaSlhoMnoxcUVTQ1o0bHlzUTRzTlBqRWFZdXFfTmtxVEpBWV9iczBwcUtiamppbWJ1clgxT2Q1U2d1TmtMa0dVNHpUQUtxT2FTUHdJbG5PMDRYN0ItcWtIQkd4MXVMRTQwVW52SWdZZXBQZV94Q2ZJQ1RDanJJNThVTEUzdURVcVpVOHBkZWs1TWNyc0pFa3h0eXpBYTB1a09tUnVEMWpGVUl5RdIB1wFBVV95cUxPT3YwaGFRR25nRTJMVnBDbkx1emk4d3JmV082bndZRmF6RUFTZ2ZaQ2V3Q192NUxzSzlHemtzb0RncWx4b3l5RXRwR2M1NC01djNFVl8zck1yel9zU3l1UHpQamtGaEVmT0VJa2QzbGpYcXYtQzRDcXFLMHo5UHNaQkVCZy1IRm13MUpSaElOZF9lSy1vd0hMUXFGTFBHX21oTGt5ME91SElQRzNDNWtHODBacjhialVXdEZUZFVEbVg0MjRVOVdxaEU1RC1BM1ZRTWJrVk1UUQ?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 18:59:07 GMT",
-      "description": "Un misterioso asteroide acelera sin razón aparente y las teorías se quedan cortas para explicarlo DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWtPRVFOY3BET2FsLXVkelVvci1sT0JmLTdYY1JSN0JsWTJHRXU5UDVPbmZpVjVpajdpMjM3WW5ocVBGaDluRWt3XzNGZGxMYVl5Z1EyYTdfM0NKemRmczJmLUNxd0wxNHBMMlpHb0ZuY2N5S2hHb29KZkxZY1A1SjhtWTZKMENqci1fa1JPVXBZZ2hON09qR285dXNaZC1aU2hTakE3a3FVSTlqNVdlVGdDRW5ueU5nenfSAboBQVVfeXFMUEpmMmhIWHhUSXpnVTEtejYtTk81TXRoVXM4Qm1Ea19FT0FDcV9XTHdZSjJ1Uml3YjBpd2tmaXdONkZXeFptUVNScVl4cjZhUnFCek9kYk96OENzaXJ5LWUwZWVCMEw3WXdwNVNma0Q1ZWs0RFM2bkJWcjFKVmFqLTByakwyZDRCSUF5Ri1xVWUzb2tINEtvNjJWV3A1VmRCMU9yTUpKXzZ0QUItYkdCNGVmalptV3ZpZnB3?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 18:54:07 GMT",
-      "description": "EE.UU. entregó a Venezuela unos 12.000 millones de dólares por venta de recursos naturales DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Una caída de Microsoft 365 tumba el correo corporativo a usuarios de todo el mundo",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT1RHa0drNWRyZFg3aGlneG5YbzFqZjRqbDNXWlU0amc0cl9JNmllQkg3VW1zOGFQdUpFTW0xS3JuSFQ0VU1hOWs5ZHhPN3ktbW8tcjZRd21VT2FNUHNmLU1NcnozX0hMNW5keDQ1U09uRXhoWE9fR2p3d0luUlhscDFBOFdCMEtyeEd2YS03TUR3My15MHN0MDNYX2lDRGM5Z09oQXhkTVNsTlFETkoyQ094eWhMQmRMN28tdGNYOGRURFljYTBj0gHbAUFVX3lxTE4tM092d3NIX2NGVHBuZDFFSTJxdFV1a1BUQWtlN0JmWmRwWTNQVk9reXN1SXBqSGEyT0ttaHlBU2tqOGxGdUNWUzJwRUlXaVJxNzdKajg1NFRwbTMyVzA5VG5Fa0N2ZmhLbDNLYXJwZV9RUWV0MWhiYXI4MTFjZlhMUVU1em1zYVBrS0l6MnI5cFFHc2c4R1I1Y2xDeVhoYU8xNEowTDAtN0xHVlJoRWVxbXk1Vkh1M245M2VLdWVUd1ktcFBianl5aWIySEZZQVRudWNpdFJKeExBdw?oc=5",
       "pubDate": "Thu, 12 Nov 2026 18:50:16 GMT",
@@ -314,15 +341,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Hegseth otorga medalla a un soldado que lo reprendió a él y a sus ayudantes en el Cementerio de Arlington",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm9LWGpDOGN6aVNsOUV4cmQtY3djaUdWa2J3bGRGODN2RDI1a2RiUGZGamdoTUJvanFpaXZmZGk5SC1CaGRScHlmMUgzbFpFZldia0xyMTdHV3htTXgzYnFsbXEyTktFR25Vbk1zYVk0bXBfTS1wMGNCYWJMVTRwcVgtWHhieXMtSUxxTHZaT1dvQXQ3U2hWT0dJOHdwWHRxMjdEMw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 16:42:00 GMT",
-      "description": "Hegseth otorga medalla a un soldado que lo reprendió a él y a sus ayudantes en el Cementerio de Arlington CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Acorralado por el escándalo que puso en alerta a Washington, Jensen Huang renuncia como CEO de Nvidia",
@@ -379,10 +397,10 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Venezuela lawmakers open crisis-hit power sector to private investment",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY01UNlVSYm43NkhaRFIzMEI1bVpkY0FORzUtS0YtRHAtQ2c3N0s1NzVhdkozaHZsWVo1dkRWU20yRHNhUmsyYzFQUV82M0NINE5CcEFFb2NlSGUxbGF3RjBFN2ZrQzNOUHNYaFhZdVR4aV9oVC11bi1QRS1MR2xXQ3NaTkt4T2xLWi1Fb1ZZVEttVlg3SjJ5cVFSZ1NQelk5bi1yQnduLWVtaVdvTHZxdnMyeVlRRkZBR1Q5Qg?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 22:51:44 GMT",
-      "description": "Venezuela lawmakers open crisis-hit power sector to private investment Reuters",
+      "title": "Verificación: Video antiguo se comparte erróneamente como accidente aéreo en Filadelfia en 2026",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc1V3Zk1iNDR5elpyTm9EekNPV2xOamdzNVJ0SGFyNTR0bDRGZi13YmJGX0hhM010Z1Q4d1NSOVEtWVpJekFCeU9VY3Zndzd6RTZfWEtMa3pPaVFwcDdUbmhRSU9JbFZ6QkF5b0NtSVBUMko5SGRhX0oyOXBNTjM1aUxZNWdIa1lW?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 19:24:01 GMT",
+      "description": "Verificación: Video antiguo se comparte erróneamente como accidente aéreo en Filadelfia en 2026 Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -424,24 +442,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Doncic brilla con 32 puntos y los Lakers estiran su racha a 6 triunfos al vencer a los Hawks",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVWFSQkUyWHhtTkhydHo5TDdsOTRlQXAzY0FLalFzbXNXaTY0UW5YUEJTamNabzQ3VGc5ZkVKVGNsMDdudEJKVXVNOWJyd3VhZ1NIbUYwMTVpZ256eExfWFB2WUlCNnhOM1NyYjJpeWZrT1RBYW9sMG1oek01cy0zT0MyaVBZaTNfXzRkLTcyVnRhZmRieWc?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 02:57:00 GMT",
-      "description": "Doncic brilla con 32 puntos y los Lakers estiran su racha a 6 triunfos al vencer a los Hawks AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Nvidia investiga la relación de Jensen Huang con una presunta espía china",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXpIZTEtdExockUzRFlsb2hwRmVFM0V3S3lKZ0ZFU2FfME8yME84elQ3TmNOTUg4eFZfMW1GM3YzbzFwOEtXNnhnRTBZVGJoOUFFZmlsYWFUU21xRjZuTXdSR1VqMTVTcGdvSVNIM1BuczdDMjItVVVqVmZ0WTFlZENhdFhQVzY1THExSXdnRGFuYnpCQWc?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 14:59:34 GMT",
-      "description": "Nvidia investiga la relación de Jensen Huang con una presunta espía china The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Maduro estudia religión y se acerca al judaísmo tras las rejas",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOHZhN0dDVG5VUzZjTnhQV3ZKODhvWGh6RFZmOWRnN3R2Z2wxWkJUcV8xMXB5akhwUG9XQTJJQ3FtYkFRb0ZaOGlCMEhyclJja0d1ZnJzUHlRZmtwT3RSVkZ3ck9jMnhqWC02RGVjN1gxTmVMR0xlZkxrMXZNZ3JFYnczM2lUdnh0aEdWekpZY20zdFdJb2p4cjR0bjc?oc=5",
       "pubDate": "Mon, 09 Nov 2026 06:36:21 GMT",
@@ -449,15 +449,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Autoridades mexicanas ubican a un alcalde de Tamaulipas luego de varias horas secuestrado",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRjdxZWdRTml1QlhZV0pldUxmUnY1MHVmdTE3R2k5ZlRYNzlpcXI4S2ExakVFN240UVFxbzRldVk5MzJSQTJQWE9NT0lzV1BYWHBLbktMUmF1cktCM28yRWM0cnp5SHBnUV9uZWFGam8zY2UxMC1IWUZoSDZKVnlJUnVmX2VMRmVfYjFmV1hjanY2VTZqTXpFVldiLVVmd1k4Q2QzQ1hXQQ?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 21:50:00 GMT",
-      "description": "Autoridades mexicanas ubican a un alcalde de Tamaulipas luego de varias horas secuestrado AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Maduro Studies Religion and Meets Clergy Behind Bars",
@@ -478,22 +469,22 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbERBNmxKaURlTEg5bFJVczY1RzFfbXFqbWlocmJVVHdsczNoVk9Zem80eTNzRURQTG1Ja3V0azVEN2xBWVRjazJHVE9JeXhyRTAwazBiNlJHWmNoWW4tb2I4SWV0TlB1cHB5ZzBRUUQ4ZFBJRU1fckVnZXlGTktJbERfTFE4ZnBa?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 14:44:58 GMT",
-      "description": "Verificación: Portada atribuida a The Economist de personas frente a un domo y pastel con el año 2027 es apócrifa Reuters",
+      "title": "Reaction to Cristiano Ronaldo's Portugal retirement",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmRfUUJiQkN2amIyWTlheWx5ZTZjT2Vrd1BucDdGaE5oMnJjbGRrNmtUeVZwZWsyMlhObTIwQnRjTHRuYldBc2xsWFBwbTI2MTMzRDNXbGk0cmVzX2ZkMnNvZTh2cVRINURYNXk2NHM5RndKOHdkb3dvRDFRTTl1MGdLdmF1cGVNYmttQURUV0pvUHA4Wm9iNkpLdVlNZw?oc=5",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "description": "Reaction to Cristiano Ronaldo's Portugal retirement Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
     },
     {
-      "title": "Eni advances Venezuelan heavy oil project, eyes year-end approval",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUNJY1VxN2drVnZqVUtkVzAtUXpnSXRkUm85VnYyMV9ESTNKcmt4Q1NNM0xXLTg2cm42ZFBwN1JweDFOME5yQVQ3WHFSUnBsS014VWpEZkFScUsySVljVVRveTBSZ2RTVE1rajkwNDEtZkY1Rm10ZzhKOGlRNTNqc0dvZGV2dWotaG1rc1l2dkNRUmh4WFNkZlp0YnhVa29kUnRTUk1PcWlnSllFc1Q0X01pRkpzMFE?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "description": "Eni advances Venezuelan heavy oil project, eyes year-end approval Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0dHaHoteEhreWhGd3JLaE1SV01qNUxkN0dqZXN5cFRFTDdTdFZOcHVaZ3huU09iYldmWFlTbkNtNi1UZ2J6VVpRYi13WDRKN0lBR0pKNEtLMTY1V281ZUJkd0l0clFIRWVEUkZEeVBkLVc0aFBDQWFwU1FYYmJRaUkza3hBM0JPblV1NEFEakFmNl9OOHNxVVE1dW95Ym5QNFpFOQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "description": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
@@ -593,6 +584,15 @@
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "The New York Times en Español",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BQ09nSFp4Um1oVTA3WlVvVGdLaWsxOEJzZ29PSHc5S09IY0UzQWNBa2RTbktHWGJaSEJ6SUU5dXA?oc=5",
+      "pubDate": "Mon, 08 Feb 2016 23:48:36 GMT",
+      "description": "The New York Times en Español The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "La crisis del agua de la Ciudad de México",
