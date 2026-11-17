@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:20:04.068Z",
+  "updatedAt": "2026-11-17T05:26:48.310Z",
   "sources": [
     {
       "name": "El Universal",
@@ -25,8 +25,9 @@
     {
       "name": "Excélsior",
       "domain": "excelsior.com.mx",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "El Financiero",
@@ -38,9 +39,8 @@
     {
       "name": "El Economista",
       "domain": "eleconomista.com.mx",
-      "status": "error",
-      "error": "HTTP 429",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Proceso",
@@ -63,49 +63,49 @@
   ],
   "items": [
     {
-      "title": "Estos son los candidatos a la gubernatura de Guerrero",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNelFOSW01UWFVR3Z2RXhyU19tWDlSdVIyREZvbzc3TnVueS1HdTVFSDFxMi1nNFRiMlduTGNiZ1FoQXFyZzBNQVdNR0pKSXZjOW9hb2tXOXNKS1RNbjVMUU5FRTl2TjZBTXlaeTNsYnZrVXNrd3FBRWNSWDUxdmk0VXdZZUYxXzMxcVVrUXluS0l6aDV6b0l2UXl1N0pMRDBMYmQ3RUVwZENKY0paa3VDYUxOM1JCdlk3bmxBcXdR?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 18:31:36 GMT",
-      "description": "Estos son los candidatos a la gubernatura de Guerrero Proceso",
+      "title": "Realizan bajo hermetismo funeral de Miguel Ángel Félix Gallardo en Guadalajara",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHJkcm1oNkV0UmNXWkZ0NkZtTW9tS0ZfSXZCNlF6elNNX3dibUxpamdGUkV4V3dBd1loZUVKUmFMVk1CdTJUTzAxV1pZdGZnYmRfRTcwOWRmOTE3WFBwTnVxVmx2ckNHc1hVN2dLY2xpMGU3Zlh6ZXp2N2xiSjkzRW1hdjJqNy1EMW15WjdJZXQwRXZRV2VkMGRUSkdfd1Qyem9IbHdNRGpMeV9tN0tGMDdnR05Sc3NlbjlJUnlqZGpiRllTY2oyTlFiREw0RDhGVGpV?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 04:11:28 GMT",
+      "description": "Realizan bajo hermetismo funeral de Miguel Ángel Félix Gallardo en Guadalajara Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Sheinbaum coloca a Jesús Seade en el directorio del FMI",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGp4bHZyRXRUUWJ2eURMZmJTRkNaWWw5aHJEc3pUSlZlNUJJcUw1c0RKZGRXWWdwUkJFekFvbzFRb3R1MFdVZTdQVHhIZHRrUGhOdUgzV3dwOUdvQlFGemlGYzN1TDlGLWVWdV9uZHp4Q08zTUh1QkxMTmJGbE1zTnNrR1VpUnlmZ3loUHJOQ3VySFNHWkJqQlhvalVCRVAtR3JFX3RhdW5QcUl5YWtxS01pYWxDLTMya1lzYzhqMEdxY3N0ZVMwMC1jTmZBLTNXYTU1Z1JxVHJiN216aGd1NDRqMk5HMXc?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 17:58:48 GMT",
-      "description": "Sheinbaum coloca a Jesús Seade en el directorio del FMI Proceso",
+      "title": "Académicos y exconsejeros respaldan a Lorenzo Córdova ante acusaciones del gobierno",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObE1Ddm1JakdKWFlycjBrcFpDcElZUkVrWTcwQXdjZWY4WVdYbXhDRDJoZTZyN0lWNTFHRlkxZ2tZUnZ2V0l2czJVeG9ZcTJ2b3lucnJKN0NtYjNUVnZGTzNCNG5CR212emJLckdCaE5DOVVRWGZTSzFaWlhQSUo0OVNRZ1l1UnZVLUlUaS11MC1Wd1o1ZkU1M0RjakdnWHBzUnFDa3RuWEt4S2VBbzdsZjB1TWtDeUV6R3pvcmxGZVdEa3NVQTFUQU5Hejd0NG1ITE5MQ1g5dzJWdw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 03:38:31 GMT",
+      "description": "Académicos y exconsejeros respaldan a Lorenzo Córdova ante acusaciones del gobierno Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Mantienen asegurado predio de Juan Gabriel en zona revalorizada por el Tren Maya",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc1V3T2U0MkxkejFmWU9xcVVUYVZtN0RlWV9pX1B0T2NsQTd4b1VfOVd2MlI2M0c0YkRNb2trWGtjR3Uwa3lneUNBSzl1NEk3UURXbjkwSWZkVV9McnZITV9Vek91MlRhZERLNU9jTTN4eEw5eW1qVi1uWWlkTjhUcHpmbVZGQnhPUXVoeUtMeFZhSHNnOHZTZFFJOTEtS2Zxbm9YT3Y2RUJ4WVpxU0NNa1pNSWF4b1pBNFVENFNMRTRNaW5tdHFQNHlmV0hnV1h3NTVuM2x3?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "description": "Mantienen asegurado predio de Juan Gabriel en zona revalorizada por el Tren Maya Proceso",
+      "title": "Docente trans denuncia discriminación y sanción laboral en la UNAM",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMllxTFROdzVCYlpLdGRYTl9hSVpXbWowRTJBUndtTnNGMzdyRWh4Y0doSUNpLVdvYVprbU9ydTBkN1A5d0xnVDIyREcyT0xLYTctLVlxWW5IaTRFRWROWHB6bG9URXBIR0o2OS1sbnI1bmYwVldmbnhaNml5QW9mbkhLX3VpVVY0Ny1OdjZMNjhGSlYzYmRNUW1TaWpfWlFMT1RnNV91WDJEVHZyeWR2cThsdjFxY2dqb2VLelZDcS1yQkE?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 03:22:26 GMT",
+      "description": "Docente trans denuncia discriminación y sanción laboral en la UNAM Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Atrapados en el asfalto",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWVZoYkVrMjh3TU9fd0NWWS05MUVCUnJLNENfNmpETjdRb1AwcXdzbjA3TVBQYTNfTmlsYjVLWkNlZjU0Yzh0VzYzR2djSFRLS1U5ZzJvNkxIN1lOcmkycXAyQzBxRmFRODY2dW5ydDZndHYtVzA5cUZiZl9kN25LVDR6b9IBiAFBVV95cUxNNUpvMjR2cFllYkJZYmJzeHAydEZhSXhQakN4cHJyMURPSVpFWTBMdWtPM1lIa1RBLUNZalNHckJPWjk5aHJfQWhsallUNG1RNml3QmFFYi16RlZVaE9kZUI0aFdieXNULUFhYzVFX3E3YldhZXhYM0xTZEdFQzZiNlZYVmR1cEZP?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "Atrapados en el asfalto Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Inhabilitan a Martín Borrego Llorente tras haber usado el MUNAL para celebrar su boda",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYk03Q3owZ2F5NXdEUkpXRm9rWThoZ1pnakx6R3VQMy11MWZpb3M3UUpWclRKNFNjTHMzX3lpTFBHamNFcENsa0UyczNMOVRuRGRSR1liUDYzU1UxZ0hCSnF4M1h3OFVtUXpvQklwLWFmUmlzXzZZTjBxel85ekNMbnVmcG9KaGl5eUlWZGstNlZRUlMzTnhKLUZjOEtiU1ppTkdKZU1EUGlNdlJMUzhRVlhxTFVqZXNING9OUWxUZnlzajZvWmh4dHhkdkxvMFdGbEc1ZW8xcWwzNUN5?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 20:53:36 GMT",
+      "description": "Inhabilitan a Martín Borrego Llorente tras haber usado el MUNAL para celebrar su boda Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
-      "title": "El vuelo largo, la reunión corta",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlhKSngtSUdQdTRzUVNSNU5GV1RBRXQwYzRNTkl6dTNOTzhObkI4YWg2ZmVZSjhBWVdxYWlwdDRLcDJFY1VVUDMzQ21PaXBPcU9ZaUd1SE5BSGhhR1JkNGlXTy1Xb05wakNtRDNseUNMM0pkTEtMbUY1c3l6UmJ4Y1V3eVlXcmZZanRDZ2Z4d07SAZYBQVVfeXFMTU9VZG5IYjk1dTg3Nm5VT0pLNWNBdVVrcU9aMWlLc0FHOUdVRnQtekRLTndhVkd4SnBYQnlndjl6X0dYVC12cUxEZ2xRSUtLMTc4dS1KNUZxSEJwUDkzWkVfci1jcmtTN0ZEZmVVMXhLU1U5d3pMSC1QUlZYVE9QekYxLUdMcU9qb01tSHd6dUVvX0tkc0JR?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "El vuelo largo, la reunión corta Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Presidente de Paraguay asegura que jubilados vinculados a Ueno cobrarán esta semana",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM05XWEZZQk1OUnZqM01xb09lcW9LNjhCTkthdFBFcWlOMnlXZU1ienZuaUV4dWUyZjdRNUlwSVJJNDJjbmJleUJZWGhnWW52N3N2SzlsU3NRdVdWSXFzQzRlUnU5S1ZrU0pVcVJNLVFGNEFaOVgxcEhCbzc2Y0VaN2ZSTzVpTXA1VDVzM3VqNHd0aXprSHdWdTBmVEJaNlpiMDB0VUxVaVg3bE9kSGZ2RnZ3STNHaWFiTnRERTFPRUU3ZnR5eDVWOTdXd2FBMVZpdDZfStIB2gFBVV95cUxNYWFsTG9faWNFbmpPM0Z6eUlIQTFIU1ZhRjBTaVZESXVHckFDWDBFYzNmaXZGSU8taTFPZVpsMXNWTkxnYnU1WUNsZkQ5TDQ3M2dDek9uektFNEhaazlpb1RxMU9RWElPVG8tYTFqenFHeDFRVHA3ay1ndklZX1hCZFg5azhnMWRUbnJuZlJLbUVUbFNMUU0xdHRLR3BnY2t6VUVBTkFWYmF3Tnk5R09Cc0Z5dWJPaHktZjlKZWx6aWE3SzJaSTUtWnZadDdWbm1kdkw5a29pWklQdw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 19:24:38 GMT",
+      "description": "Presidente de Paraguay asegura que jubilados vinculados a Ueno cobrarán esta semana El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Asesinan a odontóloga de la Secretaría de Salud de Guerrero en la Autopista del Sol",
@@ -117,13 +117,13 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Sheinbaum viaja a China para representar a México en foro económico de APEC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FM0hzY0thWlg0WnRQcWpFSmQ2SWFWRG9pNTQwMF9yRWN0cGowYVgtRnA3dzZmRXZaV3VyTzluaHJ6cHpGNWlQV050UHJXYm80cUV2a0x6V0UzeDcxSkpMVDVvNlNZbkFNcVHSAW9BVV95cUxNUW9UOVdONkcwMWxiTVNTN2hIWGxaTWhod1RraFB2Z0g4LWRhZ1lEY0w5VWszSmlHRGszSmVycC15TEFlMlVyeFFGcElUcDQ2ZFJIZE5YcTZrWkk4ZlVJMGNHVzlIS2MxNlo2c21aTEk?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 15:01:51 GMT",
-      "description": "Sheinbaum viaja a China para representar a México en foro económico de APEC Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Trump responsabiliza a Biden por el 'desastre' en el sistema de control aéreo de EE.UU.",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTVlhZ0xuWENqV0lONGpOcDd4Q2kwLTlHRVpZNUdKNkl1bkV4alBJVDZYYURmVTVNc1piaU0yajFzakxuTjY3ZF9Od0dsd3MwWlZINmdIeTl6Nmd4WjFqY0hpM3Nxd1lHQ3NZUldSeWFTLVdOWVlOcVEzSUxtNHlkUklMbjJWQ0psaHpQTUttbzlhcTh3cU9QdDRvRFlob1Y5eDJRQU9mVXZqVElXMDFaTE5qbWc3eVBLQ05aamhaMVFSb2xp?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 14:56:00 GMT",
+      "description": "Trump responsabiliza a Biden por el 'desastre' en el sistema de control aéreo de EE.UU. Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Sheinbaum ha gastado 5 mil 233 mdp en comunicación social; la mayor parte para medios afines",
@@ -144,40 +144,58 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Localizan 4 cuerpos calcinados en Oaxaca; serían de empresario y escoltas desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORU9DNm83SzJBZTlIUjNMOEQxNlVRY2trRkw2RFk1M2Znc1F4dlU3VVRIMVphRXItSmpFOG9ob0Y4czZGQXNwMXZvd21OV1BXVGNFWnRjZ1hyOVN2eVpMVkdDLUgtQzZRRnFublJaNTVGRlFpRVg3ejhDdEZ4a0x4WHZlcVd1cEg5RENkUmNlVjZMWHE2bnpMWk5WXzJuSkNKcnloQ9IBqgFBVV95cUxQOUFaQy1xLXVwWmxzSEpWZzFLU1Rqa0VCNTlWeU1tWGMtZEFCNDhBVzRiNTBFejB0eFhZQUlzTGs2OE1rQm9xMFVPWC1uTTc1U3ZDcGJBLUZGbXFidG1VUnVZLWRkeHlzZjVJUHFtRHNvVE5nOHFlcmI5NTloZUF1X29vdUpRSWVVMDZYWVBWMmVGMGZMTDZxWnNRamV6UHFmUE8weWxpMVc5Zw?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 10:07:15 GMT",
-      "description": "Localizan 4 cuerpos calcinados en Oaxaca; serían de empresario y escoltas desaparecidos Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios sin consentimiento",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUElpQ2p1N2l4NEFKRFNqSjg4dVBWWjFCZUhHZ0R6VHcxY21yNFRqSVpEc2tuVkxvSnJ3eUthcjVZNDBrT2J2Qm9JU05XWjR2S0ozZnlNNTdoQllEM1pVY1VMbi1EUW9OQ19ZSjgxSVRkVzh2aVF0WE9lLWwzU2NyWmxicUVXZzdfTGNDaUZ4alYtMnM2T3VSQm50V3NYMy12MHBzNVJYMFVsZGRIVGlwLU1aaGxrT3dkaHlXRVlDSVRYd2tSa1pJcWxiYTVsNnJvU2JnWDlLWHNJcUHSAeABQVVfeXFMTWVSRWZndVl4X3hDSjVHS2RBWlNDXzdraXh6WkhqUlUxcWh6UHFKSFpzUmdjV0pEQy03bjhPeUh3bHN0OVhEakhucTdGYm9iY25iVkYxZmkwM09tYl9UZy1wME1SbWQtd3pIMlNRN0ZHN082ZlFVMERtMmRKQTB2N25vOVU0R1NjQ1BRa0EzYkJfUzN1bEdxVXN3TVBWaG03Y0dsQkVzMUIzVER3LS1NZHRZbHNGZG5KU0F3Vm45dmhVbmhXU0ctM2VPaEdlSHFGWW9DZkhZQlhUYTdSU3V6bjg?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 00:40:35 GMT",
+      "description": "Italia multa a Meta con 805 millones de euros por acceder a fotos de usuarios sin consentimiento El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
-      "title": "La cuenta bloqueada de Rosario Robles",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDYzMGYyWEdreElMODM5eDBia0hRRXZScHd5dnY4LUF0VF9hRTN6cV8yOWVZQzNiUVptb3V0Z1FDVmdpTnNLTE1zYkVwSmZGLWlYb0RBRHpMaG1tc0pJdm44NEtLck44a0psMWE4elFuU0Z2UnZiVDlDTTFiQmtERXIwZGo4eXNfRnRCTzhn0gGTAUFVX3lxTE1OZVdvMThNMVJVSEZCX0tmcDJwSVMyODNRcExPOGZLSVo4aUllam50MGtSZXdIUVEyUVRnUnNkbTJHVVlvVjMwQ0h3cU85N1FlWTM4bURYeDRZX3ZFZUxUbU5fTTBNUEpOaGJkMnI3UVhsRERzRXFadTJPaE03WTdRWVVFenVLZHN0NWNPalJLRzJaTQ?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 08:00:00 GMT",
-      "description": "La cuenta bloqueada de Rosario Robles Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "México será sede de APEC 2028: ¿qué significa para el comercio y la inversión extranjera?",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHBiaFRaMUt2U0hoZnRzLW5SUk1GVE5hZnBnRjJaS3VvRVl2Q2VoMjR0N1Vid1NMWmVFNHQwY1BTNjY5TGx0X3oyb01aOGdiT1p1SGJBV0RILUJMZldndHRMaHBSakdfdGVmQVdIeFBiVk14dEJlTHFqSzIxMmdfZllNWGs0TVp6b2ZYSmQ1Rmg2OU9QNnVEYVgzTTVCY0ExYjFMUFpaUjZzdlBaTngwbmNOdjgtVHYxVlZ0TG1XMFo4eHE3c1lB0gHMAUFVX3lxTE5DS3dMQXRwYTcwU0ZXOE5ZVTZ6ZTZBbUg3M0paS0hTZ3VsSkhhcVRaWE1zaHZvaUlqSjdCYmRUSmhVamxqcGFuY2JLRVNDcEFiSkdwOFViTW85dXlIOTlLdzB6Z1Z5M3JxdXg0cGdfMnJJRk43NTNNckpHUWlwbUtwcGRjYU00cFZQRHNxOHBleUxnS0FiSXRQdFlZUk9OQ2dVR0lQdlU1WmVJa1c1RDJ6c1JsVTdvV0NYUnpWSE1laTdsWG5hdGVwUE5QSA?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00 GMT",
+      "description": "México será sede de APEC 2028: ¿qué significa para el comercio y la inversión extranjera? El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
-      "title": "Gabito Ballesteros ofrece disculpa tras suspensión de concierto en Querétaro",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWk4LU8weWx5WldSaFR0VzhnanR3bXR5amRIQXEzN1VMcUpNdHVPY0tULTJUd1NfODBTdzBvSkdJWC1kZnZ0clVMaEJ0WkJZcEl6bzd3ZlVWVnBTN0o5eGxybTFnaTlGcXVEYWNlTnNvdmRZY3FjY0trUTZJdFBObDdsVEVjSE1jOW5lMmNjVkRBaV8ycmx0bHhvVWNlNm5MeEpadElVd2FyVlR5bTBDTFZ30gG3AUFVX3lxTFBySlVqSWE2RXBuaEF1X25MRWNHcjlnV1NTMkJpWjFGeDc2emJ5VmhKMktwUk9MMVlMZ1A4eVdXamZjTnZNZGQzNm02RXlxQkJ6T3dTbnNDeENxcDJIOFhhemEyTC1lb0dLeGJOZDRvMG95SDZGSlVyVmc3YU4zS0s4blV0dkVlTnh1RmRteXM2akRKQW83ZWpPNHNpZFo1SlBnRl91Y1ZQd0c1Qjhpc0F6cnRSUlA1OA?oc=5",
-      "pubDate": "Sun, 15 Nov 2026 02:52:11 GMT",
-      "description": "Gabito Ballesteros ofrece disculpa tras suspensión de concierto en Querétaro Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Rafa Márquez enfrenta su primer gran reto con México: ¿cómo llega el Tri ante Jamaica?",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV0VkRG5RSXJydWhtcGNnYmFQYnFjbUZhdElkYmhIZExvN29RMTFvc0kza2QwVGl3cUFQNGlWaDFmemp3bUpNRm05Ty1tNlhyVnhpREp4MWVOZFA0eTVFVDR3UFpqaHlfb0NYb0tHaFVuekZMeDhrck5MaTZsbmtKNFU4MGJNa3YwYXhMM2pneWhlYzlPa2dlV095WG9lQ1lsLVFTazNDdDJEUmtqX29mM3N0c2ljYm8zR2FSUk1aYkJWRG_SAcgBQVVfeXFMTXkzbGVLSG40NlRpMG5MR1hCVlltZXNSdlQzdV9fcXhzNVJwWkd5MUgwaVJQN1E3Z0xGRkpPbFc4UTM4SnN1WlNYZVVCeW1VZUdOY1NhZG1RRkxRQXNBQmVLOHVsMVRwbDZlbi1qc204UWtnVkhSejVVdkU3S3Y5VGI1T1lFTWZHQTNLQ3lYeWdRamZCR01aLVRLYmZEajczX1ZXRVUyc3RrQ0tyZGd2UVlWZXRQSEdwRldMQTF5OHpaaVkybjlPeXM?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 13:07:24 GMT",
+      "description": "Rafa Márquez enfrenta su primer gran reto con México: ¿cómo llega el Tri ante Jamaica? El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
-      "title": "El otro rostro de Elena Garro: un libro desentierra su pasado como informante de la DFS en el 68",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa0pnMVJla20xNkdxWXlvaTYyZFZiTkFqLVk5dUN6eXQxZ0lNLU9xQkh6MVlNRjV1cXFSZ1h1WHpiYkpFUFg5TVZtTk9vS0otSE5UNHRWZ2dod3k2Y3ZvbkJzOE05WTNyUU0tOWFXX092a3dTZUFUZ29XV3d5cTFjNzFSNk5rZERZWGs5bjNEcHdkMUdtWGpzNUQyaTBCRnVpSlNJbXppS05HZFQ4MWh6QUdGSld4UVdIamEyM0NrMTJSbTFVMnYwS3RjQkhkNzBFWEJyOHJEcGNYc0plRV9FMjhsUFBMT3ha?oc=5",
-      "pubDate": "Sat, 14 Nov 2026 13:00:00 GMT",
-      "description": "El otro rostro de Elena Garro: un libro desentierra su pasado como informante de la DFS en el 68 Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
+      "title": "Jamaica: alivio o agravamiento para Rafa Márquez",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYWJMcnpMS0c2U0d4RW1PbTVqN1RKUG1fejduWWcyaTV3ZGlXNnNMblZMOW5qWnd2TUxDaHRwMnlIdzgyRktsdnZMMEg2ckhIUXdXdEZHTXRtXzM2cUJJeGhWR3ZkdUFYUFV0SVJKMmF0S1VUWTB3YzNGVWJDX0JkcDlBbm0yNGYwOEZ2Wmg4bzNCY0FBUmoyZHBya1hrei1fLUhGdNIBqgFBVV95cUxOWHZvM3FaQjVPc3BzTVpJUlM3dzF4ZFdaUmdVVi1DWlNGM0JsY1ZFNDdJc0pWa1B0bHo1aVVtc053VXVHLVRXQ3VzZVVpaUhkVkxEdV9UTkRTbXoyRzJCclZZTDZFOW9mbjcyd0taTnNXMmZjMm5WbDVZY2N5M2ZUa29aNlZ6M0l4Z245RUctQzdpa3pQWHRXMWdrVm5ZU1J3el9BaXlSVEJndw?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 12:00:10 GMT",
+      "description": "Jamaica: alivio o agravamiento para Rafa Márquez El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
+      "title": "Netanyahu se reúne con Eisenkot para informarle de los 'desafíos de seguridad' israelíes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZUZrQ2pyYlZ4bU5xeTkzZmVnc2gyZkZmczNOdFM0R1BMd3BDd3pmSEpCRXl4NU9nUXNzZVNPd1AtRUoybHVqZ2NZazh4RVJ0VGVsMHRteUpwOWc4UkZPUXFrckFsem8wQVpJbk84Ylk2WVgwSGFOTF93ZEZYOVhGNlY0dmtBbWx2OXBfM2RnOVpEdnFUZXVsLVRKM2tqWUpSc1FTbGdXeHptUkJTUEJHMDdrbDc5emEwdVFZQ0Zwbks1ZUpYeHBV?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 21:29:00 GMT",
+      "description": "Netanyahu se reúne con Eisenkot para informarle de los 'desafíos de seguridad' israelíes Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
+    },
+    {
+      "title": "El Estado produce más de la mitad de la energía eléctrica que demanda el país: Sener",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWlUOVZqR09LNmRYVVRXcG93ckVyVUhUWjB4N3Jpb1ZkUW5Ra0FzUFlkYnVMWDg0d19jOUgtempRZGVmRTRLWDdmaEkzTVdsd3RSVFFYSU1iVFdpUnpwb1dVZksyUFpJcVhocVQ2bXZQV0V3VjNmWGtFeVNXZlItRXhtR2F0a09JRTQ1aXRiR1IzM2lnRGlJay1ZQm5JWmRISDFxbzVGcTVUOE5OTnp4Qzhn0gG3AUFVX3lxTE1USXdIMFRYWEJka1duS2ZpY0wxNTlDQ0NMWWNjS19UX2tackVtUk1CNV9PMnFGOXVvU0J1WnU4TnhXblNPTUZaelVUQ285eWh1QVlpOUgwT0ZCSXJwelkxV0t0Zm4zTUdRcnNMVm1uajdwbmZhZmpYR0c0eXhoSWxlaHl6bkFQNElYVVVZTjRJMm9kcjkzTXozNTFXUWdNQnYwOG9OSGs0OWlHemdwQThiM2FsWTBwQQ?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 19:56:59 GMT",
+      "description": "El Estado produce más de la mitad de la energía eléctrica que demanda el país: Sener El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Asesinan a Eduardo Valdovinos, aspirante de Morena en Lázaro Cárdenas, Michoacán",
@@ -193,24 +211,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZm1DMk9mMUZSdkZNMmNqdThBM3FveHhXeHptWm52M0ktVzVsMDFQd2Y2NU1hV2dqZHdtNi1tMTYtaDR6MktsRGFlM2laS1FkRmVXMzFVeE5jTUxhal9KbEVadXJSOUdReVlwT0x3SVNpei1BU3ktR2l1Y0RkaXo2cjhYU1l6QlpHU09jc0t4SUdtb0xZUVlBeUM5eWc2WktLRE9z?oc=5",
       "pubDate": "Thu, 12 Nov 2026 01:35:00 GMT",
       "description": "Rubio ha gastado 1.2 mdd en vuelos para ver jugar a su hijo Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "EZLN y colectivos de búsqueda chocan por encuentro",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGhBdW9lQVZ6NmhsSzZlWm5nSU1UM1FVcjBBTkVoSjVkNXFIMmZyeWJ1alg2WklBdFFST0RIRUNDT3l6TVhFSlA3VV9kNHNSdGFFWUt3NjdsbVFLQjlUUExteU80TGl5RjBEWTdMTmVnTHFFTGZwdThDSTdGYWVqRVo3UGlwbG5wSzZ5RU80cmJQWjJWbFdobw?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 16:28:00 GMT",
-      "description": "EZLN y colectivos de búsqueda chocan por encuentro Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Incautan 2 millones de artículos falsos del Mundial de futbol en operación internacional",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQy1KRzl0M3kzcWwtNi01ejlQNzhWeVlkN3JhaGFUdmhJNEZVQ0QyR3g0QzVMNmp3eUpLM1Z6dHF1ZXJIUHAwWEsxSWZXOEptTzJ2cnZWbUU2cDFJMkU1dkNwemRvNkotNTdUNUVGZHJiTFpvLWpGdXNrakhyQlVCUzZtZVZSZ1l4MnlYXzB2U3ZIVkNTbVBkcW9sOUV6WXFzd1BWWDFwdnh6TEo2cHd5TGZfd3h3Z3hfMkZmV3JvdjF0dWl2Wm9BRHY0Y3JpUQ?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 14:22:00 GMT",
-      "description": "Incautan 2 millones de artículos falsos del Mundial de futbol en operación internacional Aristegui Noticias",
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
