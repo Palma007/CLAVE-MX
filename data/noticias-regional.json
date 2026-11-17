@@ -1,90 +1,799 @@
 {
-  "updatedAt": "2026-11-17T15:00:39.656Z",
+  "updatedAt": "2026-11-17T22:47:07.294Z",
   "sources": [
     {
       "name": "Primera Línea",
       "domain": "primeralinea.com.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Noticias Tehuacán",
       "domain": "noticiastehuacan.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "El Uno",
       "domain": "diarioelunodetehuacan.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Municipios Puebla (Tehuacán)",
       "domain": "municipiospuebla.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Diario Cambio",
       "domain": "diariocambio.com.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "E-consulta",
       "domain": "e-consulta.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Intolerancia Diario",
       "domain": "intoleranciadiario.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Periódico Central",
       "domain": "periodicocentral.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Ambas Manos",
       "domain": "ambasmanos.mx",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
-      "status": "error",
-      "error": "HTTP 503",
-      "count": 0
+      "status": "ok",
+      "count": 6
     }
   ],
-  "items": []
+  "items": [
+    {
+      "title": "Fiscalía de Puebla rescata a tres perros desnutridos y abandonados en Infonavit Amalucan",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2FyQ0d6THYwUTJyeXc5cGtHZkQ3ZUVnNVJSaUR5dHFvMXc5c0xMdXhRRHdRVTRmWl9mU1pqNzczbkhNb2N6Nmpaa1hoeHBVR3lEUGVFRXJ3bmNhbmZyWW9Ba1NVNzZUWmd3NXl1QlpEMEZfRjl0bDNyNmRTc25jRklrTEpvdzZCSjNHcHo0UDNXemduMmpHYzFRUk5ST05fRFpYdl9yV3MzRlZWYV9aMGNlc0pNdXJvWE1PeTJyNFZOMnNwdmFIcW4wY29yLUVuLTZkYlExWnlrQQ?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 21:09:17 GMT",
+      "description": "Fiscalía de Puebla rescata a tres perros desnutridos y abandonados en Infonavit Amalucan Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Investigadora BUAP recibe mención honorífica en los Premios INAH 2026; analiza controversias en época posrevolucionaria",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUWg2eDlUSmxUWFVKNWU0aFktbHU5dDFkODBWMms1TjE1SFdBT1p4Zlo0dVdOQnR6OVhNbVNzS3liWkFfSmJ1SE0xYWQ0d0hNZzJHT0xxWlJEbTVKV1hwVzFXUjJRcmlyVmROejZvN29sR0JjelRFc3dYbkkyMU0wVjBiSjQ2bXZObWdLeDRybXQ2RUlYeEVjNFQ0Q19CRzlwQXJ6bkxuUWxzZDNMUkREc1NzREhkNUlLUTJQRENFZzdBU0R5cHV2N3BlbU53azJ0Nk85cWZvVmxtTFAxdEVDZmxzNmhJV1lkaWVLSkRCcGVnWVhvWGtCQVRsOA?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 21:04:50 GMT",
+      "description": "Investigadora BUAP recibe mención honorífica en los Premios INAH 2026; analiza controversias en época posrevolucionaria Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Artesanos de Calmeca representan a Puebla en pasarela nacional de Original México",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYlhNNDh6cnU1VGpCcmt4bUlTV3hXMXlqV0E3NzZSZ1BWVC1YRXFPWTJiWG9Yd2tTYnlqMjNIM3JLVENiVWRtM255Zmtvai1aZ194Sy1LY01WUkxSQXZVd0ZUTm1zcUU3M2t6di16MUp4eVJuY3JHTVNGQjlnU2NYX0hnLTBCMW5GZDZrVHhGa2c5VHY4WHFUM190alp1MGpaWUdPbHpieXIyemtmR0JIWVZYT1RCdTB0OHc4?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 20:03:16 GMT",
+      "description": "Artesanos de Calmeca representan a Puebla en pasarela nacional de Original México e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Cinema Puebla celebra 15 años con Muestra Fílmica Universitaria; proyectarán obras a nivel nacional",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDdNN0EybGF3YmxEbVBoLW9ra1VsYjBlU3VhYTl0Ym12TENBYTZaalBqODRRUDNzRzY2SklZdUltdzhUTE5uVmQzcFZPQ1F1c1lsN09JUEdpcDRsaFJoSEF0YS1TVjVVNEw2U0JNU3Q3UVhVand5dWdBNTBJSnc3Zy1hc19qNWNoTXppVFN3ZmwwU1J3UEk5b0FCeFJKQkczdFNNZGZFcTd4Q0ItZ2VIcFl2N1ZTNGxmaEVTRUlMNHVVNDd5WmdBMjRvT3dmUG5NeXgyTWp1TU1UZENWOC1DMw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:40:57 GMT",
+      "description": "Cinema Puebla celebra 15 años con Muestra Fílmica Universitaria; proyectarán obras a nivel nacional Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Pepe Chedraui confirma firma de convenio para trenes de pavimentación en Puebla capital",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZzdOaXdrN3hrN2FfRGk5RWsxWEFxT0l1VWdpSjNjdmpFZ21icW83ZE92TzczczlaSjU0U1BSRnBsSGFhWXdhYTN4V0ZVcUc2WHBkMExJaXRRdEExcng2Q2V5SEhMNU5wZklqY25WdWxGa3JDRmJXejBHNmVJR1hwbHUzdGRxM3lNb3J2bnpCWmtkOEJnTTFrZWd4bHBjOURfSnlKNVdqYVJOUHNiQUVXeEVpTVh5MS1ZVXZrckVrVS1sUlUzTkRNaU96ZVRmTHRfYmpScw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:34:22 GMT",
+      "description": "Pepe Chedraui confirma firma de convenio para trenes de pavimentación en Puebla capital Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Congreso garantizará eficiencia, austeridad y equidad distributiva en el Paquete Económico 2027: Pável Gaspar",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZTJsc0JkLTZpYkRvNGdnS0RTTUR5U3A5RUpFNW9VTHU1aUYtVVpQVjl6T1BCd2pCbXZPa0RZZk05b0xRcTlwRjVmblIzNXQ4NV9iNHhUV1phV0JNeElTeVpTT19oay1xcElNQ3psQ1Z3aVJ2d0hKdmdHZmVPUHR6NjB4RFEzWE5RTGtLX0xhNlRHUGJreEdHT2tUTW1lLTl3YUphNVk2TnFlVVZhWlc2WFhTWUkxUU9pY3lZeDNGTU1yZW5veDhrWldpYXNPRHIzMW02NHkzb2sxTjgwLXJ0YUU3dkc?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 18:03:17 GMT",
+      "description": "Congreso garantizará eficiencia, austeridad y equidad distributiva en el Paquete Económico 2027: Pável Gaspar Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "“Majo” López y Mirelle Arciniega dejaron el Puebla Femenil y ahora triunfan como entrenadoras",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSGF4UmRxOXIzZkJRU3dIOHkwbzNGallzUVRXUUxzVk1kTDBaTC1Ua2xwcnRlNGlSbEYxT2VyMmdKcnZhdHVyX1A4U0tvUEh0Y2Z2YnYxS1ZueXB5UWpsd0NPcHpGczNIeU5QWnR6dGRLVE5feVlYREdQMXh3SnN6LVhOajhrWEppWGRRTUs0NDRGUlRZMlBqOVBKTzFpNThNQXhRSDNFOUFUZXRDS1R5ZGJqRjBkbWlPbTJZbDR0Z2RVaVRnS2FIcmliOThGTkVoUDJyVWFLTEZ1ajB5V1lCTWFKQzQwWWFZeVBIZk9rTVg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 17:18:28 GMT",
+      "description": "“Majo” López y Mirelle Arciniega dejaron el Puebla Femenil y ahora triunfan como entrenadoras El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Ariadna Ayala conquista el séptimo lugar nacional entre alcaldes mejor evaluados de Morena: Mitofsky",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVHlhU1BUdFRYbXFBVTBvNmZCODZSRXlORmlQVTh6X0JuXzM3QU9DMjVRRDNYTlB0eXBHc1dUR3BRSUMyTEE2RDhsSjRMbmdHdEtlaFlNOERCWlRzVHE5LVd5WHE2YTVDWXZpaDBFczZwLTBhcjlpY3ZFWG5MVnJaRi02RkdVWVRqUl9JNk02aFZvRXFZS0FkNUw5LUx5THZHZHNTbDlrdEFrcWhsbzF6TWw4RzhNeGpBZnk5d3hRamZDckxnZThFY1Q2VnUxUjlIalNDa3hpeXBPZy1zSVRjYzlOMEg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 16:52:47 GMT",
+      "description": "Ariadna Ayala conquista el séptimo lugar nacional entre alcaldes mejor evaluados de Morena: Mitofsky Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "México busca otro panda para Chapultepec; Sheinbaum lo pide a China",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNzJoRDE0Q1JXbEJrbXlvUjd5LXVKYXFiRlBhZmwwX3JHYl92MmVSbDFhZzNtMEE5ZlRjVEdrQjJncFFHbHZ6dXM0NUxkYzZrN2dHMkhGR0N3TUtEZldrdUFmVG8yMm9oeVJFLXZEX3g1SjRraE12Um45dHk5YTBtRTNSVjg5RTNxVWc2TVc5YktlYXVYQTFiXzNsR0hsLTIwNDZGZjBUMjhUcHNX?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 16:07:01 GMT",
+      "description": "México busca otro panda para Chapultepec; Sheinbaum lo pide a China e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Violento asalto deja a un hombre herido de bala en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDBmSWdJZGJLM2Rlb1dDQm1ic1Npd3BjYi1OYy1ZS0VSOERHV0NKaUZkNF96emEzYVZmdEVXanpxZ2tlMmpQWTdxaHQ1S1FJLVl6dExvVzNONHNyQ0VtbjFpWjJWWTFMaGNhdTVTZlJsMHgyVy1zQW16T2VPTHNSSHBMV1hTdkpJdmQyZnJ1TXBoT1k5WVVwcXY3THhqUEt0?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 12:46:00 GMT",
+      "description": "Violento asalto deja a un hombre herido de bala en Tehuacán Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Cablefóbicos arruinan la Vía Recreativa, vandalizan fachadas y agreden a la prensa en Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdXJGN1dmbkFSZDIzTzA3cDRQbkpLN2VOYWh5dU04TlpTM2djZVl3d1ZZemNiUklJRFZ4dzBiNkdQQm9nVGpjdjdGcVNYVUtnNEFNZGM2cDJZV1haZDhWU0M2VW9oUF9DUVJOdVJvWWlHNkpnN2JvME1JLXNUVGVEXzEwbHFiMHF6YktkX1BSTGk2UDdLUEY4SGVnSnRzTXdRNHd2akpFcG83RDJSTDRvazcyZ1ZqeGlhSVNoOEtYalV1ejhNWkRSMHVES05uY0F1UWc?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 11:45:00 GMT",
+      "description": "Cablefóbicos arruinan la Vía Recreativa, vandalizan fachadas y agreden a la prensa en Puebla Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Pablo Salazar asume la secretaría técnica de la Mesa de Coalición: Siyancán le entrega nombramiento",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPelNEZXR3N3RzWDNvWXdVNXQ4Zk91MkQtcmQyZ3RDcDNaMElZNUFxZGZLX3Ryby1iclFXVVJHeGF6VmtvVThka1dTUDdmb1pXY2JOWV94X1R3a25KSVBISUFGQW5rYmtRWHJYMmtZb0g2ZjNjeDNiQnp6T0VVSXd3M3JlV3M5VmNZM0QwZVBiM05Eb3JVNUpjQTZvaXlHRjZzREJocm9CZmtUZXNQRWpUaGZaNTlGX0JKdElrYVByZmwwS2kxUXE2eTJsTWRQaG9vdkJwc19VUEVPanNVR0E?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 11:30:00 GMT",
+      "description": "Pablo Salazar asume la secretaría técnica de la Mesa de Coalición: Siyancán le entrega nombramiento Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Fundación Julita y Antonio denuncia a Carlos Talavera por despojo y fraude",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0ZXUk8tZzE5N2NuZkRWTmdUVG9BUktUTXdzZmhmcXphT1diZXNwb3dSeXVlUUpfVFZhUHZ3Wm94aGdCYW5BdlVzSWVfd3lfYm9ra294bU5qMnhtT01rcEV2Szc4SGNob1B0YXFaUDBjTzROMXZKcTd0UjNwQUxZam16TE1QRG8wQTc4QzBPS0l3aUFISUhWdGIzMk5GZ2FjRWNPMzN5clN2VVU?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 06:08:24 GMT",
+      "description": "Fundación Julita y Antonio denuncia a Carlos Talavera por despojo y fraude La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Néstor Camarillo entra a la Casa Blanca y lo cobijan los líderes del Partido Demócrata",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVpGa3BtQnVjVUpBR1hRWExmc1FBdWdaQW9ZSC1HN2xSOWlOQXJFUXh6Yk8tdklHd2ZkQ2ZnWFhkVHl4TnRuaDJ0TUxDYkFJYWhKMkVONzhUQ2ZIUVM3NE1LSlg4a2ZFdXNQSFJwb0hQTS1XSUtyUkdhLTRDbWFVMzdabGMzTGZRaDdYTmJsc2NwcVRXLVlsV0lWR1NkTlpnX1RqeU14dXQwOHZGZm01bnNhV3BlMmN3bE9IT0o2aTEwWXFGa2JPeElGZDI?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 06:00:22 GMT",
+      "description": "Néstor Camarillo entra a la Casa Blanca y lo cobijan los líderes del Partido Demócrata La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Olivia Salomón, entre la Lotería y la alcaldía",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91dnZjbU1LTHFHZXhGQkdiTTdQVkF1bjBBVjFyWF9URUZDeVNqcW9pUVFWa3JHMHhfdjdHdDJfVzlUZWxXbjJ3X3lEbThNY19NeXlCNkZjSTVnT0xJNXE0Vkh6eExYM09ISGkwWDRDd0RPZUE5Rzd5OXpB?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 05:00:48 GMT",
+      "description": "Olivia Salomón, entre la Lotería y la alcaldía Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Muere Carlos Adrián, niño de nueve años tras accidente en motocicleta en San Andrés Cholula",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON1ItX29qSjRwWS14YU11czZpNXhXbWJmcUloV1ludVNNZ3hzZnR3Z3Z4eTkyWkRCVnFLT3JBeHRkNnBiUUpqdGlGVXVOM0dxVjAxUUxLUmtiSEYzazFEa0Q3NmJ3RmRJdy0tSXFhYzZfZUx6Y3J2NUVhMVVfX3NMb3ZMY0Y3N1IxYXBxNXdzRVotWTB4SHJRTnZpRDBqZGw5ZGNpU1FqeGk4dEpkYW5qX3B2QnJiNkx4NXlSczFOSXVfZzhkVnZlMnZCd2ktNzJEeWNWag?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 05:00:11 GMT",
+      "description": "Muere Carlos Adrián, niño de nueve años tras accidente en motocicleta en San Andrés Cholula El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Retienen y golpean a presunto carterista durante concierto de Espinoza Paz en Texmelucan (VIDEO)",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeUFSampSTzdnamhPZ1ZGNTF0a1l0TmJKd3V3MkVKS1NhRE4xS0RnM0ZscDBuamJyTjdpZnhsaXdpVnZZdFRvQlcxaVI4dnl6bGN1aEJ0cldFSXhQSUZlOUswWGVtdF9Kb0FOMkc0RHdoZkFzNWRXQ0gwWkdlV29UZ0JkQzl3R2dOSzI0cHU5TFhSSUoyTzlQNGJUUUdULTNRNDBleXNyRlNraU1nY1Q2YjJldTZKZTg1UE1mNzJzZTZab2JFSGltWlZPSTFTYnhvMllJNkFfV2ZJdw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 04:50:36 GMT",
+      "description": "Retienen y golpean a presunto carterista durante concierto de Espinoza Paz en Texmelucan (VIDEO) Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Con nueva Ley de Cultura proponen crear inventario del patrimonio en Puebla",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFM0WDdYOUhHUWpReTVqWnZaU1lqN3lZNWl4Ti12RzdUd1NxZWt1aFhjMUZUWnlIRUJLQXZNd2Z1bmg0akhXb21rYVh3aHJ5bnRueUYwa0hGVktncEdVeThFakVQVmZpblRBODZFSU1vMTBhOXJna2ZZQ0VRemVCTGxsODlNY3FlaGctVlhBek4tX0wxWW51cUVGM2V4b3pQMy16NHdWR2I0eU5iWUdXUWotQVdEOHNCc1E?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 03:19:00 GMT",
+      "description": "Con nueva Ley de Cultura proponen crear inventario del patrimonio en Puebla Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Con inversión municipal, Pepe Chedraui fortalece los circuitos viales de Puebla Capital",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjNvUnVXanFKQUxTYVpJdTBaV1doX0pONGRjTnVRenhvTGhGSXd6TXlnNkVfbTdCQXBFb2ljUWRSNkliUEQ2bG1RUHliM0xjemhZeWl3clBod09XM1p1N2dvWXZtdVZWUzhRQnZMckxGUzhFVkZvTVh1SE1aLUYwV2lYQ0hzckdoQTR1NUVHM3VSNkZ6ZW91bHNmV0JmaU9hdVdMZWtkb1hJcUZCdFpjZmxaUXlObGJ6SGVqRURqZ0FCX3p2c1E?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 02:21:14 GMT",
+      "description": "Con inversión municipal, Pepe Chedraui fortalece los circuitos viales de Puebla Capital Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Atropellan a peregrino que viajaba en bicicleta rumbo a Juquila; conductor de pipa escapa en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2JfRVdlY0ZoZ0F0c1l0a2NnZkxQQkNuZERyZDR1X2NPbndJVGtLN09tMUdoRThNbmpQQ0wxYTd4VE9WMlM3aTc2Y25tMy1OX3otRFZCVmhRQUdvT0tUU1NiTlJiVTlfMTh5R09NUFJxOGVUbWlNUmJna0tXbmRWQjhYTS16ZGdITVlLWWw1ZDYwdjlVX09GNGdTajQzRzBsenBKUVZMMkJPLTBLQ00wWFVSdV9YbklpWk10eGROeGw5cm1sNGVvMg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:45:00 GMT",
+      "description": "Atropellan a peregrino que viajaba en bicicleta rumbo a Juquila; conductor de pipa escapa en Tehuacán Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "La formación online abre nuevas oportunidades para los profesionales mexicanos",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzJ6Z2lETTZvTTBzMnJrTnpTOGFVUHVpWFdIcHNKaGFSbFdDWVQ1VGlXR1daRmRBTy1wTzRacFJxc25MMElGb3d6LTlJXzByeWJpb1J0TTk0a3Vqek1tdnRCb0dDdjI5azVVX1UzNlVobDhIbzB1VEMtbTRkQlZKR1RaVDFtRENQSHcweEpnNUdqT2dweTVkLTNzRnlBUnh0eXUtaDA0N1AtVlVaOHdxVDhNRkxMVkwzdFpGNXpB?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:05:24 GMT",
+      "description": "La formación online abre nuevas oportunidades para los profesionales mexicanos e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Gobierno de Puebla sin ceder a chantajes desde los penales, reitera Andrés Villegas",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdGdiNjJJQ1oydVdhcE1UdWhnNDN5ejJCc1pFMHY3UlZMR2RHZW9venNIWXhLa3A1aUVrWk82WC0yNjVzemVlX2I5d3VsLXJUeTZuS0J2amhiVkZ4dl8tUldaYjJOZnpFc2laLUZFV3A3RjZVY2plYzdYUEVVYlBuR2VnYk1Md1pMOW9leDRKelBNZUNMbzM2bElhdjM4alJtTWRXdUJSTDNNRllDQzVSY19YUWxVc1NVRGdaNE5MMDQ3TXl4YW13cVdvMTlmRDdRWVlFdnczNUhRWk9VbHFrQUtsQU9CYkJpVlJn?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:36:39 GMT",
+      "description": "Gobierno de Puebla sin ceder a chantajes desde los penales, reitera Andrés Villegas Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Agreden a conductor de InDrive tras reclamar pago de viaje en colonia Puebla",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjhmMzI1eFlkLXMySVhWNkZNWVREa0FTa0xvaGNHQnkzWE1ROFloNzlRSDdMMG5ybTA0eS03SFlmNTRObVdLYTNBYjlRR1g4U2xRNVRfS3hyWUtNOXpMNjEwVlJkV3BjZEszSXEza0FuaW83MGFNUl9NRlFud3h6Q24xbFRnbUhqNmhRa1J5QTJsX0pyME51RnEyNHpZQ21Na0pMdDAtZU5Da0NLY1ZCWDdJSFVXMkE?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:09:00 GMT",
+      "description": "Agreden a conductor de InDrive tras reclamar pago de viaje en colonia Puebla Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Denuncian carencias y deficiencias en clínica del ISSSTE de Tehuacán; exigen atención y transparencia de recursos",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWnRxcjBuc2JXUjQ2Q3A4ZlNXYTA5TVljbmpjbVByZGNmRVk5dS1HbzBqUzdBZ0pUdUtacDlaWnNleU9hRW1mTFJBVG8tRzh0VUlORTl0am1WNjdDd3VLaV9FZFEzbm8xa2V2NldwV3UzM0pBZmdOQ0hJN2MyWllXczFKVDVSNzNBY2lRWTV5RzFlVnpDcGl0T2FLZkdoZzcyZDdsQ0lpUTJJVzlDZVhhNmg0ODFPOUVRWXZFdFBqWklSVWlDTXM0?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 00:07:00 GMT",
+      "description": "Denuncian carencias y deficiencias en clínica del ISSSTE de Tehuacán; exigen atención y transparencia de recursos Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Impunidad en casos de pornografía infantil en Puebla: dos de cada tres sin resolverse",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnUzcFhpODVXSFBRaVZOTWtaaE9Hekdaa1dTSjJQc08zQUVGNUJWWk1oTlFyZEVNZk9POURHa2dIemE3ckYyV2tpOUtUVjNtc1BOb0d3THpraExwSHplRTQtdHZxajkwRXpsaXMzemlqS2V1SjdPZEV1Um1SWk9rOFpkaXN3by1uTVdFWTVZenU5aG13RDV0amlPNHFJdDNLNTVIZE5VS0F3UTNvRXcyUml3?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 23:50:40 GMT",
+      "description": "Impunidad en casos de pornografía infantil en Puebla: dos de cada tres sin resolverse e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Defiende Pablo Salazar su trayectoria en Morena y niega negociación de candidaturas",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZS1KTnZyNjFFUHZHWFk3NmcyQXowb2FrTXQwMTVzaHdhQkJsVTZmRy1QWXQ3WGJITmFnUHdaZmFPZWZ1TGxRQldCZGtBX1pRQ3UtTDA3VWlBQmFVUzdGMmgwbTkzTkhYRVQzajFsb3ZERzRvSHZNSzE0emJHNGNHYi1GOGdyajNaamNVYUQwVklJNGx6QmgwWUVTNmh1WWpfMWtyTUtWY3p4M3ExYUxjUUJDSERPczNaWjBWYkx1eFdlbWxMdWp3?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 22:37:43 GMT",
+      "description": "Defiende Pablo Salazar su trayectoria en Morena y niega negociación de candidaturas Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Investigadora BUAP obtiene mención honorífica del Premio INAH 2026",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUnBRc0lNbC0xcjRsUFljaHN3eFpLM1d2VV9nZG15VGNIOHZ1VGRvX29fbWREMENqNld3aFplVW0wc0NBNkpjRFNFLWZ6dVVZOFIyZkxQNndUZTFiUU13YlJaOW1ybUl5RHd4NGtPUTZQWHZMRDhUNGg3U2JubXBZbDR4R1cwQnhFQnpvQ0k0cHA4VXpRTkZHUF9zLWFPWkVzUWJ5czZ3?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 22:31:01 GMT",
+      "description": "Investigadora BUAP obtiene mención honorífica del Premio INAH 2026 e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Hay concesionarios en Puebla que prefieren pagar por protección que renovar unidades: Tanús",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdy11ZHFFMVhXeHFiT1RYRWtjSFRaMXAyUW5QX3JreXN3NFJ6UUpXbVVneVR4ZHdRZDBGaUZobUtKVEhKRlBMR0RWMWl1RlNOeXpLM2UxUHY5ajFHQXpUY3JDTktNdDByR191XzF2N2RkV0xVV3J4WU9fRURrRXJBTF9lQ25VVnhhS1FmX1IwNHRQaWd1eGlyODNHb0RlakRHbWh0MncwVU5weFUxLUQ5X3NYOHczbGpqTHk2cmhGYnJ5T01CeGtmZmFmVQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 22:23:07 GMT",
+      "description": "Hay concesionarios en Puebla que prefieren pagar por protección que renovar unidades: Tanús Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Puebla se suma a estrategia nacional de la Secretaría de Agricultura; fortalecerán sanidad del aguacate",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNm5XNTF6RzBiOHlXTml2ejNMU3hwdEJWOENtZGZFamxWLWxZQm9KbE00NFJ2R082eU9mWk5TRUJERXN5UEVHd193bkVtY1FZUFBkbmI2WjJkdE1Qa3JuRFlETktnYkdkWXRhNnlhVExkSVJtcXp4dVRmVmNmNUtnaWpVNUVReTNtYnI2R0Y1aExqSjI3c0NPVERyRVBzYThJRVlVaDF5WnR6WUtGa1E2aHZGV09VR3FuVkk3OXdmLVNIM3NrSkJRY3Z5ajdCWmJGbEFlQmFGdXBOSjlmOHl0LWlPaw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:45:25 GMT",
+      "description": "Puebla se suma a estrategia nacional de la Secretaría de Agricultura; fortalecerán sanidad del aguacate Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Damnificados por explosión en la Romero Vargas cumplen cuatro días sin poder volver a casa",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMXk2bWM1TWZ1Z2xkeUY1dEZFNU5fRHdxQi1TR3BCbnQ0WVZHVTRBTThjaGZnbFJENXpPVDlhSWQyTFc0bkRHTi1kX3ZMNXFGZkF0ZUJIcmg2WFJvWDBXTHoxSkJkZ2xJUTRNWjBtWTd0WURrUGh4T19Rc3V3cFo4eldpMUZQdDUyQ091WmlvS0RyVGNxejJIb2JFYw?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 21:27:44 GMT",
+      "description": "Damnificados por explosión en la Romero Vargas cumplen cuatro días sin poder volver a casa Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Grupo de choque se enfrenta con comerciantes de Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQV84VUJpV2hzZ1o5MDgtMFV3N0hmV3kzX2lpdkRwbnpacXdtem1HaTRzakhxY2Jub3pkbHM4bjQ4a19IOGN6Y0hINXJBdnAtZ1FaWkItZWVCM3ZPc0FUemg0bklmcXFXd2lxNTdnaDBXSDYtQVNoQ0thTzF0ZXlkc014Z3M4ME1Qa2E2Z3Y3NGdWbng5cmdZQXFCWDRZaU03Smc?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 19:00:06 GMT",
+      "description": "Grupo de choque se enfrenta con comerciantes de Tehuacán Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Atención partidos políticos | Rocío García Olmedo",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nNklpbGJwVnZGb28zeG1RMFRwOThiQnNMbnQwMGJmNjFqeTFELUtua3JWYUgwMS0zVjI4WnNucV82XzVzcWpmTG92U3VJeldDbFpxNEIycWRHVHo5ZG9zTmg2cEdFc2FzdDBfNVJXWQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 15:58:46 GMT",
+      "description": "Atención partidos políticos | Rocío García Olmedo e-consulta.com",
+      "source": "e-consulta.com",
+      "outlet": "E-consulta",
+      "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Anuncian hospital de alta especialidad",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EM1d3ZzFSVEJZdWRUWTlPN1J5S0hOeWlMRlpnWjNSWjF4VEJfRzc3NXRMSHhxZ2VaNGxCQ0RDWWVwQjgtbWREcXBhalJiT2x0OHVxSlAwY2pzeVhfNkE5dWg2am5hcmt2MnJadkltcTMxRUoxeXNoMDR3?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 05:04:19 GMT",
+      "description": "Anuncian hospital de alta especialidad Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Riña entre comerciantes deja varios lesionados en La Purísima, en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRjFuR25XSW1EQ1ZVTU9CQnJxdWZvNnVhZE9kU0FoNmJpV0xQY29uOW5nWm1ZNjRiOUtsVkpCcldnLTZXYWVXTFdvYUwxeGtjVEJQcjd3blE5YVl4Uk1qV2haTWlqRFVtekF4UTdiYkcwak5pRWUtaWJpejA1c1cyVVBObnBTYmU3R2F3VVlsMVVubU95ZHVsbVB4X2tfN2diMkFtSzJYZV9NUFZuZ3RMNHJKU0x0QQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 01:35:00 GMT",
+      "description": "Riña entre comerciantes deja varios lesionados en La Purísima, en Tehuacán Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Muere Miguel Ángel Félix Gallardo, “El Jefe de Jefes”, fundador del Cártel de Guadalajara, a los 80 años",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTmt0aEtvMzBaSUJ1MHgwTmJiQlR1TnRkbmJlVk5Pc25IeUdVZG8xUDBYbHJ0aUFHZnFwM2lDLVRaQTlwUkJQSkVzMUw4MzJXc1pTMHcteGZXMktHXzlOcjdNVVM2b1U1QkxRTzlSOHVQamNPNmJ0Y3lzd1huZkRNM0hYQXhXMXhuaTNDME9BM19nQ0t6eTBDTW9DRkUyQVZrVFRVNFI4M3pHTjZHdzVIcl9ZTEd4bXBWMVZQWTU3NElRcHBtRU9BVDUxcl9DLVdtOTJIN1o2cVdPRzc1YzZaYw?oc=5",
+      "pubDate": "Sun, 15 Nov 2026 21:43:55 GMT",
+      "description": "Muere Miguel Ángel Félix Gallardo, “El Jefe de Jefes”, fundador del Cártel de Guadalajara, a los 80 años Diario Cambio",
+      "source": "Diario Cambio",
+      "outlet": "Diario Cambio",
+      "domain": "diariocambio.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "FGR realiza diligencias en dos sedes del INE por investigación contra Guadalupe Taddei",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmlOMGtOTmc1dDBNZm9Tc0pLYmU5dnhNeVJ0dGRXamhkaVQ1bEdlSkhtejJUZUo5WVZSbzRpYVlkcVpPZHk5eVAtM2loR3BDTXRJNDczbm5oR3ViSHRZQ1JuY1JHTUYwakg1YlhXb2dOR3U1Tnl6Nm12NWxkYTBWUjg2SThhU0w4RGNzeGJjMUVUTHJtYTkwN21qNE9PVlpzY0diZUhmY2pVWEpyLW5lMnVSbDJEMUhBVkFndFBUSHNKVjNtWmdWNVF2YlJ6YUhJY1NDR09VVHJScndtRmFpM1dJdlJWd3o0VDRWUExReFk?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 16:33:23 GMT",
+      "description": "FGR realiza diligencias en dos sedes del INE por investigación contra Guadalupe Taddei Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Protección Civil prevé temperaturas de hasta 3 grados en comunidades de Tehuacán por temporada de frío",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlViMnlTcDFTTmlEQk5KREdPaTd6eFl1WGRtOVdKMkNHbGl6ckpnTWNEeE5oSnpvcFpBbzZmWlFSVW50TTBHU1AwbTF3MHZNX3BTWVZtV3NZVXU2ZXlWeW45U1c2S0Qzb1lrYlpYcHA4LU9xNlg4czZSaWk2RXlfR3Q0UlQ1VXNLbU03SE9pd2RkX05PdENqUklXRHVwcHBHdVZDcnk0Q0xQS2MxVHg3U042UVZHME1QMW5wWEJlNUhQbzNX?oc=5",
+      "pubDate": "Sat, 14 Nov 2026 10:27:00 GMT",
+      "description": "Protección Civil prevé temperaturas de hasta 3 grados en comunidades de Tehuacán por temporada de frío Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
+      "title": "Claudia Sheinbaum inaugura la Universidad del Deporte del Estado de Puebla para mil 500 alumnos",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUkhOZ0ctci1MN1JNTXRQbjI4NnRUaHRiYXI4NlpDcUVsRDZkMXp4LXRzYnZXSDROQ280TEpEaHNwUWVJQzFuRlB6c2U4UWVWZ0J4dDBDNXJFQmViYXotVndWS2h6Q2ZGUmp5eEFyb051OFBZR1FCTWpvS0lNZGVJUy1wbmdHYnQ2cVRnZG1ERndaY3BQb2FkWVlFVWVURTIwOURZVHFCM3EtNlJDYTJ1dWJDbFBxSkhfVTJWQlROaFZha19uNVdTM3VxUW5VbXZZTDEzMVVBRnBLX1daYlRR?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 23:06:00 GMT",
+      "description": "Claudia Sheinbaum inaugura la Universidad del Deporte del Estado de Puebla para mil 500 alumnos El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Feria de la Chalupa, Espinoza Paz, Elefante, Noche de Museos y más este fin de semana en Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3FNZkhPTW9TaVFsLTVGcURJODRpcGxZeWhkbXFwZ280WmY5ODVNN0dZeVM3bEVHa25rV1BYVUlNR2VFTzZsOUJCM0VWakdhQjdrSUR1WW81cnl3bGV3eXhVYzd1SWd4ZGMzbmdtMDZVRF84ZzRlNEZyWk1Wd2tPWVBkUWplVEgxT3VFOTI2U1VCZ0xsb1RlaWd2NlhRZENIWXRYOHlpaXdFdWR4THJPaFdHT2F5OFNPS3Y4WGtMa0xaeGRPM1FFY0NoM1RqZnlJdHBpaHdDY1I?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 01:59:18 GMT",
+      "description": "Feria de la Chalupa, Espinoza Paz, Elefante, Noche de Museos y más este fin de semana en Puebla El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Asesinan a balazos a Eduardo Valdovinos, aspirante de Morena en Lázaro Cárdenas, Michoacán",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZlppUS1BYUE0TFduenh2aVZVR053aEVhT29pd1VjOEd3S18yczQ5UFJzSTNFZ05vX2tJS2dSY09OWmt0b0VMLVlwOGtGbzZTT0VJeUdwOTB2V1E5LXd1Wk5EMlNUOGd4UFZOQXRXeWR0bllvNEpnYUs4ZmItZDdEMENEUEdvNkYzczF3STJEcEhIbF9FVmY1UUNYcUoxNWRBMlVjclVFNmd1YmhIaDNrZjNqRWJFU1ZMd29rTzZEZTBYajVSeE1SVFVVaTJaMkx5YjZ5TVV2V1Btck1pbHYyb3NQWVBvV3o4SXppSTNyUWtPeW8?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 04:15:27 GMT",
+      "description": "Asesinan a balazos a Eduardo Valdovinos, aspirante de Morena en Lázaro Cárdenas, Michoacán Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Gana estudiante de la BUAP premio GBIF para investigadores de posgrado 2026",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONmw2THhyN3NzOVZ6RmxwWEtGa0t1akxaWWlyOXpWU2M0QlRZVERSNl93bjVpc21fdkZ1My1HMnVHNGJoRzVzcHE1bHZaaXE4N0k1czZLVXpSSi10VndwTTFtczZnaWFMcHhodEpwejZVNEttdTJ3d2FHcFJUTWJBYjRRWllCRUNFbWtxSi1od1FMeUZRaHV0TV9BZlRFdkFUNW9hbEFSbFBrNW5RRWxoUk9uNUpYTEt4?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 02:05:54 GMT",
+      "description": "Gana estudiante de la BUAP premio GBIF para investigadores de posgrado 2026 El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Mamá e hijo sobreviven tras ser embestidos y arrastrados por el tren en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLTVpSkF2VFl3NmZPd3NTTkk0Q1dzcGNkZHhMRkhSSm5MdFFwb2VFdEx6VVl4eVcwUlp0aXUxUlZQSjk0VU9TSVJpdGdJVDBMdUF3OWNzamg5bUd4XzZqWEtxeFF5ZkR0TDNta1hmZUpWc3d0TlkxcDVESHZKVWxxUXBSRHgzekhEZHJTYm53SmszTU5MVkhEQmRLSURZRWFXSl9Geml6YWRnZUdoSmZKRU12RF_SAbQBQVVfeXFMTy01aUpBdlRZdzZmT3dzU05JNENXc3BjZGR4TEZIUkpuTHRRcG9lRXRMelVZeHlXMFJadGl1MVJWUEo5NFVPU0lSaXRnSVQwTHVBdzljc2poOW1HeF82alhLcXhReWZEdEwzbWtYZmVKVnN3dE5ZMXA1REh2SlVscVFwUkR4M3pIRGRyU2Jud0prM01OTFZIREJkS0lEWUVhV0pfRnppemFkZ2VHaEpmSkVNdkRf?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 21:55:12 GMT",
+      "description": "Mamá e hijo sobreviven tras ser embestidos y arrastrados por el tren en Tehuacán Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Diálogo libera ocho bloqueos de familiares de internos en San Miguel; causaron daños en Casa Aguayo",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV0RLdnFpT2JQV0NQUkR0bkRnN0dpZEFwdThsRVA2bjhlS2w0WEJOQUdCRnNKRk52VnZGVWs3bnIzWU9aWmZTMnVzLUpUcjV3VFo0b2MwYnF3SDA3WGtTSFh6dGUzeVZxZ3BlcDl0SVpqeWRXVmtDOHJ5eElfQUV3cjlyUjlESUdvSkpOR3QtSEphMGhsdEpuNjQwMWhmaWdyV29aMUc1RnFqVm9Vc1RZUjB0Yk55aFZnemZzc1Fpek1Eb2lDdGtoN0pGLXQ1Nld3LXg1Slh1dUdHVGhsTTdudWxrcXRBSC1aZDlZX0E0akU2MEZBdjRiSnFneld3QXc2?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 00:02:15 GMT",
+      "description": "Diálogo libera ocho bloqueos de familiares de internos en San Miguel; causaron daños en Casa Aguayo Intolerancia Diario",
+      "source": "Intolerancia Diario",
+      "outlet": "Intolerancia Diario",
+      "domain": "intoleranciadiario.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Estudiante de la UTT fallece tras ser arrollado por un camión en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWQ4Ul8yUWRYcEhSanlYMnd3amhVa0xLVFZvbGhPQlVheWFPUFZEaWlXWTFLRjl4c29jQTU4VV9FQXFxVzBzamtRdUFPbXMzNkhiRkNfYUZSVHNVMWFRVzN3cW1sZUxFdF9ITUtyNl9jSG1XMG9rUnhGcHpNWW1UcndKbm9xOG5aUVg4OGJBVzNybTRzQktkMkNnQUZrRTAzTzNMTkJ30gGrAUFVX3lxTE80UUN1Wm9nUVNZU1ota1VmS3NSazFkeHE4eG5RYXE3ckNUVFUtOXFuNEVsQkRyOGh2WkZxRElkQlZ6Y0NUYWgwNU9EWmFEZjhJNGloem9kNWJrZ2hvU0xrYU93NnI0SkZYd0syT3UyaHQ4aWVLcXZQWmRvSVVDUkt3SlRBdHNCWFp0UWl2V0tXSVJmTzBJeGJCQWdNa25aWDdGSGhkSzVpZFJESQ?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 22:41:20 GMT",
+      "description": "Estudiante de la UTT fallece tras ser arrollado por un camión en Tehuacán Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Proyectan derrama económica de 535 millones de pesos por el Buen Fin 2026 en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPal9ZR2FRZmZrelJ0ck52SjMwa1Vyby1EbnNCTmEtUnBqLVVFemdyVzMzWjc5UzlaTUdjUzF4azJ1TWFIWVl6V00yZllLbHZ5WXMwWHdmbG1GSEdDVjRKNTJPb09mc0NSdl9JUmhkVXJ0SVA3UzFWSWd0SmpVcVhKSlNkZ1FTMEw5MHJpY0R4eWpTSHZnOUZLYUUxOUJlOHdOWUt5NHR2bGUtQlFBQ3hYYU9acWVGUdIBuwFBVV95cUxNZ3R6UHRiUUNpeHh3ZF9hcl9aT1lJY1lNWTZFM3FMdXA2WHNOSkNMRzBIN0FZRHhtQlMwVkJYbnhGZUVuRkZrU25jR3VNQ2stbjVGTnhwUGJ1eGV1a1V2Q21VS25wRThyYllxaUFLeTJxODVWVVRKcm9iZjdfa0ZIMmhoSFR5N0RaT1F2ajY1blRsUWxRdjAwaVNjam5qZm5vaHE5YWFVTDVyRTNuN1pEV3JHMVk0b2owSXJn?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 22:20:25 GMT",
+      "description": "Proyectan derrama económica de 535 millones de pesos por el Buen Fin 2026 en Tehuacán Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Choque y abandono de tractocamión provoca cierres viales en la autopista Cuacnopalan-Oaxaca",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXE5SUplOW1YbWw0TmNjVk9mUXBBbUgwMFVHYkxsaUpyYzdfMlhjR3VxeEg0UzJ0T21fcnRnX0htWTZLaVlvVkdNMElGYk9RWmNTdmNIZVlDalUzd2MwTEtTc0lzbzB1Rlp4b0xCV3lucnpYbE9BTzExdXNYMTVOT2duZ1phZUhfRU1fYmFjZGNNUWxZSGtHU0F1S3l3RTVsdTJMbXhYTk52OGtucklRaklYTHJZd0JEWUdIcGRn0gHDAUFVX3lxTFBpbjZLVFZaY2Q3WnVJTUwtTFJFbGdoaFVuQnlGLU84anRpRk1EV1dtY2RiM2xRdF9hRHFSSlhSYUs2MTRMeTdCV21DQWFOUTRkQXcwQWNxeDJiTjhoVHRLTWFYb01kM2tkYllMYWtRdl9UNXJORWdPT2JicEVzeHIxQy1mTXJWMU1oZjVaZW9vTUwteFJOWVQ3VTdQdzVLZWdyM2NKdWZZbGZKRmtXa2p5c2wxWlhKd1pXa0tPOFVwRGllTQ?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 21:57:41 GMT",
+      "description": "Choque y abandono de tractocamión provoca cierres viales en la autopista Cuacnopalan-Oaxaca Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Esta es la programación del Festival Internacional de Puebla 2026",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0ZNSm9yTWh2N2I1SDJlRTFnMm5ybGtJQzRLMWpPeU5QR2w5RnVxNV9mUmFKN1plYmd5MzZQNmRSV1daVndOUG9vdWVMcThLcEJWYmZpRkIyampYUS1DRDEwUmhsS1ZwbDc1Ql9GSEJZeXdHQklNSzNKLVlkYTBPMHJmODE4bWhNOFFjUmVnVEVuUU04aHpTdzVrU2psVEdoX3R5eVBtbnI2dw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "description": "Esta es la programación del Festival Internacional de Puebla 2026 Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Huracán Vance se mantiene como categoría 2 frente al Pacífico mexicano",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVFZMktKNDZnUkpZOEpZWGFhM3VaNXM4bldRajI3OTJFdlQweFlTT0w1MTFRa3pCLV9FVW50ZTZoTGZuMFdDOUVTT2o3UVY5NkpTc3RKWVExV3U0Q2Vac1dzNEV3YWhtdng1YVVRYW51WXlBMWRLNElVbWFvbUpRZmRudnVoN1NmczJVMUI4LWlZTjM3bUVyUXRXMXAyUQ?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 07:00:00 GMT",
+      "description": "Huracán Vance se mantiene como categoría 2 frente al Pacífico mexicano La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Alerta Conanp por lotificaciones ilegales en la Reserva de la Biosfera Tehuacán-Cuicatlán; advierten sobre fr@udes y d€litos penales",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jdDE2R1FpUGU5VDVCbGlYM3FJcGdSdkg1MFFCMHJNODBJQ1g3R0NVMURrUmF4WElsU3lWd3NURjVTc1Q0TG1VdXgxTkd3NXJ3MDBJYTJ1OTE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "Alerta Conanp por lotificaciones ilegales en la Reserva de la Biosfera Tehuacán-Cuicatlán; advierten sobre fr@udes y d€litos penales https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "Armenta anuncia modernización de vialidades y corredor universitario en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFJ5UGNQRDRUSFZYTngxdHJralZOeWN1ZFE1RG9qWG10Q2V4MUQwUkc1NVY5cWtKSl94bVcydEs2QlZrdnozSTR6OENDYlVzaHNJU2otQUxVNTZ2aHNyVDEwdGNLMXB2OU85X09uQkp6VlNWVURfQzZSMTJLaFFGQV9ONTRJS0djWmFiN0RNR19QbDVHNFVNS25aNUplTVUzUTg2X19ZcDJGclR6MThjLTJrRnJHc0d3dnZ5WlYxRlpwQTlE?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "description": "Armenta anuncia modernización de vialidades y corredor universitario en Tehuacán La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Choqu€ por alcance deja 2 c@lc1n@dos; sucedió en la Coapiaxtla-Cuacnopalan",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xby1NbDRyY01fQ0g0djNCWEl5VWxOMTg4YUkxSlEwazd2RG5Xc2ZFQlJ2TmlFRmJWd3ZqbjR4N2tYal83enRWeTFkNzUwNDNKTFgtYVdjZnI?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "description": "Choqu€ por alcance deja 2 c@lc1n@dos; sucedió en la Coapiaxtla-Cuacnopalan https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "Con huellas de v1ol€nci@ fue hallado un hombre dentro de un domicilio; fue en Altepexi",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14N3VSZzdVZnpfMnMzVjRMNWtKalJSMnhWTnZPM25xZlVJTHl3QThOR2JuM0tCQ0Vzc19hN0Rqb3l4ZlNqeHV5cUZVZFR2Y3J1cTc4ZERMU18?oc=5",
+      "pubDate": "Sun, 04 Oct 2026 07:00:00 GMT",
+      "description": "Con huellas de v1ol€nci@ fue hallado un hombre dentro de un domicilio; fue en Altepexi https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "3 especies de murciélagos destacan por su papel en la reserva Tehuacán-Cuicatlán",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ObmdWOVVvbDktOEZna2x6bl9tN1VYUHFObmNzUE5UalF6aXRhWlRYQjIyemxtejRONUM2OGloY1JnYXV5RE5EaWF6Z0gwam9kQTVhSm5RNTY?oc=5",
+      "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "description": "3 especies de murciélagos destacan por su papel en la reserva Tehuacán-Cuicatlán primeralinea.com.mx",
+      "source": "primeralinea.com.mx",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "Suspende SEP clases en 173 municipios este viernes 2 de octubre por lluvias; también en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkczB0cnEta0J4S0szMkxMM0lyZHl6Y0R5ejMta3B1Z1VneW5zQUhuUHQwY3oxYVdNZU94bXJSTnpneEVvbk9yQzdxd29MOXFhQXFxWC1Nbmk?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "description": "Suspende SEP clases en 173 municipios este viernes 2 de octubre por lluvias; también en Tehuacán https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "Tres nuevos vuelos despegarán desde Huejotzingo",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUYtVVJQNG1fZURmRTc2MHd6RWJqYXhzX2FMVGJuUTFhWl95aXhXQmptbzE5REdOTkYtVlNoem4wWFZIWVliUW04ZENJSUV6YlJfbUlkMWVnV0RFOVA5a2dNaG5aeXl3clFHZ0w2UUw3WThITU1CcjFqRXVQeGhzSUl4YmtyNlE0bmc?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "Tres nuevos vuelos despegarán desde Huejotzingo 24 Horas El Diario Sin Límites Puebla",
+      "source": "24 Horas El Diario Sin Límites Puebla",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Ley Salvatori podría ser inconstitucional: Pável Gaspar",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN1ROXzZ3V19zNnZTMVBRUGdTemctdkpwSjFLWEJVaXJ0ZG9sa0p6cW1aeXZWc3I2bGR6VjlocFBnQXA5U3FjUDdOb19KYUFESDRyTjBiN1dWd0U2NktSOUhqaUZja0tkdElObU16TEcydmJvbDYyMi14aWFDTm94SURJWjZrd3JPZ1Nyc2ZncnVTWTQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+      "description": "Ley Salvatori podría ser inconstitucional: Pável Gaspar 24 Horas El Diario Sin Límites Puebla",
+      "source": "24 Horas El Diario Sin Límites Puebla",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Disfruta del 2x1 en conciertos con Concert Week",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdUZqbnhKeUozOHYzcXM5RlRocVA5RC16TkpPY2FLTDJ5eDdxV05GeGZDWXZZeTg1bEZuWlRKT21GTnlwdEs4YWJ6XzZiTEZWN2tSeTdvT1JNSE1qZGs1Q2x1SDRmam5RWkRoQjd0c3hWTjdjN3R1VTdZa1prNHk2bXNHTDBEc3Q3WkE?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT",
+      "description": "Disfruta del 2x1 en conciertos con Concert Week 24 Horas El Diario Sin Límites Puebla",
+      "source": "24 Horas El Diario Sin Límites Puebla",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Yankuilotl donará bicicletas a Sepomex",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQ3BGLXItc1NKTU1FVzlURThEbktXWU5DMFM1cnhVUWxkTllnTGlndXlyenh5UHVhbXVZS2NHTUFNcDBfS2FMa0xoNVBmOXdGTlFUZlE3WE15TVpmd3NGQ0F2OFFobDN4YzJmbk91RWFwMEFmOGRfXzlobjlFUQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 07:00:00 GMT",
+      "description": "Yankuilotl donará bicicletas a Sepomex 24horaspuebla.com",
+      "source": "24horaspuebla.com",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Sheinbaum entrega viviendas en Puebla y amplía meta habitacional",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNS1JZkc4VU5maHF4ZExWTVVzODY3ZXNJQS1yMzZzOE5ydUhyY2dEcXpnVVNqcHQtbXlPYk5lQlR0WHhBZlJJN01Cdk1lYndxbEdsczgtdUdSckFZSVhWQnpkTEV1QVQxNG85MThHX1laZHd0eUkwX3FSYmR3ZFVSZTNOem1uQkJadGEzY1hvMkstdFRrcm10cl9DbnAtVFRU?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
+      "description": "Sheinbaum entrega viviendas en Puebla y amplía meta habitacional 24 Horas El Diario Sin Límites Puebla",
+      "source": "24 Horas El Diario Sin Límites Puebla",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "El Sol de Puebla - Noticias de Puebla hoy",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wMUJXRVg1T01nSmtxZW9TMW1udU5ZTDAyTFNXXzBncmFscFJtYXduajQ4NG1sZFdteGpvdWlFWkJOd1p6eUU4dQ?oc=5",
+      "pubDate": "Wed, 11 Dec 2024 18:36:13 GMT",
+      "description": "El Sol de Puebla - Noticias de Puebla hoy El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Participa USEP en las Jornadas de Investigación en Salud -",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2UydE53NllMMTlxbG1kTzBfazNaM1VIeERWRWtUTzFNWFl1aFo4eXdFWXg0aXUyLXJ0MTBxWkIxc245R2ZVcVdxZ2lyVkFnOGtxOWNxNXN5bDM1VWdzbmx0WllmaThUY2pPVGtWYmdyTEplOG5ERVhreENWaUNMYl9kdmpfTkNHRVlPT3pKTnRNa2p6WkV0cFZiSzU1aG95cVFxNk9kV0hUUQ?oc=5",
+      "pubDate": "Tue, 05 Nov 2024 08:00:00 GMT",
+      "description": "Participa USEP en las Jornadas de Investigación en Salud - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "El boom del streaming y los videojuegos en Puebla: la categoría de Gaming crece 115% online",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOczJ1aXM5NEROcWw5MnRBaEdoY2tLV0R2WlRSSW1neXNPZmt6dm9GQUthVDdMdDB4UlpaeFU4TnhMTEg4NzlCMGJpQ1ZUZkhfR0p1N1kxRWNBSXBDY3AxdWw2dFR2clVLUXRST0RxNWE2a3c4TVNab2F3VDluNTF1SDJKbVR5c2xXOHk0em1ncW5DR1pjLTZjWkJXWXcyM1dNZ1RIdHQ5UHVvLVIzam1hdEZPdEJRY05Yd1k4RFAxRzZncEVTOXJRR2dkU1BUM0Vi?oc=5",
+      "pubDate": "Thu, 22 Aug 2024 07:00:00 GMT",
+      "description": "El boom del streaming y los videojuegos en Puebla: la categoría de Gaming crece 115% online diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Simpatizantes del PVEM en Palmar de Bravo cierran la autopista Puebla-Orizaba, con quema de llantas",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeVp4WEJBdDdMX1dCeXZaZm5nS0RtMzd1OFIxcVlDdG1fTElxZXVjMWZYOXBlLUFNUzJBRWxLTnFVdWZpWldKUlJjN3l2eVFZZ25HZVRKTDU0WTdwRTBRcGxlNVdwaHFGWDd2b1hyUVVzRGVSb1BRZGdTLXp4RGdIOEtzTXgwY2d1OGk1Q1lnQm40UnFJaWNRalVMODVmVVZqdy02eU9LM1BWV0IyZFc1VVlZNVRBMW5HZWVfMkdVR3BTMENkMmRJcnEzWGZkQV9LajdwTTh6ajc2TkY5?oc=5",
+      "pubDate": "Sat, 15 Jun 2024 07:00:00 GMT",
+      "description": "Simpatizantes del PVEM en Palmar de Bravo cierran la autopista Puebla-Orizaba, con quema de llantas diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Abre IEDEP convocatoria 2024 para licenciaturas en sistema mixto -",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdHdGSG5PNVpJak5nTXEyNTNzWVJWRFZoT3BnRS1HX05SZzEyalBLb0kyeFgxa0JURmxybmcwQXYtRUliUF8xQVRyMU1wQ0Npeld0cEVpa2YwQ3dQYUhkZ0VUUWJHb2dMMU9lbEh2N0VSVm01NEJjZXlNM244T3puQ18zbHBQM2VJSk0wZGp2SkVSaHN1M0tWeDBaOVVUT2lxN2RnSTZCUzhfeS1HU1d3Sks5SXY?oc=5",
+      "pubDate": "Mon, 10 Jun 2024 07:00:00 GMT",
+      "description": "Abre IEDEP convocatoria 2024 para licenciaturas en sistema mixto - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Contacto",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kRGpCdEpjSlFHeHFlenFMNkhBdTNKa0R6Q0NsRF9lUzgxZWxtRjNxRkhUbzdCZFdnSUdubDA1aUZwcFFjQmNTa2ttVQ?oc=5",
+      "pubDate": "Thu, 04 Jan 2024 08:21:06 GMT",
+      "description": "Contacto 24horaspuebla.com",
+      "source": "24horaspuebla.com",
+      "outlet": "24 Horas Puebla",
+      "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Primera Línea | Enterate de todo lo que pasa en Tehuacán y su región",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE94MGkxak0tenA1RmpWOEJLWnFWLTI1c1RyQnJuRmxPMTRRa19hTmdVM2JNa1lNdnlVMzhaWmRQQy1fNmE5ZVMw?oc=5",
+      "pubDate": "Tue, 27 Apr 2021 11:36:21 GMT",
+      "description": "Primera Línea | Enterate de todo lo que pasa en Tehuacán y su región primeralinea.com.mx",
+      "source": "primeralinea.com.mx",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
+    },
+    {
+      "title": "Tres multinacionales controlan el agua embotellada en Puebla: Danone, Nestlé y Dr. Pepper",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaXdkRjVvYmVBWFFISUhEZzFicGc4OW43RmlkRU81cElPQjBsX2I0Ry0zTXFUOTNMVFM2MEpYclQ1d25td1NNaDlrZ1NvelZPNURlRFFmLTBpUjFydXl1U1lPUGRjN2FhNmFNTXZBUWhfckp5bTVrT2pTTXNwSGJrd2FuNDhjZjNxRmNidE5MelVNN3lRcDhGYUI5Y0E3YTdFU1NreER3NTBkTENRWGRpV2hGcENmNEEwUG81bVdvQUpBNUpPM0VaY0dzRlo?oc=5",
+      "pubDate": "Mon, 05 Apr 2021 07:00:00 GMT",
+      "description": "Tres multinacionales controlan el agua embotellada en Puebla: Danone, Nestlé y Dr. Pepper La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Tlaxcala",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wdjhQdU9SZG5qUlBXTEk3Y044T0lWTko2TDNfc2FVR1ZEYTRJSjZMR213VExtQUpWVi00Zm54bExldXQ4bTMyeEpNVUFtbDZYY0NWc0Q5WHUxX0k?oc=5",
+      "pubDate": "Fri, 11 Oct 2019 20:53:14 GMT",
+      "description": "Tlaxcala La Jornada de Oriente",
+      "source": "La Jornada de Oriente",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Días de la Semana Santa -",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PRTFzZ0dvRi10OG43dzRhQkZMQ2QtRDRxSDdZMW1PYmxsQld0ZGR5cm1Pakk5cGU0VXNvWmF0VEZSeFU2YUFBblowelE2b0RlMml0dzlkQVl3OFJrS2RucnFrXzJjRmVlM216WmtYOTZZRVI5aWFpag?oc=5",
+      "pubDate": "Sun, 14 Apr 2019 07:00:00 GMT",
+      "description": "Días de la Semana Santa - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Cinturón de Fuego, zona de sismos y volcanes -",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTF6VG5hWTJGMUVvX0QzMTlCQlVnYnFmNkdvZG5yZjNvbFJPanlQTDFKYWVad0N1QnZCS0NabDNTZUZldnNMeGhVR19MR3NCVW5VSzEtS2xUZUNCbnkxLUZxSzloZXN6VVpyMVJVYTh1NENaRzJ2OTBmZy16bjZXTmdnWTA5bDBvcURYZkJuVjhlSmVQQ2c?oc=5",
+      "pubDate": "Thu, 11 Apr 2019 07:00:00 GMT",
+      "description": "Cinturón de Fuego, zona de sismos y volcanes - diarioelunodetehuacan.com",
+      "source": "diarioelunodetehuacan.com",
+      "outlet": "El Uno",
+      "domain": "diarioelunodetehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Autor: Redacción",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ldFRiWG9mZXFpTVFZOEdkLUdWT3k2eWhKN0lrYXcxbEZmeW1QcUJYOFBzWXk0YnpZS1JLV3pMZ1lkdkt4cUE3WVk5a3RuNnE2LTlKYzZTekNONmYx?oc=5",
+      "pubDate": "Mon, 31 Oct 2016 18:20:45 GMT",
+      "description": "Autor: Redacción noticiastehuacan.com",
+      "source": "noticiastehuacan.com",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    },
+    {
+      "title": "Noticias Tehuacan",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0yZEphaU41dlNzaDVKamZETjJqOTRWTV9MQ3FLcmZoQTEwNHBPM3hJZWtGMVN6SlBBcm5LTUYtbFotRm8?oc=5",
+      "pubDate": "Thu, 27 Oct 2016 14:15:24 GMT",
+      "description": "Noticias Tehuacan noticiastehuacan.com",
+      "source": "noticiastehuacan.com",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
+    }
+  ]
 }
