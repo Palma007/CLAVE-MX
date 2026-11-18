@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:41:04.467Z",
+  "updatedAt": "2026-11-18T22:24:19.058Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -46,9 +46,8 @@
     {
       "name": "El País",
       "domain": "elpais.com",
-      "status": "error",
-      "error": "HTTP 429",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "France 24",
@@ -65,36 +64,144 @@
   ],
   "items": [
     {
-      "title": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUMy0xY2M2R19OOEVrZEQ2VVp1eHBGM2lkcVNlN2NScjJtYXQ0SjVmY0R2Zno3dkxWa3hVb3N4NG5BVWdsUmRVZE9zbFNabTdPLTl6MmhKWk9CdlNY0gFiQVVfeXFMTTF4dTBtbUp6YzVaQXFHQTJnVGFtdmdYZjNSWnpBWWRnWEI4Z1duOEhMai1wYmhISkNSWVNXSDIwOTB4ZnJoclV2QnJvZ2l3Y0Y5OGpiUUFVbTBkMnowQ1p3Tmc?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:31:48 GMT",
-      "description": "Investigué el asesinato de mi padre y desafío la versión oficial de un episodio clave de la historia de Perú BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xNklicVRTM3owYmdrY05iTFcybXFoUnpkWEJnb2phLXlNQV9ORjNfcDV0SzB1ZGVua2RKZ2RaOVAxR1dMdFFIMEJGQzRXeC1BU0ItcEI3bUlUcVZZ0gFiQVVfeXFMTWhLNlhIa19VTVgwX0tmZWduUDVKRU43YzF4Vkp5M2ZmeDY1amZkU2NBMmQ5RnRxeU0wamp4T2stSklEb1NMbGtJX0FRS09TNlVoUnRMZlB1YU52NUk4SDhqQWc?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:01:54 GMT",
-      "description": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Un arco del puente de Crimea se habría desplomado tras segundo ataque con misiles en dos días",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1pKME9vUlJWYlNTenhsVFN5ZE4tcjk0ZTYyVzJvem5VX3o4MGNKN3FCRmZVOGFFdmJ3VmhxT0xYS2FnR3lkY3JCSWFaMUJienZuWnQxbFEteGdvYXh5YlVVSHp0X21ZdGNUMUpiWTF4cC02YS1QeFB3TnRjMVlhUzNqa2xvY3ZZZlVaOG9rOWQxSjEtV0FJUXppeE1ZaldrMzZ1Q29zZ9IBpwFBVV95cUxNQm9rd0ZwSlR2S21LVjF6d2Racy1BWlhEaV9fLW9HMlQ2ZFBJWTFoam5rYlpxVjJJZW5xeWpFSTVvaVBZN2UxZ1c0ME9oV1hGUUZMRV9jeU9ROVl3Z3dZdjQxN25KTWNla1hOZFRvSnk5bl9xUWRtVDBQWmdLc0NONnNaOXFSOU5xTkxGT3NkdFo4aXpSVTNYbmxDYzU4RmlqSEpBQnNybw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 07:13:02 GMT",
-      "description": "Un arco del puente de Crimea se habría desplomado tras segundo ataque con misiles en dos días DW.com",
+      "title": "Una cumbre con imágenes para el recuerdo entre Trump, Xi y Putin",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWV1d2ROTGR1Wi1jaWF6Z3QtQW1aVlh1eldxYS1nVzBabHlXY1pZRE5LR3lWVzZkdzZnWVJXV2lnTlVKRjBLb1JLT3doWVBHQU5wUHBENF9qeE9HdEwwbFUyTWtTM1ZBUzRjSXZlajRxVDlFeUVGOXhqbmt3VXNFUEF1TGtmRE81ZmxyQ0ZyNkNYNU5ocTJoc3ZRUURPRm54b2tMZmFRRdIBpwFBVV95cUxNdGFXTldkM3JrcXhBX0g4YVVHNWxVenF0MmMySGo2TGpkUjVPd2dEc1pPRVBJWlNxZmliRWgxTVU0ZkpiZUh2T3hxYXhoRGdxZzhRNmFRZXN0UGJCN2NtQ2NZellaSVF3ZlhlQ2xNdXZYb3MzZlQxMUxDTG10dmF1RVJOZ2JZeFg3RUhNSVA0X1BYejAyeTNkdjJra0RvVXNvQUx1bkh1UQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 21:38:51 GMT",
+      "description": "Una cumbre con imágenes para el recuerdo entre Trump, Xi y Putin DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
+      "title": "Pete Hegseth y Delcy Rodríguez anuncian en Caracas que retoman la cooperación militar",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVRYSndYNU1taWhtU013Sl9MSWVsbS1hbVlxX0JQRDJOSnoyQjREamJsSXlRZnNYWkhEbFNDRnhQN05sX3VZc1lUVkdDN0UtZjRiME5qYkVsSk13NFY1cURHbDZWQy1MZU8yZ2JWOXBudk92dVlGcldwMEZfYlh2aVlfbk9MbHRNY2I2dl90Rm10dXNwTFZHN0M3SXBDSXI2NmZsZ0NrWQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 18:03:00 GMT",
+      "description": "Pete Hegseth y Delcy Rodríguez anuncian en Caracas que retoman la cooperación militar CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHZTR19yRmpvY19fejlhNmNvLWZWSEp0Umh0a2R6TkJBZHlvOGRjcllRM0NaZWVNS2ZZTUxUYTg0N3o0UlAwR0xWZlVHc1A5Y0I4dmhNOTk4QVF3b3RKYXZLWFFaZHZTNlBONnlfT0R6VURSb0FOeHR6TjdHS0JUQkNXQlVEamtDaWFlSlg0VkhDUF9OMWxNWHBFZXFybkpLMWhjM1NjbXdtdjdSbC03anhuVEpUR1JLMEZaQUxtT3h6eFVS0gHEAUFVX3lxTE1Bd25SNFFPSUgxNHhkOWVJdjU3ekRIRkwycU5IU0g0a3BzZ2JWQ0Q3M1NaZkdEVzhOby01OXVUTU52Wk9wMDBOQUVzU3VZX0s2NHBOSFBIM2xnWkh4YlM4aHctUldkbDNjdTNFQTI0RVJUb0Fjelg0NHdGbUhad0JFTlFlSU1BMEVYdmFuYW5vcGExbElfcHZ1M0V1STZJWFlJUW9NSXEwU3NVVDVIVjVSUWxCRU9yTDhCa2JCUDFSNXNzVUQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 17:37:45 GMT",
+      "description": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Xi, Trump y Putin: un saludo y una \"foto de familia\" antes de su cumbre trilateral",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkVJeFc0TkxoWFVzSFBrU3piM0kyajVuemFZTnlIbGM5RE5DSE9BbWlGRG5ROHdiUlhaakoyU2FpLURoVmdKaS11WFEwUVVaWXliLUt5VWtfVWRKcVNYRzI0VmZVZGtNeUJ1WWlTbHh3ZXlHN3hwbUhRcDNEVDQwRXZUaU5wUmFHNWkxcHA3c1VxbTJxbHk5TlZxNEZHLVpqTDJaVzkwQ0d0bWc4MzdSSUVXdkZpWHc4S2Q40gG7AUFVX3lxTFBZM3l4dzFIanFRdWlpVzFESUw1TFROZi1BODlCVHlYT3RXVlBEdC1LWnJ4ZWlmWHNkU1QwNFY4Yl9CQ3dMY09wekFxNWJiTUdDMU5tYmRtU2FuTWs1SlJpUWVpNWhpV3E3M0l5QkstRWNtaVNObUxLaTBpc0xrQXMtc1FDTjM1bmhWNmNkVlZsN0FNQ3pRUVVfcmRWS3B5eDV3ZHFUT1o5aXM4bGI0OFhsLXZoM1dBV3V3T2M?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 14:56:45 GMT",
+      "description": "Xi, Trump y Putin: un saludo y una \"foto de familia\" antes de su cumbre trilateral DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4aHBfUUJtZkl3TERIdHkzLUIxdXJVT2hUeERENnVBM0NYYUxmWFU1dlNOc25KY1lKejU2ZEUxTHVQX3BFeE5iR2JHR0ZjRWs5dDc3VWpFTkR4Y2RW0gFiQVVfeXFMTXpoUWlaX0hIeEpKaUNOeGZJd21HaXJvS1A5Qkk2NF9QUFRmQVcwZ3Jkb0lLVmlBR1I4d0g5M3NWU3NJNkNXZmhLT2VNWXgzVV9ybm5FTzZfM1czUkpYNWdKOUE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 14:32:07 GMT",
+      "description": "\"Es mucho más divertido ser el malo\": la idea que inspiró a un pequeño estudio escocés a crear el exitoso videojuego GTA hace casi 30 años BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fTEpFRGxibUNjTU10UDBMSWZQNWZNMGNEUEk1bWsydW9NUXdDdTVkTW5Ka2I1N2ZONnpQVnRGM1ZOdWtOYWdYLWgzcVloQldHc3VDRkVPX2Y5d0xM0gFiQVVfeXFMT1FnanhoNU9tTElSVjA2OGVJejdnNWdfMldZVi1CMzNUZlNYNWU2Q0o5T1FJSlp0SFJ0MlRRMEUxRTFKQkt3VjdfNUE5NVlUMFNITi1aeEZsdE5ZYTZ0eFY5SUE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 13:41:52 GMT",
+      "description": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación) BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "De \"La Odisea\" a \"Dune 3\": así fue como Robert Pattinson conquistó la cultura pop en 2026",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM2FvM1ZNc0duMERpVlVzZUl6Sno2c1BmeHZUajk4ZkRHaGlxdnZHYldjVnZkZU1iSlEzeFhWeUU2VDhPMFZGc3Raa09vaVFoUmdSY1FvMVVfbDV6M3FONUFsNVNMS2VQWWhHNWtSQkI1ZF9xNHNWb3pVQnllUm0xdldkaVdMenhuWnNvUVBRRG1oUzdBWWZF?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 13:22:00 GMT",
+      "description": "De \"La Odisea\" a \"Dune 3\": así fue como Robert Pattinson conquistó la cultura pop en 2026 CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Verificación: Video antiguo de fuga de agua se comparte como incidente reciente en hospital del IMSS",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFlEaVc5TVFxellqOEZ5RVpkVnBmLXZpaEhuTHQ3Z25SYk5vZnBJVGM0c082Z3MxemxKSE04UzBOdDdwSlBnRVlZNUJyUENVU3dIZFh6dGJmRnExWTk0Q1N2ZzdYN1FTZDR1TjY2VUcteVFkaThra1hrOGJZbWxxMEkzZnI4amZr?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 12:34:03 GMT",
+      "description": "Verificación: Video antiguo de fuga de agua se comparte como incidente reciente en hospital del IMSS Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xNklicVRTM3owYmdrY05iTFcybXFoUnpkWEJnb2phLXlNQV9ORjNfcDV0SzB1ZGVua2RKZ2RaOVAxR1dMdFFIMEJGQzRXeC1BU0ItcEI3bUlUcVZZ0gFiQVVfeXFMTWhLNlhIa19VTVgwX0tmZWduUDVKRU43YzF4Vkp5M2ZmeDY1amZkU2NBMmQ5RnRxeU0wamp4T2stSklEb1NMbGtJX0FRS09TNlVoUnRMZlB1YU52NUk4SDhqQWc?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 12:01:54 GMT",
+      "description": "Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5weXpUN1Q0N2ZjcmJrc2NzSmJaS2Nia0RoX2pJeUpFMHgyTHpxdUVfemFqcnJtQzZXVzQxdm4tUEw4a3c1OGZVN0dMalpqaDBBMXNSQ3ZqOTY4NmIt0gFiQVVfeXFMTkNaeHRXRjJKdnRLQlNXLVYwTm1iak1RTmlQLTAySHZNTkhpclNPWVVvU1ZXMlRvaHhwcjZSZUYyWWIxX1lUSUVPZFYxeDI2TVNKU0psQXNzbWQ0MFM5enhqR1E?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 11:56:48 GMT",
+      "description": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Crítica de ‘GTA VI’: bienvenidos al mayor parque de atracciones digital jamás creado",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMWp6aVpDeXVLVzNfX09Pejh2R1UzZWtGczllVkpkaUdmMjlVaG1LQlJaUzVNcmp5dEU5Yy1TMFkwMzZEMmtBVy1KYTcyREY4U0VJLWZqbHRVZVJmc3RBOHM0QUJQNEtJYXFTakNXdWwzQlRJR0FIZGVyZngybHZENHpFTEtRVUJGdlpLak5pZDRWMTV1WnJoNGp0bFAxdDFRX0xFODRtQnBYWEFEOG1aOVMwcEFOdjJlMlA1aEFkRzFJd9IB1gFBVV95cUxQaGNqajM2MWlMZGljUWNaZGpMZDdvQzdoQUlxOEVGSkhkalpkZldjQnRGdURVeUlJSHR6MHZsdDNFUmZvUUdMdktqMW5IVVdGdjBZcEp1aFVDUGphVk9Ia1BOQ2RTT21lb3FZYkpNVUkzc3otM2pscWU2T0hDYks4LVA4cm5MSFIzdlIzRmhUeHlwdTVSZGpxaExBYVdfbXdoX1RCcHdCRUQtMGw2Z2R2QWtSekRaRWNYcENsRjJkaVJ6MUFiTU95dDZoSzRVLXg3SlpkSTh3?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:59:00 GMT",
+      "description": "Crítica de ‘GTA VI’: bienvenidos al mayor parque de atracciones digital jamás creado EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Xi devuelve el gesto: recibe y abraza a Trump junto a la escalera del Air Force One en Shenzhen",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUW8weUFVNFNzR2pveEhFVkNaUWlra1RpdEpfNDFjWDRITkRZZ0RSQWZUeEZrVmRWZU02MjE4VkROejAtQ0NQczhPNlNOTjJpSEZxOGY0XzRvWkw1VllUc2otcFZtcjRkbE1PUW1lYnhwdXhVeHdGVGpBWDFuU19uLWVFZy1zd2pHZjdhUUdsb3MtdzM2NHNQVmZ3d0dWV0JZ0gGgAUFVX3lxTE5FM0NlQXNMaThHMlI2RFIwMUNtRnFuRDVOVUxtS0dxLWFRdGw3cmotWGtpM2d5dzExTFF4ZVdfYkt4bWZnblR6V1pMVEdIalFOcUVSeU05VVV4a2NHWjV2X2NXbi1TTFhWazBmelBmMkpNRG9OZEpFYjJ4eWdIb2FNcTdhdFNjdEY3eHo4QmlHa0x2QnRHcmxickRkTzdqZVg?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 10:08:44 GMT",
+      "description": "Xi devuelve el gesto: recibe y abraza a Trump junto a la escalera del Air Force One en Shenzhen DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Sheinbaum busca estrechar lazos con Xi en medio del déficit comercial récord de México con China",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMFA2ZUZIQ3Voa0ZPYVpHcTEyeVFqci1OUkVWaFU0WmptWWVGSm9KMnVTMVE2aTdZdnI2Skl6RjhMUXJ1bkp5YlBTVVM5ZWRQQjJuTzBRck1MdzFNdnotdjNlazNnQlN5Si0zSlI5QTJOcER1VU9QS09pSy1QelFZMzB3TkViUVZpMENXNnNmRDJGSmFLUzQ1LVVaV0FhTi0zd2R6YVJPeGlEbmVfeEpaamhCamVJS3lmdTVHQmpJdGVncC05aHd0SGwtZGhVc3VlZnM0R3JmTWtFWnFmcU5BcNIB9AFBVV95cUxQdHJDcTlPc2Q1Vkp6Vmc3a2tJUFZVemdDZlF1aUNHcHhJQzJ2bzZBZHMzTW5iRUlLejdHMl84TUctdlA3cS1zcDgxWllFMDA4RHBxSUI2OGJLZm5YNXUtd3BwTTV2ZTJMYmZ1dUR6UmFORHh1N0lNbjYxb052QjdrbjB4dFZPSDNsLTEweDNFNHNpMDV6SXV4emU5SnVDc0NtaVcwS0o2b19LQkNhQ1U0dXNLMW82VmIyS291aGlJR0VwUlp3aEJtY29IdGtrTDJsc3pJZzFjRmlUVWlaMC1RM0FUY2lvS2VqTVdQMmZyOXdVZ0p3?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 09:30:00 GMT",
+      "description": "Sheinbaum busca estrechar lazos con Xi en medio del déficit comercial récord de México con China EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "¿Qué propone cada partido ante la crisis migratoria?",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkREWnhaUFREbm9sa2xzR0VaY1BDTDhzMFYzUXNRUDl2VW5vb1RGemh1bk53TzM3YW5YSHNLTXdVNkwxU0J6VXlSbGVON3BjLXdIZlVVTGNCa0ZSX3J6NS16SnZpTTNGT0ExMVJEU2gtS0QzRGg0SVVOODZLNG1lZkVBRDJhN0Rib0lial9lTzVKb3hJX0ppMzJFUTVncUQxbUpfUWJzUXFZTDIzTUHSAcIBQVVfeXFMTzdLTXpwcjNBWkdvSWhDM0hVcmY1dmpiS1NLbC1DVm5fSFd3bXZON244WVlnTUxsbGZUamw5UUJkNFZIb2V2Qi1ldVN6VlRDZnRhNWN0TjQ1Q2JZSHprc3g3dUxuUzU1OWdaaE1NSE1DekMyRGlNRjVSM0JFc29GUmJtRVpTblVNN1RKaXZqZnlTZ0F4N3dfSndzU0R3T2sxM0xRVUx5ZjlmWE5lX0piZnhlSmdiWHdUaGZ2LXBDVmRHcWc?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 04:45:00 GMT",
+      "description": "¿Qué propone cada partido ante la crisis migratoria? EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "El estilo nórdico ha muerto, larga vida a la decoración de la casa de la abuela (o la estética ‘grandmillennial’)",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNajh5dnNtRWpuakxkdGVFcDFLbXZSTXZud3BVb0hZVi1UdG9tMlk3YldmQWJMUEd1ZDhpQTZENmJlem9hODdhM2tvZzIxZENCZGdnbmZoZWlQOHEwMFRrZk9qYlFRUHVPWXI3MEkzNEgwVnpIeFMzOVlOdWZVa1R2RFhIRmpXcjNBbUpCWTEwZXk2dXBiZlRlc2JPN0dDMlF1SmlFS1ZTOXF0U0NCNWRCMldWVVJWQ1FYeDZlUklubUhOR1V2X3VFc2ZWbmpDbzZCM1NqeWxDQmJkenJFeU5rS1E3TlI1X21zX0dhVHJMNNIBgwJBVV95cUxQM0xqNmVJT0FZSmlUZUs5b0M3SXlqel9XVWxyMHJHM0xSX2huYUF3cEJJN20ySVkxOXVyNmxlZmV3NER6bHNNTzlFd3NDZVpib3lpX05VTVNYMndjQXhXNW5IZndTNXhua3k0Mjd1TDJZVlR1STVWWE1vY3NRbTBQUms3eFI0bDJBVmVteDgwdmJkU2Z2WTkxcmtpcXJDakJJVFJHSlJHT040aFNWekRJNFUwT19pRnJSeFY5aDZPdmI0QVdMZG9KZmZ3cnU0U1NFT3ZyLURxQWlhQTJuRURJTmhZa2pyNkdvd3RHa2t2VW0waVo5TmI3Mk9CclBDd2ZmbUtF?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 04:30:00 GMT",
+      "description": "El estilo nórdico ha muerto, larga vida a la decoración de la casa de la abuela (o la estética ‘grandmillennial’) EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
       "title": "China y EE.UU. se acusan en México por reponsabilidad en crisis de fentanilo",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm1OZEozWmhmVDlRamt4eE5UV2FIRXJhY0JFRlBMM0NZQTBGWlc4ZXFzMTN1RWxUTTNNUUJ0LXViZVVXR3FRTUVnWGlWQkFLVVZaaE1rZFNQOXNDenVuWmhHYUcwQjluY0hTZDl2Z19qbzJHUmVmVHFlQ0RXLU11WlZ6WjhwTUI3SEhkaC1KeVEtdHcyNnRkRFVCVm82dUpvdkNvWWZmRjBrYVN2UzNLbi1CalhCb1ZIXzVIbWNSVWPSAcABQVVfeXFMTmh0VUNhRV9ta2NvWXVqb2Nsc1FnZmlaSVp6a0V1NVR5YTBjN1ZtZHZRMUVucU55Y1lpcldhNTdDSG51cWdxU3d0cGhYS29acXRRNTFyNnl4LS1ITWp0OE16Y1dnVWkxdTBWbWJvMnlYcXFwanVJRzNqVktzVjdsYlZFelNqZG9WdS1ZX2pvM3RZVDg5RDE5MFJIYWRTQW15bi03b05fdW54SFlnQUJPRGV0YjA0WVBiazNCbUFsQUpX?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 04:12:19 GMT",
+      "pubDate": "Wed, 18 Nov 2026 04:19:02 GMT",
       "description": "China y EE.UU. se acusan en México por reponsabilidad en crisis de fentanilo DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -108,15 +215,6 @@
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Cuatro conclusiones de la Argentina sin Messi tras los amistosos ante Uruguay y Costa Rica",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWgxX0IyQWY5UTRoaEg1eE5PQkdTcTB3NHowRXFFVGFjQ0RZUF9ZU2UxMVFvcWpZS0VLblJoLUdRbGluQURzLTR0eTdpWUo3NXE5U1Y5dnVBT3gxX2xXRHVkcnlCQWRfT0h0bnhKU05HeTNlZEpOempsSHN0ZGdzSFlIYjRDckh6Q0JjWmZTMmRZTDZm?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 03:30:00 GMT",
-      "description": "Cuatro conclusiones de la Argentina sin Messi tras los amistosos ante Uruguay y Costa Rica CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Exclusiva CNN: la red de comunicaciones de seguridad de EE.UU., altamente clasificada, sufre una caída, según fuentes",
@@ -137,6 +235,15 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "LeBron James demanda a creadores de app de apuestas con IA por usar su imagen y apodo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORENsU2NWaXVCcTJBYjNPVzFyVnRPMF9zbVVibEo3NjItQV9zVFl1TUdPUGJkWGlmM1pTeGZmZUlpY3FaSFdsS3JXVFNaMUNVaUl1V1lDc3RnX2dOb2dlSFZaNU5icnpoZjQ3YkZ4eXVHeGkwOGgweXBPWGZyZ0lxa2VjN2hDTmdzVXRzZTRtUXNJeGJiMlEtOEhTcFpzRW5vejc5aHBDUE1yQQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 00:38:00 GMT",
+      "description": "LeBron James demanda a creadores de app de apuestas con IA por usar su imagen y apodo AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "\"Gracias a nuestro padre, Bukele\": haitianos celebran en las calles la misión antipandillas salvadoreña",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQjdqajBHampFRWxPVmI5WDRpSWxlWUxOVktRQzFQQmk3YWdqX0ZUUk43SnhEN0s0d2s2T1JvT1J3MFE2V3Z2dkNoQ2QwbFRvcG5RRU9IZmRJc05iRnVGTnhEbUQ2blQtTUtwOEgxRjdGTEpuaGNRdlVLX0NiWWI5bnFaUnhOMXpPdERmVDF2N080bE5KbzhOa2hqRzFQSXZIYy1qQ0pfdVdoa2NyU3VOSGZvbFFhZUdtdGh3TDdTUHpuSHJwUFN5UGpUdzlYZ1U3dmg5ZEU5ZXdYWWg5TjRwTFpGZG1vSFRlVkxoU2ZSQmFHZ194c2VCNFJB?oc=5",
       "pubDate": "Wed, 18 Nov 2026 00:36:43 GMT",
@@ -155,6 +262,24 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "Hay un Frida Kahlo que no se vende (todavía): México paraliza una subasta en Christie’s",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWlU2Mi1pSEItd3F1d3dwWkttV3oxaGViN3gwUUtmWUtqNGZob2pKNVhrSkU1dE9MWk1mM0dJcTlTbE0wVl9vRkZ6TnJOZlVBS2M2TDJaNnJaVzgzYWJ0U0lOQzhSMGVtMFFsZGhXbEI3LWpBeWhMYXpkcEFWZ2pQS3dQVllieTAzdm9Ud3haaEttSXZWNmFqVVZwOWVpd19ISGl6S0xUdy0zVldNVWtNbzdwZmtUUWt5RUlNWGQ5aHJ5TDDSAdcBQVVfeXFMT3RxRUdmS0lpSHpMTi1yWndZXzlxcUxBWUtSUlo4dUZQekxwS01hOTRwRUZVVWNveUVyNUVIUmp5cjhpVjA2TG05ZmVjUXFqR1I5WWJhWVRZNWhmZ0htSGxhWlJRdWxpc2szWXdXQzZZeUpreXAyel9RSXJxTmZpblRjOTZZWV9HN3pIMjVLbnl3WmNlY1NaNmJ0UUhhMl9welpQV25jVXEwRWdIWlpmRVNVcy1xMGVYNUVtbUxhZS1TOHYza3dtUWtMOXdac0V1VkgzQ0NCcFk?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 00:17:34 GMT",
+      "description": "Hay un Frida Kahlo que no se vende (todavía): México paraliza una subasta en Christie’s EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Esperando a Kim: la incógnita sobre la asistencia del líder norcoreano a una crucial cumbre de la APEC",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTDYxQ1FUenNPSGN6LVlScG1USG83clpONDNzR1dDYXRIbmVCY0YzSi1DWGtrdnNvREJMV2JSbzBuMHB4SmhSY0h1WjRtZ3RfQXREV2hWZUpya3JXY0xtdDQ2NnprUVZvcjJGWDQ2SVBwLWFMRzc3WDFZVEpwODZDYUlEaTJrQU5BUlJlVUs3WFJRaFVIX0d5clRTMmd1Ul9IUXRRLWFGQkxwVHplaUE2TjJxd3I0X2F4amQ0bkQ3VWpBRFhlbXU3aDBOU005S2hQMVQ0bkh2dXFhWkNpN3ZYU2JhNlNrX2g1THBUVGdjUEVDdVpjcEVCMkQwbVJ0ZkU?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 23:22:00 GMT",
+      "description": "Esperando a Kim: la incógnita sobre la asistencia del líder norcoreano a una crucial cumbre de la APEC France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "\"Inside Deutsche Bank\": una filtración acusa al gigante alemán y expone sus vínculos con Epstein",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNanpMT3d3ZUVjZG55dXRqLVVYU2dNZ0NDdTNQNklweVhDWk1mMTdUem1KZGl0WWlUMGVQb1c1MmpieDdwN2FtVTVaMzJLZ2VKNW15SkVuR29HUWk0SmlMVjZPenBxeTRsbzE5TVlEemwtamV3ZU1QQUtEM3lmUmh2aTdLWVI5cFFTY2dSMW9YWm00X2l2UlUtQ0ZvZnhUeXZhcHdBYU9ZQ2FIRVVt0gGsAUFVX3lxTE10LU9BOFkyOFlKNTZKYXNOS3Vua1RhdVg2OExxZ2ZXYUo0X1JwN29MRll1VGtPOVNKSndhSUIxSE83ejhiWlNLanhwckFqdUMtRGpCQlQzdWQ1X0tKLUY3Z2lqek5USG53bXM2MTROclZ6cld1MUlvWlN2YWhPdXBoeF9iQjNHc2kyd0tMRGxSVmVsREhzTGlqLUQ0bVJzRTdNWl9MU2FrRG56T0c?oc=5",
       "pubDate": "Tue, 17 Nov 2026 22:30:06 GMT",
@@ -164,22 +289,22 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHZTR19yRmpvY19fejlhNmNvLWZWSEp0Umh0a2R6TkJBZHlvOGRjcllRM0NaZWVNS2ZZTUxUYTg0N3o0UlAwR0xWZlVHc1A5Y0I4dmhNOTk4QVF3b3RKYXZLWFFaZHZTNlBONnlfT0R6VURSb0FOeHR6TjdHS0JUQkNXQlVEamtDaWFlSlg0VkhDUF9OMWxNWHBFZXFybkpLMWhjM1NjbXdtdjdSbC03anhuVEpUR1JLMEZaQUxtT3h6eFVS0gHEAUFVX3lxTE1Bd25SNFFPSUgxNHhkOWVJdjU3ekRIRkwycU5IU0g0a3BzZ2JWQ0Q3M1NaZkdEVzhOby01OXVUTU52Wk9wMDBOQUVzU3VZX0s2NHBOSFBIM2xnWkh4YlM4aHctUldkbDNjdTNFQTI0RVJUb0Fjelg0NHdGbUhad0JFTlFlSU1BMEVYdmFuYW5vcGExbElfcHZ1M0V1STZJWFlJUW9NSXEwU3NVVDVIVjVSUWxCRU9yTDhCa2JCUDFSNXNzVUQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 20:16:31 GMT",
-      "description": "Oleada de ciberataques afecta a multitud de grandes empresas de todo el mundo DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Carlsen, cuyo ‘número uno’ del ajedrez peligra, pierde por incomparecencia ante Assaubáyeva en Budapest",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPV2h5RnZBeENiUFdYYVdYVEo5WFc5anRaRnhWcEFuWUN6dnBJZGZLUjBDb0Rad3BpZl9NUXRhUG5XeTZob1lpRlBZQ19HMHM4S3ZqZUU3NF9EbWNlb3RKYjQySXQwNmxyWjhHd2FTelo5VFAzNzVJTHp4QWVGNnZpRlIxdnRYam9kbzhTZ1RYbnFlV0JiLTlaMjRfYzZ1RVp0U1NzYkp2OEJXRDI1MjBvOGVLejZJdGtkbVRwdVVCM2hWX09TUkx0TEtKZ2ZLMV9fc3FfOTA5Zjl1WjhSWnVieFZNbVFxXzFC0gH8AUFVX3lxTE1GWGZzYnJoYkV1WXY3dEoyUEMzWVVUVjlwalhXZUtqQmF1NFRLTG8wZFRNTUE0X3RDd0E0M2JlUml3bjJiMWVVTkFNdmowWUs1czdoYzZic05sVmZVR2ZfQk54ZXJwcEhpT0ROMTRpOFgtY3dlejJPVFhDUVE3X2dDb1ZnTzgyckFCU25kMHc0eWtQWHpod3FoLXhvVnYtbmF0b0NQdS1xanVZZ2lWbUpjRnFZa2owdU5DNkM5Sjd0QXpERG92YzFIVWlRYUk3VUNiNVdfQWFncGw3Umx2T0xFVVZBRFY2S2JhdWFoQlhMQ3kwRkhKYnJjVFg3Mg?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 20:53:47 GMT",
+      "description": "Carlsen, cuyo ‘número uno’ del ajedrez peligra, pierde por incomparecencia ante Assaubáyeva en Budapest EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
-      "title": "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mQmdaVmh3T2VKeEdmYXdPQ0ZNSk82WWVQSmtHX1pWbndpWTgtQ1pVbkxiZWNsRWk3cG1vZkxsNHVJa1pkbnZWLWEzUGh2TWNPLUpyeWoxUktZVHZH0gFiQVVfeXFMUDhMdXJXVHk5VXdHUnhsdW9OczFCQTRWNG5zeFBjX1Ftd05lVkg4Ti1sRFRTTTh5WW02NVVUNVNEbk5pZVJqNTFPMFhKSmFITDNOYzFyT253bHU1Zy1lUlZuR0E?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 19:45:42 GMT",
-      "description": "Qué se sabe del caso de Camilo Rodríguez, el primer periodista asesinado en Costa Rica en 25 años BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Tres niños terminaron entre las famosas \"momias de hielo\" incas. Sus últimos momentos están saliendo a la luz",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaDVoeUNNd25jZzB6WmZDb3ZEeW0zMmdtZ1ZIX0xuaDZDRmlXQzBGNlpGZEhYU3d4TkRkdUFYb1JxTlpRbVJHRm5yLXhBTDBxSi1aWlBwanJoNU81QU1EVUlsSlBZQmVRckRsOVpYNGZmcThOd1dKTjhENGFEVXA3cGN4NzJ3a3B4S24tUXhGSFc?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:50:00 GMT",
+      "description": "Tres niños terminaron entre las famosas \"momias de hielo\" incas. Sus últimos momentos están saliendo a la luz CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Trump llega a Filipinas para iniciar una gira por Asia con acuerdos y conversaciones con aliados",
@@ -191,13 +316,13 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Volodimir Zelenski pide al Grupo de Contacto para Ucrania: \"Necesitamos más aviones de combate\"",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdG00TzFJVzY4dFVJcGJSTDkyQ2hsWEw4aFR4Uk5nc0NrMl9US1ZiRUxRVGVIMEgzZEpocERtOFJNSHN2WHpHcDFkNzdDZE9WY0NmNGhJRVhUSjZGYzZCd19vUnJGOWxNVkNnSVBTUlR5b2NibnZIeThkcjBXdXhwX1ZnaFZjbC00NjBuUlM0YUNkMVJZVm1mZmh4LVpOUnRJanZKN2dWZkFrOEV2Yy0zQldTRmRQQmZxZVRJRWdMclpFM1YzWFlKTS13SWt6czVTdjk3c0VnUHQweUR5eHRzNnlfYXJFd9IB5gFBVV95cUxOMmF4TGdNVmhXYTQyMDJvNVFMdEQwV28xN3VXQ3NnVU90cUloMXdINElPWWJnQVpsX2VkYzNVZGxjVkZlNldTbVBPREJ5LXZsaDZhaUVPRHVlU1dBVU9YRTRnR0pGNW41SkpBaUZCWW9aNWJPWGhPWDVOYWZjUTJUZENPeVMycE1ibXZZNTFZQXdtbzJ0VnRCWWY1b01PR1R0Zk9qRklzWmRhd2p6QkJXNnNmQlV2TnpQS1lBZXctSlFVWlJ3dzQ5dXlUVEJOUmlQYW0xejc1NjRYZWJUcDRHdm5IYm9jQQ?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 18:36:53 GMT",
-      "description": "Volodimir Zelenski pide al Grupo de Contacto para Ucrania: \"Necesitamos más aviones de combate\" DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "El fiscal general de Paraguay renuncia ante la advertencia de un juicio político por el caso Ueno Bank",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQXJjY2xUWS0ydmNVbktxOW5KVzAzZ09sTThyQ25fcVVPY0dwTEhBWWlndU9mTWZTVXV5VXdybFVQN25abVRBd3htZUJreDhMTjJ5eENWSGNwcmtNbWV4VDlxTTh5MDhRVmswckJVaDhzTm5rN09hNUJoLS1MR3FTSmkzb3hQYzNxT0RxbHA5UERyTlVjTzU3R3pOYzBWWE1NaEVsSXFFbXpnMmtHNVVFVXUxTGxsc011VGluV0ZZV0Q4ZlVYTjI5MjRCXzhkX2ZqdG1aS3lvVG1PS2F4YTFFNVdlOTQ1QWFqN0h1U0lFak9pWlFaWDZV?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 19:09:26 GMT",
+      "description": "El fiscal general de Paraguay renuncia ante la advertencia de un juicio político por el caso Ueno Bank France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "El salvaje mundo del agrandamiento peneano moderno",
@@ -218,24 +343,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "EE.UU. amenaza con \"todo el peso de la ley\" a Megaspeed por desvío de chips de Nvidia a China",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS2lJTC05NW8taXoybTRuRW1pajdYY3dCTVFzV2R0Y1h2am96VDJjdmhNY1FUNjNjUkF2UUtDbmVFUzNvNm5HSFZZSEVYNmNEYnpWS2lzQ0JYV0RoVXNacHdGX2NMUmVRNlQ0Y04yT3RLZGdTdUNnUEkxbkdWRTFHdlp2d0xONFFSLUg2UVI0b2s5bndIc3haUFZJeG9ZUEhYRkHSAaIBQVVfeXFMUHVmOUFPaVF3RmFyNnVST3Y1d2hMNEY0WlJCaFRuRTVXc2p5cTRBTHFtTHdka0ItVnJRWXdYeEpVRDhBZGpaZ0FqR1ZMcmxzdzZNM3FSZ3JfM1hiTnR2eFNjZTRqZi1iUnF4RTlWdWZUSFVXLVl5VXQ3SmRuRFd0RzhNV2RxZmNSczRzRkl3dXBheDMySTFMVVhJNUl1WU0tNUJR?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 15:03:47 GMT",
-      "description": "EE.UU. amenaza con \"todo el peso de la ley\" a Megaspeed por desvío de chips de Nvidia a China DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "El puente que Putin construyó en Crimea se derrumba parcialmente mientras Ucrania celebra un ataque \"sin precedentes\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92M015WUpITXBkWWlUTzlIOXRnenc3QzZwSVl4bjFfZm1yQk5qYWdWNGtlNmRIeUpONmVKTzctQk9BSGx6S2V3cFpMYXdFa1Y4MWxHTGFQODR2cU5N0gFiQVVfeXFMTWdhNVptbVRORUV5LWZEQUhlRG12UzRhb1BsRG9KNXJHM0hDcEI5Ylg0Uk5vblh0N0MyWU1pVnVrYmcwZ1lRVnh4R2hlR0VhYm4xeXNBY0llWnRiZGhVQmVJcUE?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 14:30:42 GMT",
-      "description": "El puente que Putin construyó en Crimea se derrumba parcialmente mientras Ucrania celebra un ataque \"sin precedentes\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "Xi Jinping se reúne con Sheinbaum, Fujimori y Kast antes de la cumbre de APEC",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTERMTWN3RmtBUkQyRTA3eE9heHR1MU1USmphN1NPUE1IdFdGdlU1NVJxMTVkcmlVQ2hKSzRsVGliLV94QUFwTHoxM3VobF9tZk5xdDE3NnVOYU8yaV9KZGJXbW9kN0pCRGR1TWhUZDdISjdKZ2lNdnVISGJ3c2dPNnVvZ1lSLTZTREVxTVpWbmpHaWVldWlNNms4QlpMXzNUd2lWZXNfVVo1bHVVaGpiNWZOWDg3V2c3VkFQbGY5bUJVSV9majNzd3d0bFhJOWxDYm04?oc=5",
       "pubDate": "Tue, 17 Nov 2026 12:57:33 GMT",
@@ -245,15 +352,6 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "\"Esto es solo una prueba\": el test de la alerta de emergencia del martes se produce en un momento de gran inquietud en EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWldEbUhfRnNtTUNuQlllSzFkTkhXQVBackU1WmlaYzAybEVCX2dGU2tKZGZSU19pX2wtbkY4Z3M4aFhnZXM4M3Z1MW15bG5JWUtpZnY3ZDNrSllXc2VFZkZ5V3VRa1Z0XzZhVnpTRllmMFhoZUQzSWlrSjdvR0hNV1BRZE9KLVd3UzR6b0NIQVdHTHF5VEVGVm9B?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 12:19:00 GMT",
-      "description": "\"Esto es solo una prueba\": el test de la alerta de emergencia del martes se produce en un momento de gran inquietud en EE.UU. CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "¿Epstein fue asesinado? Lo que dice un nuevo análisis forense",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSFBvTUE5WWJpOUVVejBTRWphc3BaOGtLeUtuTlpvbXN4RVFISVl1em1Pd3gzM3k1QlhJZ2JBd1lGdm8wT1BrM0xjcXRfem5uTEJKRV9fNDlTdjNiTkJhbjRhOUQ3Wi1JcGJ4elFUUklnUWJnb0Y1Zy03WUp1bV8wVUZSdXBoSjhVdVJXQVZ5Qk9mLVMwY2ZuNVJBUS04Ulo5bnI1blFTbmQ0ZnhOYmc?oc=5",
       "pubDate": "Tue, 17 Nov 2026 01:04:47 GMT",
@@ -261,24 +359,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "¿Qué es una \"bomba sucia\" y por qué es tan peligrosa?",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFJVamZMVDFMR3hPRE9KWnZxZl9WdHVwQjc4bmgtZ0J6TURtaG1JYllNWHV4Wl94NUhnaWt4WGlKM25ydEZ3Nk50S0hOQ0Z1cW0tZnRWN1hRc1k3LWxkTVdmNDNxdUpTb0VUdHUxcnV0V295ajJOM2kyZGc3Q2lGd1BHR1JGaFBBU2c?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 01:04:00 GMT",
-      "description": "¿Qué es una \"bomba sucia\" y por qué es tan peligrosa? CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "La UEFA elige a su candidato para la FIFA: ¿quién es y qué opciones tiene de destronar a Infantino?",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUk4yX2tGMkdicGRVZE9OV21tZVZ6cWhySkxBck0zLWdoZGV2S1RZeVpBeWlxcTJyZElDMHZsY3dma283cldhTTMtWWc5eFRmQ3dacVpVYXBuald3MDRHd1RHeGpFUXJYOV9PWllMLTdHYTVNQWVXX0tMMlF3TkNmMXdLd0hEc0cxR3lnd1NNY0ZjbDdTdy1maGtJMnhXbVhxMGFXX251ZVZrczJJR0xvcTdVdmNWeHhVVFNFNGk4bXhzQndGd2szR3BLRjFVdm9CdmdkZTJTaEtfSnJsNlRWZThxWnd3cTg?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 00:07:41 GMT",
-      "description": "La UEFA elige a su candidato para la FIFA: ¿quién es y qué opciones tiene de destronar a Infantino? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "Con la venia de Su Majestad: Robert Pattinson es el nuevo James Bond",
@@ -299,15 +379,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "El papa León XIV parte de regreso a Roma tras culminar una emotiva visita a Perú",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYk01Vk92OVhlOGlhZXctV1JTT2NzbXhOM08xNVU3WWd5NUYzdW84YWdnN2E1YkFETGVYal9jT2k1dlp2Z3BnM3ZQOVVDaGI4QmMzbzVoQnVlRHB5Rm9YWEY2N21rUTRoc1FQQTc4d3h4WjN4c0h4RDlQZVczNTUyN2c1emZYV3J2NXhKU0tNNE1ESGRINEM1MXNRY1NUcl9qdnVCT3FPa1ZzODBaUEh5enhraGtTY0R3ZVAtMGplOHhCWmozZEdBZDM3eHNSNEtFeFJxUUNxaFRYSVpFYzJKZHVfZWZjZm1oWkFlU2w2NA?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 17:40:55 GMT",
-      "description": "El papa León XIV parte de regreso a Roma tras culminar una emotiva visita a Perú France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "Lewis Hamilton dice que la Fórmula 1 aún tiene \"mucho por hacer\" en diversidad laboral",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUhqQl9QRmpMbUw3M2NSelhnSENLM1BSSUhvaV9mbG5tazE3MDB0Y1o1NkIwUndYU0MtdkJ0RGkxaVBmMFpCLWVoZHVxdmFpSGNCX2FTX3djTmxxU3JjYTEwdEltdF9ESm9xVWVDeU9reTdHSGMtQkd5SER2ZkJFYTNvcUVIVFNQYnphdkpFTUp0Zw?oc=5",
       "pubDate": "Mon, 16 Nov 2026 14:40:00 GMT",
@@ -315,15 +386,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "What court administration entails for Revolut",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 10:09:32 GMT",
-      "description": "What court administration entails for Revolut Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "¿Cómo escapa un hombre de 74 años en Argentina del arresto domiciliario en un quinto piso?",
@@ -398,15 +460,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFptNHBkczU2OFdhVWdia0NOQTJLODNWOW9jSWJ1aW5mTERJbWdPY25tMDdVb01qSlpQOFpWVUpXbjV3LWwyM1RtT1pZR3ZNc0oxOHp3bUxkUUJldGdReUx0V09IYTE3eGl4M3ktQ3Jqa1lpODRzRnlOLW9ybXZPcUFCR2ZndGhudURtdEY1TlJrQ0p2dXYwRlZLUjFqa2VB?oc=5",
-      "pubDate": "Fri, 13 Nov 2026 10:35:00 GMT",
-      "description": "Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "“¡Ya no dio más!”: Chile y un precio histórico del combustible que parece extenderse en Latinoamérica",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbVZScGtHeE9qTTZHREFDdk01ei15TEwyam8xN3hwNTY2V2w4R0xFdV80VVRlaEVzTzZDbUVEc0hxOWdZMF9FUmo3SHpQMTFKeTUwOFBPb2dQNld5R0dfbHk1RTFUdUpEZmhIRVNnSi1PbGdYZThMMmFHRnViZWk3VUQzd1BOYUI0ZFE1N3puclJoWmRkWWl6dlQ5SlltNzg1OHlTdFMzTmJhdGpWT1ZYS2xGWXlLdUFmalo1MW4wbVZubmZfWW1helhTcnZHcC1ieFk4c2cyYWhIUl91RlV3aDNHWEpFLUNrd3lDR1ZRR1hWQ3FwZFdLdU9KT04?oc=5",
       "pubDate": "Fri, 13 Nov 2026 00:47:27 GMT",
@@ -414,15 +467,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Una nueva pauta recomienda análisis para detectar cáncer de próstata a todos los hombres mayores de 50 años",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFM5VHYyRjNpeF91Y0xOSTBwYTlhVWxkdEtIWjdDRDRoTXY5ak9mbEpkMVk3TS12VUpQT2YtYWNDUElWRDltRVExU29BUE5UY3dBMmlBdVpyNnktWTBkOW52SHp4OG94eThZX3pzLTlNekQ5VkRRYUphZk9ObVA2T0pOdUJWQm9ab0Z3M2swUGhpWG8?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 19:02:44 GMT",
-      "description": "Una nueva pauta recomienda análisis para detectar cáncer de próstata a todos los hombres mayores de 50 años The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "Una palabra, un estigma: ‘judío’ y el diccionario de la RAE",
@@ -540,6 +584,15 @@
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
+    },
+    {
+      "title": "The New York Times en Español",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BQ09nSFp4Um1oVTA3WlVvVGdLaWsxOEJzZ29PSHc5S09IY0UzQWNBa2RTbktHWGJaSEJ6SUU5dXA?oc=5",
+      "pubDate": "Mon, 08 Feb 2016 23:48:36 GMT",
+      "description": "The New York Times en Español The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "La crisis del agua de la Ciudad de México",
