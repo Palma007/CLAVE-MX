@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T04:35:54.948Z",
+  "updatedAt": "2026-11-20T14:28:48.112Z",
   "sources": [
     {
       "name": "El Universal",
@@ -10,9 +10,8 @@
     {
       "name": "Milenio",
       "domain": "milenio.com",
-      "status": "error",
-      "error": "HTTP 429",
-      "count": 0
+      "status": "ok",
+      "count": 6
     },
     {
       "name": "Reforma",
@@ -59,6 +58,105 @@
   ],
   "items": [
     {
+      "title": "Dice Gobernadora electa de Texas: 'frontera seguirá segura'",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUg1dTRLMUtHeXNhV21lazdSRm91MU1rZUhTWVRCY0pfU182dkp3cVVxWlV2MlJzd1BFb0docF9mazc0ZDE0eFhobG1MaHhpYVU4aUdNWGZjRG11RlF1eDBvcmFQdklnR0RraHlxSE9ETUp6QldEeE1oNWw4cW9RVEdWWXBzT05pVnJYbUJQOEwyZE5p?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 14:00:00 GMT",
+      "description": "Dice Gobernadora electa de Texas: 'frontera seguirá segura' Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Mezcla de Crema Nivea con aceite de almendras o argán: cómo aplicarla y para qué sirve",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHZpNWtvNHRVRFpPUTZJQkhJS3pJZTNrdVJQSU9KWWJXMlg2ZVF1UFRGSm9XandtRmxnbnlkeURhLTZ3QzRUSExEQkpHeVl0WUw1VDdVMDdsWGM0T0Q0S0F4c1dHbnV6TWU1M2xVWG8tbXlpVXVXRnVzODZOS05Fb21HY291OEVxYndkZXJfRFJ0blMyNUJJQw?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 12:51:00 GMT",
+      "description": "Mezcla de Crema Nivea con aceite de almendras o argán: cómo aplicarla y para qué sirve Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "La oposición y el INE… qué quiere la oposición",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXFwUGtYbU43dE10dWg3ZE9CN0lMNFJCQ1ZMendPVEFSaHNxQkJIam5QbVV4a3pZS3FUVDFLemd4a29Jcjh4R202SVNqaHNTQldGTnNEb0lzay1YS1htdEdrT1dkazNTb0c5S2txVWxWeUFHbkxudzdIWHptX1Q3VFpiWUNtVjFQUm9iQmdVaHdDUUxLNFFkUG9pLXNpa0ZocUZMN1JGSTFaYUUtbVhkQmczT1htQQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 12:04:10 GMT",
+      "description": "La oposición y el INE… qué quiere la oposición El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Crisis en la relación bilateral",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXU5NmNuSHFWTXFlLXdrNUNob2NDQjZsSjl1eklrZ3VOTWZ3SmRvVjNEVlBsSUdWdGZUcWtGaGZWR3owX1E0dGhVcnBFYjlTR1RmdlIyWVl1OVdWdTJ0cUlaUE5WSzRacW1SS2xFX1l1bUV6d1p4dHB3dk1RU0F3RjlOMkYyQzh5bGlEVGFjSFdlUERoVUdmeUx0T21fMm81SE53M05fdEE?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:15:21 GMT",
+      "description": "Crisis en la relación bilateral El Financiero",
+      "source": "El Financiero",
+      "outlet": "El Financiero",
+      "domain": "elfinanciero.com.mx"
+    },
+    {
+      "title": "Clase turista",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YNzNMWUVGT2FzNExzd2tIa1BsbjgzTzZkbndmUC1INC1YY3VPVWNNS0Z1S25FRXV0VFU5TFAwWTVTVFhMdVd5N0VEWENjTjZ3LWtmQ3FkTkNIdlN1T1pHYy1ReTJINXBn?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:08:13 GMT",
+      "description": "Clase turista Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "Jesús George llegó al INE con aval de todas las fuerzas políticas",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaDc0MkpmTDVxWGhNMjBOREpBZUtyaG1vSVBXMjY2cDh3SWtTWElyS1d0Z2lzZURleFdicEplMGNKRERTMkNBUUFWTjZCUmxQVWpEYmZmdXI3aDQ5dW84a3BKVEpzWkJFbWVwOENiOVNxcFVrRTExUmFYVXJsOElQZFJ3bWFVSkFuWUx3QlFNNG4xT3hMbEFsRWhpYlk3YXZOb3JjM0pjWdIBuwFBVV95cUxObTJIaDh6ang3NlpxeEdtN2dqRVJNXzY4Nl9OOV9kTW80Q0hpRENjRmZac2tyOGhueVh5dVpIN2pHSlpFMjdXTUItcTk1TzlFU28xNGlNcGpRV1BKYkY5RVFMYjZSU0lPTUxKbUIxdi1qWUhxS0FzR2RLdlAxdnFkdEQyRXVxQnlqUmg1OTRNOGJodVItZTVDMVc1N1ZmTGV1QXNYcElmNVplcm9PT0FTZF9ORlF0bERMZ2FZ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:02:00 GMT",
+      "description": "Jesús George llegó al INE con aval de todas las fuerzas políticas El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "La Tremenda Corte",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1R6ZWhmRUZDV1FXSnRfbjJRVTRUbnd3QzZiTmd5TmtDdGRuN3BTS1RtM0VRZ094dElERmVyLTlGYUkxSXVuVzZxeE9jQ2JMMEVvVEdGTG5GSFZQb1k4R2JkRlNEdmJ3UUtGcld4N1phbXJBZzQ3ZS1RRnE1ZjJCSmZzLUNpU2lRYllIWTBNbUw5TWFBcU9n0gGXAUFVX3lxTE0zTWhZYkU1TXlmYWpUbGpMem1Yek5RT2xVNGFpZk9SUHMzaFd3Q3M5UzNkM2dwYS1yQmZkbUt2UjJqaG1JQWNrRjJxbWtFbDFzTzdaQ0swT3pubnRnRHNGTVMxZWlfYjFoVmY3X3RPZWRxakFodDhiV1FtLUx5NTFKZDBzcDRwTjMxODJvd01mb0VxaEpiR0U?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 10:45:12 GMT",
+      "description": "La Tremenda Corte MILENIO",
+      "source": "MILENIO",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "Doctor Zhivago",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZE9JZGdjWTBoMjdveTFwRTFPQjZzZ0cwY1U0Z19NTTFHWmRoZWgyU1FwbWNXTjNMYmZwVGotUFdFTFFzMnJsUkZ6WlIwSTgtSkYxWl9DYkt3WUNKMEZFVmdCb3pjNW42QzdfdGJSQ0ZYamxtSDJfejF2V21zTlVWcdIBgAFBVV95cUxQTWhidDZyYlZrS281UWd4WDNiTDhuZnlTZ3lKQzN4ZkU4TldqamZuRno4amd0cmJNN3I4YU5ZSjFkLW9mR1lIcEJKTVpOcnpvT0p4NVlQY3BzVjVPMEtrdjNLYmRpZEpsOXpiSXNSVl9xclo4UHo4QTVaNTRvQUZ4eQ?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 09:10:54 GMT",
+      "description": "Doctor Zhivago Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "El juego de Monreal o cómo perder el tiempo",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWVoSVFLT016SWhFN0RrOWNNV3pPcnpNWGw4UmtUQUpTMUV4QzVEVjVZaHBRZGFhUVVJanY5RGJTXzNIaDlsMjROclpMMWRFb3huRDhpenBKR3drRjZ0NkhpYURoWGItV0VlWVFmX1FEa2d2M1dHNng2Sm0wUUtuUVpiOTl5Snkt0gGOAUFVX3lxTE5LSnNMcFJMSVpUaG1xR0tiNGZ0TE5rbEtDYUoxUVlZU2ZRRWdNUHNxMnBBNG1OLWNKazIwZHFRTUVja3pWRnhQZE5JSmxidVo4Njl1MFFCU0psWHY4Z3puWEliWXgxcEJLSE15eDVYSnNuRnA3U1ByNnRnNTU3SkF2Z2l5X3p3WGdyZkVZbWc?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "description": "El juego de Monreal o cómo perder el tiempo Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Sucesión en la ONU, ¿pactada en Shenzhen?",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0VYaHlkdDh5a0VFYmpkTlJ3cXd2OTdEaFZIQ0lJU0JsNTllNHAyNXBYT0sxUXRIcl9zVXo3OVptS3NHMnJFQWw1clEtZ2t4dVpxdUxuSUc4OWc3WUtqcGlDMzktRExrLWNWN3FzUjU3c1lDME1vdmVKLUhHTUtqQVgwZFh4TjZYWHc5R2RVMjlPNUHSAZgBQVVfeXFMT0RNRHItT1NmVVA4STNJclZ0RmJzYWlPSmRiS2lmZXdMdU1RVDNESUVCUWhTSEgxUnd2TW0xWmtJXzdsRjdiTUhfU01HVG02STJ5RE4zcjFLQzBUTS12eGxUeWdqYzR0b2VvUjFZU0dUM2ZfLW5yRGlHSE1OTmZ2aXM5UHFRdlBVWmtuakp3d3N6d2JBQlM2aXg?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
+      "description": "Sucesión en la ONU, ¿pactada en Shenzhen? Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Jubilados de la Cámara de Diputados liberan San Lázaro tras diálogo con Mesa Directiva",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONlZ6azBkTTRlblVtejFRa1JHWWY4Y1NVdDFBa0piN2dvdGxDdUdMWUtibU0ybXVRendMNDkwVWp2aEt5SFdnV25IdjZ1Q005YUVyc0x0UkRDdXZTYWxRR2VoaThIaU9PeXNEbGhuaW9mNGlRMEtlNXpsVE53bjFVSF8tNUMyaU5SVlZmYXZ1LUJIcmRKcFh2VkllaTZQQkJ5OGRjWHZ0bW5NUXpVazJUYW12ZW4zU2lpTzdBdEM0QTJ0YXdOSWNXZTNrTXBTV2tTc0F5TmdGbVRwcHBxdDJ6R2VxVFM2TTQ5eDV3N3RFY2NuUTkzdHZlWNIBjAJBVV95cUxOZXlmTDlsLTRnQ0lRY2xiaHpreV9xZGR2VmpEUVZfS2gtY2d4V3otZXYxRFYyWlhyR0tiVUdTWXIzMHFLcUN6VS1ZX0t3eGQzUEJ6YU5QTEEtTmtWeVB6TGFONTBVelJ2MTJJRDRxNm5waWRpYk9BWTNaYkJtV2YzZi1wbHlYWmJQNVpyWktGYXZmQTRGRDVndXNXbWhCM0VyLWdRVWZpZ1BINmVTdzlxM3ZWOFhCalhadW9BMThUR3FjM0Q4WFlsdlJnbjIxakM4TWlxRDNZZXRWcElvUndxQUxQRm83S2lCcUNRWTk3UDd2VGk5d2VDTmIxRm90Y0J5VkQzVFdKLVdJbHls?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 05:20:22 GMT",
+      "description": "Jubilados de la Cámara de Diputados liberan San Lázaro tras diálogo con Mesa Directiva El Universal",
+      "source": "El Universal",
+      "outlet": "El Universal",
+      "domain": "eluniversal.com.mx"
+    },
+    {
       "title": "Animalistas celebran aprobación de primera Ley General de Bienestar Animal",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnhET1B3R0loVFZDdXpueEl4ejNubWZwZVZQM3RqdG5NTTloSllUZDFoMXVhQ3ZSbTdQaWdjOFU0RzRtT3ZwXzRqUVZROWR2ZUtIY0d1aHcxWHdjbGtKNU5uUGtMNTZFMW5zOHhmTWJjT3VZYkZyenBWd0p1WG9OYk9QcHMtSmF5bkJ4MEkxUzE1Q0syQmZZREQyMlBQNWY0djFTM1NoT2xTR1pUc2R4bkp0SjN0TUozMjR1Mjh2ODNLR21qbmk1djNFQzJ6dw?oc=5",
       "pubDate": "Fri, 20 Nov 2026 04:02:11 GMT",
@@ -68,28 +166,10 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Murió la hipopótamo Fiona días después de tragarse un gorro",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV2JmRnJhUWM2QmNmYTIwRktIb1JhOVMtTE83Y19wUUt4cEpqSHZWSmtUenNzVThpNkljLXlxMXlXbUt4NHhwMVNrc1pmeE1OazBLR2gwaGIzMVNlYnMxZllLaWhyemlacExxYnB5RFlBR1g0ZXhMZ0dBbDJlalJycl9nT1lIaHFXN2NWdGVoX2hpcWlJUHFxZWpPZDRETEdrZkUzWTFvNDV0MC1UeE5lLWpPX1JWLVVjUUV5U2VUdUY?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 02:52:56 GMT",
-      "description": "Murió la hipopótamo Fiona días después de tragarse un gorro Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "FIL Guadalajara 2026: Alessandro Baricco rendirá homenaje a Umberto Eco",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnBBRF9obmRpQWpLM0FXZzBabGEyTlJLTmN5VllpMTBjXy1WRG42LUlkdXExZ2NGV1V0bjQtQkZ6MVJzdVZYaXgydndiV3NLUlc1YzlIZENEYXJjTnNKQklQU2ExX3VZWlhRaXFCbGh2aUgySERucEx0c0FSWEx2UTd0MFg2QjVhRS1YVHhFb2pJX0lBS3FEMHNTWnN4OHJiMWxFYzl4dHhzekk4LXREa0JTWlVoVlpiaUtBaVozb0tRWU5kSDRn?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 02:51:25 GMT",
-      "description": "FIL Guadalajara 2026: Alessandro Baricco rendirá homenaje a Umberto Eco Proceso",
-      "source": "Proceso",
-      "outlet": "Proceso",
-      "domain": "proceso.com.mx"
-    },
-    {
-      "title": "Restauradores rechazan reforma a la Ley de Monumentos",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGlWMFpmTTRTdUYyUGxuWTMzME5GUFM4MWhERnE5YnYzc2c0cklpaHBjMC1uOWJrRVkzQTdXT1dYelE0NUZhZHBSRGZ0MGZkODN5MHk4VERrU05UODZGa3U1dE0zOXFxbkFjd0tZSnFjc0JURWxXbTdSS19kWXZkUGFPb3ZpVTBxdEF4X3hIM0o5bklPVWtEek5BdHZnUHBHQkUyX3VZX2JUQzhUcWtkaA?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 02:12:23 GMT",
-      "description": "Restauradores rechazan reforma a la Ley de Monumentos Proceso",
+      "title": "“El Topo” tenía orden por el caso Jaime Barrera, pero no por el empresario Ricardo Cabezas",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcmJSZkhJUlNuam1PY0xUWkRaNW9lYzlmTGFnZmRaUzhha0NHVjg5NTlfd24tdTVkREtIVkpBX2ZoQjZydkFJaTVOQVNTQng0Ym1LUFh3TmFMQkpsVFV3d2o1bXpvNDZ0OVVERmpjZTZjTmw0R0NUUndZZmRrUUJWM253WVZSUndYYU1CNHQ4UEx2UlJNRVVyRUpMS1YyenBTRzVJUy1wRXdobWxHZXBwTGZGdWtpX2FUaFh4cktxdXZDWWltaVNzemVVT3czdHhIVDd4MDNDUUZvRTFOSmM4cUZiOEI0VXhJM0E?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 03:15:08 GMT",
+      "description": "“El Topo” tenía orden por el caso Jaime Barrera, pero no por el empresario Ricardo Cabezas Proceso",
       "source": "Proceso",
       "outlet": "Proceso",
       "domain": "proceso.com.mx"
@@ -97,11 +177,38 @@
     {
       "title": "\"Irresponsable e insostenible\", continuar pagos a jubilados, dice secretario general de San Lázaro",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZVNscTVmelM3M2FYLXQxeFNQNnIxbUdCWm1KQWM5cGhWbGpqR1BMMGJCTVdxaC10VzIzN2Y3WkxiX3gzYWpseXI1WGJNUDhSSmJfVXFLVVFyQlF5ek5FYUotM3lueWkzcGd1YTlfMzBzQ3RtWGZ0M3drZDFmbTM1VVlPMkF5ZVZfQkpUTkpiYTFXVFpCREowQ2dHRGRJc0dBZ1F4b0JnYUpLUTZWc2dRbEdXLWJMdDBlc0hSZlJZWDVMcEcyU0xqQVh0MjNCVGliXzh3WkRGak9MQXFRWEY0QVJBeU9xZ3hjZEsySTlFSVU0dmQwbWc?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 01:23:33 GMT",
+      "pubDate": "Fri, 20 Nov 2026 02:45:00 GMT",
       "description": "\"Irresponsable e insostenible\", continuar pagos a jubilados, dice secretario general de San Lázaro El Universal",
       "source": "El Universal",
       "outlet": "El Universal",
       "domain": "eluniversal.com.mx"
+    },
+    {
+      "title": "Liberan jubilados Cámara de Diputados tras caos en accesos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc29PZkxYaXdYVW9iczFRd3dLbGlEZDU1ZkZTX2llZV9HMy1sSjNRdFJfLXNBcEFORFJNSlVXVWh1aTFpcXY1Y1I1TUdTdGpjaGxzWm9LZ0dKa25jWlYtVjZNUVJYNFdsMGNlZF9ZazhDdDBOVkZ5ejBpeHRTaEJHdTVwc2J4WFBBRzdPYW15YVZuQ3FxQkw0?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 02:03:16 GMT",
+      "description": "Liberan jubilados Cámara de Diputados tras caos en accesos Reforma",
+      "source": "Reforma",
+      "outlet": "Reforma",
+      "domain": "reforma.com"
+    },
+    {
+      "title": "¿Cómo funciona Hoy no Circula en aniversario de la Revolución Mexicana?",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0paSEJ2Ni1hNGswQXc2Nk1LOHozQzFhNjdZZG5IMmlUZG14MXRjVG9UaGF2dEI1aHl3dWxnS0t6MXVGZzlFeHltZHJ3akRVbEVmZm8xc0JDYVJ1alRyZ25nM0dfTVZ4OERHeEtha0RwOXc3MGkyVC00dzhEMENlQnlVQjE5eHZCbXdfd3h1VDdsaEdGd24yS0pLVjdJdlXSAaQBQVVfeXFMUEpzWFYtNVBmRUg2YkVpMktMRjdIWkViZnYweHpBeWdBcWhVVW1FalJJeC1Qd21OMWNHby0zRV9fU0NEd1lzdFFkai1saTZWbjNwcVJrUUNsVHRrZG9ESTJiaHFicHFFM3lhVVh5d1JKNV9tMWJtRmVVNUl3dm9UYnFlZnpvYVVVaEllN056dFIzekJNNS1qRk1hNWlZUElzM1l0b0U?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 01:30:39 GMT",
+      "description": "¿Cómo funciona Hoy no Circula en aniversario de la Revolución Mexicana? Excélsior",
+      "source": "Excélsior",
+      "outlet": "Excélsior",
+      "domain": "excelsior.com.mx"
+    },
+    {
+      "title": "Detienen a exalcalde de Tetipac, Guerrero, por extorsionar a Coca-Cola",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSTJpbmk3ZXlpeHdjQ2tDTWZnVzZVR2FoZG5QOUJfZDFzc083V1cweGVHUl9ySm1JbEpRR1QzTDFVYVpFOGJUWkw4cFdtWG5SUDlMU1owSU5fa0xSaXhuQlBSZS1ta1ZYNjV4em9ZQTM4X3Z4Rkhhcm9vdmdoYjZoM29FZXEtZUFVTnFPUDVnNmp3UUMxeEc4QmdnbmQxeUROUG1CTl9LR0VZNk1meDFxdGdJd09VSWd1WVl6Q0E4N0tZUk0ta2dvZm45VGZkenlK?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 23:43:47 GMT",
+      "description": "Detienen a exalcalde de Tetipac, Guerrero, por extorsionar a Coca-Cola Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "Blanca Cruz asegura que puede seguir al frente del INE rumbo a elección 2027",
@@ -113,13 +220,13 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Regresa Sheinbaum de China; llega en la madrugada",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVpjV1BwcUhGc09Gb214YUpHekRHQWVYRnJScmxud1o3dTg1aXlQdExvYWFncE1DUTdFQ3BBWW9FemR2UE82M1VnOElDbTQ4TWRjSjMzb3ZOQVB5T2VPSUhmb2tNVlk3blhhMzB1U0FocHM4QWdBekFiQkM3ajk3dm9rbkhTM0RfLXc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 21:48:13 GMT",
-      "description": "Regresa Sheinbaum de China; llega en la madrugada Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
+      "title": "Condenan a 60 años de cárcel a José Luis Abarca por ataque a Los Avispones en caso Ayotzinapa",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTXdteXZKNi1YTnQ3VTFsN0J5SUM2TzlXMmdHbVBxazJ5R0tWcmxPZEU0MUU0RGY5Q1pPRHFvYmxGcERYaXZySDVIU01MazNaT3NqUGJrc3pzQjQxYkpScUxteXFuQzlOTTlUdGQzYWd0T1NPWVdfQmJOV1Z2bk1NV1MyV2Q2dnBuMENqUkNQNzQzZW55UGRaYTJPLUxGY2I0NXdHTVQ1enhGcjVuMDRQd1BMVHZ2NnVLdVlROVFEMTNHNFUzdkdXVm1aZzJSNmNiQUVaV3BWQlhUSkZaTmFJdW1HQ01Ib2c?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 22:05:04 GMT",
+      "description": "Condenan a 60 años de cárcel a José Luis Abarca por ataque a Los Avispones en caso Ayotzinapa Proceso",
+      "source": "Proceso",
+      "outlet": "Proceso",
+      "domain": "proceso.com.mx"
     },
     {
       "title": "IMSS Nuevo León aclara polémica sobre los órganos de Sofía Calderón, mujer que murió durante cesárea",
@@ -135,15 +242,6 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybUlPbXRLZ0QxS1BEdl9NZ012b29VeHdrR1gyaFNrVEpnMlc5V0dFS1VubUswYzVRdTFjNXNta3MxaUE2Mlc4cll1N243UFlVTU1xYUZ6ZklDZkRHVEU1RUp0MnBrc01qUmlr?oc=5",
       "pubDate": "Thu, 19 Nov 2026 20:13:19 GMT",
       "description": "Rebasa dólar los 19 pesos Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
-      "title": "Caen operadores de 'Los Mayos' ligados a masacre en Chiapas",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSk1zOF9HVFN6czNfYTRJbFRqVjYxSTNzRktvc2RyN1M5Sm1QTjdhdUZxSmV5REtRZVN3YXdtdXhSeS03cmNENFFQS18zWWotZ3V1bDJ4OC1wZFVNUXpEY01PR0xfWnpfc19hX29GVlpSclZLMGs2S3g0WS0tUVVIRGNkVEdadWRaWnprR2pQU3F5ZlFYMkE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:13:19 GMT",
-      "description": "Caen operadores de 'Los Mayos' ligados a masacre en Chiapas Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
@@ -167,13 +265,13 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Fija INE criterios de paridad en gubernaturas rumbo a 2027",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHkxRV83a2VfeTlaaHZ1RUY0empzengwc05adlJFRkpWVmprTTQ0M1hwVkVWaTVwTkxZY1laYVFsekw4N2ZkRG0wUXprYlAwVmNVZVBPS29SdE9qM0l5aHpzcURYT3FvOXhuWlMtNEdpWklXQW8tMGJqczVtb1AtUmdIVFFMTlpWNmhOc1RlZUxYS2dwRzA4Q0dNMTNmSWJ3Ym5GZnNWQWRjLXczWnd3bkNOT1M4MndPSGF6a1dDdmxLVmN4VTRHOXRJMW9iN3lranRHN3ZJS29DekdvYy16QdIB9AFBVV95cUxPWUE0TUZBU3JXbFlXNWJ2WVI2c2RQQkZtaklBVk94QmNIRXp2dm1Vd0Zyd0h5cjFzbzQzZWp0aldoRnh4VFRlUmxZVk5jQkYxODJyTzFKOVJqa2R3QjdhRk1PUEY4WTZZVTJxUjU2MGotcmV3cGVUb0NQbl81M09YQjloakdCOHpEQVNJbVFVRnlIay1vLWNQMjNrU3RZTVVsa1JBWTFVMUdsN0FqNU9YTU9LV1NPcEFKaUQwaEJ5Mk9fLWVlSzY2OUVseE1mdnFIWjJldy1rZXBGck5nVWd2aEJOTDVuMWRYLUNJT1R1blRBYnhI?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 16:56:00 GMT",
-      "description": "Fija INE criterios de paridad en gubernaturas rumbo a 2027 El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
+      "title": "Lamborghini Temerario Spyder: 907 hp a cielo abierto, techo duro y un escape más ruidoso",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX0ZFeVNXMzVfWkVWVENWZU5SQ1hLN0dDZkJLTXU4UjBEZng3ZjJNTmtWTWJyVkdLSHJwN0pmQVM1by1WYW9EWGpvZjVpZ3l3MGxNdGMzTGFPWWFvZENpY3dFRFNpY004NHpmTGU3cEd5OF9MR3FfQlkzRkV6Z2FlYnBQSHhseF95UUhzS3BodTZPSFVrZk5nam9LRlowUmVqSXRRREFTTUFUR1BmQ1ByZnNn0gG3AUFVX3lxTE0tVk5xSGFFOXZwMElKN214bl9DRUtjdlVVNnptR0FSZVh5ejFYRVBCbnVYZmdqaUZrUHQ2V2Z0VEVQbHczWHd1UWszbTFzdXNMWE52ZnJwajBGN2djVXpqblVMaF9hbU1lS1FzckZ2TzBUekRCdGlpdklBN1NzR2c3TmhXUWgyWmo4YjRMWUxFYjlHSVV1R08zY19Td0ZhcXVucXI3aHg3UEhBT1NoQ05NWmZTekpHRQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 16:34:03 GMT",
+      "description": "Lamborghini Temerario Spyder: 907 hp a cielo abierto, techo duro y un escape más ruidoso El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Familia denuncia al IMSS por entregar sin órganos el cuerpo de joven que murió durante el parto",
@@ -221,24 +319,6 @@
       "domain": "eluniversal.com.mx"
     },
     {
-      "title": "Sheinbaum descarta tratado de libre comercio con China",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTWdGVGJ0R0dXRmxNVkdnaHlWSTNoVVA3ZzRIT3VPZFZ5R0tXLWhvNmsxcGJXZ0tyYS05Z0FYaEFaUXdWNHB1RjRpYXNia29ma2RIeTZXaTFEV3EwQ1ZLOU9uUkU0UWY5WEFoOC1yVURhWTZ2Ti1va3BCYU02WmtDSXV2ZFpxaTdnTWtCczhVSmFXM1lTekFGeUxfRVUzbFdkSWYxTzVja2c4LTF4ZWwzLXBjWTIxbXV2S2ZjOFR1U2VsS3RHTVZ2MVJ4bVVKMWhsOWpOOVJPQzBQblRxbm9GZDB2TjDSAfgBQVVfeXFMTjY1YkN2S1ZnLWR2bVBoS1JHRWNYRC1PSG1ZeVBvcHVDTDVFQzNhTU9vcHo5QnA0azBvR1BuU3BqUlZiRWhDcElaaXZOREhUNy1yLXRMQm5IYUlXNE5mSmFrZm56cGZaQWlDWkdzdnYzWkxxbGNxVXFtRjZVQ0FvRlJNVGpHRmhvVVlOVkYtNmc0U2RZNm54clB4UlBjVGl0WGdIc0xXUlY4Q1hNTGxzZDE2Vzc1ZEp0ZHpuQVczRnBFbkZJUmNSYzZ2dTNEOVFNWS1lUFV0N2tNQnFsODFwTW1HcmptRllmWGtROXpvTGR1MThzc1ZWNEY?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 14:03:09 GMT",
-      "description": "Sheinbaum descarta tratado de libre comercio con China El Universal",
-      "source": "El Universal",
-      "outlet": "El Universal",
-      "domain": "eluniversal.com.mx"
-    },
-    {
-      "title": "Buscará México acuerdo 'definitivo' con EU en G20",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHkzVkd2eVhHTUJTUTM4dTFkSGI2dUVYVWxPaE9LeWlHUzFOWGZ5X2V1Q0VUR3prT3NmOUI3TnFGREtCblBvMjlEZ2tKaUQ3eFQ3MWdySFpvUGJIYl82dk9mNnJRZWRQRlhOZTFXcG0ySGsxTkxvei15Z19SZzJMVVVJOEUzMzBE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 12:48:19 GMT",
-      "description": "Buscará México acuerdo 'definitivo' con EU en G20 Reforma",
-      "source": "Reforma",
-      "outlet": "Reforma",
-      "domain": "reforma.com"
-    },
-    {
       "title": "Adoptan Trump, Xi y Putin 'declaración de paz'",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTFJXekU4VWx4YnZwZWJhaHV5Tllqb2s4RURKM1ZyWUtoalBkNGE5VC1NZE9DTUxVSlVtSzJ3NGJJa2VkZTlUV0loZFFMQUtUZlpyaUlhV0xubVVfblhBSHQ0bGIxYUpWM2d4MWR2Mmp5aVdWdVp5bDd3Y3ZiS0wwck1vTQ?oc=5",
       "pubDate": "Thu, 19 Nov 2026 12:33:19 GMT",
@@ -266,22 +346,22 @@
       "domain": "excelsior.com.mx"
     },
     {
-      "title": "Repartir hasta quebrar",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uenFtZTlpUWFBcGgxVkctZVBIMjl5bDhXeklhbXpDUHhZeHNtTjJZVk42UE9WaUVlNHpiTHA0RG1XUGo2YjhqNjlEVzRodGhaZFh3el9hWlR5Q2lxWkFVUlJIZno1YzBUZC0zcWw0LUdJa1Yy?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 11:03:19 GMT",
-      "description": "Repartir hasta quebrar Reforma",
+      "title": "Celebra familia morenista boda de tres días en hotel de lujo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb01QOGZmWVNVQkVlZVJGUVJ0TGh4SEZrZDZvR1ZBaUJjcG9uRWkzVEJtREFfeVFKRmNDTC1aZ24zdDYyMVB6Ym55Sl95Q0xNSEV0Qmp6LUZIZDYxZkVTOTZxdHJqTmNjcEdaV0JLT1B4T3VWSHBHTl94TXJ3azhSSkljV2c1THZzYVlNT183SUZtNnhYQ0ZjS2pB?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 08:34:08 GMT",
+      "description": "Celebra familia morenista boda de tres días en hotel de lujo Reforma",
       "source": "Reforma",
       "outlet": "Reforma",
       "domain": "reforma.com"
     },
     {
-      "title": "ANUIES exige garantías para elección de rector en Universidad Michoacana",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVktKTFpQSHVYdkljc0pVRXFta3dQaGlqYWlrcTBLcG1OMWVZOGlQNHdJb05uTDB5UXFtM3ZyYWlDYTVCV2gxREZQUjVma3BaMTFjdGZ5MUR5SlI0dElrUi05UEZEZ1liLVROb3BNLUNua1Z4VV9KR1gtNV8wMDFlZGpIdmQ0UVh1ZE1JTjBXWHJTZWhtdGtPV1VnN3hEVGZi0gGmAUFVX3lxTE1VU0FXNjNOeFRGblVvNlk1dVkyeThVdEkxTEh3aUxRRndnTVB6cUNzRkdleXRKNFRha1p5ZzVzZ0oySHFYQjZQV0p2cl9JNXZtNzJwQ2JEZlc0ZnpVQzV3X1RLLXgxTE5mbmxHLVJLMlJnNllmREpiOEVXa0ZSVm12QXBpYUR6bTZTMlBJdmV4bXZQX1dTZ19CT0dDWDVQTmtwQ0hTbXc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 05:37:26 GMT",
-      "description": "ANUIES exige garantías para elección de rector en Universidad Michoacana Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
+      "title": "Revolución",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1leEF4bHNhZTJiSWpwLWdNQzlpZnI1MXlkWmNoNW5za050RmRQdUppemNPTFE1YU1BeGtiX1RDQjVOUHdYUHg2U3JhaTljR0huX2h4aElkeWxxbG1aUldSbDlKRHdYRE8wVVBCQXN1ZTE5VEljM1hjTFd6b9IBgAFBVV95cUxQTDBVbl9KUm1CZktqNDFwOU5nbVU4SldmNkpHcFlPUkJlaVA3Qk5na2h1N1FiWjRNczVmZVhrY21MYVZIUzNWZ0hjM0hZR2RNZC0yQ2UtdDFmanByQUFNMm1ZN2tpck9hR3RjWkNyTzNudzR6MjgwY2U4OGV6bXlaYQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 07:43:47 GMT",
+      "description": "Revolución El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Jesús Seade y la suerte de los gatos",
@@ -293,22 +373,13 @@
       "domain": "eleconomista.com.mx"
     },
     {
-      "title": "DEA y zar antidrogas buscan librar de cárteles al hemisferio; elogian a Harfuch",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRjlEbmF5azJOVzVTdTk3WFRHVGoyQ19sRkRkMFNnZzVWUnZ2WEpBbEJ1S01iT1VhamoxdHlvdHZ1R29MSTVLY0tCLTZ5YkMxM1M1WmxKdVRBVWJmbTlSMGFVVUhvRldOOU5QYkJObnlpSTZDLUdnNHltUThvVURPVlNibFFqeXU2dzcwaXY5eElXR3BPeTJWbnVxQXJyeUc2Y2lMRlBrenlBUjVU0gGyAUFVX3lxTE9nMlowX2FyczNhNUNQTHViRUl0RW1kUmdHWGsxODcyQVRBQjczYUlkY3FsOU9TcWtDck9FVEhlMWhjMHJ2UHpwSUJHWmw0bUNUTldkRmpqVktBY2RaOHdZQU1naThZUVdrMFBrTThwS1l4MzVXMHluY1Z4YmhsOEY0ODJhNFpLU1UtSjdoQThzbEhvT3pTX1BpTWZmeVZDWDQ4MTVBWTJ1cjMtZExiVnpVaUE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 00:41:56 GMT",
-      "description": "DEA y zar antidrogas buscan librar de cárteles al hemisferio; elogian a Harfuch Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Coparmex en Puebla afirma que jornada laboral de 40 horas implicará pagar horas extras",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY25PY2RBSWtrZGdXaXEzdmFPZFFWNmkzU1lxaVZXTGhhdkNkNG5LSDloX0NTX2VBNXJhb0xaUWFHU1JtMHA5WENjdjJYeHJ1LTJZb0FBSDNNclJYUU90endPVkRhNEM4OW82RzFrZ0Z0TzZJbEVhdGpnQlVnSVpkdEtQMURMaFRrZ2VrWXhWNUsxM2l3NnF3WXVtdjVJUkV6eFJXQ0gtUUhzeURqZk9SLWxHVGYwenFQaDdXQWVqd0xsNklTUE9VWTE5aUdCV1R3NXdF0gHYAUFVX3lxTE5ORmFrQXZCWVp3bDRReWpKYnFwNFUwQ3h5bmQ1ek1vb2RjSGptWXZPRXVaWGppc0VsS0ZRNGlMVENPb01ld0pNNjRxM2JqWTZZd2ZwOGo0M1pabFF2b1lfS2tsUThMNjlsVTRvNGRSZGgxN1FGS3psZEZTWnZlYndpbjc2eEhuZTRsY2FleHhIVUNJalNuUW1NWEpOMGJ1aHBjOWtrUjZYTnFJYUJZYXJWdFpzNDY2MDRnX05WUFFEdk5MbElVTjRtVHZDeWZ0eG1Ja2N5YmR6VQ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 23:54:32 GMT",
-      "description": "Coparmex en Puebla afirma que jornada laboral de 40 horas implicará pagar horas extras El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
+      "title": "Mujer recupera sus ahorros tras denuncia contra BanCoppel en Tehuacán, Puebla; suspenden movilización",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0UyMmlZMGlwX2tzZU1vR25TTGVjN1dnbm9NUzY4VmQ0WV9VRlltOU5mdTZ0NEFWN0VsdlFxNEcyamw0VVh3Y2ZRUEFKdGNUTEdEbE9SZm5NR1Awa2YwMUY1dWZPemZoZVlMSXRIWEd4V3pCZUJXUEFzRE15VFR3LTNQQUd4RWvSAYcBQVVfeXFMUG1WQmM3bVpfVGRzUWFNdTlZTVhmZTFieWt0aHgwOXlKd0JDVktjdWZSVnpaTUNXLTJQYy1RRHBJQlhCSWJvUEF0bTRMUy1TUVZadDhDa0FoYnoxclVWQzZLS3ZwSjl5YW5sYzdfUF9VY25mTERLVkFSMVYtRUUzTGh1VEhtdWxV?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 02:06:00 GMT",
+      "description": "Mujer recupera sus ahorros tras denuncia contra BanCoppel en Tehuacán, Puebla; suspenden movilización Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "José Antonio Meade fuma la pipa de la paz con la Cuarta Transformación",
@@ -320,22 +391,13 @@
       "domain": "proceso.com.mx"
     },
     {
-      "title": "Cae avioneta y se incendia frente al Aeropuerto del Norte en NL; hay seis heridos",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vc2FUTklWaW9ZRzJHem1JZGpZeWZ4Q000V1VMWGhhZXRYOUpRNUp3YXk0YkE3aGJaQzNaeEloS19OZnFSZEZuUlNJWG16aHptLWZ3LXhESkJiVUV4V0NmQVpuNmpXOUZuc1NDNzlaQkMyd9IBd0FVX3lxTE9VeXc3anRyb2VGSzVxaXZaMzhDTTRvSWpCNFdSaXdEaTdhc3NNSlpGc1JhVFk2N19wNjNtTHdxLUx1UTZFeWpKVEFKSUVQNWwzSGlUY0t4cTV4Wi1tNHZxQzJrdFBGMUpvb2Q1LWRRQml2b04wNG1Z?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 21:16:21 GMT",
-      "description": "Cae avioneta y se incendia frente al Aeropuerto del Norte en NL; hay seis heridos Excélsior",
-      "source": "Excélsior",
-      "outlet": "Excélsior",
-      "domain": "excelsior.com.mx"
-    },
-    {
-      "title": "Luis Carlos Ugalde ‘regaña’ a Fox por declaraciones sobre elección 2006: ‘Genera confusión’",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU0NNRVNqREVOV1NLTHBTY1h6V0tScngwUXRwaTBQaTlxVWdIa29scFM2SmJzZTMtUzJHbFdRcFNrVGJqek5lelI0SE5reGowV1ZfaHh1M0hLV1RhYTRwQllSSi1FcTBucHpGVFlpU1VqVmpNTDZacDVpU1hJU3FWZXY4Q0dFWXMzNDZCMmJSM1h1RVQ2NG1pSTRRaGdvSGl2cnluUU9mUk5IRktBTnU5bmMwNjhwR3BOQ0paNjdzNnFZWXg0NFNCSHN6aDhuWGViS0NyUV93?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 20:03:59 GMT",
-      "description": "Luis Carlos Ugalde ‘regaña’ a Fox por declaraciones sobre elección 2006: ‘Genera confusión’ El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
+      "title": "Travis Scott y Don Toliver enfrentan demanda por \"WHAT TO DO?\"",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWVdEcHFrTy1oUUllekZrT3lqRVRpcjNidmRWNzZQVXN6QjlWTlo5VmlXY3RENGlPbkVRT293SWVxTkpFZE1PeVVnVU9wdnJodS1zT3hpRTdHZnY4VU8wb0ZsWkt3bllpNlZvRzZ3M09zYVk3bGdJb0hkRHpWUnlSRWs3TmhpZzdyY05KT1hPazJRMTNpV05sMFBJS3pUQ2d3ZXQ5YQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 20:06:00 GMT",
+      "description": "Travis Scott y Don Toliver enfrentan demanda por \"WHAT TO DO?\" Aristegui Noticias",
+      "source": "Aristegui Noticias",
+      "outlet": "Aristegui Noticias",
+      "domain": "aristeguinoticias.com"
     },
     {
       "title": "Transportistas y gobierno federal acuerdan plan para reforzar seguridad en carreteras",
@@ -351,24 +413,6 @@
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWDA4UE9Vb2FQUU9leUNfSnlXbVl3emNFdHdlNGRfZnc1WlZnYUFsYUwtNUlEZGlQX3Z1bURtbzFUMTVmV3I1M3VodHdoWXUyNEc2Sk5ycENxSUpmTVJ2Vnh2MjBuMjhqVTNobjR5ZzVLbC1scDZlNkJ2SnpLYndBMklsRnZZZGhVMWY1aHdrX1lRa2NPdk12UENReGpwMmNLdGVyWFZFVVZ1SjNIN1F0NHp0YmFzS3NlanFwVmhKYnBCc2hqaGdxXzlOTHFUbmk5RXBlLU5vSUV3eEl1NWFXMlVHUnRCZ19TQ3JV?oc=5",
       "pubDate": "Wed, 18 Nov 2026 19:36:22 GMT",
       "description": "¿Dónde está Alfredo Hernández Casillas? Esto sabemos sobre sus viajes tras destapar corrupción en el INE El Financiero",
-      "source": "El Financiero",
-      "outlet": "El Financiero",
-      "domain": "elfinanciero.com.mx"
-    },
-    {
-      "title": "Clima en la CDMX este 18 de noviembre: ¿Lloverá y qué temperatura se espera?",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQekxqckZRdmJlMFBpaGJMTUYxb2l6WTRFTEdYbHBoN3B1bjEwekdWS0REWURQclMtVk9MQ1ZaTHZ2T3k1OWhMYy1fU0E0Wm1oSlo5WTZMeDRRMk5IcTJteXd0U0tTLUs0WGFYQmRCaXZiRURBQ0pnVk1GNDJjM3lxbzlaSDBOUEw5OWl5SzVORkFEX1Y4aFpzNXd4UlMwT25iTTYxSGVPN1hLazJsdDBuSjN30gG3AUFVX3lxTFBXYTQtemFWMTBmY3NWMFM0SUF0dTk2a3dlN2VmSWF4Rl81ZGVJLW1iMG9TbFd1VGg5aHlJdkJhcDhaZjg2a0NPaDVWcXdETGQ1VDlUWUp1X2ZDVWx1WFJLTFR6NkdQb1lyb3lISmFIRGhKZmsybkhJdTd0NGdpZ3Y4M0lXRnQtQmNobENLZlU4MWM1TFgwTmdqZ0pBQ2tFMWhKYW5WVU5OdGp5MFdHVVJpYURORXByNA?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 18:43:03 GMT",
-      "description": "Clima en la CDMX este 18 de noviembre: ¿Lloverá y qué temperatura se espera? El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
-    },
-    {
-      "title": "Lorenzo Córdova responde a acusaciones: ‘Nunca hubo colusión con proveedores’ en el INE previo a Taddei",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZDZlenVOUHpnNTU5NzhWNUcycW1DLXFyNlI1T0RNWENRbjBGUWNqVVhMNXpNaEVXNGt5dDBDRVFtbVRCSlE4NWN6NFk3dlo5NkFUZ0NucHhJNllPZmVnRWxuVXhaalN1aVltYnZqV3JQTGh0N3NjVWhBdnRjZlh6NVEtSWI4QkE2SW9Vc00tUHBPdHI2eGl4UWhFc1k4NVg5VXB6UzJ4QVU5ckVHQkRaWmVCMUJNM2szSWlpT0pndUJEZVhZc0pqOEw1YzdXWHQ2VHBzQ1FPS2tZTkkyemhxbEJhcWNGWVlJ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 18:33:28 GMT",
-      "description": "Lorenzo Córdova responde a acusaciones: ‘Nunca hubo colusión con proveedores’ en el INE previo a Taddei El Financiero",
       "source": "El Financiero",
       "outlet": "El Financiero",
       "domain": "elfinanciero.com.mx"
@@ -392,6 +436,24 @@
       "domain": "aristeguinoticias.com"
     },
     {
+      "title": "¿Dónde tramitar la LICENCIA permanente sin cita en CdMx antes del 31 de diciembre? | Lista de MÓDULOS",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejhGVW5aVDlReUpyWS1WSWZRd19teHFrZkRtVzVTWno3OV9WUVNOUzJYMWVuaGtFV2ZGWXBCSHFjTldtOHg3dkxFZkpIMk04RG5DOFZYbWFiWmNuQ05NVmRKUGtSM0tQbTdWMXJxU1lBendneThlZTlNSWROUmNwYkt3TEw2eDM2bU85Zk8wa19SRmF0bFZKTdIBmAFBVV95cUxPaTZub2tSbGhCcjFUY3hSZzBkV0FQYzYzX0RPTDhXRHdvbjE1UGRoajdmS0ZCU2RfR1FXNE1KdE9mNG14YWNjWERxbDNGSmxWYVRzdlZmMW9XamtDSlJSVDV0ZFZyTzF0NlRXX0RnamVPUlVNSzBxUTlkLVAzenQ4Zk00SUxqc2QxcHhmSU9seUhvaHM5dUcyNQ?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 13:59:00 GMT",
+      "description": "¿Dónde tramitar la LICENCIA permanente sin cita en CdMx antes del 31 de diciembre? | Lista de MÓDULOS Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
+    },
+    {
+      "title": "El modelo exportador mexicano: las preguntas de fondo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTROU3BpX0RvbDdkWWtyT2lwRXB3X0hlem5fOUFOTDdxaXRTYmlkd3gwXzR1SEkyWGdaMW9ObVRqZ3ZHRmI1VVZJY3drb29Dc0F3SjMtX2J2TW9QX2hqRWp5aDdLSENQbHdLT2ZJcEgyazdrM1NxXzRlQU8wdDdEaGF5QTBIVndHQU8xZE1YNXNUMWU2cEtraXRxZkRjcWxlQWxCcUtB0gGrAUFVX3lxTE5Yb2ZtTW5rbi10UVlTeFZzRTkzTkdsN205QmdjMjBVSVpiV1h5ZTltU3JBYnZCUFRLZVhNT3BaMFAzVXBiMFpYQTZ4QlVPQ0JlQTZuYWZkdmZRN2FudnFpczhSVkNJazFNcTRVRm56TEZvc1kweGJjcVFKbDB0LVNwSGtLLWlPSnBJZUdKZnlxSU1WcmdTRUtjcHlZMXZjd2ZJeTRnbjBPWWEyNA?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 12:05:00 GMT",
+      "description": "El modelo exportador mexicano: las preguntas de fondo El Economista",
+      "source": "El Economista",
+      "outlet": "El Economista",
+      "domain": "eleconomista.com.mx"
+    },
+    {
       "title": "Detienen al presunto homicida del periodista Eduardo Flores Salado en Acapulco",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRlBPNTlIUl9jMlphdGM1dWREUTZ5b0VLU1p3aHJWb3pYaURLWF9TTDF6THNyLXVGSUU5WFNYTTRWZ280Y3ZiUGhaYjdIZGU2YkRneml3SFNlV0h6bGRsRDQ3d3hRa3l1UGJUZjR5UjF2c1NPdnV5R1l0N003SEFtQjdCSEtSWkRHNWhEeTVKVjZWa3ZrSG41eU9Ob2oxQ0MxSUo5QTh5bEhPcHY2Nm5zTlkzMUNfYnFKOEJlcg?oc=5",
       "pubDate": "Wed, 18 Nov 2026 07:52:00 GMT",
@@ -399,15 +461,6 @@
       "source": "Aristegui Noticias",
       "outlet": "Aristegui Noticias",
       "domain": "aristeguinoticias.com"
-    },
-    {
-      "title": "Debilidad económica no confirma fin del ciclo expansivo de México: analistas",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdEE1NndZS21wS1Q4ZWFNeG1lMnZJQU9FMnp5aE9meHVFdFNsUjFSZkxyZW1OckkzZ1RHSkFKbDBjTkVFRXhsWU9aVFBqVlBRLU1hejF5Nk9XaHQ2LUQ1Y1NpRmVObGxJek9Va3VxcnR1Rk5adlRCTGhzQzBTemVfeDZTSlB5SjRfeWNmTi1NbHk2VEZ0NnRkc3I3YUl2ZDgtTnJXMTY0SktkWThCSmlMTVRRYmgzYW5RUGRXMXNWUnbSAcYBQVVfeXFMT3NMaWxQWS1LQ2lKQi0tR2VMN1hfbmZ5Q3ZuVHplZ2lxRFUxeVFuTmhodVhmaEdDZEc5ZEo4UzI4S3g2RGZCVnhWVmRRR0UtVjFzaERhSm43UXQ4eGFmTUFhb2hySzN0YXlheUhtNXVVemdNd1NxQzZSMWdqd0NKSS1PQzlYdWZmbndYVnF4a0dlVE5xdE54NWdnSkc2Qld6Z0N1OXYyQXJiMFZIYWJsZmtWdk5LQWRua2tHeG9XZng3UGVHQkJ3?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 04:50:03 GMT",
-      "description": "Debilidad económica no confirma fin del ciclo expansivo de México: analistas El Economista",
-      "source": "El Economista",
-      "outlet": "El Economista",
-      "domain": "eleconomista.com.mx"
     },
     {
       "title": "Detectan transferencias por mil 696 millones de pesos al despacho del papá de Samuel García",
@@ -428,13 +481,13 @@
       "domain": "aristeguinoticias.com"
     },
     {
-      "title": "Deuda y pensiones presionan las finanzas públicas: Coparmex",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaHJ1UkNNT3NTYWt6VlhsSmN2SHBOdG5pQXFaVThYenVTSTVNQ2tTbmFDRDlTMGtGUEpOZ2Z2bFRONGNZY256eFo1N3ltdm9IV19scG1UUUdOQkxXWWJZN1VtMlZSWk9KdWphWjhUUWNXTVo1YlVfUkNtb3ZqaWZlQlU4T0Rmcmp5N0xtOVpQcXhTcGJia2xUeTVUVW4yT2RzcE44?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 16:40:00 GMT",
-      "description": "Deuda y pensiones presionan las finanzas públicas: Coparmex Aristegui Noticias",
-      "source": "Aristegui Noticias",
-      "outlet": "Aristegui Noticias",
-      "domain": "aristeguinoticias.com"
+      "title": "¿Sufres de estreñimiento? Este es licuado de papaya, avena y linaza que podría ayudarte a hacer del baño | RE",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW11UXhJcFdkb0Z4VlljTVpNLUhaSktmS3MxUVlYLVNTZ1pwR3lIbjZjbHZvODJxb3F2VC1scjBoN2E2MXhjd3hLZFJWY2c3UFp6aWRwVVl3NmtJREJobWp5bUhMOEdscy04dUdfZmZyMWFnUjcyQUhOaHU0VmV2R2d6UzBMUlVlbTcw0gGLAUFVX3lxTE1qQ2VPTzZVNENfakxaemhrRm5QWXNEbkdETThBVDB0TzVHMlo4cWZZSExwNFZTdlBLWnVuQldSN2cxUEloZ2RrRjFYY1N4WUkwVjFWYlZNVXlEZHJkMVFtOVdJbnRhN2VuLWRvVG05ZFhqMkRLZUdPcFBLSE5MNTB0b2ppWnJFdEp1a2M?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 01:50:00 GMT",
+      "description": "¿Sufres de estreñimiento? Este es licuado de papaya, avena y linaza que podría ayudarte a hacer del baño | RE Milenio",
+      "source": "Milenio",
+      "outlet": "Milenio",
+      "domain": "milenio.com"
     },
     {
       "title": "México destruyendo el futuro: Desaparecidos",
