@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-11-19T22:29:51.690Z",
+  "updatedAt": "2026-11-20T04:35:58.986Z",
   "sources": [
     {
       "name": "BBC Mundo",
       "domain": "bbc.com/mundo",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "CNN en Español",
@@ -40,14 +41,16 @@
     {
       "name": "The Guardian",
       "domain": "theguardian.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "El País",
       "domain": "elpais.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "France 24",
@@ -64,46 +67,37 @@
   ],
   "items": [
     {
-      "title": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVc1E4b0M2TDQ2d0xUTVBnS2QySUJHMHVCV2RtbTZPVU1mUlZSSGg4R0ZES05PWVhlVlRBUVdsUFpfcW9MckdUYWhMa1JNdXNGZVQxZWFwSFJmSEhC0gFiQVVfeXFMTVZXeFNxd3QybGNxQjQ4Y1NkWWJhT2tYa2NIbllHYlUxdVlHOExPX3gtV21oQTRuSnNEYjVadFlic0RMRVNOSFFQaXNZUVplRjN0R3JKLU8xSzNPQURvT29zOUE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:37:19 GMT",
-      "description": "Anthropic: por qué el mayor debut bursátil de la historia pone a prueba \"la burbuja\" de la IA y la posibilidad de que estalle BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnB0WnNKdXV5b0F3V0djaHNNT1JkMGoyVGlmZ2M0anZxRDFRNUEwNDFsS0EtY0VDTmRWSUlCeVNhNWpTZk80SFVGVzR0d1dRbHFRMjlmV2VCSUl0cENEYUx2MGJFckt1TV82S0ljVkdLREllQ2RMZ0RENjluQk43aE9FWHR0eHlTNmxZa2RweU4wY2F0ZXhKU25ENHpoTi15WkdZU2hhZXdUZVJFOUlTQlFhdTFJeTNuTWlxdzZR?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 19:27:47 GMT",
-      "description": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "China y Rusia sostienen a Irán mientras Trump busca aislar a Teherán mediante más presión económica.",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlaT2FTeE9lWXRqSEJvWFlrOWhDUS13R2JjWVRhUmRoU18zc2c0a3ZTQTlsNTVhMC1iUFZhTDhPT3pLN1QxZGNvLUpDdzdiWWktdEFIeUpKcEJqSXlHNnNRdGdhMDdJdnpRTTJBTTJKWTRqcWlna1dWVFhoYzkxMFhaTWhGVkIycWkxZFJ0bmxGX1FfYjVhMXpzZjHSAZwBQVVfeXFMUHR5Mjh5Y2FnVVhheXljRmNLUHhfXzJpT280SEVtZjQxaURUUHNzVm1DbVZWOURWc21DN1JPTWdIQ2JoZUdTamNsSHNXbE5zcGRrRmdLSVljNGhxQWp3TTV6ek9wMmQ4ZWt6eGIyakpFNFExN2d6VWpJYlFDeDlNVWl5Tk9Sakw0UUM5S3FPMGZUMVFMXzBKUVFuTUJH?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 22:37:34 GMT",
+      "description": "China y Rusia sostienen a Irán mientras Trump busca aislar a Teherán mediante más presión económica. DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Al menos 34 miembros de una banda armada mueren en una operación de la policía de Haití",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPelU4cVB5bWIxTjFUd3ZVVU4zb195ZHAzRGJDWHpraWV4OTVJOG54V0tKc3A3Q2tVdktPa3Q3TDlGUDJGa2xTeFJMNC01Tk9NcWpnUDJIVkU5UDZMQlBheUhEUVdxT2VmbTZseFN0WmFNWlVBY2dYak5IOGNWVWV5WGFSV3VMY1J1MWx0VXY4VGJpN1lyTjRzZEwxZHVPeldORnNLVXFzSl9WQdIBqgFBVV95cUxPR0RYaGZSNVFyQlR1Y002VTc1eGE4TFYydVRPcDVpellBM19QWVAyRURfcF90SWlheHFOakpiNV9SMUVmLW8zSEVKT21mX0kzLWhqbkpDYlhzemFqSjJ3MjJKb3c2T0c5bU4zZjM5c3hjUjAwT1JNX3pPeVNzSC1WNllTRU50ZURmNzkzSTBIOTNIQTlveEpTdlBxeVpwUmFuSkNiUDNZT0laQQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 19:26:18 GMT",
+      "pubDate": "Thu, 19 Nov 2026 19:23:31 GMT",
       "description": "Al menos 34 miembros de una banda armada mueren en una operación de la policía de Haití DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
     },
     {
-      "title": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra)",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TWGV6d1UwSURQclgtVFBlQ21LLWJ3SnBsam9vNlNtVzVPREJiX3I0UktDMXZwVkRXQUJkU2gyLXFnY1lBaU5NWmtZdGNqdHZNSE01QUppY2I1cXlS0gFiQVVfeXFMTUR0N0dSMnJRVE05V2ZYbVFlLXpWQWFjTUlnWjJCYjBRbm1YaUtTRlNvQ1lvbWx0cFpZb3ozdDY2bU4wUWFjdDJtRVFxZVVtTThJVDgxODd2UWFjQS11S3Q1cHc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 17:57:54 GMT",
-      "description": "El sombrío pasado de la pintura de Van Gogh subastada por un récord de US$190 millones (y qué tienen que ver Argentina y los nazis con la obra) BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Claudia Sheinbaum voló 21 horas en clase turista para asistir a la cumbre de la APEC en China",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRU4xMFp5OXY3dmVGdC1CQnRnN29SQTMyQ1RINzJBcnNZbGgzZV91NFVmNzcydU95cDZkcE9RSzJDZ2lOcjgxTWxkd3cyQ09HYXVfVFlsb3dSNWdkUWllQXJrRFIwZTYzYnNrMDBSMmNKOGFkdEpscE5wSGRKbnZDY0VPSTRMZERU?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 16:23:53 GMT",
+      "description": "Claudia Sheinbaum voló 21 horas en clase turista para asistir a la cumbre de la APEC en China CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "China y Rusia sostienen a Irán mientras Trump busca aislar a Teherán mediante más presión económica.",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQTlaT2FTeE9lWXRqSEJvWFlrOWhDUS13R2JjWVRhUmRoU18zc2c0a3ZTQTlsNTVhMC1iUFZhTDhPT3pLN1QxZGNvLUpDdzdiWWktdEFIeUpKcEJqSXlHNnNRdGdhMDdJdnpRTTJBTTJKWTRqcWlna1dWVFhoYzkxMFhaTWhGVkIycWkxZFJ0bmxGX1FfYjVhMXpzZjHSAZwBQVVfeXFMUHR5Mjh5Y2FnVVhheXljRmNLUHhfXzJpT280SEVtZjQxaURUUHNzVm1DbVZWOURWc21DN1JPTWdIQ2JoZUdTamNsSHNXbE5zcGRrRmdLSVljNGhxQWp3TTV6ek9wMmQ4ZWt6eGIyakpFNFExN2d6VWpJYlFDeDlNVWl5Tk9Sakw0UUM5S3FPMGZUMVFMXzBKUVFuTUJH?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 17:30:42 GMT",
-      "description": "China y Rusia sostienen a Irán mientras Trump busca aislar a Teherán mediante más presión económica. DW.com",
+      "title": "Trump, Xi y Putin firman \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmNhOURjUUc1d1A0a3d3em1wQ2RwNnpjMDVEaW9vV29EdTIxLXpTV3M3VWpOVU5FVEhwREhDTldtOEhnM09nUDhHYkIyMmZ1SXhTbVdiQXVuTWFtT252RVQzM1RnQjRuOHF3SGwxZFcxUktvQ200SlJyVGJXdHFTeURfVGJyZGpWenQ2aXNqQ0FQdEkxVEs4UGVHRW9Ickd4eGJUV3gxQ2tmZ3dSa2dUb0pLNHgxLUlvVFZPMGF3cXI4N2QxN1VoVnFubUY0N1VhT0NR0gHTAUFVX3lxTE93T1AtNVNCQVJDX2VKVGQ3Zzc1SVBCajh3dGc4T2t0aVI5QzN2T09mcTJDYTRWN0c5S2NYSjEwSEZpQ29yeGo2NkR2TDlCOGx3RDFydWtsQzJZUFNxZmFlUXhvYk9aY09rZ3dsc2l4SERBMmtmeERfalFkN0VKNlZwMmh2Y2t5bnJ5QUZNV2ItNUpsQ0JRWGFGOHNhbmQyWlpRU09tcHhIalFiWU81YnI5dkZEZ0tUaV9UYnVXSXpLTFpVTmd2Rk5VbTlCWjM5MTRSazQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 16:23:30 GMT",
+      "description": "Trump, Xi y Putin firman \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -127,64 +121,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Trump, Xi y Putin tienen inusual reunión trilateral sobre control nuclear, pero sin grandes avances",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOGNqNHYxWXpYeVEtUFdtUGItcVZWLTVJUm9WbzlPTUhjenR4QkdrV1RXMk5kZjJpQ2tKbElpdzRaYVM1UUExTjBJVzBZY0ZMUVVsMjM0Q3NDS0w5WHR6UXVoOE5Tc0F0d0JKLVFtY2hFUGVicnBMX29FSGoyZ0hMNl83cnpXQ2RtNk5UVmlZbnFacHpDM2Y4dnh1RQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 14:12:00 GMT",
-      "description": "Trump, Xi y Putin tienen inusual reunión trilateral sobre control nuclear, pero sin grandes avances AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Bukele anuncia que militares salvadoreños destruyeron casa de jefe pandillero en Haití",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTRuRTQyS0dRaFVZMXZPY2VuaWE0bEh0c3AtY0liejZYSElJOGctM0VCd0RGUDRqSjQ2SkxDYlV6dVVzRElVbFQycVUxUmlSc3BFNGM2UjlocmRJV2pfTmM4MG45V0E5RGwxcHBIdEJQWFJ0bnAyTkRkSHR6QXFWbFpJLXRDNml1Ul9KVTduSWpjMXJtc1d5a2ZvMlItSHFNRnlUczJJNGVoZkU20gGsAUFVX3lxTE56cDJ5M2szSzVfZUVBSV9xTGx2YV9aaE1YWmg5ZTJ4cDM3ZVUxSDYtNzJ0WDY4MnV4QXR1RHcyZlhpN2RNM1lJeFRVbENxcWNCT0JSZXFuWV9UNDNzVVhlb3RTU3EtZ3NyZk5yOWxoZzZCOTNxTkFQdjJRUEVwdDEtVU5CaG16NlZYdTBQYWpEWll4RmVaNU9NeUxnTlJJaFRCVThrbElGNnNTdFA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 14:09:32 GMT",
-      "description": "Bukele anuncia que militares salvadoreños destruyeron casa de jefe pandillero en Haití DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PaE1yTjQ0V1hhQ0dpRXQyLUxQZWtzMnM1YXNuRzdSVW8zdkhaSjVIaFRHZDlIZzZlSV9PdE02NlNwSEplR2Jma001a1ktZDR2cnlCcnVfckJDMFZC0gFiQVVfeXFMTmlmbGZYSk5pSEYtQ25UWXZ3NDZjRk1vMzBCNkRYTl9LbC0zTlVVRkROdUx3RXd2RjBrVVMzZFdEa2ViMzd0UTFNdzhoY3RpVlB4Q2RPdE5MNVI5TlNoRndwUEE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 13:22:05 GMT",
-      "description": "Por qué Putin ya es el ganador de la histórica reunión con Trump y Xi BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81OTZ1Vkg1LU5XTGpyTkRXMk9YYy1BVjh0TmJnNWprV1RKOEdaYTFOUzFnRHdVczBJVkc3N0l3VzFyaDlaVGhKQlVXZUJlNUhZQW5KRXYyTEhtcWt60gFiQVVfeXFMUEY1bHdSaHhMQ2NKSm5vc1oybmJ1QVBpdGVVVkVQMTBBeHZaVTRITFV1QjgtWVNESHc4bGtEU2c5UHJEZ3NYMnYzOTFRUzBfSVJpVDJ6UEhNVEQyMHY1b0N4MUE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 13:10:19 GMT",
-      "description": "La ONU declara culpable de genocidio contra los rohingyas a Myanmar, el primer Estado condenado por este crimen BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "APEC: lo que Trump, Putin y Xi dijeron en su histórica cumbre en China",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aclVocXFrYzVfSkc0cUkyZ1VvanBvVVJRM2xLSkdTOElWb24yOHphRnVubDBvclkxWmFBR1RaUUV1N3pibGYtOWY2bWZVdnpTdU1tNTFwVnVIdVFV0gFiQVVfeXFMT1RXbkpnaTZadE8tcnFKV2dlUEpwRGJXeXNvQ051YjhrUGVMV09pNHF0OUJ0TEl3N1hhTlpyVDN6ZWRNZDNobVNfeGpITjV4TlY4TkhXVmlGNnJ6cXhqMHVxbGc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 13:10:19 GMT",
-      "description": "APEC: lo que Trump, Putin y Xi dijeron en su histórica cumbre en China BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Trump cierra los ojos durante el discurso de Xi Jinping",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWFhFd1p2OTdITGRsOTRHOC1uRENDQjRQUDdENF9NUzkwVzRRTE5oZ3g3MUpENXp5VFNDY284UFhmWmJDM3hyMHkySHpvVVpXbVdNZmo3YU1NRHpvYTVmd3RhQW8xM3hSNXNOcUtSQ3U3bVBEeVV2eWV5YXN3VVhsSmdYRXJuckUybmlSZGVVLURMOE02NllKMGVhZnVvaFBjbS1CXw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 13:02:17 GMT",
-      "description": "Trump cierra los ojos durante el discurso de Xi Jinping CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Trump, Xi y Putin firman \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmNhOURjUUc1d1A0a3d3em1wQ2RwNnpjMDVEaW9vV29EdTIxLXpTV3M3VWpOVU5FVEhwREhDTldtOEhnM09nUDhHYkIyMmZ1SXhTbVdiQXVuTWFtT252RVQzM1RnQjRuOHF3SGwxZFcxUktvQ200SlJyVGJXdHFTeURfVGJyZGpWenQ2aXNqQ0FQdEkxVEs4UGVHRW9Ickd4eGJUV3gxQ2tmZ3dSa2dUb0pLNHgxLUlvVFZPMGF3cXI4N2QxN1VoVnFubUY0N1VhT0NR0gHTAUFVX3lxTE93T1AtNVNCQVJDX2VKVGQ3Zzc1SVBCajh3dGc4T2t0aVI5QzN2T09mcTJDYTRWN0c5S2NYSjEwSEZpQ29yeGo2NkR2TDlCOGx3RDFydWtsQzJZUFNxZmFlUXhvYk9aY09rZ3dsc2l4SERBMmtmeERfalFkN0VKNlZwMmh2Y2t5bnJ5QUZNV2ItNUpsQ0JRWGFGOHNhbmQyWlpRU09tcHhIalFiWU81YnI5dkZEZ0tUaV9UYnVXSXpLTFpVTmd2Rk5VbTlCWjM5MTRSazQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 12:37:13 GMT",
-      "description": "Trump, Xi y Putin firman \"Declaración de Paz\" sobre reforma de la ONU, desarme nuclear y petróleo DW.com",
+      "title": "La CIJ declara a Birmania responsable de genocidio rohinyá y ordena indemnizar a las víctimas",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVg2ZllmX1U5aGt0TUhtbm1pcUxzMlRORTNCTU5oNFdfMVRHaUVtV2NtZGRtQXh1N0RLYkhhTWJRbTBfc2p2Y29lVlJoXzJrcEZyWms0RS13TlYzTzF5WUhkMUx3UGh4WWZSNnI4MFU2TVZlTHB0cE5zSXdMeE1ibm5OZkFtZkZwUEdhbjhpNXpJZks2OG50RktVVEJ6U3E1dUlTV9IBpAFBVV95cUxQdnprRC1QOEdoSWJ4MjAtWFBfU054Y2t2UTZRS0pWSFBCRjVfNEhNRFlPT1p2UjFud3g4VjJTOGIySlVRcHpzTDJTMWsycURGaW1UaFZmeTY3LUhERWNiZWZsakx3SDlwaVZpU21XSzktbUVEQ3NUTnlsM3VoaTZwcjJRMWxfWVZSU2U5OWprc1hlOVBTR1NPWmpJbDlzZnhJVjVKeQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 13:23:32 GMT",
+      "description": "La CIJ declara a Birmania responsable de genocidio rohinyá y ordena indemnizar a las víctimas DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
@@ -199,103 +139,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La campeona del mundo de maratón Peres Jepchirchir, suspendida 3 años por dopaje con EPO",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQi1YMU5fWWxkQ2VIOHVwaEJZTExjZUpkQ3g0VWdmQ2xiVkdHNXN2RHVmUU42X3V2WV9oRWkyQW1XajdkaV9yMlhySXE5LWtvTG9WbmdSQy15S1l4clhuTDlkVVVVZ2QwRnppWDBMVHJmNzYyREV6ZjFraEZyWjZTRkxhaXhoZ1ozTXJySUhSNEozT1BOd2ZjUmR2bm5VNFM0Qjc5clpwV1BRTG1Cc0pkaVhPNNIBswFBVV95cUxQMDd2Z092eEQ0TVoxZTRfRVM2eG1Ib2prVlBNX0ZOYWdiUTBPT0Z4RlN1MmdrWlZfcVo0X2MtV3dBTXhleVN0MzV4NFdlN2tNUDNjMzZQcklkVEN5eGM4VlhTZ2N2czhkQTczcWttcTJNTDhjWi1UVWZuTkdKeXBZNWMzMlpkQ2ZoT29HdzNaVEwzaHJJb1BudU1tUG9TcUFydDVUOFdndmxnUmxFV2RhX2ptMA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 11:25:10 GMT",
-      "description": "La campeona del mundo de maratón Peres Jepchirchir, suspendida 3 años por dopaje con EPO DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "5 formas sorprendentes de aumentar tu hierro (y no tienen nada que ver con la carne)",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DMUNZdjlRNXlOQ2hScmxlNF9MQ09DU3hBUkw2Q2RLUjNLRlVraUVWMVJHMmM2Rm5qWm44Rk15dXdIemtKWWdyZ3lJT1VEU0Y4bTNXZnA5WjRNVEJW0gFiQVVfeXFMTnRKS2hlQmRHWFV4bWVFOEVIVXpCcWwtRUtVR3l0Vnlldy1sNGRtS3pra01UR2FtT2NwbmI1TU90eXNYdG00NTM2eGMwc3RMSU1LdS1lZTRrUGNLZjVRMzhRMUE?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 11:02:07 GMT",
-      "description": "5 formas sorprendentes de aumentar tu hierro (y no tienen nada que ver con la carne) BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "¿Sirve de algo manifestar?",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWXRaUm1ocTBwS2lpX0gyMUVzcW1IY1g3ZEhkR1NXM3k0YWNaR3FZWXNnamhDdWZ3clRGdm54N3UzakdMQkRjV1NESGdhcEYyMjlfNnFfaHpFWHRGVVV1TXNaNm5EdjVheWFkMmY3RXl0NWpraGFLTmdZa1hrTDRNcQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 10:03:36 GMT",
-      "description": "¿Sirve de algo manifestar? The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnB0WnNKdXV5b0F3V0djaHNNT1JkMGoyVGlmZ2M0anZxRDFRNUEwNDFsS0EtY0VDTmRWSUlCeVNhNWpTZk80SFVGVzR0d1dRbHFRMjlmV2VCSUl0cENEYUx2MGJFckt1TV82S0ljVkdLREllQ2RMZ0RENjluQk43aE9FWHR0eHlTNmxZa2RweU4wY2F0ZXhKU25ENHpoTi15WkdZU2hhZXdUZVJFOUlTQlFhdTFJeTNuTWlxdzZR?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 11:48:00 GMT",
+      "description": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
     },
     {
       "title": "Francia: Trump, Putin y Xi \"están en desacuerdo sobre todo, no pueden ponerse de acuerdo en nada\"",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVg1MTQxSHloVHdDM0oxZ3ZsX29KQTdqcUVnMll0dE1KSzRKNG1jZUtfaHFoWjlwLUJoejI5MXB4a09IbzlwWnltZEZkMVZqTFlkRVgwMDNsa1U4MnJkbDZLY2RsZ0JYX3ExSUduNnlTeWFwSjlPUm5pTkV4RW9hblRrV0ZjVXhoQklDRU9JWTFlblF3c2fSAZYBQVVfeXFMTllYU1NKQmxfdHdqc21VU191NjJuc3BVUFQtN2pTYURwNHVuekJNVDdRLW1lRXR6dTFLUlpkbnIzUW5TNE9UQkYyTHhnbFdYR0k5elp3M1Z0aTZDMnU4dXREc2ROQ1VnajZmX2VJVEZGWV9LcV9pWnVjZGpfc1dlMXN5R3FTd2puWEZUR0Q1eWRhc04wcHBn?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 09:49:11 GMT",
+      "pubDate": "Thu, 19 Nov 2026 10:23:32 GMT",
       "description": "Francia: Trump, Putin y Xi \"están en desacuerdo sobre todo, no pueden ponerse de acuerdo en nada\" DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "Paxman, biógrafo de López Obrador: “Es una persona muy contradictoria en muchos sentidos”",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFBpZEpVUmM3TnBpZ0t6SjYtR0RUTXI3bDloQ01qT2huWnNPLWxJYVVTbVZHTXZ2S0tkUXE0M2xON3gyMzRNYWJKMnBsUU1uZV9ZZ29fa2gtQWNSdVNwQTBSaVhOWEdnOUU5clpaazRUTU50VFRxUUJDeHB1bERWODM1V2Q5cGFrblpPdGlxdVNUZ3BaSGhZYlQ4dk1QbzhpbVpQaTYyNFEwS2NueEZ6T0VoTGlIa2JqNGpMR1BWd2FNR3JYLWfSAdoBQVVfeXFMTnJ5SkU1N0VmOERSc3NiS3Z5TFNqYk1aeUgtRW5RVi1XMFIweWI3Um9iQXR5RVc0bklucEdDUllBSG5uUjJZeDh5eDBjdl9rcVRVQVVUc3czNUNmNmxCdmJZcWZtX3ZXbEc3MjF3NzVKNXZzZ0NyeWRjRXAwb0pRM0ZkcnlIU3JyZ18xeFBxOFNqMTdlQkJRTXhrdW9ITEZoREFmMklWWXM0S0N2cnJhV3plSGdieEVQekNZT1Q2dS04LXJCSzg1QXk0eWEtdWF2WWU2dVNiVGNZR2c?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 09:30:00 GMT",
-      "description": "Paxman, biógrafo de López Obrador: “Es una persona muy contradictoria en muchos sentidos” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Juan Diego Botto dirige el drama ‘Patricia’, con Penélope Cruz como protagonista y productora, y bajo el paraguas de Netflix",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZ1BBRHRHRi1iTDdVUmhPOURJOUpHSGtldWtDemRHaS1LU3pFS0s0VmZpc1ZxUlJkTEVmTjcyOWp5QWpYMFFsdHFlUlBCWjhoY0lTeWxyT0FxbHotQkEwVFpQVGliTjdCTEVVbGdhalpRY3RpRDBrdHc4UEx4SXY4Y1l3NlFyd3lGMW5ERXlTZUZSbEQtYzhBbTU3LTF0SVN4QnowZHhOVnhfNlFNeGJlYXk4Rm5KOTRhOXZhY1JxdGtYSDhfUTZCaEZVLWVfSWhJLXlYUnYzY28zQU5hNXp1cWJCUk8wbFV1dEtv0gH_AUFVX3lxTFBOc2Y2VWFkSUJUZ2JadmljVUNQS3B2U1lYTjdMSU1UMTJSRXAxOFpESDF2Qzd3X0Y4YlE4MGppTmpnWXVHUjNsNWRWNmRCMnh4d1pMV056eTZkcHNTQThhNDllZ3NZMkNtN1ZKOV9Na3Q5UWp4d1RPZENEd2h2cmo2Yk96VTB3WGRhMUxtNk54NHEzLVk5LTVpdmRhSHVQR2lDQUdWSXhfR01rQktfSzE3bTNTc1o5dWhjLUxNa0ZyV202U1E1a3k3R1pLdFdIaTFDcDJjbGxuSEVoT0RPME5FZkFfZnVWNUEwSDNFdTdGOHdHdERxTEtrRjJTUWxKQQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "description": "Juan Diego Botto dirige el drama ‘Patricia’, con Penélope Cruz como protagonista y productora, y bajo el paraguas de Netflix EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Carlos Slim, junto a Joseph Oughourlian: “Invertir en México significa empleo y desarrollo económico”",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTDRZX256Zk9rWVo4Y19hN253cVBMVVM0M0EtaVJZcVhNWGpJQTEwSlVtejM0aG1VVnNKZ0ZFNGNmdUFtSl9qdVl3VjRxQWd5TldoQXpyQnlhbUVsZU9sUUdLamhjUXo1b29vWUVhTDhvcEF6MHBVYWhLLWFWamd5X0JQTkZRQ1Q5bEN3czFRdnM1LTItNzVqakR6U2lMOVdoWTBMU3NhRmxwM3R1aXFTZENhdlRqM3FtaG84ZGQ0eUJ3bUNUT01iaGNrTldBSnE1WTB1VU5R0gHqAUFVX3lxTE9CbldUUlBPN2N6cXRZOGw3WnpsQlRyRy1kZmo5MUd4T3JFY0FTSi1ZbGQ4M3Y2cjJacko0R3kxbHJoeERhd0U3aWRQTDcyRkM1dHRVZ2JQLVM5eTRrbk1GVHprUjA1Z3p5LUExMG4xOERYbWFYQVo1aFZkc2piNVRVcUZCS0FjdVZXMTRfWGNzbG1mTHF0T2M5dlhnTl9iVloycjZGVjRHMHR5dnpScEY0YWx6ZTdPUjNOZ1haQ1FzYVpaZVNieG02cjFsZzhMWjdUUTl0ZEVaM0pVNDlBZ2U2SlFwZXdXRlJTUQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 07:31:00 GMT",
-      "description": "Carlos Slim, junto a Joseph Oughourlian: “Invertir en México significa empleo y desarrollo económico” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Carlos Slim recibe el primer Premio EL PAÍS América a la Excelencia: “México es un país fantástico porque siempre ha salido adelante”",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbW1WRWdyLWh0RzlCYTI4X2NjQWk0enYycndNZV83bTh6ckRESHJuMW1XWjZTRWpaU1h0UVlKUEE0WWFPeUJXQkxsczNLOEtURjhsaUpxUFNzZGZleXA5N1JvQ3pKelFkbkd4b1M5TkIwcnNHbkp3ZnljZV9JRldQSm5XZktlSHJsUWdJVGJLSmxzZGxJV1RNNVZ6LXBzLTFvQTRWRXBPbjBpQWFBeHNIaGZpQ2VzZlNhbHQ4Zks5dkV5WnV6WmNuVFEzTktfZlVhZ0JXVVlCa1BfcFNDVm4xbWdiVmt3SHZES1d1bGNqbWtraVlRYnc1VnA0ZGZ6SHlFNGfSAZYCQVVfeXFMUDVmUVRCOU5YdWF1SFF5NFMzc1hDQVlvSGF5R0IxQU05SVRpYjRlSnNxNTJCZXNEdk9DOHBoTnpvbXlQdm4zUURCa29JLUtJLS1UTHFOT2VqVFZoVWlwUG5oNVdVcFFSTGo2STdNYkxSbDhEMDF6SGNrSjhlYXZRSU9FYlh5MTVLZWd2OVVrbkdWQlRycFVsRGRnZDhtRnFyekIxazlLN1dPZlRDNFlBVmttQmNLM3ZhdWtzdVRjU3FuUHdQbkJKVDV1NllzRUZZYXNUdFRWRTI3Y1g4UXJJakVwSmwxQkFTSVlIYlF1MkhoTVRuRFlnSWtrMGZoVzBjQ0otTnUzWXE5VERFdUhycHgwaV82MHc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 07:09:16 GMT",
-      "description": "Carlos Slim recibe el primer Premio EL PAÍS América a la Excelencia: “México es un país fantástico porque siempre ha salido adelante” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Colombia rechaza plan conjunto con EE. UU. para combate al narcotráfico",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVY1SDVPTlRoMXY5eS02cGxMd1ZWcEJ6azRJVEREVHRYbWlkMXZqRWxQYjZVbWNLVjlCVnpmTzI2VnJ1SG1kMGJvZjVNR0VlUkdPT1F4dXdwYVZhX0cyTDZZbmwtcHhaUlZhbEI2aFl3SXI5N04xNEpsMTBndzF6UEJuejhIU2V5NUhQbU1ISllkRUZLQ2Q0Tm5yOXRkemVWTmZWMw?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 06:41:00 GMT",
-      "description": "Colombia rechaza plan conjunto con EE. UU. para combate al narcotráfico The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Jan Martínez Ahrens: “Los periódicos de calidad debemos reafirmarnos en nuestra misión”",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTTBhYXFMT2xNem9qM0xiWlNkREtvMmRFUVRta0ZqRzl4V2lTSkNEZ2xab2t2Zjh4aDEzeS1sbFUteFlCVEp1MEJoYUlwSkQybzBxcEwzNUZid2RjQzlpOWxqYVFCT1M5bXlhQ05QUmQxTktWVl9mdXhXUDBIc2F1dFB3VWprX1JvOEVkVThXRGhpYjY2RDBIRFlmY2sxUUJVQl9UcHI4ZERYWkRSVmVJcTRLaDJTNmJmYUdOVlpCR3dKZWtw0gHYAUFVX3lxTE1sbUxSMkEyWDRScGo5Um1fY2NwazVHT2Z6ejIyS3FTLUs4NGdteXQyejdBNEROU1lwd3R2bmFEdmVOX3hKUWlOY0gtNS1WTU5HdTQ5Y19oVndDM0RiRTlidE9JVlR3dGlGckdrLUVZd21UQzdnODFlWmxfbW5NNGxzWFdtdl9mUkxWa2gwMDA1a3pqcWVvUGhqaDJBblhaakwxeW85UUZpRVhUUTZ0end6MTlDRHpoU21OeHpXdTNScjhTaXRkZjNpaWtrNDdDMmVhWTVFRkJoaA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 04:49:11 GMT",
-      "description": "Jan Martínez Ahrens: “Los periódicos de calidad debemos reafirmarnos en nuestra misión” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "El GTA VI desata la locura: vuelos a Nueva Zelanda para probarlo antes, ausencias laborales y hasta días libres en el ejército",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQOG9OWnJaa2ZnLTRtS2hDcTFtZFN3TTdPb3h0amlIMjlSTlpDanVxV1VzcGNaQlhUa1NMZTE4YXFsRTJVdXF2b09PVXZIb2RNLU5zcm1vUEhLa3h5cnhQcVIzbXBvRmVQakdXZEdOUG11OVhGTHFyVE1OdlUyTmMyRDlJd2tDUkxFTERBOGFsT0pCYktxLTJRNEYwemhrSDRUdTNLVVFGLXIzYWpQMlZYUVNPUWU4alBTTVVXR3RibWtHSm9NV1VMaVlzQlJtUEM2dVhySHhDdWpKajZwWkE0T2xydGQxZVZwemhFYVdoRjlvcFh3emVvaHV3d1bSAZACQVVfeXFMTzZfZ0poam9yV3VpekRjWlgzWDgzbDNnWHRpSWt6Y1VfdV9lbTZ1anlsNFRLbGlFMXNEYVFKMDFFeFNrYktDTmFIUmJKLUIxNERVTmxyQjk3UFdHZ1JuVWdYSjZkMTRNMHVwd0t1YXBqRDVzTzhsRk1TZ3hIWXU0UWJMaWR4QUx0V3RUVWNiQ3JTSTl6WkJQMkNqeTBJcEhKZUoteUZPZmYyYzBzT3dYdnRNNHVzYTdjWUxacDdxWjY4V1phb0w2bkR4aUlqUm55SDBKa2xfcmhDYU54SUJOdTZ3Qms1U1BqMDdTRnBDbEZyUTR0T1BRRzdzWFF6OEkwdjJaZUVuUDg5VHhiUGJsMVA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 04:30:01 GMT",
-      "description": "El GTA VI desata la locura: vuelos a Nueva Zelanda para probarlo antes, ausencias laborales y hasta días libres en el ejército EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
@@ -307,10 +166,19 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Pete Hegseth y Delcy Rodríguez anuncian en Caracas que retoman la cooperación militar",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVRYSndYNU1taWhtU013Sl9MSWVsbS1hbVlxX0JQRDJOSnoyQjREamJsSXlRZnNYWkhEbFNDRnhQN05sX3VZc1lUVkdDN0UtZjRiME5qYkVsSk13NFY1cURHbDZWQy1MZU8yZ2JWOXBudk92dVlGcldwMEZfYlh2aVlfbk9MbHRNY2I2dl90Rm10dXNwTFZHN0M3SXBDSXI2NmZsZ0NrWQ?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 18:03:00 GMT",
-      "description": "Pete Hegseth y Delcy Rodríguez anuncian en Caracas que retoman la cooperación militar CNN en Español",
+      "title": "Los científicos están desconcertados por un extraño objeto en el espacio",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanN5S2Nlc3RfX2NocXdaWGdEVFpES2NhUFFEY2VSaXNOYjh4LUtqeGItMlJjalVfMlRmWHI0eWJoaEp4MDZkanFiQlJhaHlSYjJnM3BPcHAzZ1lqd0tXS24zMWZkeFRQY0N0cGFobDZyWENZUkFlYmJELTVNeEdYSFJyZlRoOXdMQ2Q0TlEyVTB5VDlrYmVJeVo4cXpyZVE?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 18:10:37 GMT",
+      "description": "Los científicos están desconcertados por un extraño objeto en el espacio The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Cómo Robert Pattinson rompió una regla de Bond que se había mantenido durante mucho tiempo",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1FpZmVrWnVlOUZhTGxReEtrYWp5Zm41VGEyRlNrLUJYVFhuM0pFX0ZLWEI5TnFPdkR3X1I3TFplUDFlOUpQajU0SWZjQ0NUanMzM09lVlEzeHIxa0gzWWpkcDdBaXdsNGs3ODhsaTFDMmRaYS1YMUhlZlg1d1pMaHFRZnFVYzRudEtrMGRLX1RUUlYzTDFnaEVJVHNjc3M?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 18:07:22 GMT",
+      "description": "Cómo Robert Pattinson rompió una regla de Bond que se había mantenido durante mucho tiempo CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
@@ -323,6 +191,15 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Nueva alerta global por fallo crítico y vulnerabilidad, esta vez en Java",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFh6YXNJRzA2dFFOX1RDRkNPTThnUlZDSGlwNHJRLW9uX0V3Wnc2QktuRHRvMUVoVm9UQUZESVpJOWJER1dpTkJnZEhnWlFna0VibnRDa3AySFZkdWgyTXA4UHQweXFPdDU4YXFSSUpkdE52cEdCWWRkeVBVU3RnSERUVXkxMW9KNDg1NnhianpYTXNm0gGUAUFVX3lxTE9hWmJJMWhWbEM1SnRoa3pSZzB3eFVQNGtsTk1Sc1diVE5VZkl5empjc2plQVc2bmdOY3A4ckJqQnFVVndBNG1VbzRoWFlvcDhkU3lzZGNuQkJPV1B2Wl94a2lpRzZEQlVLZElFYzV4TFYwTTdhNzY1d1ZGYVFwcDhuX0tITzRjTk4xWHlXNXcxWlEweTU?oc=5",
+      "pubDate": "Wed, 18 Nov 2026 15:58:41 GMT",
+      "description": "Nueva alerta global por fallo crítico y vulnerabilidad, esta vez en Java DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC",
@@ -368,6 +245,15 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
+    },
+    {
+      "title": "De empresario fallido a presunto conspirador en el magnicidio de Haití",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUW5XTFpZdzJ5Y2FnNlNzajljbEdVV2RWYUxaajdKRWdXQmFQbUprSXlFUlJUSVU4X1dXbG53ZEJOZWxBS3NrajNzUXp1WXZ0WDMySDBSeENiOTN2QWFSMmtQNjRfUzZyVWd4VERvdms5UTQ3X1ZFNlpRSFo4Q3FMVEVaSXgtLTlBVk12MGVGMWRiVVRFUFptNE1tLXc3UEtOQWR5N1lZQWRMc3FveXRGMUkyZG5DZw?oc=5",
+      "pubDate": "Tue, 17 Nov 2026 14:24:08 GMT",
+      "description": "De empresario fallido a presunto conspirador en el magnicidio de Haití The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Xi Jinping se reúne con Sheinbaum, Fujimori y Kast antes de la cumbre de APEC",
@@ -424,24 +310,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "What court administration entails for Revolut",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGpLUlRKTU5ubFlqd1pXNE9yYnZCV1RsMlBxTHFZRzd1ZXdHem1XMDlLb3FpLUZtSk02ckJNRzBGZ2hXRmRXMS1zbUtHcVZvXzAxU241QkU1bnF5dmFFZFpyWFVoLUNuOXlPNTdjQkZhZzBxelZwUzZSMTlwa0tZV2FDZkJraFIxQ0IyQ0lNb2NmZjIwbUdLV3h3TXk?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 10:09:32 GMT",
-      "description": "What court administration entails for Revolut Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "¿Cómo escapa un hombre de 74 años en Argentina del arresto domiciliario en un quinto piso?",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUtDNmpkWjBUTFF3by1Dd09VaTRjNy0zdDQ2VVN5VmxjcHZFMDRYY2QxR3hMeTZoM19CQl83VndwYW85bzFjZEVYd051Zl82UERrWmlRa25JTkMtblNTeVNZeVdxU2dwSnlQQ3B1bmlsTjBVSVRMcmRfLThqVVlET05yR1dyNi1BWmVsT0JvenlzekJmOXc?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "¿Cómo escapa un hombre de 74 años en Argentina del arresto domiciliario en un quinto piso? The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Gobierno de Trump pide miles de millones para modernizar la FAA; demócratas cuestionan el gasto",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONk9tOWJlZW5qQ3FRc0k5dEpFSlZoYnFZUXBkU0VoRjRKQUk1YlgwMHZLLTIzVkZhTENQd3JuRFAzOWVEaWJ0cm5wcjdLOGdmbGdSaVdlVmFvVkdjMW93YXBnS3ZSZjNjOC1BWHREMzlyT2pUWWVaZEZMVUJnRXRKTk9BV2J4OExobnc1QkZ5OEV6eGNxLTFTZzNweF9FakVlWHFUUF9tUlNvNjlRcFdDVmt3Q1JqTzI1d01mNXh0aE5KMTg?oc=5",
       "pubDate": "Mon, 16 Nov 2026 02:52:00 GMT",
@@ -478,6 +346,15 @@
       "domain": "nytimes.com"
     },
     {
+      "title": "IDB board approves engagement note for Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZERTZGhOX0VNTVExQ19HN0xWOURhLVUySWZlMlgzQ2NGcE16eFRFMHJvVzBycnY2QUZhQ3VZWVdYRlVQaXZzMEJUU0d1Zkk3Ym90N3Y3REg1bm1lcXdFNDhldVdwNmdBVXBKcHltdnhySDBSZ09nTDFrSmJocm9IMzFpcmRPTDNRS3hDdTA3RTBycWg3TjRqalYyVQ?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 21:06:59 GMT",
+      "description": "IDB board approves engagement note for Venezuela Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Foreign investors head to Caracas amid political transition in Venezuela, US",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUVuQ2FwS09FalhDTXhjMVU0V3dlUGU5NFpGUFJrRmJuUGxwWGNIUE9RX3BtdDF1dnV3MU5GcG1qak9NVEVreUVyZ1hPbnNKWV9BSERYTlRSXzB0S1JrcjNlM2dqcENSZVpCbDQ0TFFVcXA5WE1mQzBZWkE4N1kxZXd3T2tUcE5qZ0pwQ1VWNmVoRlVIYWhZLVZhS0JjT3BIMTN6M1FlbmJSR094dnRpVG13cmxmcy1WYW5sTg?oc=5",
       "pubDate": "Fri, 13 Nov 2026 20:05:43 GMT",
@@ -496,46 +373,37 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
-      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-      "description": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0dHaHoteEhreWhGd3JLaE1SV01qNUxkN0dqZXN5cFRFTDdTdFZOcHVaZ3huU09iYldmWFlTbkNtNi1UZ2J6VVpRYi13WDRKN0lBR0pKNEtLMTY1V281ZUJkd0l0clFIRWVEUkZEeVBkLVc0aFBDQWFwU1FYYmJRaUkza3hBM0JPblV1NEFEakFmNl9OOHNxVVE1dW95Ym5QNFpFOQ?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "description": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
-      "title": "Cancer, lung disease, miscarriages: are Uruguay’s rice workers paying too high a price to bring in the crop?",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPekplc2NaZUhkZjJtVUtUYk4zXy1GRmw3VHJubFcxSFJ5cm1rdVdGNS1UTW51aU5JOG92Y3k0X01aMGE5MGRtZmtUYlNXSmY5RXROb3IwMV9pU1V6alh0T0cyVmFpbEZHazVUQTAzNTdVOUllWVJ3ckVveGtINVE5TDVNV2s5LUtFZ290RTNHLVFfRjd2ckl2YzBlRHpxbm9YZDNvZmJ2MXFjQV9vNmJmQ1p6cWtSTDA5cEVONTRiWDZmaUZpV0FFWXFxbGZEXzFpd19PTHNzamp4QTA1VzlNYzNULXFoVjViZnQ2REtYWDcxTTha?oc=5",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "description": "Cancer, lung disease, miscarriages: are Uruguay’s rice workers paying too high a price to bring in the crop? The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "Cómo el reggaetón conquistó el sonido del pop global",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXREWDhSZnNhTU85S0c2S3FIandnS1ZxTWZkbENTRV9oQ2dROU1kVndYV2ZfTGRSWUJuVzduSnJ6ajJtXzllYnFtSl81dTRQMHFTeElyMGlJYm5vWk5vc3FMVWE1TWRCMEN1UFRnT2VSQWVYME9qYk8xUEpZajlSR0ZPdUlzWEdaYU85MmNGX05NM1FTaGVhYlh4YkJWWTBmalE?oc=5",
+      "pubDate": "Thu, 01 Feb 2024 08:00:00 GMT",
+      "description": "Cómo el reggaetón conquistó el sonido del pop global The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
     },
     {
-      "title": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWNxYWd5OFpXMzFlSDJPM2NnTi1xR1dVc2RPVWRzTjJvREF4d1VuZ1Rqeml4dVpUcERwOUZlQUJwUXF0a3Z3Y1BrWkxUcEtmbUROYnI5Ty1fWExLSmJYSlhLMXJ4MHNXRFFmZTF0LUNZam1Za09JZ2JmdGZ6RVdzcTlxVkgxeVB0bkJpb25Ub1JOb21vVWl3MHd2a3VWd2M?oc=5",
-      "pubDate": "Wed, 31 May 2023 07:00:00 GMT",
-      "description": "How a Mexican state siphoned off millions – and a reporter risked her life to expose it The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "Opinión | Las maras están desapareciendo en El Salvador. Su lugar lo toma la mafia de Estado.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHNEa0hXdTRBLWdkZG9waW5qRk1ZbkhzZ09IQXNoQU1sQmpKWi1fbWlEQUtFcllkd1dBdDh3ZDdQMW1zaVM2emRsaGRvbk1pa0l0YUYtcjZtallDOHYwV2xMT20wM3R0cGRPbF9oQU9tMHNHX3dIcnVyZ1o0b2EzM1RleVpxLW5fMkZIRGVoczFYdGhwV2pvWWoxbkNaZEsweUZGOGlOYloxdw?oc=5",
+      "pubDate": "Tue, 24 Jan 2023 08:00:00 GMT",
+      "description": "Opinión | Las maras están desapareciendo en El Salvador. Su lugar lo toma la mafia de Estado. The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
     },
     {
       "title": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU9JcDFpdWdfelJSbzg2RkluOTlfcFJHTmxJYzhteGcwaTA0WXdKQWw5YlJjQmN1SXRRWnlPY2xjYW85SjZYSzVsVllWQlNvTlA4Ti1CdFBJVWdLa2k4TUZReE9peGpqcG96aDVzV21qZFpYLUtrYnpiUHNxZDRyUlRIaFJ2c0hBY2twUmotb0sxOFlXeFFDeXowTW43MmNkV3ZRUXpTWU80VDctS3lsa2NhcDJiRGdHUlVib3RQdUl2T1NW?oc=5",
       "pubDate": "Tue, 13 Sep 2022 07:00:00 GMT",
       "description": "Opinión | Rodrigo Chaves sigue los pasos de Trump en Costa Rica The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Opinión | No basta con decir ‘no a la transfobia’, hace falta posicionarse abiertamente",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUxKeWU4RGl2cEl2dDNxeUxGOEp5RWNudF80V3B6aVF5M0tQTGIwcHpBMkZUajc4TWQ4T01HYWlkWHZudjlqV2Z2WHVpcUp6QUplRUViVVVQc3hvb2N4V1dzdXNHRVdzR19KTFM5S0N3QVZzZ3J6U2JadE9mc015LWVVXzRjeXc4VVh6Zk5DMnZ0d1JPNDlmaTVCMFRKU1gzcW9kNGxXbGVjeVk4R2sxNWxWMDVzampx?oc=5",
-      "pubDate": "Mon, 29 Nov 2021 08:00:00 GMT",
-      "description": "Opinión | No basta con decir ‘no a la transfobia’, hace falta posicionarse abiertamente The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
@@ -550,28 +418,10 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEdkRHhScjV1aUVCRGhwaGxlZmdFT253QVlUTHphcGZHR3hHbU82SjVNcmV2eXVVNUpKNURRQ3JqWEVLMXdXYTAtVmdhUGJ5eHNlNGY1R3Nuc2FZWUtrY3NpQUdJVl93N2Q5Vk9LaUpGMVYtVHBvYzBhUTZ4TENid0JyUklaUmFHbnlCaDdtMWNYTEhuaWx2c3VLajB4N0EwZFVQNmJqV1NCRFpmQ0hvZ2hhTkRSTkxOOWpmbDFlMTlQR1dPcF84a0hjYw?oc=5",
-      "pubDate": "Sun, 30 May 2021 07:00:00 GMT",
-      "description": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
-      "title": "Europe",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KanEzUXRMQ1JFdnQxYnZxMy14YTJRYm9pVUNDeVZKd3dOOGl1NjNIVzdNRWRSSTliUExUTENsc3NvU21vQWRaT3dBRk5FNnZUaDhCSXRrc0xkZzUyYmc?oc=5",
-      "pubDate": "Mon, 02 Mar 2020 14:37:57 GMT",
-      "description": "Europe The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Opinión | ¿Cómo ganó el Cártel de Sinaloa la batalla de Culiacán?",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdCU1lYZ1dpbzNJVjRDbloxa3hoTk9KcXV0aXJQVE15NFNNbk5JRlZwam92S1FPUTdBbkxBYlBZeEk5SHBHNkhMcC1JQWM1OEhxQlZ5eGd3cUtCZXF3MzNyUTdpLU9DZzhObHFFNkl0RjR6OHZoYy1kWlFqdDBrQUt1N2FxYUVtSVhtaTB5Q1UtOWVCVVpOQWI4aVltWm42Q2xQZ0tLM1RKSG5iZDQ4cFNn?oc=5",
-      "pubDate": "Sun, 20 Oct 2019 07:00:00 GMT",
-      "description": "Opinión | ¿Cómo ganó el Cártel de Sinaloa la batalla de Culiacán? The Washington Post",
+      "title": "Por qué brotes como el del coronavirus crecen exponencialmente y cómo ‘aplanar la curva’",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNU1sYTJwb3NhM1NCOXk5cWJoazNNVk95YWliWGloN1JvUFZJZ1NZZjVxcnJqZ0JYZERzQS16RDR4a2RRclhBRWtQRDZFblFpaXdGcmVUOUtYalM4c05fVmx5Tk81V1ZCazAwN216d01SNGIxb3phbng4cWw0MkVEQzNR?oc=5",
+      "pubDate": "Sat, 14 Mar 2020 07:00:00 GMT",
+      "description": "Por qué brotes como el del coronavirus crecen exponencialmente y cómo ‘aplanar la curva’ The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
@@ -586,22 +436,13 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "The Guardian in Spanish",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tZEd2dW5wQUlNN2VhYnNLQ0RidmdWT1M1U2tOQUREMHp2UlYwS0pBOU5CbEZaVHJlb0tqQjgyYTBMRFNVakx5RVVfdTFFWTdOcmpOUWJ5anRIM29pOEJ4ZTVYVEhHVmFMUXBFdjc4NlQ4Zw?oc=5",
-      "pubDate": "Mon, 09 May 2016 12:26:27 GMT",
-      "description": "The Guardian in Spanish The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "La crisis del agua de la Ciudad de México",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
-      "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
-      "description": "La crisis del agua de la Ciudad de México The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
+      "title": "World News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1iNjk1cWRDTGd2TVJ3N1NlaVE5OEs1LXd5bHhnclNvQ1BNUXF1NUdvY0dXdzI2SUt2aFl3bzFqOXZRT0ljWkhpWTJMX1pmQQ?oc=5",
+      "pubDate": "Thu, 19 Jan 2017 03:53:49 GMT",
+      "description": "World News The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     }
   ]
 }
