@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T00:45:09.551Z",
+  "updatedAt": "2026-11-22T10:26:05.953Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,27 +64,45 @@
   ],
   "items": [
     {
+      "title": "Para saborear el verdadero Madrid, visita los mercados",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IVUI4M29xZzZDaDZlWVpPQ1VHM3VZX1BEeWtnOU5hdlhwejZLY0FJVTFaMjEwRWUyRFpiYzZvNE5rN05lV3BLTWZweFF6dW0xTmVQc283MnhWLWVyWWsxNGRGOS0yZ0VOZUl2Nk1pRkV3bml2Y3JSRnVIQjY?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 06:00:20 GMT",
+      "description": "Para saborear el verdadero Madrid, visita los mercados The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "Una huelga nacional paralizará el lunes el tráfico aéreo en Bélgica",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcE5BMkpWLW8zOGFhWXBhdVdmTFg0aG1MZzJDbTFOd3ZfU3ZlUVdXVlVKQndiNnY0OW1iT2FEd05kS1IxdjRpLXZJR1Y1RkY1eG02T3g0bVNMNm0tS2p3TFJpMWFwY1ZRa0oyR08xYV9HSVJacVYtNjg4b2J6N2pJWG9BSjM0aUR2RUNLcXFhaXlWRTVfcTRtc1hBZi1wcjdlWC1tZ1Y4ay16bF82bEE3MVdUNUFPR2gzQVZ4OHYzazcyc0RJQ3BuZnZNMnRTaHRmM21IX0w1a0JvLVY2YWpONHVwOTVNTEdfWE1udUhUcmhndDdjU3fSAfYBQVVfeXFMT21QVjhfMURVOUkxVmRjdjNGLThXcmp0UmpnUTU5Qi05TDZfUGNER1RRRzAyQ3dsd1NLR2lHd3FPOXVpOF9NZE44VUF2bjNweWl2MjNyUG1aSVJKM2JoeDdqQUhiM2VmUVhuWmVQSGdWelRqRlk0SXdwMTZIVXRKVWtEUDctX3ZtRUpBQUpGeVlwbkE0empBakNDWWVJc3h4ZlN4c2p1SEdyLTF1ejBxOXFkQ1FyS0IwUThVcFEzcnNibHY5X0ZBMDFOU05ic3I5RTNxN2RIMkswZHAyZVJIblBmSXhLNlJIeG5qQ052bk9jU0I0UG5R?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 04:53:43 GMT",
+      "description": "Una huelga nacional paralizará el lunes el tráfico aéreo en Bélgica DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "Capturan en México al Chapo Isidro, cabecilla de un cartel que figuraba en la lista de los más buscados del FBI",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHZlWkJrclUtRm9UVnZtUUJTV3Uya3kzNU1RRUZRTXI3N3hlVGlhcERlNUNFeE9nQnRqMWdfZnlLMVo4MGl2dmJQT2gzUkZmMVo2LURUc1VnamlDcU1tT3pkek92NUlOMmU2MTBlOFF1MVVFbU83OEVXOUQwcVAwZTJ4cThiYjU0dmc?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:47:00 GMT",
+      "pubDate": "Sun, 22 Nov 2026 00:40:00 GMT",
       "description": "Capturan en México al Chapo Isidro, cabecilla de un cartel que figuraba en la lista de los más buscados del FBI CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 21:51:14 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Kate Middleton habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50dWhCdENMVXVsU3ZfSk02X1F0SkVNeG45NzBwMXEwNVZ0dnB0cXdfT1JGN2dNRXpPSmlWSmNnel9XbjA1dEMyNWV0eXpPQUhBa2ItSm1obktuV2JO0gFiQVVfeXFMTzFaTEcyZGNSNFk2SkFHeHRuUDZoUjBVNVdSM3F5dDdlNThhY1NQSUNtWWJSVnRaVjhaNzB4Q2xlVnhTYXRxYXFEaG44Tm5iM0xDUGhyWjk2dW1vNUxuc09oRmc?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 23:04:51 GMT",
+      "description": "Kate Middleton habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Nuevo fin de semana de protestas en Francia vive una asistencia reducida",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMEFGREZ1aEg3YkZaeVhSYXZIRER5Q1dpYTdveXZjYXJOV1lxVV9NNnRnSm13M3ZBZG4zMGN3bHFXSjJJSDVIa1I0YVVXNmNsYVgxdVVla1NhelRhN1pXYTY2Q3A1QUd4Wnc0VG5sS09xZl8yRUJhc1EzNERjSGtWN2xhNzRSR2hIT29JYmpVZnA0d0d1ZkNGTjNuUFkyTWIxVlg0T2VNSUpEbTh30gGsAUFVX3lxTFAwd2FqYzlVcXlQV203OWgwQXYtLUZHQkJaeUpHREZhRHRaeUd6aEJDQkMxQko0QVRIRFBqS2tPQXlkbnhzUzRJZU1lRUs5dDlLU2E1cWtjMzg5WmNKZFRmX2dNMzlWZjBNN2Vjd2JkWHZLbGZCLUJWclExSDlGTlRCdVlvYzUxaEg1a1A2OEFoc0Y0R2RIYmpGeGZCMFV4Z0pPUDhvdHQ0YmJoZFI?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 20:27:05 GMT",
+      "pubDate": "Sat, 21 Nov 2026 20:47:12 GMT",
       "description": "Nuevo fin de semana de protestas en Francia vive una asistencia reducida DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -93,7 +111,7 @@
     {
       "title": "Ingresan al expresidente Jair Bolsonaro a terapia intensiva debido a una obstrucción intestinal",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm9LUUxWSVdSQXdxd3U2YklaNzAxdjlFNEc0ajBKYnhWZ3EyaV94RlVGaU9rNzZtaFA2QVJqaUcyU2tKZFZVZjFHV180akNMLUhaMF9XY0NEV005eDQ3SzlmUWpMRjJ1d21ybVB1VzVJVXZ5Rkx2NDhOUjlRRDRnNDBYczEwV24yTVZhQ1BFZ2VuYlQ3R2VCOFlkTGkzaXlEcENQVXlKb2xQd9IBqgFBVV95cUxOZ3BjRWREUGlKRW1pbUhpUUtmUWVjWjVHVEJ5YzE3REtOM25kTVVxNkRwMWJra0FORkFaRGN4M1FuOTNWdzRwM2tTM2l3XzNhT0xkLXh3Q0U3enl4SUhzQzNBUHFpQXlZcm10TlpsdzI4VmxfMGNLLWJ3b1RaU29yaGtHQjNOdTJiRk5TZ0E1QkFfODRUQW9RTmF2SHJuYVZ3azJMcHVRa2RrQQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 19:06:34 GMT",
+      "pubDate": "Sat, 21 Nov 2026 19:49:36 GMT",
       "description": "Ingresan al expresidente Jair Bolsonaro a terapia intensiva debido a una obstrucción intestinal DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -127,6 +145,24 @@
       "domain": "bbc.com/mundo"
     },
     {
+      "title": "\"El cáncer realmente te cambia\": la princesa de Gales habla con franqueza sobre su experiencia en un nuevo documental",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZEJrMTloUkV1LURhOUZVbzFOcmVKTWNydjZkUHNxMm5Edk0tUkdxTy0yYThnRWNXUVZJWDRyVG55djcyaG9NMjEyTmpXeDNNNTQ4SUZvWFNwdkdzTmFxdjlDblp6dlNucWVRSlZjMU9aVnJucU1VaWlROC1kR1d0S2gxejF2RW5sVFlqdV9NYWh6VWM?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 16:14:00 GMT",
+      "description": "\"El cáncer realmente te cambia\": la princesa de Gales habla con franqueza sobre su experiencia en un nuevo documental CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Agencia marítima reporta ataques contra dos petroleros en estrecho de Ormuz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlJNeEJZVHJOQmEyYVpyQWZOY1p2U0FmdXRDNi1DdGhiNUphNTJpYWhmbTd6ckNELWIyX2N5dGZwS3NpZXR1dWlZTkV1R1VneHl1SV96SElWcWQxTHhseHZtYkZuS3JFU2V1Vl9YTjB1RlpERDRaMkJORjg5Z2h0XzdFMTF1OHdubEVENWxqMWFERU1NNW5jUjZiRdIBmwFBVV95cUxQY2xnc3dyOVM4RG43Q29xN0Y5MzA2QkE0dm44WTd0bUMzVkQySjlHSWxuOEJYWURubFgzc1VTQmRZRTVVNl9pdy1aNXBRVktrMldOMEJ5dGs1cHlrdkdFMjZUYWFQdDNMR1Rzb08yY2JhZnlqX29wajBsNzRUelVpS1kwcFhNYWtvNk12NkxKdTA4dEk5YWppRFZGcw?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 14:28:29 GMT",
+      "description": "Agencia marítima reporta ataques contra dos petroleros en estrecho de Ormuz DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
       "title": "\"Los asesinatos se convirtieron en ficción\": cómo la prensa sensacionalista del siglo XIX creó el mito de Jack el Destripador",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZW9uYUNUeWRLR08wWEFwd255bGpTckZZM09Xb0c1MThhX3FfV0RxZFh0SlE3cFFnUjREU090Qk9Dam5oaU5RbkFMclFoS05yNjU4MUFROG1qYXdP0gFiQVVfeXFMT3dHMVF1OFdLbjNGTVUxaUpzckJDZWZvMm1yRmhQZlBwSWxSa3FORW9GMEVPYlBJSlRvZGYzNzBBMkM0b05kVlkzVm9GZW10RHlEdGNpaUVxUXhhY1RfdUJEY3c?oc=5",
       "pubDate": "Sat, 21 Nov 2026 14:23:24 GMT",
@@ -138,7 +174,7 @@
     {
       "title": "Rusia reporta ataque ucraniano contra carguero en golfo de Finlandia",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPajkxemFBSmY5VGdtd3ZuRUFvWVl3TmNVeDJWQ0ZXQVhJbE8xNEFrcHJydXB1MFFwVkNlTFdrb3pZdl9GRlZQRHJEazR4U2xvQ3NfclF4Um12Vk9yenNDZEdhTHdmN3JGZmN6SHpsVlBuaWIyUUNBaEF3QXh1SXY2dTVIYVEzZUxNVjhPWEJtdTdESHNaRWpCYnl2QUzSAZwBQVVfeXFMUG8xYTVsMENtSEtYRFh2eG9zZ3YwcDJJUk9rTUtmQzlJOTRYMXdIXzJFUm96YV9WUnk5TGFSeFVUTlBDSnZIR3l5OEdJRXJOYi03aUk2WjI1dnVZWXhWUUZKb2xoZnlJa3JqVTlTQWRKcUhRT2dDSjZOQS0tNXl2c25tUnRqVEM1SHRoQUtuNkQ0bHVjTXd2YzY4a0Y5?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 14:06:36 GMT",
+      "pubDate": "Sat, 21 Nov 2026 14:04:08 GMT",
       "description": "Rusia reporta ataque ucraniano contra carguero en golfo de Finlandia DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -154,13 +190,22 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Agencia marítima reporta ataques contra dos petroleros en estrecho de Ormuz",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWlJNeEJZVHJOQmEyYVpyQWZOY1p2U0FmdXRDNi1DdGhiNUphNTJpYWhmbTd6ckNELWIyX2N5dGZwS3NpZXR1dWlZTkV1R1VneHl1SV96SElWcWQxTHhseHZtYkZuS3JFU2V1Vl9YTjB1RlpERDRaMkJORjg5Z2h0XzdFMTF1OHdubEVENWxqMWFERU1NNW5jUjZiRdIBmwFBVV95cUxQY2xnc3dyOVM4RG43Q29xN0Y5MzA2QkE0dm44WTd0bUMzVkQySjlHSWxuOEJYWURubFgzc1VTQmRZRTVVNl9pdy1aNXBRVktrMldOMEJ5dGs1cHlrdkdFMjZUYWFQdDNMR1Rzb08yY2JhZnlqX29wajBsNzRUelVpS1kwcFhNYWtvNk12NkxKdTA4dEk5YWppRFZGcw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 13:28:40 GMT",
-      "description": "Agencia marítima reporta ataques contra dos petroleros en estrecho de Ormuz DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Kate Middleton protagoniza un documental “profundamente personal” sobre su diagnóstico: “El cáncer te cambia”",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1pGRnpOTWx3TWJxUEZxUkFBeU1MbGVzbGVSVHN5V0VPdmFwOWNkNS04bE9zcTZKYTJyXzFkNTdITEg4TjhReE1IZ3RfMVI1VTU5QXBpaHR0OV93VVQ5V3JPa2RyVDBLS2E1aVM3TmdtdWJTMTFkRERGR0Zua25VQy1kaktJaFNqd0VnUkdibVlxYkRqWFZIejRHVFlmYWttSFNxVnJkRkVuSWgzYjVLTVAyNUFPaUhTUF9hbWpSWDM2ZHhBZGJGdnF4cnRQZGZfc2RUWUlsbFlTUUtOOXfSAfIBQVVfeXFMTUFNN1pIdFVFQkhuVjRWb3V2a3hvR3BVZnR6cF9zZjBETHBrcjYtdDVSbjY2NG9XdW9vNmEwdGxITzNoTHU3Qkh2b1Z2emhMZUUydFpIc2VBZ29odDRST2RYY3JUY3p3eDJMSlFGYUNaZm0wRnUzZHNZbGU2azlWVnU2NnkxeG56UTZ4ZGpJTHJNYUdzUl9udmo5cjRoQTF6eE13cHZoUC1zUmNqZ0tlUllLTTY4OTFnaElsOXVJOTBPdHVjYjhrV21ob1dOWFlUXzlxM1d4QTRfMkJqd2lZSy1TWVJBZzV6MVFmNXVUVTdtTWc?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 13:35:21 GMT",
+      "description": "Kate Middleton protagoniza un documental “profundamente personal” sobre su diagnóstico: “El cáncer te cambia” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "México captura al líder narco 'Chapo Isidro', uno de los 10 fugitivos más buscados por el FBI",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcXdEQ3dQYktVYXkxMWk2ZXB3c1JBMmg5VGFEQk1HQnZJd05iMnF4MmpMc1V6UFlXWnp2QWxZSFk4bEc0emQ1MUF6M1pQWDdlSVRmMHgzZXBUWDlQWGtIOWswWTJkdEpVZms4bE5GdUFxVnFZaERvYkVjdWE2ZGdIRmREMFBzTEhYckxHYnAtRGpyY3Z3N2NLNWtWb2x0cnJybDZvWUoweEs4ZDRpNDBBWlhMOFFDOWg0Y1hfNmcwMHQ5cFJpWVZBb2JsOERuckk0WEFaRWZrMlFudjFicGlkZERjV1Z2eUdzaXU3QVRSb05WMUZN?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 13:01:13 GMT",
+      "description": "México captura al líder narco 'Chapo Isidro', uno de los 10 fugitivos más buscados por el FBI France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
@@ -181,15 +226,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Casi 200 países buscan acuerdo climático fuera de plazo bajo sombra de los hidrocarburos",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXBhMFpuMW8wd1BLY1RwMUlFdEo1cWVXUGkwUWhNVTd6TmRyXzd4MHBkTWRkVFR1ajdTZXVhc0FoeE9yc0xrYk9feHgzd2JsMHVsWUttYXNROG1uZlhEWENSOUdLMXRZV2lmaUV4U0dSRm5YblRmU051dnVkOHhmeGtIOWFzeGlOWlg1SU1YR0xmTU5pYV9zbmhZZ9IBmwFBVV95cUxOUWdGSWJhODNSbGhJNFVHTGU1bjdEczZaN1F1ZDFmODZwdWp6c2xndkdUd3lvV1QyZDdNbHhaTnVvampNdXd5MGUwX0NCSERiczcyYXRZbTlfemxGYVZTVHhVY1dDVXNRZ0dXc2xiQTQ0YUZacEh4Y3dqdFY5NTNtbXJveFlTdWpBZ0VKcTB3cDlVTGNzOW9zdE00bw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 09:57:05 GMT",
-      "description": "Casi 200 países buscan acuerdo climático fuera de plazo bajo sombra de los hidrocarburos DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "Estados Unidos se lanza en tromba contra el cartel mexicano La Nueva Familia Michoacana",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazdJY0o0T0RkVU0wVkxhOFRxYzZYNXR5TG1fSTNPNW5GODJDX1FVOTNXaVFNdllIYl8wd1dBMk9pRWJTOFJ4S2xpdmZrUkpkNmFTdVVHQm4zQTBTZkpnZVZpeXdJeXdsbTE4Sl9fSFpqd3piNGZ0VUh2alJHZm5xS0NmSFp4THF2UzhLRUstLUZRMTR3UlRCT1BwSnJQOUZ2cHZjY3ZjYkVRVzdiUENLTTEzamVhblVQdVFrSGpOZXhjZVNuUzBqV9IB3AFBVV95cUxQZHpLamh5bHJqWnd2ZEFMZjQwQlkzOEUya2tYOEF4aW9HSERTVXZZempwaFl4b3UyTE1PWHpSemlGTExxWHJpdk82Ujg3cGVWQUpHTl9MS2hpMENmRTZ2ZUd3b1NLTkYtT0pOd3B2Zzl4RkdGMEs5aEtlN19ONjExLXF4MjRUMjIzMnplcUFYaURDZ2hVeDB5dGFuNFZGSjlGb1pJTjRvQWVuajRvUFB4a0tDeHRQcnhHdmd2dUpTUEJkcFJUQ29JS0o3SWlTeWR3cE5sOTdIemlmdGk3?oc=5",
       "pubDate": "Sat, 21 Nov 2026 09:30:00 GMT",
@@ -197,15 +233,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrbXlxNXFENVg4eW94LVA0a19tQmRuYTEyM1VqblhrQXB6MTNrU1RsX3dCUklNOTh4MjBTSW9hOS1WTWROU1VJQVpxWnRfYzEyY2lKaDdoWVNlem5L0gFiQVVfeXFMT1Nidzd1QURFU2U4UXI5N0JvRG9NS213NXZPaVhpa1ZBTkxrT1NBY2hHX0s5blVPZFBXRmhpVG9DOU4wdDJrcjBURFB4RmcwQWM3R1llMlZScnVpWElHQWc4anc?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 05:28:57 GMT",
-      "description": "Tres soldados salvadoreños mueren en un incidente con explosivos en Haití BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
@@ -224,6 +251,15 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "Sismo de 6,7 remece los Andes de Perú aunque no se reportan daños ni víctimas",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPekhfMEw4UkVTRmJqU2VKOEUwa2RSZ2JRTXVsOU1UT1NDU0dSMVVrWnVWMUpsdjdPcjBFMlI5Q0VLeTJNQ2drMEJOS3NJOEVVbXgxY2M1MGFsWHVwT2RLTVlTTmc4RGJuRmU3dkRrbkk3N2JOLXNzLTItOWNfaGFnbURB?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 01:07:00 GMT",
+      "description": "Sismo de 6,7 remece los Andes de Perú aunque no se reportan daños ni víctimas AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa",
@@ -271,15 +307,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Mira cómo un avión realiza un aterrizaje de infarto en Suiza",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnhLVTdjVV9hRmZLY0cxZXZiaG5xaDVwV1oxTGpBSkFrMGxMM0pXZ3JtS2hQS01kZ2RxbWlDcVNqVjJvMEdhVlEwa3BGT2djeWREQ0tmWHFhUlc5c2l3VTh6Rk9oMmdUcGljOGZsQ0xYSnlWLVdqNWpDNW5VMzlxOUxudl81MXJyRXZr?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 15:01:07 GMT",
-      "description": "Mira cómo un avión realiza un aterrizaje de infarto en Suiza CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Los abonos de transporte pueden duplicar su precio el 1 de enero: en el aire las ayudas estatales",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMnFpNEpNWV95dFRkZXVxQ3dfdWlhemNVcEZBY3NlbzA2bHgydFlSMlZVaFRKNExzbGFKSjNmYkwzbm9uZjJTeDdNZFhBTmtIUEt6MUx6cm4wcTNhQTZ4aFJvRUo2QjhONUk1YVJ3SkMxVWcwRFg4VzFZdHdFcTRnUC04X09wbE9LOWRYdDR5Wk81U3BTak5xUXBqQ0c2V1JWbHRwaGpVN0VPbnhkRGhHTXRfcjlfNWc5bjJFWjV5SEtFa1FjMERIOFhyakd2Q0k3SGE4b05MeER4OFhsd2FrZ3BrcmZ2Y0dPQ2fSAf4BQVVfeXFMUG5XTjNodnBTMW9IcFhfMGxnamU2Q3djdkdOMm9FWS1IYUFvSmpCbV91S2o1NkFCckZ6ZEc4OXlyVGRra0FnTmFnTnI1X0pHbUc5MDBxSVh4bm9JTkNkWmhXeHgwb3lVVWNEQlJhaUpnQldlNWowWDRnNEttSWU5TWp6d0FuaG1wSFV1WU8wNmR6ZHU1RVpYRDlKMThUVHVWbHotcHlXV0NvajZpQS1IV3B3ME9XM3JTdjJfN1A4eEY1SUFIN3h2ckxVRVpCMEZfaWt0dXBKeWIwUHdzdF9qb00yYVBKb3NwZ2h3R2Q5STl0NDJkVTY5NlczMUpCZHc?oc=5",
       "pubDate": "Fri, 20 Nov 2026 13:06:30 GMT",
@@ -305,24 +332,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "La defensora del pueblo en funciones elimina el área de Igualdad y diluye la de Migraciones un día después de asumir el cargo",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNYUVyOFhKVVM5d1N2ZlRicXBWQUEyTHA1d1FCaVBRVGZYb0Ftb1Z5RHpBR3VSV3YxWGtLWVJxOUNMQVVYbjFabHdlN05ZWFlKY2JqZmFDVFJ5eTUxNXlmdlZ4QkY0ZU9pMHVxM0dsYkxIZ1JfbmhyVXNGdW55N1hqZk1Yd2l1V1ZFM2VzMlZxUzg0UHY3Mk1wdUl1TldycGctRGNlLTNBb2poZVdlYjBOcHI4Ukg5bE1EcGdSbEdpbHViWGV5Q3pCMWtzVTNJQmtNR3MwR0k2a1QtTmc0V1VYTTJoMmFjTXgzelFLRDlialZ2UDRpS3RyWEhhS3Q0OEtDV2ZIMUpiYWxsRTF1WUtuTDJ3OVdycUnSAasCQVVfeXFMTlM2a1NtMGhITjhvSU1EY2I5aUZiWXV5dU1nWkFVRC1vV3JFSEVvT2xpNUlLM3E2WmRCRFd4ak1wZkh4RFlKRE9DV2hYV2FvV0Fiak9iQVZacm1LdEc2S2dSVWVNWkhhTTYzcUhBRThfS0tpbVZNUUlQTGhMd0w5V2Vad0JpRldzZnZvQm1fbDhieGlWTVBtQ04zZ0swNV9uWVIwbjlXRElkV0kxM3gtWXNhWmVONkk3Zmx4Y3J2Qy1LMDFGN0hYUkFRZ3pTX0VwUXlsN1FaVzNLNkJVUVZjdUY2YjZrU2pqQVROTXVkR01wSXlwUm1aWHQ1UjJCeklNaVpna01wc0N5VkVxbUtULVB4emVaNXByZEg2V2xTaFNGQVdkQ2M0cnkzN0k?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:56:02 GMT",
-      "description": "La defensora del pueblo en funciones elimina el área de Igualdad y diluye la de Migraciones un día después de asumir el cargo EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd2R1NE4tQ1M2UVIyVjhFeVJJVGVxa01sRldmeHk5bkpzOHM4X3Byd2RHd2JmNW0zdzRmOUFVc055dWNCR3ZxMmdTRFJDcS1Nd2ZrZjZ6a0VWS2RMeGktVnNyczVmNnMxZUpqMUZqUGdna2FwNzFZczg1dHdtckpYWHJlRXhBaWQtSG9MazZJZUJvQzRaSjZTV21jQ2VlckJ1Wnc3NmI2dG9zTUlQc0lLZEQ2RHA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 18:19:46 GMT",
-      "description": "EXCLUSIVE: Trump official floated ceding Guyanese territory to Venezuela, sources say Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "2 hombres robaron más de 600 millones de dólares con un esquema Ponzi, dice EE. UU.",
@@ -361,33 +370,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Jazz corta racha de 9 triunfos de Lakers, al imponerse 109-97 con 30 puntos de George",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSS1lQVo2aHd3QURMOW9aUTNuSG1oSGlCNVU1QWFXQTRzcUN5b1lHX2JBYjRUTjU4c3V6REJ6SkJnQXd0dU5uR3BtVU9OT2ROcm5MR3Y0ZkVNem1EOHNwM0ppTzVuaHhvSWs3ODc4LVRqdDZsUmUybHI4RmlJSEx1QXZ5ejZETnZGUXFVM3g0Rk03TVVkX0N0eDZoSzg0UQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 05:52:00 GMT",
-      "description": "Jazz corta racha de 9 triunfos de Lakers, al imponerse 109-97 con 30 puntos de George AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
-      "title": "Colombia rechaza plan conjunto con EE. UU. para combatir a los narcotraficantes",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVY1SDVPTlRoMXY5eS02cGxMd1ZWcEJ6azRJVEREVHRYbWlkMXZqRWxQYjZVbWNLVjlCVnpmTzI2VnJ1SG1kMGJvZjVNR0VlUkdPT1F4dXdwYVZhX0cyTDZZbmwtcHhaUlZhbEI2aFl3SXI5N04xNEpsMTBndzF6UEJuejhIU2V5NUhQbU1ISllkRUZLQ2Q0Tm5yOXRkemVWTmZWMw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 22:19:43 GMT",
-      "description": "Colombia rechaza plan conjunto con EE. UU. para combatir a los narcotraficantes The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdW1rR0lES0JhYjBJM3BUNDlsaEQ2a1E2QmJpeW1jaU5nb3NRLVNURHllRzhPYzdWT3oxVmU3X2xRWWpKam50X1dmT0dDc05nOWJYdmlYYnJIZGhyaWxCZExpVkM2U293ckIwSW11amVLZ0lfbUFHZW9hX2hCS1NfTUp2SjRtUkE1VExpZ0VfbXV2UDhvbW92VUlmQl9KNVdscXI5UUR1WjFKdG8zVE83cXR2SGU1WTNBTzdqRzdDNzU2a2E2UC1rQmcwZUV3REFWOUE?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 21:14:41 GMT",
-      "description": "Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
       "title": "¿Es un cometa? ¿Es un asteroide? ¿Es una nave espacial soviética? Los científicos están desconcertados",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNanN5S2Nlc3RfX2NocXdaWGdEVFpES2NhUFFEY2VSaXNOYjh4LUtqeGItMlJjalVfMlRmWHI0eWJoaEp4MDZkanFiQlJhaHlSYjJnM3BPcHAzZ1lqd0tXS24zMWZkeFRQY0N0cGFobDZyWENZUkFlYmJELTVNeEdYSFJyZlRoOXdMQ2Q0TlEyVTB5VDlrYmVJeVo4cXpyZVE?oc=5",
       "pubDate": "Wed, 18 Nov 2026 18:10:37 GMT",
@@ -404,15 +386,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "En directo: la reunión trilateral entre Donald Trump, Vladimir Putin y Xi Jinping ha concluido",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR1hpbDVmYzN6RXA3VE43NGstbEFrUWh4MlhvSlVEVUN2Ym84RktnN0FHTkVSOGpIcjBvX3FFY19xaVVNLWw5OElybmxSS1dWc2JtbDBKaENCb0hlR0RycVV6UDRDNnBVVklySUpPS0NkR21MOHBVWmVxaUtHUE9sOFZWVFhNSFI4UzZGdnA5eGhLWWxvcmpmS0dwWThlT2l0djZOVDY1WGo5cjh4dFVoOGtQeG1MUm4xN2NvazJXOUt4RzlWU2drSjJyYWF3TkpCTk1velc2M0g1Q1g3RWFsRmxWZzFfZHA0My0yS053?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:25:40 GMT",
-      "description": "En directo: la reunión trilateral entre Donald Trump, Vladimir Putin y Xi Jinping ha concluido France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "El sarampión ya no se considera eliminado en EEUU, México y Bolivia",
@@ -473,6 +446,24 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5",
       "pubDate": "Mon, 16 Nov 2026 19:39:44 GMT",
       "description": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
+      "title": "Nuevo sistema de control aéreo no fue lo que causó suspensión de vuelos, dicen expertos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVEzcm1KR0VlaUFTdDhhRHM3Nk55VU1DbzdCREw1NUpzdW1KZUFhWE1ZY1RZa2lJa1g1WWJlUUotdU8tT1lTZXh0V1VmZWF2ZDR2ZXAySno4Z2lNZVNWWjRqRTU5YUNqVERsVDNGUDVIaWl6VTJQb201MHlrSDFsWW16WHc0RHhHc1BCaTdVdk9EZU04Rkt3MHdVTkZoUQ?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 13:47:00 GMT",
+      "description": "Nuevo sistema de control aéreo no fue lo que causó suspensión de vuelos, dicen expertos AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Foreign investors head to Caracas amid political transition in Venezuela, US",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaUVuQ2FwS09FalhDTXhjMVU0V3dlUGU5NFpGUFJrRmJuUGxwWGNIUE9RX3BtdDF1dnV3MU5GcG1qak9NVEVreUVyZ1hPbnNKWV9BSERYTlRSXzB0S1JrcjNlM2dqcENSZVpCbDQ0TFFVcXA5WE1mQzBZWkE4N1kxZXd3T2tUcE5qZ0pwQ1VWNmVoRlVIYWhZLVZhS0JjT3BIMTN6M1FlbmJSR094dnRpVG13cmxmcy1WYW5sTg?oc=5",
+      "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+      "description": "Foreign investors head to Caracas amid political transition in Venezuela, US Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -584,6 +575,15 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
+    },
+    {
+      "title": "France 24 - Noticias y actualidad internacional en vivo",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5aWUVWQTV5LXdHUFdVOVFxRS1zYlM1UHhDR2kwdVotN3hEU2ZsUEcwekRVT3V3VzM0R0JlTTF5VThRUQ?oc=5",
+      "pubDate": "Mon, 06 Aug 2018 08:41:09 GMT",
+      "description": "France 24 - Noticias y actualidad internacional en vivo France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "The Guardian in Spanish",
