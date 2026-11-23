@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T18:44:57.386Z",
+  "updatedAt": "2026-11-23T01:11:47.898Z",
   "sources": [
     {
       "name": "Primera Línea",
@@ -76,13 +76,93 @@
   ],
   "items": [
     {
-      "title": "Calles del centro de Atlixco amanecen despejadas tras reubicación de vendedores",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1g4ZVNuTEtvWmFDSWtWaW42OExXT2JZb1JNdXRRaDRBVUs1QTl0QXJMbC1fVnlnWEJ2NGN3UTdocTh1MEU2ZzJOYmNUNUs5VDlVSTIwdGhDUE1YSHhSVVY0NnpsVzNnc1k0VkJaS2piLXRqQndLaUdnbHRuamhhb1Qwa1B0SFdNTzhPOVVERy02TDFhMkpaRUx4TnR3YWl5QmRMdUg0RGdneE0tREVtVm5iNmJPc2x2?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 16:24:07 GMT",
-      "description": "Calles del centro de Atlixco amanecen despejadas tras reubicación de vendedores e-consulta.com",
+      "title": "Reúne Vaniloquio 2026 a más de 10 mil personas en San Pedro Cholula",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQODhlMW4ybVhUdVBDV0R4UUljU2JGZzY2V3NoSTdiWmluVkdXNmVOSzhMOFMtX0ZQTXBMYmZsajBsMlR5UDZOY2FFc1BjNUlpZzNDX0ZMNHRyaHhTQVhsVXM4ZDh2bFFQaThkSjdKTjNGdmdlcnFnby1rOTNMSEVmdEgxRWVQTzNUd2dxMXZfRVBGSHFBZGZfZXJiUnZkODBrYzZZMlpKaFZZREZNaUtfZ3lMYk82Zw?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 00:56:15 GMT",
+      "description": "Reúne Vaniloquio 2026 a más de 10 mil personas en San Pedro Cholula El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "Volkswagen adeuda pago retroactivo a 7 mil trabajadores por aumento salarial; ofrece cubrirlo el 27 de noviembre",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONks3aE9xLXFTYWpVcDRScFhKdXRrYTV3azRVSnJjYkFpS1duMkUwSUFfd2hTejJWc1lkb0ozaV9Eb3M3WWRtOU8zV284OWlsa3d3WTJIdUNJY2FpNUd0bldCTTVqdTVkQVFvSkpYQkFxV0YyRGxpN0JKLTdEY1ZjLWVqcWxSWEhYQi1WMEpqWDBvcUtFbkFQZ1U4WWxmWWl6bk1RbFh6WVU1MHhXaThENTFDSlktdHBPOUgxYnE3QWN5Y1RZTjZkbHYtVm1mZEJWM19WSlNvYmJ0SEg2aXNxOXY2Q2RrcGFuQTBZZzJSRXNvTFpB?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 23:30:50 GMT",
+      "description": "Volkswagen adeuda pago retroactivo a 7 mil trabajadores por aumento salarial; ofrece cubrirlo el 27 de noviembre El Sol de México",
+      "source": "El Sol de México",
+      "outlet": "El Sol de Puebla",
+      "domain": "oem.com.mx/elsoldepuebla",
+      "group": "estatal"
+    },
+    {
+      "title": "FMF reitera su apoyo a Gianni Infantino para su reelección como presidente de la FIFA",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzFKTUQtLXIxZzBJeDdLMGh5QmdRSXN2S0U4LWdGNXFQOEpUbXZoY1hyTzN4UHFWb3lDN0QwOFRjVkNUMHNWU25jRGdFeFJIMERNMFZLRXpUR2pRUXlpQ1dmSkpHeEktczF5X1B0X2dmbTZ1TjBxcDVibGptVy11RktLcHNLUzlvaTBGOUJfTXZac1BfQm1sTk5hVXVCZGxfcFV4eHpsYUpnY3dNc2Q5MjJ6Y3hPaWlhdTR6dUNfencwdDV4bDBnTkhseFR1Wnc?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 22:45:09 GMT",
+      "description": "FMF reitera su apoyo a Gianni Infantino para su reelección como presidente de la FIFA Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Fiscalía de Puebla rescata a colombiana, víctima de trata de personas; Consulado de Colombia solicitó intervención",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRzYzOUxneFFKSjR1cWVmOHM4SDg2X3JHYzVoVnZJbjVsdngyVFpKZUc0ZnkwWTV1Z3BnZm5WVmRBY1NNVkxrTFZST0lyNVhrUF9VeExhaFkxWWp5MTIyUTBLOVpkaDFvSXBGbGxzZ0sxb0tnUlpXT2xsQVdRUnNwcnVjU1RzdFhoaE9Nek1TY1JacGtwVy15cEVtemFIZTYwY3RNWmxaREM0b0NFU3Y3UjFwWFZKSU9qUEphM2NQcUFqbjMybS10d3NzazZLQXkwalc1M1JhX192S1pTdFlrUUVIU3hWejJVM3NWN3FQRU1NbGlMU2RWNFVfTkRfMU81SGgxN0prQVRRNWpD?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 21:54:37 GMT",
+      "description": "Fiscalía de Puebla rescata a colombiana, víctima de trata de personas; Consulado de Colombia solicitó intervención Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Think Feel Run llena de energía y ambiente familiar al Tec de Monterrey Puebla",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnFCZHEwRWFBZnFKS1hEdWpKUlRnRmxBQXhBUUtDcUhGekdtZVFzOEEyU0FwRGd0NGtxRE9xUFl3VkNQeTJkNnBSMERTWTh3V3dZbnVpeHhfRlprLW02Q3ZDbjhpSnJJcHl2SnpYeHdwa1FUU1hQTnFxMmczaUdWdG1fY08tQ2xCOHN3eUhJa1lNNDNONXY1STJzRUNmTHk0TG9BSU0wdGxLQkZncFVQQ1UtQVg?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 21:46:47 GMT",
+      "description": "Think Feel Run llena de energía y ambiente familiar al Tec de Monterrey Puebla e-consulta.com",
       "source": "e-consulta.com",
       "outlet": "E-consulta",
       "domain": "e-consulta.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Muere pareja en ataque directo afuera de su domicilio en Chietla, Puebla",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbE1vOW1LWDRUZHlGelRNTG9nZkZEV2JvRHFIbktwdWlBem5wQWVvWGxJamFMbHNfOF9qOUR6Q0FVX0NQaFB0UDByYlZBLXA4U0Q2MVNETUMtQXZtWVZIX3hRclZXVkNNUzFjZktxckxla3lKck9OMkJBcmJqcWwxZG9Iei1IVmFxT1NTdUJGdk12aWhGYmdNWEl3ZlBjM0VDN1l1eGkxOTVGSkF3QnJ4d003MnZTWVQ1TjlOaUdMMWUwMzZMZF9nUThqWWw5d2xiMUFXNUhB?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 21:35:47 GMT",
+      "description": "Muere pareja en ataque directo afuera de su domicilio en Chietla, Puebla Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Hermano de excandidato ejecutado en Acatzingo busca coordinación municipal 2027 de Morena; no solicitará protección",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMmFUajYzbWVLV1VSdktXUk80YWQzLUdXRlBXOVhhVlpzamdZbnJUYVpLbjY2eDU1X19oN0NmT1gwWnBmOTVTWGtzWENHLWFodGRYRWpDOU1rS3l6cUpCbk5LckxNcURxbXRTYmZObmZ0QUxfOXJIdERoR00yOVY0cHNqSUlfTUx1QlVFTXlrME1PZE9LWWxVc2kzYnUtaG9OTnhTM1ZHQm9xTTNuNVY5WmdjSERObGdLTjQ0YzVmRnBvek5wdlFJM0NqZ1NlZXh4cUhJTFliamRxLTdDdG5XYS1tRUx4Tzh0b3liU3RhZDZtTzNzTnc?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 21:09:23 GMT",
+      "description": "Hermano de excandidato ejecutado en Acatzingo busca coordinación municipal 2027 de Morena; no solicitará protección Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Reyli Barba cierra el Vaniloquio 2026 de San Pedro Cholula ante diez mil asistentes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQUNLNTE3U0xBb2RVa3ZnamJ2S0dCSHhDWGp4U3BET3AzZHdtS3ZjdUpXZ2ZDU2VDMnVkeXVHZmwwS0g3Um5mZElSNWN4WkRfQ1pFRUg3a25vdGJFRk1Hd0pUaTN1V3lhaG93eVF1emwxYXZjQnQ1MW4wZ2RCVm1kWlBld2Mya0VQQWF1UmtOblUtRXBrSVpMWnQ1R3FlYVJsbmhKRHNzV0RHbkVvMV9xT1hFQ0pvQWJJb2NrV0Y0WTZyYWdicF9uWW83QUc2bFk?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 20:49:52 GMT",
+      "description": "Reyli Barba cierra el Vaniloquio 2026 de San Pedro Cholula ante diez mil asistentes Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
+      "group": "estatal"
+    },
+    {
+      "title": "Segob descarta crisis de gobernabilidad en Puebla tras asesinato del sobrino de Rafael Caro Quintero",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVE5V3NHWW1LeEd5Wk16azJrVThEMlRtTS1YUVd2Z3JOSnowY1Y3aWxYbGtyajEyaU5LYmJwNHVFLUlJdHFlWlFGOF9WdkcyZlNZcWNlN29mUUpDMVJldmhiT3A2VGs5dkhKYkFQYVBpaUM4UzhucUF4b2UxRXlpVXc0ckVYbHpTanM1N3dod2RTSVV2aUxiU1NuNXNtVkswQW1XMk5LRFh2SWFwbUhfNmF3cWpjeVJDVnhNdlEtZXU1NVZmVzdRUVhhNkxDcEVqQ2JmTXh0V0cxblh4bHluMw?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 20:04:19 GMT",
+      "description": "Segob descarta crisis de gobernabilidad en Puebla tras asesinato del sobrino de Rafael Caro Quintero Periódico Central",
+      "source": "Periódico Central",
+      "outlet": "Periódico Central",
+      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -146,26 +226,6 @@
       "group": "estatal"
     },
     {
-      "title": "¿Cómo gobernará la Iglesia en Puebla? Jorge Carlos Patrón Wong promete diálogo con fieles y autoridades",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOb1BqOEVvYWszc2ZfdDdMbU8xSkl5OHVJSnEySXNhVmhuVktVeWFoUmxQZkxqakN0Q0hoWl9sY3lGajhBTGlhT2lyVTNXOFNveVc0SUpyci14WU1LZ1h4VzdXQWhBLVN6V3FXbTRlTXZGRHh0VmRITWk4THVwY2JQeV9PRnBiSFBIXzVFcHEzRXVUT2lRcFJuV3NMSzdSZERUZklCcUY2NkxJbVhqTkpjTjBjVUtmeE5zTW9FUENkd3plM0VuMk5wSG94bXhlakN5eUFWOEF6bVYtdw?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 22:07:14 GMT",
-      "description": "¿Cómo gobernará la Iglesia en Puebla? Jorge Carlos Patrón Wong promete diálogo con fieles y autoridades Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Gustavo Leombruno y sus seis etapas como preparador físico del Club Puebla",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDdBa3h2RnlHaFd4VmNTaTdMb0Z0UGk3UlZyYjZKdEJmMmdwSURjY2p1VFJrTF9JQi11MWoyWGtXdmtoSVY1b19JbU9ESmxLU2VaUzR2VlJPS1F0MGZYUHdMVmdrclRBODU4SUMtNXpFd1FrSjNsZU5Lb1ZYUzBocW1GTGRMRjVBY2FiLTd5Nk4xQlRDY0pKRkpZeEhXTWNacUNudG5TUG14NVA2Q1hyWmM4U2R4YzhyazJSVjAzRlM?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 18:55:22 GMT",
-      "description": "Gustavo Leombruno y sus seis etapas como preparador físico del Club Puebla Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Trabajadores del IMSS marcharán del Hospital San Alejandro al Zócalo de Puebla; prevén cierres viales",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSE9xN3oxT2Fxbno1cmVqUE1vUzdmT2VsajZxMmZFcVh2d2hrN3c4bkRFT3dRdllEYldqVEFpTkhXeWxIOHVNVnJpS3VDQkZJRFJNS2w3bm9RRGNWUVhjcFM0RkRxQ1NIaW5pSzlpSmxnQ0F3U1RLZVNtM3EwVzZsUHJjSEZESTJOTk1vRnBOQnJ1al9HTW82SHVuZ0V1M3NFMXFuNjNQWFppM0pPRFZzeHVOSGZhRXZwZ1V4LVVFTXk5ak5zUjZhd1puMHdzNUlPRjFqXy03YS03RmdrNVVLMzRvZmJlR1l3bU1kMVdtb3AtdGVGTlpXSVpMOA?oc=5",
       "pubDate": "Sat, 21 Nov 2026 18:31:54 GMT",
@@ -173,16 +233,6 @@
       "source": "Diario Cambio",
       "outlet": "Diario Cambio",
       "domain": "diariocambio.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "BUAP reconoce a trabajadores con hasta 55 años de trayectoria y aportación al Modelo Universitario Minerva",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU1V0Vl9NQ01yWEpveTRtZktYVnRHdFNjQlFrVDZ1S3F4TEhwVzhwUDQySXVvR0NjX29kSUUtYUxONnE4V1NKclRncVMxWlZHVFRSTTV5YTJvT18tV1l6NjdaRFpZaGF5QmtVQzd0dTM4bEtzSzQzZDZ0RFBTM1owVWtrbUpub0hlRlIycUV5cWttclpBTGNUVEUxWFN3MWpPb0NLeHE5RWNWdWZPUWFBRTd1ajUtQlVaLXlYdzFzSmZDRk9wbnNpZUtUekhTaEhPSzBpd2pXS0NNSmNSSUZWUUdLZUhCeFBBaFpV?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 17:48:11 GMT",
-      "description": "BUAP reconoce a trabajadores con hasta 55 años de trayectoria y aportación al Modelo Universitario Minerva Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
       "group": "estatal"
     },
     {
@@ -196,36 +246,6 @@
       "group": "estatal"
     },
     {
-      "title": "Detienen a El Chapo Isidro en Guasave desatando jornada de violencia y narcobloqueos en Sinaloa",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOT0FJcXFMdTFDY0w3V3FlWHMxNElPaTJSMGNoTFZzQXZFdjNsNjduSWdqYjc0SVFKNkFzZnhxYjRYbjBWcHg3eDU2RFBsUTRYLTVXUTEwSDdKeUE0aUltOGJXOXNSb3Bvc2I5YTVBOWFYbE82azI1czlwa29OSXpqTDhNUnVaQXN1MERpZU8wakNlV3YzYU15c1B2ekxwaE9jcG9BRGRuWGFEZVdjTDB4YTNJdHlxLTczYkJycWFURFMydnJqX3UtcW5VNUhFRzZaa2oybERUbmdYbmw3UlhJVExlUDhOVVpXS0E2cnA2Vjl4YkNrTVE?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 16:52:01 GMT",
-      "description": "Detienen a El Chapo Isidro en Guasave desatando jornada de violencia y narcobloqueos en Sinaloa Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Ayuntamiento de Puebla exigirá a concesionario instalar cinco nuevos paraderos por año durante una década",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZGY1SkZRQW1KVGs3cmRuY3BKUC11cEE4MDdMWHIxZ1l3LWRKS21JOFJPMXhNemNhbGJsS2pTVmhkV294V3dVWm5tTjhiTFpxSFNPekF5MDV0M3RCa21HbEw0YlA2OXFsSWc1M0hxUWh6MExlR19rMERXREVWeFh0Z3Z4eHlZSWxDVG1jbDdKUWZ2ckNFR0pYNENLS2drQWFqOTZpWVYwSVcyNXNobmtLdUVvd3I5WWZfQ0ZnQU9yVk9qNGlrTS04cGFESFdDUlFMZHZLYVIwMUhvczNSOVBQSU5VbnBwakZiemNtSg?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 16:21:28 GMT",
-      "description": "Ayuntamiento de Puebla exigirá a concesionario instalar cinco nuevos paraderos por año durante una década Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Adulto mayor muere por causas naturales en Puebla; encuentran su cuerpo en estado de putrefacción",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR3Y4OGZnOV9ITFB5YXhhMU1LTldERk5XcFRJc2w5WjFFTEgyV2lHcDdvMHMxT2h6Z1R3Q2xpdmYxN0xmUlNrRFcyZFZSNjNaX0g3Zi1kWW9iZnhWN1A2bmZUeVBfaWowLWNyNGVkS18zVnhJbEszWC1FbFZ4TXZwRTU0S1daQkktN1dEQjdEdmlyTGpRWTk0V0dLTDhmU3pNQ1FnekNkb20xRXhxa2Z6OTJ6dzRra3haU2prcmdtTkNrWjMyQWVPRzRiMHRTcjlDNU9JTjNxck9lcGk5TWZ0dV91NzJpa1JjVzlfX21ReVpnVFE?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 15:20:19 GMT",
-      "description": "Adulto mayor muere por causas naturales en Puebla; encuentran su cuerpo en estado de putrefacción Periódico Central",
-      "source": "Periódico Central",
-      "outlet": "Periódico Central",
-      "domain": "periodicocentral.mx",
-      "group": "estatal"
-    },
-    {
       "title": "Ariadna Ayala inaugura la Villa Iluminada 2026 en Atlixco (VIDEO)",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlJSeFNUcFR0dXRMdEsyUlh3YmcyRG1JTWhtYnJKQjhqMjN5Rmh3TzNEV3k1Yzdxcmh0anVnd1U5a25tNGQ2ZlQ5WkU0Vk9neE5pNGJvWWJpU1NMT0g3X1Q5aTFoSE9mN3YwZ0syVFh1cm9KQV94RDQ1X3RBWWhBaW9GbkhNLXljajlTdWszM2hQTHVuYnFyZGVwWEx2RzloMWdXckZmVXBnRC1xczJ2Ul9UM2JJV25BdlZnUw?oc=5",
       "pubDate": "Sat, 21 Nov 2026 03:09:14 GMT",
@@ -236,24 +256,14 @@
       "group": "estatal"
     },
     {
-      "title": "BUAP entrega reconocimientos por antigüedad a 716 trabajadores",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSk5FbVhPZndNZWFSOEh1amdJR3AzcHVPZnQ1RzZhRlRNd000bHV2TDRYRThsUExmSmR2YU9hbklfWThKT0lqWklFVnRoSEFOZVBZb1Q4cXNUcUlodnREckJPYkI4ZWhjNS1qWS1GUlczRjRsSzFvVURQclZMWE10Y2pRVXlZeTNWcndHU0szZVktUFBSMEFGSEZfaVE3bFRNaV9rdWtYZmJ6WUZT?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 01:50:23 GMT",
-      "description": "BUAP entrega reconocimientos por antigüedad a 716 trabajadores La Jornada de Oriente",
-      "source": "La Jornada de Oriente",
-      "outlet": "La Jornada de Oriente",
-      "domain": "lajornadadeoriente.com.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Nueva forma de asaltar en Puebla: delincuentes depositan y luego asaltan a proveedores",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzRMQUU0aGFGYkE3akl0bkdfME5MeGUtLTFXbklKdzFkTHpXWnNvMWpGSWVwNkhKa3FTNjRMYTVFaHM5UjdVUnVVSFNnSExrYjFJTVNmNm5qbVplaXBoZ0NQMm80NjVTRjQxajYtTk1xZHRkYXJsT2thZlAwaXVFb0YzRnQyVjJPTTcxbTJkR1VUZmlYZkxJbGFtZXlxRFBHU0VJVHRSSjBRMWdPVGpKaW9ya2Y0M1VzQ3czYjNONTZwTVRXNWVGeA?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:26:06 GMT",
-      "description": "Nueva forma de asaltar en Puebla: delincuentes depositan y luego asaltan a proveedores Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
+      "title": "Sujetos @rm@dos lograron rob@r 388 mil pesos a un grupo de mujeres; los hechos a la altura del Rancho San Marcos",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmbm9VeGdlaTUyRGRyUTBYWVBCVElWN2U5dkNPaldVeVRGM0h0NTh6THRnS1BjU1h4NXBYRTFPWVJZWlhfSll2T1Y0bUdpaGVFRTRzY2xwMGU?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 03:00:21 GMT",
+      "description": "Sujetos @rm@dos lograron rob@r 388 mil pesos a un grupo de mujeres; los hechos a la altura del Rancho San Marcos https://www.primeralinea.com.mx/",
+      "source": "https://www.primeralinea.com.mx/",
+      "outlet": "Primera Línea",
+      "domain": "primeralinea.com.mx",
+      "group": "local"
     },
     {
       "title": "Trabajadores universitarios, parte de la trayectoria de la BUAP: Lilia Cedillo",
@@ -274,6 +284,16 @@
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
+    },
+    {
+      "title": "Despojan de 400 mil pesos a familia en Libramiento Tecnológico",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUF2bi1xTnNDa2twd1dwM1hwdlNxV29kZFpEeUJLZ3pWc2lndkQ0aWhha0J2MEtpUlN6dlFoNWdEeUFHTkpuSTFSQkd0cGtNM0FndE9JNlg4UkZjal9tYmdQZTlZOXVTOVFSdE9ELWY4dVRkcEZIdUdfREZYQzJ4QXJvWmV3dVFHN1VSM1QxMkpNZVNrc1lVNlhwUkc3SWVOaFRMYg?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 23:30:00 GMT",
+      "description": "Despojan de 400 mil pesos a familia en Libramiento Tecnológico Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
     },
     {
       "title": "Reabre circulación en bulevar 5 de Mayo tras desfile de la Revolución Mexicana (VIDEO)",
@@ -316,6 +336,16 @@
       "group": "estatal"
     },
     {
+      "title": "Alertan en Coxcatlán por personas que se hacen pasar por trabajadores del Ayuntamiento para cometer extorsiones",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVXFFa084R0pudV9pcDE1RHE2LW5ZQW01bjRMUkZoOS01NDE1dURTeGVBRlJCSWU4MWpRWmFiMzNONl9tbTY2WGx4S0loMlFqeUVTUkEyMzJpZVRTWXFuc2hXMENrampMZi11MTROX21ndW05Mkx4YXViMmc1WW9jdXpQemF4YXdCMDFJbWNfVjgzNFpHV2lYNWhoOFFveHZwTVRTdDMyVE03T3dERzQ2WXFYS21Sb3NoRjR3SXUwTEgtS3lZY2xr?oc=5",
+      "pubDate": "Fri, 20 Nov 2026 11:32:00 GMT",
+      "description": "Alertan en Coxcatlán por personas que se hacen pasar por trabajadores del Ayuntamiento para cometer extorsiones Municipios Puebla",
+      "source": "Municipios Puebla",
+      "outlet": "Municipios Puebla (Tehuacán)",
+      "domain": "municipiospuebla.mx",
+      "group": "local"
+    },
+    {
       "title": "La Volkswagen chantajea con irse: Gómez Zuppa",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWTZpYUZUdksxSkRtUkFkcGtvMWNDcElhRnMwSVN2aHRKcFdFaGhPWTB4QVRQaVlOYl9Nc2dPSWowY1B4TEVNQVd4MVVaMmtjaEpxdVR5ZVdKSjRMdmJ3RkZhcWFIeVlleUY5S1VCUEZvcmFJd3lSUzdWaEJyZnZTUy1tUFZrZWk2MkFFYmhDVUQ3UXpP?oc=5",
       "pubDate": "Fri, 20 Nov 2026 06:10:55 GMT",
@@ -334,26 +364,6 @@
       "outlet": "La Jornada de Oriente",
       "domain": "lajornadadeoriente.com.mx",
       "group": "estatal"
-    },
-    {
-      "title": "Patrón Wong juramenta como nuevo arzobispo de Puebla; promete preservar la unidad de la fe",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOW12aW5CMmNiUWtPajRtaTQ2RC04cUlCT1hJcUlnQ1REN3U5TndlM0E0UDcxNnBlbXF3REI3elpwNUF1VDhFdnR1cnl0UzcyVHVkaTNmc1pRZFVSLVRaaUVhcF9lbFBMNXFqcERmS3ZlOVRXVDFuLWJNZTJPVm11NGlKZDdKOWtWUldIYjZDQlpuMWRlNnhPSGJlWTlFekxhWnp1M2dYNlI5Q19jSjBrb3M0QTRFWlVlYW1CNDQ0M2F6ZU9JQlNGcVR2XzFhcUE?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 01:46:59 GMT",
-      "description": "Patrón Wong juramenta como nuevo arzobispo de Puebla; promete preservar la unidad de la fe El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
-      "group": "estatal"
-    },
-    {
-      "title": "El Buen Fin supera los 500 millones de pesos en Tehuacán; grandes cadenas acapararon las ventas",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNkVBTHZRdlVUa2MxeFE5MzEwbEpER3hBckhsVElhMHRSYy1zZGszWVpkTDNFcW5GTUU1MXREV1lqLXg2NGpIZkZsc0hPMDAtc3diM0xvNklzdFRYQjJiSDhOOGZacnVrT3NncVNhUXBHRXBhVlV3RGhTcGpMM2RJUzA0b3dnTVJMRmpLNFZub2JjNGlKM2pkTVhCRDdKcDVfMi1yTHNOb0R0M1QzNlJCX2Q4b2NzcDBEWHp6cUxmQ3lQUjdBN2d1YQ?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 23:42:00 GMT",
-      "description": "El Buen Fin supera los 500 millones de pesos en Tehuacán; grandes cadenas acapararon las ventas Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
     },
     {
       "title": "Identifican a joven hallada sin vida en Tehuacán; era originaria de la Sierra Negra",
@@ -386,10 +396,10 @@
       "group": "estatal"
     },
     {
-      "title": "Tortas César: a punto de festejar 50 años de compartir sus sabores en Puebla | Clásicos Poblanos",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRW9wNFlkNkxtRnZwVDUxcGZrLVE2SEhSYUFZOGtibjd5SGhXeWcxNkZNQWMzcUZqUXA0VFduZUh0dlBRdFRWZjlBdmFwLU1GU1VOeG1DMjRCaGYwT0RZb1BPN1R2MlBzQkNwZzZUM0paaFE3alphZDJJdzFtaDBoMmZzdFYzSUt3UFNHUUJBZUtDT29SR3QtWmlsNDJ6M3ZFTFVpQnNVREw3bS1aZ3JHT2NDRWxwMjFwX1RQa3lBTV95dHQ0Z3QwYWRFR3o1cmxkZ0hCUURBYy0?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 20:17:34 GMT",
-      "description": "Tortas César: a punto de festejar 50 años de compartir sus sabores en Puebla | Clásicos Poblanos El Sol de México",
+      "title": "Patrón Wong juramenta como nuevo arzobispo de Puebla; promete preservar la unidad de la fe",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOW12aW5CMmNiUWtPajRtaTQ2RC04cUlCT1hJcUlnQ1REN3U5TndlM0E0UDcxNnBlbXF3REI3elpwNUF1VDhFdnR1cnl0UzcyVHVkaTNmc1pRZFVSLVRaaUVhcF9lbFBMNXFqcERmS3ZlOVRXVDFuLWJNZTJPVm11NGlKZDdKOWtWUldIYjZDQlpuMWRlNnhPSGJlWTlFekxhWnp1M2dYNlI5Q19jSjBrb3M0QTRFWlVlYW1CNDQ0M2F6ZU9JQlNGcVR2XzFhcUE?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 21:16:24 GMT",
+      "description": "Patrón Wong juramenta como nuevo arzobispo de Puebla; promete preservar la unidad de la fe El Sol de México",
       "source": "El Sol de México",
       "outlet": "El Sol de Puebla",
       "domain": "oem.com.mx/elsoldepuebla",
@@ -426,6 +436,16 @@
       "group": "local"
     },
     {
+      "title": "De China a México: el arribo del Lamando que inquieta a VW Puebla",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGxoclhqRXROUlZ3d1BRVnFsOUdXSmpfeGluQTQwT2V6b1I5dTlYbGVVVFhZeElNTFpwM0Nkdlg3NU9EbjhjSUxzeWRDYy1lQkN3THJ6YTRXbEU1am9VSlBtdGJCcEs5bHZfWTBPMllMR1FDbU5OQk1YNHBSTXdtVHFRQ0MzaG9wZ18zZE5OdjRJdl9MRHlKWFlubjdJNFRFRGkxZ0FJZDMtb1NfeE5LYjhJLXNFN1lEa1JZTHdR?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 04:25:03 GMT",
+      "description": "De China a México: el arribo del Lamando que inquieta a VW Puebla Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
+      "group": "estatal"
+    },
+    {
       "title": "Mejoran vialidad en Lomas Flor del Bosque",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3BNWTlKbGU4R2FYdW9aS2hYQWN1SXJLZGRERGRybWtveE45RWp1QTU4Ml85SWlsblZJb0NOUXpRbi0zUzV1Z3ZTTEt4WFlwWmNod0xQejN0ZFZXbUl3ZllzREczNVNyVEJHdE8ya2w1YmtMeFRtT05nSHlfLTcydWNfd0NUazBCQ0F4NUdoTXM?oc=5",
       "pubDate": "Thu, 19 Nov 2026 02:19:52 GMT",
@@ -446,16 +466,6 @@
       "group": "estatal"
     },
     {
-      "title": "Detienen a conductores de transporte tras riña en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ0RERVlsWkVZM1V2aTk3cURLQnMzUlNPT0l4bWJuNEgzM2Rrb0F6RzdCYWZxQkdGcm01UmtrdkJjbE9HcXBKTGsxejR2THNyelNHdmYwQjJKU1QzdWdIbFJKaXhfbEN2YzhIR1dZeWQ4Sk5jRXFGWTRHRTl0cUkyYWxJd2JEMDd1X0VYcXJYSXJsNmVUanhjZWVwajFPR2M?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 23:01:00 GMT",
-      "description": "Detienen a conductores de transporte tras riña en Tehuacán Municipios Puebla",
-      "source": "Municipios Puebla",
-      "outlet": "Municipios Puebla (Tehuacán)",
-      "domain": "municipiospuebla.mx",
-      "group": "local"
-    },
-    {
       "title": "Puebla concentrará información financiera y de dependencias en un nuevo centro de datos",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObTZ3ZVZGMVRWUGNwZk9MbXRCN2kxMWktWGRIWFNpNE5MdHlVYXVrSUxQdF9fbVF6NHo0cl9oXzNxb2poX1VtcV8zSXBjYW55LTIwbEdLTlh4TkEtNGZ5Ym40bkVMRVdka3J6SjlMNXRYZkRKY2hlYVdZdUlRS2RZNzRmNGhMQlltbEV1aHcxMGpPOEFneXRzZ1RVdndfVl9CX0hCUkVjVk1lY0FCckVSdFpjUEI0alJiQWFaTXpISVYyUkpybVZGSlowS2pPTjJ2OXkzY0F3ck5kVTdmUGtCOU1YSkVpTTU1d3A1V0J4eS1IY0tFS2xMTjhvLWN3Zw?oc=5",
       "pubDate": "Wed, 18 Nov 2026 20:28:09 GMT",
@@ -473,36 +483,6 @@
       "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "En menos de 4 minutos le vaciaron su cuenta de Bancoppel en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aTWZjaDFzOUZyN3hJNERrbnN1WGdEU2RvcUJjUzNzV3F6b3J4Smd1c2EtTDFJUVZhTTFDdG1yLXJ2SzlLRm9JTkNrb05ITFUwdUhWR09mUTA?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 00:38:54 GMT",
-      "description": "En menos de 4 minutos le vaciaron su cuenta de Bancoppel en Tehuacán https://www.primeralinea.com.mx/",
-      "source": "https://www.primeralinea.com.mx/",
-      "outlet": "Primera Línea",
-      "domain": "primeralinea.com.mx",
-      "group": "local"
-    },
-    {
-      "title": "Armenta presenta recorrido de Línea 5 del Cablebús a La Resurrección; tarifa será de 12 pesos",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUEwT0VnMGJzV1poZ1RZcXhFeWU1TW93TzRiRTVYbW9HZnhoQm5VVm1VZ2ppcTRudHdRb0s4bWZTZjVuYkRKazI3V2pQSUlXLV91VkhzSTk3NjZoTTM3MDdmSHRMZF81TUZRWEs3cUhfdUVudkRXeUhqMTR6X29KMkxqZ2wzRXBZbWR4ODlvTW0zTTZxZzVXcFluVWhtend1VXJYQVZNOUp6S1lxc2ZDcTNKTTV4RXdtajRQaS1rM09MVkFad3hrOXY5WVh1Zw?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 00:15:28 GMT",
-      "description": "Armenta presenta recorrido de Línea 5 del Cablebús a La Resurrección; tarifa será de 12 pesos Ambas Manos",
-      "source": "Ambas Manos",
-      "outlet": "Ambas Manos",
-      "domain": "ambasmanos.mx",
-      "group": "estatal"
-    },
-    {
-      "title": "Le roban 193 mil pesos de su cuenta BanCoppel mediante dos transferencias al mismo banco en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb3ltWDhwM25kdTFvUFcwaGxsTDJydGFNWk9Lci1XX25fNEU1ZG03cnFGM3VUYXdpa29EM3ktSHBFdmlJSUk4YkNOY1ZvZXBCM2ZZZUpwVTdaa2NJNXptWnZxb3BycVhEOFk1WUwzZTFXWXNOalAwUWJlRndQSTZqRXkxM2h2YkVYWFp4eHg2LUNDdElrdjZubWp4R0JaQlVzTmRsQTBRWVBMOHpia1RSRV9hSFBXMEJVZUlvU2R5ZDZSYm8tMDN1MWVRYlJMTHE3MFE?oc=5",
-      "pubDate": "Tue, 17 Nov 2026 22:03:01 GMT",
-      "description": "Le roban 193 mil pesos de su cuenta BanCoppel mediante dos transferencias al mismo banco en Tehuacán El Sol de México",
-      "source": "El Sol de México",
-      "outlet": "El Sol de Puebla",
-      "domain": "oem.com.mx/elsoldepuebla",
       "group": "estatal"
     },
     {
@@ -546,14 +526,24 @@
       "group": "estatal"
     },
     {
-      "title": "Inicia la gira de Claudia Sheinbaum en China",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmp5UHcxSU1oT1BBSE9fTk5YUXBPN2NrSFVma3l2VThDUzFwbXVMUXNjajk5U0NSdTFVLW83SlZhTmVPZEFIOWNxRm1tUmtjNlBUa3hyWkRGQ2doNmFSbmE2aVlLT3hCN3FmY0s5Z2czMlRRZzcwT2t6c0ZMcGVZTmdUYlBaYWFkWGFDTHFOTkE?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 20:34:15 GMT",
-      "description": "Inicia la gira de Claudia Sheinbaum en China Ambas Manos",
+      "title": "Lo que te dan es lo que tienen",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ0JraEtjTlI5THc3LUFGeEdsMEhYOHF6Y1ZLNnQ4MTFCRUdEY1M0R3BOS2xpT1Z3Z0pXaW1rZENaaS1GbzVzTmhFdHJUTGZiRllEeXFSc2duWUNtWU9UaUQ3anV6Z0tiakNPX1BlYzJKYmZUTFJQR1p3ZElBeHhKMXpwSWVhaHdXcV9CWA?oc=5",
+      "pubDate": "Mon, 16 Nov 2026 01:33:43 GMT",
+      "description": "Lo que te dan es lo que tienen Ambas Manos",
       "source": "Ambas Manos",
       "outlet": "Ambas Manos",
       "domain": "ambasmanos.mx",
       "group": "estatal"
+    },
+    {
+      "title": "Denuncian presuntas omisiones de policías y juez calificador en caso de Ana Karen en Tehuacán",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3FWendadXp6aXR5RXZxMDY4NWEwSUNhV2FOOWlUR2JuTk9WRTZUMS1KU2lGZEQyb2U2YjdUeTZxVGozWWxTOXZwWUU5Wm8zUGREekNhTXFOdXBUOXU2TW51bi1mXzlrRmM3dmxMLXQtVUFDRUZFU29PdGE2X0hyMEhjSE9fTDRHeEtySTNHS0xMYXg1Z2JTZnRYSjFlZ2ZQaG12TnBRcE1zVXVNc1NGNXRoWkJBV2loUGYxaXhmaEzSAcYBQVVfeXFMT1B0cWR4V0J6dWllbmkzdXRWYVVLTFhzTS1wV0NVMmU3dkI0VUFhX0hDVEkxMkk0Qjh3OV9IR1ZmenRXRWlHTXFCQ1dTLXlGejcxUFhNNlFhMTNMS1JqdzlLY1phdWZPZVQydjViZkZRY2FRUTNfSVoyMnBLcVh4dndyQTNsZWRjbEMxeTZ2Nmt3c2tXaE1Fbng0aHVtS3Z4ODU4MWlkRFF6bS1kSHV6RVBUaXp2OXN0SE5FeFBNWWJ1WTNkYkdR?oc=5",
+      "pubDate": "Thu, 12 Nov 2026 22:13:02 GMT",
+      "description": "Denuncian presuntas omisiones de policías y juez calificador en caso de Ana Karen en Tehuacán Noticias Tehuacan",
+      "source": "Noticias Tehuacan",
+      "outlet": "Noticias Tehuacán",
+      "domain": "noticiastehuacan.com",
+      "group": "local"
     },
     {
       "title": "Estudiantes exigen reincorporación de docente separado del Bachillerato Ciudad del Sol en Tehuacán",
@@ -586,14 +576,14 @@
       "group": "local"
     },
     {
-      "title": "Proyectan derrama económica de 535 millones de pesos por el Buen Fin 2026 en Tehuacán",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPal9ZR2FRZmZrelJ0ck52SjMwa1Vyby1EbnNCTmEtUnBqLVVFemdyVzMzWjc5UzlaTUdjUzF4azJ1TWFIWVl6V00yZllLbHZ5WXMwWHdmbG1GSEdDVjRKNTJPb09mc0NSdl9JUmhkVXJ0SVA3UzFWSWd0SmpVcVhKSlNkZ1FTMEw5MHJpY0R4eWpTSHZnOUZLYUUxOUJlOHdOWUt5NHR2bGUtQlFBQ3hYYU9acWVGUdIBuwFBVV95cUxNZ3R6UHRiUUNpeHh3ZF9hcl9aT1lJY1lNWTZFM3FMdXA2WHNOSkNMRzBIN0FZRHhtQlMwVkJYbnhGZUVuRkZrU25jR3VNQ2stbjVGTnhwUGJ1eGV1a1V2Q21VS25wRThyYllxaUFLeTJxODVWVVRKcm9iZjdfa0ZIMmhoSFR5N0RaT1F2ajY1blRsUWxRdjAwaVNjam5qZm5vaHE5YWFVTDVyRTNuN1pEV3JHMVk0b2owSXJn?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 22:20:25 GMT",
-      "description": "Proyectan derrama económica de 535 millones de pesos por el Buen Fin 2026 en Tehuacán Noticias Tehuacan",
-      "source": "Noticias Tehuacan",
-      "outlet": "Noticias Tehuacán",
-      "domain": "noticiastehuacan.com",
-      "group": "local"
+      "title": "Aprueba Comisión del Congreso llamar “Paso del Águila” al puerto de montaña conocido como “Paso de Cortés”",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaDdVV1ZVM2FtTEprU244eFVnMXlyM1lSbjFxMkNkek90WHNqOFA1YVlLeFJLNzVRYmp0cGlnWkFGaFVSdXFlMnRfY09pMXpiSE1JSE03aEtUbnhaeWlzQVhMM0ExcEZ4MkZqWGlSYUdHNEdXcGNOMGtzRHZzT1NFTmYxZkRWM18wU3BRaG9xYUI4bVM2dDBJWkw0dEhVVXdjUDJXVHFJci1PMWhzNWYzdUNQT1BIbWNHMjNYNzI1WTJ2MjgtWWtMdXc5OXB3M0JnbkZzVnpwb1NSSmRrUTJ1aEVR?oc=5",
+      "pubDate": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "description": "Aprueba Comisión del Congreso llamar “Paso del Águila” al puerto de montaña conocido como “Paso de Cortés” La Jornada de Oriente – Puebla",
+      "source": "La Jornada de Oriente – Puebla",
+      "outlet": "La Jornada de Oriente",
+      "domain": "lajornadadeoriente.com.mx",
+      "group": "estatal"
     },
     {
       "title": "Choqu€ por alcance deja 2 c@lc1n@dos; sucedió en la Coapiaxtla-Cuacnopalan",
@@ -743,6 +733,16 @@
       "source": "24horaspuebla.com",
       "outlet": "24 Horas Puebla",
       "domain": "24horaspuebla.com",
+      "group": "estatal"
+    },
+    {
+      "title": "Noticias Puebla en Ambas Manos",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1rLVo2Y0pzcE1OWDV6eTRoNEJWTU54d0JwbUtfeElLbVpLandwcnVBZG1EQmRVRGE0YXI0MEhONA?oc=5",
+      "pubDate": "Mon, 27 Jun 2022 23:56:59 GMT",
+      "description": "Noticias Puebla en Ambas Manos Ambas Manos",
+      "source": "Ambas Manos",
+      "outlet": "Ambas Manos",
+      "domain": "ambasmanos.mx",
       "group": "estatal"
     },
     {
