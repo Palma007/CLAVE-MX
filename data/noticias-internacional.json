@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:11:46.983Z",
+  "updatedAt": "2026-11-23T11:25:42.327Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -64,13 +64,94 @@
   ],
   "items": [
     {
-      "title": "Diez mexicanos quieren decidir cómo morir",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2FMTWdBSVlpcDdVQ0VYWnlMOUxVVzhIR21UdUl6bFcxSmkwNDdvT3ZBVVllWkJYY09TWkJlNHBuTTZCZjdDOGd2LXJZNG8wTGFWVHJnZ0RPZjhPS2hJdUdjMGpzWUZJXzVDTkN4OTZNZGFnbVhCV20wajhGZmpma1NiWDBXXzZhcWln?oc=5",
-      "pubDate": "Mon, 23 Nov 2026 00:44:01 GMT",
-      "description": "Diez mexicanos quieren decidir cómo morir EL PAÍS",
+      "title": "Friselle, el ingenioso pan italiano que puede durar un año",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83Q1JWWVVtb0VtVEUyeDhGTUNVYXlKZmpSdnVqSXc5dFhqeVdVandKSHFlM3F2cVl5LWJCWnE1ZFUwaEc1MXV6c3JWUjBBZklRVUYxajNHRDFEc1hB0gFiQVVfeXFMTUlhMG1LWUF4X3Y5eDdmbEpEaHBKZ2FhaW9VMGJCS29zMTY2Z1BySGJsOE1BdU5TSWZBNENxRFB1QWhwT1lobVBwM2VqR3lPSm5oLWxRdEpyWnp4RVBPMjl5cVE?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 10:53:25 GMT",
+      "description": "Friselle, el ingenioso pan italiano que puede durar un año BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 09:44:49 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
+      "title": "Águeda Amiano, ‘La Duquita’: “Los clientes ahora llaman pidiendo eventos ‘como los de antes’”",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWFYd2ZwQUwxaHdQRTRnRllXRlUxaUNEXzhUbzRKRl9PYmQtTERVeDdncG9mMUgzZjJNM0dadHJoYnpRYThNT2R6VDhGUVgwVG9zLUZKWHlNYlYwVDBtTEtxWmpmRng5QUJ3RnBkTVJYX2JiTGhySmJoenJnUnAySHMwTkxtWjVDNnRtY0pXbENTSER3dWNxbndaWGZwQzZEdm9hSmZKWHM3UHJyLW4wTTV6MjBXVTFSWFVKbnVPSjRQSFRnX0JHRkt5MNIB3wFBVV95cUxPNERZaUdVcDNROU5xVmJldWYtS1VPai0xbEM2bFctV3dFSF9mZGdZaElMRGI2SWk1Wkp1YmZKWFdObWdjTUNfVU1DRmNwNW5ucGRraERMMVBUTHB6VkNzWVJCb1B3N3pNdXRjeUZnVndsMWl3eUM2d2JTMFZfdDE1cFJuVjMxc0lPYmZVajRqc0RfOGJVQ1RCbXVyb20xakE0VUstNjUyTkxja2xTUFdFYTRuM3NtUzFnQmR0UGRFZjlub19COVlGeU0wemRGODJlQkRLWUtnZGRKelVkeXVV?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 04:30:00 GMT",
+      "description": "Águeda Amiano, ‘La Duquita’: “Los clientes ahora llaman pidiendo eventos ‘como los de antes’” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
+    },
+    {
+      "title": "La entrevista de la BBC a Litvinenko tras el envenenamiento que cambió la relación de Rusia con Occidente hace 20 años",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15VUlLSTNTM1dsV08zb2R5N1NhRjZKZmdiejFLN0hVOHhuRWE2X3dMSlFSajV1Q3dlX3dHbldBc2JiQS0yOFhSb09YaTZYT28tWC1DVjdQVml0dTFx0gFiQVVfeXFMT2pKS0Jtc3Z5Q21yWU9GVzRBbUs0SWNCYUZtVnZ1MmpySmNpaGZzM09Wa0QwUEwyYnlFR2hveGxMeUZDV09NdThUOXJadTMtOHhHay1lYzg0UHlVUnd2Ym42SEE?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 04:10:51 GMT",
+      "description": "La entrevista de la BBC a Litvinenko tras el envenenamiento que cambió la relación de Rusia con Occidente hace 20 años BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Las negociaciones sobre el clima fracasan por la salida de combustibles fósiles y financiamiento",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM1QxSkNfeUJzYm11bjZ5b01zTVQ5MmpocUxHbGNHZ19ibDBPU1lIOHlKSVhLUUZHUC1vUlltMlF5eGFuVTc3dkk4SXJRRDY0SFVXbEJfZ0l4aGRMdHBuU1VYeFNtOW5qLVJiLWlZLXdHQmxleThnSGpJeGx3SEFCcV84OFJKZ3NtNFlLTEx0cTc1SHVZSHk1elRiQWpvYW0xamVPWHotNjRFY3VSZ0xOQzhfR3hMOHFYUW1XZ2x3S2E4ZXZEQXFoRkdzdXlWWXRxYXFpTnc5dWE4MHlhWjA2Q19uVS1sNHlKeVdMNnVMUThEWnkzRDlrRmFrc0VZd1NWWHMzaU9jUzNwQnI4RFpTbThnLWRNdTjSAZcCQVVfeXFMUEVnQlJBLWFpV3hqc2phRUZ3TG5CZzFVWjJtZUZhSWllTUNuS3ZlcjZ4TXlIMHlqaUFqNGhFQzVhMzVmb2pjbzhaeExSSjVjOG9sWnFFbmRFUFppa0YxX25Ldmp5QjBmbFM3cXRMU3RObkNBeU5Ia25HZWg3LWU3TTlJUklWT1pubG00eVFEWHZMeFQ0aFJGSEo5bWFKVzVoS0VsTkUwRUVKSi0tRHFtZnNVRGdVQi1qRkF0UGxYOVZZYUtiaVVhcHVDdGMyZzZRRXMxTVpBd0pBTDZYTlpfN25INzVVanNvNGpVb1UzRTQ0Z3N4YUhNZUp3RXU4NEFnSElyQ0w2YmY4Vkx0ZkpuUkNzemNDZ0Vn?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 01:54:14 GMT",
+      "description": "Las negociaciones sobre el clima fracasan por la salida de combustibles fósiles y financiamiento DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Así quedaron los cruces de la Liguilla del Apertura 2026 en la Liga MX",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUzlmZ0MzS1JQendHcEVaeE5MVVRrdnRvTTlISkNGSmpmalJ1bXozX0FuQm9OUEp2R0tfRnBEaVhnWElKcHZLTl9JSExDeXpqaHhKNnAzemc0cktwLS16eHcwdHFkb0ZvblctRVR4UXpPN3pfT1hZREhqLURWTnlOVWNFeHY4Q2lrY0RPbjJldDUtWXM?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 01:50:00 GMT",
+      "description": "Así quedaron los cruces de la Liguilla del Apertura 2026 en la Liga MX CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Trump llama “inútiles” a las negociaciones con Irán y amenaza con reanudar bombardeos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcEkwcDU5RUlwbHllbUkzNmR4S004aVo5OE1QdzlDMjBTZ0V1czRzRUtESWNtQ3JQVjM5RDVTbDN2Rk41eWQxa2pZb0dlQkQ0TzE0S1ZwZXNFNmp4eDJjT0xtT1ljdjNaZnBTaWlsVFFBUGlpRVhWdWV2U2U1Vk9ZMDB0RVlwamFJLVU3Z1A1TE1yc0ZIcHhYczh1R183UQ?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 00:24:04 GMT",
+      "description": "Trump llama “inútiles” a las negociaciones con Irán y amenaza con reanudar bombardeos CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Delta Air Lines informa que se resolvió el problema del sistema que retrasó vuelos en todo el país",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZWNhSnprQXlnNF9Md3dmWjlIVDhwOVRVR2E0akdHempEUE1hdlBjZDRjdFFyQkVQMFp5LWFDeEdvTkxzU3kxUWZlSWstNHFnQmMyeS02T21jU0d0RllQeHByb1E3aGRXazZaVlluaFFsY1Ywbnl3eXdtVndCSVlTN0tGMA?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 00:11:00 GMT",
+      "description": "Delta Air Lines informa que se resolvió el problema del sistema que retrasó vuelos en todo el país CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Anuncian una nueva película de “Home Alone” con Macaulay Culkin",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWhhUkJaTUU2azBtcHNaNDZ3bnJmNVRhVE84eXJCd3dmaHhBLW9OTmpCOWdqM0pqYzEtYlRWTlVYa1NnUl9uTUJjblI4WlNQeGZUb0tzazBfQlByVlQ3N2RVdXBHNkxsblQ2VHlzUlMtNWE2WS1zVGVTUlprQnhqQWxxanlSdjh1d2tSQ3REOXBTOG5L?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 23:40:28 GMT",
+      "description": "Anuncian una nueva película de “Home Alone” con Macaulay Culkin CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Drones rusos destruyen edificio de depertamentos en regi¡on de Kiev",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHJJV2xobUxSTi1mVjAtVk9IenhpY0hYM2RxRl9idWcxVFY3TkxGdUpWenE0RGI5RXIwaVRjU2xkSnJ0WkJvZV8yZ2l3UFhnSnIwSEgzdElYLW5aRkYxdG1jeVlRdmNiTFVtTTVlVmlLYTBpMGlaUXBud2RBaW5oRld3N1A2aHowTVo4TVpaV2t2aFpDUkpxMHgxVXdyb0lKVXVYS21nSHpsdVXSAasBQVVfeXFMUDZocFJ4N3c2TnRBcE9ROHIxWldEU3llc0ZjRmJKLXo2RFgxOVdWLVhXY01ZUFIxNGRtT3lGbkltTmRNQmt2VDZ5QTIwN19oM0J1aGdxdzJpMml1T2N2d0ZyMHE4My1OV1pzR2M2X2tmM2NkdTQzY05rMGlHWktFSHpaWGlVY0lJLUhjcUxURGRsSXp2WkNnQ1ZrTUt4aGRDOC1BTkVJbkdnYzVZ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 19:47:35 GMT",
+      "description": "Drones rusos destruyen edificio de depertamentos en regi¡on de Kiev DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
     },
     {
       "title": "\"The Hunger Games\" arrasa en taquilla pese al lanzamiento de \"Grand Theft Auto VI\"",
@@ -91,18 +172,45 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "La princesa de Gales habla abiertamente sobre su experiencia con el cáncer en un nuevo documental",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOck1nYkJNa2RsOVhIeDdKT3RFc2RkV0dkY1NOZXQ5TXpvTUdiX2JUM2pBWXlQU01BN2pVRmp3d1FRRlRGOGNGeFlzdHlXWFhWYTZGVnFjZEMtVVNxR2toLXBjNzNSRlA3REVhNmpkbEN1UmtuOG5SWUNqWmZRWUNzemtxOUwzLVZJM0RSQWRLVkFLVFJRb1E?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 16:45:15 GMT",
-      "description": "La princesa de Gales habla abiertamente sobre su experiencia con el cáncer en un nuevo documental CNN en Español",
+      "title": "Delta retrasa miles de vuelos en el aeropuerto de Atlanta debido a un nuevo fallo técnico",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjhyc0Nsci1xYjBXaGJ5Tmp5b0RqLVJMbV9IRnROTWl1Qjdza2VIWExfSGwweWwybXgtM3Q4NUVKdDEtbzRYT2gxcGxZNTVlcmxmbFlpeGd4NzNwSHJpam5UbWZ3VEkwZHZtbHRjd3R1c01NZktBRmhmNUlNcllHSHRzTGZ5S1dmbE9yRjlSWWlxOTl3ckJacEZvejhWNmxtajl3RlRKVmdPZUNlNWFWT3Ftb0l1NGs4Q1ZpamE3UktSc3Q4MFHSAdoBQVVfeXFMT2hWcWZzT0Zodk9HZXZ5U1JBLVdlRUczZEpzZW9aQmVWbkFsVjRlT25WMWdrRVdsNVNZYnM5NGhvOTR5c1V5NWFKaWlMSkR3N3BTdDMyUXViZ1g0TVdJUGJTc0U3Q3M3cURmQ2VrdThTdUlZbmdpOTZwS09MQzhlRlNDNVVKNlVNN1Rxc0NlT2ZLSG9QZGthX0pQYWtxTWFoU1lHTUdNSU9DbktWT3JBZ3pwcnFqQThqeGg3MTl6Zk5OWjAtNlRJZnlFZDdQV29EUm14T3FlUVFlTUE?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:23:16 GMT",
+      "description": "Delta retrasa miles de vuelos en el aeropuerto de Atlanta debido a un nuevo fallo técnico EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Todo cambió para los posibles candidatos presidenciales de 2028",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMVFTcUpfUVN1M0dEM0tST3VpRl9xYzc5SHJXeDV2dzEwOF81SEJfY2p0SzBocGNZSV9QME45VkE3d01IdHpVYUlQcTZvaXFQeEZZb3dFdl96RUFCdDJSeWYxOFZYa1JUMWtjc2xQQ2xrYUxyajlEdnJKZHYtRk9PNzdmcGVhOXQ1ZU0ybjYybDBjODA?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 17:43:00 GMT",
+      "description": "Todo cambió para los posibles candidatos presidenciales de 2028 CNN en Español",
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
     },
     {
+      "title": "La UE y Panamá se oponen a la adopción de la decisión final de la COP31",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hfMEV0MUZUMHM2X0w1bmkzQ0IzaHBQRFdVTGpyeThiUlRDN1piXzdhbkVRRVVfUi12WlVONHJnZ2J3VDU2OTliV0hBM1dGOEc4aF9UaVFOdlcwaDdhRUlpRjhsOFVKTnRacGtteUdSUWI5NzJvVDBGTVl6NDRjc3Q2ZnZCcVJHbWZnRGJXRlNmcUJmNHdSUlc5WnNWSTJBNU9IOFltQWlDVi1k0gGsAUFVX3lxTE8xV0FsWGx3VGZETElaM1VoLS1SemVKaUNoSXVhZUQ3ek1fRVN2VVpnU0xRU0M5cFhJRHpxelFIRnM2OFEzTHdveW9ySXprLWZKRzBnRFd0SVBJZ0FJY2d6UnI4cVRBMjBVbkFiOXVIMnhUY1BWbHJ0YXZhS01acy1MMHhvWkJVYTlhLW00SnlQR2RsT1ZnRWU0a0Z6M25ablVCV0Z6QVNGZ3dDalU?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 17:37:13 GMT",
+      "description": "La UE y Panamá se oponen a la adopción de la decisión final de la COP31 DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "El escándalo por el fraude con IA en exámenes universitarios fulmina a un ministro en Corea del Sur",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWVc3YlUzVHBzbTdIdldKM0RuX0RfZ2MzamJMNWp4ZlROSml3MF95d2kwVVk4NVJHaFVmSGdQdHhYUWFfZWpBQzE5dTRIblFIZmkwMUNfRzNES2FLMXRQMjFpS1R2RHdaN3AxN0toaWdvaHVVbjFydXdwWGlKQktPRzFFOExyME10blFLMXF1OE8wQml6R2x0emZDOXcxNFRMcDR3dUNXV2dwTjNvSEdsOW5QNExjRWtHR0xVZXB6bW5IdXJ1b0dQN1VRNk5ZNlRzRkk0SnJPM2xaRHpYajdOUHZtSkRoNzlGenB5dzk0Z19uQW1xU0lfWg?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 16:20:06 GMT",
+      "description": "El escándalo por el fraude con IA en exámenes universitarios fulmina a un ministro en Corea del Sur France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
       "title": "Barco ruso atacado por drones será trasladado a Rusia desde Finlandia",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXFnNTYtNnJDMHJfMEt2N0xObklZWUViU3JCNG5mY3p2REFPT3FCVkVSZWhEeFdjUEFnSVRzd0pWNmFzMTVuYS1xdTVmdTViWTVvTVUtMTZyNTVlUEduYWl6Y0Z2ekNlb3h3ajBzWGlrdGNHWkFOZXJFTWxHNlRpRXJESkd1XzRlVjlDNWVBRjRCSFo4dDNvb0lqeEd2N1HSAZ8BQVVfeXFMTWFJcTNQTmVFUW1HYXFub3ktc2JYVFpTelFOZkxzS1pDb0pWUk50LV94TF8xXy0zUEgwNXZnRHN1N19mTHNCcTZ3cVRQa1M2elhvNnRZTnJGRTN0QmdDdjdDWlJmbGsweDZIek16Ry1BcWJHX3RnTDRQbDZHMGRGMmFaekxqWkpZUGVtR0FkX0I4cEhtTWRZWERqejdlUlVF?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 15:34:25 GMT",
+      "pubDate": "Sun, 22 Nov 2026 15:37:36 GMT",
       "description": "Barco ruso atacado por drones será trasladado a Rusia desde Finlandia DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -127,46 +235,28 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "La UE y Panamá se oponen a la adopción de la decisión final de la COP31",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3hfMEV0MUZUMHM2X0w1bmkzQ0IzaHBQRFdVTGpyeThiUlRDN1piXzdhbkVRRVVfUi12WlVONHJnZ2J3VDU2OTliV0hBM1dGOEc4aF9UaVFOdlcwaDdhRUlpRjhsOFVKTnRacGtteUdSUWI5NzJvVDBGTVl6NDRjc3Q2ZnZCcVJHbWZnRGJXRlNmcUJmNHdSUlc5WnNWSTJBNU9IOFltQWlDVi1k0gGsAUFVX3lxTE8xV0FsWGx3VGZETElaM1VoLS1SemVKaUNoSXVhZUQ3ek1fRVN2VVpnU0xRU0M5cFhJRHpxelFIRnM2OFEzTHdveW9ySXprLWZKRzBnRFd0SVBJZ0FJY2d6UnI4cVRBMjBVbkFiOXVIMnhUY1BWbHJ0YXZhS01acy1MMHhvWkJVYTlhLW00SnlQR2RsT1ZnRWU0a0Z6M25ablVCV0Z6QVNGZ3dDalU?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 12:52:49 GMT",
-      "description": "La UE y Panamá se oponen a la adopción de la decisión final de la COP31 DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERkI4Zk9hTmtZdl9yZk1nbjVjN2hUUU1EbkVfZVhFY0dxTGt4WWJkdmJvRjY5cGhTRmk3YkFxVFJyc1JBcEZyS05ndzJnNGlPZHhrX3hGcEthcXfSAWBBVV95cUxQZXlXVkpJUDV1TEtCd0xNM213ZURFdzU2Wkkwbl80SHFJNmY0UTB0SlB5LXJaZmY4Z0hoeld6ZEFlalJ3MEUwQzliWmhnZ0VPNnhTN3RiSzhINWVYRm5EY2M?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 13:54:51 GMT",
+      "description": "Cómo dos neveras abandonadas por el ejército de EE.UU. en Toscana dieron origen al helado italiano BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La COP31 fracasa en Turquía por rechazo del texto final que omitía el abandono de los combustibles fósiles",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcGlTUldmek81X3BkYWhueE1MdE1kcjdVVE1QODd0Y2pvalN3ZXVaNjB4YTQ0a0d2YklMVFBwSHpQU1JodFV2Rlo0N0xMYk4zMkM2YmxSV3h3SHd1NjJHVlZ4VW1CRWVkeDJJQml2RjV4T3EwbldpYjYxcmNpQm1LRWwzYlE4UHBsRGtxbmVlV3puTEM5b21hU05QR3pxR2diRlotb2ZhUkRfOFN6bGV2R3pFV2JPMzBERjA0aHZOcU9mM2RiZVJUU3RFOEtjNGt4dVlhM1NwNy1ITHp5V0staWQ4UzhIemFDTjl5TXU0Z0laaEtfZ2NR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 12:46:10 GMT",
+      "description": "La COP31 fracasa en Turquía por rechazo del texto final que omitía el abandono de los combustibles fósiles France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zVTBqUzczSVBPX3RYSDhFSnRRdFFyRnUxWEYyU1hheVp3ajJWNzE4UUFLZm45OEY1NEVvcjhGQUU5aGRPWDY2MjFxSEloejVFZnBqMzhfc1h5UUpn0gFiQVVfeXFMTXRGUkcyeGhRMUNZdThPaF80MDg2UmF4c0NiRy10Z2podURQd01OMVJrcGdJVHRCQmlYaTFFM1hzM3NCbklLck5Sd1FmQTBldlcwQmJFcUcySEV0MGVKU2hiUUE?oc=5",
       "pubDate": "Sun, 22 Nov 2026 11:19:36 GMT",
       "description": "\"Fui coaccionada para tener un hijo\": cómo un multimillonario engañó a la exitosa DJ Liv Nervo para que quedara embarazada BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Drones rusos destruyen edificio de depertamentos en regi¡on de Kiev",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHJJV2xobUxSTi1mVjAtVk9IenhpY0hYM2RxRl9idWcxVFY3TkxGdUpWenE0RGI5RXIwaVRjU2xkSnJ0WkJvZV8yZ2l3UFhnSnIwSEgzdElYLW5aRkYxdG1jeVlRdmNiTFVtTTVlVmlLYTBpMGlaUXBud2RBaW5oRld3N1A2aHowTVo4TVpaV2t2aFpDUkpxMHgxVXdyb0lKVXVYS21nSHpsdVXSAasBQVVfeXFMUDZocFJ4N3c2TnRBcE9ROHIxWldEU3llc0ZjRmJKLXo2RFgxOVdWLVhXY01ZUFIxNGRtT3lGbkltTmRNQmt2VDZ5QTIwN19oM0J1aGdxdzJpMml1T2N2d0ZyMHE4My1OV1pzR2M2X2tmM2NkdTQzY05rMGlHWktFSHpaWGlVY0lJLUhjcUxURGRsSXp2WkNnQ1ZrTUt4aGRDOC1BTkVJbkdnYzVZ?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:41:54 GMT",
-      "description": "Drones rusos destruyen edificio de depertamentos en regi¡on de Kiev DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Combustibles fósiles se convierte en gran obstáculo para lograr acuerdo en la COP31",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYVBLUWVuN2ZBWE5uMmg0Nzl2N1ZYejV4cXVFUTQ1aThLUWV3bUxBaGhaQy01dE84bVVqdXVEbUJ2SXdsb1FiS0s0WXB4UDladlNmbWVqV3ZWLXdVNUJWX2c3emZvWHVCQUpWV011LWZEbW16UzV6S0FrUVhoUmROMTl6em9wdzVRRV9IOXN4Zk4yT09fN1BLVkViQkhtRmZEcWp4YWVfWV_SAagBQVVfeXFMTS1aaGM4T2ZLcTJmUnNrU1dtaHQ1QjRQb0hzMmx3blNxOWpYNWZObFlnSmdmcW1jOHlfQi1YMi0yVWo1enN3dnU4OU1HZnh2TzRNQnhQdEhQMGJHOGY0aXR6OFVJVVBfek5VMnhzV0VMOG1PZmpqZm9rTU0teVFXWWl2bHpTN3gwQTN4Q3ZFLTJnWTZqTVh6RzJ6YXRKckswN211azNMbHdG?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:25:03 GMT",
-      "description": "Combustibles fósiles se convierte en gran obstáculo para lograr acuerdo en la COP31 DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "La ciudad reconstruida tras unas devastadoras riadas que se convirtió en escaparate del gobierno del líder rebelde libio",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOLUk4a3BubEpMVHdiTGp2X0tucU1BcW9LX01DeEJFRFF3aVhYUHV4WVpXSV9oZlo5S2hWMGZfbDVzdFZUWk5sUDVvNFN3NU9KamJvNmk4Y2pGOE1u0gFiQVVfeXFMTXRSeU0xeUJqRTRVV1ZuM2NwU0hVUWEtY1U4WlB1WkxJQ1JnOUxLNzJBTGU2NXF4WGpyNnhlXzc4U2M0SHEwWGJPOUR2UWVvNHJtcHFiSW9PZGQ3TG83ak40ZXc?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 09:43:25 GMT",
-      "description": "La ciudad reconstruida tras unas devastadoras riadas que se convirtió en escaparate del gobierno del líder rebelde libio BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -183,7 +273,7 @@
     {
       "title": "China denuncia una medida de EE.UU. contra sus gigantes de las telecomunicaciones",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG41ZlFXNzVuUHdwV052NnlLcUlxT1BKc2VqYng5LTBxUENuT3lNQnVxbGhtMUszWVdGSjZ2QmNYTklfWHZ1WWI5MFlrRmtNcjAzWXFZYTJkeVZWM0d4Y2VFNlk5aVJBNWVtYTlCb2dtRTBGM0ZITm5wYVZadFRFN3M4RXVkQmt1empsOHQ4bEVrNk5rakJ2TjhQNEp5Nm83Rkk1ZEY4WlBBTFJlQm00WVJR0gGyAUFVX3lxTE5TREdQQjhBYmh5ZVdyWFNVZkJmcURHZGpWbzdJSHBaanJkbW9FR3JJdG9PaEl6ZDh4REgtMDFYQXdEd184M3F0cU1KRDdldDlURFlIbWdoM3NycXU4RVdpQTY3ZVRiLXpyYzV6MzVKWXlxNGI1Y1VRSG9VTFdVUE1NSkZKSWdIYmY3cTlnR1FvYUlPdjlLVUgySTFZZWV3WWw4dXVTeEtSRmV3aUpfVFRLMEE?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 09:09:58 GMT",
+      "pubDate": "Sun, 22 Nov 2026 09:13:53 GMT",
       "description": "China denuncia una medida de EE.UU. contra sus gigantes de las telecomunicaciones DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
@@ -197,6 +287,15 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
+    },
+    {
+      "title": "La cumbre del clima fracasa incapaz de cerrar un acuerdo que señale a los combustibles fósiles",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQeXhHcS1icU1ZdWJVMnBUNEN3VHR2ZEJneF9NemtDTHNXM1NkaGJzU2VBT2JaWktjSE1jaTBYRGNsX1JMa2EwdS1sM1gzQXI2Q0hnNXNzNUc5YkZKMGhMaXduWFI3WTBEU1JLM0hvd3NwSXlESFYzSlQwVW5xZ3hqblZKamthUnBCVHBjMFRtcDkzSkdkY1FOYVBuQkNNTmJ2aDQtWEYyOUYtRFk3UjRWSVJ1RkliRjloRmE1M2JyMWpOa0F6dU9tdzZrZkRLVUM1cTNGWF9VZC16TzJXajJRbEQxX0VGMWJIczkwLU9wOGFjb2lRbkxjcVZuN0gyOEpuVU1DS3pB0gGaAkFVX3lxTE5QZmdrUWVrcjVBbDZ2S2pwUl9zUlF4eXBKaXFOQzhnTGdMY0NRRUxWUHZ3YkI4anFRRElDRFVnQmI2UlluMGtQLWZvV1pTZWg1TUlLY3JwOVF2eTdWdDZLNjVLZVdIZ0tPWVJ1SnVXaXpXM1J0UExLVHoxQjJKSUgtREJKX1pnUDdQZmZuMHBFYUFZUkwwLWp3UVBpdF9ha1YwOGljcDBvMFRsMkMxVUZtZWNDcDd0SnlHTjUwTFJpZm0yODhyR3ZBajZWYTNWTkw0WnNNeFBlX2R6XzhTaWZJRlhCVUxqcEtSZk9oc3dFVnJvWjdTVEFOeW1XaFhKLWhNLVZia1RRVjJQcmlISHc1aHF2NXY0OXRxQQ?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 04:45:18 GMT",
+      "description": "La cumbre del clima fracasa incapaz de cerrar un acuerdo que señale a los combustibles fósiles EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Economistas e intelectuales denuncian en París la amenaza de la oligarquía internacional para las democracias",
@@ -226,15 +325,6 @@
       "domain": "dw.com/es"
     },
     {
-      "title": "Una tormenta amenaza con complicar la temporada alta de viajes en la costa este tras azotar Florida",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnh0bHhpWHpvc1Z6YVYwelVQWWtDc3JLYTNncF9KY3ZxZUtyY1NEMnliRjJWNjBrTUF3eEhUa2R4VExlZ3BQbDhjc2FId1hhSUFlel9fY3hfZnNya3ZDNlMyaDZvU05Fc2tTVHVRTVNzRndKNVc3VFBzdmtiZWZBSWF0OXVMa1ZEREszV0p6TQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 23:27:00 GMT",
-      "description": "Una tormenta amenaza con complicar la temporada alta de viajes en la costa este tras azotar Florida CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "La princesa de Gales, Kate Middleton, habla abiertamente sobre cómo el cáncer cambió su vida en un documental de la BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50dWhCdENMVXVsU3ZfSk02X1F0SkVNeG45NzBwMXEwNVZ0dnB0cXdfT1JGN2dNRXpPSmlWSmNnel9XbjA1dEMyNWV0eXpPQUhBa2ItSm1obktuV2JO0gFiQVVfeXFMTzFaTEcyZGNSNFk2SkFHeHRuUDZoUjBVNVdSM3F5dDdlNThhY1NQSUNtWWJSVnRaVjhaNzB4Q2xlVnhTYXRxYXFEaG44Tm5iM0xDUGhyWjk2dW1vNUxuc09oRmc?oc=5",
       "pubDate": "Sat, 21 Nov 2026 23:04:51 GMT",
@@ -244,15 +334,6 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Guasave despierta hecha una zona de guerra: “El hospital del IMSS estuvo secuestrado por sicarios y luego llegaron los militares”",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWEdGbjFFZzZIVHpKY2pxMXRscFZRMFdiajc5TFBDbmVZMlVFNWFMZjhrLW9WRmlRUnZiM3JLeTM0cGxpUWVQMFQtblZ3VmoxSXFPc2JZVGZpbjZoMFJra3B6dVVmSHR4Vl81MWpTMEJsT1lNbHN6LXd0Y3Z4TGdvYVVMNm91RklRSk1FdHA4ZVpYZTBaSlphZ1VwRGtZUGJwSnVGdWdNQlNSM3oyR1g0cnQwUXFnT3BaSlJic1BYbTNnMHdCTllCMk8zeUxya2lHUEJHRmtYTlFjWVlvaWFCbGxXN0FYb0VFdmctckJHXzR3bVVGQlZB0gGLAkFVX3lxTFBLS3oxOEU3cEtlakZCMnZkcGJqV1QyR1lvM0UzWHNNeVVhYi00R1lUTkhQN29tTUR4d2NoYjh2aVZmRFZnZ1BTYktyRTRZY2MyQ3Y2U1BJYzFTanhDdURkM0JIS2dnVmktTHJUQnY0a3U5RnBTVklMMjY1TDZZNV9kOEVsMFpkaS1ReXhqalpuSzE3LUg5U3k0ME93WVJrOThnbkN5bnlLSnp5eUhKUm0tVWJhbC11ZU9wUHJ6SFN5R2toaEstWU53cGZEd0E5RjhuRUJod0xEUVZMMlRvdEFwU2l3V18xWS16SElYSTAwX2E3MTJ5T3hsRUdJdUtFczNRQ2twUTNmdFJKRQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 21:53:05 GMT",
-      "description": "Guasave despierta hecha una zona de guerra: “El hospital del IMSS estuvo secuestrado por sicarios y luego llegaron los militares” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
       "title": "Elecciones en España: redes e influencers, los candidatos se vuelcan del discurso a la emoción",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUNIX1YyZldJR2ROeS1ma1pZeUp3T05vcGpUdWNxUHk1eVBVN3VCSVhvWkIzazZ2TExTQXZWS0Q3TnFJb0JTNmMzZG5kdDlocllNLTI3SThPNmVfSlBfbXcyMGtPRG9VQkh3TTJEQkpjLWRLdk5Md1BtXzNKYXZwVGNvZjdzRGNCWmdEZFVRcUJnZmJVR3R3aEMya0k4SHVNazk0Qmw2NVUxVVNvZUxndVRlOElGZGpJR0dENGpnQ1g1NkNOMGZYdlNFQVlRejVadVlVZWpzNEVpYTR6bmtvUA?oc=5",
       "pubDate": "Sat, 21 Nov 2026 18:55:15 GMT",
@@ -260,42 +341,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "Cómo atraparon al \"Chapo Isidro\", uno de los 10 narcotraficantes de México más buscados por el FBI",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHcUpNcGYxcG1LUi1pTE52SklWS2g3LWhQeXRodk1sdm1XWENlN2hBc2pVd2ZwVTVHanZDdzVwVUIzTDJaSkVuckNYOG8xWkE4eUxVWGdMVDYxX3Nl0gFiQVVfeXFMUFF5em4xSU5mXzN3SWE4M3g2Z0I4YUtLdC1pN0pwdE1FaEU3MkdBMHVFOWNiZUt5WnNfMW9qbWFDeC1mRG9sLVVQRmtDMTBGa3FsUkZUSDFoT0dFT3FDSHg5alE?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 17:00:20 GMT",
-      "description": "Cómo atraparon al \"Chapo Isidro\", uno de los 10 narcotraficantes de México más buscados por el FBI BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ucmp2ZXVrRlU3c210LVBPYWlDbGh3QlJjd0JRWXhGSlNhaE9UeFViM1BkbXo3ODhlMjRYRG5FaFpUNVNoX3JXZWdGMUZrV3pnS0ZUWlpFczdRLXNa0gFiQVVfeXFMT1lteFBQR05kX0VyRlB0aFFPR3l3NU1zNTNTbjFzQnZDVzVrNkdBQVo2bkFRSU1rQS1NQkpSRjdVYXg1aHlSblpMVUpHcU1ybl90R3VqOVdUR19GbWwzb28wb3c?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 12:32:47 GMT",
-      "description": "\"Hay una parte de mí que va aprendiendo a ser viejo, pero hay otra a la que le cuesta muchísimo\": Jorge Drexler BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNM0pYbHoxUFA3ZU5QaW1mbkVRdjd3VWtidHktTnUzbU50WXNRM1h3dzNBZHAxTFduNVg5YkJYRmdSakhGREdaaDhMeDJaZTdoQnFsNUtGb3B6WWVtWGtrNml3eG1JUHFPcnEtT3R2TkZnaTdhcURkNks3WVU4MkhxVmpQbWxWMkZMa1p1NTF6b2dPU0FhT3lEUl90LWNpMDdyTzFCMWhhTmdtUDVESzNSWngxbkptVkJRWGxyaV9JVUpfckJEcTBqUmRWN1RuTHFWUjYxYlJsRTczX05LWkd6RnREbzZhSmF1azZwc2ozUFN2emd4Vi1HUDB6cDI?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 04:30:01 GMT",
-      "description": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjZCcVRPTzROdFBBclhwdUJ4OXhteUVfaV9EMzRONVpOWnE0VF9WY2ItM3hTSlQ2ejJreHZCUkFFZUttZUlWWkFKd1pZN0NveDM1MDRaa0dnbHFZM1RYMlUzUXZndHNpMHlycWMzNE9OVWxSdUpEY3J2aTBCVXpiU3hXUQ?oc=5",
-      "pubDate": "Sat, 21 Nov 2026 00:10:00 GMT",
-      "description": "Trump elogia a Putin y Xi mientras enfrenta desafíos en casa: puntos clave de su conferencia de prensa CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Sin Starlink, Ucrania está utilizando drones de retransmisión para atacar el puente de Crimea",
@@ -316,15 +361,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Jueza declara inconstitucionales mensajes religiosos que la secretaria de Agricultura de EE.UU. enviaba a su personal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXQwbkV2TTRMZ2hlODlTOEI0UkRuX0FFSG9xRG9STks0V04xV3RPR3hORnowSm43ZWgxLW5xcmVsRzk4aTU3OUZkZFQ2Mmw0Q0ZfRFNQVjVvWXBZWU9MbjNGczZfb3FoNXZCWGdsWjBCVnF4akxFeFh3aHBPOFJFOVFyaFZULTBmQmRTRldLN0d1MGtYcWdyd0ZnSmZLdw?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 18:27:00 GMT",
-      "description": "Jueza declara inconstitucionales mensajes religiosos que la secretaria de Agricultura de EE.UU. enviaba a su personal CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
       "title": "Amenazas, insultos, conciliaciones: cómo Jensen Huang hizo que la humillación fuera rutina",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEFMbHQyTlFnd3ZCLS1RbWZCa0VtOHVlY0g5RzlGVjBYMzhwQ2FhRlowMGE5RnNHaC1vLUNrOUNZYmtGU1FXcFU2M3d5dkNhUUF1alNEc2JFSTJmYzlPRzFudmlPeXA4U3BVTGZCMGhVTFZXUWlPMXdSSVNUYzNDQ0JDSUd2djcwbzEtMkVkbXNGOXZtNFE?oc=5",
       "pubDate": "Fri, 20 Nov 2026 17:24:43 GMT",
@@ -332,15 +368,6 @@
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "La inteligencia artificial eliminará muchos empleos. ¿Qué deberían estudiar tus hijos ahora?",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3pTQUdkX3dPUzJicTN3WEU5ZU14aXVkVGdEc2toT3AtdVdlWDRzZUQ5NlJuXzFDMVBBZTZhLXZjR3NMMDd6UlJZR0tValB4dW11MlVZOTcyVExPUEJWSHEzSW9EWFdyVm1JTVFpaVZYZmtxTzljQTBBWUd4Ym1adTVoOUx5WHlkWlVRTkZibnF0eWxZT0JabnA1MA?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 15:53:00 GMT",
-      "description": "La inteligencia artificial eliminará muchos empleos. ¿Qué deberían estudiar tus hijos ahora? CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "EU's Hansen says US trade uncertainty is drawing Mexico, Europe closer",
@@ -352,13 +379,13 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Combates en Martissant: ¿qué se sabe de la operación que dejó al menos 34 pandilleros muertos en Haití?",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQakJObnZfN2o2Q0RPRkV2ZlBNWXF2Wnl2YnRlanlRcHQ0R0JNSjd2OWpWcE1qSURITUhwcWFLOEtaenc4ZmZzd0dfRVAzX0dTbF9jS3lHQ2Z4MUUzNFlxX1BBS25ZczJCblNxUFV5eWtONlExQ3VpVUpOQW9idlIzTVhDbnVXZ2plU0JybUlLQnNhbWFxaFJxUU1qQ0V1ZnUtbVZCR2ZmVk5yRFRMRTJYcEt3UHdKTlNfaVppQ1d2WC1TVnVnbXI1M3U3WDdITlZQLV9HbjlzSlB3ZUZFc2pWVG5lMUVkR2ZEb1lpWFdBYWVfd3JjRGIyNDU5dXQzWW1oenRBT0Jzd18?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 21:37:15 GMT",
-      "description": "Combates en Martissant: ¿qué se sabe de la operación que dejó al menos 34 pandilleros muertos en Haití? France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
+      "title": "2 hombres robaron más de 600 millones de dólares con un esquema Ponzi, dice EE. UU.",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUt5VWJNR1M0UW83bXM2WlJCcHAzMlBVM2FqdGd2M0RnY3hqMHd5Y2JzT1VDbUxWcmlpRl9HdTBMcEJ5Q1M0M2NGXzlPVS1SMkVFbFVPQmt3NC13c3kyZkFLd2hhMjNBdXljaVpfbnJoZjB5R1dvYVo0YW5JYVVmS050amxHRkxpM0FiNGkxY1QtXzF6X3BqT001RQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 17:10:20 GMT",
+      "description": "2 hombres robaron más de 600 millones de dólares con un esquema Ponzi, dice EE. UU. The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump",
@@ -370,13 +397,13 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Los primeros 100 días de Abelardo de la Espriella",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaURreEtQSjltOEZoWHMySEl2VkN1T1NVYUVBU2N1SGtKMkVzY3UxOXJmdXNjQUtCaGhYc3I3c09FV3ZLQVBoX3A2NFZ2YmV5ckg0cV93VUtobjlLQXI1Y2V6T0FvWXdKNlBuaUJreVBzbkFvSkJoY2Rsb3IwWmhVQWlrbkwtRlRNQXJxeXU0T3RGYmFPQkdaUEZIYWluMjJCSjBsWA?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 10:05:06 GMT",
-      "description": "Los primeros 100 días de Abelardo de la Espriella The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
+      "title": "Jazz corta racha de 9 triunfos de Lakers, al imponerse 109-97 con 30 puntos de George",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSS1lQVo2aHd3QURMOW9aUTNuSG1oSGlCNVU1QWFXQTRzcUN5b1lHX2JBYjRUTjU4c3V6REJ6SkJnQXd0dU5uR3BtVU9OT2ROcm5MR3Y0ZkVNem1EOHNwM0ppTzVuaHhvSWs3ODc4LVRqdDZsUmUybHI4RmlJSEx1QXZ5ejZETnZGUXFVM3g0Rk03TVVkX0N0eDZoSzg0UQ?oc=5",
+      "pubDate": "Thu, 19 Nov 2026 05:52:00 GMT",
+      "description": "Jazz corta racha de 9 triunfos de Lakers, al imponerse 109-97 con 30 puntos de George AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
       "title": "¿Es un cometa? ¿Es un asteroide? ¿Es una nave espacial soviética? Los científicos están desconcertados",
@@ -395,15 +422,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "En directo: la reunión trilateral entre Donald Trump, Vladimir Putin y Xi Jinping ha concluido",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPR1hpbDVmYzN6RXA3VE43NGstbEFrUWh4MlhvSlVEVUN2Ym84RktnN0FHTkVSOGpIcjBvX3FFY19xaVVNLWw5OElybmxSS1dWc2JtbDBKaENCb0hlR0RycVV6UDRDNnBVVklySUpPS0NkR21MOHBVWmVxaUtHUE9sOFZWVFhNSFI4UzZGdnA5eGhLWWxvcmpmS0dwWThlT2l0djZOVDY1WGo5cjh4dFVoOGtQeG1MUm4xN2NvazJXOUt4RzlWU2drSjJyYWF3TkpCTk1velc2M0g1Q1g3RWFsRmxWZzFfZHA0My0yS053?oc=5",
-      "pubDate": "Wed, 18 Nov 2026 12:25:40 GMT",
-      "description": "En directo: la reunión trilateral entre Donald Trump, Vladimir Putin y Xi Jinping ha concluido France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "El sarampión ya no se considera eliminado en EEUU, México y Bolivia",
@@ -460,15 +478,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Nuevo sistema de control aéreo no fue lo que causó suspensión de vuelos, dicen expertos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVEzcm1KR0VlaUFTdDhhRHM3Nk55VU1DbzdCREw1NUpzdW1KZUFhWE1ZY1RZa2lJa1g1WWJlUUotdU8tT1lTZXh0V1VmZWF2ZDR2ZXAySno4Z2lNZVNWWjRqRTU5YUNqVERsVDNGUDVIaWl6VTJQb201MHlrSDFsWW16WHc0RHhHc1BCaTdVdk9EZU04Rkt3MHdVTkZoUQ?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 13:47:00 GMT",
-      "description": "Nuevo sistema de control aéreo no fue lo que causó suspensión de vuelos, dicen expertos AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
-    },
-    {
       "title": "“¡Ya no dio más!”: Chile y un precio histórico del combustible que parece extenderse en Latinoamérica",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbVZScGtHeE9qTTZHREFDdk01ei15TEwyam8xN3hwNTY2V2w4R0xFdV80VVRlaEVzTzZDbUVEc0hxOWdZMF9FUmo3SHpQMTFKeTUwOFBPb2dQNld5R0dfbHk1RTFUdUpEZmhIRVNnSi1PbGdYZThMMmFHRnViZWk3VUQzd1BOYUI0ZFE1N3puclJoWmRkWWl6dlQ5SlltNzg1OHlTdFMzTmJhdGpWT1ZYS2xGWXlLdUFmalo1MW4wbVZubmZfWW1helhTcnZHcC1ieFk4c2cyYWhIUl91RlV3aDNHWEpFLUNrd3lDR1ZRR1hWQ3FwZFdLdU9KT04?oc=5",
       "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
@@ -476,15 +485,6 @@
       "source": "France 24",
       "outlet": "France 24",
       "domain": "france24.com/es"
-    },
-    {
-      "title": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0dHaHoteEhreWhGd3JLaE1SV01qNUxkN0dqZXN5cFRFTDdTdFZOcHVaZ3huU09iYldmWFlTbkNtNi1UZ2J6VVpRYi13WDRKN0lBR0pKNEtLMTY1V281ZUJkd0l0clFIRWVEUkZEeVBkLVc0aFBDQWFwU1FYYmJRaUkza3hBM0JPblV1NEFEakFmNl9OOHNxVVE1dW95Ym5QNFpFOQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "description": "El rey Carlos III habla con jefes de gobierno en Antigua y expresa \"pesar\" por la esclavitud AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
