@@ -1,99 +1,78 @@
 {
-  "updatedAt": "2026-11-25T03:50:59.940Z",
+  "updatedAt": "2026-11-25T16:18:22.018Z",
   "perfiles": {
     "claudia-sheinbaum": {
-      "updatedAt": "2026-11-25T03:50:59.749Z",
+      "updatedAt": "2026-11-25T16:18:21.882Z",
       "status": "ok",
       "items": [
         {
-          "title": "CTM plantea a Sheinbaum ligar salarios a productividad rumbo a la jornada de 40 horas",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEJtMk5oaHlUYjVxaUxtZlktSnhadTJmbVlWYzdrSmZvcW1nYlpMY2R5WnRhcUhGRGJ1NDJvYUxOS2kzT2hFWDBDbktBNkdYMFhVb1dFYXdRVkhxSVNyRzVycjI2Z0w4X2E0SGF0MDgtc2RNalVHSFdaWl9hOUMtc2NqTnowTkhYV21lZg?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 01:44:00 GMT",
-          "description": "CTM plantea a Sheinbaum ligar salarios a productividad rumbo a la jornada de 40 horas Yahoo",
-          "source": "Yahoo"
-        },
-        {
-          "title": "Pide CTM a Sheinbaum ligar salarios a productividad",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUUwRWZXOEhlOGlNbUJRYWRldHNQOWlKWDN3blVFV3ZMTm8wdUlVeFZTUlBGajNXOHVrM1N5TTZBVWZOSWRTNWd6d3UxZXdmR0hQWDQ3RkYtNFAyUHZRT2dqQWlURVBKaml1UDJRUU5DeWJHTXpFTkxyOFY1S1FiYW12TlFNVVQ3bDNVZUN3?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 02:40:20 GMT",
-          "description": "Pide CTM a Sheinbaum ligar salarios a productividad Reforma",
+          "title": "Anuncia Sheinbaum iniciativas para protección a mujeres",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZVg1WUFWZ3pKTTM5NHcycllGTWY1UDVPMGR2VzhPbDJZeVMyWDdiQXJSWUZVQ24zb2pIQkdmMy1GTEFHeks4U19xVjg0QUMyQnFlWXNyZXpTc19Fa0V0YkZxSnJ3R09PZ0ZaUzB5S1hObFVsNFE2TlZVRi1lWlpIQWt1c2Z5NGJydzNVR1FYc1hldkE?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 08:00:00 GMT",
+          "description": "Anuncia Sheinbaum iniciativas para protección a mujeres Reforma",
           "source": "Reforma"
         },
         {
-          "title": "Sheinbaum recibe a dirigente de la CTM en Palacio Nacional; presentan agenda para mejorar condiciones laborales",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdy04VENMTlRSb0NYMHdMdVJTcnFNbTBjMmd6a2ZidGZkVFllYTNSSUJJWkpIcjVydnFSWjdHQWYxeUY0WmY3VWdfb0djTHdUVFhlbkVIMzdIQkt4ckZ6bXBwUjZfNktMUGtFVTBDb1B0Z0hWbGZUWUFDdy1rUm9qRkZFMDVRZWRJOF8ybnhOdTdleHNTeFRYODY3eWZnSFJDVjFQampSei1fbkEyTmJHY1pTM3JKdDZTTl9jWlFCYzdseG9LT3NDUERRMkpDVWZjN012bzJkWmozdlNMTjJJSTVzdw?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 02:53:19 GMT",
-          "description": "Sheinbaum recibe a dirigente de la CTM en Palacio Nacional; presentan agenda para mejorar condiciones laborales El Universal",
+          "title": "Sheinbaum corrige a asistente de la mañanera por felicitarla en el 25N",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNThFUHJZdmZuZ29BNU5id1daZndxMWZEZl9MaFNUSEMxYU5DWW01eGk0TnotVHdrTTZVdThlakdqQ2ZLUlBCY2dUMWJ1dVUyQnl4ZnBkay1zN3h4djltcF9SVXFCQVprSk5acWlqbGJPc1V5XzZDUTAxMGM4TjZHdk9pbGxVNmY4ZjdvSG5Jd0ZQN1Z5Ty1UczF1a0phem1ZWTNrSDhRUVduYlBSbXlINGt5XzlJQ3l2Wm1WSjZycFpGVVhaS0xoMlVxbFVtXzhtb3czNE9RcWd4U1FKam9xeUdWRUlmbHU0dFFNY0E5SDBFdk9ZbUdCZkhCXzHSAZACQVVfeXFMTzZMYVZmckdZNEhjTmRmajA0NjVLUlItVkNnV0N2eXpOX284NURINGo0QWtoTTBsbWRRY183a3lZSWJUYTNNTVNPR0tWZDhxUzdXcVZmVDV6X2xBQ2FQSWZYU3FTdHZQdnliWWZZVVJOdEhYWHpuQnpucmpRR3hZUVNaakVoS05GOXVRQVZjUlhqeVprOGNOLU9vZTExYmNwMjlHVXB5Y3RBd1hWbnIxMVprcWZxWWtMT01YcXhCbVRTRjNEbXd0Y2xqLWNsODFuRTBiWU1JOXVjVGlhVFZ0aVhrZ0s2T1JVbGtTNC1JQVZ2eE9rN216WGVFY3U0TzV0a0VhX3RCT0ItSkZJSk1BREM?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 15:31:58 GMT",
+          "description": "Sheinbaum corrige a asistente de la mañanera por felicitarla en el 25N El Universal",
           "source": "El Universal"
         },
         {
-          "title": "“Cooperación no significa subordinación”: presidenta Claudia Sheinbaum reafirma la soberanía de México en el Día de la Armada",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZHpueWlhOUZZMUZhLWpoWTBEamtfQWRzUHRHTVNlUzdmTEZhb3BTVHZVZXVmSGVsajYtcy1DNkE4N05MN0JJQ1lGaS03d0tsQmN5ZmdHN2ZhRnd0TkJIeEUzMzBMakF0R2RXNktEVWxlajN5aTlZUXFxZXgyUW9BdjVnVWRMa0Q1ekc4eVBKbUJsQmtGMlRPRUZaZzY4LS0wR1JwRmpYYkdrV0tCQ3NwaDJHVjlDTHN3a0hrb3lPWGJWZzFDTElSQWdMOFEtV2c3UjRJaGJWVUlpeUl1bHpLVERCZnRiQzc4Uk1IYWVDaTkwdw?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 19:35:06 GMT",
-          "description": "“Cooperación no significa subordinación”: presidenta Claudia Sheinbaum reafirma la soberanía de México en el Día de la Armada Gob MX",
-          "source": "Gob MX"
+          "title": "Presentan 12 compromisos para combatir la violencia contra las mujeres",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rekV0NzQ4QlBKaGlockVWLWtxekd0QVRQZzRrbU40Nnd5blNORXRnVlJvRktfUlhwanNibU00bm1XUjRFMXZ4MGRkQUg5aE0?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 16:10:40 GMT",
+          "description": "Presentan 12 compromisos para combatir la violencia contra las mujeres El Comentario",
+          "source": "El Comentario"
         },
         {
-          "title": "Sheinbaum acuerda con China la instalación de un hospital inteligente en México",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNS3k1YnN5cUdQRVlqbTFTYzJ5amdINXVWY1NSVkpHRXg2eFpWR3RqM1NjTnlCOVNDbWpRUW9RYVhrdGxCX1l0N09TdzBoUlVVVThhVmZrMkNoR1hWakVGTW1zcHdiWHV3OWp2ZDViZnRVSXNSOTF2SkpYVV81UjI1dURWMzBDV0Y2YVdVQ3FXMURtMVdFSkdoU0k5WFkybVh2NEFxbWk5bDhKRTY5MTdDcENneTVRSnphUWVfMk9xemUxQ3JGR0ZUclJ4MWlYOUw0RmlqbnhUZmVCNS1waV9IdmNtdkdwTktxUG9rSGtEd9IBgwJBVV95cUxNb0lSY3RrdEpMcEg1V2RTWnRibk9SQW85ZUNjNjNGRjh4Sm8xSXRpN1FpNkJ3TF84d3FDY0tScU5UR1RJZkZ5OXdVVzBTUnZjbTJkb05XYkhwRzdYVkRMWmt4M2Z1bXdRa19ELURuUXB3cEU2Qk9POGllRzFVTXBJWTZaVWI3Vkdyb0ZZbTNNdVJYVGxuU004emhUSVRvTXF2U0c3WE5qOEdfWjFaYUloYkg4VDdoS1F5V2NmVk51X0loam1oeTE4UTNWVnRaZUF2RHQ2QzlMTmhrZjVoSmhiRFp1UW90UG01VFMwWHZ5ZmtPanVhVDExY2dkSWFLZm9yZzRR?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 15:30:35 GMT",
-          "description": "Sheinbaum acuerda con China la instalación de un hospital inteligente en México El Universal",
+          "title": "Sheinbaum pide a Nestlé pagar precio justo a productores de café de Chiapas",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHd2c3BMZ25rOWN3ZGd3U0xrR1hJdkJJMS1nMEdZTWg5dDhFdlltYm5CMkFXRE1walZpV2RqWHZ2SFEtVWt6OEZ5Nndyc0JhZVV2X2lKWEdKUlpJaUhHbkktZk9Sd1RaTE90R0pkenppd1FycVFNdzU4ZTFtX1B2U1QwNUxZNm96Z0JEV1ZWdmU5X2RLNHhVMUdvZ2Zic1R1Z1BkVkxDMVg3aFA5d3ZLN0ROWTlRRERsZE5EVkhzYzMtYkx3cEpVbWRwYXVrUE90bGgyYnVVOGJXTTZWNUpRODJPY3NyMVdTcWU40gH_AUFVX3lxTE5acUg0SWRWc2FmSjdHVFR5Wnd6cWdqenJhREhFMzU2SVkwNmt2WXEzVzdpaWZoQUJ6Z1g1TlFHZk1lbk8wa3BiamZYWDdNek84S0Zka3NzdXpRcWRZN0NjMWZEWVZlX29FWjJLaWpCQkRPQkVER0loRU8tX0hxQzhmNjJUZENFMllwaWFFczQ4a3B1aDE2Rm4zaHNCYUlFTEZIbVBFdzUwX1JoeHF5dW1PdlFNWVNLOTZJNElBQ05GZDVrRVA4RHg0V08wbVdkTmhxZWlOU0g0c0NveDJzOFFpY0w5QWxTaUs2MElNNWQ5V2o5MUsydFVpTzFzRU1Kbw?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 16:08:18 GMT",
+          "description": "Sheinbaum pide a Nestlé pagar precio justo a productores de café de Chiapas El Universal",
           "source": "El Universal"
         },
         {
-          "title": "Sheinbaum acuerda con China instalar hospital inteligente",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVRRcWw0emVyZzFuQXJKLUdZUTlWZ1hydlpNeWZxbTZWd25MVEFDekFwSHFUcDFjZG9lRmhqQk5uWDQ4dTB3bHRzNTJ3TkxUekhaZHlJdlFuak5NS3gyRUZ3QVI0TF9iNmIwYnNFS3o0XzNfYjAyVFhac2tSanhweVhUWUMxQmNaZFhQVlViT0c2RlF6cTlhMmVxYVlXTVRFUndF0gGjAUFVX3lxTE56eTBpOVhVV0F2TVY2NnFublV6WlRmMTRzdFJvX2thUFBNM1VZZzRla3Y0dzJFa0lfMTc4N1NLOEo1dVlWaXJqdmwtenA4azVSNHFCYmh3STRZRGd2OS1lelc5YnhFZ1AxUF9oUGJKQ0tjb1JZTDg5VU8xckRUelVZVjdnZnJrLWYwc1dPUVhaWDhRYVZQUndFOHplOHp0bld2NHM?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 20:27:19 GMT",
-          "description": "Sheinbaum acuerda con China instalar hospital inteligente MILENIO",
-          "source": "MILENIO"
+          "title": "Exige Sheinbaum a Nestlé pagar mejor y comprar directamente a los cafeteros mexicanos",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wWXNzR0EzUmNucFJveE1XRWdPR1BlRU5aREhxTkJFcnVFWWQ0WG9UdXFZTzhGQ0dOb0dhYmtPZlIwS29abDFZRzg1NlJRMDg?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 15:39:51 GMT",
+          "description": "Exige Sheinbaum a Nestlé pagar mejor y comprar directamente a los cafeteros mexicanos El Comentario",
+          "source": "El Comentario"
         },
         {
-          "title": "Primer acuerdo con China fue cooperación médica, científica y hospital inteligente en México: Sheinbaum",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQOVJYY1dEejFvX2dYTDljc25OdGlmM2o1Y2tVYnB2eTVMT1o5bjVnVEpPdnNSSFJnZDk2NE00RGxSZzNiRHptRmMwbl9pYlN6ZnFYMWtRQWhlYWZQR25nSGxwTTJXNVBqb3hkUHZ6enBNWXNKRmRGVXpNamxKeUtoN08zZ3BpSFBwSXBTY05sYkQwd0g3T0huQUtLUFJXVEozckwxemlhZG1mYjQ2LWI2c2syV0RvOHVkLXNmSFluOXp1UFhBd25iWFRYbWVrQVR0WGlvaWVNaUk3Wm1xS2k3MlhBOC1UOEx0T0EyaEZxQVkyWlA0?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 15:25:00 GMT",
-          "description": "Primer acuerdo con China fue cooperación médica, científica y hospital inteligente en México: Sheinbaum La Jornada",
-          "source": "La Jornada"
+          "title": "Exige Sheinbaum a Nestlé pago justo a caficultores",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFdrR0d6ODlsWENwdGJjWWVwQlU0UXpaR1c4MkhOYThBVmZCaTFaZ0R3M0hmY21UTXB4V21QdHZIeUJ0aUdFZmhzcklnSXFwRXowcVgwSWFia2lJMlhRSmRCOFdrOGZVZFdMcXlwNkV3QThHbF91c2x3REFnV0VPY01Oc3YwQlYzQzZZQw?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 15:00:00 GMT",
+          "description": "Exige Sheinbaum a Nestlé pago justo a caficultores Reforma",
+          "source": "Reforma"
         },
         {
-          "title": "Sheinbaum resalta crecimiento de la economía y récord de la inversión extranjera directa",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUlRldU9fQ0ZKMGZEQ3lTQWpMLU1KTUJWbkV4UnByUlhLc2tsMkZ2MmRLU1dtUzk0bFc3b2ozc1hRLTZ2VlZiNFJkcjJzQXBfZE9la1ppVlVUbXRGZ1hoYlV1YjY1cGZsX25rRXVZdS1WYnV2UHFUdUxqMkFUNnYxdEdRZ0FZRWR6aGlucGozRGpOOXZreEUtaE1TU0owSkZudmo5Q1VPcGxPUUMyM0d0MkN2UHJZdmhtWW9Mc3dUSzJKMEYzZWZ0azZMM1Q1THdORE9mXw?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 16:09:00 GMT",
-          "description": "Sheinbaum resalta crecimiento de la economía y récord de la inversión extranjera directa La Jornada",
-          "source": "La Jornada"
+          "title": "Confirma Sheinbaum deportación de Inés Gómez Mont de EUA a España y solicitará extradición",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGVHNnYm9XNGtISmtuY01rNDEtREtVU1FFdmh5TGRPS05SMkhmcXlubjZ2VDNhMlItZC13eHJmcXhLYXkzaGZZOUJvbGx5WnM?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 16:04:13 GMT",
+          "description": "Confirma Sheinbaum deportación de Inés Gómez Mont de EUA a España y solicitará extradición El Comentario",
+          "source": "El Comentario"
+        },
+        {
+          "title": "Sheinbaum alista queja contra Interpol y EU por caso Inés Gómez Mont; exige reciprocidad",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWtLWFBqemlFbTJ5bkN2N1VycmFELTJaR0JFNnUtZU5TY3lLemRDSUtGUGh0bjVVMVVZcFJ0dXlhTHUydF9EMnZ0d2tzWHhQUXdiamRzNDVKWHRMT2NqYl9zMmlqdnlnYjVfZS0tNXlLQ3pNcUd4N2ZYVV95UGhQVnFfOTA5Z2dESXA5cDFTaWZmdmQzY0pobXgtSzZJZDdaeFIzcUZDbzJqaWRlVUI3bDZtbnNHalFHTUptd1UtZlltZXlSd3U3ZkhaM1BQUVU?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 15:54:28 GMT",
+          "description": "Sheinbaum alista queja contra Interpol y EU por caso Inés Gómez Mont; exige reciprocidad Nación321",
+          "source": "Nación321"
         }
       ]
     },
     "omar-garcia-harfuch": {
-      "updatedAt": "2026-11-25T03:50:59.519Z",
+      "updatedAt": "2026-11-25T16:18:21.816Z",
       "status": "ok",
       "items": [
         {
           "title": "Sheinbaum descarta remover a Harfuch de la Secretaría de Seguridad: ‘No hay ningún cambio en el Gabinete’",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZW8tS2kwLV93WlY4Mi1BMUE5NGN0RURoMWV3Zy00NEtsejdPeENWYUMtMnJYUGRrMWV3NVp0bXNpTU12cjQ1WUNPVERyQlZQRjFHY0dTTFJUVzJIMF82Z0c4dnRnek5STTN6TmQzTjNGRnhPbDhjSVZsN1Z6dEtIdm5PVGJlZXhFNmpfS2hkR0JJTmdtaVRQaWwxTU45ek1zckZsV3JaQ3ZiRk1JdjRHSWNLS2ZfNXd3VXFqQzdjaktQZHh2TU45TzE3U0N6V2piU0kybE0xcmVVYVp0VnZyMlVKdUIteDcwRHlj?oc=5",
           "pubDate": "Mon, 23 Nov 2026 17:35:30 GMT",
-          "description": "Sheinbaum descarta remover a Harfuch de la Secretaría de Seguridad: ‘No hay ningún cambio en el Gabinete’ El Financiero",
+          "description": "Sheinbaum descarta remover a Harfuch de la Secretaría de Seguridad: ‘No hay ningún cambio en el Gabinete’ El Financiero Harfuch no se va ni habrá cambios en el gabinete, asevera Sheinbaum La Jornada El tiempo de Omar García Harfuch MILENIO",
           "source": "El Financiero"
-        },
-        {
-          "title": "Claudia desmiente versión sobre salida de García Harfuch // Volvió a su cargo el director de Nvidia // Los viajes de Peña Nieto - Dinero",
-          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOWFfdjB0V0tFajQwMWJmU21jNnlzTzFiMWVTN3Z4LTQ3cTNTOVdOSWhMSEhjcGVteDI0TjhYNzYwLTlYRE5xbGJvYzE1RUN1NWxfb1IwbmtDNWZiS2RqYjZNSkR3bEZSSjBEbWxCbjVKWGRlWkQ2UlduTmFaejl3Q0VlVno3YjgwRlJxVFY2REh2TWh3aGoxb1l4SjZLQ0xIbmlIY1BDRWhzaWNuLWk2WF83eUg1ZG9SRUN1X1hxMkotVkgwS2NPMWl5d0R5T1FjMl9vWVpRQVFmYlZ4MWh0WjVxb085bllrNXRZU1llam5sM1N0M0hLVmdkR0xEMnl2Qk1MczJTUkRDYXhMb3VCSQ?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 14:01:00 GMT",
-          "description": "Claudia desmiente versión sobre salida de García Harfuch // Volvió a su cargo el director de Nvidia // Los viajes de Peña Nieto - Dinero La Jornada",
-          "source": "La Jornada"
-        },
-        {
-          "title": "El tiempo de Omar García Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeU1yXzF5aTk3eFM2MF9mVUJLTWlyVmxVWTNCSjhCTGJRSUhlMUN6cVJGQjRfa190T08wV2ZXdU15OWZQYTNjVWxHRnZFM3pGSVF6UVZWNU12WnZrbkEtSHg5WTA2cExIMlM0SThEZzdubjg1YmRWaGNERHpBRUl3eFQ1elRFVzlzQ1kyYnJMejVVMVVxMGfSAZYBQVVfeXFMTUJEMm9RYmFrSzhkOVJmeE1hdVRJUHY3ZXNCT3BWcmNRMXpxRGtyQlRMLU8xOFZLeTlOXzhHWXNyeWR4OVVFVnYtM3p0ZXNpNzdPdHFnSFYtYkE5d2h1NFo4ZEF2bC1ydHI4VTdFNXlhMmNKbjhWcEtxV2dkTmZaQXBwdVZaZkYtQ2VtODZjNGxyYllwTml3?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 07:31:14 GMT",
-          "description": "El tiempo de Omar García Harfuch Milenio",
-          "source": "Milenio"
-        },
-        {
-          "title": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2NyM2tfRDlqZVBKZW1RVEs1UjYzbWlVcEt5ZkVsaFNCOTAxNVJTT1FfSGxvMXVpc2RWd1FOSGdvUy0zQTRsYXVEZzRvbVhPaDZWQ25DN29FLTRJdmF6b0c3cy1vOW5ZalhPUF8xWWpOeDdXSmFTcmpmTndWQTZhWFVQYWZrWURVRUR0NHNXSkJLRUw2TmJ1bjU5THBHQndrMW5pSVNqMy0yQVlHZkdUZTlIZjBkanU4NWhmVXoxLWZHZVJFbm9qM09qRHZfQjFT?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 18:02:00 GMT",
-          "description": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch La Jornada Harfuch vuelve a Sinaloa ante la crisis de seguridad Aristegui Noticias García Harfuch afirma que operativos en Sinaloa seguirán activos Milenio",
-          "source": "La Jornada"
         },
         {
           "title": "¿La despedida de García Harfuch?",
@@ -103,13 +82,6 @@
           "source": "MILENIO"
         },
         {
-          "title": "Omar García Harfuch y los rumores sobre su renuncia: qué dijo y por qué se habla de su salida",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXdSNmdDRjYxZmJkTE81TWZtSWpJdnhnQ190VFBoX0JrZ3dyNzNGU2lVMnhNay1BY1lVY1lKVDNvZmdQTy1KMWgyenRFek1Uak9Od0NYY0hNMDBOd0xfNk5sNXlQR3RndmllTVdaNmdVenRJSng2b2RrT2hOdU1IN01wMm9rN1duS1dHTzNvLXlYRDVlVjVSV1k1T1hVQkNYc0lueHZrbGhWWENwR2VVTFFRdGQ0T0prTXYySFlSdmVQRExJdm5hRC1WRURCNjA30gHrAUFVX3lxTE80RkZqT29GZmNXVlJhZkZwSW5DMGZjemwyWDVmRU4yRm83OExQTWZMWXZGWXJJVDMzUWV2QmFEWmxLSWZVbXF3VzVHd0lDUjQzN05lc0VrdWgwQzRQUk5BTE1fWkF1dU8tQ0tSRG1DTGRnTGFBU2RHdzNRZjhGRWNvbWZhd0VReGd1VXdBLTE0YUp3Q3RQX1Q3Qy1ibmNoMWFvaVpiWjRhd2dPbU5UQXNiQnFxVEpoeVQwdXRBd2FPYWdCNG1taDBscVB6cDJrYndJc0JnM3BuenVQTmo5UTJDMUN3elpCaEJGcU0?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 22:09:00 GMT",
-          "description": "Omar García Harfuch y los rumores sobre su renuncia: qué dijo y por qué se habla de su salida Infobae",
-          "source": "Infobae"
-        },
-        {
           "title": "Contexto",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kdDdYSENxSHYzemxuS1FxeTlSQjV3b19oTl9lMS1PeTdpREtoZl9yY1ZHdTU0SzhNZlQtSWFweENUYzdpZVdPTmg1UnZiRHRJS0hDcnp4V3Q?oc=5",
           "pubDate": "Tue, 24 Nov 2026 12:29:00 GMT",
@@ -117,24 +89,66 @@
           "source": "Quadratín México"
         },
         {
-          "title": "El impuesto de la omisión y el factor Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmpTbHhFTlN5d3dpOFphOGZBaUVhNk1XRUlnN1hQSkY4V2FyN0dJWUJPd0oxWUJPbV9rNWtZNmxFSF9HQ01YdGV5V1lycGNIanZuWVB5M25Dbmw2ZzR6MHZieWFrLVY0Z2VVUmJDd0RZVl81WjZwbFhNTGtfOS1NSjNiSUI5TGM2UFdmNk5raV9LZDJGQThj0gGcAUFVX3lxTE9FcHZ4VUlYUXBrQ2VaTjY5TzRMbzhoMjlWMVFpb1B0WGtraFpfd2tuZDVYZ2M1YUZBYzZiYlhRUjNGZ1FfQnUzaUZWY0N3YzlabTFyWTR6bDJURS0tOE5vZWpNcW1SUVRMUHRNT3BCOFBvVy1fTDE5ME9TNGhZQXNGNXlFSFdGSjEzMG1JSGhZMDZaSzV0RDNhNHFuTw?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 03:27:58 GMT",
-          "description": "El impuesto de la omisión y el factor Harfuch El Economista",
-          "source": "El Economista"
+          "title": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2NyM2tfRDlqZVBKZW1RVEs1UjYzbWlVcEt5ZkVsaFNCOTAxNVJTT1FfSGxvMXVpc2RWd1FOSGdvUy0zQTRsYXVEZzRvbVhPaDZWQ25DN29FLTRJdmF6b0c3cy1vOW5ZalhPUF8xWWpOeDdXSmFTcmpmTndWQTZhWFVQYWZrWURVRUR0NHNXSkJLRUw2TmJ1bjU5THBHQndrMW5pSVNqMy0yQVlHZkdUZTlIZjBkanU4NWhmVXoxLWZHZVJFbm9qM09qRHZfQjFT?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 18:02:00 GMT",
+          "description": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch La Jornada Harfuch vuelve a Sinaloa ante la crisis de seguridad Aristegui Noticias García Harfuch encabeza entrega de 40 patrullas y 28 vehículos blindados en Culiacán, Sinaloa MILENIO",
+          "source": "La Jornada"
+        },
+        {
+          "title": "En Culiacán, Omar García Harfuch encabeza la “Estrategia para Fortalecer la Seguridad en Sinaloa”",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMkxJRGF2UWJVOWJCVEJqdFM5ZXNUQjJocHJwSHFISkFuanl1dGljUGJIN0x2Q2VteVJ5WnVXSXQ5cmFEeVdQaEFGamg4YzItX0VjTlF0LUNkY0xpQU5na1VFand1R2FjS3ZjME5XdjlnRkRYanp0ZnFxY0hQZ0NCQXVtSDZjVEpodmVwaEFHUUVzWlBhVDNiZGZZRlRSZU5YWXI5LVNuSEtyNll4V0F5SEFIUWo4OFdtalJ4QmxxbUNkQ01nelVwUl9kdjdWQS12LXNTWlJfN0JfU0c4Q1kwYTJmZmVMWWM?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 19:31:25 GMT",
+          "description": "En Culiacán, Omar García Harfuch encabeza la “Estrategia para Fortalecer la Seguridad en Sinaloa” Reporte Indigo",
+          "source": "Reporte Indigo"
+        },
+        {
+          "title": "Harfuch anuncia visita a Mazatlán, Sinaloa, la proxima semana",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcElMMWRXWFQtSWtPS1NuQV9ZUEN6b3Y4X0QxYjlMSkgxN3EybnhDYW5KMnFVNS0wc09yTXd6aUhHOXpkOW0xT2daVFl0WG85bGtlWXJpMUowQUo1TGYwclluQjdHTzZqdEQyRW1BV2QwTlh1VHg2T2RfRXB3ckI0UjZPOWpQNTZwRUFkdTFNSkFhQTJyS0xiTWNubkYwbFEydndaMEI1QzBGSTZ0TWVnbzZB0gG3AUFVX3lxTE9SbmRNdlllYVVYZGg2ZFhkSTYtZUdXM1o2UHdHZkhFQUxReHgwMVhrcUE5RDFvOFVpcTNRVUVPVFF6TlFvUXVIemFFekRrM3ZtcXlVZlZHdkFQTHd6T2hzUGRSZUJIbExyVnE3b2xOYVZWMmhKTWI4d01fd3FxVkE5blY1NnJfVDVkRWFHNUNDUElFc2RKS3pvRjZQc1IyVm1SOE5VdEdTSnRVMlUyWURMMVBaQjFxUQ?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 20:04:00 GMT",
+          "description": "Harfuch anuncia visita a Mazatlán, Sinaloa, la proxima semana Luz Noticias",
+          "source": "Luz Noticias"
+        },
+        {
+          "title": "'Vamos a mantener las operaciones contra todos los grupos criminales en Sinaloa': Omar García Harfuch",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMm5aNC1Wd2Q3amU5cFltVjJJYkpJWk5jZjhOdVBZUE54X0YxcXBmZUlwRmJWSXRoQ3dmNnloa1FYbnNQc245ZWhPZ1Voa0wwcThUUUZEVFYxeEJac2FrR0tHLVEwbC1LUktVMUNUanVwYkl1U01WYjEteGtiMjFha2hIMHZtUmlPSVBPcG9fYlF5QW1ObFpXanBaVkpBSjM1cFJ4LVM5eW9Vd0VQc1Rtc0pCUmRUMThVWmQxRmM4aGtreU56WF8xU3ZfMXNoZHgtQUR6MnFxUFZmTVUyNmRBSTBUVUx1bGhqcTFBRVpxNmHSAfYBQVVfeXFMTlNKLUYzeUdxeVpMV2dlR0podG1LWW9PcTdQMGRKekp6QmJaU09RbEdSVTlUY2pGSDVXMFE2U3ZIclc1R05EUzltU29UcVVwYUlJN3JOYUlzVTlhOFE1VjllWmxIUV9KemVCbC1tbDdvUU9ZaU9jRXNXSnhXSFk2ek94QXU3Nm1HcFdEdEVhYmFCQ0tMaHBPUW5sRjRTSUFQSzZhZTBGdEtaM2REc2xRT1ZWUTBuTFBMRDVaUVpaSEVyRk1Ya1lTRnJSaVZKNFFrVUFpWnBGT2ZhQ1phbWUxWG1tbjlzQnNjM0MwTVdGdFRCdkFRWmRR?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 18:23:44 GMT",
+          "description": "'Vamos a mantener las operaciones contra todos los grupos criminales en Sinaloa': Omar García Harfuch Radio Fórmula",
+          "source": "Radio Fórmula"
+        },
+        {
+          "title": "Sheinbaum confirma a García Harfuch en la SSPC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUUtWXVqLXd2bWwxNnlXUGQyVzItWk5UbWlPUkpOR0xma3cyWVFKVENzQUZCY1NHWHByOGZsQzl5MUVaM2Z5cW93dkR3U3NFSktGUENJNklxcHFxamJKWGFQU29tNV9OYVhSM2VQMHU5M0JEVWVwT1pHSGVCV1VTOVNmczBkcWlrODZYUjhkQjJkLWJnM1VaN3VINNIBoAFBVV95cUxNbHFkUTlLdURsdG9jU2xGY3hSNnAxWDFCdVRpeDlQOUpld3Z3bVI4NFBLMHNXVHVGM3lLSHBqMFdOZ3BMZ1RZaHpiWXpFTWpPekd3TTBBcDVPdGgwZmsyX3hTUjZEVVhTQlVadWtNS1hKNFhDTHpPMXozbDh3U3VEal80QVNmSmp0bC12WmE1Nm9yN1Q4dkVEaUk3djRLamZ1?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 14:45:00 GMT",
+          "description": "Sheinbaum confirma a García Harfuch en la SSPC Pulso Diario San Luis",
+          "source": "Pulso Diario San Luis"
         }
       ]
     },
     "ricardo-salinas-pliego": {
-      "updatedAt": "2026-11-25T03:50:59.528Z",
+      "updatedAt": "2026-11-25T16:18:21.731Z",
       "status": "ok",
       "items": [
         {
-          "title": "Grupo Salinas revela cuánto ha pagado de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVp1d1F6X3Y3WW13cUthU1lDRDc2ZWZ6WGlaOXNaSE5jUnRXMzZwZlpISkxHMVA4Nk5CUG5Eb3pHSGRQSjVEazFTcXZXOVNtdEgxcVJ4ZVBkWnFwaUNRVFhoSlpsanV0YUo5d1VlNGQyaldzd1ZpN3FMT0pGcjhsaHgzMThpcC1ncUpxUEdKbElsZUlU0gGiAUFVX3lxTE5yWkZ5Z1NrZkd0emV2NzVLY2pyVjB6aml6OGtBSGlQUHhIY1NMdzY4MnFSb19pZjR0Z0JmT0dGT2FKZFZmTFdYWXBPaHpvRk1UTFVTdmtTT0lmV3ZXdUxUVFNFSGZ1TzVTODBKREtKR3JnYXFjZ3FQSG91VlVYaW1UWG81eGgxNDlFWnU3TXRPNEF5TFRITXgzUV9pdU9fWTFoZw?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 01:56:00 GMT",
-          "description": "Grupo Salinas revela cuánto ha pagado de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca Expansión",
-          "source": "Expansión"
+          "title": "Ordenan devolver permiso a casinera de Salinas Pliego",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYjBING1iRmJDNm1yUTVFb0pQQlQtNDlmVkk4bVlVX3c4YUlwUmg2MnlUQ0k1VWYzNEItN0Zud2ZDbkE2WW91OUxkSFlJbXBhMWlVQm9od0tib1ZKdEtWZnU2MnR3UjlfcnY3dE85RU91WmcweFFudUxWQy1BbUVDQVFjRjFqczhGMDdtVERUQQ?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 03:10:15 GMT",
+          "description": "Ordenan devolver permiso a casinera de Salinas Pliego Reforma",
+          "source": "Reforma"
+        },
+        {
+          "title": "Tribunal ordena devolver permiso a Ganador Azteca, casinera de Ricardo Salinas Pliego, tras determinar que Segob la suspendió por sospechas de lavado de dinero sin una investigación penal que sustentara la medida, pero su proceso de insolvencia com",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPT0RReExnai12UVdtZmFuaVdXVnFwTXNGSC1FTDJ5eTlFc0lqeHlzNE5IVE4tTi1wbjZqYkpSMVRHS1dTOVF4MkRjeWhvY2RrR0FmVTUzemZINUtxUVJFeS0xc1owTjNUY05VbW94bmpxdDdRNTJrNlVNUk5zVFU4bVA1aDJ1dHdneW1nN05sVFlseTNyVEdyUUhZQWxRbkppOHdtWGE2UWJiZ3Q0VFdQYjVpcVlaMGJHbkFUbjhLYlNobTVnZnI5QmtibHUxM2h2a2NlMGVnWmFrU1BrcUVuZFlCMmF3NXRaTjZvLVVQT0w1WVYyX0RLQjJzdFhEWWZESVhVRDJYN2hRNW4xN0FQcV8xaUpKaWVJbEYzMDM0TmFzcWdfdGJHQlNJRmJfTUFfVngwRDFMX1JfUUoyMVZxSjU2MnhCbXQ0dEtfZ2hnRkRHWXFOUW8wdjlRRWhPNFEzNWRHa0x0czdINFNPTHpCWHB4X3J0aXQzdHfSAZQDQVVfeXFMT0xZd2xCd0hTVkhDcXh5Rm04QWVkNnptNXhOZWdBMzkyS2FoRFYxalIxcl9qRHNad1QxUFZ1Mms5YjRjTjlhR2JienY2aHpCakRCbk4xME9pNExyQm52VzE1MFZ2OFhHaklWRDE1akNUbTdPRTI2ajlrWmVkaERaSVBJeWM0WnYxcDJRVzhKVGcxM053S2dCTXQyWk5RU3dNbEVQZVpiRWFBUkJCUzVvT2VWRFF1SkRJdUlmZmFHMXRzNV9FMS1rcjFQZFFpTGhfODB2RVdSbUhKU0Y5Si1QUUY0NGFUUk5VaVhXY1kzQTh4LU84ZXM3OE9SdDJyS0xHVGFhQWxYYlJPNHhaUnF5d3RHbTZtVG9ZMFB6ME00LWhiN2Y1c2RHR0d2MTk2cEFTbGZ1djBkQmE0bWY0M1lxZEVDZkZCR29FNy1hS0lwYmdLdkJfQlV0MkpfVGRmVUM3Z2lrYkxaMzNhZy12aElfNjRQN2NLcHFKSGxGaEhaandQUzhBUjdITkpZU0d6a0ttZHJ2YTI?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 12:47:26 GMT",
+          "description": "Tribunal ordena devolver permiso a Ganador Azteca, casinera de Ricardo Salinas Pliego, tras determinar que Segob la suspendió por sospechas de lavado de dinero sin una investigación penal que sustentara la medida, pero su proceso de insolvencia com El Imparcial",
+          "source": "El Imparcial"
+        },
+        {
+          "title": "“¿Quién va a devolver lo que perdieron mis clientes?”: Salinas Pliego reacciona al fallo sobre Ganador Azteca",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMDVWMUJhWDhZdlZtVmlZbjlfNTFUTFBHajNOVkl2Y0t6Y2tnd0JNQ2xsVkt2V3c1YTh4SWNZR0ZLdDZYZzg2QVhsTjBHTG51anJpZ0JRVVRyR2dZTk5HSldyRkdwVFNlTF9BR2ZGZWU3cEw0dVE1REI2R3RSZzJ2Z2E0VzM1YjVzUEJQSk1NR0ZucFRsUmxtX0Fzd0VBdzE2M3RtTHNLVDhaaXl2ME95TUc1enc5a0c1Q2d6Y3Mzc3RSVHIwamxUdWFicm11VzExWHM4N19mbVY1dw?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 00:23:00 GMT",
+          "description": "“¿Quién va a devolver lo que perdieron mis clientes?”: Salinas Pliego reacciona al fallo sobre Ganador Azteca sdpnoticias",
+          "source": "sdpnoticias"
         },
         {
           "title": "Morena acusa a Salinas Pliego de respaldar posturas contrarias a la soberanía nacional",
@@ -144,11 +158,11 @@
           "source": "El Popular, periodismo con causa"
         },
         {
-          "title": "Tribunal ordena reactivar permiso a casinos de Salinas Pliego; los incluyeron ‘al azar’",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd1hTYjVSS3ZwdTg4ZUVKbGlwM2l1YmNId2ZsUVFpSEVPWHJKMWlOZ3VtdF9MaTBkMlJLUm9IdGJNYlJXWG5yNFpSU1RRbDVRMXZhclhrNG9TUzI4ekVZMnBrQWtLVUljcnNMOUpkU0NpcWphQ1YyUjRISDRjWUJKeXlqTlhDNVc2bUVvbGowTXprZHhTclN5a1hTU0JveFl0V1JCa3p5Y2xaWWs2UHFQNEJWMHFKRDBCbEw2Z2RZYjZEZ0lhZGxNWmIteUhSaEs1VnlrbXl3?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 12:04:00 GMT",
-          "description": "Tribunal ordena reactivar permiso a casinos de Salinas Pliego; los incluyeron ‘al azar’ Periódico AM",
-          "source": "Periódico AM"
+          "title": "Grupo Salinas revela cuánto ha pagado de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVp1d1F6X3Y3WW13cUthU1lDRDc2ZWZ6WGlaOXNaSE5jUnRXMzZwZlpISkxHMVA4Nk5CUG5Eb3pHSGRQSjVEazFTcXZXOVNtdEgxcVJ4ZVBkWnFwaUNRVFhoSlpsanV0YUo5d1VlNGQyaldzd1ZpN3FMT0pGcjhsaHgzMThpcC1ncUpxUEdKbElsZUlU0gGiAUFVX3lxTE5yWkZ5Z1NrZkd0emV2NzVLY2pyVjB6aml6OGtBSGlQUHhIY1NMdzY4MnFSb19pZjR0Z0JmT0dGT2FKZFZmTFdYWXBPaHpvRk1UTFVTdmtTT0lmV3ZXdUxUVFNFSGZ1TzVTODBKREtKR3JnYXFjZ3FQSG91VlVYaW1UWG81eGgxNDlFWnU3TXRPNEF5TFRITXgzUV9pdU9fWTFoZw?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 01:56:00 GMT",
+          "description": "Grupo Salinas revela cuánto ha pagado de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca Expansión",
+          "source": "Expansión"
         },
         {
           "title": "En 2019, el hijo de Ricardo Salinas Pliego fundó una cadena de supermercados de bajo costo; hoy tiene más de 2 mil sucursales en México",
@@ -170,40 +184,26 @@
           "pubDate": "Sun, 22 Nov 2026 12:30:00 GMT",
           "description": "Ricardo Salinas Pliego (71 años), empresario, sobre cómo hacerse rico: “Solamente se puede hacer rico el que sirve a muchos clientes” El Confidencial",
           "source": "El Confidencial"
-        },
-        {
-          "title": "Después de decir Ricardo Salinas Pliego que planeaba sustituir a 15 mil cajeros de Banco Azteca, ahora dice que sus planes de automatización siguen y criticó la jornada laboral de 40 horas, el aumento del salario mínimo y las prestaciones laborales, señal",
-          "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxNWFJsX3VWNDBJa3lLbXVnN1U2Qjk1SUJHaElJdVF2VENZZjgxV2RWRVp3eXVBa0NLbWZNSmc5WDVVTHFBVzh3V1g5X0w0eklTaEFIVHBXRGRnTUZEVzFROEE1emJPbTdaZm1ibEFpQXBVUWVRRnI0NXNZVmN5c3BVeHg0eXMzS0taU0VtenU4RkFyRDVqa2pseGh6QlVkSXd2cS01Mmc3M1ZMN2J2UUd2cGlaMGVEYl9hdXB1aTlzSVVtMzRGVll4YU10SS1QdFNfM2lISGJJNkZBcXVpeUVQcFQ5ajFaaGlCVXJxTGxCOHV0OVU5em5CRFhHYjc3T3YxUi02cWJHQUQ3cjFQd2ZVa1FrcXJ5S0Utd0hubzJTb0JydWtycFZvWmxHMlBCMExnTnNkMDkwb19xbTNKRi00ZjBzdFNtUUxiNWNvMFlBNEdoNVNTLXFTMG5TRUk1a3hEa25UOGQ4eTF6SnlSeWhDVldSdFFfOHNJckR6UjExR3RkYXBhTGdiLTlyN0tPTk83Ylo3ODZ2ZnNqU29QNml6M1ZyaFYtblRfeWZBV2FZQmpDcExNMjFKQ0wzVWtOMXlkeVdMb9IB3wNBVV95cUxPTkJycDFSaTRQOTg1Q0cwVFlHWDc0WU9RUmdVOWxYTXY4Sk00aDlrRTJtTWs3TjJGYnRwQkdsZkxqby1fYnNBWDJxUkVwMzNHRVF2NWZPZlJsWUh5TVRodGk5eDljZDNGczR0cXNIZ2ZvRFJYRHJvSWM1VXZadExXbWNuLUpjTlVVc2RBazNSeDBFaE9zdEVzQlBnWkxpM2Nvdy1aT2lwUTItVndMakhzQVJBVGhjVnRtWU9sNFVCZ3kxMFZoR2dydTh6cnJDVGU3c2lLWmRfSDA0MzNrM09KUTI1Q2JJdFBLanQzbUw3YjQ5cktrckZMUlEyQ096TUdPNS1ra042ODJuZmtpMFZFUmNuX3NiQmo2OW9pWkFQUzJjR19oa0c5anBLX3ZrLXJnVDFqbGZiV1Z6TDlzRWFELXpPZXR3UW1VRTZwSUd2N19ranJYYUFKZEx0bDc3eVp0MlozaTJKM3o1ZWVlaDhZbzdpNTFhNXFrMG5NSDZIYTMtVy05cEtBSXZ4bU1UZnlDcFd6c3NSdndNYzVKbFY1X01xemxERk1oaFNCa1p1MnhfTkxKV2V4NmRFdEpDX0RnYVFTcUhsdmJ3cnBxbEphQ2FCYU5HanF1bDBOV2JFMA?oc=5",
-          "pubDate": "Sun, 22 Nov 2026 18:02:08 GMT",
-          "description": "Después de decir Ricardo Salinas Pliego que planeaba sustituir a 15 mil cajeros de Banco Azteca, ahora dice que sus planes de automatización siguen y criticó la jornada laboral de 40 horas, el aumento del salario mínimo y las prestaciones laborales, señal El Imparcial",
-          "source": "El Imparcial"
-        },
-        {
-          "title": "“¿Quién va a devolver lo que perdieron mis clientes?”: Salinas Pliego reacciona al fallo sobre Ganador Azteca",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMDVWMUJhWDhZdlZtVmlZbjlfNTFUTFBHajNOVkl2Y0t6Y2tnd0JNQ2xsVkt2V3c1YTh4SWNZR0ZLdDZYZzg2QVhsTjBHTG51anJpZ0JRVVRyR2dZTk5HSldyRkdwVFNlTF9BR2ZGZWU3cEw0dVE1REI2R3RSZzJ2Z2E0VzM1YjVzUEJQSk1NR0ZucFRsUmxtX0Fzd0VBdzE2M3RtTHNLVDhaaXl2ME95TUc1enc5a0c1Q2d6Y3Mzc3RSVHIwamxUdWFicm11VzExWHM4N19mbVY1dw?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 00:23:00 GMT",
-          "description": "“¿Quién va a devolver lo que perdieron mis clientes?”: Salinas Pliego reacciona al fallo sobre Ganador Azteca sdpnoticias",
-          "source": "sdpnoticias"
         }
       ]
     },
     "hugo-eric-flores": {
-      "updatedAt": "2026-11-25T03:50:59.476Z",
+      "updatedAt": "2026-11-25T16:18:21.631Z",
       "status": "ok",
       "items": [
+        {
+          "title": "Tatiana ahora sondea una candidatura con Hugo Eric pero \"El Grillo\" Sada avisa que no apoyará su campaña",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNX0pLa1A1dmtFSnZ0aGd5VVZUTmJkQS1fd3VKQ1pJbWJBWER5aEhfSEhVUU51TzBGTGpaSjJYSU8zWV9uYWxnSUJCRElwT296RzNBbGdVVl9iU0NBeW9UbTJGeWsybTNUenZWQUhkbm9XRERWcE1rcDBxcFVvRUdOcTRjbmR4LUVMT1c3UjVicHhjRzhEQXplMmhyM1lDYy1LMDlFSS1leWFTYy01WmpkTGZ3NjdMY0ZEdE1oa19RcUh2UnhFbWVZeGQ5YmlDZGRPYVAtUUpVTENhLXJIT1dvNUU2ZXh6N0NsQmc4VNIB4AFBVV95cUxQTE1PYkQwS1lNdy1Jb0JESXh3Ql9qOERGYlVnT0JOVTRfNzFLZjlnTnBxWENHMFUyMElCZVhqbVMyc2c4OWZuN1RWYzdfaFAyRXJfOUJNcDNhZEJ3akh3U3d3SzFaVDNJZUdJUFJZMi1pSzhHQkF3SmlzUmpiOEVGcjlSRHZNYlFjaTBUVDFWdmN0ZHJBcWRMQU5nWnNld0Q1QVI0QXlYRXhCekZPZlJ0VGRPckpJZkdVa08yYnRHaXEzeEdsVVE2bm10UldQN0VkUDZXZGJ2UkQtVUh2TVk0Ug?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 13:01:23 GMT",
+          "description": "Tatiana ahora sondea una candidatura con Hugo Eric pero \"El Grillo\" Sada avisa que no apoyará su campaña La Política Online",
+          "source": "La Política Online"
+        },
         {
           "title": "Hugo Eric Flores ofrece disculpas a la población de Morelos por haber postulado a Cuauhtémoc Blanco en 2018",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbUVhY21xelJXRHk5ZUl4V0F3Wi1KR21XSzU3TWlNc2l5eHVoak9fQWxVb0hDU3BOSXhYZ0N4Z1dGMkZFc1VuLTcteXJOV094dTdnTXZfYVJEWDRQdk5aU0dQS0FXQlRnajJsVTR3N0ttN09mQkg4NzhSOXlpakJDOVQzejhBTU5wb1lvLXc4bElLR01qQmJPcGtpMUVkdmNDZVd6cXh3cXJieENxZUFBc2FKTDJFMjBXQkVydi1vbmZkVE8zYkhaRHNIWDNvOE9OeXZSOUwyX25RWk1mTXh1eC1tSDLSAf8BQVVfeXFMTlpFb0g3MVJtdEZJbU9IVHJlN244b04yMjlNcHVDMHd6M0ZlWnlkX3NOWWo0OHZnSWl0WmhQeE1rRGdlZ0VmSXZPZ042b2w3T0x5SkVHR3pOay1SYVVMcHVBUThaSTBwemxGdGVuQThlR1kyMHhPbGhEbkJ3Qm03TlU1MUI1TEQ3T1NhX3FZSDkxaHZ3LURpMHY5b21tRmZkOXpLT01qUVhRYWxSWHNYREtEQkxMdVNkMFdYUDdobUtMMFZRaW1uNmgzRHhxbTNNbUpQaEItNVFLT0pHN1NhYmtHSGp1SzNRaG83ei0zVFZxMDcyVGNPWndKX0xRbjJn?oc=5",
           "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
           "description": "Hugo Eric Flores ofrece disculpas a la población de Morelos por haber postulado a Cuauhtémoc Blanco en 2018 Infobae",
           "source": "Infobae"
-        },
-        {
-          "title": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUE82OUQ1ZFliYVRMZlBiZ3UwekEyRTc5QUpRelFtT3o5R2dVcFBjUXJfcVNBUzF2TDRZSmtnLWdCSl9ITVlSLTl6c1JLNDNNaGFPZ0JXWDJJcm1mSTZTWC01UXk?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 04:36:00 GMT",
-          "description": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo https://opinionciudadana.com.mx/",
-          "source": "https://opinionciudadana.com.mx/"
         },
         {
           "title": "Hugo Eric Flores pide perdón a Morelos por postular a Cuauhtémoc Blanco en 2018",
@@ -213,11 +213,11 @@
           "source": "Proceso"
         },
         {
-          "title": "Reconocer y rectificar: el sello que Hugo Eric Flores imprime a PAZ",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWhaeWVsNVVQWUZ1ZlFxOXVqdnZzM200VFppQ3R5Z2ZlR0lVTExaeC15elRyeG5RTnV5NXFqSXl1TDE0SHgyZkRmRjRQbjNORHQ4OTIxRFhoZnZZWEMwb0t2Qzh5VDZOQXZEaXlxSXZxLUdZdHZacnNtQkVFUXR2TUlBNVB0ekx5YkNhMnBEZ0FTWGY5SnY5TGx5X29FLWRTSFNGQmpYaEpCQ3M?oc=5",
-          "pubDate": "Sat, 07 Nov 2026 08:00:00 GMT",
-          "description": "Reconocer y rectificar: el sello que Hugo Eric Flores imprime a PAZ Palco Noticias",
-          "source": "Palco Noticias"
+          "title": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUE82OUQ1ZFliYVRMZlBiZ3UwekEyRTc5QUpRelFtT3o5R2dVcFBjUXJfcVNBUzF2TDRZSmtnLWdCSl9ITVlSLTl6c1JLNDNNaGFPZ0JXWDJJcm1mSTZTWC01UXk?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 04:36:00 GMT",
+          "description": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo https://opinionciudadana.com.mx/",
+          "source": "https://opinionciudadana.com.mx/"
         },
         {
           "title": "Hugo Eric Flores pide perdón a Morelos por postular a Cuauhtémoc Blanco en 2018",
@@ -241,16 +241,16 @@
           "source": "La Jornada"
         },
         {
-          "title": "Hugo Eric Flores pide perdón a Morelos por haber llevado a Cuauhtémoc Blanco a la gubernatura en 2018 y reconoce que su gobierno no cumplió las expectativas que tenía cuando impulsó su candidatura",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcGxZbFFVTXNDa0lvTG9OQkUzM1M0RTMzZ2NkWVhsWmFzd1ZfcHU1bWZTM0k3Z0VJMFZYUlloV3BoV2l6MVBmZVlsU1hPNmxEcUZLSUJUTGVRQTZzLUhOaXRvMThlWWVScFR5TXJCTUt2UktRdTZORlZfNW5uNzZTR05Pb2M4TkpLSGpxcXhjRDFTQ0JVdlhheWJvZTU5UU1MUU9tVThrSVNRNk5XYnZQUTN1WVVCeDVHc2tHYXp3Sy1fSGlwUFFFZWNnZUZNa3RrVW9SVU9vZFhHU0I3X1NtdDVMUGJjc28wZkw3VjlWWXZiSWNaRG1jUnRybkxTeTJaYUFzWHJvZExWVjhlTTItX0dicUJuWDJvX0N2YmRkV3FncTZYZHpieVJCREcyZF9EQV9KX3R5TEp2Nm1oRkdvS2l0T0Nra0F2RVZGVjQ3QXc4blFQMVZjb1JiV0tDX3kt0gH7AkFVX3lxTFA4Y1VtNmNpdFVPMXlJQ3BRUkV4OWtPNWl1NWx5U3ctQk5mWkk2NVNkMW55cGpqTFowLURGWTRhQ0pCTTRLSjJQVGJTeGRKV1hDb0hWSkc1VVRDbFhFbFc2dHVLZ1NaNU12UFJzNEx5VmxiemhOcnd5RzZQSHdNNFl5c2RMaW90a0tZVlRJa3hTcl9COXZZZksyc3M5RDRfYVZTUWRQMWNkYWdtRHJwbnVXZ0tvd0FTSXZjVmZ6WXFmaVk0UG9TNUR1bkRhWEtka0FSYVg5ajhsWDNMS3dhZXRtTkxleGhzN0FkRGZRMWlINnZWVUg3V3c1ZlRVYllJWlR0d1hBYTNOVXZxLWxHNEJBeU5meVBVeUI0Mnp5NkF3LW9tdG8tQ1JLQmd2TGk5a0pQQ1ZFSWZSemRaZExuNmtIQWJkeVlDa2dTMXFBd2plc2RxcFRUdTBSeGNIZlJMRm1UWjBWc2MxclJvdGthbGw4MGN0Sy12UjE1SEk?oc=5",
-          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-          "description": "Hugo Eric Flores pide perdón a Morelos por haber llevado a Cuauhtémoc Blanco a la gubernatura en 2018 y reconoce que su gobierno no cumplió las expectativas que tenía cuando impulsó su candidatura El Imparcial",
-          "source": "El Imparcial"
+          "title": "Hugo Eric Flores deja la Cámara para dirigir a su nuevo partido PAZ",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUlRWUngtblNkSHRrS0V3SlhZRGNNZjd4UXp0XzJpajRfSS1lbGRwRi1uNVVuWmNCcVB0anN4MVVJY2k2Y2c0UU44cDluQkJwVFN0N3VQMDdkMXJtdldKOUMwM0ZnWlkzQjZGbnZtZUhadnJCRG1MNHQyNEVRQ21tZEtMZHFRbnZ0?oc=5",
+          "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
+          "description": "Hugo Eric Flores deja la Cámara para dirigir a su nuevo partido PAZ Yahoo",
+          "source": "Yahoo"
         }
       ]
     },
     "donald-trump": {
-      "updatedAt": "2026-11-25T03:50:59.600Z",
+      "updatedAt": "2026-11-25T16:18:21.756Z",
       "status": "ok",
       "items": [
         {
@@ -261,18 +261,32 @@
           "source": "La Jornada"
         },
         {
-          "title": "En medio de la revisión del T-MEC con México: ¿Qué sabemos de los nuevos aranceles de Trump?",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZW5MR3I5SFVCWERqNVpUNVJWeVpsbl9OR1NaUVNjTmFPaEZSQjJiLXUzUmhZd29kSVVaWk1hQTkzWlJsaXAwOVROdktnOXJrSkQ1MmZLOXk3Y1FMcDhOcW5GdkZWMV93MnQwcmo1UXo5Q3NWNHIxeE5HQkpwLUdZbWw2RnJDZEpCbVRxT09ETEhaYVVEaGFSdXZzaWY0MGNRaWtxWEFEMzAwLXFLQi1hQlVWcUhCSkc1UWptOFpBTHQyYXZJd1E?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 20:11:29 GMT",
-          "description": "En medio de la revisión del T-MEC con México: ¿Qué sabemos de los nuevos aranceles de Trump? El Financiero",
+          "title": "¿Y la amistad? Trump propone nuevos aranceles contra China y 13 países más; México quedaría fuera",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUkRXVk9aVVVoOGNCV2FDTHNmQ3hPVW1lY0pfYlFmeG1DeXZaU1JWdXJRdkxfZ0MwaVRSNzY4ZE5fdF9JR1ZzYnNqZHdzWDN1eTJGSFBKT1ZnQlkzMTdzcDBUSnMwWDBjUXBJbDgweHh3bTFBOVFLTV9XQ2ZfeklFeVg5ZEg3TEhHNnNjQ05MemhlQ3dVTUpBZnljLUpFRThrMHNYS2hLTUVJcjlpQWgxeTAwOV90OHZ1cXhYLVpCWHZTOEVRWFE?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 14:26:22 GMT",
+          "description": "¿Y la amistad? Trump propone nuevos aranceles contra China y 13 países más; México quedaría fuera El Financiero",
           "source": "El Financiero"
         },
         {
-          "title": "El canciller mexicano confirma una reunión de Sheinbaum y Trump en Florida durante el G20",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYmQ1WGV2Y0tHemtIS1NwcXhnU1Fnc3loY3dNMmc2VzVWRUtPT0IycGswNExNRUdnMERmY2VTSWFPSkQ1WEZQSWFlaXVQMElNZGp3QzZJcmR2dlc5MUpsX2hrQWM0eHUwMUFsUGwzNEtxVHBFbWJRaVZPOHY3VGg3a2YwQVpRN1huUHlKdEx4VkRTSHpXRXYzejNqUWFHd0k?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 16:47:10 GMT",
-          "description": "El canciller mexicano confirma una reunión de Sheinbaum y Trump en Florida durante el G20 Yahoo",
-          "source": "Yahoo"
+          "title": "México, Estados Unidos y pragmatismo, escribe Mauricio Farah",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaW9waU1SdHFqOWR1Z0lfZjN4YUFibkFCNXQ3aGYxSG43TXB0aHpVSWh0c2E1Xzc1NEZsVHphaFZTb2xUUklVZU9zQXF2Q1FENDdvMXI4Y0Z6cFIyM3VjYzJvZTRuZ0tFSWxjZEp3Y1BUbC1DYkR2UGVXaHdrSDVmbXhsU1RWQWtCMEkzTHJHdVJITUp2?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 10:03:57 GMT",
+          "description": "México, Estados Unidos y pragmatismo, escribe Mauricio Farah El Universal",
+          "source": "El Universal"
+        },
+        {
+          "title": "México confirma una reunión entre Donald Trump y Claudia Sheinbaum durante la cumbre del G20 en diciembre",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLURLd2FEUnhmTnNTbUdkWm5jRF9Sd01WV3BWc1VVZWc1ZXZRdE5DZDZqc3FCMWp6eHAxSHFNZTA0eHFkVlNSTTdTTHhkaE9PSUJFMncyRkhzRVhaSm93Q3RxUEpKZDdxdTNRbzBoMHZLOGhfVlduQVIxR3pXaTVSYW96TV9XcnJabTFLRUtKclVudXBKRG5vRDMwRkZIZjdKenlnb1NJNGRuVHRyeXRxQVZjQlo2Nkxta05KNDhSVzRZOElSdUx3QkVXMG9kTnFLZmI1YVkwUmIwNnJuVmc?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 18:55:40 GMT",
+          "description": "México confirma una reunión entre Donald Trump y Claudia Sheinbaum durante la cumbre del G20 en diciembre Telemundo",
+          "source": "Telemundo"
+        },
+        {
+          "title": "El gobierno de Trump admite que Brian Morales es ciudadano de EEUU",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWUh0cC1XU1JXX094Ymw5eDhKczNsVHRlNmMyUnc4RTZ0NUtSckpPVGRSSzVrdE8xZ2RLLXNwRlhvbExwcl9EZTVDTGVYaTJNcFY2aVV5SlFwV0pRMTFfYkl3cEpBTDhqM04tYnJNd29qMGpGdVQ0dkttX0kzNmUxdWNkVkFnQTNObXZzdHY5RmJpb3gtTDY4My1BUTFRU19fc29wajE0MDVubThZUHQxeW1Vb0c4R3NCT0sxODNhaTNJSXpXbmk1WkFfX3RQT1d4VW9PT281cWRWWWx0TWJieA?oc=5",
+          "pubDate": "Mon, 23 Nov 2026 05:15:27 GMT",
+          "description": "El gobierno de Trump admite que Brian Morales es ciudadano de EEUU Univision",
+          "source": "Univision"
         },
         {
           "title": "CCE vislumbra acuerdo cercano entre México y EU para reducir aranceles",
@@ -294,25 +308,11 @@
           "pubDate": "Mon, 23 Nov 2026 14:31:32 GMT",
           "description": "Sheinbaum y Trump volverán a reunirse en Mar-a-Lago EL PAÍS",
           "source": "EL PAÍS"
-        },
-        {
-          "title": "¿El Chapo Isidro será extraditado a EE. UU.? Esto dijo México tras pedido del gobierno Trump",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEhNUVY4alkyaUw0Mlp3c3ItbUdnb24zMUZ2TERRbjB5WGhleHhaUUwtcWdWMWduWWZRVXlnVzdVVmNCNlVsOF9NZEhIMHV0amczSEZSLVBIeXBmbDNSenBxMHpmUmpFTENzWm5Lei03OGFCQjVhU24zbDNnVHk1Z1hsN1JvdUg4TVZhQTYwWkIyMlByMEJXS0N5OHg4cmFMNUY4aDZHTFVTZTkxaURTdXk2bHpBR3lORXptLUdWSjVLeVUzeUJJemYybHhjZ1HSAdQBQVVfeXFMTmVUR2pzb0d6RnotTnVVek5DSjJIaTJRdXJrQ1ktQnFfZG8wWTkwVFNDYzAyTDRQZGc5ZlctQnhOeEpPLTZUZFdNWWtvOTBUNEFrbVBzeHBqbE15R2ExU0JNVHZ6aFdjSEhzTVViN1VqVXI4eE80RE5vV2ZVZ0MyaUIwZUdpMlVNM3JLNVpBN05wdEx6d2FzYTI3NklGS3ZiMnBwRzRxVzdydlV6blA3TnlFbDhQYS1JR19ZcVQ2b1g5NWl2NWdfQ2NMUG14a2NnWTVXQlg?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 18:31:58 GMT",
-          "description": "¿El Chapo Isidro será extraditado a EE. UU.? Esto dijo México tras pedido del gobierno Trump Revista Semana",
-          "source": "Revista Semana"
-        },
-        {
-          "title": "Sheinbaum niega que Trump le haya dicho en China que los cárteles gobiernan México: “No se trató ese tema”, dice",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOGttQURta1dsdWtkVTIwM29OUk52NWlDUU52TmtXXzdVN0lfYWh2dnFzRV84YzE5UDU4c2lrWmo3akl2cktlNTU0X3V1ME1BU09qZzBLTWNXYmJkZUREc1JISW5QRi1SNEx6ay1CZ1k3WVJ3NVduNy12Q1M2cmk3VnJ3OUN0WVkxTTQzdnpVOEYwWEhjajh5bGVjTmpaT1VNbUNQQ1FJZk9XSE00dDZpSmlRZ2VQd19maFNyM1NXQ3dXQmRXYVk2bS1qTnJJNGRKSmtPTUNrakUyMmtiYlpYaXZ0cUdkTXRtMEY40gGGAkFVX3lxTE5PVlVrLUxyYUtHcFVVME81OF9fMUtfY3A2NGo4NUF6Nnc0UHJQZnJDTUp1MGdQbFdWcXZsamFDMTZ3RlFIMGpQTUlNUFA5RWVIcGR3bkVSVHRIX0NwejRsWnZodmh0RUxKMmlrZm1EWC01Q2xWa2lxSjBZdk9QQUJsNTgtTG42RTRoQ0hrbXhieVRTOE9CLXhnV0pncTVyVFl5N3hmdFZpVGJ0QW5SVmxkMHU2aHk2bVlycHlpcTU2SzRkdTVLd3REaWUwWlRZNlVfaXkta1pwOTlrUWhrRElHV3VVYkM5ODZfWjNYaDhpSWFySzZSaV91T0d1eTVBTjJ6WU80OGc?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 15:49:17 GMT",
-          "description": "Sheinbaum niega que Trump le haya dicho en China que los cárteles gobiernan México: “No se trató ese tema”, dice El Imparcial",
-          "source": "El Imparcial"
         }
       ]
     },
     "marco-rubio": {
-      "updatedAt": "2026-11-25T03:50:59.940Z",
+      "updatedAt": "2026-11-25T16:18:22.018Z",
       "status": "ok",
       "items": [
         {
@@ -323,25 +323,11 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "Rubio: México no hace lo \"suficiente\" frente a los cárteles",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1RLYTFSSUU1T3czQk9NejB1bi1qbW9CUFdlMWlvcHROZE1LQkJWQUlVTkdWNlRER1IxR21ReDJGZndRYk53S2NGZWQ2emo4Z1B3aGE5eGdhUE1uclp0amg1QTNOUkFCQXR6Um9qZ1dzVDlqanNoRjdpc0kwbnMtaDd6cDBfa0xRU3oxZUhJdXd0VmxPRC1lN2xFWTdGZHdjZFhCMkJVVHBUV1XSAasBQVVfeXFMTlJXbDBFY1NLRzZNcG82Zzk3dnI0NXp2VHRXRUlQd3hhYmRoTEM0MlZscU5VSEtLM2VoaGViNlUta2V4aUJUTlAtVnVmTEpDZTU0Qzc1MndnSUJBUGMwNU5uVC1ET3VDVW1GazRmME92UnAtSFI4NlFUQ3hzS0MzNmhnU3llelFyc0hpS3Awc3R5TzJvUVhVNkJPVmdwclNfSzRxVzViYlNzaXdZ?oc=5",
-          "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-          "description": "Rubio: México no hace lo \"suficiente\" frente a los cárteles DW.com",
-          "source": "DW.com"
-        },
-        {
           "title": "“México ha hecho más que nunca para combatir al narco, pero no es suficiente”: Marco Rubio",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlc4U09OOVg3WWkwS2RRb2xRdDFwMnNSTU1jS3g3ZGFmNVVwdjMwMmRJLWIyeTdPTnhlRzJfTlpHb0luSm1RTWVMNjBfRTN6OUh4QnVXVWw3M2xGZTlQQlgwdldvUjdqb2NGUzlPYXJuYVJKUjBTUDlVRnhDek9pbjZReEZGR2RVUE1vQzR1Vk5DeXM?oc=5",
           "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
           "description": "“México ha hecho más que nunca para combatir al narco, pero no es suficiente”: Marco Rubio Grupo Animal",
           "source": "Grupo Animal"
-        },
-        {
-          "title": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQejBrWGhBTzVrREFkQm40TENLek1uOEx6YzZNMmpyMnIydWZtTi1LZVc4ak0zb1AxOFhzY0U3QV9LVVI2Si1FcGxJRHV4TkpzNzZ6SDlpc29fbU5pZW5Pdy1UZF9sWEFieUFpUFJ2UDRaUlMwaWhWVi1IcFZYRXhHcTZpUERnRXcza0doZGZuS25vandUVkwzdndIZmdKa3F2X21TOVJQTWVlSDdzUURjSE05WHBhcFRobkZkTzJidFF2NXFrSGl5MUQwTGJEeHJWajl0bTFJQzd5WF9xLWxMdElOV3RxUThmakJRaHBaWEFSa1RR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 18:22:05 GMT",
-          "description": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio Gob MX",
-          "source": "Gob MX"
         },
         {
           "title": "Marco Rubio acusa que México no hace lo suficiente para enfrentar a los cárteles",
@@ -370,6 +356,20 @@
           "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
           "description": "Rubio afirma que el esfuerzo de México en la lucha contra el narco “no es suficiente” Telemundo",
           "source": "Telemundo"
+        },
+        {
+          "title": "\"México no hace lo 'suficiente' para enfrentar a los cárteles\", dice Rubio desde Ecuador",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNby13dlR0SXl2SFpVbkhPOVp1ekNYcGlITmhLMUN1bDZMMFFyQURRWlJ5NWQyWFZraGNiV0I0eFJ4YTlxR1ZmaUU1WTRGa0RNbUNFYjh6S2hGR2JiSGRSaTRzUkhNX1RDaVJMMWtkRV9WRzRPMDdHa1dpeF91TlhIdUppLXpDWXVTclB4YWQwZ19GYjZKb2l4ZTVBSThmbFZQVTRZUmRXMDdWSmVKTjBiRTBsQ1kzMTVQcUFYWVpaY2RPWTV4US1BX3hSSUZ2amU2?oc=5",
+          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
+          "description": "\"México no hace lo 'suficiente' para enfrentar a los cárteles\", dice Rubio desde Ecuador La Jornada",
+          "source": "La Jornada"
+        },
+        {
+          "title": "Marco Rubio observa insuficiente lucha de México contra el crimen organizado",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUzBJZFFOUkV1ektVOFE4ODRmQUZLQ1JweE91UnRmUmxienI2R2cwTGNYWk9RNEZ1WmRkOElGVTVXUy0tZEF3T1VsYlBtTEVvOEQzT3d6aDZPaER5NVFRM2dDVm84TnhYclQ1YnBVbGZVd0Exdnc1dzVKVEpkWll3Z3JtVlEyM2tzanR4UFRCYU9BMjYzOUxCeGNHOXlMWjJiTVhpc1k3bFBKT3JlUTVFVDMzWmRYTnlQb29iNlNfV3Z0RjdPM245azZBeTdOT2pld3NZcTVMc0NhQS1Tc2dZQUhRNzHSAeoBQVVfeXFMTUNucks2ZkRoRTJNeFBHY2ExMXR0RnZSN05yeVplX2tfa2hUVWVnWTVVdldRa25qVGFFS2xKTUVHYlVnMEpNNFhjOG9EWnVLVC1qcF9zbFFVOHdPcnROUWI2SzJDWi1HVHZ6T0hhRk01X3lqdHBRLWQ3MUhTamRCZlNTaGI0c193Q3ZnVWdtLTgyR3RHbGhkanRnRElDVHN4RUJLa01COGs0YlFHWUdEV1h3MVBfd0ttSUNsZnUzcm53eW9CRllCVjIxeWZPWnlWNzJhUlVxVE9wWjZVbzZ2U2ZhY18ycUJUOFhn?oc=5",
+          "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+          "description": "Marco Rubio observa insuficiente lucha de México contra el crimen organizado El Informador",
+          "source": "El Informador"
         }
       ]
     }
