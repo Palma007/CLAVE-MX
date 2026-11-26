@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:13:37.650Z",
+  "updatedAt": "2026-11-26T11:37:16.507Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -10,8 +10,9 @@
     {
       "name": "CNN en Español",
       "domain": "cnnespanol.cnn.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "Reuters",
@@ -58,46 +59,74 @@
     {
       "name": "Deutsche Welle",
       "domain": "dw.com/es",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     }
   ],
   "items": [
     {
-      "title": "Posponen al sábado el Desfile de Acción de Gracias de Macy’s en Nueva York por las tormentas previstas",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDVwN0RXb0diaFNndmxtTGljR3lfT0NNMFp2aWJtX1VscUpRV3hHNUxlX2FEc2MyeHA2V3dhdHdiMDRnbVp6YUZPVXVxZUFnV055YWVvNmtyMW9zZHJHOGRpTm0xdkJadFNhREw2bENSN3NsWjdLV1N2azFuUGZ3eDBaT2Zwck1Xbl81S0o0TGJFdnktekdrdUM1QU0xM1dh?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 22:37:00 GMT",
-      "description": "Posponen al sábado el Desfile de Acción de Gracias de Macy’s en Nueva York por las tormentas previstas CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "Deportes",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 10:46:21 GMT",
+      "description": "Deportes AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
     },
     {
-      "title": "La Shenzhou-24 se acopla a la estación espacial china con el primer astronauta extranjero",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUktazRKM05iN3Y4WGVMV090c0d5NF9uZEppSUtRNzBBREFTb1lfZ0dHZDhpXzRLby1UdWpfbnBKNWo4MWNESURFaVNXRERULWR6NUFVdEhBLUNodXJIQ3ZzQk0ycEp0SVliazY5WTFCYXJtMEI0ekxUQm5Kek9ocEJib2FreXZCRkZ6cUF3aHIwVm5ZN29KWWs5ZEJGekZEY2p1ajVVYnFnWEFWb3NUNmstdVd6WEHSAbcBQVVfeXFMTVh3WFlmc0VMaFpRdVprdFNYMWRkTi05QUxyTUpsLXdEM3lmS2lSUkZuYlYzY0VxS2tya3FSejVPZnBqdzZPbXdHVjhUSjh6ZDRBR1BCeDNfY3JvblptbjJnVlRLYnhHQVFYV1lNOXptRVB1cjAzN3FrYXJDRHE2cUl1eVNRR25VaFRGbDl0eGNZVUFpWElnT0N5dkN4dGJVRUxQZW4zR2F2Z1BmVnZDWmI0SEtXOGFJ?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 19:57:30 GMT",
-      "description": "La Shenzhou-24 se acopla a la estación espacial china con el primer astronauta extranjero DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Comer por puro por placer también nos hace bien",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vYk1zT2FydmNxTFU4Y0hDa0J2eVR0c1NsbUkzRXJVRl8wNjVPd3VmSGJIckVwYmNpZnRBYlJIclUwQU9WQ2IxeE9Pckh2OXE4TkI0UVlUZ19TN3hvUjctT3FfOWZQNnFGTExicW94N3RvczBxbHBRMHAycWhJVjQ?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 09:00:04 GMT",
+      "description": "Comer por puro por placer también nos hace bien The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
-      "title": "México conserva el trato preferente con Estados Unidos y se libra de los nuevos aranceles de Trump",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjR0RUN6TjNtRUxTVEdTWkQ3RHBQRjB3RGVmWDBWc1B1U0dqYzgxY2RQdlhxZ2t5b2lHMDljMWE1ZG1WRTdfSzJLWXhkMGhtSTJFazdqMXNnNzdsMGtBbTdEREgtSG50dVBTNFhrSW9xbjctbHU0Z093Q0lNTXlDRmlmdlE2aHhVVWxyZUlPcGtEa1RRYTlJdVpSWkFDZG94S29OWmZmZHdRWk5HWUF5WlQxRmo0b3hxRzRoVkROenpxNnhES0szbTBYcXBObEJGQmRKYVlXd2EzYUJscTV2YWZmd9IB9wFBVV95cUxQTVR1ajNLWXU4SENYeWhSRUowY3Bzb25oU05qbWpuMy1NYU5aTENwUHc0eEV3bEpZUWVDYVYwTDFtOXVPaGhQRUludVFncm1kVjVWeDYxRGw5Q3kzRHJzel9sbDhQQkl0Vm5KcWpPUHBOSmJRMmk2RWdMTmUwZDdSMG1kdVhNLUFsX3B1aEg3eVlKZkROXzZSUlJad3VidkRSMFR2dDZXeVRScVd4OFFfbXJ6ekVZOXhERmxNUnM4eG5od29yVzRUaFo4a3lfSHFTYi1mU25FdEk3WE12V0NmX1U0Z0pPdVBuZW1WLV91WktnOWtRNThr?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 19:30:37 GMT",
-      "description": "México conserva el trato preferente con Estados Unidos y se libra de los nuevos aranceles de Trump EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sZ0d1YUdUSlZHbldKR0swR2tjRUJfODlPM3FZbUZxZXRod3BFcWtwUHM1QkhET3hpcWVmUUpRRWxBVUYxRGJ0bDJ4N0NXUWJISXpSd0diUFlleDM00gFiQVVfeXFMTTlONWpuVF9Zb3pWemRvdjhtYmNVY3R0ZU5jLTZsX1lHYUxHUWFIbmF0akctS2Qxb251Rno0SzQzeUF1cFV1ZlRxWTdoV1hSMXMxeVhiWHhRMTB4Y29GMEp2dFE?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 05:08:34 GMT",
+      "description": "La España de los (casi) 50 millones: cómo la inmigración ha transformado el país en la última década y se ha convertido en tema clave de las elecciones BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
-      "title": "Polonia anuncia creación de zona de exclusión aérea en la frontera con Ucrania",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbXhHUzVNem5LMWRGN3J4SXhlX1JDalhDWjdESDBwbnFEaFZSWVhmbHkySy1lMUM4Q2hhZTNuWnc4S3JpeWZtWnVWenNhTDhQMXJ5TDNsVGxacGdIZnhUMFg1dURvLW1mcnczVS1SanNXSDNKeFJReDUxTFZBd1diYi1DcnkxU3ZZeHhwckljUTBjalhUaUQteUMwSS1pSTdrWTR5WkNsOGNUUE9sQ3ZKemNyOFRTZE5jcjVSZ1loSUdPLVVH0gHEAUFVX3lxTE45b1VYMXduMXVwVUJ3TVI3WWxRd2V4VmtFZTNnRHRTdTF4TXd1VzlvcmpTQl9NcFM2X2FxejhUWVl4YUNuVGczYmM2OUVpeDVES2xtbjRCeThPblRIdmprQU00bENscUFETEhUYkQxQk9KeWJxdXlOVWVCTkxrRnd4aWxtd01sTzVtRFlGVTVaQTNNd2ZpZS1DOTlDLWl4UzBuX0dDQ1F4V3N3NnczX1pxdi1zcG5QTVAzdUJnTlgzWnlhc0Q?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 19:23:38 GMT",
-      "description": "Polonia anuncia creación de zona de exclusión aérea en la frontera con Ucrania DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Las imágenes del asteroide seleccionado para poner a prueba las defensas de la Tierra revelan un cráter del tamaño de un estadio",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cWFqRW8wdTJYU0JEOTFET3BHYmd1dl9MTWZWNTlCdjRjTW05QVlMN0JETlZEU1F1YUlIMWRURXRRU2x1V2V6M3YxRlJobUhMRG1rYVB2SmFzUjN20gFiQVVfeXFMTl96b2duOXpZNXd5emRWWmtONVZ6cGFJdk9Lc1BHTUNWNlJMZE5KS3RaSkh2UWYwaUE2WS1Lb0xuTXQxRC1Wbm5EY0N2SjdrSXA5LVdrNkNTcmxVbG5jU3NkRGc?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 02:59:14 GMT",
+      "description": "Las imágenes del asteroide seleccionado para poner a prueba las defensas de la Tierra revelan un cráter del tamaño de un estadio BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "México abre una investigación al fiscal que colaboró con la CIA",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHBWd3dhOVZBb2JZYmJwc1RXek10MENQM0J1VmtQYWVfMWNYandxTU9UNU5TT3FKb1gtNlNyMGJIXy1Kd2N6eDgxRFdsQmwtVUZSNjhla2d6WEI3OFhVVEVtbGVRTU5PN1kwWDJYRnMzcWlxUXpJMUlrd21yVW53N0x4S1QxNXRyczZveDJxclpqbUtOckFqbU0yV2doSExybGplakI0MlZuclpITDNj?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 01:12:36 GMT",
+      "description": "México abre una investigación al fiscal que colaboró con la CIA The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
+    },
+    {
+      "title": "\"Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás\"",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56azVDYVMzR0FMdDFUeTZhVldnWFZHT29WdUdxOHhzY2VobmZsSDlYbGdweGZ5Q0NXS0Itd1c2aG5yZDIyQWJ5aDFUcHNtOXpVX1NGa3hCMG94XzZy0gFiQVVfeXFMUGNfNHNUWjFiQi1TS2FkMDZpNjFIMnhiTFc1SDJjZWM0dWdUNDRGTWFkallOV1d0U0NYUUFWQ283c0hWSUNTN21Eb1dqRmlDdDREalR3akxNVzZ2TFNZTFdUa3c?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:59:05 GMT",
+      "description": "\"Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás\" BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Muere a los 65 años el guitarrista de la banda de pop Duran Duran",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hNlZvdjJTOUFweTJZQ3BJLU92OUNHc3B3TEI3NFh4NkluQUJaekhsbnZfay1CX245WlowbFcxMUZObkFHbEtyZERXTF9jWk5qU1lUZDlEQnlTaGlW0gFiQVVfeXFMTlNVbmJ4YnY3dTBQZE9UVFpWM0hYR1I4cG1fdlQ5UzF5Z0tlSEFnWFFaZm5OcGQwaGROTlJjdkJGejh3Wm9yNGhyRzVFaFJfRERaRjVBek50LUNkaVNlaEJIbFE?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 23:29:14 GMT",
+      "description": "Muere a los 65 años el guitarrista de la banda de pop Duran Duran BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
     },
     {
       "title": "Venezuela data deluge cheers investors, but $237 billion debt test lies ahead",
@@ -109,24 +138,6 @@
       "domain": "reuters.com"
     },
     {
-      "title": "EE. UU. publica sin avisar archivos sobre Bigfoot y reaviva uno de los grandes misterios",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcE5QUE5OWElBY20yWFZzQTBOSTV3S29wRU9LdWtXLVVPOXU4M0J4di1RbXAxZlB3T2NCZ3puVjlNT21KYlk1cHA2dU5EalNxYWxpYTBMS2xtYWtWU0l2YW1uZEVOWm0yRGttWnhWWFMzWEItRG9HTk1HSTBiS3VSaWZUXy1jZzViaUdCWHpqT19PM2NRc0pxVWxlOHpjMm8tNl9pNHFYN2djZUt2ekNic2dJZlRkTFHSAbcBQVVfeXFMTS1TYmZoM18zempsT0pLeVo2QjE0Y2lJbkp5cGE0dFNmd3RjT3lmSmxjd1dYWUF3aXp4OU14YXBqVkRiZ3UxZUpPUEhENkNwdnlFQ1lPSGNmSGtRVF9nZElIYUFKaXk0VmRhOXpEUGxEMUs4WGhpcnFTa0xZTG0zeGhRa242UzJET29vTEp0MjBBZ3hWcHMzWnIwdUNhSENWaEppOTFJcEFBWWVrcjJDTGFhSEdHUGxV?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 18:06:30 GMT",
-      "description": "EE. UU. publica sin avisar archivos sobre Bigfoot y reaviva uno de los grandes misterios DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Puerto Rico es coronada en casa como la nueva Miss Universo en la edición 75 del certamen",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcHM0SjIwUC1vZUJqazliaU1RTmQxRC0yeXA2ektoNWt6bGVaUWwzc1pscFJzclBKTDVsRGZ1VWZOYVR1MHUwOHJQNWtXTk1sUVhPRk8yWkVWT09JOEREbktlc3BHQ1NfYTdCY1ZUOVVNVkxINEVUSDNCdnotQnEwa3pPT3R2aXFiRncxYzNTbXd0TU0wZ0FxOXBvdjlPU1lmdHhBbVRJSFJtUm5oaENINmRBQ3RNX1pUN0I5eUk2QnhTRDkwamlVeXhPcERWTk94ZjFnLWx0SzM2amZoOXE3S0daVdIB4wFBVV95cUxNVmlUcFF4V2txTFoyLVM1cGkzeklQX1gtWjY1aHg5LVdFSUlIWnBUQk5sdEZYTmZxQm5leXdjdnZiWU10Ym9pTUduMV91eVp2MnZxNkVYVEtvWHNoZWxYYmRsbWRiOElFY091NGcwX2ZjUWJkbmFPR1FUUGNUUUxNV3Y1RmlydERDMHpRZFBYVFAtck1EMU44d1RWWTZrOW5kSEpqbHhXYUk3MEppVXJhYWY0aFlGX3VRNzBDTC1CYjhXR0NJTW1KZld1WkVoREVOeTI5ZFRTa3h5QUthMXBuUndHZw?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 17:58:16 GMT",
-      "description": "Puerto Rico es coronada en casa como la nueva Miss Universo en la edición 75 del certamen DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "El horror revelado de Ximena Santaolalla: “Fui abusada a diario durante nueve años por mi padrastro Francisco Aguirre”",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHhTQ0ZUcjgtY0psUngwMEktTEdVNVlLTXFQT3p4eE9Ba0JhNkZPemF5TVBMbWJabEVwMGkwVWpKZzhuOXYtREJJV3dtS2IyOHJ1dGY5Y2ZjY1J1ZFdNdURubk5YX2VYREVBbkt5c2lvWVJLUjF2NUt6d0lzUGlCZ3dJQUxVNS15UFZ0S1R0SEFVTVBRNWZzSmxqenI0TXFGbzhqRWV1UlVSREx0cUw3MTlQY3BSQ3JqTHYtcHZzN3NWcF9kS0xDcHVMUldkSEtFTlZQeHpqT0FoU0gwTVpUaFZOMWtZRkZiWnpkX2ZR0gGCAkFVX3lxTE1ZMGoySUxtR3Q3TkhnRTBQSGdMb3RnWEFNc1ZaekQ3UlVjZmE1TXFydDdhbFBsV0JNQzFiSmg3Mm5pWUJuZ0lkOWdVMkZMU25rNFlIQzVLdHQyUmpwY193aTZldUd1SVBDQUI5eGV1Qjd0Qm9MekpsTXd3R19aRXhXX003ZnBrWE0zZXd2cWhBazJNNHhvRVYtNEw1d0V4Z3NQUTN5WXV6S3JIUnFiZkt0VHlGQTZ1MG42NmdUTFhLRXpWWEp4SFMzR3RWSHhlLTJPaXVwVlVoWjRZUWxNLWhjRFNLZHJfNUIyTUs4TU9fd3F6UTluNnZqS3RlaDB1Zi1FQQ?oc=5",
       "pubDate": "Wed, 25 Nov 2026 15:55:20 GMT",
@@ -134,24 +145,6 @@
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnRsMHJNUEp3QjFnV25pWHpLeTZod1BaZjY3LTYtdzB5LWdNbFBLVkZtTFJkWTZDNkg0NGpRVkZHazhmQ0JXdUd2M3UtM1c4R3Z2bWI3VDBSWUhqZWNyZWJfUW56WmtpbWR0M3d4ZHJ0c1lvenI3b0VWd1RIdTJZZHNvRjFVY1poMXZ0ZDhiQmFlY0Q4UVZUd3RXRmJwYWVnZ0E?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 15:24:53 GMT",
-      "description": "Eni, Repsol pledge to invest $2 billion in Venezuela JVs Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Izquierda alemana expulsa de su bancada a una diputada para facilitar gobierno en Berlín",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmJSX2RXb3NTRnlxWXhzdXFuNG9PN194MFZwOC1heVY0aGYxdkZJUEJYaVR1ODhsTHF4Sk1WVFMwVlN0MEVpWldQUzFvNXREaUZENk8zR1lXYXR4c2pXVF9QU1hGZFJockVUN0hfRjZPN28zTnNXbGtGZ0ZUU0ZJVlAycXVCUFczR1VSRWROZmZ3ZUtnUFJQamdLaGR4amstMjdlY3RMSXV1ZmFYX2xJZzI2dG9yV3RENk5rcjBIZ294U09I0gHEAUFVX3lxTE5vOWd4RUQxUk9za2NyYmdVMjMzRG5XMy1LbXdkaERaVWc5elFhQkk1aFVNc01HZ2JNaFBBZWs2SXY3el9NeDBNQ1dCMGczdXQzcmUtMzlMb2xYVHVPT3MyVGdadzlIcmJqb3VTZGN3Szd2R3liX3lMNHdBSVB2WFR2VHU5blZaeVpGNy1NR2xJNUdtbXd2WXJGZkNtV1BnMEYyekJRaDNfMVVfTXhtS3NxeW9HOG5FTnJSTWtRZlhfdjBPS3Y?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 14:09:15 GMT",
-      "description": "Izquierda alemana expulsa de su bancada a una diputada para facilitar gobierno en Berlín DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
     },
     {
       "title": "Trump propone nuevos aranceles a 14 socios comerciales y reaviva las tensiones económicas",
@@ -163,37 +156,10 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxQTFKLTZCTFBFaDFkdC1HUGRyLU5HcWZjay1sZHN1QktKdWJEXzFITTM1WDRZckV1Z09GRjk2ZjBkSWplMHc3WXFNeUdlakZxYngxRVdBVnNiOVJV0gFiQVVfeXFMUHh3dUxwN0Y0a1R5UTdhYkRVay1adG1JWVJlVThBZExzY2RuVW1mZDRxc1Q2ZVZndUktTFBYNVNPcTRJSVY0VW1DY0JXVjhFRUROeXg4aEhrdHZXYTdZb2pET1E?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 13:39:14 GMT",
-      "description": "Kilmar Abrego García abandona EE.UU. y viaja a España tras una larga batalla legal para evitar ser deportado de nuevo BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
       "title": "\"500.000 muertos\": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83elFhNXh3Z21nalBrdEhzaEdHSUdET2xIN3V6Q1lEMGtlcjVFTTVyN1VpS2VlN3VzNGdxd0pMSWt0NVNHZXNNNHFXWjBCWjNDZjdjR1diaXBycThv0gFiQVVfeXFMUHdGTFh3MFVRZU85U2U1QjhYTmRuMVVBNzYtd0NZX3ZZMVBfMm54dFZqcDhHV09RbDFNSzNZZEFUV0cxS0FtYXZ1ODhEVDhaSlhQTFFsQW8ydDdVYnJyNF9xZVE?oc=5",
       "pubDate": "Wed, 25 Nov 2026 13:29:05 GMT",
       "description": "\"500.000 muertos\": la filtración de datos que revela las abrumadoras cifras de soldados rusos fallecidos en la guerra de Ucrania BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Kilmar Abrego García, deportado por error por el Gobierno de Trump, llega a España tras salir voluntariamente de EE.UU.",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3pnWU9UMm5ndG9LQ0tHaHA2em1EZTEwYktXbmJBbmcwd2ZwMS1acmFFajhObHN3NHlsVGlFak1pc19VZHAxU3c2U1JsbDZQM2xkLTVNS3AyaV84elliSGsxckhDdjZLZXM0UlFyeERneUk5Vk9NWmpGR0dxMXpYY2F6VjhwQ0k2TnRiaA?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 13:06:00 GMT",
-      "description": "Kilmar Abrego García, deportado por error por el Gobierno de Trump, llega a España tras salir voluntariamente de EE.UU. CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pVEJYVkx6RkpaVjl5QlFXcjZrZGt0Qno1V0MtTG5qaW5iUmc1SmRiX1A2WlRDYmxBWVU2YnVZRjRINjVLQUtNUm1NQTZiMkdvaFBBd05iVEFPLXZJ0gFiQVVfeXFMTkdRNDVSWUJZVjJiR1ZUUnpvMVZRZDNwaFpDdThvbXBOQjlsMWRWU3p0TFppZWtsQ3UyMmYtRE5fMWR0b3dFdUJvcWgteWhVVkp1MUdvajg2bEVJeTZsdkthekE?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 12:45:09 GMT",
-      "description": "Cómo el brutal asesinato de las hermanas Mirabal en República Dominicana dio origen al Día Internacional de la Eliminación de la Violencia contra la Mujer BBC",
       "source": "BBC",
       "outlet": "BBC Mundo",
       "domain": "bbc.com/mundo"
@@ -208,85 +174,31 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "\"La chica del metro\", la influencer que pasó 2 meses en una unidad psiquiátrica por error",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10ZWZGNE5tX1VFZVkzM1ZieWRHbENfa1NOMlpqYkpwbDg3X2RVUXpfTFUtNjd0OHlDbE90d3dFZlk5MDV3eGw0ZTlCcEJDd1RqN1NsMXQxSkd4Qndx0gFiQVVfeXFMUFNlN0tkS3ZfNG95a3JJR0plU0ZvUllmWUxVclFpRUdjWHRPcm1kLXhNSG81UnJlaG5UWnpGeFpGeXB4ekgycndVT2taUnI1d0Nzc2x1RkRnUG9TbGxpSDJ1eFE?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 11:29:05 GMT",
-      "description": "\"La chica del metro\", la influencer que pasó 2 meses en una unidad psiquiátrica por error BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "La Junta asegura ahora que el cazador que mató a un oso en los Picos de Europa disparó en “defensa propia”",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOclg0eFNwbFJqQzN4aDBnaUk0TGJOaC16YnJ1dFBXRi12RkdSdUlEbUVkV3doWUFfZmYwVXNNdE5TbEU5ckNQc1Q0aXllVTBFdV9lSHRkck1yNXpSOWdUb0lPNFRCekY5cE1VajVtSFN0UE1pR2JOYjB3a21GalFfX25QSmtfQUdmbmpWZ2h3VVM2bTF0TEdObGZ4UmFMQ1NmZjJEZ2d3dE5NWjBVdUpoSTZJdHNtUVJXRmQtLVRtUmppaUdxWHdCX1NUQXdCMkg5dWYtWW5PY1FsWkpPVmNpY3JRTlFWVVZRb3lNUWNhaTJoWGxw0gGIAkFVX3lxTFB2bHJ6dVU4cEdObG9vT0k3NWlUUm8xMVpuNzAtZkJ2S3JIRl83QXAxQjBqZTQzSGlPMUI2RU1LcEFRWnQzb0NtTlhLbldDMTRUZk9iTzdSMWxIVnZtLTZWdDBHeFhYUVh2YzZMZDVuTEdGVlhiSWd5UXhNbTFWWktqdU85Uno4em5OWnhpb3RzaVRHNTV2X0ZqbThCTGtPOHRvNUpVeTdBQVVrcFplNE1lcnBKNUh5ZXVzTUp4N2Z2YmZWMEd2bF9XZGdYSU9RbjZVdk5zZVZVeXVkMVdFNEtiY1dDbGZ3VGRSbWNsVWNpcmp5SWJvZWRDSWg3VDJLMGo1Wm80UXoxVA?oc=5",
+      "pubDate": "Wed, 25 Nov 2026 10:11:11 GMT",
+      "description": "La Junta asegura ahora que el cazador que mató a un oso en los Picos de Europa disparó en “defensa propia” EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
-      "title": "El Ejército de Israel mata al jefe de la Seguridad Interna de Gaza y a su familia",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVdndldRSGM5R0RRYmdoanFydldTODFVdG12Y2s2VGpFMi1nT0xRZTV4Rm1DX1FYZVpuRnFuX3Rod0s5NWMxUFl6a2JWVFA2V0gxQmdVQ0hCb25SQ1l4UWplSnNuOGVjUEVqd1BubUtHTmJyOGxmbmZTeFRLSGF3TjhpVm5qSHBWdEpwekNQMVpmdTNMaktaNzc2ekF2aTFQTFdQOXVJb3JVbG9FQWJQZHBPVldOU0hDUVA0ZFZVZWVyOVoy0gHEAUFVX3lxTE5NQVRXYzR5RXJ0V2NheHlWeG1qM3VoUmJzNWJObjVKMXpzeEJEdmZfNk9OQ29RVGFOTXpVS2FQV1FOSDlyT1VTLTFkZW42Y2wtWXVDY3BCcDhlb3ZCWm9jVVlmOFd4dHdPdG5EOUJvbmoweVNGVU50bGcwU1Vac3k1R2V1bGFRTXI3UVlfZVRzckpDMmxOWmp6bzY1YWU1YklwdUtHdTVWUmtkWWJOaWVaUnlqNFBKcGxMcVB6djhLTTBRLWU?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 11:01:32 GMT",
-      "description": "El Ejército de Israel mata al jefe de la Seguridad Interna de Gaza y a su familia DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Miss Universo corona a Miss Puerto Rico tras otro año turbulento para el certamen de belleza más grande del mundo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVGpwMWZvRF9RS3E3VDNwZGtreTNsQUhRVVIzWUNmXzcwcXV1am5zTnQtVTd5OGxnclgtQjE2S0NId3BoTWdrcjg5cFQwaXRCODVEc0p2Qk1ETHQxLWFPeUpUaVJ4VGFUYUFNMTl5R19iSkN2QzdCb3BaM2VtYkhlcC1FT2lfNHF0WVVpZ251Q0Z2SDdXYlNJ?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 10:20:00 GMT",
-      "description": "Miss Universo corona a Miss Puerto Rico tras otro año turbulento para el certamen de belleza más grande del mundo CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Inés Gómez Mont abandona Estados Unidos y diluye los planes de México para desentrañar el negocio de las factureras",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQR0w1aGNGLWs0YS1aZFc3aTZxN3liU1duRGh6eHdVQjU0X3hqamxOREhsTnVVdU1JaHBpN21XUGRJSkVtQjJYU01NMnIxbVhGN254ZGdxSGJZM2dFRmdQNlNyeFBWNnU4aGxNODJOODM2VnZMVDJmTzN4NkhKdkZuUmFDaV9kdU50d3A3SWYzM3VJZWNTRDd2UW40U3FUZXhCZTlzRy15U2dNbXFubXBBTHdnQ1FRRmJrV1E1c2lqU1ZzZXdxSGRmQ3A0bG5zZU01dzlQR0I1eVdzaWZEdWtDUU05WHNsWDExWGlicldn0gGCAkFVX3lxTE5lUFEzNjRwNFpTQUNOUlVIeUQxYTBya3RkdXh5S0ptOGhxbzUxUkh0N3dZek9fT1lPc1AxTW1pc1RlZnRUTzlYdWRFYkFnUGZYTEUxdmF5bldJQVZMV1NFZ2Z2WFc3SjBWVGJFZFdodGF3T0Nya2c2NTc2Q0UwNnlaMHAzOW5lck5oSXV5cW8xTHBxSWtRQzhnVjFURDNrN0J5OGZxMkRMbk1Wc1pzVmRzQ1ZYN2RiWmZoN3B4enVwQ2dLRE9QT2tGUGJwZmtkRTgteW1zX2FPejQ1TUdjc0h1bHNuY25WSjRqWklsTU9QVWFXeUtCTVpvcDI5LWQteHBKZw?oc=5",
+      "title": "Nacido en Denver y deportado pese a ser ciudadano: el caso que ha hecho recular al Gobierno de Trump",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSHcteDRMUkxkS2tDeDljXy1CQWVxTjRIdFE2Q3E5VmxFT2premhSNmE5RVBsYTZBTU1tYWo0amIxQzJ1TDdWQXAzREZUb3pWYVVXVFRaZGZLNkpvQVlMbk5vemtvVTdYN2c3VUlmRWJ1ZnRDUkVCV3U4ei0wenUxSm9fNDhzc0cxNzdiVkFHcnlJZGdsNDFJYUdjSnEwVUNyQnplUFFrOFpMRTFyU21yZ3NFTVVSX1U3c0pCS3ZfaWc0cVNWNk9uS0ZrRUpSUHNPMWxNTXFuMnoyaHc3S3lkR9IB9AFBVV95cUxPV1ltZnZyY0FxZkEzczVqTUJoYlp6eklPMjA0Y0tjX1NtbkJvd0pVUFZpQjkxdE9oZGtGNmFjM3ZmX3J0WVEtUGo2c05HMGVKT2NPSXQ3M21JZGRfMGNVWmk4MUo2ZS1hQmNTVU8tM1NvcjBfa1dBekIzYUtQa0FMRU93MV9GU3BjWng2VlRNOVd3QlFUeU9DYmY0dnZRdDl4Z0QxMWVwaW51LVNaTmZ1bzZhWDVKYk9ETVZwbm5kdks3aVFNSEw0NmxzcVVNVDNLdkZuenZCZDFpNllLVnJKN2h4YUVqdFJQLUJXUkhnSnozdlBQ?oc=5",
       "pubDate": "Wed, 25 Nov 2026 09:30:00 GMT",
-      "description": "Inés Gómez Mont abandona Estados Unidos y diluye los planes de México para desentrañar el negocio de las factureras EL PAÍS",
+      "description": "Nacido en Denver y deportado pese a ser ciudadano: el caso que ha hecho recular al Gobierno de Trump EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
     },
     {
-      "title": "Comparador de los programas electorales para las elecciones generales del 29-N",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUjdCQzVSbkN2S1NFRHBYV0l0dWVqUWFXR1NaY2dXMVBfN1BiSGRFWDRLLVRVYkd5ajU1N245OWttLVR4czhEb1hXZ3AxY1QzWUxCLTI2LUNENkFXMTd4ZVFVbmY1dndha2JaWGxiRElqQ29pWnM2cWk5VlQxUjZacXVBN2U4WjJpWUlPRWFhNDh2b0lsZW1WcVJJQjBWT1RWQlJCQ1BNaWlhbGYzc3lscWRYdzJxSVpZbzI2clpLcFptN0MxSlNnNHBvNUhuaDdZYjZpd0l2SEXSAewBQVVfeXFMT0MwQ2NvbHVoZThoTjh3SWlBbkN6NVVKTm5yTXNNODZwX2k2SmNZRjNFY2s1QnpiX0YwcmY2WERTbzY2ejF6TjQ4a0dDQThiT0RXNGxIYjVpVXZhOGFUbmczWDZBZWlwZWtsTWR4cGNSYjdvM1IxZHE4Q0p6SUp4ZUxLWkpTLVlfc0NBanhnZ1pSUHVLTXF2Ny1CWFhsTWI5TUpUY09uMDhuaV9xS3dZSnJtalhjV1g0UGRIdkgzSXpLdUhTam9jUGJtay1ST1pDQzNHNnVfcTlYY1JPOTJGSDlUa2VlakRXaThKN1c?oc=5",
+      "title": "Una pregunta que agita la campaña: “¿Debe tener cabida la extrema derecha en la televisión pública?”",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTklkcDhubnFYc283WWFzd2llU2NOTG84bm9oTXp5YlUyOTRmY01Kdk42MnhoU1k3ZEtDbG9JSUlCUF9YUnBwLWNGY3R5bG5nQjl5NmlqSVRveVhZdWFmSkhGeW5kcUZKY1RPS2JkeGU5QWMwcllva3hmMW43QUhYMzhuQ2hFTFMtMW15WFpXVENuOXN3eGx3NjhYRXM1UWtfRmVncWhn0gG6AUFVX3lxTE1jM2Fud005VUt3LWJ1d19VUEVhMHhxLU5INlB4cnRsdlI5aUFVcTlZZnVoUnZjak4yWGR2MzZUbzNfeEdmWF84c3hyUXY4dzFRUXp6SmlCQ004NHRTaFpyNG9ncEM5RXhnUTdBX1RzWUN6VUpZT19lSVI3OE8zdHlGQlI2ekVvRjNRbDBKLWxuVjU1a0VrN0cwVVEwQ0ZfcjdMQTk4VWdQTVg4c1lzVFdraV8wWVZMdWc3QQ?oc=5",
       "pubDate": "Wed, 25 Nov 2026 04:30:01 GMT",
-      "description": "Comparador de los programas electorales para las elecciones generales del 29-N EL PAÍS",
+      "description": "Una pregunta que agita la campaña: “¿Debe tener cabida la extrema derecha en la televisión pública?” EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
-    },
-    {
-      "title": "“Necesitamos seis años más”: Bukele sienta las bases para una larga permanencia en el poder en El Salvador",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQmFyaW5mNndabzlFek01a2QtSFBTZmRHTWNNQVhXYXlCaWtLQS1LTUxvU1dnWWxsN3c4VlgtdE95dnlscXJtYmc4TzZucm84Qnh5andGcDQ1Mk9ObGpYSGFpSl9CelkzcXJUaTZTOGdPTXhFcUhqM0pib25tZXpIRnYzU1ExaW95dDFtWmVqaXdkanRGQk5RcHlQcGJlVV93cG9MN3ItZE03eXY2N3JNQTgtMThLOGVyNFlvRTRxRXRPWi1LZlJDVHRwVy1xY3ZzMHZjdFB5TFFSUjZzbXBya0tOUUFuY3FvcXB4dlBrSkhOaHFjSEtkSkY4QTBVSk0?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 02:02:38 GMT",
-      "description": "“Necesitamos seis años más”: Bukele sienta las bases para una larga permanencia en el poder en El Salvador France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Bad Bunny, Roger Waters y otros artistas se presentarían en la toma de posesión de Lula",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenlZcXR0aE1XaHMyUmN5M2hleEVWZmduZG1jVFZiVmJmcUx5cFctbXhFZ1VIbGdiVnF3WjFiZlRBMS1nOEVCQzZXcUZTNlQ0Uy15aUFtVEQxR00wQlVGTWFEU2VqN2p0RGg4eUR4MGR3Zm5ic1lLTUZYc0ZlY29WZm5iNmp3MEZGb2tUUVZB?oc=5",
-      "pubDate": "Wed, 25 Nov 2026 00:48:57 GMT",
-      "description": "Bad Bunny, Roger Waters y otros artistas se presentarían en la toma de posesión de Lula CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Kilmar Abrego García viaja voluntariamente de Estados Unidos a España tras 20 meses de batalla legal",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnpIbUFzZ2dnVXlaUy14cjVvWVJTUDduWENLVTJXTmRRSHpocmJfRUVnaUctRWpIb3J3bmNST2RNX0lXcHhWMTE2VEFpR29OOWhrQ2daeTRSeGRhMHFyRUFOMEhmaXJwTGh3cEUybDBsbmJqbW9kY0pITHlnX3FpMndEX2tCdDRTU2xndnVIR19jbmhxaWZGdFBXVFRLWW1WZ251V0ZDTXkwblIxd0Y0TWNFSDVrcms3OGx2RWtVRG5ieXZnWDZtajZCMmJERTM2RDJhZWkya9IB6wFBVV95cUxPdHFzVnBLempxWGFFbk82RWVFUUxycDZJdTEwTVhJOHFNd3V2QTU1eU1sdmJRbTRiQzM0Nm1Nbk1XalgzQ1dnQ0NqVEZ2a01RQ3RrbVllNTB3Zm1UWUtwTzJHNHJ4MXI0VXJ3S1p3U0VaTUJxVVU2M3JKMlNmU2s5SmZRbEJRZHVNQkZtRjBETkF0a0JFRmRRMUQxaU1tZmN0OEZNeXpWQ3o1a2VFa0dmb0R2X0xfUGNuV0JKX2xiZHA3c1piVm5tLVZpU3VXRTIyNEc3NTd1cTN3VGVDdjh2WWlJc1BZR0RxbWtj?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 23:26:40 GMT",
-      "description": "Kilmar Abrego García viaja voluntariamente de Estados Unidos a España tras 20 meses de batalla legal EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
-    },
-    {
-      "title": "Cantante iraní recibe 74 latigazos por cantar sin hiyab",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNjJQMllFemJhUmY5SVU2b3ZNRVVKMU1vWFI4ZXQ2aXp6Zm9jSTdCYmZDNXItMXhEenZZSUhiOERLTzlFempjX1NhRE1sZExKZVBCeC1jMHpWWE1leVctVW9GdlJ1NktGNnV3UVJibVJUSF9JbXZwQXRWSmZOajd0cWZYMFVZSWRhcWU1cA?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 22:01:30 GMT",
-      "description": "Cantante iraní recibe 74 latigazos por cantar sin hiyab CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
     },
     {
       "title": "Miss Universo 2026: ¿quién controla actualmente el certamen?",
@@ -298,13 +210,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\"",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Vc1NScEwwVE9aSWdIREZodWJQaUgwa1JJVENlV1BSckZVWVVDRC1OZDgzZ3lBZkhUUjhvVVBNc2dOeFZhRHAxZGpqR1hXNTBlYWNRM0djb25uVGx40gFiQVVfeXFMUG55ZGVwRG5BVzI0N21wTmVnMDcwcUg4TVg4SDl0OUhFd0thXzBBakk4WWR0bktqNlpzbDBPRFdYX0NNcU9WNUVpMHBGWWZGbEhoNk9BVEhzeldwcFdQSjdMTEE?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 16:50:33 GMT",
-      "description": "El papa Francisco revela en su diario que vio al diablo 3 veces, así como \"las puertas del infierno\" BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Colombia: rescatan a todos los rehenes tras más de 16 horas de toma en un supermercado de Cartagena",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdE96R25HSmpxQW9HXzUySWt6UldiUC1pRXQxZnNjcUFZVnQtT1I1MG14UFpyYmRkb0o4TlhudElmRXF0YVNsWjd1OWxDQlo1aVgyS190eVBRbnhQc0lnVkpTaVFsdDl1S2lkM2dhTlkxXzNQeVNYb3ZmXzFnaDI3S0JpWHlyVGJZYVFGSVVJRkRGOW5qNjBfZTd3OEpBaUs5RUp3ODBnUDN6UmxSZlBjNFNpU0hWVmlUUnduV2dIeUQ1S3NrX1RQSFk0WGZ5M2g2N3p1WGFuTnhVRFFsQ0N6N05TZGtOenNmalVMbWtVZlVBQQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 19:05:02 GMT",
+      "description": "Colombia: rescatan a todos los rehenes tras más de 16 horas de toma en un supermercado de Cartagena France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "El TAS devuelve a Senegal el título de la Copa Africana de Naciones y revoca la decisión que favorecía a Marruecos",
@@ -316,13 +228,13 @@
       "domain": "france24.com/es"
     },
     {
-      "title": "El papa Francisco luchó contra visiones del diablo y atravesó una crisis espiritual de dos años, según sus diarios",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3BxVWlMN1c0bi1QVUNaWlo2SG11T0RiZmY2X25KWlBZU1Y0RWxZbVUtOElVZmFWTHR0Ym45XzJyTXpaSktQNHFKdmVlTGJrRHplYV9ydjYyNm5wMDY5enFtV2l3ek9XbVZrbTFlMU9fQmFJcnlQd0tUX3JNbWZvZXMxVTM5cmg1ZkRxdVluZ18?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 11:42:00 GMT",
-      "description": "El papa Francisco luchó contra visiones del diablo y atravesó una crisis espiritual de dos años, según sus diarios CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
+      "title": "El colegio Decroly anuncia ahora su cierre y una inmobiliaria publicitó sus instalaciones por 16 millones de euros",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRkZMaVJIS29ReG0zRWhTR2dyOUZVN0hBX2VEQVZtMlZQQTg2LVZ3NE1lWjZXY1NmWUtrY0RJNmdrcjZ2WURFWHAyZGxMSWRuSXBLdEQxLUNGNzQwUWdXaV9CS0lFLXQ4LTVjQm5pbWNjendxWVBRbmxodEJFNV9zWkRWUC1ZX1ItdC1zay1OODNBcS03Y3VNbjhlWDJsSUNZVjRWdDQtdnd5MTFQdDIxVllUdHVRRUwtVEczOTBIOFRpOEQ2QUJGMWIyck9nNmNpVmJrRm5mNXJENzkzNm4yMDRUanBBUnFYQmJuSk9pNVdIUjlVQ1BHOVM0T3DSAZACQVVfeXFMTm03T3ExcHpRY1pidUxqRWVldEhUY0FBc2RwUUo4MTBybDhZUG14dHBHWk4wc19BMjRuQXFtUkRHeXl1Y2xTWmg1dVJXRjFCQ0xLRDZFTExWR2R3cUxLM1pKQnBReDdvMVBST3ExbktSUU1TQk1oR1FZSlNVRzhGSDJCOUVPRWFQb0EzdHdmcF9jUTdCRGZfYmJsZW5wbDZXMHRPdmpUamRVTDVvOUg4QWU0ZmlnZlNydm9YTW9ncW4zZE1FWkdPNkplWVJKNjVUbFgtT1Z2bFlKQWJwUm50WXN2ZDhzVUhFWTNLS0diMlltYVNOZ3AtcWdFanJPa0tyaGw4eUw0SGxRSVNqa1JlZTc?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 11:02:02 GMT",
+      "description": "El colegio Decroly anuncia ahora su cierre y una inmobiliaria publicitó sus instalaciones por 16 millones de euros EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "El papa Francisco asegura en su diario íntimo que vio al diablo tres veces: “No olvido sus ojos amenazantes y a la vez seductores”",
@@ -379,6 +291,15 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "\"The Hunger Games\" arrasa en taquilla pese al lanzamiento de \"Grand Theft Auto VI\"",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWk5IXzB1VVY0NlI4Ri0xbm9PVzgtSXItRzlIa0xKSExzWDNKcXdsbzFobHhxNmRaV0oxdk5VQzZfYlJubmM5akVHY1kwVjN1TUE5d0hNM1Qta3Nvb0RZZVdlZWdybGpTdHozRGhMUkYxaVBxUGJkazBEM2l3RXVHYkxZa2gySnVGbHJQVURsNTV6RDZwcWFFNFl2VENPbi1oWUc5UnhXNWJvRWc5RWZ6c2Uza3F5NzRfRDhlOWJEOHgydw?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:44:00 GMT",
+      "description": "\"The Hunger Games\" arrasa en taquilla pese al lanzamiento de \"Grand Theft Auto VI\" AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Drones, mensajes de texto y distracciones: cómo México capturó a uno de los hombres más buscados",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS2x4M3VJLWRQVlV4Y0htbGtvaUNpRnZKRzliUDVlV1JzdUdEb0pvR050dFpsZXRnSHBlcFlnTFFJcmdsbmFnU0htY0hUQW5KbFBnaVZxXzZnVmVUeWxWMWJ6bVVaVEpLOWhrMnZTR2p6ZnpoaXpvZC1HbDBxRkRTd3N0Y3lnOGVuNWY3cVM1Zw?oc=5",
       "pubDate": "Sun, 22 Nov 2026 18:40:08 GMT",
@@ -424,15 +345,6 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Las víctimas de abusos sexuales por parte del clero quieren que León haga rendir cuentas",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWN0cnZRMEp3OGU1NWEwcjBRVTNJdEMwR3FRQ1FsTjVMMFk1OHJaWkVJdUxlcUNyQUdRRk5BYjVscFFOWWRnRUgyRmozMnc5YUwyMWJOT2hTQjdNb3VUemtlS2MyeGh6R2NHc051cGl6RWlmcE81MnB0XzNPMTcxZ3hMcGdpZw?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 10:10:05 GMT",
-      "description": "Las víctimas de abusos sexuales por parte del clero quieren que León haga rendir cuentas The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
       "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3NIMFlEOTNmNzRFX3lnSlN6Uy11NmF4Xzdubmc2ZkNfeHdZRFFGY2trbjMwWTM0OTdZcFVoNlQzM3RiUHhGV0RQa0ZUcklDOWVSMGJBNDI2TzV3VEV0c2J4ZVVaYkwwTXEzaExkcElWTG9GZ3ZPOUZMX3pIc29iN1EtOEM2V3dETnA4YTFLaTQwZU5qMUFvcmFHMFVqZHlBcENYaUdDeHk0SFYyc2pxNg?oc=5",
       "pubDate": "Thu, 19 Nov 2026 16:17:43 GMT",
@@ -440,15 +352,6 @@
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
-    },
-    {
-      "title": "EEUU y Venezuela firman acuerdo para restablecer lazos militares, dice Hegseth en visita a Caracas",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaURQQzBaSUJLclNtT3dIN0dReTdQbUg2cHh6TXNuUHY4NkRCOW1CaUZNTXpQS200U1NMY1FibjYzak9kc1BhQ2JNb2JTelR4azluSVFoenYwcEpBZnNQWGdDVHBHNkZ0cnBQTkNrWkRDbnVJZWFIVEZtMFZ4R2I1OGxxc1U5YTI4Umc?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 00:46:00 GMT",
-      "description": "EEUU y Venezuela firman acuerdo para restablecer lazos militares, dice Hegseth en visita a Caracas AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC",
@@ -460,10 +363,10 @@
       "domain": "reuters.com"
     },
     {
-      "title": "Haiti praises Salvadoran troop deployment ahead of Bukele talks",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWVlQWmJFX2YzcXdxVVRVN0xnNk81eVllbUxaVm1Za1Nvc1dBWFRUZUJkNm5peExWcG5odVBxaDM4eVlORVkzelgtckRrSTIwMEFKSnJCR2N4ZDhIS1hST0tob0VTWlNIX2dTeVZVbWxzaFBlZkdvUGFsVHg4a2duZXJNTWZGbmRxQjZZa1pGdDc0aHNOalZXcm41OXVnd2stS1VSSC1PdDFSRWlZeGhaYg?oc=5",
+      "title": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5",
       "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "Haiti praises Salvadoran troop deployment ahead of Bukele talks Reuters",
+      "description": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru Reuters",
       "source": "Reuters",
       "outlet": "Reuters",
       "domain": "reuters.com"
@@ -478,19 +381,19 @@
       "domain": "apnews.com"
     },
     {
+      "title": "Spain's Melia returns to profit after completing Cuba exit",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3duTlYyeGo0a0p0cWpQSnFiSXVsT2wycVBKcFNPWjV1ZmxBbkZ6STN5enRHVmdNcE9LMk9aSUwydmNZdHlCOFJMWGUzdG1LbXB0QmpuZnF3eE5qRDFLcG8zRnhsNXBmWC03UnhSRldZQzVPZmVoQkVTMkZHMjJWY1ZxQS0wRTF6M0UtQmR5LTk5SVU2cExsQWx2NkxhdW5f?oc=5",
+      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "description": "Spain's Melia returns to profit after completing Cuba exit Reuters",
+      "source": "Reuters",
+      "outlet": "Reuters",
+      "domain": "reuters.com"
+    },
+    {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRVJJSlJpMU1pOTFqdklYV0hWYTE1blVVS1FUelNtV295R3lUX3VVWkExTjVsVVVtb1lvVmpacGs4cmZxR1RUVmdISVNNRjBMaFhuUW1Id0FJSGR4Zk9CTmd0di1YeVBsQlhzRjZ1SEhpZXpyX1hldDJHT08xNVM4REFrRndNSjRBX2pVaEo3amtYMFU?oc=5",
       "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
       "description": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay The Guardian",
-      "source": "The Guardian",
-      "outlet": "The Guardian",
-      "domain": "theguardian.com"
-    },
-    {
-      "title": "Cancer, lung disease, miscarriages: are Uruguay’s rice workers paying too high a price to bring in the crop?",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPekplc2NaZUhkZjJtVUtUYk4zXy1GRmw3VHJubFcxSFJ5cm1rdVdGNS1UTW51aU5JOG92Y3k0X01aMGE5MGRtZmtUYlNXSmY5RXROb3IwMV9pU1V6alh0T0cyVmFpbEZHazVUQTAzNTdVOUllWVJ3ckVveGtINVE5TDVNV2s5LUtFZ290RTNHLVFfRjd2ckl2YzBlRHpxbm9YZDNvZmJ2MXFjQV9vNmJmQ1p6cWtSTDA5cEVONTRiWDZmaUZpV0FFWXFxbGZEXzFpd19PTHNzamp4QTA1VzlNYzNULXFoVjViZnQ2REtYWDcxTTha?oc=5",
-      "pubDate": "Fri, 31 Oct 2025 07:00:00 GMT",
-      "description": "Cancer, lung disease, miscarriages: are Uruguay’s rice workers paying too high a price to bring in the crop? The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
@@ -532,15 +435,6 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | Una guerra inventada y 350,000 muertos en México",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmtNdWcydnhQc2wtYy00V285V3pDUDB4eHJObGh0Um1LZWRTdDlLOHpZeHB1Q3lFaU1KemdNX3g1TVpLZXhjQm1SMmhwV1hrallaeTA0a1R6c3FoYXlZVF9QaDZzVGtXQkRKV2MybDROaEhMX0F3b0pnR1JDU2NXakVoN3NBNncxSHloa0pvd2JPdUVqZjRvbjlKRWU1bUVTblIwbXBYTTQ1V2doMFp4QzNLaFFYeERySG9F?oc=5",
-      "pubDate": "Mon, 14 Jun 2021 07:00:00 GMT",
-      "description": "Opinión | Una guerra inventada y 350,000 muertos en México The Washington Post",
-      "source": "The Washington Post",
-      "outlet": "The Washington Post",
-      "domain": "washingtonpost.com"
-    },
-    {
       "title": "El abuso sexual en el sistema de orquestas juveniles de Venezuela, un ‘secreto a voces’, por fin quedó al descubierto",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOEdkRHhScjV1aUVCRGhwaGxlZmdFT253QVlUTHphcGZHR3hHbU82SjVNcmV2eXVVNUpKNURRQ3JqWEVLMXdXYTAtVmdhUGJ5eHNlNGY1R3Nuc2FZWUtrY3NpQUdJVl93N2Q5Vk9LaUpGMVYtVHBvYzBhUTZ4TENid0JyUklaUmFHbnlCaDdtMWNYTEhuaWx2c3VLajB4N0EwZFVQNmJqV1NCRFpmQ0hvZ2hhTkRSTkxOOWpmbDFlMTlQR1dPcF84a0hjYw?oc=5",
       "pubDate": "Sun, 30 May 2021 07:00:00 GMT",
@@ -550,13 +444,13 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Deportes",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKSWFUbk02V3BrdWJEU1B4SnVtaS03Y3JDVlM1emM2LTdBbUJlQWZXbllpNnJHMXVhcEhCY3BaX2ZQSEFCY1E?oc=5",
-      "pubDate": "Thu, 20 Aug 2020 23:27:51 GMT",
-      "description": "Deportes AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
+      "title": "Opinión | Las consecuencias del falso golpe de Estado en El Salvador",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUERTUmJLWkQ3Qy1wU3hKMGNCZ3Z4NkpyMXlDV0ZoVXo1ek1odGZPRUdKNWo3Rm5MWThvSXVMZHFiVW1mdXdzdTVSQWJUQlFaUmZwQXl6bWVxZGJUaVBjWEl3VHpjOFJDNGg0UkFVc3hCSFpUSVhuZnd6eHE2b1dMcTVoUExmZXFXRTh5aVhTcGVwSzdBSmVhXzVBd3RKZkVxRi1pZWdMbW4wbm1IdTNVX3JfdWNqWGo4?oc=5",
+      "pubDate": "Mon, 10 Feb 2020 08:00:00 GMT",
+      "description": "Opinión | Las consecuencias del falso golpe de Estado en El Salvador The Washington Post",
+      "source": "The Washington Post",
+      "outlet": "The Washington Post",
+      "domain": "washingtonpost.com"
     },
     {
       "title": "Opinión | ¿Cómo ganó el Cártel de Sinaloa la batalla de Culiacán?",
@@ -566,15 +460,6 @@
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
-    },
-    {
-      "title": "The New York Times en Español",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1NbTR0ZWZEQUJoZGx1b3RvQURtd0VIb09oUG5BaTlkZTBDQkdpNzRaVEZkZl85YjliY3RWVEZIb1gyUQ?oc=5",
-      "pubDate": "Mon, 30 Jul 2018 08:34:20 GMT",
-      "description": "The New York Times en Español The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
     },
     {
       "title": "The Guardian in Spanish",
@@ -590,6 +475,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTVMTDBaa21sMzFoRFJmeldsTDFDTks0NHRfWGxXbDR6eFhkaWhnWFRZbFhSSDZScDNnUzNTLXpzdmE3ZFF6WFh0QTBMbVZpNHFjLXNQc0ZRVkJnSlRXanZrWHNyb1VWU0ljZ3NTRjVmNGZzc0JOWEd5WUhEcWZHZTdLSHVraGkwN3NUZDF0WUJZdw?oc=5",
       "pubDate": "Thu, 12 Nov 2015 08:00:00 GMT",
       "description": "La crisis del agua de la Ciudad de México The Guardian",
+      "source": "The Guardian",
+      "outlet": "The Guardian",
+      "domain": "theguardian.com"
+    },
+    {
+      "title": "Escándalo en los medios de comunicación mexicanos: una unidad secreta de Televisa promocionó al candidato del PRI",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1B2UVFwd3lKUFl1Z2NFdUdPdmZwbU9OdkRkcXpZNTVFZ3ltX3dXbDdrdk5MZTd1dHRTbENJdWY1VFJ1eVJ0b2Nla3VScjh3YkJkck1ndldwT1RaNmlxN3I4V2lJeWZhdUpRMFptNURHdl9lVDlOaWNxd1dfR3JXMjdnV0pYS1cyRFNtOERR?oc=5",
+      "pubDate": "Tue, 26 Jun 2012 07:00:00 GMT",
+      "description": "Escándalo en los medios de comunicación mexicanos: una unidad secreta de Televisa promocionó al candidato del PRI The Guardian",
       "source": "The Guardian",
       "outlet": "The Guardian",
       "domain": "theguardian.com"
