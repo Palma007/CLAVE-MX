@@ -1,85 +1,99 @@
 {
-  "updatedAt": "2026-11-26T11:37:18.238Z",
+  "updatedAt": "2026-11-26T20:37:31.621Z",
   "perfiles": {
     "claudia-sheinbaum": {
-      "updatedAt": "2026-11-26T11:37:18.046Z",
+      "updatedAt": "2026-11-26T20:37:31.238Z",
       "status": "ok",
       "items": [
         {
-          "title": "¿Por qué Inés Gómez Mont fue deportada a España y no a México? Esto dijo la presidenta Claudia Sheinbaum",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLXNyb3AtOW1nMUhOeGd1dkRBZlpRWDNMTzJpZGpfa0VEZXVRbFVnZ0thZ2J5ZFdNYmdILTUtUzNMNllVdm1vMFlGRFdhTHZOYTIySnplRkNQaktsUUt4THg1bVpMZm9vaVJ1dm1NLV9NYVh4RlhNQ3dqYk96ck4yUFBLSnNfUWNxUGF4ODM4SEF6REJyRnJHSlhfV25IOWxJMzRZWFNMejM4ZGdaSHFjd1BLYTRQa1dBdXZQM1VxTmlZeEQ1Z2R1UFpTQWgwRFN3Q0tHOU5UblMyd1hvZjFRQVF2TmItbm1IcVp0RzBFWDE?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 19:09:14 GMT",
-          "description": "¿Por qué Inés Gómez Mont fue deportada a España y no a México? Esto dijo la presidenta Claudia Sheinbaum El Financiero",
+          "title": "\"Es injerencismo\": Sheinbaum condena pretensión de teléfono de denuncias de la DEA sobre corrupción en México",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU3RmOF9YdzUwTjRjYVdfclIxMGRGLUdrVXpGbU9TRmxDeTFQcEFtQ0RhOEcya3RHSU91ak9yVVNBbDZ0X25mazR6V3BHbTZlRHFJY3pqdDlFeDE2YnpLc2o1a180NGZ0bUFOTUJlMzRVNGNVYkZ1NzA3MXZ5b2xXQTg3dGZTdkZCUnFlaGpIOFg3QUVyTGtNMUk3am40NG81X21kbFVRN0ZWMUNaRjlWMFFKS08tT3ZrYlJzUzZlQ21kVl9LSWc2S2NEQUV6VG9qOXBpYzd1V21jMV9nbkFENU1jdFMyX0YzamlWaklqNFhneVZKRzRBMTZvVVJfZjdm?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:28:00 GMT",
+          "description": "\"Es injerencismo\": Sheinbaum condena pretensión de teléfono de denuncias de la DEA sobre corrupción en México La Jornada",
+          "source": "La Jornada"
+        },
+        {
+          "title": "Sheinbaum acusa injerencia de la DEA por abrir canales de denuncia contra cárteles en México",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZWV2LVBHMGtJcTRlMTUxTEpjbUJ2aG9YbEtBSXdIRHBUUzI2bVBVQklRa2lOWlJJU2xTZjM4OGgyak81ZTdkN29QbkNLXzByMUtOWngzXzBtTmRfZEU2cC1GRE8xNF9sQ1NTYlQtLXVZX1d1Sm9yYmhETnRhUmhWZUsySF85dF91SHkyMzh0OGhhQzBZQ3ViY1VEUzhrd0RPSkdjMW9kdFcxbEhOdXh4alRTTHlvRW5PWDIzc0VSYWgtVmxnZmV3U3hERHFJcU92UnVUSVhTbl9HXzFIQ09sQ1RuUmJ5Qm16QkFFY9IBgAJBVV95cUxPVHV6NUpEOU1iVm1YRUVaUEhvYm00RGhld1lmN1NrR2lyWC05a1E3MHlGT29RSHdwRlczR1c0cHI0UmE1Y0xfUWQxRVN6bDdqVzhRdVJxYkJweUlOMlh5UTQwT1FSU2JtS0hVV2VXM3RPUmpkTW5KYnZMX1dTdXZWbDJaTy1nUElrd21Mek5yVHdSTE5tZFpBbXVvOGxORDVpY0F4a0twc2VFbFhHTDJnX3ktWG1VOVdhbHVSWUtELU0tc3pJc0F2cXNEVEt0RWU0b0JsZnFJV0ZBdk5oN0JKdG5ZSTd4U3BaNXpvbTVDT25rcmw3NmRnWC1jRUNNRWRH?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:39:00 GMT",
+          "description": "Sheinbaum acusa injerencia de la DEA por abrir canales de denuncia contra cárteles en México El Universal",
+          "source": "El Universal"
+        },
+        {
+          "title": "‘La DEA tiene mucho que hacer en EU’: Sheinbaum reprocha línea de WhatsApp para denunciar a políticos",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2x6XzJXVWREaHhaUnp5SVJURXlaQ05QMGRKRUFZN1lGNmtqVi1OY2ppeTNKSGpmbGJYVlNOX0gwRjlvR3RiUG1IR2dyZjIwZ2RSZ3FPTzNUc09rV2U1Q2FxWVdva0pVWVpTRkN5TGJYWWxjYXpUSkVLSnFNMXdGbFN6bVgwSTNSekFoRElxZVB5RDFWZFRwWGd3bWZwdFRHVHl1YzRoaGMwNmFqQU1pUk91YmZFSldfazFaUUtR?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 12:30:00 GMT",
+          "description": "‘La DEA tiene mucho que hacer en EU’: Sheinbaum reprocha línea de WhatsApp para denunciar a políticos El Financiero",
           "source": "El Financiero"
         },
         {
-          "title": "La venganza de doña Inés",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTU4xYVJOYm1SQzNIc1JsQkhFZlc0R1dyUnhrYWJxc2h1MDU5ZWRyR0Y2dUcyZi1lbW5iamFVS3BIRHNzZWhkX3ZhOXRab1JBeElyX0pscUNMdEYtdDA5NlR5M0VTOHl2RnJmd3laQ2lnX2FnaWxaSzdTYV80OGdmcVJnekdXVEoteWhMSTVCMjkzSXlrSHk5eVA5YUhaaW8?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 10:28:27 GMT",
-          "description": "La venganza de doña Inés El Financiero",
+          "title": "México busca hablar con autoridad espacial EEUU sobre permiso de uso espacio aéreo por SpaceX: Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRWRNTjdUN2c5X1EwSWlYVnVYSkM0NGV6dnlCWlNOb1NGaUllVHd4dm9BbkNfdWh5bExGMmFiOVNSNjJFeXNkQ1d0SnNETlBMdVZmUDk0OWJXQWphRmt6Q0Z0bGwzZWdDR0l2QlhEM1dHTno2RFpWcWUwZm1nQkRLc1UtNkgxZExja21Ub3ZZeWVCM0VXVVE?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:41:12 GMT",
+          "description": "México busca hablar con autoridad espacial EEUU sobre permiso de uso espacio aéreo por SpaceX: Sheinbaum Yahoo",
+          "source": "Yahoo"
+        },
+        {
+          "title": "Sheinbaum plantea discusión con EU por lanzamientos de SpaceX en Texas",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeXNhSjUxNE51ZVA3ZURaWVhlLUJlY0FESTFZalRlUzRtMVlOM0FRek5ZVW9iOTJWTjkyVzlEMDJZOFU0enQ0T1U3S2FlUmZNV1pqSkstMVpwZjBXYklnbGlLYmJWVGQyS2RrTTBGZ19JRjZ1VnBfbWs5RGNaQmJVdkt0cUJMaTJiWnpIWWYtZThMUWRwYkM1MVQ5NF8yRm1tdDVWTk1SSDFaQWQ3RHcwaWYwVUIzOHdndnBFYQ?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 19:03:23 GMT",
+          "description": "Sheinbaum plantea discusión con EU por lanzamientos de SpaceX en Texas El Financiero",
           "source": "El Financiero"
         },
         {
-          "title": "Sheinbaum: México enviará nota diplomática a EU por permitir que Inés Gómez Mont partiera a España",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWlRzRHNRdmpJM2ZpaFhJZ3REaHhmSko3U3l3ajNiWG5lTWh5aC1OTzFmM3BEMmpoU2tOWHE5VldlSGRzdXRjejFucFctNmJjVGJjcGs3MlRobUJVMnUtV201SnR2VzF5NjQzMGJENXlXaWVUZnVSTVZQaXpOSi02MnZXaUVrMlVhTVFjWE9UbzhJbW5uNFY0VG85aF9feXhiallBejJTMVRrMHRDS2R4ZlllcG9uaWRLaG1BMS1abjNvTEpYa2RRbkdkWjh4ay01WGUxUzBtWmhTTWRsTG9BT3NQZ3JNSWM?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 16:03:00 GMT",
-          "description": "Sheinbaum: México enviará nota diplomática a EU por permitir que Inés Gómez Mont partiera a España La Jornada",
-          "source": "La Jornada"
+          "title": "Sheinbaum busca reunión con EU por operaciones de SpaceX",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUhDSjBrS1JpOFc5QkNHeHVER0diTTVQMFBDQjBDQUVOZnB6NDhJeUt1ZGNfMmV2ZG5qbldTeFpXQ3h3c25Mc3ZKQmhKdEJZY09hb0lqZkY3ZzhGazdhVEc1aGkxSEktemJkWHl3U1cxLXNLNGdKUkhGS29WUEJKcmVLRlFnLTdGSkdJMWtWYkR0UUxLb2fSAZYBQVVfeXFMTlRzVkotVkdXZjZlV2ktbjU0UDh1QmJsRkNqN0F6a1I5WTZiYTRuenlrWDRYZE1YM1BXWThfRXB3MjhwTHBNOTIzTE9oN0hDcFVnU3lFdnQ5TzR5OTh6empjRDB2OVRCc3FyR3ZDYWYxblcwOVd0WXFqajRmTlJ5TnNMbHVpYVp2OVV4ZlpoY2RKMGdNRXZR?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 19:23:10 GMT",
+          "description": "Sheinbaum busca reunión con EU por operaciones de SpaceX MILENIO",
+          "source": "MILENIO"
         },
         {
-          "title": "Envía Sheinbaum a diputados iniciativa para dotar al IMSS-Bienestar de una ley propia",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbVdKTEhqQ1k0WW44MVdEX1g2Q3BBOWVOalpzdjRSby1lNkt4VmxrUy1MaEduUlhQX0pxTE5JMWswX1JtMVBnYzZzemZTOXpVMGFvVWI5T2RnanBXWnFOYmM0WVVLRmtzYUZwSmF6em45U0Rua0NaU2JyTkdzNjVqMVluZzdLbVBtaEFIdDZsOVNCWDVsYzhNZ2ZUWWg5TERReFJkdG1QRVlEeGthSnk0ZkNzRjhZQjZLekRuN3Y3Qnd1VTZqRDZfRzRwSkxlc1JkWHJfNndB?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 04:04:00 GMT",
-          "description": "Envía Sheinbaum a diputados iniciativa para dotar al IMSS-Bienestar de una ley propia La Jornada",
-          "source": "La Jornada"
+          "title": "La mañanera de Claudia Sheinbaum, 26 de noviembre de 2026",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1dIaTNLRHNnTVp5RGNOQnNFTE9Ta2dPQTlrM1hsMFgzNVJBLUxDZTJWTkVEMkg3d09ZX2k0a0Z3WkFFYzdEZkEyMWVrZVI4SHozTzVVU3AwdlR0U21BdXJhZ01SaklRVnU5UWR0aWhRZEJzbnEyZjVVQjZsRU16azBOaXA3RlppRDVPaDlBQml5dw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:35:29 GMT",
+          "description": "La mañanera de Claudia Sheinbaum, 26 de noviembre de 2026 UnoTV",
+          "source": "UnoTV"
         },
         {
-          "title": "Manda Sheinbaum a San Lázaro ley para IMSS-Bienestar",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV19JOEc3elE1QjhpWnJPSXRkeV9HWXBoY2RBRTRDUnhBOXBTNExwa19jcEdQMnlVdTEtaFJQdW1hYWVWQUtSY0NTWDV4QlFwRUtXOG5jYVNRMHVEcEh3eDhlbnhKMWM4a0tIM2dNa3JUdkRqeURfNU5na1RIckdLSXhvdjlyVlhDc2tQcERvUQ?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
-          "description": "Manda Sheinbaum a San Lázaro ley para IMSS-Bienestar Reforma",
-          "source": "Reforma"
-        },
-        {
-          "title": "Sheinbaum envía a Diputados ley del IMSS-Bienestar",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzZhNUhON3ktMTBaemVrOUJGVTNLbU90ZXN2T0pfNGNzd3MyZVpYLXVtUkZnZ2hHM2xVb05iTnNESU5NMVFLREgyWG1zVlRLYWFGRVp3ZUJQbkNsS1hjemR0THFfZVA1c2dJZTNiR2h3cW5yTXFBN2VTUjctZF9qREN0RUozMG1LTlhIdzZjTFlYVllybjlKWkRLcG0xampXYUpIenlrT2M5QdIBrwFBVV95cUxPeTJ4dFAzVi1mMERoWUtsaW1OQTVQTDhWUTdZU1JuM081WUFQU28tT0pGcXl5Ykl5X1dGTXA2V2Vod3Z5UVNkbnlNVVZVUC1KaHRtTXAwV0U0ZGtnRlJKSmVzUEllMDVaQXlpSHVqVXFsSDhBTE1zSDhiRUhid3hmSThteVYwR0hJUmhlaXRWb3gzUzRCVFpqWFp0a1B4OTRIM2RTaDRxQUhpTE9WYldZ?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 05:06:58 GMT",
-          "description": "Sheinbaum envía a Diputados ley del IMSS-Bienestar El Economista",
-          "source": "El Economista"
-        },
-        {
-          "title": "Sheinbaum discrepa de la pretensión de EU para equiparar al crimen organizado con terrorismo",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORGZNRlJyaW14TlEtMV9wZENMTlRiQ2hhd1BYb1pscTNBOXNFQU1QZ25DcURaZmdPODZSTEVwTDMxVi1pZUFQWGJ2YWkyanVvVDBqQnFBS0xUMWJtS042YTRlOGZ3bUtmSDB3cFZ0WlBNMll4NC1zTmVmX3Y3NW5OTHFPXzZVN2E3VlB1UENFTUpnT052T1dTQ1oxWDVhT2hSdWlmcm5MSVQwNUVCOWEtSGdjUXpIOXRURDl1LWd2WVNHb3JqYjUyY2NtNkZlNWJBMGlWYlczNXcxZFZoazZLMA?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 15:18:00 GMT",
-          "description": "Sheinbaum discrepa de la pretensión de EU para equiparar al crimen organizado con terrorismo La Jornada",
-          "source": "La Jornada"
-        },
-        {
-          "title": "Claudia Sheinbaum le deposita $17,885 en diciembre 2026 a todos los pensionados del IMSS e ISSSTE con Afore que cumplan con estos requisitos",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOY0Q2LTl1NGpQdlJFeWd1ZmpQYWFCLWpJVFluN19EM1BySDQ4UDZsVXZDNzh6UWhGRnFFZkRfaDJBWE1TbGRDRV9DMEdQY3lKekFadjdkcUdDb01MV3ZBYUd5cElkdXlqLTVnS3FTR2Q5OC1idDd0QWVlRWNmSFl0b2oxeXdjc2xsQmJRWmJJRTMzQWRyUXZjQ1dWZ0FBSmhod0RRZUswZGY4eW5UOVlrVDAxSk9SdVNSS0JHbFA1bmppT0Vyd2M0bUJGQ1RXeVZFOTBadFFzQ2lETkZJMTY0YTVlaklZZzJkNXNRUWpYMmV1RTJBS3FKYnhfNE44UDRDaHdF0gGIAkFVX3lxTE1oTXd3SXNiQ0VjNGNhZno1UURTX01waFhVZDlZS0RYSllZSzAtVWVHNkZBX2M5Vkl0MEtlWmFDV1FYLVpBQUtmbDdjNmxRS3BwMWpCOU5kSzdFaDJGVmdiMGU3WmdzSTlXdXFWc0l2eUl1YmhVTTdCWnFwMk1jU2M2UHd5ZGVBdDAxdXU2Vk1RdWIzSGtWNUpKeksyTV9nUk01bkY2eDFMdG01WVc0cGNTUTRlWHNyd2JKdEh5R19rdHpWTWZzQ2FuQjRKTkt1Rmc4bXBVdzRpUWhOSjFOSUh6aV9CcWlwd21qYUkxQ3JCdlpVQlpFclhfWEJha0JkUDJPRWhDc1hxNA?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 12:52:00 GMT",
-          "description": "Claudia Sheinbaum le deposita $17,885 en diciembre 2026 a todos los pensionados del IMSS e ISSSTE con Afore que cumplan con estos requisitos Ambito",
-          "source": "Ambito"
+          "title": "Sheinbaum, sobre el caso de Ximena Santaolalla: “El Gobierno de México está con ella, ojalá presente la denuncia”",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPekJXRk9UYml6NHlud2xRdlBfMC1ab2NwVHZSZk1CNGxSUjFQSXVYUjRnZldBTVltNnh0STR0Z21SUWx0TjdGRTlJV0dHNloxTy1vZjJyRUxhY2ZENHI0VjlJTklLWkFaWG1jOUl3aTVPV05wZVFSUDA4ajJXcEZ6bE9ObTF6Wl9rOGFTSWZsU015WEhRamlEeHdNSHBya0tvN3dkbldndWJIUjhJYVROZzBLS3J6LUpZOTFnekhzZXFLRVNxUVZpS2NiT0J3OXhVQmVnODVfTHB2TkNRRXJ1R1BvOWzSAfgBQVVfeXFMTTFGeTBpYzByZV9jTjRfLUVhbmkwaXdhd3hpd0x1bDZuRTdnVGh4YTVRLXhVbmYxQzEya3FUUmEtaWh3NVFVU293X2xXanRHVTZnSGxsdkhBWnJCRzZlejdaUUlSRXZqYlVFa2lKMVcxZGJzMmFSNlpIUUdUeTc3NzhraVBYRTl3SHBHYkxMal94LU9iZGlNbjVEV0tYNjZ2cmJ1ck4yVG1zNUFScENuQlpBVVhaVGZPdkE2dGdJeHV6RUZaUlJWZTFiaWI0N3FDdllxS2tuZUJDdUZVLTRzYlBLOXUyTG4xRU1FTExYTDFUWnROQjZxa3Y?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 14:52:35 GMT",
+          "description": "Sheinbaum, sobre el caso de Ximena Santaolalla: “El Gobierno de México está con ella, ojalá presente la denuncia” EL PAÍS",
+          "source": "EL PAÍS"
         }
       ]
     },
     "omar-garcia-harfuch": {
-      "updatedAt": "2026-11-26T11:37:17.947Z",
+      "updatedAt": "2026-11-26T20:37:31.411Z",
       "status": "ok",
       "items": [
         {
           "title": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch",
           "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2NyM2tfRDlqZVBKZW1RVEs1UjYzbWlVcEt5ZkVsaFNCOTAxNVJTT1FfSGxvMXVpc2RWd1FOSGdvUy0zQTRsYXVEZzRvbVhPaDZWQ25DN29FLTRJdmF6b0c3cy1vOW5ZalhPUF8xWWpOeDdXSmFTcmpmTndWQTZhWFVQYWZrWURVRUR0NHNXSkJLRUw2TmJ1bjU5THBHQndrMW5pSVNqMy0yQVlHZkdUZTlIZjBkanU4NWhmVXoxLWZHZVJFbm9qM09qRHZfQjFT?oc=5",
           "pubDate": "Tue, 24 Nov 2026 18:02:00 GMT",
-          "description": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch La Jornada Harfuch refuerza seguridad en Culiacán tras operación criminal Milenio Fuerzas federales van a permanecer en Sinaloa: Harfuch Cuarto Poder Chiapas",
+          "description": "Operaciones contra grupos criminales en Sinaloa serán permanentes: García Harfuch La Jornada Harfuch refuerza seguridad en Culiacán tras operación criminal MILENIO Asegurado en Sinaloa, 20% del total de armas en todo el país: García Harfuch Quadratín México",
           "source": "La Jornada"
         },
         {
           "title": "AMLO nunca ha querido a Omar García Harfuch: Joaquín López-Dóriga",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUNKT0E1eDRUN2RRRjh6NlVSa1NJMWMtbVNkeGE0ZEFhWVc5Y2V2R0I3b1loQ3czbDJCWFdiTlFBVFdwUUNaTjVNblZFQWZaQjc1WVk0Z0l3RDUzQW43eEtnNm9DZGtaanhETVlJb0phT1FWZzRpbG8xcGxHTFlSeUZuQXlkWm94M0Z4WmFBMEx4RTJPNU1jd1hLeUttS1ZJNkxDeWRSVFpoRXV6SG96S3AwTC10S1h4ckwtaHk2VFJpOWs10gHEAUFVX3lxTFBHai11amZMdVdFNGxxLVEyb0k4VnFfM0NsTmM1d1lUT1REMkxwcExLNi05b3BNUlpZQU1xVEsyRXpObElSUl8tQklvSGFTb3I0anRNdEdRSl8tc3FLNmNHaVlDSVhuSmV4RkM4N0Eta0pPR0xFWVVkX3hmMnhpT2JubkpmTm1WU1gxVGJrYS1xcHozNEwxV2dVbDBaLV8yTjhhR0k2eXlJV18xcUR3X0VfSzRNUG44WjlJMmpaQlBJOHN5cjM?oc=5",
           "pubDate": "Wed, 25 Nov 2026 17:54:09 GMT",
-          "description": "AMLO nunca ha querido a Omar García Harfuch: Joaquín López-Dóriga MILENIO Sheinbaum descarta remover a Harfuch de la Secretaría de Seguridad: ‘No hay ningún cambio en el Gabinete’ El Financiero Claudia desmiente versión sobre salida de García Harfuch // Volvió a su cargo el director de Nvidia // Los viajes de Peña Nieto - Dinero La Jornada",
+          "description": "AMLO nunca ha querido a Omar García Harfuch: Joaquín López-Dóriga MILENIO",
           "source": "MILENIO"
+        },
+        {
+          "title": "Javier May se reúne con Omar García Harfuch y Efraín Morales para reforzar la seguridad e infraestructura en T",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVJEQXJMM2NFYWYxdWxOOU42MVdxQ0FDTktZWjgzOVBwVk8tbTZicVZsTkIwa0pKM1UxWGZxeFNyNTAyV0lsN3ZSN3ozSWZKZTNPTkhxb1BnQnh2M0JSMld1bExGQjhlZmZZWXdURVliTUxYR0JSZHhQYU9jdmYwNGRtSVZvWHRWQWVyZFVJemtjVjZEb1Btdnpn0gGaAUFVX3lxTFBJRXotMWRqdUJQR3JlQnFGRUhXN1FrU0s4OU54U2JwU1NoZ3VFaUlsT3RaemZXVEhoRERYc2xWVHZ5WWtTZGxNcmZGV0tUVjgxMkpGWC1NaGVkd1NaeFZBQmY3UGxPMUV5cndMdkhqR1ZrYkQ3dVJsTVc3cUVUS3ZCTzc3RDduS2NGWHVOcnU5Ujg5bDFzRm85SFE?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 19:15:00 GMT",
+          "description": "Javier May se reúne con Omar García Harfuch y Efraín Morales para reforzar la seguridad e infraestructura en T Milenio",
+          "source": "Milenio"
+        },
+        {
+          "title": "Javier May se reúne con García Harfuch y Conagua para impulsar proyectos en Tabasco",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWTJJV2ljd1E1dWZfWnZlTjh3TnhyQm5KUlp4bjYzZlhvSG90RHNSZWNGZkM5bHRteTRyT1FXN1dzYUJDbVRabU9BY1pXbGRXa3VtS1Q1cUd4LWwxZzlnQ3prSEY0ejhwVzNOODBNOHo1Q3BMVEhRUWNBSV9PVTRBNlVtb05ZQWZMQlEyazJRVFZWc1VkMHNTM1RGWVBocUVNV3FjRFJqaHFpVmllV0hRY3g5ZE51Qmt2R1F3dg?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 00:55:00 GMT",
+          "description": "Javier May se reúne con García Harfuch y Conagua para impulsar proyectos en Tabasco sdpnoticias",
+          "source": "sdpnoticias"
         },
         {
           "title": "Se reúne May con García Harfuch y Efraín Morales; busca apoyos para 2027",
@@ -89,44 +103,30 @@
           "source": "Quadratín Tabasco"
         },
         {
-          "title": "“Batman” contra las momias",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDZ2cUNzN3pQX0lWNDdJaTM2VHNVZGY0ZnhuanROU2tuSXdOUkF2NTNiMlJZYWplOXRBWnhTb2l0LWtZdzg3U0RQQUlmTUw0QXMzZDFMSW5xMEJUcUZEd2Q4WUJSQVYyMmpFMmtJTWhQQTRlNkZyeUkwQVVWY2FhQXplbGdKMGZ0bko1em96dU94REJuWnl3SXdjaFbSAaIBQVVfeXFMT1o3TWJNUUtaUjRiZFlRNHhEMG1aeG5kRnkxOVRlV0ZuSXpBUHZGckRQSEcyZTNaSC1OcnUwaHN1ZGpKdERhUm9BNC01YjBab3NGbkpnUDJBSWlKdTVnSGo4S0hOSTZMdVJUV1pzWWxUV1hKRFcxWFBNZ0NqLS1BMUFkamgxTnNlbFJHYjNxRmVEX0UycmgwcUpDM1RkUmotUVZR?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 11:05:00 GMT",
-          "description": "“Batman” contra las momias El Informador",
-          "source": "El Informador"
+          "title": "Harfuch confirma detención del presidente municipal de Atzitzintla, Puebla, por supuestos nexos con \"Los Zúñiga\"",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbTlsQXpiLTgtZGhEcmQ5QVBhLVZ4TWZ5eE9kQVBVUHFkQkF3SjBfZjlvSUQ4bGNNeGpDMnlrc2RqTnMxWXpPWDZaVEVxOUstTUZvNTNLNURWWk9oTEgwc2cxYWxBMW1OZXpMVllIYmxKZzFSNXhJYTFGTEVjRnV0T2lQcUM5NzR2WTJWUE5Xb0JVQl9aUmZsNm9GOS1acW1tNUhUSlJsUk9saXktOXZTSzQxZVhNd3NGUTJhaDJSc3czbndqaWRnX3JJYzVvdUJOQ2kzV9IB2gFBVV95cUxNRmwyVmV1VFFuU0l0Vk92UVF0MGVuemx4RVFob2xaOU8wY0hBTjUwMlVGTDNUUENMZFlrbmFmdnlnWmxoVFlnd0JPdVN5NW94czFyVDNWeWkwVUVXLXVYcjctZmZQLTlRRlJZcE9qdjU5ZDlkVjFnaXRQY1h0NzM3V1lQVVZVbXRPbU5nWG9HSVRRSHk2VXpRak5leEdZbXlMTFBMTFllbVYtRUdDYlhPTUg4eWZ5ZE91dl9VMmJ6bzFjc1FFMUFmaTlzc1pXSktTVjhfUlFOSGtQdw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 20:02:13 GMT",
+          "description": "Harfuch confirma detención del presidente municipal de Atzitzintla, Puebla, por supuestos nexos con \"Los Zúñiga\" El Economista",
+          "source": "El Economista"
         },
         {
-          "title": "¿García Harfuch vs AMLO?, Taddei sin prisa por la justicia",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1ZiczJCSXhZNmlzWnRwYnpuamIyc3BEOGM4OEo4MmdTQTVWYWZXbnozUWx4dUd5dVhaeWJ5NFk0NWhoNmdHa3I1QTB4bkx2Vm95ZWNEcjBLd0xON1BsbDJ1bnRtTmUyUmNKS2g2MkFicjdPTFpQelJLdGpEVFRNWVhmUWFQdTgwcW15SkVPYnE5X1VvOXYtUThaR3owQmN0?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 20:31:57 GMT",
-          "description": "¿García Harfuch vs AMLO?, Taddei sin prisa por la justicia AFN",
-          "source": "AFN"
+          "title": "Harfuch informa detención de alcalde de Atzitzintla vinculado con grupo delictivo \"Los Zúñiga\"",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeTIwYTJNczlKYzR4RFhUMzRLNnFVOTY4M1UwU3dDRndSWk1jNHkwNy01V0E4aGNKSnpnU2dfQlY1c1B4MHc1ck9FX0dxTjBfVER1Wi1kemZ3VFJvQ1lxem1ZNGxQV0FXV3NPVEdoa2F3dzhDajVxR2pSblFya3JjemZOR0tCZllqZmpmZmt4Y3YyOGZJOW1IVWpqeDJqVDhkeUNVVU1CZ0d0TXBydkwyaDh2NnlqT2FrYlQ5Umxxbk16Z2ZVSWxPMHZ4M21CZw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 20:20:02 GMT",
+          "description": "Harfuch informa detención de alcalde de Atzitzintla vinculado con grupo delictivo \"Los Zúñiga\" Zona Franca",
+          "source": "Zona Franca"
         },
         {
-          "title": "Se reúne gobernador de Tabasco con Harfuch para reforzar coordinación",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLUJoUFo1S3Y4cThsOFc4Y08wem83SWpyUzQwcjNZOUk4ZGhlMXhGRWNWUFJBYkp6cVhjaXJmYUVVSjNZY1hkczFzWUMxWlBPcDRPMGROMnpoVVpESU94MV9CNE9jVmZkZENxV1pGZG9odkVxRjZ4cUsxZ3R4MzJDR0ZXcFRPbUxCRkVOT1plZUhZNEktRFA0TkxGN0Fxdw?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 23:57:43 GMT",
-          "description": "Se reúne gobernador de Tabasco con Harfuch para reforzar coordinación Tabasco HOY",
-          "source": "Tabasco HOY"
-        },
-        {
-          "title": "El cobre y Harfuch",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN2JWNGR3VVBiYVFUMG9jeGZTTkpqSlo2bmtUNW04WUc3azYzNXBmX1BscWMyc096NEoxUjgybURoSHhTSHZGeDhhQmpVQ3EteVd4RUV5UnZtYzNYN1NOV1VhX3NNVWVHV0cxX18yLU9FY2hSTkRrTnc0TGItMlBnTmJEMmVVS3po?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 12:00:00 GMT",
-          "description": "El cobre y Harfuch El Heraldo de México",
-          "source": "El Heraldo de México"
-        },
-        {
-          "title": "Harfuch anuncia refuerzo policial en Sinaloa tras detención de El Chapo Isidro",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0xORXk3RktnTWpRUWZ0TXNwVHFkYWVxMHFZVDdDaHdXNDhzaTBGcjFqNGl5RXIyOUp4a3hKck5ZSks5TDVFVHhCUDBHSGlKNGtLODNZWFFoanlmSDh0LUJ1WVk0VnlnM0ljajZXMzcyQzlkdnNicWxLTk1KeHc4TmNMbkt6ZmFMLTh2RHBGSGMwUVdKTXA5SUItRU9DQUF1WDh4MlF0aXlpN1FtS2VzSFg2T2JxZTBJc2FBQjZ3?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 15:31:45 GMT",
-          "description": "Harfuch anuncia refuerzo policial en Sinaloa tras detención de El Chapo Isidro www.adn40.mx",
-          "source": "www.adn40.mx"
+          "title": "Cae alcalde de Atzitzintla, Puebla, por nexos con Los Zúñiga",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTFRa1QzOFAyajFXSnQtVHZpckFPTTl6WXNOd3JFenN3OTJ6NXpkenF4cVAtZjFvN19pZ01LLTIxcWNDOFFDN3V5MXZlU3ZHWGFVX3RXOU51ZWxyVmRqbVIwMmVNaVRIaGhpSUFseVdqZmtSYTM1THZmM0ozN0RkdHhXRlNaYTctVkFWUGpVMHEtbXNvSEFXNDBVQQ?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 20:09:00 GMT",
+          "description": "Cae alcalde de Atzitzintla, Puebla, por nexos con Los Zúñiga INFO7",
+          "source": "INFO7"
         }
       ]
     },
     "ricardo-salinas-pliego": {
-      "updatedAt": "2026-11-26T11:37:18.082Z",
+      "updatedAt": "2026-11-26T20:37:31.229Z",
       "status": "ok",
       "items": [
         {
@@ -137,18 +137,18 @@
           "source": "La Jornada"
         },
         {
-          "title": "Salinas Pliego llama a una “rebelión fiscal” tras pagar adeudos tributarios",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0xXZ3kxdVEwN29TTVFfRFdKblRDTkNEVjNUdmpzc09ZLWp5MThVVGc0OUdLZEZQQkZjZjVNdWttcEVsYklGM1FOWVlLal9sRm5mYTJTZy1KOUlUMnBaR0o5bkVyYkFYMWg3QldhNjhSeE5uMW1BeFRzOENMcHZFWlQtWmxZd1I2VTBVTFdzR3J0RG9VWmV0dk5PendrR2JaaTJaUkxxT0hIYlI0MGVYRXBjcXVSNFlNS09pM3lwdUtpZVpYTDVPTkRpWVZ1LW5JaFl1cA?oc=5",
-          "pubDate": "Thu, 26 Nov 2026 04:13:00 GMT",
-          "description": "Salinas Pliego llama a una “rebelión fiscal” tras pagar adeudos tributarios La Jornada Salinas Pliego convoca a una \"rebelión fiscal\"; pide dar \"batalla cultural\" que lleve a \"batalla electoral\" El Universal Salinas Pliego advierte cierre masivo de empresas por mayores costos fiscales y laborales El Sol de México",
+          "title": "Salinas Pliego \"no tiene mucha reputación ni entre empresarios\" para llamar a una rebelión fiscal: Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPeHJMajMwMVl1TnhvblJDOWFTcDJnaGpLazlKUHB6X05nYnlRWTBlNGhEb1dZZGFpM1Y3RzR3ZUgycnFuSG11bmY4TFRpWmxNaHo2al9yQlFVOVhNbFlfRURuTjYtaFc0QlNrUzBVcGpmVnJkejhlOWEtSTNYSUY2ak1ybDNuZ1l2ZHdyUlRZUnUzeFozUHVSQnZuelE2MHlmZDV0VF96djQtSDMyckV0YzFmcU5iZVd0a3hEc0dxSmdtU3Zrd01ITU8xZ2lUck5DMC1FTS03dExjcXBrYXpZbXJmb09IZDJGYUJReXNMY1hSdw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 16:44:00 GMT",
+          "description": "Salinas Pliego \"no tiene mucha reputación ni entre empresarios\" para llamar a una rebelión fiscal: Sheinbaum La Jornada Sheinbaum acusa que Salinas Pliego \"no tiene mucha reputación ni entre empresarios\" El Universal Salinas Pliego advierte cierre masivo de empresas por mayores costos fiscales y laborales El Sol de México",
           "source": "La Jornada"
         },
         {
-          "title": "Nueva multa multimillonaria contra Ricardo Salinas Pliego: debe pagar más de 2 millones de pesos porque TV Azteca ocultó información a inversionistas",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObTVPX2x1aEVkSXd4aXp6eXBhYkdOdUdEX2E5WTNRaU9jSHhZWDZXODR6b2NYTFJxbVl2dDdDbkd2WDhxYmZMRk1lUWpna2tmYTlvZWxOdDV4STRvX3VyWEFYa2tla2tZWmxJYl9FMm1vQXM5SHUweDFDRXNRTHFkSlpHckEtMmw4WWpxQkpiWV9PbEVTT0Rtd09salBmeXE4bjd2dDZBUzExTTQtMjBubWNGOXkxUm5xRWRBdWUtNXI0YVdzbXdVVXltNG85dXREd3hPalpRWXlHcUJtUzRCaThpS0VpNERKMDFJeFlhV29vRHNEYjFTWXhnS0lGU0J5RkM3Q0ZKbENQbDlSMDlQMHZGQm1tbnfSAZwCQVVfeXFMTjdmT1cxUmJySnVRWERlMXVMYUI4RFc0THlkZVdUQUo1T0xvOTNmSVI4dUxpSHdlUVhncDM4VjA2V0ZTR1hRYkJaLUZIQVE1eEo0WllNV0hRcFc5NUVITGYwTEFQczJwdUdhUU5kODdVQVJoOHh3MGhHQnVvQ3RWTHVnUGtvYUFkcnlEcVFpUDRKVm12b3JvSUozMW5Qakh6dEkzYzVJQUlCR1hydXlqSlp1UHJob1o2bmZ5dmVzbFA4UXktWlpXdGlxUS1SeTJMcXpkc2VBREZRdzJQdnJMaHlWQ3RBcnlBVkxXRUd1RmFPZmFxb0JaWkV4MFF6M1BZU2tIV2tUMjBDdDlSM3Y3UXU1QXo1c3hNWHFkY1Q?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 13:09:18 GMT",
-          "description": "Nueva multa multimillonaria contra Ricardo Salinas Pliego: debe pagar más de 2 millones de pesos porque TV Azteca ocultó información a inversionistas Ambito",
-          "source": "Ambito"
+          "title": "Vida, propiedad y libertad no son negociables: Salinas Pliego",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN18wM05uMEFoOGVIMVZ5VEs3X1VRS1AtTll2MnRZOXVuRDE2bDNEaEZ4RThOWWFHR091S25VcDcwT2VQRzhGQWM0RzZVdE9QQjhORnpoaVVoY0o4MmItSnE4UEh6c1FSb0o3UWNrU1NtMHI4WkIydFd0cUREQVBlZnRVTHlJZW5kZGRmUGtacUR2d2tHczRr?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 20:00:00 GMT",
+          "description": "Vida, propiedad y libertad no son negociables: Salinas Pliego Quadratín México",
+          "source": "Quadratín México"
         },
         {
           "title": "En 2019, el hijo de Ricardo Salinas Pliego fundó una cadena de supermercados de bajo costo; hoy tiene más de 2 mil sucursales en México",
@@ -158,18 +158,11 @@
           "source": "MARCA"
         },
         {
-          "title": "¡Revés para Segob! Tribunal ordena devolver permisos a casinos digitales ligados a Salinas Pliego",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbFk0cjR0aGZzX3lIN3ZPejdCNm0zaGoyLVB1dzUySW9oMXo2eThUYnRFNmlNNDMxUlhpbHd1M0U4QTN4anJxdGNaSlhkTnVHNkhfWHpIdHltMWFHaTZTSUk2U3NHRkFhNHMzOTlCZ1hVRzJfSXMxRWp5UndqOUdzd0RvbmpEd2ZkUDZpYnZvN2t1YXJ0bFN5OXZwYk5YOEVOd1FlN05ab3FyUFJhMFI1dGFSc1ROTXdvYzYxQUh3UXlocE1zSkFDY0pFbWN0Nk9TUDZzZGloSU1BVUpa?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 15:52:49 GMT",
-          "description": "¡Revés para Segob! Tribunal ordena devolver permisos a casinos digitales ligados a Salinas Pliego Nación321",
-          "source": "Nación321"
-        },
-        {
-          "title": "¿Cuánto paga? Salinas Pliego demuestra con pruebas pagos de impuestos y exige cuentas a Sheinbaum",
-          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeUdKamxxRzhxdDJWOGtBbWVjRUV6dEJCTU5QR3ljY3B0OFVIV05lVVpDd2NGbjVvY1lKd3V3bGRDbDR0VXdMcUU1WTZzejJ6OUhMNkFDRDEwdklBWWJVa3RuTlBYLUVsRVBTNVZfSGUtUXZFb2ZMSmZfRXQ0M2JTQTZ0b1h6MG1ReGItVE5nNS1FanM2WkRTUW8zaHBaYmZDVU9fT2dvam1qd2I5enpvdGQ3eXlwd3Z6REJLS0RCX0VLRGQ2TU5ud2twNkdRWmFXRVh4ZnhORDc5VUExakltSzByOA?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 18:27:02 GMT",
-          "description": "¿Cuánto paga? Salinas Pliego demuestra con pruebas pagos de impuestos y exige cuentas a Sheinbaum Debate",
-          "source": "Debate"
+          "title": "Nueva multa multimillonaria contra Ricardo Salinas Pliego: debe pagar más de 2 millones de pesos porque TV Azteca ocultó información a inversionistas",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObTVPX2x1aEVkSXd4aXp6eXBhYkdOdUdEX2E5WTNRaU9jSHhZWDZXODR6b2NYTFJxbVl2dDdDbkd2WDhxYmZMRk1lUWpna2tmYTlvZWxOdDV4STRvX3VyWEFYa2tla2tZWmxJYl9FMm1vQXM5SHUweDFDRXNRTHFkSlpHckEtMmw4WWpxQkpiWV9PbEVTT0Rtd09salBmeXE4bjd2dDZBUzExTTQtMjBubWNGOXkxUm5xRWRBdWUtNXI0YVdzbXdVVXltNG85dXREd3hPalpRWXlHcUJtUzRCaThpS0VpNERKMDFJeFlhV29vRHNEYjFTWXhnS0lGU0J5RkM3Q0ZKbENQbDlSMDlQMHZGQm1tbnfSAZwCQVVfeXFMTjdmT1cxUmJySnVRWERlMXVMYUI4RFc0THlkZVdUQUo1T0xvOTNmSVI4dUxpSHdlUVhncDM4VjA2V0ZTR1hRYkJaLUZIQVE1eEo0WllNV0hRcFc5NUVITGYwTEFQczJwdUdhUU5kODdVQVJoOHh3MGhHQnVvQ3RWTHVnUGtvYUFkcnlEcVFpUDRKVm12b3JvSUozMW5Qakh6dEkzYzVJQUlCR1hydXlqSlp1UHJob1o2bmZ5dmVzbFA4UXktWlpXdGlxUS1SeTJMcXpkc2VBREZRdzJQdnJMaHlWQ3RBcnlBVkxXRUd1RmFPZmFxb0JaWkV4MFF6M1BZU2tIV2tUMjBDdDlSM3Y3UXU1QXo1c3hNWHFkY1Q?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 13:09:18 GMT",
+          "description": "Nueva multa multimillonaria contra Ricardo Salinas Pliego: debe pagar más de 2 millones de pesos porque TV Azteca ocultó información a inversionistas Ambito",
+          "source": "Ambito"
         },
         {
           "title": "Quinta entrega: Los mil 200 millones de dólares que podría recuperar Salinas Pliego",
@@ -179,16 +172,23 @@
           "source": "24-horas"
         },
         {
-          "title": "Tras polémica con su pareja en aeropuerto, Noroña lanza reto a Ricardo Salinas Pliego",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSmxZUU95TW9VRWVtTkh3WVc3dzFwRXR4Q2cyZGVlMjlfZGxOcDVJdHZfOTB4ZkRTanpMVEk0OVgwSGZDSWliVWZCcDd4aUZrVUExaS10Rm5FQkpCRkNrbU9PY0RGXzNadFcyZmM5R1RGV2kySXRWR3JYVnE0a2JfUlFEa25EZVpzaFRQMnhZVjQ1eTlWeDdLa25wdjc4d2pBZzJaM2ZsVzNTOWtNV2JnUGw5N1JaVHUyRGxxdEVjUExjOVBaR0wzeDhQQzctWjBTVmtSVw?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 12:53:40 GMT",
-          "description": "Tras polémica con su pareja en aeropuerto, Noroña lanza reto a Ricardo Salinas Pliego El Siglo de Torreón",
-          "source": "El Siglo de Torreón"
+          "title": "Tribunal ordena devolver permiso a Ganador Azteca, casinera de Ricardo Salinas Pliego, tras determinar que Segob la suspendió por sospechas de lavado de dinero sin una investigación penal que sustentara la medida, pero su proceso de insolvencia com",
+          "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPT0RReExnai12UVdtZmFuaVdXVnFwTXNGSC1FTDJ5eTlFc0lqeHlzNE5IVE4tTi1wbjZqYkpSMVRHS1dTOVF4MkRjeWhvY2RrR0FmVTUzemZINUtxUVJFeS0xc1owTjNUY05VbW94bmpxdDdRNTJrNlVNUk5zVFU4bVA1aDJ1dHdneW1nN05sVFlseTNyVEdyUUhZQWxRbkppOHdtWGE2UWJiZ3Q0VFdQYjVpcVlaMGJHbkFUbjhLYlNobTVnZnI5QmtibHUxM2h2a2NlMGVnWmFrU1BrcUVuZFlCMmF3NXRaTjZvLVVQT0w1WVYyX0RLQjJzdFhEWWZESVhVRDJYN2hRNW4xN0FQcV8xaUpKaWVJbEYzMDM0TmFzcWdfdGJHQlNJRmJfTUFfVngwRDFMX1JfUUoyMVZxSjU2MnhCbXQ0dEtfZ2hnRkRHWXFOUW8wdjlRRWhPNFEzNWRHa0x0czdINFNPTHpCWHB4X3J0aXQzdHfSAZQDQVVfeXFMT0xZd2xCd0hTVkhDcXh5Rm04QWVkNnptNXhOZWdBMzkyS2FoRFYxalIxcl9qRHNad1QxUFZ1Mms5YjRjTjlhR2JienY2aHpCakRCbk4xME9pNExyQm52VzE1MFZ2OFhHaklWRDE1akNUbTdPRTI2ajlrWmVkaERaSVBJeWM0WnYxcDJRVzhKVGcxM053S2dCTXQyWk5RU3dNbEVQZVpiRWFBUkJCUzVvT2VWRFF1SkRJdUlmZmFHMXRzNV9FMS1rcjFQZFFpTGhfODB2RVdSbUhKU0Y5Si1QUUY0NGFUUk5VaVhXY1kzQTh4LU84ZXM3OE9SdDJyS0xHVGFhQWxYYlJPNHhaUnF5d3RHbTZtVG9ZMFB6ME00LWhiN2Y1c2RHR0d2MTk2cEFTbGZ1djBkQmE0bWY0M1lxZEVDZkZCR29FNy1hS0lwYmdLdkJfQlV0MkpfVGRmVUM3Z2lrYkxaMzNhZy12aElfNjRQN2NLcHFKSGxGaEhaandQUzhBUjdITkpZU0d6a0ttZHJ2YTI?oc=5",
+          "pubDate": "Tue, 24 Nov 2026 12:47:26 GMT",
+          "description": "Tribunal ordena devolver permiso a Ganador Azteca, casinera de Ricardo Salinas Pliego, tras determinar que Segob la suspendió por sospechas de lavado de dinero sin una investigación penal que sustentara la medida, pero su proceso de insolvencia com El Imparcial",
+          "source": "El Imparcial"
+        },
+        {
+          "title": "Salinas Pliego lanza crítica a sistema fiscal",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVDg1ZDhPR3J6WTNkaGdHSU10QXpmYXd3OGVlN3dCMHFINmtvaGtXOHVYZWNRTmh1LVh1U21UNFNZLU9TR29wWktPRTl0d3lEMUJiaXdaVlo2VF9faHR2dGZUcFBNTjVJN0hEMmsxMDRqaFpqZ2ZJc28yYWlwTTRHdWg3SmlMRGJFdTZjdFV5NVhMSXRlVEHSAbABQVVfeXFMUGtBSk5HNVJFOHJ4eTFDclp6UnB0RllOQmpfRUxOYWlJVFY0MHI4SDRULXhGdTZMVEc5NDQwU1luQmR1NFdkZ3lBaTlmNk5PamFFQmI2WUQ1Z25SMUJXZm9ZazRLdWVvWWNIM1lTaTZQd2pHMWFNcTlIVjl4dFRrZmRGc1EyNjdsR0FnaWNlNWtyQmpjNW9xQ2FRXzRleEEzRU5HWEZTX1JxMl9TMDVwdlQ?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 08:00:00 GMT",
+          "description": "Salinas Pliego lanza crítica a sistema fiscal La Razón de México",
+          "source": "La Razón de México"
         }
       ]
     },
     "hugo-eric-flores": {
-      "updatedAt": "2026-11-26T11:37:17.921Z",
+      "updatedAt": "2026-11-26T20:37:31.157Z",
       "status": "ok",
       "items": [
         {
@@ -211,13 +211,6 @@
           "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
           "description": "Hugo Eric Flores pide perdón a Morelos por postular a Cuauhtémoc Blanco en 2018 Proceso",
           "source": "Proceso"
-        },
-        {
-          "title": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUE82OUQ1ZFliYVRMZlBiZ3UwekEyRTc5QUpRelFtT3o5R2dVcFBjUXJfcVNBUzF2TDRZSmtnLWdCSl9ITVlSLTl6c1JLNDNNaGFPZ0JXWDJJcm1mSTZTWC01UXk?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 04:36:00 GMT",
-          "description": "Presupuesto 2027 en Materia de Seguridad Publica: Dineros Comunes para Vivir sin Miedo https://opinionciudadana.com.mx/",
-          "source": "https://opinionciudadana.com.mx/"
         },
         {
           "title": "Reconocer y rectificar: el sello que Hugo Eric Flores imprime a PAZ",
@@ -246,19 +239,33 @@
           "pubDate": "Wed, 22 Jul 2026 07:00:00 GMT",
           "description": "Hugo Eric Flores, el ilusionista La Jornada",
           "source": "La Jornada"
+        },
+        {
+          "title": "Hugo Eric Flores pide perdón a Morelos por haber llevado a Cuauhtémoc Blanco a la gubernatura en 2018 y reconoce que su gobierno no cumplió las expectativas que tenía cuando impulsó su candidatura",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNcGxZbFFVTXNDa0lvTG9OQkUzM1M0RTMzZ2NkWVhsWmFzd1ZfcHU1bWZTM0k3Z0VJMFZYUlloV3BoV2l6MVBmZVlsU1hPNmxEcUZLSUJUTGVRQTZzLUhOaXRvMThlWWVScFR5TXJCTUt2UktRdTZORlZfNW5uNzZTR05Pb2M4TkpLSGpxcXhjRDFTQ0JVdlhheWJvZTU5UU1MUU9tVThrSVNRNk5XYnZQUTN1WVVCeDVHc2tHYXp3Sy1fSGlwUFFFZWNnZUZNa3RrVW9SVU9vZFhHU0I3X1NtdDVMUGJjc28wZkw3VjlWWXZiSWNaRG1jUnRybkxTeTJaYUFzWHJvZExWVjhlTTItX0dicUJuWDJvX0N2YmRkV3FncTZYZHpieVJCREcyZF9EQV9KX3R5TEp2Nm1oRkdvS2l0T0Nra0F2RVZGVjQ3QXc4blFQMVZjb1JiV0tDX3kt0gH7AkFVX3lxTFA4Y1VtNmNpdFVPMXlJQ3BRUkV4OWtPNWl1NWx5U3ctQk5mWkk2NVNkMW55cGpqTFowLURGWTRhQ0pCTTRLSjJQVGJTeGRKV1hDb0hWSkc1VVRDbFhFbFc2dHVLZ1NaNU12UFJzNEx5VmxiemhOcnd5RzZQSHdNNFl5c2RMaW90a0tZVlRJa3hTcl9COXZZZksyc3M5RDRfYVZTUWRQMWNkYWdtRHJwbnVXZ0tvd0FTSXZjVmZ6WXFmaVk0UG9TNUR1bkRhWEtka0FSYVg5ajhsWDNMS3dhZXRtTkxleGhzN0FkRGZRMWlINnZWVUg3V3c1ZlRVYllJWlR0d1hBYTNOVXZxLWxHNEJBeU5meVBVeUI0Mnp5NkF3LW9tdG8tQ1JLQmd2TGk5a0pQQ1ZFSWZSemRaZExuNmtIQWJkeVlDa2dTMXFBd2plc2RxcFRUdTBSeGNIZlJMRm1UWjBWc2MxclJvdGthbGw4MGN0Sy12UjE1SEk?oc=5",
+          "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+          "description": "Hugo Eric Flores pide perdón a Morelos por haber llevado a Cuauhtémoc Blanco a la gubernatura en 2018 y reconoce que su gobierno no cumplió las expectativas que tenía cuando impulsó su candidatura El Imparcial",
+          "source": "El Imparcial"
         }
       ]
     },
     "donald-trump": {
-      "updatedAt": "2026-11-26T11:37:17.945Z",
+      "updatedAt": "2026-11-26T20:37:31.208Z",
       "status": "ok",
       "items": [
         {
-          "title": "Ni la caída de ‘El Mencho’ ni la captura de ‘El Chapo Isidro’: ¿Qué más quiere Trump de México?",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTR4X21mcmVpcS04NWR6RzdxVnhPQURyVmZxYU55TEhxRlpTSEUzSEo3WXNYWHM5aGt6N2VreVNQa1ZMWEV5VjBFQ3MxVmhkYlc1UkhJbjRSOThPZW5mQ2hNOGc5RFBOUi0yb3UzQmJKWjI1ZTk5bVlmeUJNeHpOVVRlRG56RU9qdnJ0Sml3WFlhME56Rk4teXVWV1U4ZUJOTThGSlg5aHdCVW5NT0h5V2tLVU1CV3pUZlByOHB5QWJkeUQ3UnZqZk5SQ2FkWHJ2WjQ3QVc5S1Q?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 18:10:40 GMT",
-          "description": "Ni la caída de ‘El Mencho’ ni la captura de ‘El Chapo Isidro’: ¿Qué más quiere Trump de México? El Financiero",
+          "title": "México libra nueva ola de aranceles de Trump: ‘Hemos tenido buenas conversaciones’, dice Jamieson Greer",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUmROQm53OTZXWXprWXp1ZllqM2wxNzBKNW5IeTY2a3NwVlQ1bjV4YUJaUVl2cWFTZU5MN3VTM0J2ZUxUTXhhdkVOOGhwNldOclZvaEFFY2F3N19jVk9rOWw1TGl4Vzd4VV9VZmNON3lVN2VQbEdGNW00b05lc3BnUE0yc3ZMTmVjWmE2cVFOZy1vWW43SUh1SWd3R1V1THVCWDNWLU8zTWxld1Bua2MzaTBWR3VuZ0hLdEpFdDNrYkdtb2h5aUxDRFhmaU1yWm5vQXNPYzVsRW45Z19xOHlSTG5uMHlpNWc?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 08:29:24 GMT",
+          "description": "México libra nueva ola de aranceles de Trump: ‘Hemos tenido buenas conversaciones’, dice Jamieson Greer El Financiero",
           "source": "El Financiero"
+        },
+        {
+          "title": "Trump quiere menos Asia, pero México le compra más que nunca y rebasa en 106,000 mdd a sus socios del T-MEC",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlAzZ2hKVVd3SDVoRTFIWjFnWEZhdnN3eGh3UVFmbHRmR2lEMncyX3JYMUFsSDhLY2I4eXB1OXFvUUo4WXRicGI0ZktvVWpmSFNYS0NsS2JjdHZJXzltdkxhQnU1bEtKendzMDZLdjF0RnFFRUMzMkE1VFlEU0dYa1BTanQyelFQUEdibktyZU5Ma3FQ0gGiAUFVX3lxTE9wb0dVeTBPMU9oZ1lncW5lbUFKbnA0elNQNzdoSVNWZmFwSVJDbk5nNmtZUjlUdkNQN21yRVJzdWFuUXAwOFZPOFVabE90ZzhvMTBVTjZZWFpQVkplcUlKeVhZektUVC1jV2NqYlFOeHlpOUluc1IwUE8wXzEwbk5uT3l0MUJEa2lpZmRGVENHa05acGtLUVNRMmd4aEZTOUo1dw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 11:55:00 GMT",
+          "description": "Trump quiere menos Asia, pero México le compra más que nunca y rebasa en 106,000 mdd a sus socios del T-MEC Expansión",
+          "source": "Expansión"
         },
         {
           "title": "Gobierno de Trump alista nuevos aranceles a sus principales socios comerciales, México incluido",
@@ -268,13 +275,6 @@
           "source": "La Jornada"
         },
         {
-          "title": "México se salva: Trump impone nuevos aranceles a 14 socios comerciales",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0NjVHJTcmczbDRCQnk1ZjFlNXRVeENRMHlsVGFHbHNLM0lUUXRDZlFwSXV3STRvSXRmNHY2UkhMenFIWTViOU8tTm4teUFiTTBJejRkbG1tVUlXVGQ5ekx6clYwNWZxdElfdXBMM3lCZUNWXy1pbEh5Qm92RDFRZEo3MDN6cEEzZkR2d3pmZF9pay1BZ21nR0ZWVHI3M2pDNWJj?oc=5",
-          "pubDate": "Wed, 25 Nov 2026 16:57:00 GMT",
-          "description": "México se salva: Trump impone nuevos aranceles a 14 socios comerciales PolíticoMX",
-          "source": "PolíticoMX"
-        },
-        {
           "title": "México conserva el trato preferente con Estados Unidos y se libra de los nuevos aranceles de Trump",
           "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjR0RUN6TjNtRUxTVEdTWkQ3RHBQRjB3RGVmWDBWc1B1U0dqYzgxY2RQdlhxZ2t5b2lHMDljMWE1ZG1WRTdfSzJLWXhkMGhtSTJFazdqMXNnNzdsMGtBbTdEREgtSG50dVBTNFhrSW9xbjctbHU0Z093Q0lNTXlDRmlmdlE2aHhVVWxyZUlPcGtEa1RRYTlJdVpSWkFDZG94S29OWmZmZHdRWk5HWUF5WlQxRmo0b3hxRzRoVkROenpxNnhES0szbTBYcXBObEJGQmRKYVlXd2EzYUJscTV2YWZmd9IB9wFBVV95cUxQTVR1ajNLWXU4SENYeWhSRUowY3Bzb25oU05qbWpuMy1NYU5aTENwUHc0eEV3bEpZUWVDYVYwTDFtOXVPaGhQRUludVFncm1kVjVWeDYxRGw5Q3kzRHJzel9sbDhQQkl0Vm5KcWpPUHBOSmJRMmk2RWdMTmUwZDdSMG1kdVhNLUFsX3B1aEg3eVlKZkROXzZSUlJad3VidkRSMFR2dDZXeVRScVd4OFFfbXJ6ekVZOXhERmxNUnM4eG5od29yVzRUaFo4a3lfSHFTYi1mU25FdEk3WE12V0NmX1U0Z0pPdVBuZW1WLV91WktnOWtRNThr?oc=5",
           "pubDate": "Wed, 25 Nov 2026 19:30:37 GMT",
@@ -282,37 +282,37 @@
           "source": "EL PAÍS"
         },
         {
-          "title": "México confirma una reunión entre Donald Trump y Claudia Sheinbaum durante la cumbre del G20 en diciembre",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLURLd2FEUnhmTnNTbUdkWm5jRF9Sd01WV3BWc1VVZWc1ZXZRdE5DZDZqc3FCMWp6eHAxSHFNZTA0eHFkVlNSTTdTTHhkaE9PSUJFMncyRkhzRVhaSm93Q3RxUEpKZDdxdTNRbzBoMHZLOGhfVlduQVIxR3pXaTVSYW96TV9XcnJabTFLRUtKclVudXBKRG5vRDMwRkZIZjdKenlnb1NJNGRuVHRyeXRxQVZjQlo2Nkxta05KNDhSVzRZOElSdUx3QkVXMG9kTnFLZmI1YVkwUmIwNnJuVmc?oc=5",
-          "pubDate": "Mon, 23 Nov 2026 18:55:40 GMT",
-          "description": "México confirma una reunión entre Donald Trump y Claudia Sheinbaum durante la cumbre del G20 en diciembre Telemundo",
-          "source": "Telemundo"
+          "title": "Inés Gómez Mont, la exestrella de TV mexicana prófuga de la justicia cuya huida a España causó un roce diplomático entre los gobiernos de Trump y Sheinbaum",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNck1EUGNSQWQ4dzVjX2E4NEx0T2NzTTNyNTF1Z2tZYmdaYnFiUWFKMjlkVWVtQnBZM2RLd1UzVnQ1UjBJN2tJMkdHYXhNYTdxVVptV21Ya19XdE1GeElFQS0tSHY3Z1FKaG84QjNuUDFCY254bWdTXzNaMlpCenctMjRlUQ?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 16:47:58 GMT",
+          "description": "Inés Gómez Mont, la exestrella de TV mexicana prófuga de la justicia cuya huida a España causó un roce diplomático entre los gobiernos de Trump y Sheinbaum Yahoo",
+          "source": "Yahoo"
         },
         {
-          "title": "Embajador de EEUU en México presume logros de Trump en seguridad, narcotráfico y control fronterizo: “Me ha inspirado”",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMm9EMWd1MndmNU43OVNvOUpzbkdLMjgyNV9FVUpHUTBvRFVTRXh5ZXFTMUhsY2M0TUFZNGRKY1B1RzhtMWdPWW5QNUwzbl9Od3llcnhLM0RMcWlUSmJCcEZRWWt2bGRrVDBsRm5lWUhub3dDWWstcUZaajF2cUZucGRodXUtZU1XejduRS1QdjR0Z0ZaaTB6VFF2emlIVUVncDh6Sl9INm85aU94ME9rZ1VpZHI3eTlNQTBMLXJJdm4zVnZMb1RZdmJOR0E4eW03WEZLSzByNjdBam5HLURzMTNHUm9GeUg3ck81SkJR0gGIAkFVX3lxTE1fNVlGT2R3OWQ4RWtuVG40NkcybHBjVjJwWjBlVHlCdlRCdS05YkczbWVpNjBFTUZVUVhGcVVWTFZEdEhsSW1TeEtJY0R6MERlcXp0aXVZclRla3QtZEdFVUNlZmpQUnAxNThkRVJxbzlHWWtIMVo0M0dPY3BVUkVkZklLTzJOOTFXeVZrM1JuTU11VjBkdFBteVc1VmFocWNzMGNkeXlveGFOaWlIazlYWjdxQ2htb1QwTXU3a0RlR09SbVEyM1pXYl9zSE5TdkV3QVVObnFDT3VTVmtTSF9SWm9KX21fd1JoNE1GdFdlV2RYS0lPUDRRc1Bqdmk4Vm5acU5fTU82VQ?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 19:51:00 GMT",
-          "description": "Embajador de EEUU en México presume logros de Trump en seguridad, narcotráfico y control fronterizo: “Me ha inspirado” Infobae",
-          "source": "Infobae"
+          "title": "México se salva: Trump impone nuevos aranceles a 14 socios comerciales",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0NjVHJTcmczbDRCQnk1ZjFlNXRVeENRMHlsVGFHbHNLM0lUUXRDZlFwSXV3STRvSXRmNHY2UkhMenFIWTViOU8tTm4teUFiTTBJejRkbG1tVUlXVGQ5ekx6clYwNWZxdElfdXBMM3lCZUNWXy1pbEh5Qm92RDFRZEo3MDN6cEEzZkR2d3pmZF9pay1BZ21nR0ZWVHI3M2pDNWJj?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 16:57:00 GMT",
+          "description": "México se salva: Trump impone nuevos aranceles a 14 socios comerciales PolíticoMX",
+          "source": "PolíticoMX"
         },
         {
-          "title": "CCE vislumbra acuerdo cercano entre México y EU para reducir aranceles",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEh1VmExZXhaSVNEM1NNZlZnVkRBUnpHcmpQVml3TGUzQ24yS3RmZE1ENDU1eUdHWkJGS0w4VkZBTk9USDNpc2NwbXV3R20zVmtqT01QS0RNNm9rY052WWZRV0hmMTRTU19fcG1UTzhXLVlOTkoxbjlGYzVrRTJmVG9pbVhtd0hvSkl6M3pQTE9va1duTG8xcW13cnZtTDdaVVFkalY0QzE2WTJQVEZ1NzZBbXNRLTQ3OURJ0gHAAUFVX3lxTFA2YkdRN0tadk5xUTl1XzY5elFJS2U2NXRfVkJjR3R4dzlYSFhOdnJyTVIwdlMwRzVIRVgwSXczRHFkRndhTFRGb2dNM2diN2lpU1ZEdzB0NVN5ZGNHYzIzSDdTYVNYTkJTSTJaTU9fOFJSenJpc2tQQVllUk5kWk1DSEtuVk83SXNKWUZsdXIyOWp4bHJmZVpUejVQYVlWcTBRMm8tcUY5aW95M3A5QUt4bVpJS0tUWExsdFYtQmZwTA?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 03:09:43 GMT",
-          "description": "CCE vislumbra acuerdo cercano entre México y EU para reducir aranceles El Economista",
-          "source": "El Economista"
+          "title": "Libra México nueva ronda de aranceles propuestos por Trump",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWJYdUsxZEM4TXQ4SFFJQTJpeVl3Zko3LTZTaVVrRnRRUjVfZmczUjd6NmRqamZrZUlyeWFkWm9VN25LaGtueHBtRnlxZ1AyQXM3TXg3c3RQbGsyUTUxa3pyVVhYT0Q5d0oyWW1ISnRPV0VrSUlsUmpuM05nU3BrOTBMTmFWVEFSY09DbDBnb2RMZTdxRGRQV0xEa3pmU3hTQ1hSTw?oc=5",
+          "pubDate": "Thu, 26 Nov 2026 15:11:18 GMT",
+          "description": "Libra México nueva ronda de aranceles propuestos por Trump NVI Noticias",
+          "source": "NVI Noticias"
         },
         {
-          "title": "¿El Chapo Isidro será extraditado a EE. UU.? Esto dijo México tras pedido del gobierno Trump",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOEhNUVY4alkyaUw0Mlp3c3ItbUdnb24zMUZ2TERRbjB5WGhleHhaUUwtcWdWMWduWWZRVXlnVzdVVmNCNlVsOF9NZEhIMHV0amczSEZSLVBIeXBmbDNSenBxMHpmUmpFTENzWm5Lei03OGFCQjVhU24zbDNnVHk1Z1hsN1JvdUg4TVZhQTYwWkIyMlByMEJXS0N5OHg4cmFMNUY4aDZHTFVTZTkxaURTdXk2bHpBR3lORXptLUdWSjVLeVUzeUJJemYybHhjZ1HSAdQBQVVfeXFMTmVUR2pzb0d6RnotTnVVek5DSjJIaTJRdXJrQ1ktQnFfZG8wWTkwVFNDYzAyTDRQZGc5ZlctQnhOeEpPLTZUZFdNWWtvOTBUNEFrbVBzeHBqbE15R2ExU0JNVHZ6aFdjSEhzTVViN1VqVXI4eE80RE5vV2ZVZ0MyaUIwZUdpMlVNM3JLNVpBN05wdEx6d2FzYTI3NklGS3ZiMnBwRzRxVzdydlV6blA3TnlFbDhQYS1JR19ZcVQ2b1g5NWl2NWdfQ2NMUG14a2NnWTVXQlg?oc=5",
-          "pubDate": "Tue, 24 Nov 2026 18:31:58 GMT",
-          "description": "¿El Chapo Isidro será extraditado a EE. UU.? Esto dijo México tras pedido del gobierno Trump Revista Semana",
-          "source": "Revista Semana"
+          "title": "México se salva de los nuevos aranceles de EU; concluye investigación",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdThEVGFZOHU2elVfS3M3XzZsYkRqRDNfTjBIdHNVOVBlZHlKZkJLa0c0NDVrTjdmLTlVYWhZdmFVUWJCSHZyMzJIMnBGN05jaW9wUERuMU9NZjdlQ2xjMTlVLWZCbDhjUGtvbXFLc3l1d3lpZFlrUTFteVdJYjZqNmlXaXNyUVpMRFdJanlPTXV4VFZMV1l1c3FMM1ZxS0psckhjWVk2YXhDa2FqTUlOUG02WdIBuAFBVV95cUxQeXdNVERTMzZGQ1ZBZmtHSXd4dy00TmNCTndSR2JtS3IxSEZrbW5GUmlMZFhtc05XZTRmMmVEV3d0WHF6LUxndFp0OWNRZzZlaWJ0QnpaMjdrMTltMzF6SGY3VGRHMm82RlQ4Sk9YQXJNd3pKTDBvM1phdFpwRVJuc184NklNb3RLbGRpM3RfTjhlMjVyV3cyOE1yQkVySDg2aG5TMDc3TVlNa0wwd0o0RkFYcTdTdGpo?oc=5",
+          "pubDate": "Wed, 25 Nov 2026 14:09:01 GMT",
+          "description": "México se salva de los nuevos aranceles de EU; concluye investigación Excélsior",
+          "source": "Excélsior"
         }
       ]
     },
     "marco-rubio": {
-      "updatedAt": "2026-11-26T11:37:18.238Z",
+      "updatedAt": "2026-11-26T20:37:31.621Z",
       "status": "ok",
       "items": [
         {
@@ -330,18 +330,25 @@
           "source": "DW.com"
         },
         {
+          "title": "Sheinbaum responde a Rubio: “México no puede ser piñata de nadie”",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUdqSm9rSkhDZXpWb1VjaTNBYjFZVDVsYnJnR0VHZUVfVnRpRFlnTXgwcmFvdXlYUEZoYjExNDZTaE9LUC01TXg0cE9ORkhDUkp0U1JBYmF0YnFpc0Rxb3BaTks3SGc4djVLUVRYX1dxVmZTbi1Od1JldkFZNk51U0lxSEJOUkVCRTBMWkg4M19sMlhjWmxkWE93Zw?oc=5",
+          "pubDate": "Sat, 07 Nov 2026 06:16:51 GMT",
+          "description": "Sheinbaum responde a Rubio: “México no puede ser piñata de nadie” Buzos de la noticia",
+          "source": "Buzos de la noticia"
+        },
+        {
+          "title": "¿Marco Rubio dejará la secretaría de Estado tras la derrota republicana en las elecciones?",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYnhnQ0VjenBEV0swdE1vaktNQ29iN3RXZ3RjRXQwTDhsS3U2V3N1RnNfWU9MSFBKODY3Q2hvVDg1S1lndC1PRF92Y1VFQ2tLTVhCZ1cydDFlT0l3T0NTYWNnbWlUaTEzRFVNSjNtUTZQTHNRTHdITzMxYnRocW85cGQtdFBHYW8wY3FIUzFZY3Rfc0dkaE9KN1VtbE1sTWl4QUwwSU51OTRaNzFCSm05OTlsV1dsN196c2dRSS1IdDNwNkI1Rm5NYlI1YUlaN0JNdnNqXw?oc=5",
+          "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+          "description": "¿Marco Rubio dejará la secretaría de Estado tras la derrota republicana en las elecciones? El Financiero",
+          "source": "El Financiero"
+        },
+        {
           "title": "“México ha hecho más que nunca para combatir al narco, pero no es suficiente”: Marco Rubio",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQlc4U09OOVg3WWkwS2RRb2xRdDFwMnNSTU1jS3g3ZGFmNVVwdjMwMmRJLWIyeTdPTnhlRzJfTlpHb0luSm1RTWVMNjBfRTN6OUh4QnVXVWw3M2xGZTlQQlgwdldvUjdqb2NGUzlPYXJuYVJKUjBTUDlVRnhDek9pbjZReEZGR2RVUE1vQzR1Vk5DeXM?oc=5",
           "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
           "description": "“México ha hecho más que nunca para combatir al narco, pero no es suficiente”: Marco Rubio Grupo Animal",
           "source": "Grupo Animal"
-        },
-        {
-          "title": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQejBrWGhBTzVrREFkQm40TENLek1uOEx6YzZNMmpyMnIydWZtTi1LZVc4ak0zb1AxOFhzY0U3QV9LVVI2Si1FcGxJRHV4TkpzNzZ6SDlpc29fbU5pZW5Pdy1UZF9sWEFieUFpUFJ2UDRaUlMwaWhWVi1IcFZYRXhHcTZpUERnRXcza0doZGZuS25vandUVkwzdndIZmdKa3F2X21TOVJQTWVlSDdzUURjSE05WHBhcFRobkZkTzJidFF2NXFrSGl5MUQwTGJEeHJWajl0bTFJQzd5WF9xLWxMdElOV3RxUThmakJRaHBaWEFSa1RR?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 18:22:05 GMT",
-          "description": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio Gob MX",
-          "source": "Gob MX"
         },
         {
           "title": "Marco Rubio acusa que México no hace lo suficiente para enfrentar a los cárteles",
@@ -351,25 +358,18 @@
           "source": "Infobae"
         },
         {
-          "title": "Marco Rubio pide a México ‘acciones decisivas’ para desmantelar a los cárteles de la droga",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY0VYOUdmMEs0N1kzY0d2VE1aUDd0bEgwcmFnTUZ3bjBzclQ5VHRHcVpvYms4TnVycklBQ3ZJNmxIMmVJbFdhaHg4ZjgwYkFSZDljOGVqaVVhN2Z4b3QteFB3SjdyenUwUVpPTzE0anBRa3plQVljNWYzR0czYl9qQXZobVAzT3hwZENfU293OUo0b3gzQTRVX0gyNHdXN0lYSUJGLWhkQjJDU2hJNTlvSEIxSGhuTk1oZ3dSaWZwclFVZTJnaUlicjZxNmZFbWlVYXdKOGRTRGk?oc=5",
-          "pubDate": "Wed, 26 Aug 2026 07:00:00 GMT",
-          "description": "Marco Rubio pide a México ‘acciones decisivas’ para desmantelar a los cárteles de la droga El Financiero",
-          "source": "El Financiero"
+          "title": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQejBrWGhBTzVrREFkQm40TENLek1uOEx6YzZNMmpyMnIydWZtTi1LZVc4ak0zb1AxOFhzY0U3QV9LVVI2Si1FcGxJRHV4TkpzNzZ6SDlpc29fbU5pZW5Pdy1UZF9sWEFieUFpUFJ2UDRaUlMwaWhWVi1IcFZYRXhHcTZpUERnRXcza0doZGZuS25vandUVkwzdndIZmdKa3F2X21TOVJQTWVlSDdzUURjSE05WHBhcFRobkZkTzJidFF2NXFrSGl5MUQwTGJEeHJWajl0bTFJQzd5WF9xLWxMdElOV3RxUThmakJRaHBaWEFSa1RR?oc=5",
+          "pubDate": "Wed, 26 Aug 2026 18:22:05 GMT",
+          "description": "Reunión entre el secretario de Relaciones Exteriores, Roberto Velasco Álvarez, y el secretario de Estado de Estados Unidos, Marco Rubio Gob MX",
+          "source": "Gob MX"
         },
         {
-          "title": "Marco Rubio dice que México no hace lo “suficiente” para enfrentar a los cárteles",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUEJHUjl6T2FINnNGRzNmT1BwaG9HV3pOSEpmMVNaWk93UFBwck5hbl9JN2FwZlVBRzdxQ2lBS1RKY0NVSXlySV92RWk4dGp3LWhFeHFFLTVGRHVtX0E3WkdQSFlvRThuZkF6UnBwMVhnSndubXpSSG85bzNrZ2lEdkRoTzctU3ZHQWhBYzBFcldweUNLbFVlV21oOEdHazJtWFB5MUtBX2ZVWFFiNGIwTVo3WF9hb1pFU2doeUt6WFB3VjllWmEzLVM5bmFpNVZTOHZsbnZKVWN2WDl5RXlmYzhvV3k2TlE?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "description": "Marco Rubio dice que México no hace lo “suficiente” para enfrentar a los cárteles Facebook",
-          "source": "Facebook"
-        },
-        {
-          "title": "Rubio afirma que el esfuerzo de México en la lucha contra el narco “no es suficiente”",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakk2TDRZQWQzbnJwYVJCTERCRXhYVGJua1M0LXdTbGpPMTZLZjluX0pYZE1nckEzTTRKXzY4dzhfSTZ3UEFpOTQwMVZFeXRMUEpRSnBkYlRFeVNmZjFzWG5lb2hOam91R1ZvbTRpX2gyTHdad3NZVTlQZFptV183c1d6VWhYay0yaFBJalNWekF2bW9sUmc3UVItWWRyVmZ6bFllYUp2NjZMRTdQV2diSG9ZcFh6RjFDSzVhY2l3aHRid0VBa0JrbzF4Qk14R05vd1JKRnNZcWU1ckh4S0wwVWVB?oc=5",
-          "pubDate": "Wed, 09 Sep 2026 07:00:00 GMT",
-          "description": "Rubio afirma que el esfuerzo de México en la lucha contra el narco “no es suficiente” Telemundo",
-          "source": "Telemundo"
+          "title": "Marco Rubio niega que EU haya facilitado la salida de Flávio Bolsonaro de Brasil; Trump solo autorizó su entrada al país, dice",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRnhQMXJia1Y5TUN0dkNxbnVIVFJVU2VQX3R1Zzd4WnVGR09qLTMtazBPc3hLZXp1TmZ2SUh0UU1Ld2Rlb0txNzN5anM2UnZZN3QwUlptWDlCSGVVenVuYS1kRVVySEVtQVZpTHpGdHdwOFRhenh1ODhkX0dmMlVYWU15MUV4cXJYNFA4aTJOb3dVQVFzMmEwSzVFYU1SeDc5UHBiZHR0MmlRSWoySWQtYnpHbnQ0dG0ybkJNZlpyYmw3engyQ2ZnUGhmWEtDWnlEbFJEcGpUN2RRNFJmcTRQd1dWcVRSX0ZPRC0xU2ZYczkxSU1o?oc=5",
+          "pubDate": "Sat, 31 Oct 2026 07:00:00 GMT",
+          "description": "Marco Rubio niega que EU haya facilitado la salida de Flávio Bolsonaro de Brasil; Trump solo autorizó su entrada al país, dice El Universal",
+          "source": "El Universal"
         }
       ]
     }
