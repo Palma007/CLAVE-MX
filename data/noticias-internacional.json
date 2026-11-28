@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T15:42:28.806Z",
+  "updatedAt": "2026-11-28T00:45:58.896Z",
   "sources": [
     {
       "name": "BBC Mundo",
@@ -16,8 +16,9 @@
     {
       "name": "Reuters",
       "domain": "reuters.com",
-      "status": "ok",
-      "count": 6
+      "status": "error",
+      "error": "HTTP 429",
+      "count": 0
     },
     {
       "name": "Associated Press",
@@ -64,10 +65,91 @@
   ],
   "items": [
     {
-      "title": "“Calladita”: La torpeza de Feijóo",
+      "title": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kR2haSlB4ZDQzMTlBRkdpcnE4emJhd2UzUmlwSEhKUVBkT2FYVGg3NU0xc1ZaR1dHbUtYMThTY1hBZmdMLUdxUHFma3JOVXFJRXROU0lDWl9zWFRZ0gFiQVVfeXFMTUVvZUVXSUVOaDBLRDZnUmlHcmVzMjl3WjdyUTBONUtZbmtrQzg1cTJCT1hKSC0xcEtCSmpRR19LaUJqMWRuaWhDT3ZVUEJRamtSeXpNclI5UUtwdWRrdHZQWnc?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 21:48:48 GMT",
+      "description": "\"Ni EE.UU. llegó tan lejos\": por qué Costa Rica le impidió la entrada al país a Francesca Albanese, relatora especial de la ONU sobre los territorios palestinos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRldJUXA3VzBwMGhFaDFNQTdrOFBDblc3Sm9BWFl5UHl4dThXbDRHU3duM3F0SGZ3djVSUGplNGhMN1JqODR0UUpLa29ZOXAzVnh2eDVFNDJZUnRq0gFiQVVfeXFMT1lCZkZHN0d4b1pvZVlXUWJKUnZsYXF1ZkZldkNBZkw2bzU2SUJ2Wmx2TmNMYW9CWHdEVzhfQmM5dHNxcGRXYnBwTEc4REFIME96Q2N1Q3BVbnJ0UlJyc1BwckE?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 16:29:43 GMT",
+      "description": "Los estafadores que engañaron a miles de migrantes detenidos en EE.UU. con servicios de fianzas fraudulentos BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "La Secretaría de Relaciones Exteriores emite una queja formal ante el embajador Ronald Johnson por las líneas de denuncia de la DEA",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQd2c1RkNVLTFpTmcyeHFXM21TaV92MmlGeVR3aFNFTldXemtHUVl5WE5kR1NSdUgxcTNFRVZzZXZNLUcwckoyMVRvZGM3LTZxR0xfYTh6U09pbzNmSWxlbm5adGNaTVI5LVFZMkJGaHN3VzF2d3F2ZE1FcnpyTDdZRDN2b3ZiRDV5bjJDX1VqendUa1BpcktvUS1qRHBLSUVwZXNuR3BJdldDdUlmR19lYW1uZlJGRmtnZHc0a05IYVdhblUxMi1QQnFRTXBPOEd6SkpxMXBjLVJQNlBNU2dJeldFLWtKWUFDSmtJMlRCcDlrM1ZXQXlNelUyVW52YVR1bmtZ0gGXAkFVX3lxTE9HdHFpOFhlSnBPSjhFZlloY2JYeXl0OTc2cEpRZGJyYVQ1UnQ1UGdqbGVnZHhmRlBoNnBNWEVFQnhQbU1PTEpxWWdNVHhxOHZOOFdGZ2NqTjBQYkRJN1gzOXpPUENxWU5HSVBocXRWSWFlYlhubmdRTmN5QkdKV3hDa1FSTFZrd0c5UEdSRUQ2M3dRRDdzOXdPNkwyc3pUTjlNeTRXbVQ3cXd3bGZMcGFOaWsxU2ZoUldtTzNFaEs0eV9GNTZQNVk5bnJCMEFnQmYxYUdSMEF6SndBeExTNEJlSTZkWWJ2OVpwUUd5M1YwbU15SHN4TlRudmZ1M1ZPdVBTMjMtS3NCbFY1d0MwbWEzSGJKbzNjOA?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 15:46:29 GMT",
+      "description": "La Secretaría de Relaciones Exteriores emite una queja formal ante el embajador Ronald Johnson por las líneas de denuncia de la DEA EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
+    },
+    {
+      "title": "Alemania aprueba el presupuesto para 2027 y da luz verde a un mayor gasto y endeudamiento",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOazdXYkN2MlVTSERYYzhOT2ZtTTdoV3Y1TUZDOXRIQmZ3LS0tQTBzdXVDbk5iUGw3ejk0eVR6NGczRWZTbjVWWGFqLXZYNFNQbnBfUmJvU3FVTmNtSHpZV0FXZnhpYUNwSDB0Yk15U0xnX1R2U0lqbTJKQ1JGTWJvSGtFNVlTMVFRUnhxT21DR1NJdEtOZHdoNjMtSFRoVzJEbHd6ZERJRGtpSmFGYi1rT2NjQXpMS3N6UUd4TVlnSWhCdVAzdEc4S1oyU0h5LWd5RXJ4Z3ZCTVlsdUnSAdsBQVVfeXFMTUI0UVhTdTEtWTk4NGMtM0FTVzhZZnA4VTVoNF9BZ19ZV25pUllEM2Z6cWdTMUMtY0IzWWZLMk45OEUwUFJkTzg3cWFnc18xcVFTM2JHdmtPUGVvT0x0UUF6RVZUemtILXZrRVVBMmtNUHVXcDQ0dkI3Y2R0WXRoWkFWaTh3emRRWmdfcWFDdnBEbTkzcldHUFhOUGlKUjVIZkx2bVdlU2d4R2ZKX1IzbXVXc3JpTWNWaWNSVVZIYXBvNFRQYXI0WjFGZkg2UFktMExNTHY1aEZ1UHpF?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 14:50:30 GMT",
+      "description": "Alemania aprueba el presupuesto para 2027 y da luz verde a un mayor gasto y endeudamiento DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Gadi Eisenkot acuerda una alianza con la izquierda para intentar desplazar a Netanyahu",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdDRuT0NpT3RCa3NLX2ZaTk9NdlMtWGlLME4zMWc4c0tweHg3a1J3Yzk1aDhHVlhkUl8wUmlqTmE3N1h0NURqUVN1OEdBYU9vRmlZMERYQkZkcjhMT3JuTU1BNzQ1Vng4NVBMZFAxYjE4YnM2X2ZYeS1GZUUyakdFTzFIR1I1LXRVb1ozNEVzaHJ2c0tHU2x6WVF3V1RVV2Q5Q1U4Rl9pbVRLanN1QUtVYkRiOXNRUjV0NjJ6b2R1Ty00bmVGdUhsYUxJSjBuQWpYSEc0?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 13:42:22 GMT",
+      "description": "Gadi Eisenkot acuerda una alianza con la izquierda para intentar desplazar a Netanyahu France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
+    },
+    {
+      "title": "Ucrania ataca San Petersburgo, además de una fábrica de caucho al sur de Moscú y la región de Krasnodar",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNR1VPR2ZFMEFwYlhYNnhyejVJb2FCV0dsVjFCb05lTjh1YkxTQkZKd0cxanlnVWJrd2diSFA5VEtWel9aa1BKajlJWkpXS3J6TUotZFVLRHpsRHYwc0hIMVc5WVdHNEc1LTd5ckYxc2lYb2NORTB4RjBCaUZQeGFtLWcyVTV2ZWs5YVM3U0NpUUE5UGpHaU0teGxiUXdsWG9ha1lwd05OR3JZSzFnTGFXNXZ2M095WDRldGZHWGhGN1N3QVo3ZnBORmxoNGluN3dyV2xsWnpNR0d6eks3UWRWZnhibXdkTGRZcE5n0gHrAUFVX3lxTE1Gb1N2VzB4VzVFYkRweDdwb0h2UW5lLUtLandTamF5MXRLQTlYVjZSQkZpZncxRTlURlpWbE14RTFWeERHWjVBQ2NLLVVzenVkbEN4enpWRjVBY245bHBKSy03VzJfTFBta2Nzb0g1RGJDRE9FNG1weU45cTk0LUxsTWNUaFVzbjRsUUEtVUF4Q3dBcUg5ckVNekFwS2c5MVhNeWZreHhJcjdXYk1zREJGbHBEcUJ0aXFfMHUzTEVxSW1TV3RpTXBQV2ZzQ3BrQjlvcWxtNlJueVBSdzBjbFBEaDMzeTFWZm9oSDg?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 13:14:35 GMT",
+      "description": "Ucrania ataca San Petersburgo, además de una fábrica de caucho al sur de Moscú y la región de Krasnodar DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "Mientras Trump transforma Washington, cada vez más miembros de su gabinete se mudan a bases militares seguras",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUtPYVljZ3hUQlVCeDM1NnRYczN2M3c2LTRMU2lpeUpRS1VoVUpaekpabkRnejRRME9PYkkwU2VYcWFMT29rTlUzM0MzcUdVZk9STnNldlRlU1BJZnZLX1I3NEZKdlRncVp2bGFOVlhEMXJXTDJFYlRWMGpuM19sRWdTV3JRcHdCYzFMVmpxRWs5UQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 12:36:00 GMT",
+      "description": "Mientras Trump transforma Washington, cada vez más miembros de su gabinete se mudan a bases militares seguras CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
+    },
+    {
+      "title": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByckVrUXZhME5uSkoyQkFoZVNYYkY4QWdWcmlmT1p2N0FyMDJnUG5IWUsxYUM5YS1OWUJ6dWw0bk5VX1hfMTFPa1p5VThscUFkRUJnNXlXdkRDa1VW0gFiQVVfeXFMUENLZ2JqS2stdUNGNXlZbDZKSU1DZi1aMTRZSGxMemxJTFluczlyVjRLRmdVdWE3QWxuY3NzOUNjOVJDbVgtbUVMUGJUWFlmUXF2Z3paNHZXak9YbEFQVHphUVE?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 12:34:52 GMT",
+      "description": "Los campesinos en Colombia que no dejan de recibir amenazas por un terreno que les devolvió el gobierno hace 6 meses BBC",
+      "source": "BBC",
+      "outlet": "BBC Mundo",
+      "domain": "bbc.com/mundo"
+    },
+    {
+      "title": "SAP sufre un incidente de seguridad informática y toma medidas de protección",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVd0b3d1WnZoX19qZVo4cG14dXRQcE9xRGxCdk5xM2VwV3dySTBuYVJ0dUpGX1lmWldzZVlIYkM4bHJBSEJ5RUtMdGlhT0w3QW51MHpBNm0ycURkOGMwbWpXNkxwUXZWYWV0eVhiRDBSWnhTUkFEX0ozT0h0V0xaTWJCZFFJeXJVa3VjbnZPckF5RENsSkp2d1pLOVhEeS11V0gxam5EeHd1UEpYekRkM2ZTblR6cGl6RU1VOXJ6Z9IBvwFBVV95cUxNc1lMS0xIRERFaVFjNEN2TDA0TDJRTjZmWWdvcDlzbEtiaDJuM1NvMUw3bzdENUFlUnExWkFhejF2VDl0bXFVUW9ZbGt5MlpsMG9UZHh1OVBndFVLWDd3NWFYYjUxSFp0UUtRYXI5cE01NWhNNEh1R29uMHRsQ1BoZF9LRW5KcTRWQzdjZkxPbmFxZlFxZzRJeUZDZHNZLWZCaE1yYmRYbUVab1U4ZnoteXZIRFBmY3pydXFiYVZRUQ?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 11:57:52 GMT",
+      "description": "SAP sufre un incidente de seguridad informática y toma medidas de protección DW.com",
+      "source": "DW.com",
+      "outlet": "Deutsche Welle",
+      "domain": "dw.com/es"
+    },
+    {
+      "title": "“Calladita”: la torpeza de Feijóo",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VTnAtRWx6SXZMUnJoWUpjSG1hVjhaY1dReVEzcGc0Tnh3NVR3a243MHExTXZhVndsUDZsVmRrLTQxcmdOTVRXOE5Mb01kRlVzU3ZfWGpsdnpLV1NjU1JQWlgyZW5WWjhkU3FoY25FZklEY2xWWGMzWk53VkV1UdIBkgFBVV95cUxPczMxYmlCZVFLMVdYcVdCbURzaHNFdGo4b1VQaFJNVk42czZVOHZGSFAtVGpDeUZRQVFuNU4tdDZWVWFIWGhTNUJORGFJNC1kTXdfRXZjTUNNTnBRQTBucUFEYzVtZm1zOFNpdnNZZDlvTXN5QlB0Mm4wT0pYRFJuMlZVSFlsV1JxOGc0R1NSSzRPdw?oc=5",
       "pubDate": "Fri, 27 Nov 2026 11:57:51 GMT",
-      "description": "“Calladita”: La torpeza de Feijóo EL PAÍS",
+      "description": "“Calladita”: la torpeza de Feijóo EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -100,10 +182,10 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Ximena Santaolalla: “Yo tuve una infancia horrible y quisiera que los niños ya no vivieran eso”",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMEgxZGQ4U2M5cjFuOEluLXhFSkcxU011Zi0wN0hhVC1lV3NOSWJLTlBvSXpGSEhZX1l2dVRidjUxMDBvZnBUcFRtNlR4YWE2ek02NnpqWEsxODg0blhfb3N1bzZ0TGNnTnV3dV92RmRJdHdmQ1RxVFRGc2VoTDNKU0NkTWhRbXJRV3hET1JyeVZTZEozd2dzeU0zWlpUUnA5dnNFOEdtZHl4dzA0eGRTc0VNT2NqSmVCS2xiOF9MV2ZDYS1FODgwQW92d2F0eGPSAeMBQVVfeXFMT2gzdlN3a3N1dTByNjQzQm9lTTBzUE9iQUFhSUtMb2lzOHJrbm1sa0FscTd5V0FQMnVJQk9sX1JtOG5KYnh3V2xwU2o5RnpZRGY0a3c1MTdEc19mMklERjBWSllGVnVQQXNWTkNsWXpQVHVCbF9qMlZMZEhkT3dvc2FjOVNhUERmcW5PeVRxM0tRcVctdGNPdmN3VG9IaXI5SnVJRE5makoyV21hY1JSV3NHNDItOGJSY1JqRVB0dHJNQkZCTC1kZGpRb2U4aGkzMDdpZGQyUWFzRUQzYjRvTHc2MWM?oc=5",
+      "title": "Terry Cole, el jefe de la DEA, eleva el tono contra el crimen organizado y la narcopolítica en territorio mexicano",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN0RIaXJDdUtKZVBCenhfN1lOQXR5UjNzS21aaUhzQ0pLeGhGXy05QWNoT0xHeVFXeTJia3M1SkRWLTgyeVhQWExTRTBIMTVxM0h2MnhwSldJdUJjLUNxMjlHWHhrVUVJMWJFSjhPUThNNlJVUFJjbHJiSExZbzhiVTN5cE8tTDBlUG5QT196Q1pjRFg3TlN3SmZ3ejRlQTROZGo5eHJUMHBaWVJLOFUxRTVhLTkzOF9WNHVBM0ZBQzc5d2tKX2R3aFlIVG5vTU1UV3RfX2FkazZRUTc1ZDd1OUZYSW5Pd3NpaGfSAf4BQVVfeXFMT2w3UFVXQTRRWEt0SzJYSXVWbnJNaGtOaVFhZ1ZyWU1qNDhQZVF3YmYxVHUyNncteEpBdzFJN0MwX1d1N2E1bzNwNXlwdnJtOXdqRE5XWnFoYnU1VUFvRXpnS2xZZFBlaDEtem11SEZHNHBkRlFFV1VkbGNlZmw1NDloSUpsYmlrWS1CcjQzU1V3RjhUaHlTSDhfVUtDVWdBbl9JNWdsejZaNjFJMjA1OEZFY1NYazFNbXlyYVdtaU45U05jWnVnenNzempfc0ZTWXItMHV1ekZMeTB1WktOTVFCSFowY3RVQ1hnaHNIWkZEZVhkWGRVcHZJVXVWTWc?oc=5",
       "pubDate": "Fri, 27 Nov 2026 09:30:00 GMT",
-      "description": "Ximena Santaolalla: “Yo tuve una infancia horrible y quisiera que los niños ya no vivieran eso” EL PAÍS",
+      "description": "Terry Cole, el jefe de la DEA, eleva el tono contra el crimen organizado y la narcopolítica en territorio mexicano EL PAÍS",
       "source": "EL PAÍS",
       "outlet": "El País",
       "domain": "elpais.com"
@@ -118,40 +200,22 @@
       "domain": "elpais.com"
     },
     {
-      "title": "Trump dice que le pidió a Putin que retirara la \"agresión militar\" en toda Europa",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQk16WE9sSFEweC1yWnhDMHNUTHp4TktfVkYyd2FXLWdUaFVINi1Rc3dQV25Fc0Rodm01TjE3R0phNk1yQ1VROFA3a1hFem5BeUtMTFlNakFrMzdYVjNYLUlvNUpCZDYwTno2UGZ5YnFJcTA4OFNOSi1mcWgyUTNJRzdfaDk3c0pxTC1lNEMzakhWMnFSOVZQdVhlM1FxOFE1dkIyUHRn0gGmAUFVX3lxTFByQ1hZcFczS2VtcERLQVpCWEY2em5pcUFVS0RsMEo5c1BXZXBkam45QU1LMDJSRFV2OXJZcThjd1QtMnM1c2dWcFBCWXdiUU1IU2tCMkV2X0g2b3Vhd0N3WTdxQzdSOU83V3JlcE44NExKZUM4dXctY2ZjNm96cWhfdVZ4a2tnOE1XTlR1Ynp6YXhia3g4ZE0zajY1ZHZYRzNKU2tlMlE?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 05:41:32 GMT",
-      "description": "Trump dice que le pidió a Putin que retirara la \"agresión militar\" en toda Europa DW.com",
+      "title": "Hera fotografía el asteroide que la NASA golpeó y descubre un cráter enorme y un enjambre de rocas",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR3l2OFkzZS0tSVhZdTlqUTBJWUR5SXROb2h0UXE3UDdmVVdLbTRyWHBCQ2I5R3hIdzRoRm80MjNnaG9hUHFxN0ZzZDR3VTBoeGFCZUhJdzFpWldJNl9WOF8wSTlCNmtvUkN4VThnM01QR1M1c1YzVjhvUFNrQXRaSEEyTVBvbTFhblVjZVJYbUh6YlR1SjZJa2NtRktRc25CVENTZGJQMXQ5MnhHRy1DN3c1ak9YVEI5WnJULXpYbHIwM2dmdVNOU3N5SDU3WG9TWVc2MGxLQdIB1wFBVV95cUxOUkxFNUFWTFh6VWRUanQ0U1UzY2xEbGhFd1lnRjhNZ0M2dzlpbTQ4bWlfeG5GeE9qUXRhcDdzSVZnTGplcG1MbEhzdjlOTFpDT1c1c2RXd1ZZM1BiOGYzVWhVNXBDaWQxTjh1X2MzWVd1WUpTYlhIZHdrN3UxWGZ4bmJERVdKamIxOHh3OEtNSEl6NnduRUhpemYwV1Z0aWtxdmlFOU8tT0E2T3ZwZklkSm1ic1ctUDFhN1p1VFZsR0E4MTlJUjNXUld1Z2l5UjZGNkpsakVLYw?oc=5",
+      "pubDate": "Fri, 27 Nov 2026 08:37:05 GMT",
+      "description": "Hera fotografía el asteroide que la NASA golpeó y descubre un cráter enorme y un enjambre de rocas DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "La sala Gruta 77 cierra tras 26 años y 5.149 conciertos y avisa: “La noche de Madrid está muerta”",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSEZMcFdsTzNUWkdVUXJ1MXVaVVYwTWtqNGc0M3JORnVfbmtWSjdkYnJ1MFFBQlVwYWxBSXRNQ0c4bENyZzhvai0wbzZpTXkwRW02dGZCWG9WZTQtZWlyMzNhZFdwQkFZMVBBSGR3ZUx3SHpheFpDV2k5UHgyVG8taktNRF9obENJeXFiRGNoMm56Rndlci01N3VJVE0xNEJOajJWb2ItXzNpMkl3YmhLRE1CWXF0VEFFRTRXWkIzNWpGcE9HSTlubGVLajQ1VDFyV0lmdHRsNUNoQdIB7gFBVV95cUxPbWNrT3hDRFNfcGZHbTN0d0VaaG40R3ZVZnhWbFN4dTUycmJwRmdvV2VjeXdhbkFEOThPbXROdlVhQUdLY0hBSC1Jb0pWT1lsaGgtUjM2VkxmcEtIaW1ybm92ejFCQXJ1ZnN0VncybWNfMHNiSVdBRkdkWkxRNnhxa3I1QkdkZVZXelA5dzA4bTM5aHV3Y2FWaDZkOC1oV3ZJeldfWl92bDkxR3ZkQ3B3dzA1NDdCY05JUDRKb3ZDLUZWd0NDYmtiTG02RlVhR3RoN0Nlay1Ya0ZSMzNwQjZ3eGxEMENmRS01QXctc0xR?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 04:30:01 GMT",
-      "description": "La sala Gruta 77 cierra tras 26 años y 5.149 conciertos y avisa: “La noche de Madrid está muerta” EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
     },
     {
       "title": "Prohíben ingreso a Costa Rica de Francesa Albanesa, relatora ONU para territorios palestinos",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXp1RzQ1OUY2V0FxYWppWU1od0hjVWppeUFGV2o4M1YteU9pS0twMGVFbmhreDlNMkZMWmVBZUpMaFp2NE1NSm13eEw5ZlVoazRHNVp3RWVNbm1BOVcyQl9XT0ZRYlZCZElQTm8ySHAzb3k2OVBJbE80MV9LdGxGSWJhb19hUFVIbk5qektONE5HYjduRDZZMTJIZWxZUTBFZDgyNXBmWEh4d9IBqgFBVV95cUxPd1VZUUVvRG1RcGk2OU5tSlExTjZ1MkVpMWlKOG92VUZoU1owUlFHcHBkZWh3LVp2djc2c2E1MmdYX0hvZmJoRGUtbzBFbC1vaXRGZThXZGttV1UySU1ZY1hSUC1TY1FqOUVsTWxHc3QyWktmRk04Um9WLUFBeTgyakx6cnl4MS1Wa3hCZ2RMVHM4UG9XcDdfMXVvZ3lNYkQwYU01d0FQQ3ktZw?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 03:47:38 GMT",
+      "pubDate": "Fri, 27 Nov 2026 03:04:06 GMT",
       "description": "Prohíben ingreso a Costa Rica de Francesa Albanesa, relatora ONU para territorios palestinos DW.com",
       "source": "DW.com",
       "outlet": "Deutsche Welle",
       "domain": "dw.com/es"
-    },
-    {
-      "title": "EE.UU. está demasiado centrado en Medio Oriente y no presiona lo suficiente a Rusia, le dice Zelensky a la BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9waU1qLUhQMzVENmJETy16S2hnYzN4SEJYSExNVGJLMjR6SXpVODVFNW5fS3ZPTUNwc1JyQVN5aWpzSFJ4N1QxZDl3V0c5MHhJYWpBelhYTldQWk1P0gFiQVVfeXFMUEJTdWlPeWhoVHRoNF9JdnYwVTNOSzlWdHRYQ0JuRGUyNXA3ZHRPWWJMOVhORDdwS1NuUXJNUGpaOXo4amR4ckNzclZZVFAzRUVLM1hrYXV0aS1nUEk0c2ZtUUE?oc=5",
-      "pubDate": "Fri, 27 Nov 2026 00:59:41 GMT",
-      "description": "EE.UU. está demasiado centrado en Medio Oriente y no presiona lo suficiente a Rusia, le dice Zelensky a la BBC BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
     },
     {
       "title": "Los desesperados mensajes de mujeres que están en el corredor de la muerte en Irán por participar en protestas contra el gobierno",
@@ -163,49 +227,13 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Bukele saluda a Estados Unidos con motivo del Día de Acción de Gracias",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa2duRm9NZVk2VWE0elYzZDZFRl81N0lPY3BDV3FmZGE5QmdMbE5WZTBXcDFUa2ZDVk54Rjl0cHdrM0lrU1EwQVYxQ0x4SVRwMDRDUkp3Vld2dEYzbmNWa1lmdmJ0c2xoYVNqaUdSWE1BSVNSR2c0Q0F2dFNFQlprQnhSandfOWxlbllkNElzMGhZQ0FDdmJwajdVN256eHBOd05ON0JEUnFPLVFkRjAtRF8xcFBXTHRMcTlGT1pheEhrdFRHblZHbGtIV2R1RGZIMmtweHRkTnBnNWx1TmhOVi1Id0Q2czVkUHhHY3IwWdIB7wFBVV95cUxOZmlTZUNsYm5Pa2lMZTZldGlQSlRoNGdLQXBmdnFtX2lpMmp3a3hXLTJQb2Via3F4dFU1cUZSX3o2azhSY3pKQTU1WXZXc21wNGNnZ2N5OHBraTZIWGpYc3hqNWtpc2ZCVFVLT2sySE1EbFlUMGw2NjROR1FrUDFCLXFzZFRZS3ZHbFQ5d1Brc015QnBSZUF6WXZSekJXMkZCZG5uU2RncU1OT0IySlRaWWw2QklJckJNcXpNVGloaENETmUzX3lWakl2cHpkc0tmbUZrU05YYWlMLXdfQlE4YWlSZ2duaEJ1bGlHWTQ5WQ?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 22:52:25 GMT",
-      "description": "Bukele saluda a Estados Unidos con motivo del Día de Acción de Gracias DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
-      "title": "Tiene 31 años y acumula 13 títulos de universidades prestigiosas como Harvard, Yale y Stanford",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFpnamRyT2pUZ3QtODRIN1ozVUFMUzhkZTZmOW5kNHVYbTBJSVNYRnVsYkdVck9tMmVqTVlEV2hxS25VZ3NiZ05wdzU1QVRCTzg2bTlzT0hudEFJVHBIN2d3YV9uLWFQWFZWbWZfTXpSbnFBLWRleVRpN25CdnY0RGRaYlhhaTQ5d29nXzlJMnJ1YUxuNDI0WmJoSVlHNUJNQ2xSaHdB?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 21:35:27 GMT",
-      "description": "Tiene 31 años y acumula 13 títulos de universidades prestigiosas como Harvard, Yale y Stanford CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "US, Qatar to help Venezuela clear regional development bank arrears, sources say",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYnZ1a0tWZGRjN19GNkZNS0JoYmlDZGNHSkVZMmM1d2xsTEN1QmhsNkZtWVZfelZCUzdid05hSkVYa0hNVmpRazY0MUtWdWJQR2FydkFUeWtqZUotbXVvQ1JPVWg2Y0tGdWZOQ0hHUkNLRGh6Nm5SMjBNVldmRm1YZU1iaG5DSjdaSmFTcXpIdDZwUExwOFQzNWxSMk1QV1NaWWVONy02Y2FSa2xZbV8wUWMtd0h1clBxZ01aYTdpd0xYYjZMXzVrVQ?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 21:29:03 GMT",
-      "description": "US, Qatar to help Venezuela clear regional development bank arrears, sources say Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Venezuela derogará una polémica ley que castiga a quienes \"apoyen llamados a sanciones\" contra el país",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWVSaHZwSmM3WGJkR3FjZElUTFNTMGxzd28tYUQxazh3TkFTVmlVd3lEYW9XaUhRQk5wbmtGY3FuZ1RKRC14d0ZHazR4RjM0bHpvOWRXT05qdFpIUUJ5LTFfYU1SOElYUWdEc0s0Qk4zXzZONk50NVhLQVg4cDNfa1Z5WkVTdTVrLTZRQjZablNPNEVYZ2NINTFocDVTV1hXdUt3?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 20:47:00 GMT",
-      "description": "Venezuela derogará una polémica ley que castiga a quienes \"apoyen llamados a sanciones\" contra el país CNN en Español",
-      "source": "CNN en Español",
-      "outlet": "CNN en Español",
-      "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "Líder opositor venezolano Edmundo González Urrutia dice que estará de vuelta en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVDJrR2NYS1o3T0RpeURNOFgyVzRzMlpralk3OVB5RUdiYjFELWdMQnlNTmQ1Y056QmdxMTMzcWxPREFpTFh3cGpweTlWdzVIcFRiaXIxVEVJWEl3eDFyLU9adF9GdFZnck1FUEVFSlJXNWh2SWtacWdERlRQOWNPYmhEeWxsQXBfVlJua2JNYUoweHhFeE9lcHdnNWcyaXJGR2V6M25UZFdRVFhucmtRQm1FYkRUNzjSAbcBQVVfeXFMUFBOVWJQVlBOMlk5NzJhOWVTYkdRTndwZ2ROQk1hU1FORGtwei05OXliS1FheGlkQ1dYYzJHZ0lSZVdXMHFLVHJnd083dDhSWTU4Q3VYOTM1VGs3akFBR05yYWlIUWdDOGRZWnFXRFV5QXIxaklUcVZxNl9EZGpuZmJqTG5QUmJ5VnZHNGEyOXFPeUl1aHc3Q2htdWw2Y3JJaE5qWFNHYWMyWERRcEg2VlhKV0FFTDU4?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 20:45:52 GMT",
-      "description": "Líder opositor venezolano Edmundo González Urrutia dice que estará de vuelta en Venezuela DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
+      "title": "Mentiras y medias verdades del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbHZQS243X2xhRlRSejhGVWE2ZWtYdTdtTDFnUlBaT0J6bG52V3c3dm5rRHN5SFRfa2VsYUdOWmx1alVzV2Naam5RMkN4S2RnSGdNSDA0SDJJQnhiUDdESVFGVkRmeGUyeVlySU1vUGVUbE4tODQwR1pDdFoxQm1Fcm96ejFMcWJMRGJmajdQcGhQb1Jnb2M3ek8xWlpHMlc3Z2NhR2Q3RGx0R0wxMkpueXpJakJzaDNJTVdJXzV6TDFaOFdVOFBnUG9sS1JaS3dHWkNVZTRhbXZhYk9aTzZpaWtfVldMRmtvZTlaMtIBgAJBVV95cUxQTWZpT0VFT3dMV1FrbVFSSnNESGdRc1poNlZ6RVprZnNuZEdIUFFYRmgxZXI3NlN3enJlRVBXNkRvelo2cTNZWUIxVG5Ec1pUbTJQUFVkVzFTU0lUSjVQZ3FpbU1pLTFTUjJvRDYxcEc5aWtUQmt6Z1B0ME9ycFpTNEZUbXlzOHhxSFE0a3NEdXI0YnJ4Tm84ZEZZbjh6cGg3dzFsaU1ZZ1FEa2dEZUIwM1NvRU93SmJMWGRMY0dLbVNIcjIxdnhzN0F1TnRPbDZQM1NSR2Z6bXhzaExjb2F5WHEwSUFuOFROSUxDVTVzSGVOWHBwVFFUdnE4b0ZuM2ta?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 22:17:00 GMT",
+      "description": "Mentiras y medias verdades del debate electoral a cuatro entre Sánchez, Feijóo, Abascal y Colau EL PAÍS",
+      "source": "EL PAÍS",
+      "outlet": "El País",
+      "domain": "elpais.com"
     },
     {
       "title": "Lionel Messi y el Inter Miami buscan una remontada inédita ante el Columbus Crew",
@@ -217,15 +245,6 @@
       "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Trump y Sanders tienen razón: todo depende de cómo se mida la pobreza",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa05BMXR1elJEUHJOUy16VkR4WWtGaTNydU9ZYW1VVFNJNFpNaDZta05GREt3Q2dQN3M4UnlaVGF6b0M2SkdjQTExRkM2cDJ1Tkl6VHF5QUkxTTFRQWNpS1pjcmpZbXRxNG55a3lQQ3FZaEw0bDRTdzN2cWo5YWp4X2NKdWFySXN0QnZ5M3dtRlNCOFpfbi1F0gGXAUFVX3lxTFB2YjA4Q1ZiQ3RhQ2ZzMkJ1RFFXcF95VmU3d25Ialk5TzNXVVFOYjZoM3J3MWRqNVd2aE5MRmdHeGdLcjREUjRqVjhqV3BqcC1nbXJTTXVPbWVsdUN4a211OEFVaWw3WkVQazNkcUV6VHVYbXVOclhkNmdUeXVXZTFtMzhXd1JoU2lydlcxTDBWMFZwMWdZTlE?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 19:36:14 GMT",
-      "description": "Trump y Sanders tienen razón: todo depende de cómo se mida la pobreza DW.com",
-      "source": "DW.com",
-      "outlet": "Deutsche Welle",
-      "domain": "dw.com/es"
-    },
-    {
       "title": "\"La suerte se le terminó\": el migrante que fue detenido por ICE en EE.UU. días después de ganar la lotería",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9HS1dwUUtTcTJzdi1QUE5MRTZxenBlRXB1TUlUeTZJZ2NWS1RFeG1wRW44bVdNVV9PWTU4QW44c19hSDY0SEhKN1lPTHMzU09Vd0Z5b2E0OFlmYU500gFiQVVfeXFMT3dWTkdIeEhfOHc0eW5tbmdtTWs0TFA3bkdmZHJHRnFqcHNxc19kUUtmSjRocngyZi1mSHFHc3FvQllsRGVqQnBLcWFoMlRxSERhY2RzVi1QeDc3bTlEQU9Ba3c?oc=5",
       "pubDate": "Thu, 26 Nov 2026 17:39:39 GMT",
@@ -235,31 +254,22 @@
       "domain": "bbc.com/mundo"
     },
     {
-      "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1FZTRRN3FFYnRWcUhaam5aUU9mMDBOM0JUYW5HWnFrV0tzWkd0Z3ZqTzB1RjEybkZJS0NNc2d5TEJRbl9yd2FjVG1wR2tnSExlMENaZkNWbHdxbXdK0gFiQVVfeXFMT0VQNlhNTXdjUkhUNk15czdjTGRYeUVFeVRaTEZaczNESDVWZThCbHd6Y0RtaTl6Slh1c0RubTdOMUVPUUZFMndzRTRfaWNOQWFPb0lMYXVYbFBPcDVNZmVFN3c?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 16:54:21 GMT",
-      "description": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
+      "title": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdXN5dVlnU1BLWlRDa3ppQTB2SWhQVmsxV1V6bmlOd3JRZ3pXSUoxVnBxUS13QWl6cTdMeHNCWlJ5UFhTN0Rlc1FIMFVyQWxzQkVHNzU0NWF4UmpsZUJBN3lFV2lJUU9MNlR2N25sT2R6a0ZuRG5WQkpNdDJxQXJuUFFjUHlVWDJaajFnS0FKSVkyMkZxdFlsUFFxNzJSQmlFYUdCcVNWMmphdUM4dVR2VXY3QkhrcXZ3Zi1EVg?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 12:10:00 GMT",
+      "description": "Artistas abandonan Facebook e Instagram por temor a que la inteligencia artificial les robe el trabajo CNN en Español",
+      "source": "CNN en Español",
+      "outlet": "CNN en Español",
+      "domain": "cnnespanol.cnn.com"
     },
     {
-      "title": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para lanzar 1 millón de satélites al espacio",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tb0h6eUJ4OUdBMkRpeE1hSGc1Y2hZMWF2Z19CWHpXTzRmUTFaaFpVSm5fbWtsdy1reWZ1al83UTR2bXpycVhiVk9SUERIanFwb0RuWHBBM0dtblFp0gFiQVVfeXFMUGRhRExKN3dVNHctWV8wSFNUbUtxRms5MVlacjJ6MEZqZ1ZnS09uOHFRSFJsdTQ5YXQtaW5uaTc2REFrR1RtRkZNRHh1YzVIakhWTWRTTXIxVHFHMnJGeFNXLVE?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 16:04:32 GMT",
-      "description": "Starmind, el polémico proyecto de Elon Musk aprobado por EE.UU. para lanzar 1 millón de satélites al espacio BBC",
-      "source": "BBC",
-      "outlet": "BBC Mundo",
-      "domain": "bbc.com/mundo"
-    },
-    {
-      "title": "Musk dará dos acciones de SpaceX a cada niño de Estados Unidos en una operación de casi 17.000 millones",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaHNoVUR5cHlRVktISWd2M094VTZ0bmdyMnFQSzliNjdCZVY5d0VDYWxCdlY3ZDdYT1liV09QVUw2dFQ2R2lqRy1YNmtTeEFjNEhFQnE1RTBUMzd2bWlXRjdOWktXRkxYV09saWRiMmpNOE15N1d6cVg0NGNLdlhJNTdJVFhKWVRETjZIalF4WmtEbUgtOE8zVGFhX1hCWkFjSjlfSG83ODBYb1BIdDdyRnBTeWNGM2hSckJtbmFvbHl3SFpXTXkzekJRbk5STzA3bmt6Zkl6WkJfNHJreV9r0gHzAUFVX3lxTFAwOW5MYVozRkRnMFFFcXlhSWo1WmlEMnhjQ3dKSWxqZjFTYWEwVG9MSVhyTGtMV0hYSmEwTkVzQmszb212MWRrVVZzZ2FfdXVqelA1Q01oenVUdGJlSWpIQmRHY05aSDhYTXlIQU1NRFdxMUhQTGNOY3FnUzlpMkdWMlVxOUFOdF84OTFla1BYR1FwSFNGT0ViX0NsOUJKR0s1anpuYWZrZTZOUFZlU09VNU43eGZWcW4yRTFyaUw5aVl4Zm5qYldJejFPcEZmZUg5enRUVnFGOHNVRVZFRng3azV5TUNsaUhvQldpX1BVV1hYVQ?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 09:44:11 GMT",
-      "description": "Musk dará dos acciones de SpaceX a cada niño de Estados Unidos en una operación de casi 17.000 millones EL PAÍS",
-      "source": "EL PAÍS",
-      "outlet": "El País",
-      "domain": "elpais.com"
+      "title": "\"Inaceptables\": China, la UE y otras grandes economías rechazan los nuevos aranceles de EE. UU.",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQmJBRlk5N0tRN0RzNXhQckhoRmgzOE9SYmwzc1ljaEYxM2N1VlhoajYwb0VXeTRQZ3AwZEJMeFFSWWM3RlUyVDdDOThNTDJBV2kxdWRWSjFlR3VEMXVxWHZmRXcweW5FOXpCcWdhMldsNzhSSlBVbE0tUE00bnFyWXlHSXAzOVpFa0xINEZtWjhuLXloUHVQRG1MOWhQVF95bzNlVFQ5OTVVZHFTeHAwcTdWUE02WDU3OUtXdnN2VjR6cEdUVk10YUZyb2xsVkxyUEFnNmFWY3RLOHd2TXpSc005VDE0VEhwTGpDcUZUWTgtTElTVkE?oc=5",
+      "pubDate": "Thu, 26 Nov 2026 09:41:36 GMT",
+      "description": "\"Inaceptables\": China, la UE y otras grandes economías rechazan los nuevos aranceles de EE. UU. France 24",
+      "source": "France 24",
+      "outlet": "France 24",
+      "domain": "france24.com/es"
     },
     {
       "title": "El testimonio de Ximena Santaolalla desata una ola de indignación sobre el abuso sexual infantil en México",
@@ -287,15 +297,6 @@
       "source": "CNN en Español",
       "outlet": "CNN en Español",
       "domain": "cnnespanol.cnn.com"
-    },
-    {
-      "title": "De'Anthony Melton anota 24 puntos y acierta 8 triples en triunfo de Warriors 129-110 ante Kings",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlM2OUt4a2lYYVFMTTlDbVoyc01mendhZEFoQm1EZk1nbXpZUGEtTWVETkV3VnM1cnVDVlc0UTNYWVZHX1hiRy1veGk2UWwxcDhfZ08zcXQwM3cwcEVzNk9yeXBqVXZQcmd3R1otbFpSaDUwVlJkZ3BzclZWNlNERWFqTE1EeENQMU9YZlE4cS1ZSEZmWFgw?oc=5",
-      "pubDate": "Thu, 26 Nov 2026 06:02:00 GMT",
-      "description": "De'Anthony Melton anota 24 puntos y acierta 8 triples en triunfo de Warriors 129-110 ante Kings AP News",
-      "source": "AP News",
-      "outlet": "Associated Press",
-      "domain": "apnews.com"
     },
     {
       "title": "¿Cuántas horas de sueño son demasiadas?",
@@ -334,40 +335,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "Miss Universo 2026: ¿quién controla actualmente el certamen?",
+      "title": "¿Quién controla el certamen Miss Universo? Es sorprendentemente difícil saberlo",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDQXhkVXJUdWh0VnNrWnZqV3ZERl9KUnpaN2t3cEdBSW9uQ3FITmZxVlQ3YkxEUEVDRVRmWHFEU2RqSk9ma056MDFaYXdWV1BsakhsQWtXNkFxdlN6ajhHei1OS0JPUjQ5ZEdERUNfUE03VEZMa2FrYg?oc=5",
       "pubDate": "Tue, 24 Nov 2026 20:46:05 GMT",
-      "description": "Miss Universo 2026: ¿quién controla actualmente el certamen? The New York Times",
+      "description": "¿Quién controla el certamen Miss Universo? Es sorprendentemente difícil saberlo The New York Times",
       "source": "The New York Times",
       "outlet": "The New York Times",
       "domain": "nytimes.com"
-    },
-    {
-      "title": "Colombia: rescatan a todos los rehenes tras más de 16 horas de toma en un supermercado de Cartagena",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdE96R25HSmpxQW9HXzUySWt6UldiUC1pRXQxZnNjcUFZVnQtT1I1MG14UFpyYmRkb0o4TlhudElmRXF0YVNsWjd1OWxDQlo1aVgyS190eVBRbnhQc0lnVkpTaVFsdDl1S2lkM2dhTlkxXzNQeVNYb3ZmXzFnaDI3S0JpWHlyVGJZYVFGSVVJRkRGOW5qNjBfZTd3OEpBaUs5RUp3ODBnUDN6UmxSZlBjNFNpU0hWVmlUUnduV2dIeUQ1S3NrX1RQSFk0WGZ5M2g2N3p1WGFuTnhVRFFsQ0N6N05TZGtOenNmalVMbWtVZlVBQQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 19:05:02 GMT",
-      "description": "Colombia: rescatan a todos los rehenes tras más de 16 horas de toma en un supermercado de Cartagena France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
-    },
-    {
-      "title": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakxRRS1xODNKVEMzdlowcjUzd2g4amNoV0JSSzdQc0JEUXg1WWxSbGxOaGhYWDZWSlQzeldBelpvUnpXb3g3bHdMUWd4NWhiZFJRZnEtSWU4TDBXS0Q1Q21CWE9QUkxkT2YxYVI5MzlJNkVJS3FRZ3NuMG90Y0JBMFNKRGEtOEhlOUktTVJwU2hoSHVVVW56NXI0ZlZIOHo3TGt0UTc3VnA4VlV5MGZoTmlfS05qQlpQcWpiUWNtSjI?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 14:43:00 GMT",
-      "description": "Venezuela reveals $237.5 billion debt pile in key step towards restructuring Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "El TAS devuelve a Senegal el título de la Copa Africana de Naciones y revoca la decisión que favorecía a Marruecos",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNU3JHRnJuWGtxOWNVcmQ2Z1Vsc3pGSmZaX1RpTDB4a3I1dlkxOC1wdG9xcnFIS3g3UF8wWHRmcmRxOUs1cFVGMDNLaGpBWXVXWHhQU29NRmRoOGNlZWljMDBoY3QwU3YtY2toY3FyZVpVOG9wdV9sU3FocGJGWlpNeTNQOEZNZzU1WVNhYzA2dmJURjZwZlFJWUVzUmExNXhwdG1QVmVoZUNqajNpV2VEUmptZmltTGI5aHdnc3ZJaHFGcDU0c1FEenNNbjJkY1cyV3NJYXhxcXRCeWxMSFNXaU91LW9MVFpMRGVQcGRB?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 12:10:49 GMT",
-      "description": "El TAS devuelve a Senegal el título de la Copa Africana de Naciones y revoca la decisión que favorecía a Marruecos France 24",
-      "source": "France 24",
-      "outlet": "France 24",
-      "domain": "france24.com/es"
     },
     {
       "title": "En directo: Putin afirma que Ucrania sigue atacando plantas petroleras rusas pese a las peticiones de Trump",
@@ -397,6 +371,15 @@
       "domain": "france24.com/es"
     },
     {
+      "title": "Pochettino vuelve a la Champions con un United en apuros. PSG y Real Madrid siguen perfectos",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTVJY0JoUkhmajBqY3JpWUVHX1E2QW1iMVN2MmRPZTRFcTgwUktFbFVhRVl4VXV2QzdkUFRUTkpXRFJIZVN1SkNEVWVvZ2c3dXhnQlBSUDRyMThiQnFia2p5U0pQUm14U0szVWQxSUZvMmJLZjdoRUo4dDU3c3NnOWlFcXhjNXZ3VW5pVW1sRDNDaDdOUmwxVDVpWEtRRWNtQVA5TkN3VnRVeHdrVEVHMW9ad2ZOSGRFaEZtdnY1bDM?oc=5",
+      "pubDate": "Mon, 23 Nov 2026 16:11:00 GMT",
+      "description": "Pochettino vuelve a la Champions con un United en apuros. PSG y Real Madrid siguen perfectos AP News",
+      "source": "AP News",
+      "outlet": "Associated Press",
+      "domain": "apnews.com"
+    },
+    {
       "title": "Venezolanos campeones del Clásico Mundial de béisbol son homenajeados meses después de su hazaña",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmo1NHV3OVFJT0VRaXdobVVMOC0xOURJQkhRd25ZU3BTYlpjMFlvc2Q5ckhGa0NkV2N3VS11TzduekxYOGk4NThxM3Q2S1hmN2F3dHBQMjliaUtzQTRXWWp0X1pGVlFORVZzUUlYckwzbFN2emNvM0E1YjI4eWRNdllIbVYyU0lXY21FQ2Y2Ujd1ZV9NUWF6V1pkSnAxWjF0ZlFPQm8xT0Y2UXVyMDFjb2FxNWFWZVk?oc=5",
       "pubDate": "Mon, 23 Nov 2026 03:18:00 GMT",
@@ -424,13 +407,13 @@
       "domain": "nytimes.com"
     },
     {
-      "title": "EXCLUSIVE: Canada's Ensign plans to grow drilling rig fleet in Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTVRhNlBHMXBVMHl2cjVaVTVYanJQZE1FaTY4Sk9oYzJlQURIYmN1Tlo3NXZvU3VvQUp0OGdtV25FLWRjeS16c0dHVVZPdW5GTFZZQVRqaDdLWlJURW9EMm5wcEgzbVI3ZzdxMWM0ZlV0eVJzU2FVeGFmcDFPX252N0NiX0Zpb3lLa1FtMURDRTZvSUFzcnpyMVZMcWEtb3lPOU11OUU2aDd5QQ?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 19:36:06 GMT",
-      "description": "EXCLUSIVE: Canada's Ensign plans to grow drilling rig fleet in Venezuela Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
+      "title": "El Chapo Isidro es capturado por el ejército mexicano en un enfrentamiento armado",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2tOaS1zUUZVUGlGQnQ0ZG00MmYtUHR5dUJTTGxfLUNBSkEzZ2Zvb0VvNjFPdVBoWm5HSGJSYndaV0o0Q2RZSnVrd3ctWGZjNGdwVjE2RFZxSEFWLXUzWUJRQnRNSDh4dFprQnd1c1RCYTEtUHFuZUFucWRnQzlXRHVtMmc3NTBDR1ZLOEtiU3U4UUNXb1lBSC10UQ?oc=5",
+      "pubDate": "Sat, 21 Nov 2026 17:33:00 GMT",
+      "description": "El Chapo Isidro es capturado por el ejército mexicano en un enfrentamiento armado The New York Times",
+      "source": "The New York Times",
+      "outlet": "The New York Times",
+      "domain": "nytimes.com"
     },
     {
       "title": "Grupos de derechos piden sanciones tras fallo de ONU sobre genocidio en Myanmar contra los rohinyá",
@@ -442,33 +425,6 @@
       "domain": "apnews.com"
     },
     {
-      "title": "Amenazas, insultos, conciliaciones: cómo Jensen Huang hizo que la humillación fuera rutina",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVEFMbHQyTlFnd3ZCLS1RbWZCa0VtOHVlY0g5RzlGVjBYMzhwQ2FhRlowMGE5RnNHaC1vLUNrOUNZYmtGU1FXcFU2M3d5dkNhUUF1alNEc2JFSTJmYzlPRzFudmlPeXA4U3BVTGZCMGhVTFZXUWlPMXdSSVNUYzNDQ0JDSUd2djcwbzEtMkVkbXNGOXZtNFE?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 17:24:43 GMT",
-      "description": "Amenazas, insultos, conciliaciones: cómo Jensen Huang hizo que la humillación fuera rutina The New York Times",
-      "source": "The New York Times",
-      "outlet": "The New York Times",
-      "domain": "nytimes.com"
-    },
-    {
-      "title": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3NIMFlEOTNmNzRFX3lnSlN6Uy11NmF4Xzdubmc2ZkNfeHdZRFFGY2trbjMwWTM0OTdZcFVoNlQzM3RiUHhGV0RQa0ZUcklDOWVSMGJBNDI2TzV3VEV0c2J4ZVVaYkwwTXEzaExkcElWTG9GZ3ZPOUZMX3pIc29iN1EtOEM2V3dETnA4YTFLaTQwZU5qMUFvcmFHMFVqZHlBcENYaUdDeHk0SFYyc2pxNg?oc=5",
-      "pubDate": "Thu, 19 Nov 2026 16:17:43 GMT",
-      "description": "Mexico's Sheinbaum hopes to seal trade deal in next meeting with Trump Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
-      "title": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2FLd3hqa2NhZzVyWkNPMXhZWlZ0NGZzcUJoNmlOOGlCSnNtVXlfbGgwdWxYb0hpbWVCc1dtLTc2Mmt0MzJTUjRkRVpqWWNBa1g1bV9JYmU1N19XSDk0eVk3elJOY0p6cWZnSVpMd2JSajNZRHR4THJ0MjZSVkFXM1NZdE1RVmhONGhHVUNidG5USmxNbUVBRHFHZnh2VWJ1NlIyVVp3?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "description": "Pope Leo misses the catch as rosary from crowd hits his eye in Peru Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
-    },
-    {
       "title": "Trump respalda restituir al director de Nvidia pese a acusaciones de que tuvo amorío con espía china",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTU0xU296eVdYRDBwT1FsaG43WnNzaUVxN2VpYWtiRUpYdXhnUHdUN1JKZkFWOWJJa0FLSUdqWWlvdENjUElla3BwMkplenFVLTZsN0E4TUkzOGRsYVZGMENtbEFmT1NfcGNVNEtWS2FsYUx0MG9UY2ZPY3g3RUNILW1FVjUxNnFuU2xVcnBRd0pLRER3aXhFTmVva05FQWpoOUdhN2Y5MWlOcnJXcXc?oc=5",
       "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
@@ -476,15 +432,6 @@
       "source": "AP News",
       "outlet": "Associated Press",
       "domain": "apnews.com"
-    },
-    {
-      "title": "Spain's Melia returns to profit after completing Cuba exit",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM3duTlYyeGo0a0p0cWpQSnFiSXVsT2wycVBKcFNPWjV1ZmxBbkZ6STN5enRHVmdNcE9LMk9aSUwydmNZdHlCOFJMWGUzdG1LbXB0QmpuZnF3eE5qRDFLcG8zRnhsNXBmWC03UnhSRldZQzVPZmVoQkVTMkZHMjJWY1ZxQS0wRTF6M0UtQmR5LTk5SVU2cExsQWx2NkxhdW5f?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "description": "Spain's Melia returns to profit after completing Cuba exit Reuters",
-      "source": "Reuters",
-      "outlet": "Reuters",
-      "domain": "reuters.com"
     },
     {
       "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
@@ -505,10 +452,10 @@
       "domain": "theguardian.com"
     },
     {
-      "title": "Advice | En ‘la ruta del lechón’ de Puerto Rico, 4 lugares para comer delicias asadas",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1bkFLdTg3WjZqbzRBN3VJdS1STnd1WVFSRUcwRERfUW51MFJqUWwySUhpT2VkN3dwVV9tR2FreEZIbjNySlo4Y0FuMlpaZkJUMzRwOWMwNy1aN1JvZjBpbENrMzViTE1wUW9fNWhrbXEtcDZFcHlUZ2VB?oc=5",
-      "pubDate": "Wed, 26 Oct 2022 07:00:00 GMT",
-      "description": "Advice | En ‘la ruta del lechón’ de Puerto Rico, 4 lugares para comer delicias asadas The Washington Post",
+      "title": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamF5Z2VwSnlHUXdFVkVOS0ZndTVHaTFpS3YzVHNmUHZkRkh6U3NSVENrc0FBaWJkQXVOM244OUhjTjV6RUdWTDFlVjFMZVNSVDQwS1lwUzlSZlB6NVNDZXZySnE1bHNWcW1SeVZBdHR5X0lRZVQ0VUVMYi1qUmZZR01NMm1hN0Vwbjl1cjJuLXlKRzZnOExNbDM4N0hJRFFrNzlUSkI0QUE?oc=5",
+      "pubDate": "Mon, 24 Oct 2022 07:00:00 GMT",
+      "description": "Opinión | AMLO quiere minimizar las revelaciones de Guacamaya, pero son gravísimas The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
@@ -523,10 +470,10 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | No basta con decir ‘no a la transfobia’, hace falta posicionarse abiertamente",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUxKeWU4RGl2cEl2dDNxeUxGOEp5RWNudF80V3B6aVF5M0tQTGIwcHpBMkZUajc4TWQ4T01HYWlkWHZudjlqV2Z2WHVpcUp6QUplRUViVVVQc3hvb2N4V1dzdXNHRVdzR19KTFM5S0N3QVZzZ3J6U2JadE9mc015LWVVXzRjeXc4VVh6Zk5DMnZ0d1JPNDlmaTVCMFRKU1gzcW9kNGxXbGVjeVk4R2sxNWxWMDVzampx?oc=5",
-      "pubDate": "Mon, 29 Nov 2021 08:00:00 GMT",
-      "description": "Opinión | No basta con decir ‘no a la transfobia’, hace falta posicionarse abiertamente The Washington Post",
+      "title": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmhISmJmUkcxaklFaWU0cGR2c0R3aWVKVTFRUDdOUWY5UktKa09waFRPS3FhNlF2dXBlcU5CNlo5T3Z1OWtxQ01YM2pSUnZ4WjZpSWlQczEybmlZNDFqWkdyUEM3REtQYXNjZmk1X05ZRVlYY2lOZXE5bWJBdVFqNUhzZzBrV2JTMDlONWJyUzVqTzZXcVJqeDBTMzByaWhHcnY2OGswNUx4X2lYcHhR?oc=5",
+      "pubDate": "Sun, 31 Oct 2021 07:00:00 GMT",
+      "description": "Opinión | No hay una sola razón para que los cubanos no salgan a marchar contra el régimen The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
@@ -541,19 +488,19 @@
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | Las consecuencias del falso golpe de Estado en El Salvador",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUERTUmJLWkQ3Qy1wU3hKMGNCZ3Z4NkpyMXlDV0ZoVXo1ek1odGZPRUdKNWo3Rm5MWThvSXVMZHFiVW1mdXdzdTVSQWJUQlFaUmZwQXl6bWVxZGJUaVBjWEl3VHpjOFJDNGg0UkFVc3hCSFpUSVhuZnd6eHE2b1dMcTVoUExmZXFXRTh5aVhTcGVwSzdBSmVhXzVBd3RKZkVxRi1pZWdMbW4wbm1IdTNVX3JfdWNqWGo4?oc=5",
-      "pubDate": "Mon, 10 Feb 2020 08:00:00 GMT",
-      "description": "Opinión | Las consecuencias del falso golpe de Estado en El Salvador The Washington Post",
+      "title": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves.",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazYxd25tRm5XN2dCajNjN2JmRDBIUjRFTU9mcVNTemp3QXdvSTFaU3doTkRsek84SHEzQkFxM2w5dmxIcEc0VHF6WkotR3p3Q2FIeVNzMEZtMmdoMGFYOGNTeFI4Sk9od3NhdFF3eTNfMlI3aFJtZzZWS0VfeTFFd2JER1kwc0ZtcGd6LWluTXZCbjBrdkNDVlFCRWIxel8xd1IwNmg0bDh2OUVBMXljQmY3VQ?oc=5",
+      "pubDate": "Wed, 07 Oct 2020 07:00:00 GMT",
+      "description": "Opinión | La propaganda de AMLO es un éxito. Estas son las claves. The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
     },
     {
-      "title": "Opinión | ¿Cómo ganó el Cártel de Sinaloa la batalla de Culiacán?",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmdCU1lYZ1dpbzNJVjRDbloxa3hoTk9KcXV0aXJQVE15NFNNbk5JRlZwam92S1FPUTdBbkxBYlBZeEk5SHBHNkhMcC1JQWM1OEhxQlZ5eGd3cUtCZXF3MzNyUTdpLU9DZzhObHFFNkl0RjR6OHZoYy1kWlFqdDBrQUt1N2FxYUVtSVhtaTB5Q1UtOWVCVVpOQWI4aVltWm42Q2xQZ0tLM1RKSG5iZDQ4cFNn?oc=5",
-      "pubDate": "Sun, 20 Oct 2019 07:00:00 GMT",
-      "description": "Opinión | ¿Cómo ganó el Cártel de Sinaloa la batalla de Culiacán? The Washington Post",
+      "title": "Opinión | Las casas de Sandoval y Ackerman reflejan el autoritarismo del gobierno mexicano",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUFhXMmFVUkhvZXhIaVJGRDkyeHJEcnY5dDE0LUhKcmRoU3hZeWVyNmpjeEVWbGJ4ckx0WWxsZDFqM21uOTdqN09VM2lCMnF3UWtkOWZYbldSS0VpOVFVdnlsUXhLMEVBMWNIMjRhejJsdGp4akFLRkxLSmh2MmU0cGhWNlVRaWQyQ1dKMUcxV3FpSm55ZHIwZlNWSzFyV2UyVGxtcVlMZGdKRlJ3S09FUk9xdEl3dVM0ZF9YNE9vMjMxTi03TmgxclBzX0hPQ1pzaDk1SWV3?oc=5",
+      "pubDate": "Sun, 21 Jun 2020 07:00:00 GMT",
+      "description": "Opinión | Las casas de Sandoval y Ackerman reflejan el autoritarismo del gobierno mexicano The Washington Post",
       "source": "The Washington Post",
       "outlet": "The Washington Post",
       "domain": "washingtonpost.com"
